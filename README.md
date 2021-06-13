@@ -16,3 +16,6 @@
 # Quantum Chemistry and Electronic Stucture
 [molgw](https://github.com/bruneval/molgw): accurate many-body perturbation theory calculations of the electronic structure of molecules, by bruneval
 
+# Strings
+[M_strings](https://github.com/urbanjost/M_strings): routines for parsing, tokenizing, changing case, substituting new strings for substrings, locating strings with simple wildcard expressions, removing tabs and line terminators and other string manipulations, by urbanjost
+
