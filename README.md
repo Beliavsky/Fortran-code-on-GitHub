@@ -11,6 +11,9 @@
 [fortranlib](https://github.com/Guymer/fortranlib): collection of functions and subroutines by Guymer  
 [stdlib](https://github.com/fortran-lang/stdlib): utilities, algorithms, and mathematics codes for a Fortran Standard Library, by fortran-lang
 
+# Neural Networks
+[fortnet](https://github.com/vanderhe/fortnet): using atom-centered symmetry functions to characterize local atomic environments, Fortnet provides easy access to the Behler-Parrinello-Neural-Network architecture to predict atomic or global properties of a physical system, featuring powerful but optional MPI parallelism, by vanderhe
+
 # Numerical
 [forlab](https://github.com/zoziha/forlab): module that provides a lot of functions for scientific computing mostly inspired by Matlab and Python's module NumPy, by zoziha  
 [SciFortran](https://github.com/QcmPlab/SciFortran): modules and routines for scientific calculations (*in a way* just like SciPy for Python), by QcmPlab
