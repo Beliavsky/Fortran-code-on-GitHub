@@ -7,6 +7,9 @@
 # Code Tools
 [prep](https://github.com/urbanjost/prep): Fortran pre-processor written in Fortran, by urbanjost
 
+# General Purpose
+[stdlib](https://github.com/fortran-lang/stdlib): utilities, algorithms, and mathematics codes for a Fortran Standar Library, by fortran-lang
+
 # Numerical
 [forlab](https://github.com/zoziha/forlab): module that provides a lot of functions for scientific computing mostly inspired by Matlab and Python's module NumPy, by zoziha
 
