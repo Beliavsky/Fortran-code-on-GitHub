@@ -35,6 +35,10 @@
 ## Quantum Chemistry and Electronic Stucture
 [molgw](https://github.com/bruneval/molgw): accurate many-body perturbation theory calculations of the electronic structure of molecules, by bruneval
 
+[NWChem]:(https://github.com/nwchemgit/nwchem) Open Source High-Performance Computational Chemistry
+
+[q-e](https://github.com/QEF/q-e): Quantum ESPRESSO suite of codes (ESPRESSO: opEn-Source Package for Research in Electronic Structure, Simulation, and Optimization)
+
 ## Strings
 [M_strings](https://github.com/urbanjost/M_strings): routines for parsing, tokenizing, changing case, substituting new strings for substrings, locating strings with simple wildcard expressions, removing tabs and line terminators and other string manipulations, by urbanjost
 
