@@ -4,6 +4,7 @@
 * [Code Tools](#code-tools)
 * [File I/O](#file-io)
 * [General Purpose](#general-purpose)
+* [Interoperability](#interoperability)
 * [Neural Networks](#neural-networks)
 * [Numerical](#numerical)
 * [Quantum Chemistry and Electronic Stucture](#Quantum-Chemistry-and-Electronic-Stucture)
@@ -32,6 +33,9 @@
 [fortranlib](https://github.com/Guymer/fortranlib): collection of functions and subroutines by Guymer
 
 [stdlib](https://github.com/fortran-lang/stdlib): utilities, algorithms, and mathematics codes for a Fortran Standard Library, by fortran-lang
+
+## Interoperability
+[Fortran Language Compatibility Layer](https://github.com/kokkos/kokkos-fortran-interop): API for Fortran to C and C to Fortran multi-dimensional array interoperability, from Kokkos
 
 ## Neural Networks
 [fortnet](https://github.com/vanderhe/fortnet): using atom-centered symmetry functions to characterize local atomic environments, Fortnet provides easy access to the Behler-Parrinello-Neural-Network architecture to predict atomic or global properties of a physical system, featuring powerful but optional MPI parallelism, by vanderhe
