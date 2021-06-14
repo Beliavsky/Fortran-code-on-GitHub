@@ -21,7 +21,7 @@
 [prep](https://github.com/urbanjost/prep): Fortran pre-processor written in Fortran, by urbanjost
 
 ## Earth Science
-[cdss-app-statemod-fortran](https://github.com/OpenCDSS/cdss-app-statemod-fortran): tateMod water allocation model, which is part of Colorado's Decision Support Systems (CDSS)
+[cdss-app-statemod-fortran](https://github.com/OpenCDSS/cdss-app-statemod-fortran): StateMod water allocation model, which is part of Colorado's Decision Support Systems (CDSS)
 
 ## File I/O
 [h5fortran](https://github.com/geospace-code/h5fortran): Simple, robust, thin HDF5 polymorphic Fortran read/write interface, by geospace-code
