@@ -13,6 +13,8 @@
 ## Climate and Weather
 [gcm](https://github.com/pqnelson/gcm): Toy General Circulation Model in Literate Fortran, by pqnelson
 
+[ecrad](https://github.com/ecmwf/ecrad): offline version of a radiation scheme suitable for use in atmospheric weather and climate models, from ecmwf
+
 [E3SM](https://github.com/E3SM-Project/E3SM): Energy Exascale Earth System Model source code, by E3SM-Project 
 
 ## Code Tools
