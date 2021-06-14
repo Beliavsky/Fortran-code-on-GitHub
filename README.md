@@ -66,7 +66,7 @@
 
 ## Statistics
 
-[200+ R packages with Fortran code](https://github.com/cran?q=&type=&language=fortran&sort=) R is a free software environment for statistical computing and graphics
+[200+ R packages with Fortran code](https://github.com/cran?q=&type=&language=fortran&sort=): R is a free software environment for statistical computing and graphics
 
 ## Strings
 [M_strings](https://github.com/urbanjost/M_strings): routines for parsing, tokenizing, changing case, substituting new strings for substrings, locating strings with simple wildcard expressions, removing tabs and line terminators and other string manipulations, by urbanjost
