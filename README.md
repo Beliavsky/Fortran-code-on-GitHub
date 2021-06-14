@@ -38,6 +38,8 @@
 
 [forlab](https://github.com/zoziha/forlab): module that provides a lot of functions for scientific computing mostly inspired by Matlab and Python's module NumPy, by zoziha
 
+[NumLib](https://github.com/ebrooker/NumLib): Numerical Library: Demonstration of various numerical methods/recipes, by ebrooker
+
 [SciFortran](https://github.com/QcmPlab/SciFortran): modules and routines for scientific calculations (*in a way* just like SciPy for Python), by QcmPlab
 
 ## Quantum Chemistry and Electronic Stucture
