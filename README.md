@@ -2,7 +2,7 @@
 
 * [Climate and Weather](#climate-and-weather)
 * [Code Tools](#code-tools)
-* [File I/O](#file-i/o)
+* [File I/O](#file-io)
 * [General Purpose](#general-purpose)
 * [Neural Networks](#neural-networks)
 * [Numerical](#numerical)
