@@ -2,6 +2,7 @@
 
 * [Climate and Weather](#climate-and-weather)
 * [Code Tools](#code-tools)
+* [Earth Science](#earth-science)
 * [File I/O](#file-io)
 * [Graphics, plotting and user interfaces](#graphics-plotting-and-user-interfaces)
 * [General Purpose](#general-purpose)
