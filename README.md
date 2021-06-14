@@ -5,7 +5,7 @@
 * [General Purpose](#general-purpose)
 * [Neural Networks](#neural-networks)
 * [Numerical](#numerical)
-* [Quantum Chemistry and Electronic Stucture](#Quantum Chemistry and Electronic Stucture)
+* [Quantum Chemistry and Electronic Stucture](#Quantum-Chemistry-and-Electronic-Stucture)
 
 ## Climate and Weather
 [gcm](https://github.com/pqnelson/gcm): Toy General Circulation Model in Literate Fortran, by pqnelson  
