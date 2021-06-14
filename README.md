@@ -9,7 +9,7 @@
 * [Interoperability](#interoperability)
 * [Neural Networks](#neural-networks)
 * [Numerical](#numerical)
-* [Quantum Chemistry and Electronic Stucture](#Quantum-Chemistry-and-Electronic-Stucture)
+* [Quantum Chemistry and Electronic Structure](#Quantum-Chemistry-and-Electronic-Structure)
 * [Strings](#strings)
 * [Time Series](#time-series)
 
@@ -54,7 +54,7 @@
 
 [SciFortran](https://github.com/QcmPlab/SciFortran): modules and routines for scientific calculations (*in a way* just like SciPy for Python), by QcmPlab
 
-## Quantum Chemistry and Electronic Stucture
+## Quantum Chemistry and Electronic Structure
 [EDIpack](https://github.com/QcmPlab/EDIpack): Lanczos-based solver for generic quantum impurity models exploiting distributed memory MPI parallelisation, from QcmPlab
 
 [molgw](https://github.com/bruneval/molgw): accurate many-body perturbation theory calculations of the electronic structure of molecules, by bruneval
