@@ -3,7 +3,7 @@
 * [Climate and Weather](#climate-and-weather)
 * [Code Tools](#code-tools)
 * [File I/O](#file-io)
-* [Graphics, plotting and user interfaces](#graphics)
+* [Graphics, plotting and user interfaces](#graphics-plotting-and-user-interfaces)
 * [General Purpose](#general-purpose)
 * [Interoperability](#interoperability)
 * [Neural Networks](#neural-networks)
@@ -35,7 +35,7 @@
 
 [stdlib](https://github.com/fortran-lang/stdlib): utilities, algorithms, and mathematics codes for a Fortran Standard Library, by fortran-lang
 
-## Graphics
+## Graphics, Plotting, and User Interfaces
 [fortran-sdl2](https://github.com/interkosmos/fortran-sdl2): collection of ISO C binding interfaces to Simple DirectMedia Layer 2.0 (SDL 2.0), for 2D and 3D game programming in Fortran, by interkosmos
 
 ## Interoperability
