@@ -5,6 +5,7 @@
 * [General Purpose](#general-purpose)
 * [Neural Networks](#neural-networks)
 * [Numerical](#numerical)
+* [Quantum Chemistry and Electronic Stucture](#Quantum Chemistry and Electronic Stucture)
 
 ## Climate and Weather
 [gcm](https://github.com/pqnelson/gcm): Toy General Circulation Model in Literate Fortran, by pqnelson  
@@ -25,7 +26,7 @@
 [forlab](https://github.com/zoziha/forlab): module that provides a lot of functions for scientific computing mostly inspired by Matlab and Python's module NumPy, by zoziha  
 [SciFortran](https://github.com/QcmPlab/SciFortran): modules and routines for scientific calculations (*in a way* just like SciPy for Python), by QcmPlab
 
-# Quantum Chemistry and Electronic Stucture
+## Quantum Chemistry and Electronic Stucture
 [molgw](https://github.com/bruneval/molgw): accurate many-body perturbation theory calculations of the electronic structure of molecules, by bruneval
 
 # Strings
