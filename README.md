@@ -20,6 +20,9 @@
 ## Code Tools
 [prep](https://github.com/urbanjost/prep): Fortran pre-processor written in Fortran, by urbanjost
 
+## Earth Science
+[cdss-app-statemod-fortran](https://github.com/OpenCDSS/cdss-app-statemod-fortran): tateMod water allocation model, which is part of Colorado's Decision Support Systems (CDSS)
+
 ## File I/O
 [h5fortran](https://github.com/geospace-code/h5fortran): Simple, robust, thin HDF5 polymorphic Fortran read/write interface, by geospace-code
 
@@ -43,6 +46,8 @@
 [SciFortran](https://github.com/QcmPlab/SciFortran): modules and routines for scientific calculations (*in a way* just like SciPy for Python), by QcmPlab
 
 ## Quantum Chemistry and Electronic Stucture
+[EDIpack](https://github.com/QcmPlab/EDIpack): Lanczos-based solver for generic quantum impurity models exploiting distributed memory MPI parallelisation, from QcmPlab
+
 [molgw](https://github.com/bruneval/molgw): accurate many-body perturbation theory calculations of the electronic structure of molecules, by bruneval
 
 [NWChem](https://github.com/nwchemgit/nwchem): Open Source High-Performance Computational Chemistry
