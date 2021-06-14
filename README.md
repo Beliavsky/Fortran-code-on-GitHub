@@ -38,5 +38,5 @@
 ## Strings
 [M_strings](https://github.com/urbanjost/M_strings): routines for parsing, tokenizing, changing case, substituting new strings for substrings, locating strings with simple wildcard expressions, removing tabs and line terminators and other string manipulations, by urbanjost
 
-### Time Series
+## Time Series
 [fortress](https://github.com/eph/fortress): tools for Bayesian estimation of time series models, by eph
