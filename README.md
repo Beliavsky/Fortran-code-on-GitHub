@@ -1,4 +1,4 @@
-# Fortran directory
+# Fortran code on GitHub
 
 * [Climate and Weather](#climate-and-weather)
 * [Code Tools](#code-tools)
