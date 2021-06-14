@@ -68,3 +68,5 @@
 
 ## Time Series
 [fortress](https://github.com/eph/fortress): tools for Bayesian estimation of time series models, by eph
+
+[Gaussian Mixture ARMA-GARCH](https://github.com/saveriocolla90/Gaussian-Mixture-ARMA-GARCH): implements a Gaussian Mixture ARMA-GARCH model to fit a generic time series with zero mean and gaussian distributed standard deviations, by saveriocolla90
