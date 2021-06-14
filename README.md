@@ -10,6 +10,7 @@
 * [Neural Networks](#neural-networks)
 * [Numerical](#numerical)
 * [Quantum Chemistry and Electronic Structure](#Quantum-Chemistry-and-Electronic-Structure)
+* [Statistics](#Statistics)
 * [Strings](#strings)
 * [Time Series](#time-series)
 
@@ -62,6 +63,10 @@
 [NWChem](https://github.com/nwchemgit/nwchem): Open Source High-Performance Computational Chemistry
 
 [q-e](https://github.com/QEF/q-e): Quantum ESPRESSO suite of codes (ESPRESSO: opEn-Source Package for Research in Electronic Structure, Simulation, and Optimization)
+
+## Statistics
+
+[200+ R packages with Fortran code](https://github.com/cran?q=&type=&language=fortran&sort=) R is a free software environment for statistical computing and graphics
 
 ## Strings
 [M_strings](https://github.com/urbanjost/M_strings): routines for parsing, tokenizing, changing case, substituting new strings for substrings, locating strings with simple wildcard expressions, removing tabs and line terminators and other string manipulations, by urbanjost
