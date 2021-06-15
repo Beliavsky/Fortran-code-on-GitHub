@@ -68,6 +68,8 @@
 
 [q-e](https://github.com/QEF/q-e): Quantum ESPRESSO suite of codes (ESPRESSO: opEn-Source Package for Research in Electronic Structure, Simulation, and Optimization)
 
+[STB](https://github.com/MRedies/STB): Simple Tight-binding, by MRedies
+
 ## Statistics
 
 [200+ R packages with Fortran code](https://github.com/cran?q=&type=&language=fortran&sort=): R is a free software environment for statistical computing and graphics
