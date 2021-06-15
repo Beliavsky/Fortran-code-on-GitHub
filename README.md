@@ -125,7 +125,9 @@
 [200+ R packages with Fortran code](https://github.com/cran?q=&type=&language=fortran&sort=): R is a free software environment for statistical computing and graphics
 
 ## Strings
-[M_strings](https://github.com/urbanjost/M_strings): routines for parsing, tokenizing, changing case, substituting new strings for substrings, locating strings with simple wildcard expressions, removing tabs and line terminators and other string manipulations, by urbanjost
+[fortran_pcre](https://github.com/ZedThree/fortran_pcre): Fortran wrapper around the C PCRE regular expression library. (**OS:MIT**)
+
+[M_strings](https://github.com/urbanjost/M_strings): modules for processing strings. Routines for parsing, tokenizing, changing case, substituting new strings for substrings, locating strings with simple wildcard expressions, removing tabs and line terminators and other string manipulations are included
 
 ## Time Series
 [fortress](https://github.com/eph/fortress): tools for Bayesian estimation of time series models, by eph
