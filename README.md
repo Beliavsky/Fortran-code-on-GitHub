@@ -45,6 +45,8 @@
 ## Interoperability
 [Fortran Language Compatibility Layer](https://github.com/kokkos/kokkos-fortran-interop): API for Fortran to C and C to Fortran multi-dimensional array interoperability, from Kokkos
 
+[NPY for Fortran](https://github.com/MRedies/NPY-for-Fortran): allows saving numerical Fortran arrays in Numpy's .npy or .npz format, by MRedies
+
 ## Neural Networks
 [fortnet](https://github.com/vanderhe/fortnet): using atom-centered symmetry functions to characterize local atomic environments, Fortnet provides easy access to the Behler-Parrinello-Neural-Network architecture to predict atomic or global properties of a physical system, featuring powerful but optional MPI parallelism, by vanderhe
 
