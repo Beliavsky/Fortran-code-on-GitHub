@@ -81,8 +81,6 @@
 
 [kdtree2](https://github.com/jmhodges/kdtree2): kd-tree implementation in C++ (and Fortran) by Matthew B. Kennel
 
-[NPY-for-Fortran](https://github.com/MRedies/NPY-for-Fortran) allows the developer to save Fortran arrays in Numpy's *.npy* format
-
 [PENF](https://github.com/szaghi/PENF): Fortran (standard 2003) module useful to achieve portable codes. The module makes available portable kind-parameters and some useful procedures to deal with them. (**OS: GPL**)
 
 [petaca](https://github.com/nncarlson/petaca): collection of modern Fortran modules that provide broadly useful capabilities -- things that the author has found himself using repeatedly across many projects. A unifying feature of the modules is their object-oriented interfaces and implementation. (**OS:MIT**)
