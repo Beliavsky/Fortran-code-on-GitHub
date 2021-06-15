@@ -35,9 +35,59 @@
 [nc4fortran](https://github.com/geospace-code/nc4fortran): object-oriented Fortran NetCDF4 interface, by geospace-code
 
 ## General Purpose
-[fortranlib](https://github.com/Guymer/fortranlib): collection of functions and subroutines by Guymer
+[BeFoR64](https://github.com/szaghi/BeFoR64): Base64 encoding/decoding library for FoRtran poor men, is a pure Fortran (KISS) library for base64 encoding/decoding for modern (2003+) Fortran projects
+
+[coretran](https://github.com/leonfoks/coretran): easy-to-follow library to make Fortran easier in general with wrapped interfaces, sorting routines, kD-Trees, and other algorithms to handle scientific data and concepts.
+
+[fdict](https://github.com/zerothi/fdict): native Fortran 90 dictionary with hash tables for retaining any data-type in a Python-like dictionary
+
+[ferror](https://github.com/jchristopherson/ferror): library to assist with error handling in Fortran projects
+
+[ffhash](https://github.com/jannisteunissen/ffhash): generic and fast hash table similar to khash in C, by Jannis Teunissen
+
+[FIAT](https://github.com/Fortran-FOSS-Programmers/FIAT): Fortran Implementation of Abstract Types
+
+[flib](https://github.com/crshapiro/flib): standard library, function library, a tridiagonal matrix solver, and code for a doubly linked list, optimization, and interpolation
+
+[flink](https://github.com/huangli712/flink): Flexible Fortran Modules and Subroutines for Scientific Computing
+
+[forpy](https://github.com/ylikx/forpy): use Python in Fortran and vice versa
+
+[Fortran exceptions library](https://github.com/LightDA-assim/fortran_exceptions): provides exception handling for Fortran 2003 and later, based on the methodology of [Poppe et al. 2012](https://dl.acm.org/doi/10.1145/2338786.2338787)
+
+[fortranlib](https://github.com/astrofrog/fortranlib): Collection of personal scientific routines in Fortran
+
+[Fortran-Library](https://github.com/YifanShenSZ/Fortran-Library): Code for geometry transformations, nonlinear optimization, Fourier transforms, clustering, statistics, mathematics, linear algebra, strings, and chemistry
+
+[fortran_notes](https://github.com/zmiimz/fortran_notes): containers and advanced data structures, hash functions, and design patterns
+
+[Fortran Template Library (FTL)](https://github.com/SCM-NV/ftl): generic containers, versatile algorithms, easy string manipulation, and more
+
+[fortran-utils](https://github.com/certik/fortran-utils): Various utilities for Fortran programs, including types, constants, sorting, saving/loading 2D arrays, meshes, cubic splines, saving/loading PPM images, Lapack interface, HDF5 interface, special functions, and optimization, by Ondrej Certik et al.
+
+[ForUtils](https://github.com/cmbant/forutils): Fortran 2008 utility functions and reusable classes
+
+[FTObjectLibrary](https://github.com/trixi-framework/FTObjectLibrary): provides a collection of reference counted Fortran 2003 classes to facilitate writing generic object oriented Fortran programs
+
+[functional-fortran](https://github.com/wavebitscientific/functional-fortran): library for functional programming in modern Fortran
+
+[JAMS](https://github.com/mcuntz/jams_fortran): collection of general Fortran modules offering miscellaneous functions in the categories Computational, Date and Time, Input / Output, Math / Numerics, Screening, Sensitivity Analysis and Optimising / Fitting, and Miscellaneous. Written by Matthias Cuntz, Juliane Mai and Stephan Thober
+
+[json-fortran](https://github.com/jacobwilliams/json-fortran): Fortran 2003/2008 JSON API
+
+[kdtree2](https://github.com/jmhodges/kdtree2): kd-tree implementation in C++ (and Fortran) by Matthew B. Kennel
+
+[NPY-for-Fortran](https://github.com/MRedies/NPY-for-Fortran) allows the developer to save Fortran arrays in Numpy's *.npy* format
+
+[PENF](https://github.com/szaghi/PENF): Fortran (standard 2003) module useful to achieve portable codes. The module makes available portable kind-parameters and some useful procedures to deal with them. (**OS: GPL**)
+
+[petaca](https://github.com/nncarlson/petaca): collection of modern Fortran modules that provide broadly useful capabilities -- things that the author has found himself using repeatedly across many projects. A unifying feature of the modules is their object-oriented interfaces and implementation. (**OS:MIT**)
+
+[qContainers](https://github.com/darmar-lt/qcontainers): container library for Fortran language. It enables to store any internal Fortran data type and any derived data type to the container. It implements containers for key/value pairs: tree table and hash table, and containers for objects: list and vector. (**OS: BSD**)
 
 [stdlib](https://github.com/fortran-lang/stdlib): utilities, algorithms, and mathematics codes for a Fortran Standard Library, by fortran-lang
+
+[VectorClass](https://github.com/thchang/VectorClass): Fortran 2003 dynamic memory array that functions similarly (but not identically) to the C++ Vector class, by Tyler Chang
 
 ## Graphics, Plotting, and User Interfaces
 [fortran-sdl2](https://github.com/interkosmos/fortran-sdl2): collection of ISO C binding interfaces to Simple DirectMedia Layer 2.0 (SDL 2.0), for 2D and 3D game programming in Fortran, by interkosmos
