@@ -25,6 +25,8 @@
 
 [GFDL_atmos_cubed_sphere](https://github.com/NOAA-GFDL/GFDL_atmos_cubed_sphere): GFDL atmos_cubed_sphere dynamical core code, from NOAA-GFDL
 
+[pytdlpack](https://github.com/eengl/pytdlpack): Python interface for reading and writing TDLPACK data, by eengl
+
 ## Code Tools
 [prep](https://github.com/urbanjost/prep): Fortran pre-processor written in Fortran, by urbanjost
 
@@ -128,6 +130,8 @@
 
 ## Strings
 [fortran_pcre](https://github.com/ZedThree/fortran_pcre): Fortran wrapper around the C PCRE regular expression library. (**OS:MIT**)
+
+[fortran-strings](https://github.com/eengl/fortran-strings): library and module which contains functions for common string manipulations, by eengl
 
 [M_strings](https://github.com/urbanjost/M_strings): modules for processing strings. Routines for parsing, tokenizing, changing case, substituting new strings for substrings, locating strings with simple wildcard expressions, removing tabs and line terminators and other string manipulations are included
 
