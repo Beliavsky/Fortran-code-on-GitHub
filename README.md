@@ -98,6 +98,7 @@
 [fortran-sdl2](https://github.com/interkosmos/fortran-sdl2): collection of ISO C binding interfaces to Simple DirectMedia Layer 2.0 (SDL 2.0), for 2D and 3D game programming in Fortran, by interkosmos
 
 ## Interoperability
+[FortCL](https://github.com/stfc/FortCL): Fortran wrapper library providing OpenCL functionality, from stfc
 [Fortran Language Compatibility Layer](https://github.com/kokkos/kokkos-fortran-interop): API for Fortran to C and C to Fortran multi-dimensional array interoperability, from Kokkos
 
 [NPY for Fortran](https://github.com/MRedies/NPY-for-Fortran): allows saving numerical Fortran arrays in Numpy's .npy or .npz format, by MRedies
