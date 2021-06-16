@@ -34,6 +34,8 @@
 ## Earth Science
 [cdss-app-statemod-fortran](https://github.com/OpenCDSS/cdss-app-statemod-fortran): StateMod water allocation model, which is part of Colorado's Decision Support Systems (CDSS)
 
+[PSyclone](https://github.com/stfc/PSyclone): Domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran, from stfc
+
 ## File I/O
 [h5fortran](https://github.com/geospace-code/h5fortran): Simple, robust, thin HDF5 polymorphic Fortran read/write interface, by geospace-code
 
