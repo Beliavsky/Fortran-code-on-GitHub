@@ -9,6 +9,7 @@
 * [Interoperability](#interoperability)
 * [Neural Networks](#neural-networks)
 * [Numerical](#numerical)
+* [Physics](#physics)
 * [Quantum Chemistry and Electronic Structure](#Quantum-Chemistry-and-Electronic-Structure)
 * [Statistics](#Statistics)
 * [Strings](#strings)
@@ -110,6 +111,9 @@
 [NumLib](https://github.com/ebrooker/NumLib): Numerical Library: Demonstration of various numerical methods/recipes, by ebrooker
 
 [SciFortran](https://github.com/QcmPlab/SciFortran): modules and routines for scientific calculations (*in a way* just like SciPy for Python), by QcmPlab
+
+## Physics
+[VicsekSimulation](https://github.com/santinoacco/VicsekSimulation): Fortran & Python based simulation of a self-propelled particles system
 
 ## Quantum Chemistry and Electronic Structure
 [EDIpack](https://github.com/QcmPlab/EDIpack): Lanczos-based solver for generic quantum impurity models exploiting distributed memory MPI parallelisation, from QcmPlab
