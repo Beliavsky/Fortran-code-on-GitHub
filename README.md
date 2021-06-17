@@ -183,6 +183,8 @@
 [Tensor Toolbox for Modern Fortran (ttb)](https://github.com/adtzlr/ttb)
 
 ## Physics
+[CAMB](https://github.com/cmbant/CAMB): code for Anisotropies in the Microwave Background, by cmbant
+
 [computational_physics](https://github.com/alexbaekey/computational_physics): computational physics projects by alexbaekey
 
 [exocross](https://github.com/Trovemaster/exocross): Fortran 2003 code to generate molecular cross-sections using line lists in the ExoMol format, by Trovemaster
