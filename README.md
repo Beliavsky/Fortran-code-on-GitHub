@@ -38,6 +38,8 @@
 ## Earth Science
 [cdss-app-statemod-fortran](https://github.com/OpenCDSS/cdss-app-statemod-fortran): StateMod water allocation model, which is part of Colorado's Decision Support Systems (CDSS)
 
+[NEMO-examples](https://github.com/NEMO-ocean/NEMO-examples): simple configurations to study specific oceanic physical processes and be used as a tool for training
+
 [PSyclone](https://github.com/stfc/PSyclone): Domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran, from stfc
 
 ## File I/O
