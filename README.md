@@ -44,6 +44,8 @@
 [PSyclone](https://github.com/stfc/PSyclone): Domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran, from stfc
 
 ## File I/O
+[Fortran Data Compression](https://github.com/SokolAK/Fortran-Data-Compression): sample programs demonstrating the ability to compress/decompress data on the fly when writing to or reading from a file in Fortran using named pipes (FIFOs), by SokolAK
+
 [h5fortran](https://github.com/geospace-code/h5fortran): Simple, robust, thin HDF5 polymorphic Fortran read/write interface, by geospace-code
 
 [nc4fortran](https://github.com/geospace-code/nc4fortran): object-oriented Fortran NetCDF4 interface, by geospace-code
