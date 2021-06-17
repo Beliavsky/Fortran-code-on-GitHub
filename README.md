@@ -106,8 +106,6 @@
 ## Interoperability
 [FortCL](https://github.com/stfc/FortCL): Fortran wrapper library providing OpenCL functionality, from stfc
 
-[Fortran Language Compatibility Layer](https://github.com/kokkos/kokkos-fortran-interop): API for Fortran to C and C to Fortran multi-dimensional array interoperability, from Kokkos
-
 [NPY for Fortran](https://github.com/MRedies/NPY-for-Fortran): allows saving numerical Fortran arrays in Numpy's .npy or .npz format, by MRedies
 
 ## Neural Networks
@@ -116,11 +114,33 @@
 ## Numerical
 [antia_numerical_methods](https://github.com/Beliavsky/antia_numerical_methods): codes from "Numerical methods for scientists and engineers, 3rd ed." (2012), by H. M. Antia
 
+[afnl](https://github.com/ramos/afnl): Fortran 90 numerical library with modules for numerical types, constants, error handling, integration, optimization, linear algebra, sorting and search, special functions, statistics, polynomials, root-finding, Fourier transforms, and dates and times, by Alberto Ramos (**OS: GPL-2.0 License**) 
+
+[DATAPLOT](https://github.com/usnistgov/dataplot): powerful and flexible program for performing scientific, engineering, statistical, mathematical, and graphical analysis, from usnistgov
+
+[faiNumber-Fortran](https://github.com/kevinhng86/faiNumber-Fortran): A fast, flexible, and secure numerical library for Fortran with fast number parsing as one of its features. (**OS: MIT**) 
+
 [forlab](https://github.com/zoziha/forlab): module that provides a lot of functions for scientific computing mostly inspired by Matlab and Python's module NumPy, by zoziha
+
+[forSISL](https://github.com/rweed/forSISL): Modern Fortran interfaces to the SINTEF Spline Library (SISL) 
+
+[FURY](https://github.com/szaghi/FURY): Fortran Units (environment) for Reliable phYsical math, by Stefano Zaghi 
+
+[lookup_table_fortran](https://github.com/jannisteunissen/lookup_table_fortran) A module for linear lookup tables. Supports multiple columns and various ways to read values from the table. 
+
+[NumDiff](https://github.com/jacobwilliams/NumDiff): A modern Fortran numerical differentiation library by Jacob Williams ([**OS: BSD**](https://github.com/jacobwilliams/NumDiff/blob/master/LICENSE)). 
 
 [NumLib](https://github.com/ebrooker/NumLib): Numerical Library: Demonstration of various numerical methods/recipes, by ebrooker
 
-[SciFortran](https://github.com/QcmPlab/SciFortran): modules and routines for scientific calculations (*in a way* just like SciPy for Python), by QcmPlab
+[NumericalHUB](https://github.com/jahrWork/NumericalHUB): Set of modern Fortran numerical libraries covering: zeroes of Systems of Equations, Lagrange Interpolation, Finite Differences, Cauchy Problems, Boundary Value Problems, and Initial Boundary Value Problems, associated with book [How to learn Applied Mathematics through modern FORTRAN](https://www.amazon.com/Applied-Mathematics-through-modern-FORTRAN/dp/B0851LN6HT) 
+
+[Numerical methods in Fortran](https://github.com/planelles20/numerical-methods-fortran): solving linear, nonlinear equations, integral, ordinary differential equations, ... using numerical methods in Fortran, by Carlos Planelles Alemany 
+
+[Numerical methods in Fortran](https://github.com/mrtkp9993/Numerical-Methods-in-Fortran): numerical analysis and statistics algorithms, by Murat Koptur. 
+
+[SciFortran](https://github.com/QcmPlab/SciFortran): A library of fortran modules and routines for scientific calculations (*in a way* just like scipy for python). (**OS: LGPL-3.0 License**) 
+
+[Tensor Toolbox for Modern Fortran (ttb)](https://github.com/adtzlr/ttb)(**OS: MIT License**) 
 
 ## Physics
 [computational_physics](https://github.com/alexbaekey/computational_physics): computational physics projects by alexbaekey
