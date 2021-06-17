@@ -108,6 +108,27 @@
 
 [NPY for Fortran](https://github.com/MRedies/NPY-for-Fortran): allows saving numerical Fortran arrays in Numpy's .npy or .npz format, by MRedies
 
+## Linear Algebra 
+[arpack-ng](https://github.com/opencollab/arpack-ng): collection of Fortran77 subroutines designed to solve large scale eigenvalue problems, from opencollab 
+
+[DBCSR](https://github.com/cp2k/dbcsr): Distributed Block Compressed Sparse Row matrix library, by cp2k
+
+[Fortran_Davidson](https://github.com/NLESC-JCER/Fortran_Davidson): Modern Fortran implementation of the Davidson diagonalization algorithms, from NLESC-JCER
+
+[fortran_lsp](https://github.com/ivan-pi/fortran_lsp): Fortran routines from "Solving Least Squares Problems" by C. Lawson and R. Hanson, with improved interfaces, from ivan-pi
+
+[LIBXSMM](https://github.com/hfp/libxsmm): library for specialized dense and sparse matrix operations as well as for deep learning primitives such as small convolutions, from hfp
+
+[linalg](https://github.com/jchristopherson/linalg): linear algebra library that provides a user-friendly interface to several BLAS and LAPACK routines, by jchristopherson
+
+[NTPoly](https://github.com/william-dawson/ntpoly): massively parallel library for computing the functions of sparse matrices, by william-dawson
+
+[OpenBLAS](https://github.com/xianyi/OpenBLAS): optimized BLAS library based on GotoBLAS2 1.13 BSD version, by xianyi
+
+[PROPACK](https://github.com/poulson/PROPACK): set of functions for computing the singular value decomposition of large and sparse or structured matrices  
+
+[PSBLAS3](https://github.com/sfilippone/psblas3): Parallel Sparse Basic Linear Algebra Subroutines, from sfilippone
+
 ## Neural Networks and Machine Learning
 [autofit](https://github.com/Auto-Mech/autofit): fit permutationally invariant polynomials (PIPs), by Auto-Mech
 
