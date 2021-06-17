@@ -18,6 +18,8 @@
 * [Time Series](#time-series)
 
 ## Climate and Weather
+[FMS](https://github.com/NOAA-GFDL/FMS): Flexible Modeling System (FMS), from NOAA-GFDL, is a software environment that supports the efficient development, construction, execution, and scientific interpretation of atmospheric, oceanic, and climate system models
+
 [gcm](https://github.com/pqnelson/gcm): Toy General Circulation Model in Literate Fortran, by pqnelson
 
 [ecrad](https://github.com/ecmwf/ecrad): offline version of a radiation scheme suitable for use in atmospheric weather and climate models, from ecmwf
