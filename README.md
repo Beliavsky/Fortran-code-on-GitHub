@@ -133,6 +133,8 @@
 ## Neural Networks and Machine Learning
 [autofit](https://github.com/Auto-Mech/autofit): fit permutationally invariant polynomials (PIPs), by Auto-Mech
 
+[FKB](https://github.com/scientific-computing/FKB): two-way deep learning bridge between Keras and Fortran, from scientific-computing
+
 [FortLearner](https://github.com/NaoMatch/FortLearner): linear regression, logistic regression, stochastic gradient descent, decision trees, ensemble trees, boosting trees, and dimension reduction, by NaoMatch
 
 [fortnet](https://github.com/vanderhe/fortnet): using atom-centered symmetry functions to characterize local atomic environments, Fortnet provides easy access to the Behler-Parrinello-Neural-Network architecture to predict atomic or global properties of a physical system, featuring powerful but optional MPI parallelism, by vanderhe
