@@ -109,7 +109,7 @@
 [NPY for Fortran](https://github.com/MRedies/NPY-for-Fortran): allows saving numerical Fortran arrays in Numpy's .npy or .npz format, by MRedies
 
 ## Neural Networks and Machine Learning
-[autofit](https://github.com/Auto-Mech/autofit) is a Fortran code for fitting permutationally invariant polynomials (PIPs), by Auto-Mech
+[autofit](https://github.com/Auto-Mech/autofit): fit permutationally invariant polynomials (PIPs), by Auto-Mech
 
 [FortLearner](https://github.com/NaoMatch/FortLearner): linear regression, logistic regression, stochastic gradient descent, decision trees, ensemble trees, boosting trees, and dimension reduction, by NaoMatch
 
@@ -117,7 +117,7 @@
 
 [gpf](https://github.com/ots22/gpf): small Fortran library for Gaussian process regression. It currently implements value predictions with dense Gaussian processes, and projected-process approximate Gaussian processes
 
-[neural-fortran](https://github.com/modern-fortran/neural-fortran) is a parallel neural net microframework, from modern-fortran
+[neural-fortran](https://github.com/modern-fortran/neural-fortran): parallel neural net microframework, from modern-fortran
 
 [NN_MOD](https://github.com/thchang/NN_MOD): Fortran 2008 Module/Class for training neural network regressors, by thchang
 
