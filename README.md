@@ -114,11 +114,11 @@
 ## Numerical
 [antia_numerical_methods](https://github.com/Beliavsky/antia_numerical_methods): codes from "Numerical methods for scientists and engineers, 3rd ed." (2012), by H. M. Antia
 
-[afnl](https://github.com/ramos/afnl): Fortran 90 numerical library with modules for numerical types, constants, error handling, integration, optimization, linear algebra, sorting and search, special functions, statistics, polynomials, root-finding, Fourier transforms, and dates and times, by Alberto Ramos (**OS: GPL-2.0 License**) 
+[afnl](https://github.com/ramos/afnl): Fortran 90 numerical library with modules for numerical types, constants, error handling, integration, optimization, linear algebra, sorting and search, special functions, statistics, polynomials, root-finding, Fourier transforms, and dates and times, by Alberto Ramos
 
 [DATAPLOT](https://github.com/usnistgov/dataplot): powerful and flexible program for performing scientific, engineering, statistical, mathematical, and graphical analysis, from usnistgov
 
-[faiNumber-Fortran](https://github.com/kevinhng86/faiNumber-Fortran): A fast, flexible, and secure numerical library for Fortran with fast number parsing as one of its features. (**OS: MIT**) 
+[faiNumber-Fortran](https://github.com/kevinhng86/faiNumber-Fortran): A fast, flexible, and secure numerical library for Fortran with fast number parsing as one of its features
 
 [forlab](https://github.com/zoziha/forlab): module that provides a lot of functions for scientific computing mostly inspired by Matlab and Python's module NumPy, by zoziha
 
@@ -128,7 +128,7 @@
 
 [lookup_table_fortran](https://github.com/jannisteunissen/lookup_table_fortran) A module for linear lookup tables. Supports multiple columns and various ways to read values from the table. 
 
-[NumDiff](https://github.com/jacobwilliams/NumDiff): A modern Fortran numerical differentiation library by Jacob Williams ([**OS: BSD**](https://github.com/jacobwilliams/NumDiff/blob/master/LICENSE)). 
+[NumDiff](https://github.com/jacobwilliams/NumDiff): A modern Fortran numerical differentiation library by Jacob Williams
 
 [NumLib](https://github.com/ebrooker/NumLib): Numerical Library: Demonstration of various numerical methods/recipes, by ebrooker
 
@@ -138,9 +138,9 @@
 
 [Numerical methods in Fortran](https://github.com/mrtkp9993/Numerical-Methods-in-Fortran): numerical analysis and statistics algorithms, by Murat Koptur. 
 
-[SciFortran](https://github.com/QcmPlab/SciFortran): A library of fortran modules and routines for scientific calculations (*in a way* just like scipy for python). (**OS: LGPL-3.0 License**) 
+[SciFortran](https://github.com/QcmPlab/SciFortran): A library of fortran modules and routines for scientific calculations (*in a way* just like scipy for python), from QcmPlab
 
-[Tensor Toolbox for Modern Fortran (ttb)](https://github.com/adtzlr/ttb)(**OS: MIT License**) 
+[Tensor Toolbox for Modern Fortran (ttb)](https://github.com/adtzlr/ttb)
 
 ## Physics
 [computational_physics](https://github.com/alexbaekey/computational_physics): computational physics projects by alexbaekey
