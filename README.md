@@ -8,7 +8,7 @@
 * [Graphics, plotting and user interfaces](#graphics-plotting-and-user-interfaces)
 * [General Purpose](#general-purpose)
 * [Interoperability](#interoperability)
-* [Neural Networks](#neural-networks)
+* [Neural Networks and Machine Learning](#neural-networks-and-machine-learning)
 * [Numerical](#numerical)
 * [Physics](#physics)
 * [Quantum Chemistry and Electronic Structure](#Quantum-Chemistry-and-Electronic-Structure)
