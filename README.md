@@ -85,7 +85,7 @@
 
 [fortran-utils](https://github.com/certik/fortran-utils): Various utilities for Fortran programs, including types, constants, sorting, saving/loading 2D arrays, meshes, cubic splines, saving/loading PPM images, Lapack interface, HDF5 interface, special functions, and optimization, by Ondrej Certik et al.
 
-[ForUtils](https://github.com/cmbant/forutils): Fortran 2008 utility functions and reusable classes
+[ForUtils](https://github.com/cmbant/forutils): Fortran 2008 utility functions and reusable classes, by cmbant
 
 [FTObjectLibrary](https://github.com/trixi-framework/FTObjectLibrary): provides a collection of reference counted Fortran 2003 classes to facilitate writing generic object oriented Fortran programs
 
