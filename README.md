@@ -4,6 +4,7 @@
 * [Code Tools](#code-tools)
 * [Computational Fluid Dynamics](#computational-fluid-dynamics)
 * [Earth Science](#earth-science)
+* [Engineering](#engineering)
 * [File I/O](#file-io)
 * [Graphics, plotting and user interfaces](#graphics-plotting-and-user-interfaces)
 * [General Purpose](#general-purpose)
@@ -46,6 +47,9 @@
 [NEMO-examples](https://github.com/NEMO-ocean/NEMO-examples): simple configurations to study specific oceanic physical processes and be used as a tool for training
 
 [PSyclone](https://github.com/stfc/PSyclone): Domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran, from stfc
+
+## Engineering
+[DynamicStiffness](https://github.com/jbcSmc/DynamicStiffness): calculate the harmonic response of plane frame structures, by jbcSmc
 
 ## File I/O
 [Fortran Data Compression](https://github.com/SokolAK/Fortran-Data-Compression): sample programs demonstrating the ability to compress/decompress data on the fly when writing to or reading from a file in Fortran using named pipes (FIFOs), by SokolAK
