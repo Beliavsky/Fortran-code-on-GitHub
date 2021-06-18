@@ -13,7 +13,7 @@
 * [Materials Science](#materials-science)
 * [Neural Networks and Machine Learning](#neural-networks-and-machine-learning)
 * [Numerical](#numerical)
-* [Parallel](#parallel)
+* [Parallel Programing](#parallel-programming)
 * [Physics](#physics)
 * [Quantum Chemistry and Electronic Structure](#Quantum-Chemistry-and-Electronic-Structure)
 * [Statistics](#Statistics)
@@ -200,7 +200,7 @@
 
 [Tensor Toolbox for Modern Fortran (ttb)](https://github.com/adtzlr/ttb)
 
-## Parallel
+## Parallel Programming
 [Fortran Coarray and MPI Examples](https://github.com/scivision/fortran-coarray-mpi-examples) from scivision
 
 ## Physics
