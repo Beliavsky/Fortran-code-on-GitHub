@@ -28,6 +28,8 @@
 
 [E3SM](https://github.com/E3SM-Project/E3SM): Energy Exascale Earth System Model source code, by E3SM-Project 
 
+[fv3gfs](https://github.com/NOAA-EMC/fv3gfs): Finite­ Volume Cubed-Sphere dynamical core (FV3) Global Forecasting System (GFS), from NOAA-EMC
+
 [GemmesF90](https://github.com/timongo/GemmesF90): code corresponing to paper "Financial impacts of climate change mitigation policies and their macroeconomic implications: a stock-flow consistent approach." Climate Policy 20.2 (2020): 179-198, by timongo
 
 [GFDL_atmos_cubed_sphere](https://github.com/NOAA-GFDL/GFDL_atmos_cubed_sphere): GFDL atmos_cubed_sphere dynamical core code, from NOAA-GFDL
