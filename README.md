@@ -12,6 +12,7 @@
 * [Linear Algebra](#linear-algebra)
 * [Neural Networks and Machine Learning](#neural-networks-and-machine-learning)
 * [Numerical](#numerical)
+* [Parallel])(#parallel)
 * [Physics](#physics)
 * [Quantum Chemistry and Electronic Structure](#Quantum-Chemistry-and-Electronic-Structure)
 * [Statistics](#Statistics)
@@ -189,6 +190,9 @@
 [SciFortran](https://github.com/QcmPlab/SciFortran): A library of fortran modules and routines for scientific calculations (*in a way* just like scipy for python), from QcmPlab
 
 [Tensor Toolbox for Modern Fortran (ttb)](https://github.com/adtzlr/ttb)
+
+## Parallel
+[Fortran Coarray and MPI Examples](https://github.com/scivision/fortran-coarray-mpi-examples) from scivision
 
 ## Physics
 [fortran-astrodynamics](https://github.com/Yuricst/fortran-astrodynamics): astrodynamics routines by Yuricst
