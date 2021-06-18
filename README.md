@@ -191,6 +191,8 @@
 
 [computational_physics](https://github.com/alexbaekey/computational_physics): computational physics projects by alexbaekey
 
+[etfFinal](https://github.com/mgeshelley/etfFinal): Neutron star inner crust code, by mgeshelley
+
 [exocross](https://github.com/Trovemaster/exocross): Fortran 2003 code to generate molecular cross-sections using line lists in the ExoMol format, by Trovemaster
 
 [Guided_Missile_Simulation](https://github.com/bgin/Guided_Missile_Simulation): Air-to-Air Missile Simulation written in modern Fortran, by bgin
