@@ -187,6 +187,8 @@
 [Tensor Toolbox for Modern Fortran (ttb)](https://github.com/adtzlr/ttb)
 
 ## Physics
+[fortran-astrodynamics](https://github.com/Yuricst/fortran-astrodynamics): astrodynamics routines by Yuricst
+
 [CAMB](https://github.com/cmbant/CAMB): code for Anisotropies in the Microwave Background, by cmbant
 
 [computational_physics](https://github.com/alexbaekey/computational_physics): computational physics projects by alexbaekey
