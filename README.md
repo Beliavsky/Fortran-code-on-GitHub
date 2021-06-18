@@ -101,11 +101,11 @@
 
 [kdtree2](https://github.com/jmhodges/kdtree2): kd-tree implementation in C++ (and Fortran) by Matthew B. Kennel
 
-[PENF](https://github.com/szaghi/PENF): Fortran (standard 2003) module useful to achieve portable codes. The module makes available portable kind-parameters and some useful procedures to deal with them. (**OS: GPL**)
+[PENF](https://github.com/szaghi/PENF): Fortran (standard 2003) module useful to achieve portable codes. The module makes available portable kind-parameters and some useful procedures to deal with them
 
-[petaca](https://github.com/nncarlson/petaca): collection of modern Fortran modules that provide broadly useful capabilities -- things that the author has found himself using repeatedly across many projects. A unifying feature of the modules is their object-oriented interfaces and implementation. (**OS:MIT**)
+[petaca](https://github.com/nncarlson/petaca): collection of modern Fortran modules that provide broadly useful capabilities -- things that the author has found himself using repeatedly across many projects. A unifying feature of the modules is their object-oriented interfaces and implementation
 
-[qContainers](https://github.com/darmar-lt/qcontainers): container library for Fortran language. It enables to store any internal Fortran data type and any derived data type to the container. It implements containers for key/value pairs: tree table and hash table, and containers for objects: list and vector. (**OS: BSD**)
+[qContainers](https://github.com/darmar-lt/qcontainers): container library for Fortran language. It enables to store any internal Fortran data type and any derived data type to the container. It implements containers for key/value pairs: tree table and hash table, and containers for objects: list and vector.
 
 [stdlib](https://github.com/fortran-lang/stdlib): utilities, algorithms, and mathematics codes for a Fortran Standard Library, by fortran-lang
 
@@ -220,6 +220,8 @@
 [fortran-strings](https://github.com/eengl/fortran-strings): library and module which contains functions for common string manipulations, by eengl
 
 [M_strings](https://github.com/urbanjost/M_strings): modules for processing strings. Routines for parsing, tokenizing, changing case, substituting new strings for substrings, locating strings with simple wildcard expressions, removing tabs and line terminators and other string manipulations are included
+
+[StringiFor](https://github.com/szaghi/StringiFor): Strings Fortran Manipulator with steroids, by szaghi
 
 ## Time Series
 [fortress](https://github.com/eph/fortress): tools for Bayesian estimation of time series models, by eph
