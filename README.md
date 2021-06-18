@@ -40,6 +40,8 @@
 [CGNS](https://github.com/CGNS/CGNS): the CFD General Notation System (CGNS) provides a standard for recording and recovering computer data associated with the numerical solution of fluid dynamics equations
 
 ## Earth Science
+[atmos](https://github.com/VirtualPlanetaryLaboratory/atmos): package containing two atmospheric models, along with scripts to couple them together, from VirtualPlanetaryLaboratory
+
 [cdss-app-statemod-fortran](https://github.com/OpenCDSS/cdss-app-statemod-fortran): StateMod water allocation model, which is part of Colorado's Decision Support Systems (CDSS)
 
 [MOM6](https://github.com/NOAA-GFDL/MOM6): Modular Ocean Model, from NOAA-GFDL
