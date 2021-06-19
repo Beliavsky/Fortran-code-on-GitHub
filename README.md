@@ -287,5 +287,7 @@
 
 [Gaussian Mixture ARMA-GARCH](https://github.com/saveriocolla90/Gaussian-Mixture-ARMA-GARCH): implements a Gaussian Mixture ARMA-GARCH model to fit a generic time series with zero mean and gaussian distributed standard deviations, by saveriocolla90
 
+[Timeslab](https://github.com/Beliavsky/Timeslab): Fortran 77 time series package by H. Joseph Newton to accompany his book "Timeslab: A Time Series Analysis Laboratory" (1988)
+
 ## Unclassified
 [stl-fortran](https://github.com/jacobwilliams/stl-fortran): Fortran STL File I/O, by jacobwilliams
