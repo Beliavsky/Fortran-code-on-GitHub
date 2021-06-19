@@ -13,6 +13,7 @@
 * [Materials Science](#materials-science)
 * [Neural Networks and Machine Learning](#neural-networks-and-machine-learning)
 * [Numerical](#numerical)
+* [Optimization](#optimization)
 * [Parallel Programing](#parallel-programming)
 * [Physics](#physics)
 * [Quantum Chemistry and Electronic Structure](#Quantum-Chemistry-and-Electronic-Structure)
@@ -199,6 +200,31 @@
 [SciFortran](https://github.com/QcmPlab/SciFortran): A library of fortran modules and routines for scientific calculations (*in a way* just like scipy for python), from QcmPlab
 
 [Tensor Toolbox for Modern Fortran (ttb)](https://github.com/adtzlr/ttb)
+
+## Optimization
+[CUTEst](https://github.com/ralna/CUTEst): Constrained and Unconstrained Testing Environment with safe threads for optimization software 
+
+[DualSimplex](https://github.com/thchang/DualSimplex) Fortran 90 module for solving linear programs of the form max c^T x s.t. A x <= b where, c is a cost vector and A x <= b is a system of linear inequality constraints, by Tyler Chang
+
+[FilterSD](https://github.com/jacobwilliams/FilterSD): Fortran 77 subroutines for solving nonlinear programming problems and linearly constrained problems in continuous optimization
+
+[GALAHAD](https://github.com/ralna/GALAHAD): library of modern Fortran modules for nonlinear optimization
+
+[libga](https://github.com/ramos/libga): genetic algorithm optimisation library by Alberto Ramos 
+
+[minuit](https://github.com/ramos/minuit): Fortran 77 library for function minimization and error Analysis by F. James
+
+[pikaia](https://github.com/jacobwilliams/pikaia): Modern Fortran Edition of the Pikaia Genetic Algorithm by Jacob Williams 
+
+[PowellOpt](https://github.com/jacobwilliams/PowellOpt): collection of derivative-free optimization algorithms by M.J.D. Powell. 
+
+[qnstop](https://github.com/vtopt/qnstop) suite of serial and parallel Fortran 95/2003 codes for deterministic global optimization and stochastic optimization by Layne Watson. 
+
+[RALFit](https://github.com/ralna/RALFit): non-linear least squares solver that is primarily developed by the Numerical Analysis group at STFC Rutherford Appleton Laboratory. 
+
+[slsqp](https://github.com/jacobwilliams/slsqp): Modern Fortran edition of the [SLSQP](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.512.2567&rep=rep1&type=pdf) optimizer
+
+[simulated-annealing](https://github.com/jacobwilliams/simulated-annealing): Simulated Annealing with Modern Fortran by Jacob Williams 
 
 ## Parallel Programming
 [Fortran Coarray and MPI Examples](https://github.com/scivision/fortran-coarray-mpi-examples) from scivision
