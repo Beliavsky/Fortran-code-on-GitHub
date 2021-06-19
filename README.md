@@ -5,6 +5,7 @@
 * [Computational Fluid Dynamics](#computational-fluid-dynamics)
 * [Dates and Times](#dates-and-times)
 * [Earth Science](#earth-science)
+* [Economics](#economics)
 * [Engineering](#engineering)
 * [File I/O](#file-io)
 * [Graphics, plotting and user interfaces](#graphics-plotting-and-user-interfaces)
@@ -61,6 +62,9 @@
 [NEMO-examples](https://github.com/NEMO-ocean/NEMO-examples): simple configurations to study specific oceanic physical processes and be used as a tool for training
 
 [PSyclone](https://github.com/stfc/PSyclone): Domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran, from stfc
+
+## Economics
+[ce-fortran](https://github.com/fabiankindermann/ce-fortran/): program and compiler Database that accompanies the book "Introduction to Computational Economcis using Fortran" (2018), by Fehr and Kindermann
 
 ## Engineering
 [DynamicStiffness](https://github.com/jbcSmc/DynamicStiffness): calculate the harmonic response of plane frame structures, by jbcSmc
