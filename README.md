@@ -214,7 +214,7 @@
 
 [fortran-astrodynamics](https://github.com/Yuricst/fortran-astrodynamics): astrodynamics routines by Yuricst
 
-[Fortran-Astrodynamics-Toolkit](https://github.com/jacobwilliams/Fortran-Astrodynamics-Toolkit): aims to be a comprehensive library, written in modern Fortran (Fortran 2003/2008), of all the standard orbital mechanics algorithms
+[Fortran-Astrodynamics-Toolkit](https://github.com/jacobwilliams/Fortran-Astrodynamics-Toolkit): aims to be a comprehensive library, written in modern Fortran (Fortran 2003/2008), of all the standard orbital mechanics algorithms, by jacobwilliams
 
 [Guided_Missile_Simulation](https://github.com/bgin/Guided_Missile_Simulation): Air-to-Air Missile Simulation written in modern Fortran, by bgin
 
