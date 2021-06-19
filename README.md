@@ -47,9 +47,9 @@
 [CGNS](https://github.com/CGNS/CGNS): the CFD General Notation System (CGNS) provides a standard for recording and recovering computer data associated with the numerical solution of fluid dynamics equations
 
 ## Dates and Times
-[datetime-fortran](https://github.com/milancurcic/datetime-fortran): library that provides time and date manipulation facilities, by milancurcic
+[datetime-fortran](https://github.com/milancurcic/datetime-fortran): time and date manipulation facilities, by milancurcic
 
-[m_time](https://github.com/urbanjost/M_time): provides the ability to display dates in a variety of formats as well as basic date and time computation, by urbanjost
+[m_time](https://github.com/urbanjost/M_time): displays dates in a variety of formats and performs basic date and time computation, by urbanjost
 
 ## Earth Science
 [atmos](https://github.com/VirtualPlanetaryLaboratory/atmos): package containing two atmospheric models, along with scripts to couple them together, from VirtualPlanetaryLaboratory
