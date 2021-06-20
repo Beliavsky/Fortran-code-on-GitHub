@@ -162,6 +162,8 @@
 
 [OpenBLAS](https://github.com/xianyi/OpenBLAS): optimized BLAS library based on GotoBLAS2 1.13 BSD version, by xianyi
 
+[PaScaL_TDMA](https://github.com/MPMC-Lab/PaScaL_TDMA): efficient and scalable computational procedure to solve many tridiagonal systems in multi-dimensional partial differential equations, from MPMC-Lab
+
 [PROPACK](https://github.com/poulson/PROPACK): set of functions for computing the singular value decomposition of large and sparse or structured matrices  
 
 [PSBLAS3](https://github.com/sfilippone/psblas3): Parallel Sparse Basic Linear Algebra Subroutines, from sfilippone
