@@ -131,6 +131,8 @@
 
 [VectorClass](https://github.com/thchang/VectorClass): Fortran 2003 dynamic memory array that functions similarly (but not identically) to the C++ Vector class, by Tyler Chang
 
+[ZstdFortranLib](https://github.com/zbeekman/ZstdFortranLib): implements missing functionality such as error handling, strings manipulation, system/environment interface & testing utilities, by zbeekman
+
 ## Graphics, Plotting, and User Interfaces
 [fortran-sdl2](https://github.com/interkosmos/fortran-sdl2): collection of ISO C binding interfaces to Simple DirectMedia Layer 2.0 (SDL 2.0), for 2D and 3D game programming in Fortran, by interkosmos
 
