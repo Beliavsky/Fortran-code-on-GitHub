@@ -41,6 +41,8 @@
 
 [pytdlpack](https://github.com/eengl/pytdlpack): Python interface for reading and writing TDLPACK data, by eengl
 
+[WRF](https://github.com/wrf-model/WRF): Weather Research and Forecasting (WRF) model
+
 ## Code Tools
 [prep](https://github.com/urbanjost/prep): Fortran pre-processor written in Fortran, by urbanjost
 
