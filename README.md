@@ -1,5 +1,6 @@
 ## Fortran code on GitHub
 
+* [Biology and Medicine](#biology-and-medicine)
 * [Climate and Weather](#climate-and-weather)
 * [Code Tools](#code-tools)
 * [Computational Fluid Dynamics](#computational-fluid-dynamics)
@@ -23,6 +24,9 @@
 * [Strings](#strings)
 * [Time Series](#time-series)
 * [Unclassified](#unclassified)
+
+## Biology and Medicine
+[3D_Convolusional_Filtering](https://github.com/JoGebert/3D_Convolusional_Filtering): convolusional filtering of computed tomography scans, by JoGebert. Intended to get a clear separation between bone marrow and cancellous bone for subsequent binarization and calculations.
 
 ## Climate and Weather
 [FMS](https://github.com/NOAA-GFDL/FMS): Flexible Modeling System (FMS), from NOAA-GFDL, is a software environment that supports the efficient development, construction, execution, and scientific interpretation of atmospheric, oceanic, and climate system models
