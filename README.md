@@ -74,6 +74,8 @@
 ## File I/O
 [Fortran Data Compression](https://github.com/SokolAK/Fortran-Data-Compression): sample programs demonstrating the ability to compress/decompress data on the fly when writing to or reading from a file in Fortran using named pipes (FIFOs), by SokolAK
 
+[hdf5-benchmark](https://github.com/scivision/hdf5-benchmark): benchmarking speed of HDF5 writes from MPI parallel workers, by scivision
+
 [h5fortran](https://github.com/geospace-code/h5fortran): Simple, robust, thin HDF5 polymorphic Fortran read/write interface, by geospace-code
 
 [nc4fortran](https://github.com/geospace-code/nc4fortran): object-oriented Fortran NetCDF4 interface, by geospace-code
