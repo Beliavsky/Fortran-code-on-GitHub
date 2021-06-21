@@ -3,6 +3,7 @@
 * [Biology and Medicine](#biology-and-medicine)
 * [Climate and Weather](#climate-and-weather)
 * [Code Tools](#code-tools)
+* [Compiler Tests](#compiler-tests)
 * [Computational Fluid Dynamics](#computational-fluid-dynamics)
 * [Dates and Times](#dates-and-times)
 * [Earth Science](#earth-science)
@@ -51,6 +52,9 @@
 
 ## Code Tools
 [prep](https://github.com/urbanjost/prep): Fortran pre-processor written in Fortran, by urbanjost
+
+## Compiler Tests
+[fortran-compiler-tests](https://github.com/nncarlson/fortran-compiler-tests): collection of Fortran compiler bug examples and tests, by nncarlson
 
 ## Computational Fluid Dynamics
 [CGNS](https://github.com/CGNS/CGNS): the CFD General Notation System (CGNS) provides a standard for recording and recovering computer data associated with the numerical solution of fluid dynamics equations
