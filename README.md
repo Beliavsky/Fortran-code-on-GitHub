@@ -302,9 +302,9 @@
 
 [BMSL](https://github.com/benRenard/BMSL): mathematical and statistical libraries, geared toward environmental / hydrological applications, by Ben Renard. 
 
-[MultiNest](https://github.com/rjw57/MultiNest): Bayesian inference tool which calculates the evidence and explores the parameter space which may contain multiple posterior modes and pronounced (curving) degeneracies in moderately high dimensions, by Farhan Feroz and Mike Hobson 
-
 [MCMC f90 library](https://github.com/mjlaine/mcmcf90): do Markov chain Monte Carlo simulation from a posterior distribution of unknown model parameters defined by a likelihood function and prior, by mjlaine
+
+[MultiNest](https://github.com/rjw57/MultiNest): Bayesian inference tool which calculates the evidence and explores the parameter space which may contain multiple posterior modes and pronounced (curving) degeneracies in moderately high dimensions, by Farhan Feroz and Mike Hobson 
 
 [Multivariate Data Analysis Software in Fortran (and C)](https://mda-sw.github.io/) by Fionn Murtagh 
 
