@@ -82,6 +82,8 @@
 
 [hdf5-benchmark](https://github.com/scivision/hdf5-benchmark): benchmarking speed of HDF5 writes from MPI parallel workers, by scivision
 
+[mpi-libfdf-parser](https://github.com/neelravi/mpi-libfdf-parser): modern Fortran-based parser for parsing input files, by neelravi. It uses LibFDF library and works with sequential as well as multinode calculations.
+
 [h5fortran](https://github.com/geospace-code/h5fortran): Simple, robust, thin HDF5 polymorphic Fortran read/write interface, by geospace-code
 
 [nc4fortran](https://github.com/geospace-code/nc4fortran): object-oriented Fortran NetCDF4 interface, by geospace-code
