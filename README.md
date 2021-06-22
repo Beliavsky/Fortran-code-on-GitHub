@@ -1,5 +1,6 @@
 ## Fortran code on GitHub
 
+* [Benchmarks](#benchmarks)
 * [Biology and Medicine](#biology-and-medicine)
 * [Climate and Weather](#climate-and-weather)
 * [Code Tools](#code-tools)
@@ -26,6 +27,9 @@
 * [Strings](#strings)
 * [Time Series](#time-series)
 * [Unclassified](#unclassified)
+
+## Benchmarks
+[raytracer](https://github.com/edin/raytracer): raytracer benchmark in dozens of languages, by edin.
 
 ## Biology and Medicine
 [umat_cartilage](https://github.com/shayansss/umat_cartilage): subroutines for a multiphasic and fibril-reinforced model of articular cartilage, by shayansss
