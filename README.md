@@ -104,6 +104,8 @@
 ## Finite Elements
 [easifem-base](https://github.com/vickysharma0812/easifem-base): framework for developing finite element code in modern Fortran for solving PDEs, by vickysharma0812
 
+[PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran
+
 ## General Purpose
 [BeFoR64](https://github.com/szaghi/BeFoR64): Base64 encoding/decoding library for FoRtran poor men, is a pure Fortran (KISS) library for base64 encoding/decoding for modern (2003+) Fortran projects
 
