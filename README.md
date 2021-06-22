@@ -12,6 +12,7 @@
 * [Engineering](#engineering)
 * [File I/O](#file-io)
 * [Finite Elements](#finite-elements)
+* [Fortran Tutorials](#fortran-tutorials)
 * [Graphics, plotting and user interfaces](#graphics-plotting-and-user-interfaces)
 * [General Purpose](#general-purpose)
 * [Interoperability](#interoperability)
@@ -105,7 +106,7 @@
 
 [mpi-libfdf-parser](https://github.com/neelravi/mpi-libfdf-parser): modern Fortran-based parser for parsing input files, by neelravi. It uses LibFDF library and works with sequential as well as multinode calculations.
 
-[h5fortran](https://github.com/geospace-code/h5fortran): Simple, robust, thin HDF5 polymorphic Fortran read/write interface, by geospace-code
+[h5fortran](https://github.com/geospace-code/h5fortran): Simple, robust, thin HDF5 polymorphic Fortran read/write interface, by geospace-codefortran2018-examples
 
 [nc4fortran](https://github.com/geospace-code/nc4fortran): object-oriented Fortran NetCDF4 interface, by geospace-code
 
@@ -117,6 +118,9 @@
 [easifem-base](https://github.com/vickysharma0812/easifem-base): framework for developing finite element code in modern Fortran for solving PDEs, by vickysharma0812
 
 [PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran
+
+## Fortran Tutorials
+[fortran2018-examples](https://github.com/scivision/fortran2018-examples): Fortran 2018 standard examples with broad applications, from SciVision
 
 ## General Purpose
 [BeFoR64](https://github.com/szaghi/BeFoR64): Base64 encoding/decoding library for FoRtran poor men, is a pure Fortran (KISS) library for base64 encoding/decoding for modern (2003+) Fortran projects
