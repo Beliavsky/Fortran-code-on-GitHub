@@ -212,6 +212,8 @@
 
 [linalg](https://github.com/jchristopherson/linalg): linear algebra library that provides a user-friendly interface to several BLAS and LAPACK routines, by jchristopherson
 
+[MPI_GEVP](https://github.com/sims-code/MPI_GEVP): Fortran 90+ program for solving the generalized eigenvalue problem on distributed computers, by sims-code
+
 [NTPoly](https://github.com/william-dawson/ntpoly): massively parallel library for computing the functions of sparse matrices, by william-dawson
 
 [OpenBLAS](https://github.com/xianyi/OpenBLAS): optimized BLAS library based on GotoBLAS2 1.13 BSD version, by xianyi
