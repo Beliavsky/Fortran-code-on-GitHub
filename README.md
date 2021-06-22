@@ -311,6 +311,8 @@
 [VicsekSimulation](https://github.com/santinoacco/VicsekSimulation): Fortran & Python based simulation of a self-propelled particles system
 
 ## Quantum Chemistry and Electronic Structure
+[duo](https://github.com/Trovemaster/Duo): diatomic code for solving a fully coupled rovibronic Schroedinger equation, by Trovemaster
+
 [EDIpack](https://github.com/QcmPlab/EDIpack): Lanczos-based solver for generic quantum impurity models exploiting distributed memory MPI parallelisation, from QcmPlab
 
 [molgw](https://github.com/bruneval/molgw): accurate many-body perturbation theory calculations of the electronic structure of molecules, by bruneval
@@ -320,6 +322,8 @@
 [q-e](https://github.com/QEF/q-e): Quantum ESPRESSO suite of codes (ESPRESSO: opEn-Source Package for Research in Electronic Structure, Simulation, and Optimization)
 
 [STB](https://github.com/MRedies/STB): Simple Tight-binding, by MRedies
+
+[TROVE](https://github.com/Trovemaster/TROVE): Theoretical ROVibrational Energies: A variational program for accurate nuclear motion calculations, by Trovemaster
 
 ## Statistics
 [200+ R packages with Fortran code](https://github.com/cran?q=&type=&language=fortran&sort=): R is a free software environment for statistical computing and graphics
