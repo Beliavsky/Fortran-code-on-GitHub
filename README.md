@@ -200,6 +200,8 @@
 
 [lapack](https://github.com/Reference-LAPACK/lapack): subroutines for solving the most commonly occurring problems in numerical linear algebra
 
+[LAPACK_Examples](https://github.com/numericalalgorithmsgroup/LAPACK_Examples): example programs showing how to call LAPACK driver and computational routines (Fortran double precision), from numericalalgorithmsgroup
+
 [LIBXSMM](https://github.com/hfp/libxsmm): library for specialized dense and sparse matrix operations as well as for deep learning primitives such as small convolutions, from hfp
 
 [linalg](https://github.com/jchristopherson/linalg): linear algebra library that provides a user-friendly interface to several BLAS and LAPACK routines, by jchristopherson
