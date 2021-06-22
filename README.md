@@ -37,6 +37,8 @@
 [raytracer](https://github.com/edin/raytracer): raytracer benchmark in dozens of languages, by edin.
 
 ## Biology and Medicine
+[CardiacFEM](https://github.com/Levrero/CardiacFEM): cardiac electro-mechanics solver based on ParaFEM, by Levrero
+
 [umat_cartilage](https://github.com/shayansss/umat_cartilage): subroutines for a multiphasic and fibril-reinforced model of articular cartilage, by shayansss
 
 [3D_Convolusional_Filtering](https://github.com/JoGebert/3D_Convolusional_Filtering): convolusional filtering of computed tomography scans, by JoGebert. Intended to get a clear separation between bone marrow and cancellous bone for subsequent binarization and calculations.
