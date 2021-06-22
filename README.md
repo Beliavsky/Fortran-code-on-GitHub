@@ -202,6 +202,8 @@
 
 [LAPACK_Examples](https://github.com/numericalalgorithmsgroup/LAPACK_Examples): example programs showing how to call LAPACK driver and computational routines (Fortran double precision), from numericalalgorithmsgroup
 
+[LAPACK95](https://github.com/scivision/LAPACK95): CMake and Meson enhanced mirror of Netlib LAPACK95, from SciVision
+
 [LIBXSMM](https://github.com/hfp/libxsmm): library for specialized dense and sparse matrix operations as well as for deep learning primitives such as small convolutions, from hfp
 
 [linalg](https://github.com/jchristopherson/linalg): linear algebra library that provides a user-friendly interface to several BLAS and LAPACK routines, by jchristopherson
