@@ -29,6 +29,8 @@
 * [Unclassified](#unclassified)
 
 ## Benchmarks
+[julia-numpy-fortran-test](https://github.com/mdmaas/julia-numpy-fortran-test): comparing Julia vs Numpy vs Fortran for performance and code simplicity, by mdmaas
+
 [LINPACK](https://github.com/zaniyah/LINPACK): original (1000x1000 double precision) LINPACK benchmark, with bugfixes, by zaniyah
 
 [raytracer](https://github.com/edin/raytracer): raytracer benchmark in dozens of languages, by edin.
