@@ -10,6 +10,7 @@
 * [Economics](#economics)
 * [Engineering](#engineering)
 * [File I/O](#file-io)
+* [Finite Elements](#finite-elements)
 * [Graphics, plotting and user interfaces](#graphics-plotting-and-user-interfaces)
 * [General Purpose](#general-purpose)
 * [Interoperability](#interoperability)
@@ -99,6 +100,9 @@
 [serialbox](https://github.com/GridTools/serialbox): data serialization library and tools for C/C++ and Fortran, from GridTools
 
 [stl-fortran](https://github.com/jacobwilliams/stl-fortran): Fortran STL (stereolithography) File I/O, by jacobwilliams
+
+## Finite Elements
+[easifem-base](https://github.com/vickysharma0812/easifem-base): framework for developing finite element code in modern Fortran for solving PDEs, by vickysharma0812
 
 ## General Purpose
 [BeFoR64](https://github.com/szaghi/BeFoR64): Base64 encoding/decoding library for FoRtran poor men, is a pure Fortran (KISS) library for base64 encoding/decoding for modern (2003+) Fortran projects
