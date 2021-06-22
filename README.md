@@ -73,6 +73,8 @@
 
 [code_saturne](https://github.com/code-saturne/code_saturne): CFD software handling of either incompressible or expandable flows with or without heat transfer and turbulence
 
+[Flow81](https://github.com/corygoates/Flow81): basic CFD solvers by corygoates
+
 [O2-Project](https://github.com/kgpolitis/O2-Project): ramework for CFD oriented scientific code development in Modern Fortran, by kgpolitis
 
 ## Dates and Times
