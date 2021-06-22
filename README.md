@@ -98,6 +98,8 @@
 
 [serialbox](https://github.com/GridTools/serialbox): data serialization library and tools for C/C++ and Fortran, from GridTools
 
+[stl-fortran](https://github.com/jacobwilliams/stl-fortran): Fortran STL (stereolithography) File I/O, by jacobwilliams
+
 ## General Purpose
 [BeFoR64](https://github.com/szaghi/BeFoR64): Base64 encoding/decoding library for FoRtran poor men, is a pure Fortran (KISS) library for base64 encoding/decoding for modern (2003+) Fortran projects
 
@@ -333,4 +335,3 @@
 [Timeslab](https://github.com/Beliavsky/Timeslab): Fortran 77 time series package by H. Joseph Newton to accompany his book "Timeslab: A Time Series Analysis Laboratory" (1988)
 
 ## Unclassified
-[stl-fortran](https://github.com/jacobwilliams/stl-fortran): Fortran STL File I/O, by jacobwilliams
