@@ -220,6 +220,8 @@
 
 [scalapack](https://github.com/Reference-ScaLAPACK/scalapack): library of high-performance linear algebra routines for parallel distributed memory machines. ScaLAPACK solves dense and banded linear systems, least squares problems, eigenvalue problems, and singular value problems.
 
+[sparse-fortran](https://github.com/scivision/sparse-fortran): sparse array examples using MUMPS, Scalapack, BLACS, PARDISO with CMake and Meson, from SciVision
+
 [tt-fort](https://github.com/oseledets/tt-fort): Fortran computing core of the TT-Toolbox Right now, it is not easy to use It also includes two slightly customized libraries or doing fast local solvers in eigenvalue and dynamical problems.
 
 ## Materials Science
