@@ -117,6 +117,8 @@
 ## Finite Elements
 [easifem-base](https://github.com/vickysharma0812/easifem-base): framework for developing finite element code in modern Fortran for solving PDEs, by vickysharma0812
 
+[ParaFEM](https://github.com/ParaFEM/ParaFEM): open source parallel finite element analysis library that is documented by the text book "Programming the Finite Element Method"
+
 [PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran
 
 ## Fortran Tutorials
