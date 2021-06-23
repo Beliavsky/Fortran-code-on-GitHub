@@ -371,6 +371,8 @@
 
 [STB](https://github.com/MRedies/STB): Simple Tight-binding, by MRedies
 
+[wannier90](https://github.com/wannier-developers/wannier90): Maximally-Localised Generalised Wannier Functions Code
+
 ## Statistics
 [200+ R packages with Fortran code](https://github.com/cran?q=&type=&language=fortran&sort=): R is a free software environment for statistical computing and graphics
 
