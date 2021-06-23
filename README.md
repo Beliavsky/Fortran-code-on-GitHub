@@ -397,7 +397,7 @@
 
 [fortran-strings](https://github.com/eengl/fortran-strings): library and module which contains functions for common string manipulations, by eengl
 
-[M_strings](https://github.com/urbanjost/M_strings): modules for processing strings. Routines for parsing, tokenizing, changing case, substituting new strings for substrings, locating strings with simple wildcard expressions, removing tabs and line terminators and other string manipulations are included
+[M_strings](https://github.com/urbanjost/M_strings): modules for processing strings. Routines for parsing, tokenizing, changing case, substituting new strings for substrings, locating strings with simple wildcard expressions, removing tabs and line terminators and other string manipulations are included[fds
 
 [StringiFor](https://github.com/szaghi/StringiFor): Strings Fortran Manipulator with steroids, by szaghi
 
@@ -411,3 +411,4 @@
 [Timeslab](https://github.com/Beliavsky/Timeslab): Fortran 77 time series package by H. Joseph Newton to accompany his book "Timeslab: A Time Series Analysis Laboratory" (1988)
 
 ## Unclassified
+[fds](https://github.com/firemodels/fds): Fire Dynamics Simulator (FDS) is a large-eddy simulation (LES) code for low-speed flows, from firemodels, with an emphasis on smoke and heat transport from fires.
