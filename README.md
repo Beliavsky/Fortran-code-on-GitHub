@@ -137,6 +137,8 @@
 
 [elmerfem](https://github.com/ElmerCSC/elmerfem): finite element software for numerical solution of partial differential equations. Elmer is capable of handling any number of equations and is therefore ideally suited for the simulation of multiphysical problems.
 
+[NASTRAN-95](https://github.com/nasa/NASTRAN-95): NASA Structural Analysis System, a finite element analysis program (FEA) completed in the early 1970's
+
 [ParaFEM](https://github.com/ParaFEM/ParaFEM): open source parallel finite element analysis library that is documented by the text book "Programming the Finite Element Method"
 
 [PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran
