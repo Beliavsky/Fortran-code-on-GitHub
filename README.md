@@ -85,6 +85,8 @@
 
 [Flow81](https://github.com/corygoates/Flow81): basic CFD solvers by corygoates
 
+[fluidity](https://github.com/FluidityProject/fluidity): open source, general purpose, multiphase computational fluid dynamics code capable of numerically solving the Navier-Stokes equation and accompanying field equations on arbitrary unstructured finite element meshes in one, two and three dimensions
+
 [O2-Project](https://github.com/kgpolitis/O2-Project): ramework for CFD oriented scientific code development in Modern Fortran, by kgpolitis
 
 ## Dates and Times
