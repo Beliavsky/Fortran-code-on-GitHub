@@ -344,6 +344,10 @@
 
 [KORC](https://github.com/ORNL-Fusion/KORC): Kinetic Orbit Runaway Code, from ORNL-Fusion
 
+[SENSMG](https://github.com/jafavorite/SENSMG): Sensitivities of Neutron Reaction Rates, Reaction-Rate Ratios, Leakage, keff, and α Using PARTISN, by jafavorite
+
+[SNAP](https://github.com/lanl/SNAP): proxy application to model the performance of a modern discrete ordinates neutral particle transport application, from LANL
+
 [VicsekSimulation](https://github.com/santinoacco/VicsekSimulation): Fortran & Python based simulation of a self-propelled particles system
 
 ## Quantum Chemistry and Electronic Structure
