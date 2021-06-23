@@ -5,6 +5,7 @@
 * [Climate and Weather](#climate-and-weather)
 * [Code Tools](#code-tools)
 * [Compiler Tests](#compiler-tests)
+* [Computational CHemistry](#computational-chemistry)
 * [Computational Fluid Dynamics](#computational-fluid-dynamics)
 * [Dates and Times](#dates-and-times)
 * [Earth Science](#earth-science)
