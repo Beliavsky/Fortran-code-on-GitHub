@@ -72,6 +72,10 @@
 ## Computational Chemistry
 [duo](https://github.com/Trovemaster/Duo): diatomic code for solving a fully coupled rovibronic Schroedinger equation, by Trovemaster
 
+[HFB](https://github.com/knappf/HFB): Hartree-Fock-Bogolyubov code for (hyper)nuclear structure calculations (version by P. Vesely)
+
+[taurus_vap](https://github.com/project-taurus/taurus_vap): solves the variation after particle-number projection equations for real general Bogoliubov quasi-particle states represented in a spherical harmonic oscillator basis, from project-taurus
+
 [TROVE](https://github.com/Trovemaster/TROVE): Theoretical ROVibrational Energies: A variational program for accurate nuclear motion calculations, by Trovemaster
 
 ## Computational Fluid Dynamics
