@@ -355,6 +355,8 @@
 
 [bandup](https://github.com/band-unfolding/bandup): Band Unfolding code for Plane-wave based calculations
 
+[cp2k](https://github.com/cp2k/cp2k): quantum chemistry and solid state physics software package that can perform atomistic simulations of solid state, liquid, molecular, periodic, material, crystal, and biological systems
+
 [dftbplus](https://github.com/dftbplus/dftbplus): DFTB+ general package for performing fast atomistic simulations
 
 [EDIpack](https://github.com/QcmPlab/EDIpack): Lanczos-based solver for generic quantum impurity models exploiting distributed memory MPI parallelisation, from QcmPlab
