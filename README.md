@@ -5,7 +5,7 @@
 * [Climate and Weather](#climate-and-weather)
 * [Code Tools](#code-tools)
 * [Compiler Tests](#compiler-tests)
-* [Computational CHemistry](#computational-chemistry)
+* [Computational Chemistry](#computational-chemistry)
 * [Computational Fluid Dynamics](#computational-fluid-dynamics)
 * [Dates and Times](#dates-and-times)
 * [Earth Science](#earth-science)
@@ -72,7 +72,7 @@
 ## Computational Chemistry
 [duo](https://github.com/Trovemaster/Duo): diatomic code for solving a fully coupled rovibronic Schroedinger equation, by Trovemaster
 
-[duo](https://github.com/Trovemaster/Duo): diatomic code for solving a fully coupled rovibronic Schroedinger equation, by Trovemaster
+[TROVE](https://github.com/Trovemaster/TROVE): Theoretical ROVibrational Energies: A variational program for accurate nuclear motion calculations, by Trovemaster
 
 ## Computational Fluid Dynamics
 [CGNS](https://github.com/CGNS/CGNS): the CFD General Notation System (CGNS) provides a standard for recording and recovering computer data associated with the numerical solution of fluid dynamics equations
@@ -340,6 +340,10 @@
 
 ## Quantum Chemistry and Electronic Structure
 [EDIpack](https://github.com/QcmPlab/EDIpack): Lanczos-based solver for generic quantum impurity models exploiting distributed memory MPI parallelisation, from QcmPlab
+
+[EMPM_MPI](https://github.com/knappf/EMPM_MPI): codes for TDA, 2 and 3 -phonon diagonalization of nuclear Hamiltonian within Equation-of-motion Phonon Method, by knappf
+
+[EMPM_MPI_NO](https://github.com/knappf/EMPM_MPI_NO): codes for TDA, 2 and 3 -phonon diagonalization of nuclear Hamiltonian within Equation-of-motion Phonon Method, by knappf. Natural orbital basis version.
 
 [molgw](https://github.com/bruneval/molgw): accurate many-body perturbation theory calculations of the electronic structure of molecules, by bruneval
 
