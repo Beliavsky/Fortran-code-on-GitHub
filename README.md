@@ -345,6 +345,12 @@
 [VicsekSimulation](https://github.com/santinoacco/VicsekSimulation): Fortran & Python based simulation of a self-propelled particles system
 
 ## Quantum Chemistry and Electronic Structure
+[abinit](https://github.com/abinit/abinit): atomic-scale simulation software suite
+
+[bandup](https://github.com/band-unfolding/bandup): Band Unfolding code for Plane-wave based calculations
+
+[dftbplus](https://github.com/dftbplus/dftbplus): DFTB+ general package for performing fast atomistic simulations
+
 [EDIpack](https://github.com/QcmPlab/EDIpack): Lanczos-based solver for generic quantum impurity models exploiting distributed memory MPI parallelisation, from QcmPlab
 
 [EMPM_MPI](https://github.com/knappf/EMPM_MPI): codes for TDA, 2 and 3 -phonon diagonalization of nuclear Hamiltonian within Equation-of-motion Phonon Method, by knappf
@@ -356,6 +362,8 @@
 [NWChem](https://github.com/nwchemgit/nwchem): Open Source High-Performance Computational Chemistry
 
 [q-e](https://github.com/QEF/q-e): Quantum ESPRESSO suite of codes (ESPRESSO: opEn-Source Package for Research in Electronic Structure, Simulation, and Optimization)
+
+[qe-gpu](https://github.com/fspiga/qe-gpu): GPU-accelerated Quantum ESPRESSO using CUDA Fortran, by fspiga
 
 [STB](https://github.com/MRedies/STB): Simple Tight-binding, by MRedies
 
