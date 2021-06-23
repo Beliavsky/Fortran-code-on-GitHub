@@ -322,6 +322,8 @@
 ## Physics
 [CAMB](https://github.com/cmbant/CAMB): code for Anisotropies in the Microwave Background, by cmbant
 
+[Computational Environment for Nuclear Structure (CENS)](https://github.com/ManyBodyPhysics/CENS): many-body codes developed by Morten Hjorth-Jensen and collaborators
+
 [computational_physics](https://github.com/alexbaekey/computational_physics): computational physics projects by alexbaekey
 
 [etfFinal](https://github.com/mgeshelley/etfFinal): Neutron star inner crust code, by mgeshelley
