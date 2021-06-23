@@ -128,6 +128,8 @@
 ## Fortran Tutorials
 [fortran2018-examples](https://github.com/scivision/fortran2018-examples): Fortran 2018 standard examples with broad applications, from SciVision
 
+[modern-fortran](https://github.com/dvalters/modern-fortran): notes and code from the Fortran Modernisation workshop, by dvalters
+
 ## General Purpose
 [BeFoR64](https://github.com/szaghi/BeFoR64): Base64 encoding/decoding library for FoRtran poor men, is a pure Fortran (KISS) library for base64 encoding/decoding for modern (2003+) Fortran projects
 
