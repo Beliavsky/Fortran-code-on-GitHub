@@ -71,7 +71,7 @@
 [3D_Convolusional_Filtering](https://github.com/JoGebert/3D_Convolusional_Filtering): convolusional filtering of computed tomography scans, by JoGebert. Intended to get a clear separation between bone marrow and cancellous bone for subsequent binarization and calculations.
 
 ## Climate and Weather
-[C_ClWxSim[(https://github.com/RosesHaveThorns/C_ClWxSim): very simplistic weather and climate simulator for worldbuilding, from RosesHaveThorns
+[C_ClWxSim](https://github.com/RosesHaveThorns/C_ClWxSim): very simplistic weather and climate simulator for worldbuilding, from RosesHaveThorns
 
 [CRUST](https://github.com/ClimaticResearchUnit/CRUST): Climatic Research Unit Standardisation of Tree-ring data
 
