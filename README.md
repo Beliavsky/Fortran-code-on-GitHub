@@ -32,9 +32,9 @@
 * [Unclassified](#unclassified)
 
 ## Astrophysics
-[exotrending](https://github.com/oscaribv/exotrending): ast and easy-to-use light curve detrending software for exoplanets, from oscaribv
-
 [evelchemevol](https://github.com/lukeshingles/evelchemevol): one-zone closed-box chemical evolution code written in Fortran with OpenMP, by lukeshingles
+
+[exotrending](https://github.com/oscaribv/exotrending): fast and easy-to-use light curve detrending software for exoplanets, from oscaribv
 
 [galacticus](https://github.com/galacticusorg/galacticus): semi-analytic model of galaxy formation - a powerful toolkit for modeling the physics of how galaxies form
 
