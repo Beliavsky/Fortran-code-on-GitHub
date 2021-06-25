@@ -298,7 +298,7 @@
 
 [sparse-fortran](https://github.com/scivision/sparse-fortran): sparse array examples using MUMPS, Scalapack, BLACS, PARDISO with CMake and Meson, from SciVision
 
-[tt-fort](https://github.com/oseledets/tt-fort): Fortran computing core of the TT-Toolbox Right now, it is not easy to use It also includes two slightly customized libraries or doing fast local solvers in eigenvalue and dynamical problems.
+[tt-fort](https://github.com/oseledets/tt-fort): Fortran computing core of the TT-Toolbox. It also includes two slightly customized libraries for doing fast local solvers in eigenvalue and dynamical problems.
 
 ## Materials Science
 [Hard-fit-by-minimization](https://github.com/LaszloSToth/Hard-fit-by-minimization): efficient program to fit a stress-strain curve by the empirical function derived from crystal plasticity, by LaszloSToth
