@@ -260,7 +260,11 @@
 [NPY for Fortran](https://github.com/MRedies/NPY-for-Fortran): allows saving numerical Fortran arrays in Numpy's .npy or .npz format, by MRedies
 
 ## Linear Algebra 
-[arpack-ng](https://github.com/opencollab/arpack-ng): collection of Fortran77 subroutines designed to solve large scale eigenvalue problems, from opencollab 
+[arpack-ng](https://github.com/opencollab/arpack-ng): collection of Fortran77 subroutines designed to solve large scale eigenvalue problems, from opencollab
+
+[bddcml](https://github.com/sistek/bddcml): massively parallel solver of systems of linear equations using Multilevel Balancing Domain Decomposition based on Constraints (BDDC), by sistek
+
+[ButterflyPACK](https://github.com/liuyangzhuan/ButterflyPACK): software for rapidly solving large-scale dense linear systems that exhibit off-diagonal rank-deficiency, by liuyangzhuan
 
 [DBCSR](https://github.com/cp2k/dbcsr): Distributed Block Compressed Sparse Row matrix library, by cp2k
 
