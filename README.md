@@ -36,7 +36,7 @@
 
 [evelchemevol](https://github.com/lukeshingles/evelchemevol): one-zone closed-box chemical evolution code written in Fortran with OpenMP, by lukeshingles
 
-[galacticus[(https://github.com/galacticusorg/galacticus): semi-analytic model of galaxy formation - a powerful toolkit for modeling the physics of how galaxies form
+[galacticus](https://github.com/galacticusorg/galacticus): semi-analytic model of galaxy formation - a powerful toolkit for modeling the physics of how galaxies form
 
 [legolas](https://github.com/n-claes/legolas): modern tool for MHD spectroscopy, by n-claes
 
