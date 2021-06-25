@@ -32,13 +32,29 @@
 * [Unclassified](#unclassified)
 
 ## Astrophysics
+[exotrending](https://github.com/oscaribv/exotrending): ast and easy-to-use light curve detrending software for exoplanets, from oscaribv
+
+[evelchemevol](https://github.com/lukeshingles/evelchemevol): one-zone closed-box chemical evolution code written in Fortran with OpenMP, by lukeshingles
+
+[galacticus[(https://github.com/galacticusorg/galacticus): semi-analytic model of galaxy formation - a powerful toolkit for modeling the physics of how galaxies form
+
+[legolas](https://github.com/n-claes/legolas): modern tool for MHD spectroscopy, by n-claes
+
 [MAESTRO](https://github.com/AMReX-Astro/MAESTRO): olves the equations of low Mach number hydrodynamics for stratified atmospheres/stars with a general equation of state, from AMReX-Astro
+
+[magnetizer](https://github.com/luizfelippesr/magnetizer): post-processes the output of a semi-analytic model of galaxy formation and produces a catalogue of galaxies with detailed radial dependent ISM properties, including magnetic fields, by luizfelippesr
 
 [NormalModes](https://github.com/js1019/NormalModes): applies a combination of several highly parallel algorithms to compute the planetary interior normal modes, by js1019
 
 [phantom](https://github.com/danieljprice/phantom): 3D Smoothed Particle Hydrodynamics and Magnetohydrodynamics code for astrophysics, by Daniel Price and others
 
+[riaf-sed](https://github.com/rsnemmen/riaf-sed): computes spectral energy distributions of radiatively inefficient accretion flows (RIAFs) around black holes, by rsnemmen
+
 [splash](https://github.com/danieljprice/splash): visualisation tool for Smoothed Particle Hydrodynamics (SPH) simulations in one, two and three dimensions, developed mainly for astrophysics,  by Daniel Price
+
+[UCLCHEM](https://github.com/uclchem/UCLCHEM): gas-grain chemical code for Astrochemistry
+
+[universe-age](https://github.com/shu-yusa/universe-age): calculate the age of the universe for various parameters by integrating Friedmann Equation, by shu-yusa
 
 ## Benchmarks
 [julia-numpy-fortran-test](https://github.com/mdmaas/julia-numpy-fortran-test): comparing Julia vs Numpy vs Fortran for performance and code simplicity, by mdmaas
