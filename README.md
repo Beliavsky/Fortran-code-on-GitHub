@@ -71,6 +71,12 @@
 [3D_Convolusional_Filtering](https://github.com/JoGebert/3D_Convolusional_Filtering): convolusional filtering of computed tomography scans, by JoGebert. Intended to get a clear separation between bone marrow and cancellous bone for subsequent binarization and calculations.
 
 ## Climate and Weather
+[C_ClWxSim[(https://github.com/RosesHaveThorns/C_ClWxSim): very simplistic weather and climate simulator for worldbuilding, from RosesHaveThorns
+
+[CRUST](https://github.com/ClimaticResearchUnit/CRUST): Climatic Research Unit Standardisation of Tree-ring data
+
+[CTSM](https://github.com/ESCOMP/CTSM): Community Terrestrial Systems Model (includes the Community Land Model of CESM), from ESCOMP
+
 [FMS](https://github.com/NOAA-GFDL/FMS): Flexible Modeling System (FMS), from NOAA-GFDL, is a software environment that supports the efficient development, construction, execution, and scientific interpretation of atmospheric, oceanic, and climate system models
 
 [gcm](https://github.com/pqnelson/gcm): Toy General Circulation Model in Literate Fortran, by pqnelson
@@ -79,13 +85,21 @@
 
 [E3SM](https://github.com/E3SM-Project/E3SM): Energy Exascale Earth System Model source code, by E3SM-Project 
 
-[fv3gfs](https://github.com/NOAA-EMC/fv3gfs): Finite­ Volume Cubed-Sphere dynamical core (FV3) Global Forecasting System (GFS), from NOAA-EMC
+[fv3gfs](https://github.com/NOAA-EMC/fv3gfs): Finite­ Volume Cubed-Sphere dynamical core (FV3) Global Forecasting System (GFS), from NOAA-EMCGeneralized Analog Regression Downscaling
+
+[GARD](https://github.com/NCAR/GARD): Generalized Analog Regression Downscaling code, from NCAR
 
 [GemmesF90](https://github.com/timongo/GemmesF90): code corresponing to paper "Financial impacts of climate change mitigation policies and their macroeconomic implications: a stock-flow consistent approach." Climate Policy 20.2 (2020): 179-198, by timongo
 
 [GFDL_atmos_cubed_sphere](https://github.com/NOAA-GFDL/GFDL_atmos_cubed_sphere): GFDL atmos_cubed_sphere dynamical core code, from NOAA-GFDL
 
+[icar](https://github.com/NCAR/icar): Intermediate Complexity Atmospheric Research Model (ICAR), from NCAR, a simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses
+
+[NoahMP](https://github.com/ESMWG/NoahMP): Noah with multiparameterization options (NoahMP) land surface model, from ESMWG
+
 [pytdlpack](https://github.com/eengl/pytdlpack): Python interface for reading and writing TDLPACK data, by eengl
+
+[weather-buoys](https://github.com/modern-fortran/weather-buoys): Processing weather buoy data in parallel, from modern-fortran
 
 [WRF](https://github.com/wrf-model/WRF): Weather Research and Forecasting (WRF) model
 
