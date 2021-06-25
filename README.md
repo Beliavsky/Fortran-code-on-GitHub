@@ -1,5 +1,6 @@
 ## Fortran code on GitHub
 
+* [Astrophysics](#astrophysics)
 * [Benchmarks](#benchmarks)
 * [Biology and Medicine](#biology-and-medicine)
 * [Climate and Weather](#climate-and-weather)
@@ -29,6 +30,15 @@
 * [Strings](#strings)
 * [Time Series](#time-series)
 * [Unclassified](#unclassified)
+
+## Astrophysics
+[MAESTRO](https://github.com/AMReX-Astro/MAESTRO): olves the equations of low Mach number hydrodynamics for stratified atmospheres/stars with a general equation of state, from AMReX-Astro
+
+[NormalModes](https://github.com/js1019/NormalModes): applies a combination of several highly parallel algorithms to compute the planetary interior normal modes, by js1019
+
+[phantom](https://github.com/danieljprice/phantom): 3D Smoothed Particle Hydrodynamics and Magnetohydrodynamics code for astrophysics, by Daniel Price and others
+
+[splash](https://github.com/danieljprice/splash): visualisation tool for Smoothed Particle Hydrodynamics (SPH) simulations in one, two and three dimensions, developed mainly for astrophysics,  by Daniel Price
 
 ## Benchmarks
 [julia-numpy-fortran-test](https://github.com/mdmaas/julia-numpy-fortran-test): comparing Julia vs Numpy vs Fortran for performance and code simplicity, by mdmaas
