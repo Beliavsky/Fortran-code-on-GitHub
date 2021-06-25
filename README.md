@@ -186,6 +186,8 @@
 [PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran
 
 ## Fortran Tutorials
+[coarray-tutorial](https://github.com/tkoenig1/coarray-tutorial): short tutorial using gfortran, ifort, or NAG Fortran, by tkoenig1
+
 [fortran2018-examples](https://github.com/scivision/fortran2018-examples): Fortran 2018 standard examples with broad applications, from SciVision
 
 [modern-fortran](https://github.com/dvalters/modern-fortran): notes and code from the Fortran Modernisation workshop, by dvalters
