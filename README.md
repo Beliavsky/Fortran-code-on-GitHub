@@ -40,7 +40,7 @@
 
 [legolas](https://github.com/n-claes/legolas): modern tool for MHD spectroscopy, by n-claes
 
-[MAESTRO](https://github.com/AMReX-Astro/MAESTRO): olves the equations of low Mach number hydrodynamics for stratified atmospheres/stars with a general equation of state, from AMReX-Astro
+[MAESTRO](https://github.com/AMReX-Astro/MAESTRO): solves the equations of low Mach number hydrodynamics for stratified atmospheres/stars with a general equation of state, from AMReX-Astro
 
 [magnetizer](https://github.com/luizfelippesr/magnetizer): post-processes the output of a semi-analytic model of galaxy formation and produces a catalogue of galaxies with detailed radial dependent ISM properties, including magnetic fields, by luizfelippesr
 
