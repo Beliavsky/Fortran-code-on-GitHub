@@ -1,4 +1,4 @@
-## Fortran code on GitHub -- also see the [fortran-lang package index](https://fortran-lang.org/packages/)
+## Fortran code on GitHub -- also see [fortran-lang package index](https://fortran-lang.org/packages/)
 
 * [Astrophysics](#astrophysics)
 * [Benchmarks](#benchmarks)
