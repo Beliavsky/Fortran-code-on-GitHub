@@ -329,6 +329,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [NN_MOD](https://github.com/thchang/NN_MOD): Fortran 2008 Module/Class for training neural network regressors, by thchang
 
+[util](https://github.com/tchlux/util): machine learning, optimization, and data science utilities package, by tchlux
+
 ## Numerical
 [antia_numerical_methods](https://github.com/Beliavsky/antia_numerical_methods): codes from "Numerical methods for scientists and engineers, 3rd ed." (2012), by H. M. Antia
 
