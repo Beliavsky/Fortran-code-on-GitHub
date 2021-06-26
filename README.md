@@ -71,7 +71,7 @@
 [3D_Convolusional_Filtering](https://github.com/JoGebert/3D_Convolusional_Filtering): convolusional filtering of computed tomography scans, by JoGebert. Intended to get a clear separation between bone marrow and cancellous bone for subsequent binarization and calculations.
 
 ## Climate and Weather
-[asgs](https://github.com/StormSurgeLive/asgs): The ADCIRC Surge Guidance System (ASGS), from 
+[asgs](https://github.com/StormSurgeLive/asgs): the ADCIRC Surge Guidance System (ASGS), from 
 StormSurgeLive, provides software infrastructure for automating ADCIRC for real time or operational deployments, as well as a variety of tools for pre- and post-processing ADCIRC data.
 
 [C_ClWxSim](https://github.com/RosesHaveThorns/C_ClWxSim): very simplistic weather and climate simulator for worldbuilding, from RosesHaveThorns
