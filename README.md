@@ -132,7 +132,9 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [fluidity](https://github.com/FluidityProject/fluidity): open source, general purpose, multiphase computational fluid dynamics code capable of numerically solving the Navier-Stokes equation and accompanying field equations on arbitrary unstructured finite element meshes in one, two and three dimensions
 
-[O2-Project](https://github.com/kgpolitis/O2-Project): ramework for CFD oriented scientific code development in Modern Fortran, by kgpolitis
+[O2-Project](https://github.com/kgpolitis/O2-Project): framework for CFD oriented scientific code development in Modern Fortran, by kgpolitis
+
+[tlab](https://github.com/turbulencia/tlab): Tools to simulate and analyze turbulent flows in 2D and 3D configurations, from turbulencia. The numerical schemes are based on compact finite differences with structured meshes, where grid stretching allowed. Time advancement in based on Runge-Kutta schemes.
 
 ## Dates and Times
 [datetime-fortran](https://github.com/milancurcic/datetime-fortran): time and date manipulation facilities, by milancurcic
