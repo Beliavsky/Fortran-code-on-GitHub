@@ -278,7 +278,7 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [jlib](https://github.com/jhthorpe/jlib): modules for buffers, file I/O, and memory management, by jhthorpe
 
-[json-fortran](https://github.com/jacobwilliams/json-fortran): Fortran 2003/2008 JSON API
+[json-fortran](https://github.com/jacobwilliams/json-fortran): user-friendly, thread-safe, and object-oriented API for reading and writing JSON files, written in modern Fortran, by jacobwilliams
 
 [kdtree2](https://github.com/jmhodges/kdtree2): kd-tree implementation in C++ (and Fortran) by Matthew B. Kennel
 
