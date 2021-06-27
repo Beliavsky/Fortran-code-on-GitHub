@@ -446,6 +446,14 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 ## Particle Physics
 [darkmatter](https://github.com/ogorton/darkmatter): experimental WIMP Analysis, by ogorton
 
+[LRSM](https://github.com/oozdal/LRSM): Generic Left-Right Symmetric Model, by oozdal
+
+[MCFM-RE](https://github.com/lcarpino/MCFM-RE): NNLL resummation for jet-veto cross sections in colour singlet processes, by lcarpino
+
+[SPheno](https://github.com/JP-Ellis/SPheno): SPheno stands for S(upersymmetric) Pheno(menology). The code, by JP-Ellis, calculates the SUSY spectrum using low energy data and a user supplied high scale model as input.
+
+[vbfnlo](https://github.com/vbfnlo/vbfnlo): fully flexible parton level Monte Carlo program for the simulation of vector boson fusion, double and triple vector boson production in hadronic collisions at next-to-leading order in the strong coupling constant
+
 ## Physics
 [Computational Environment for Nuclear Structure (CENS)](https://github.com/ManyBodyPhysics/CENS): many-body codes developed by Morten Hjorth-Jensen and collaborators
 
