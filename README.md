@@ -388,6 +388,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [Numerical methods in Fortran](https://github.com/mrtkp9993/Numerical-Methods-in-Fortran): numerical analysis and statistics algorithms, by Murat Koptur 
 
+[rpn-calc-fortran](https://github.com/scivision/rpn-calc-fortran): Fortran 2018 Reverse Polish Notation (RPN) calculator from scivision. Over 100 functions not in standard Fortran
+
 [SciFortran](https://github.com/QcmPlab/SciFortran): A library of fortran modules and routines for scientific calculations (*in a way* just like scipy for python), from QcmPlab
 
 [Tensor Toolbox for Modern Fortran (ttb)](https://github.com/adtzlr/ttb)
