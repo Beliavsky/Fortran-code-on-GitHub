@@ -38,6 +38,8 @@
 
 [galacticus](https://github.com/galacticusorg/galacticus): semi-analytic model of galaxy formation - a powerful toolkit for modeling the physics of how galaxies form
 
+[kcarta_gen](https://github.com/sergio66/kcarta_gen): fast, accurate, easy-to-use pseudo-monochromatic radiative transfer code, by sergio66
+
 [legolas](https://github.com/n-claes/legolas): modern tool for MHD spectroscopy, by n-claes
 
 [MAESTRO](https://github.com/AMReX-Astro/MAESTRO): solves the equations of low Mach number hydrodynamics for stratified atmospheres/stars with a general equation of state, from AMReX-Astro
