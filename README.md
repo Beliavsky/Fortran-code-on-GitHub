@@ -229,6 +229,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 ## Games
 [blocktran](https://github.com/fortran-gaming/blocktran): Falling-block object-oriented Fortran 2018 game, with resizable playfield, from fortran-gaming
 
+[mastermind](https://github.com/fortran-gaming/mastermind): classic MasterMind game in modern Fortran 2008, from fortran-gaming
+
 ## General Purpose
 [BeFoR64](https://github.com/szaghi/BeFoR64): Base64 encoding/decoding library for FoRtran poor men, is a pure Fortran (KISS) library for base64 encoding/decoding for modern (2003+) Fortran projects
 
