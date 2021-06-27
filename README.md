@@ -511,6 +511,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [ParaMonte](https://github.com/cdslaborg/paramonte): Plain Powerful Parallel Monte Carlo and MCMC Library for Python, MATLAB, Fortran, C++, C, from cdslaborg
 
+[PolyChordLite](https://github.com/PolyChord/PolyChordLite): public version of PolyChord, next generation data technology which has the ability to more fully explore a complex, challenging data landscape
+
 [SLICE](https://github.com/ericlindsey/slice): efficient N-Dimensional Monte Carlo inversion algorithm, by ericlindsey 
 
 ## Strings
