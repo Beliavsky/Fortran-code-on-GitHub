@@ -338,6 +338,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 ## Materials Science
 [DMFTwDFT](https://github.com/DMFTwDFT-project/DMFTwDFT): calculates electronic, vibrational and elastic properties in strongly correlated materials (SCM) using beyond-DFT methods such as DFT+U, DFT+Hybrids and DFT+DMFT (Dynamical Mean Field Theory) with a variety of different DFT codes
 
+[EXCEED-DM](https://github.com/tanner-trickle/EXCEED-DM): EXtended Calculation of Electronic Excitations for Direct detection of Dark Matter, by tanner-trickle
+
 [Hard-fit-by-minimization](https://github.com/LaszloSToth/Hard-fit-by-minimization): efficient program to fit a stress-strain curve by the empirical function derived from crystal plasticity, by LaszloSToth
 
 [thermo_pw](https://github.com/dalcorso/thermo_pw): ab-initio computation of material properties, by dalcorso
