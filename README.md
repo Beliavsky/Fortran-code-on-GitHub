@@ -484,6 +484,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [wannier90](https://github.com/wannier-developers/wannier90): Maximally-Localised Generalised Wannier Functions Code
 
+[Zen](https://github.com/huangli712/Zen): modern DFT + DMFT (namely, density functional theory plus dynamical mean-field theory) computation framework, by huangli712
+
 ## Statistics
 [200+ R packages with Fortran code](https://github.com/cran?q=&type=&language=fortran&sort=): R is a free software environment for statistical computing and graphics
 
