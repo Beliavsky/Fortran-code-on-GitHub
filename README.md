@@ -192,6 +192,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 [stl-fortran](https://github.com/jacobwilliams/stl-fortran): Fortran STL (stereolithography) File I/O, by jacobwilliams
 
 ## Finite Elements
+[CEOS](https://github.com/josemthiesen/CEOS): non linear finite element code by josemthiesen and BrunoKlahr
+
 [easifem-base](https://github.com/vickysharma0812/easifem-base): framework for developing finite element code in modern Fortran for solving PDEs, by vickysharma0812
 
 [elmerfem](https://github.com/ElmerCSC/elmerfem): finite element software for numerical solution of partial differential equations. Elmer is capable of handling any number of equations and is therefore ideally suited for the simulation of multiphysical problems.
