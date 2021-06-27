@@ -268,6 +268,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [ForUtils](https://github.com/cmbant/forutils): Fortran 2008 utility functions and reusable classes, by cmbant
 
+[fson](https://github.com/josephalevin/fson): Fortran 95 JSON Parser, by josephalevin
+
 [FTObjectLibrary](https://github.com/trixi-framework/FTObjectLibrary): provides a collection of reference counted Fortran 2003 classes to facilitate writing generic object oriented Fortran programs
 
 [functional-fortran](https://github.com/wavebitscientific/functional-fortran): library for functional programming in modern Fortran
