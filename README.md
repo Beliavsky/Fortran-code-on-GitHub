@@ -226,6 +226,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 ## Fortran Tutorials
 [coarray-tutorial](https://github.com/tkoenig1/coarray-tutorial): short tutorial using gfortran, ifort, or NAG Fortran, by tkoenig1
 
+[fortran](https://github.com/alexpacheco/fortran): files (TeX, PDF, Exercise and Example codes) for HPC Training on Fortran, by alexpacheco
+
 [fortran2018-examples](https://github.com/scivision/fortran2018-examples): Fortran 2018 standard examples with broad applications, from SciVision
 
 [modern-fortran](https://github.com/dvalters/modern-fortran): notes and code from the Fortran Modernisation workshop, by dvalters
