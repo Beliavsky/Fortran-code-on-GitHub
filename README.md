@@ -158,6 +158,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran, from stfc
 
+[rsl](https://github.com/Guymer/rsl): maps the effects of rising sea levels on Great Britain, by Guymer
+
 [SurfTomo](https://github.com/caiweicaiwei/SurfTomo): direct inversion of surface wave dispersion data, by caiweicaiwei
 
 [trnfsp3n](https://github.com/Geo-Linux-Calculations/trnfsp3n): Fortran 77 code for transforming GPS orbit files in SP3 format between different realizations of ITRF's, from Geo-Linux-Calculations
