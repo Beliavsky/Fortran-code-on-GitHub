@@ -38,6 +38,10 @@
 [Fortran-Astrodynamics-Toolkit](https://github.com/jacobwilliams/Fortran-Astrodynamics-Toolkit): aims to be a comprehensive library, written in modern Fortran (Fortran 2003/2008), of all the standard orbital mechanics algorithms, by jacobwilliams
 
 ## Astrophysics
+[CAMB](https://github.com/cmbant/CAMB): code for Anisotropies in the Microwave Background, by cmbant
+
+[etfFinal](https://github.com/mgeshelley/etfFinal): Neutron star inner crust code, by mgeshelley
+
 [evelchemevol](https://github.com/lukeshingles/evelchemevol): one-zone closed-box chemical evolution code written in Fortran with OpenMP, by lukeshingles
 
 [exotrending](https://github.com/oscaribv/exotrending): fast and easy-to-use light curve detrending software for exoplanets, from oscaribv
@@ -417,13 +421,9 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 [OpenCoarrays](https://github.com/sourceryinstitute/OpenCoarrays): parallel application binary interface for Fortran 2018 compilers, from sourceryinstitute
 
 ## Physics
-[CAMB](https://github.com/cmbant/CAMB): code for Anisotropies in the Microwave Background, by cmbant
-
 [Computational Environment for Nuclear Structure (CENS)](https://github.com/ManyBodyPhysics/CENS): many-body codes developed by Morten Hjorth-Jensen and collaborators
 
 [computational_physics](https://github.com/alexbaekey/computational_physics): computational physics projects by alexbaekey
-
-[etfFinal](https://github.com/mgeshelley/etfFinal): Neutron star inner crust code, by mgeshelley
 
 [exocross](https://github.com/Trovemaster/exocross): Fortran 2003 code to generate molecular cross-sections using line lists in the ExoMol format, by Trovemaster
 
