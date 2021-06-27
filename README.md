@@ -150,6 +150,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [CDFTOOLS](https://github.com/meom-group/CDFTOOLS): analysis and diagnostics on NEMO ocean model output, from meom-group
 
+[gemini3d](https://github.com/gemini3d/gemini3d): ionospheric fluid electrodynamic model
+
 [MOM6](https://github.com/NOAA-GFDL/MOM6): Modular Ocean Model, from NOAA-GFDL
 
 [NEMO-examples](https://github.com/NEMO-ocean/NEMO-examples): simple configurations to study specific oceanic physical processes and be used as a tool for training
