@@ -248,6 +248,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [functional-fortran](https://github.com/wavebitscientific/functional-fortran): library for functional programming in modern Fortran
 
+[general-purpose-fortran](https://github.com/urbanjost/general-purpose-fortran): non-numeric tasks such as command-line parsing, string functions, date-and-time manipulation and display, interfacing to the C POSIX system routines, by urbanjost
+
 [JAMS](https://github.com/mcuntz/jams_fortran): collection of general Fortran modules offering miscellaneous functions in the categories Computational, Date and Time, Input / Output, Math / Numerics, Screening, Sensitivity Analysis and Optimising / Fitting, and Miscellaneous. Written by Matthias Cuntz, Juliane Mai and Stephan Thober
 
 [jlib](https://github.com/jhthorpe/jlib): modules for buffers, file I/O, and memory management, by jhthorpe
