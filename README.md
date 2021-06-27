@@ -119,9 +119,11 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 [WRF](https://github.com/wrf-model/WRF): Weather Research and Forecasting (WRF) model
 
 ## Code Tools
-[prep](https://github.com/urbanjost/prep): Fortran pre-processor written in Fortran, by urbanjost
-
 [exceptions](https://github.com/arjenmarkus/exceptions): experiment with exceptions in Fortran via a simple preprocessing step, by arjenmarkus
+
+[libfde](https://github.com/Zorkator/libfde): Fortran Development Extensions (library), by Zorkator
+
+[prep](https://github.com/urbanjost/prep): Fortran pre-processor written in Fortran, by urbanjost
 
 ## Compiler Tests
 [fortran-compiler-tests](https://github.com/nncarlson/fortran-compiler-tests): collection of Fortran compiler bug examples and tests, by nncarlson
