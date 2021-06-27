@@ -453,7 +453,7 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [SNAP](https://github.com/lanl/SNAP): proxy application to model the performance of a modern discrete ordinates neutral particle transport application, from LANL
 
-[thermopack](https://github.com/SINTEF/thermopack): thermodynamic model library for fluid properties and PVT calculations
+[thermopack](https://github.com/SINTEF/thermopack): thermodynamic model library for fluid properties and PVT calculations, from SINTEF
 
 [turbogap](https://github.com/mcaroba/turbogap): efficiently and accurately builds many-body atomic descriptors and carry out other related computations employed in machine-learning approaches to atomistic modeling, such as to run molecular dynamics simulations, by mcaroba
 
