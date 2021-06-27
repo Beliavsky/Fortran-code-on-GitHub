@@ -26,6 +26,7 @@
 * [Numerical](#numerical)
 * [Optimization](#optimization)
 * [Parallel Programing](#parallel-programming)
+* [Particle Physics](#particle-physics)
 * [Physics](#physics)
 * [Quantum Chemistry and Electronic Structure](#Quantum-Chemistry-and-Electronic-Structure)
 * [Statistics](#Statistics)
@@ -441,6 +442,9 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 [Fortran Coarray and MPI Examples](https://github.com/scivision/fortran-coarray-mpi-examples) from scivision
 
 [OpenCoarrays](https://github.com/sourceryinstitute/OpenCoarrays): parallel application binary interface for Fortran 2018 compilers, from sourceryinstitute
+
+## Particle Physics
+[darkmatter](https://github.com/ogorton/darkmatter): experimental WIMP Analysis, by ogorton
 
 ## Physics
 [Computational Environment for Nuclear Structure (CENS)](https://github.com/ManyBodyPhysics/CENS): many-body codes developed by Morten Hjorth-Jensen and collaborators
