@@ -437,6 +437,10 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 
 [minuit](https://github.com/ramos/minuit): Fortran 77 library for function minimization and error Analysis by F. James
 
+[nonlin](https://github.com/jchristopherson/nonlin): solves systems of nonlinear equations, by jchristopherson
+
+[osqp-fortran](https://github.com/osqp/osqp-fortran): Fortran wrapper for OSQP: the Operator Splitting QP Solver
+
 [pikaia](https://github.com/jacobwilliams/pikaia): Modern Fortran Edition of the Pikaia Genetic Algorithm by Jacob Williams
 
 [pdfo](https://github.com/pdfo/pdfo): Powell's Derivative-Free Optimization solvers is a cross-platform package
@@ -444,9 +448,13 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [PowellOpt](https://github.com/jacobwilliams/PowellOpt): collection of derivative-free optimization algorithms by M.J.D. Powell. 
 
+[pso](https://github.com/Konrad1991/pso): particle swarm optimization in Fortran, by Konrad1991
+
 [qnstop](https://github.com/vtopt/qnstop) suite of serial and parallel Fortran 95/2003 codes for deterministic global optimization and stochastic optimization by Layne Watson. 
 
 [RALFit](https://github.com/ralna/RALFit): non-linear least squares solver that is primarily developed by the Numerical Analysis group at STFC Rutherford Appleton Laboratory. 
+
+[scipydirect](https://github.com/andim/scipydirect): Python wrapper to the DIRECT global optimization algorithm with scipy.optimize compatible call syntax, by andim et al.
 
 [slsqp](https://github.com/jacobwilliams/slsqp): Modern Fortran edition of the [SLSQP](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.512.2567&rep=rep1&type=pdf) optimizer
 
