@@ -178,6 +178,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [CDFTOOLS](https://github.com/meom-group/CDFTOOLS): analysis and diagnostics on NEMO ocean model output, from meom-group
 
+[dep](https://github.com/dailyerosion/dep): owa State University Daily (Soil) Erosion Project
+
 [gemini3d](https://github.com/gemini3d/gemini3d): ionospheric fluid electrodynamic model
 
 [MOM6](https://github.com/NOAA-GFDL/MOM6): Modular Ocean Model, from NOAA-GFDL
