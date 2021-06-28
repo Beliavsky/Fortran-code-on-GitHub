@@ -33,6 +33,7 @@
 * [Strings](#strings)
 * [Time Series](#time-series)
 * [Unclassified](#unclassified)
+* [XML](#xml)
 
 ## Astrodynamics
 [fortran-astrodynamics](https://github.com/Yuricst/fortran-astrodynamics): astrodynamics routines by Yuricst
@@ -557,3 +558,12 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 
 ## Unclassified
 [fds](https://github.com/firemodels/fds): Fire Dynamics Simulator (FDS) is a large-eddy simulation (LES) code for low-speed flows, from firemodels, with an emphasis on smoke and heat transport from fires.
+
+## XML
+[fox](https://github.com/andreww/fox): XML library by andreww et al.
+
+[FoXy](https://github.com/Fortran-FOSS-Programmers/FoXy): XML parser, from Fortran-FOSS-Programmers
+
+[xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
+
+[xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
