@@ -304,6 +304,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 ## Graphics, Plotting, and User Interfaces
 [fortran-sdl2](https://github.com/interkosmos/fortran-sdl2): collection of ISO C binding interfaces to Simple DirectMedia Layer 2.0 (SDL 2.0), for 2D and 3D game programming in Fortran, by interkosmos
 
+[M_escape](https://github.com/urbanjost/M_escape): using in-band signaling wih ANSI control (escape) sequences to control terminal color from Fortran, by urbanjost and brocolis
+
 [vtkmofo](https://github.com/porteri/vtkmofo): VTK format using modern Fortran, by porteri
 
 ## Interoperability
