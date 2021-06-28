@@ -1,6 +1,5 @@
 ## Fortran code on GitHub -- also see [fortran-lang package index](https://fortran-lang.org/packages/)
 
-* [Astrodynamics](#astrodynamics)
 * [Astrophysics](#astrophysics)
 * [Benchmarks](#benchmarks)
 * [Biology and Medicine](#biology-and-medicine)
@@ -432,6 +431,8 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 [FilterSD](https://github.com/jacobwilliams/FilterSD): Fortran 77 subroutines for solving nonlinear programming problems and linearly constrained problems in continuous optimization
 
 [GALAHAD](https://github.com/ralna/GALAHAD): library of modern Fortran modules for nonlinear optimization
+
+[hyperBOB](https://github.com/maxEntropyProd/hyperBOB): Optimization using MPI parallel Latin hypercube sampling and BOBYQA, by maxEntropyProd
 
 [libga](https://github.com/ramos/libga): genetic algorithm optimisation library by Alberto Ramos 
 
