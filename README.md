@@ -322,6 +322,9 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [fortran_lsp](https://github.com/ivan-pi/fortran_lsp): Fortran routines from "Solving Least Squares Problems" by C. Lawson and R. Hanson, with improved interfaces, from ivan-pi
 
+[GEVP-PDHGEQZ](https://github.com/NLAFET/GEVP-PDHGEQZ): parallel ScaLAPACK-style package of routines for solving nonsymmetric real
+generalized eigenvalue problems, from NLAFET
+
 [lapack](https://github.com/Reference-LAPACK/lapack): subroutines for solving the most commonly occurring problems in numerical linear algebra
 
 [LAPACK_Examples](https://github.com/numericalalgorithmsgroup/LAPACK_Examples): example programs showing how to call LAPACK driver and computational routines (Fortran double precision), from numericalalgorithmsgroup
@@ -345,6 +348,9 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 [PSBLAS3](https://github.com/sfilippone/psblas3): Parallel Sparse Basic Linear Algebra Subroutines, from sfilippone
 
 [scalapack](https://github.com/Reference-ScaLAPACK/scalapack): library of high-performance linear algebra routines for parallel distributed memory machines. ScaLAPACK solves dense and banded linear systems, least squares problems, eigenvalue problems, and singular value problems.
+
+[SEVP-PDHSEQR-Alg953](https://github.com/NLAFET/SEVP-PDHSEQR-Alg953): parallel ScaLAPACK-style library for solving nonsymmetric
+standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive early deflation on distributed memory HPC systems, from NLAFET
 
 [sparse-fortran](https://github.com/scivision/sparse-fortran): sparse array examples using MUMPS, Scalapack, BLACS, PARDISO with CMake and Meson, from SciVision
 
