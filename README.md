@@ -116,6 +116,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [icar](https://github.com/NCAR/icar): Intermediate Complexity Atmospheric Research Model (ICAR), from NCAR, a simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses
 
+[libsim](https://github.com/ARPA-SIMC/libsim): libraries from ARPA-SIMC include a general purpose ''base'' library with modules for handling character variables, csv files, command-line arguments, physical constants, date and time computations, georeferenced coordinates, growable arrays and list structures of any type and other. Another set of libraries is specific to Meteorology and Earth Science and allows to work with gridded and sparse georeferenced data, perform interpolations, statistical processing in time, data quality control, thermodynamic computations.
+
 [NoahMP](https://github.com/ESMWG/NoahMP): Noah with multiparameterization options (NoahMP) land surface model, from ESMWG
 
 [pytdlpack](https://github.com/eengl/pytdlpack): Python interface for reading and writing TDLPACK data, by eengl
