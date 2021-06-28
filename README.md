@@ -325,7 +325,9 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [NPY for Fortran](https://github.com/MRedies/NPY-for-Fortran): allows saving numerical Fortran arrays in Numpy's .npy or .npz format, by MRedies
 
-## Linear Algebra 
+## Linear Algebra
+[amg4psblas](https://github.com/sfilippone/amg4psblas): package of Algebraic MultiGrid (AMG) preconditioners for the iterative solution of large and sparse linear systems, by sfilippone
+
 [arpack-ng](https://github.com/opencollab/arpack-ng): collection of Fortran77 subroutines designed to solve large scale eigenvalue problems, from opencollab
 
 [bddcml](https://github.com/sistek/bddcml): massively parallel solver of systems of linear equations using Multilevel Balancing Domain Decomposition based on Constraints (BDDC), by sistek
