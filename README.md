@@ -1,5 +1,6 @@
 ## Fortran code on GitHub -- also see [fortran-lang package index](https://fortran-lang.org/packages/)
 
+* [Astronomy](#astronomy)
 * [Astrophysics](#astrophysics)
 * [Benchmarks](#benchmarks)
 * [Biology and Medicine](#biology-and-medicine)
@@ -34,10 +35,12 @@
 * [Unclassified](#unclassified)
 * [XML](#xml)
 
-## Astrodynamics
+## Astronomy
 [fortran-astrodynamics](https://github.com/Yuricst/fortran-astrodynamics): astrodynamics routines by Yuricst
 
 [Fortran-Astrodynamics-Toolkit](https://github.com/jacobwilliams/Fortran-Astrodynamics-Toolkit): aims to be a comprehensive library, written in modern Fortran (Fortran 2003/2008), of all the standard orbital mechanics algorithms, by jacobwilliams
+
+[starlink](https://github.com/Starlink/starlink): astronomical data processing
 
 ## Astrophysics
 [CAMB](https://github.com/cmbant/CAMB): code for Anisotropies in the Microwave Background, by cmbant
