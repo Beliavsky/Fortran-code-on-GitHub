@@ -50,6 +50,8 @@
 
 [galacticus](https://github.com/galacticusorg/galacticus): semi-analytic model of galaxy formation - a powerful toolkit for modeling the physics of how galaxies form
 
+[hazel2](https://github.com/aasensio/hazel2): synthesis and inversion of Stokes profiles caused by the joint action of atomic level polarization and the Hanle and Zeeman effects, by aasensio
+
 [kcarta_gen](https://github.com/sergio66/kcarta_gen): fast, accurate, easy-to-use pseudo-monochromatic radiative transfer code, by sergio66
 
 [legolas](https://github.com/n-claes/legolas): modern tool for MHD spectroscopy, by n-claes
