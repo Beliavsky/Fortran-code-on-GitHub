@@ -162,6 +162,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [O2-Project](https://github.com/kgpolitis/O2-Project): framework for CFD oriented scientific code development in Modern Fortran, by kgpolitis
 
+[pencil-code](https://github.com/pencil-code/pencil-code): high-order finite-difference code for compressible hydrodynamic flows with magnetic fields and particles
+
 [shyfem](https://github.com/SHYFEM-model/shyfem): System of HydrodYnamic Finite Element Modules
 
 [tlab](https://github.com/turbulencia/tlab): Tools to simulate and analyze turbulent flows in 2D and 3D configurations, from turbulencia. The numerical schemes are based on compact finite differences with structured meshes, where grid stretching allowed. Time advancement in based on Runge-Kutta schemes.
