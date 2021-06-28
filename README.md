@@ -122,6 +122,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [pytdlpack](https://github.com/eengl/pytdlpack): Python interface for reading and writing TDLPACK data, by eengl
 
+[scream](https://github.com/E3SM-Project/scream): global atmosphere model targeted towards 3 km ("cloud resolving") resolution. It is part of the Energy Exascale Earth System Model (E3SM)
+
 [weather-buoys](https://github.com/modern-fortran/weather-buoys): Processing weather buoy data in parallel, from modern-fortran
 
 [WRF](https://github.com/wrf-model/WRF): Weather Research and Forecasting (WRF) model
