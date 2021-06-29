@@ -143,6 +143,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 ## Compiler Tests
 [fortran-compiler-tests](https://github.com/nncarlson/fortran-compiler-tests): collection of Fortran compiler bug examples and tests, by nncarlson
 
+[test_nvfortran_20_11](https://github.com/vyu16/test_nvfortran_20_11): source code test.f90 by vyu16 attempts to call getitem, defined in dummy_module.f90, incorrectly. Both ifort and gfortran are able to catch it at compile time. However, nvfortran compiles the code and seems to just ignore the call at run time.
+
 ## Computational Chemistry
 [duo](https://github.com/Trovemaster/Duo): diatomic code for solving a fully coupled rovibronic Schroedinger equation, by Trovemaster
 
