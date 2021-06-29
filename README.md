@@ -538,6 +538,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [dftbplus](https://github.com/dftbplus/dftbplus): DFTB+ general package for performing fast atomistic simulations
 
+[DyNaMol](https://github.com/spindynamics/DyNaMol): simulation package for the simulation of magnetic materials developed at the French Alternative Energies and Atomic Energy Commission. DyNaMol is designed to provide a community standard tool for ab initio simulations of magnetic materials with high performance and an easy-to-use interface.
+
 [EDIpack](https://github.com/QcmPlab/EDIpack): Lanczos-based solver for generic quantum impurity models exploiting distributed memory MPI parallelisation, from QcmPlab
 
 [EMPM_MPI](https://github.com/knappf/EMPM_MPI): codes for TDA, 2 and 3 -phonon diagonalization of nuclear Hamiltonian within Equation-of-motion Phonon Method, by knappf
