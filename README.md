@@ -201,6 +201,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [CDFTOOLS](https://github.com/meom-group/CDFTOOLS): analysis and diagnostics on NEMO ocean model output, from meom-group
 
+[defmod-swpc](https://github.com/Chunfang/defmod-swpc): fault rupture (defmod) and wave propagation (swpc), by Chunfang
+
 [dep](https://github.com/dailyerosion/dep): owa State University Daily (Soil) Erosion Project
 
 [gemini3d](https://github.com/gemini3d/gemini3d): ionospheric fluid electrodynamic model
