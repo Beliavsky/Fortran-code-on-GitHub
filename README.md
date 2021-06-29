@@ -614,6 +614,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 ## Unclassified
 [fds](https://github.com/firemodels/fds): Fire Dynamics Simulator (FDS) is a large-eddy simulation (LES) code for low-speed flows, from firemodels, with an emphasis on smoke and heat transport from fires.
 
+[DistTab](https://github.com/NickAbel/DistTab): library being developed for use with combustion codes that use spray flame lookup tables, by NickAbel
+
 ## XML
 [fox](https://github.com/andreww/fox): XML library by andreww et al.
 
