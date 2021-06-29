@@ -339,7 +339,11 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 ## Graphics, Plotting, and User Interfaces
 [fortran-sdl2](https://github.com/interkosmos/fortran-sdl2): collection of ISO C binding interfaces to Simple DirectMedia Layer 2.0 (SDL 2.0), for 2D and 3D game programming in Fortran, by interkosmos
 
+[fplot](https://github.com/jchristopherson/fplot): provides a convenient interface for plotting with Gnuplot, by jchristopherson
+
 [M_escape](https://github.com/urbanjost/M_escape): using in-band signaling wih ANSI control (escape) sequences to control terminal color from Fortran, by urbanjost and brocolis
+
+[ogpf](https://github.com/kookma/ogpf): Object-Based Interface to GnuPlot from Fortran, by kookma
 
 [vtkmofo](https://github.com/porteri/vtkmofo): VTK format using modern Fortran, by porteri
 
