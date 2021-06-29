@@ -343,6 +343,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [fplot](https://github.com/jchristopherson/fplot): provides a convenient interface for plotting with Gnuplot, by jchristopherson
 
+[gtk-fortran](https://github.com/vmagnin/gtk-fortran): cross-platform library to build Graphical User Interfaces (GUI), by vmagnin et al. Gtk-fortran is a partial GTK / Fortran binding 100% written in Fortran, thanks to the ISO_C_BINDING module for interoperability between C and Fortran
+
 [M_escape](https://github.com/urbanjost/M_escape): using in-band signaling wih ANSI control (escape) sequences to control terminal color from Fortran, by urbanjost and brocolis
 
 [ogpf](https://github.com/kookma/ogpf): Object-Based Interface to GnuPlot from Fortran, by kookma
