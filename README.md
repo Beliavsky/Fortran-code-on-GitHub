@@ -300,6 +300,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [flink](https://github.com/huangli712/flink): Flexible Fortran Modules and Subroutines for Scientific Computing
 
+[forbear](https://github.com/szaghi/forbear): progress bar environment by szaghi and jhykes
+
 [forpy](https://github.com/ylikx/forpy): use Python in Fortran and vice versa
 
 [Fortran exceptions library](https://github.com/LightDA-assim/fortran_exceptions): provides exception handling for Fortran 2003 and later, based on the methodology of [Poppe et al. 2012](https://dl.acm.org/doi/10.1145/2338786.2338787)
