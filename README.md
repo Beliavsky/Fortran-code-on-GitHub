@@ -290,6 +290,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [FIAT](https://github.com/Fortran-FOSS-Programmers/FIAT): Fortran Implementation of Abstract Types
 
+[FLAP](https://github.com/szaghi/FLAP): command Line Arguments Parser for poor people, by szaghi et al. A KISS pure Fortran Library for building powerful, easy-to-use, elegant command line interfaces
+
 [flib](https://github.com/crshapiro/flib): standard library, function library, a tridiagonal matrix solver, and code for a doubly linked list, optimization, and interpolation
 
 [flink](https://github.com/huangli712/flink): Flexible Fortran Modules and Subroutines for Scientific Computing
