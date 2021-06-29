@@ -241,6 +241,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [HypFEM](https://github.com/md861/HypFEM): enriched finite element solution space based numerical solver for initial-boundary value problems in hyperbolic linear PDEs, by md861
 
+[MYSTRAN](https://github.com/dr-bill-c/MYSTRAN): general purpose finite element analysis computer program for structures that can be modeled as linear (i.e. displacements, forces and stresses proportional to applied load), by dr-bill-c et al.
+
 [NASTRAN-95](https://github.com/nasa/NASTRAN-95): NASA Structural Analysis System, a finite element analysis program (FEA) completed in the early 1970's
 
 [ParaFEM](https://github.com/ParaFEM/ParaFEM): open source parallel finite element analysis library that is documented by the text book "Programming the Finite Element Method"
