@@ -179,6 +179,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [fosolvers](https://github.com/mianzhi/fosolvers): suite of free and open source solvers, created with the goals of solving practical engineering problems and being easy to hack, by mianzhi
 
+[OFF](https://github.com/szaghi/OFF): solve, numerically, the Navier-Stokes equations of fluid dynamics by means of Finite Volume technique, by szaghi and giacrossi 
+
 [OpenMHD](https://github.com/zenitani/OpenMHD): one/two-dimensional magnetohydrodynamic (MHD) codes, by zenitani
 
 [O2-Project](https://github.com/kgpolitis/O2-Project): framework for CFD oriented scientific code development in Modern Fortran, by kgpolitis
