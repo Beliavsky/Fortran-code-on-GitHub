@@ -127,6 +127,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [pytdlpack](https://github.com/eengl/pytdlpack): Python interface for reading and writing TDLPACK data, by eengl
 
+[RegCM](https://github.com/ictp-esp/RegCM): Regional Climate Model system RegCM, originally developed at the National Center for Atmospheric Research (NCAR), is maintained in the Earth System Physics (ESP) section of the ICTP.
+
 [scream](https://github.com/E3SM-Project/scream): global atmosphere model targeted towards 3 km ("cloud resolving") resolution. It is part of the Energy Exascale Earth System Model (E3SM)
 
 [weather-buoys](https://github.com/modern-fortran/weather-buoys): Processing weather buoy data in parallel, from modern-fortran
