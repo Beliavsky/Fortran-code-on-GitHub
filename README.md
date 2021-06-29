@@ -1,5 +1,6 @@
 ## Fortran code on GitHub -- also see [fortran-lang package index](https://fortran-lang.org/packages/)
 
+* [Art and Music](#art-and-music)
 * [Astronomy](#astronomy)
 * [Astrophysics](#astrophysics)
 * [Benchmarks](#benchmarks)
@@ -34,6 +35,9 @@
 * [Time Series](#time-series)
 * [Unclassified](#unclassified)
 * [XML](#xml)
+
+## Art and Music
+[Art1](https://github.com/ef1j/Art1): Art1 is a program that was written by Richard Williams in 1968. Its purpose was to give non-progammers access to an IBM System/360 Model 40 computer at the University of New Mexico in order to explore artistic and aesthetic uses of the machine.
 
 ## Astronomy
 [fortran-astrodynamics](https://github.com/Yuricst/fortran-astrodynamics): astrodynamics routines by Yuricst
