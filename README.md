@@ -39,6 +39,12 @@
 ## Art and Music
 [Art1](https://github.com/ef1j/Art1): Art1 is a program that was written by Richard Williams in 1968. Its purpose was to give non-progammers access to an IBM System/360 Model 40 computer at the University of New Mexico in order to explore artistic and aesthetic uses of the machine.
 
+[formidi](https://github.com/vmagnin/formidi): small Fortran MIDI sequencer for composing music and exploring algorithmic music, by vmagnin
+
+[forsynth](https://github.com/vmagnin/forsynth): small Fortran synthesizer to explore sound synthesis, sound effects, electronic music, algorithmic music, etc, by vmagnin
+
+[MUSICV](https://github.com/vlazzarini/MUSICV): Max Mathew's MUSIC V synthesis program, prepared by Bill Schottstaed for gfortran, with additions and fixes by Victor Lazzarini.
+
 ## Astronomy
 [fortran-astrodynamics](https://github.com/Yuricst/fortran-astrodynamics): astrodynamics routines by Yuricst
 
