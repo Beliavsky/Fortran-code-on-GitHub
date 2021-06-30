@@ -470,6 +470,8 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 
 [faiNumber-Fortran](https://github.com/kevinhng86/faiNumber-Fortran): fast, flexible, and secure numerical library for Fortran with fast number parsing as one of its features
 
+[fgsl](https://github.com/reinh-bader/fgsl): Fortran interface to the GNU Scientific Library, by reinh-bader
+
 [forlab](https://github.com/zoziha/forlab): module that provides a lot of functions for scientific computing mostly inspired by Matlab and Python's module NumPy, by zoziha
 
 [forSISL](https://github.com/rweed/forSISL): Modern Fortran interfaces to the SINTEF Spline Library (SISL) 
