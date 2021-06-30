@@ -100,6 +100,8 @@
 
 [hpc-medley](https://github.com/moutai/hpc-medley): two publicly available hpc benchmarks: NPB (NAS) and the HPL part of the HPCC challenge. It is used to determine the performance of clustered computing resources.
 
+[Julia, Matlab, Octave, and Fortran FEM Benchmark and Comparison](https://github.com/rdeits/julia-matlab-fortran-fem-benchmark): Benchmark and comparison of Julia, Matlab, Octave, and Fortran for a 2D Poisson problem solved on a unit square, by rdeits. The problem is discretized with Q1 bilinear Lagrange finite elements.
+
 [julia-numpy-fortran-test](https://github.com/mdmaas/julia-numpy-fortran-test): comparing Julia vs Numpy vs Fortran for performance and code simplicity, by mdmaas
 
 [LINPACK](https://github.com/zaniyah/LINPACK): original (1000x1000 double precision) LINPACK benchmark, with bugfixes, by zaniyah
