@@ -246,6 +246,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 [openfast](https://github.com/OpenFAST/openfast): NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes
 
 ## File I/O
+[fcore](https://github.com/jchristopherson/fcore): string handling and i/o routines, by jchristopherson
+
 [FiNeR](https://github.com/szaghi/FiNeR): IO of INI (config) files for modern (2003+) Fortran projects, by szaghi and kostyfisik
 
 [Fortran Data Compression](https://github.com/SokolAK/Fortran-Data-Compression): sample programs demonstrating the ability to compress/decompress data on the fly when writing to or reading from a file in Fortran using named pipes (FIFOs), by SokolAK
