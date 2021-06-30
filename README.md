@@ -543,9 +543,13 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 ## Parallel Programming
 [Atomic_Subroutines--How_the_Parallel_Codes_may_look_like--Part_1](https://github.com/MichaelSiehl/Atomic_Subroutines--How_the_Parallel_Codes_may_look_like--Part_1): Fortran 2008 coarray programming with unordered execution segments (user-defined ordering). First in a series of articles by MichaelSiehl
 
+[clfortran](https://github.com/cass-support/clfortran): Fortran interface to Khronos OpenCL API, from cass-support
+
 [examples](https://github.com/timkphd/examples): High Performance Computing examples in Fortran, C, Python, and R, by timkphd
 
 [FGPU](https://github.com/LLNL/FGPU): code examples focusing on porting FORTRAN codes to run DOE heterogenous architecture CPU+GPU machines, from LLNL. The purpose of these is to provide both learning aids for developers and OpenMP and CUDA code examples for testing vendor compilers capabilities.
+
+[focal](https://github.com/LKedward/focal): modern Fortran abstraction layer for OpenCL, by LKedward
 
 [Fortran Coarray and MPI Examples](https://github.com/scivision/fortran-coarray-mpi-examples) from scivision
 
