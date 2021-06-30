@@ -229,6 +229,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [NEMO-examples](https://github.com/NEMO-ocean/NEMO-examples): simple configurations to study specific oceanic physical processes and be used as a tool for training
 
+[omuse](https://github.com/omuse-geoscience/omuse): Oceanographic MUltipurpose Software Environment is a package to conduct numerical experiments in oceanography and other Earth sciences.
+
 [PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran, from stfc
 
 [rsl](https://github.com/Guymer/rsl): maps the effects of rising sea levels on Great Britain, by Guymer
