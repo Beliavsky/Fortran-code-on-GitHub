@@ -312,6 +312,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [ferror](https://github.com/jchristopherson/ferror): library to assist with error handling in Fortran projects
 
+[fhash](https://github.com/LKedward/fhash): hash table with support for generic keys and values, by LKedward
+
 [ffhash](https://github.com/jannisteunissen/ffhash): generic and fast hash table similar to khash in C, by Jannis Teunissen
 
 [FIAT](https://github.com/Fortran-FOSS-Programmers/FIAT): Fortran Implementation of Abstract Types
