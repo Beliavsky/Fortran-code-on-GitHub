@@ -612,6 +612,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [qe-gpu](https://github.com/fspiga/qe-gpu): GPU-accelerated Quantum ESPRESSO using CUDA Fortran, by fspiga
 
+[smash](https://github.com/cmsi/smash): Massively parallel software for quantum chemistry calculations, from cmsi
+
 [STB](https://github.com/MRedies/STB): Simple Tight-binding, by MRedies
 
 [wannier90](https://github.com/wannier-developers/wannier90): Maximally-Localised Generalised Wannier Functions Code
