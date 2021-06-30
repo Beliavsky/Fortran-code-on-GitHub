@@ -92,7 +92,7 @@
 ## Benchmarks
 [Assessment of Programming Languages for Computational Numerical Dynamics](https://github.com/arturofburgos/Assessment-of-Programming-Languages-for-Computational-Numerical-Dynamics): compares different programming languages performance in order to solve CFD and Heat Transfer problems, by arturofburgos
 
-[Basic Comparison of Various Computing Languages: Python, Julia, Matlab, IDL, R, Java, Scala, C, Fortran](https://github.com/JulesKouatchou/basic_language_comparison): Jules Kouatchou and Alexander Medema
+[Basic Comparison of Various Computing Languages: Python, Julia, Matlab, IDL, R, Java, Scala, C, Fortran](https://github.com/JulesKouatchou/basic_language_comparison) by Jules Kouatchou and Alexander Medema
 
 [bench_density_gradient_wfn](https://github.com/zyth0s/bench_density_gradient_wfn): analyze the performance of evaluating the density gradient with various language implementations (C++/Fortran/Rust/Julia), by zyth0s
 
