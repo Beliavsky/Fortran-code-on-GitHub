@@ -45,6 +45,8 @@
 
 [MUSICV](https://github.com/vlazzarini/MUSICV): Max Mathew's MUSIC V synthesis program, prepared by Bill Schottstaed for gfortran, with additions and fixes by Victor Lazzarini.
 
+[XenakisFreeStochasticMusicFortran](https://github.com/ThemosTsikas/XenakisFreeStochasticMusicFortran): working versions of a Xenakis FORTRAN program (Xenakis 1971 Formalized Music p 149)
+
 ## Astronomy
 [fortran-astrodynamics](https://github.com/Yuricst/fortran-astrodynamics): astrodynamics routines by Yuricst
 
