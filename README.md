@@ -657,6 +657,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [Timeslab](https://github.com/Beliavsky/Timeslab): Fortran 77 time series package by H. Joseph Newton to accompany his book "Timeslab: A Time Series Analysis Laboratory" (1988)
 
+[Tisean](https://github.com/gazeek/Tisean): analysis of time series with methods based on the theory of nonlinear deterministic dynamical systems, or chaos theory, by Rainer Hegger et al.
+
 ## Unclassified
 [fds](https://github.com/firemodels/fds): Fire Dynamics Simulator (FDS) is a large-eddy simulation (LES) code for low-speed flows, from firemodels, with an emphasis on smoke and heat transport from fires.
 
