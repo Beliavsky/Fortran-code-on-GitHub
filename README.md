@@ -653,6 +653,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [Gaussian Mixture ARMA-GARCH](https://github.com/saveriocolla90/Gaussian-Mixture-ARMA-GARCH): implements a Gaussian Mixture ARMA-GARCH model to fit a generic time series with zero mean and gaussian distributed standard deviations, by saveriocolla90
 
+[REDFIT-X](https://github.com/kristinbjorg/REDFIT-X-Cross-spectral-analysis-of-unevenly-spaced-paleoclimate-time-series): cross-spectral analysis of unevenly spaced paleoclimate time series, by kristinbjorg et al.
+
 [tidybench](https://github.com/sweichwald/tidybench): TIme series DiscoverY has four algorithms for causal structure learning for time series: SLARAC (Subsampled Linear Auto-Regression Absolute Coefficients), QRBS (Quantiles of Ridge regressed Bootstrap Samples), LASAR (LASso Auto-Regression), and SELVAR (Selective auto-regressive model), by sweichwald
 
 [Timeslab](https://github.com/Beliavsky/Timeslab): Fortran 77 time series package by H. Joseph Newton to accompany his book "Timeslab: A Time Series Analysis Laboratory" (1988)
