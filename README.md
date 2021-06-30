@@ -92,13 +92,21 @@
 ## Benchmarks
 [Assessment of Programming Languages for Computational Numerical Dynamics](https://github.com/arturofburgos/Assessment-of-Programming-Languages-for-Computational-Numerical-Dynamics): compares different programming languages performance in order to solve CFD and Heat Transfer problems, by arturofburgos
 
+[Basic Comparison of Various Computing Languages: Python, Julia, Matlab, IDL, R, Java, Scala, C, Fortran](https://github.com/JulesKouatchou/basic_language_comparison): Jules Kouatchou and Alexander Medema
+
 [bench_density_gradient_wfn](https://github.com/zyth0s/bench_density_gradient_wfn): analyze the performance of evaluating the density gradient with various language implementations (C++/Fortran/Rust/Julia), by zyth0s
+
+[Comparison of Programming Languages in Economics](https://github.com/jesusfv/Comparison-Programming-Languages-Economics): code referenced in the paper "A Comparison of Programming Languages in Economics" by S. Borağan Aruoba and Jesús Fernández-Villaverde
 
 [hpc-medley](https://github.com/moutai/hpc-medley): two publicly available hpc benchmarks: NPB (NAS) and the HPL part of the HPCC challenge. It is used to determine the performance of clustered computing resources.
 
 [julia-numpy-fortran-test](https://github.com/mdmaas/julia-numpy-fortran-test): comparing Julia vs Numpy vs Fortran for performance and code simplicity, by mdmaas
 
 [LINPACK](https://github.com/zaniyah/LINPACK): original (1000x1000 double precision) LINPACK benchmark, with bugfixes, by zaniyah
+
+[NetworkDynamicsBenchmarks](https://github.com/PIK-ICoNe/NetworkDynamicsBenchmarks): scripts for benchmarking dynamical systems on networks, from paper "NetworkDynamics.jl -- Composing and simulating complex networks in Julia", by Michael Lindner et al.
+
+[Performance comparison R, Julia, Fortran for Bayesian binary probit](https://github.com/driesbenoit/benchmark_R_Julia_Fortran) by driesbenoit
 
 [raytracer](https://github.com/edin/raytracer): raytracer benchmark in dozens of languages, by edin.
 
