@@ -195,6 +195,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [fosolvers](https://github.com/mianzhi/fosolvers): suite of free and open source solvers, created with the goals of solving practical engineering problems and being easy to hack, by mianzhi
 
+[lbm2d_opencl](https://github.com/LKedward/lbm2d_opencl): D2Q9 BGK Lattice Boltzmann code written in OpenCL and Modern Fortran, by LKedward
+
 [OFF](https://github.com/szaghi/OFF): solve, numerically, the Navier-Stokes equations of fluid dynamics by means of Finite Volume technique, by szaghi and giacrossi 
 
 [OpenMHD](https://github.com/zenitani/OpenMHD): one/two-dimensional magnetohydrodynamic (MHD) codes, by zenitani
