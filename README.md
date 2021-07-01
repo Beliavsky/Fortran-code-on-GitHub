@@ -27,6 +27,7 @@
 * [Numerical](#numerical)
 * [Optimization](#optimization)
 * [Parallel Programing](#parallel-programming)
+* [Partial Differential Equations](#partial-differential-equations)
 * [Particle Physics](#particle-physics)
 * [Physics](#physics)
 * [Quantum Chemistry and Electronic Structure](#Quantum-Chemistry-and-Electronic-Structure)
@@ -576,6 +577,13 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 [gpu-tips](https://github.com/dappelha/gpu-tips): Fortran examples of CUDA and directives tips and tricks for IBM Power + Nvidia Systems, by dappelha
 
 [OpenCoarrays](https://github.com/sourceryinstitute/OpenCoarrays): parallel application binary interface for Fortran 2018 compilers, from sourceryinstitute
+
+## Partial Differential Equations
+[fishpack](https://github.com/jlokimlin/fishpack): collection of Fortran programs and subroutines that solve 2nd- and 4th-order finite difference approximations to separable elliptic Partial Differential Equations (PDEs), by jlokimlin and t-bltg
+
+[forestclaw](https://github.com/ForestClaw/forestclaw): parallel, multi-block adaptive finite volume code for solving PDEs on a hierarchy of logically Cartesian meshes
+
+[MORFEUS](https://github.com/sourceryinstitute/MORFEUS-Source): framework for the solution of partial differential equations (PDEs) written in modern Fortran, from sourceryinstitute. It is object oriented, and attempts to provide useful abstractions for the solution of PDEs that are easy to use and performant.
 
 ## Particle Physics
 [darkmatter](https://github.com/ogorton/darkmatter): experimental WIMP Analysis, by ogorton
