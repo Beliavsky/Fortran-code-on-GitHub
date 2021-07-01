@@ -192,6 +192,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 [TROVE](https://github.com/Trovemaster/TROVE): Theoretical ROVibrational Energies: A variational program for accurate nuclear motion calculations, by Trovemaster
 
 ## Computational Fluid Dynamics
+[2DEulerSolver](https://github.com/FrostyNip/2DEulerSolver): numerically solve the euler equations over a channel with a bump using jameson scheme finite volume analysis, by FrostyNip
+
 [CGNS](https://github.com/CGNS/CGNS): the CFD General Notation System (CGNS) provides a standard for recording and recovering computer data associated with the numerical solution of fluid dynamics equations
 
 [code_saturne](https://github.com/code-saturne/code_saturne): CFD software handling of either incompressible or expandable flows with or without heat transfer and turbulence
