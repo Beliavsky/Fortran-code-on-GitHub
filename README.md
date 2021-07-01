@@ -623,6 +623,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [exocross](https://github.com/Trovemaster/exocross): Fortran 2003 code to generate molecular cross-sections using line lists in the ExoMol format, by Trovemaster
 
+[fresco](https://github.com/I-Thompson/fresco): scattering code for coupled-channels calculations, by I-Thompson
+
 [Guided_Missile_Simulation](https://github.com/bgin/Guided_Missile_Simulation): Air-to-Air Missile Simulation written in modern Fortran, by bgin
 
 [KORC](https://github.com/ORNL-Fusion/KORC): Kinetic Orbit Runaway Code, from ORNL-Fusion
