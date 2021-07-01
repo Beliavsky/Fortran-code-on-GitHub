@@ -506,6 +506,8 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 
 [SciFortran](https://github.com/QcmPlab/SciFortran): A library of fortran modules and routines for scientific calculations (*in a way* just like scipy for python), from QcmPlab
 
+[SSP](https://github.com/msemina/SSP): Scientific Subroutine Package - Fortran science package for statistics, matrix calculus, and other mathematical areas
+
 [Tensor Toolbox for Modern Fortran (ttb)](https://github.com/adtzlr/ttb)
 
 [VecFor](https://github.com/szaghi/VecFor): Object-Oriented designed API for handling vectors in a (3D) three dimensional frame of reference, by szaghi and pdebuyl. It exposes (among others) the object Vector that posses a far complete set of overloaded operators for performing vectorial calculus algebra.
