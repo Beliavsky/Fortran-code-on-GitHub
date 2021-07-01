@@ -78,6 +78,8 @@
 
 [magnetizer](https://github.com/luizfelippesr/magnetizer): post-processes the output of a semi-analytic model of galaxy formation and produces a catalogue of galaxies with detailed radial dependent ISM properties, including magnetic fields, by luizfelippesr
 
+[msg](https://github.com/rhdtownsend/msg): Multidimensional Spectral Grids -- project for evaluating radiant properties of stellar atmospheres by rhdtownsend
+
 [NormalModes](https://github.com/js1019/NormalModes): applies a combination of several highly parallel algorithms to compute the planetary interior normal modes, by js1019
 
 [phantom](https://github.com/danieljprice/phantom): 3D Smoothed Particle Hydrodynamics and Magnetohydrodynamics code for astrophysics, by Daniel Price and others
