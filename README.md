@@ -480,6 +480,8 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 
 [fortnet](https://github.com/vanderhe/fortnet): using atom-centered symmetry functions to characterize local atomic environments, Fortnet provides easy access to the Behler-Parrinello-Neural-Network architecture to predict atomic or global properties of a physical system, featuring powerful but optional MPI parallelism, by vanderhe
 
+[fortran-NeuralNetwork](https://github.com/Jonas-Finkler/fortran-NeuralNetwork): Simple implementation of a neural network, implemented in Fortran, by Jonas-Finkler
+
 [gpf](https://github.com/ots22/gpf): small Fortran library for Gaussian process regression. It currently implements value predictions with dense Gaussian processes, and projected-process approximate Gaussian processes
 
 [neural-fortran](https://github.com/modern-fortran/neural-fortran): parallel neural net microframework, from modern-fortran
