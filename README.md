@@ -599,6 +599,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 [vbfnlo](https://github.com/vbfnlo/vbfnlo): fully flexible parton level Monte Carlo program for the simulation of vector boson fusion, double and triple vector boson production in hadronic collisions at next-to-leading order in the strong coupling constant
 
 ## Physics
+[Bose-Einstein_Condensates](https://github.com/brito-leonardo/Bose-Einstein_Condensates): solve Bose-Einstein condensates problems and related algebraic problems in quantum mechanics, with Fortran 90 and Python 3 languages, by brito-leonardo
+
 [CDMFT-LANC-ED](https://github.com/QcmPlab/CDMFT-LANC-ED): Lanczos based solver for the Cluster Dynamical Mean-Field Theory using the N_up:N_dw implementation, from QcmPlab
 
 [Computational Environment for Nuclear Structure (CENS)](https://github.com/ManyBodyPhysics/CENS): many-body codes developed by Morten Hjorth-Jensen and collaborators
