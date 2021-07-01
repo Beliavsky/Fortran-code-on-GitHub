@@ -183,6 +183,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [duo](https://github.com/Trovemaster/Duo): diatomic code for solving a fully coupled rovibronic Schroedinger equation, by Trovemaster
 
+[ewald-summation](https://github.com/Jonas-Finkler/ewald-summation): efficient and easy-to-use implementation of the Ewald summation method, by Jonas-Finkler
+
 [HFB](https://github.com/knappf/HFB): Hartree-Fock-Bogolyubov code for (hyper)nuclear structure calculations (version by P. Vesely)
 
 [pmflib](https://github.com/kulhanek/pmflib): toolkit for Free Energy Calculations, by kulhanek
