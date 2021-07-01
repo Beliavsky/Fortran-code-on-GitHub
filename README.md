@@ -247,6 +247,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [trnfsp3n](https://github.com/Geo-Linux-Calculations/trnfsp3n): Fortran 77 code for transforming GPS orbit files in SP3 format between different realizations of ITRF's, from Geo-Linux-Calculations
 
+[TSMP](https://github.com/HPSCTerrSys/TSMP): Terrestrial System Modeling Platform (TSMP or TerrSysMP, https://www.terrsysmp.org) is a scale-consistent, highly modular, massively parallel regional Earth system model, from HPSCTerrSys
+
 ## Economics
 [ce-fortran](https://github.com/fabiankindermann/ce-fortran/): program and compiler Database that accompanies the book "Introduction to Computational Economcis using Fortran" (2018), by Fehr and Kindermann
 
