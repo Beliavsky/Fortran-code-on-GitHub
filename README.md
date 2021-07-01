@@ -244,6 +244,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [gemini3d](https://github.com/gemini3d/gemini3d): ionospheric fluid electrodynamic model
 
+[GrowClust](https://github.com/dttrugman/GrowClust): program for the relative relocation of earthquake hypocenters based on waveform cross-correlation data, by dttrugman and sean0921
+
 [MOM6](https://github.com/NOAA-GFDL/MOM6): Modular Ocean Model, from NOAA-GFDL
 
 [NEMO-examples](https://github.com/NEMO-ocean/NEMO-examples): simple configurations to study specific oceanic physical processes and be used as a tool for training
