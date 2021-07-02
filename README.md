@@ -678,6 +678,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [qe-gpu](https://github.com/fspiga/qe-gpu): GPU-accelerated Quantum ESPRESSO using CUDA Fortran, by fspiga
 
+[HANDE](https://github.com/hande-qmc/hande): efficient, highly parallel code for stochastic quantum chemistry. It can be used both as a standalone program or (optionally) as a library from an existing quantum chemistry code.
+
 [smash](https://github.com/cmsi/smash): Massively parallel software for quantum chemistry calculations, from cmsi
 
 [STB](https://github.com/MRedies/STB): Simple Tight-binding, by MRedies
