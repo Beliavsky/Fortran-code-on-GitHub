@@ -272,6 +272,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [TSMP](https://github.com/HPSCTerrSys/TSMP): Terrestrial System Modeling Platform (TSMP or TerrSysMP, https://www.terrsysmp.org) is a scale-consistent, highly modular, massively parallel regional Earth system model, from HPSCTerrSys
 
+[WASA-SED](https://github.com/TillF/WASA-SED): numerical model for simulation hydrological and sediment fluxes from meso-scale catchments (Mueller et al., 2010), from TillF
+
 [WRF-Hydro](https://github.com/NCAR/wrf_hydro_nwm_public): community modeling system and framework for hydrologic modeling and model coupling, from NCAR. In 2016 a configuration of WRF-Hydro was implemented as the National Water Model (NWM) for the continental United States.
 
 ## Economics
