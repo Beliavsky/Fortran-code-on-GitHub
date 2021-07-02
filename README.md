@@ -580,6 +580,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 [simulated-annealing](https://github.com/jacobwilliams/simulated-annealing): Simulated Annealing with Modern Fortran by Jacob Williams 
 
 ## Parallel Programming
+[Advanced Parallel Programming](https://github.com/csc-training/advanced-parallel-prog): exercise material and model answers for the CSC course "Advanced Parallel Programming"
+
 [Atomic_Subroutines--How_the_Parallel_Codes_may_look_like--Part_1](https://github.com/MichaelSiehl/Atomic_Subroutines--How_the_Parallel_Codes_may_look_like--Part_1): Fortran 2008 coarray programming with unordered execution segments (user-defined ordering). First in a series of articles by MichaelSiehl
 
 [clfortran](https://github.com/cass-support/clfortran): Fortran interface to Khronos OpenCL API, from cass-support
