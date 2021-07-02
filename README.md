@@ -515,6 +515,8 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 
 [neural-fortran](https://github.com/modern-fortran/neural-fortran): parallel neural net microframework, from modern-fortran
 
+[Neural Network](https://github.com/anjohan/neuralnetwork): simple, fully connected, dense, deep neural network, implemented in modern Fortran and parallelised using coarrays, by anjohan
+
 [NN_MOD](https://github.com/thchang/NN_MOD): Fortran 2008 Module/Class for training neural network regressors, by thchang
 
 [util](https://github.com/tchlux/util): machine learning, optimization, and data science utilities package, by tchlux
