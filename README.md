@@ -559,11 +559,19 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 [VecFor](https://github.com/szaghi/VecFor): Object-Oriented designed API for handling vectors in a (3D) three dimensional frame of reference, by szaghi and pdebuyl. It exposes (among others) the object Vector that posses a far complete set of overloaded operators for performing vectorial calculus algebra.
 
 ## Ordinary Differential Equations
+[ddeabm](https://github.com/jacobwilliams/ddeabm): modern object-oriented Fortran implementation of the DDEABM Adams-Bashforth-Moulton ODE solver, by jacobwilliams and web-flow
+
+[dop853](https://github.com/jacobwilliams/dop853): modern Fortran (2003/2008) implementation of Hairer's DOP853 ODE solver, by jacobwilliams. The original FORTRAN 77 code has been extensively refactored, and is now object-oriented and thread-safe, with an easy-to-use class interface. DOP853 is an explicit Runge-Kutta method of order 8(5,3) due to Dormand & Prince (with stepsize control and dense output).
+
 [FATODE](https://github.com/ComputationalScienceLaboratory/FATODE): set of integrators to solve ordinary differential system y'=f(t,y) with capabilities of direct and adjoint sensitivity analysis, from ComputationalScienceLaboratory
+
+[generic_rk](https://github.com/cbcoutinho/generic_rk): modularize solvers for ordinary differential equations (ODEs) in Fortran, by cbcoutinho
 
 [ODEPACK](https://github.com/jacobwilliams/odepack): collection of solvers for the initial value problem for ordinary differential equation systems
 
 [ODEPACK](https://github.com/cfinch/odepack): re-packaging of the ODEPACK differential equation library, with improved HTML documentation, by cfinch
+
+[rksuite](https://github.com/jacobwilliams/rksuite): Runge-Kutta methods for the numerical solution of the initial value problem for a first order system of ordinary differential equations
 
 ## Optimization
 [CUTEst](https://github.com/ralna/CUTEst): Constrained and Unconstrained Testing Environment with safe threads for optimization software 
