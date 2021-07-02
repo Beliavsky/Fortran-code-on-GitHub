@@ -252,6 +252,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [GrowClust](https://github.com/dttrugman/GrowClust): program for the relative relocation of earthquake hypocenters based on waveform cross-correlation data, by dttrugman and sean0921
 
+[ICM_Hydro](https://github.com/CPRA-MP/ICM_Hydro): code corresponding to paper "Ecohydrology component of Louisiana’s 2012 Coastal Master Plan: mass-balance compartment model"
+
 [LISF](https://github.com/NASA-LIS/LISF): The Land Information System (LIS) from NASA-LIS is a software framework for high performance terrestrial hydrology modeling and data assimilation developed with the goal of integrating satellite and ground-based observational data products and advanced modeling techniques to produce optimal fields of land surface states and fluxes.
 
 [MOM6](https://github.com/NOAA-GFDL/MOM6): Modular Ocean Model, from NOAA-GFDL
