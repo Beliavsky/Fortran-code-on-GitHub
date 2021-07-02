@@ -502,6 +502,8 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 
 [gpf](https://github.com/ots22/gpf): small Fortran library for Gaussian process regression. It currently implements value predictions with dense Gaussian processes, and projected-process approximate Gaussian processes
 
+[mlxanes](https://github.com/tneth/mlxanes): machine learning x-ray absorption near edge structure: An OpenMP parallelised multivariate linear regression Fortran program for predicting XANES spectra from an xyz file, by tneth
+
 [neural-fortran](https://github.com/modern-fortran/neural-fortran): parallel neural net microframework, from modern-fortran
 
 [NN_MOD](https://github.com/thchang/NN_MOD): Fortran 2008 Module/Class for training neural network regressors, by thchang
