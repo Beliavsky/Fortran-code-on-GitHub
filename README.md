@@ -625,9 +625,11 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 ## Partial Differential Equations
 [fishpack](https://github.com/jlokimlin/fishpack): collection of Fortran programs and subroutines that solve 2nd- and 4th-order finite difference approximations to separable elliptic Partial Differential Equations (PDEs), by jlokimlin and t-bltg
 
+[FOODIE, Fortran Object-Oriented Differential-equations Integration Environment](https://github.com/Fortran-FOSS-Programmers/FOODIE): numerical integration of Differential-equations such as Ordinary and Partial Differential Equations (ODE, PDE), from Fortran-FOSS-Programmers. FOODIE is tailored to the systems arising from the semi-discretization of PDEs, but it is not limited to them.
+
 [forestclaw](https://github.com/ForestClaw/forestclaw): parallel, multi-block adaptive finite volume code for solving PDEs on a hierarchy of logically Cartesian meshes
 
-[MORFEUS](https://github.com/sourceryinstitute/MORFEUS-Source): framework for the solution of partial differential equations (PDEs) written in modern Fortran, from sourceryinstitute. It is object oriented, and attempts to provide useful abstractions for the solution of PDEs that are easy to use and performant.
+[MORFEUS](https://github.com/sourceryinstitute/MORFEUS-Source): framework for the solution of partial differential equations (PDEs) written in modern Fortran, from sourceryinstitute. It is object oriented and attempts to provide useful abstractions for the solution of PDEs that are easy to use and performant.
 
 ## Particle Physics
 [darkmatter](https://github.com/ogorton/darkmatter): experimental WIMP Analysis, by ogorton
