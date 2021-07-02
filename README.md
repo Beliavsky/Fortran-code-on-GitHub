@@ -771,6 +771,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 [StringiFor](https://github.com/szaghi/StringiFor): Strings Fortran Manipulator with steroids, by szaghi
 
 ## Time Series
+[BVARmml](https://github.com/dingshutong/BVARmml): variable selection in Bayesian VAR models via marginalization of marginal likelihood, by dingshutong
+
 [fortran-tsa](https://github.com/zoziha/fortran-tsa): univariate time series analysis and ARIMA modeling package, by zoziha
 
 [fortress](https://github.com/eph/fortress): tools for Bayesian estimation of time series models, by eph
