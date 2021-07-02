@@ -561,6 +561,10 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 ## Ordinary Differential Equations
 [FATODE](https://github.com/ComputationalScienceLaboratory/FATODE): set of integrators to solve ordinary differential system y'=f(t,y) with capabilities of direct and adjoint sensitivity analysis, from ComputationalScienceLaboratory
 
+[ODEPACK](https://github.com/jacobwilliams/odepack): collection of solvers for the initial value problem for ordinary differential equation systems
+
+[ODEPACK](https://github.com/cfinch/odepack): re-packaging of the ODEPACK differential equation library, with improved HTML documentation, by cfinch
+
 ## Optimization
 [CUTEst](https://github.com/ralna/CUTEst): Constrained and Unconstrained Testing Environment with safe threads for optimization software 
 
