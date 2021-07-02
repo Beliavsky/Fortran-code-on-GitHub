@@ -705,6 +705,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [SLICE](https://github.com/ericlindsey/slice): efficient N-Dimensional Monte Carlo inversion algorithm, by ericlindsey 
 
+[Spatial Locally Weighted Regression](https://github.com/XiaosuTong/Spaloess): enhancements to the loess implementation that comes with base R, by XiaosuTong. Most of computation in FORTRAN are kept as same in loess function except the distance calculation.
+
 ## Strings
 [fortran_pcre](https://github.com/ZedThree/fortran_pcre): Fortran wrapper around the C PCRE regular expression library. (**OS:MIT**)
 
