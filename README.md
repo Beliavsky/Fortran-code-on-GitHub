@@ -717,9 +717,13 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 ## Statistics
 [200+ R packages with Fortran code](https://github.com/cran?q=&type=&language=fortran&sort=): R is a free software environment for statistical computing and graphics
 
+[asurv](https://github.com/rsnemmen/asurv): suite of statistical methods for the analysis of censored data; i.e. data which are known to lie above or below some limit, by rsnemmen
+
 [BMSL](https://github.com/benRenard/BMSL): mathematical and statistical libraries, geared toward environmental / hydrological applications, by Ben Renard. 
 
 [cdaSQR](https://github.com/KarimOualkacha/cdaSQR): generalized coordinate descent (GCD) algorithm for computing the solution path of the penalized quantile regression, by KarimOualkacha
+
+[curvefit](https://github.com/jchristopherson/curvefit): library for fitting functions to sets of data, by jchristopherson
 
 [fortran-gmm-EM](https://github.com/Jonas-Finkler/fortran-gmm-EM): extremely efficient implementation of the expectation maximization (EM) algorithm for Gaussian mixtures in Fortran, by Jonas-Finkler
 
