@@ -32,6 +32,7 @@
 * [Particle Physics](#particle-physics)
 * [Physics](#physics)
 * [Quantum Chemistry and Electronic Structure](#Quantum-Chemistry-and-Electronic-Structure)
+* [Sorting](#sorting)
 * [Statistics](#Statistics)
 * [Strings](#strings)
 * [Time Series](#time-series)
@@ -717,6 +718,13 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 [wannier90](https://github.com/wannier-developers/wannier90): Maximally-Localised Generalised Wannier Functions Code
 
 [Zen](https://github.com/huangli712/Zen): modern DFT + DMFT (namely, density functional theory plus dynamical mean-field theory) computation framework, by huangli712
+
+## Sorting
+[Fortran-parallel-sort](https://github.com/cphyc/Fortran-parallel-sort): Fortran library to perform parallel sorts, by cphyc and OCsteve
+
+[fortran-search-and-sort](https://github.com/jacobwilliams/fortran-search-and-sort): Searching and sorting with modern Fortran, by jacobwilliams
+
+[stringsort](https://github.com/jacobwilliams/stringsort): sorting routines for strings, by jacobwilliams
 
 ## Statistics
 [200+ R packages with Fortran code](https://github.com/cran?q=&type=&language=fortran&sort=): R is a free software environment for statistical computing and graphics
