@@ -25,6 +25,7 @@
 * [Materials Science](#materials-science)
 * [Neural Networks and Machine Learning](#neural-networks-and-machine-learning)
 * [Numerical](#numerical)
+* [Ordinary Differential Equations](#ordinary-differential-equations)
 * [Optimization](#optimization)
 * [Parallel Programing](#parallel-programming)
 * [Partial Differential Equations](#partial-differential-equations)
@@ -556,6 +557,9 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 [Tensor Toolbox for Modern Fortran (ttb)](https://github.com/adtzlr/ttb)
 
 [VecFor](https://github.com/szaghi/VecFor): Object-Oriented designed API for handling vectors in a (3D) three dimensional frame of reference, by szaghi and pdebuyl. It exposes (among others) the object Vector that posses a far complete set of overloaded operators for performing vectorial calculus algebra.
+
+## Ordinary Differential Equations
+[FATODE](https://github.com/ComputationalScienceLaboratory/FATODE): set of integrators to solve ordinary differential system y'=f(t,y) with capabilities of direct and adjoint sensitivity analysis, from ComputationalScienceLaboratory
 
 ## Optimization
 [CUTEst](https://github.com/ralna/CUTEst): Constrained and Unconstrained Testing Environment with safe threads for optimization software 
