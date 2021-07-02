@@ -242,6 +242,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [CDFTOOLS](https://github.com/meom-group/CDFTOOLS): analysis and diagnostics on NEMO ocean model output, from meom-group
 
+[CICE Consortium sea-ice model](https://github.com/CICE-Consortium/CICE): computationally efficient model for simulating the growth, melting, and movement of polar sea ice
+
 [defmod-swpc](https://github.com/Chunfang/defmod-swpc): fault rupture (defmod) and wave propagation (swpc), by Chunfang
 
 [dep](https://github.com/dailyerosion/dep): owa State University Daily (Soil) Erosion Project
