@@ -201,6 +201,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [TROVE](https://github.com/Trovemaster/TROVE): Theoretical ROVibrational Energies: A variational program for accurate nuclear motion calculations, by Trovemaster
 
+[UniMoVib](https://github.com/zorkzou/UniMoVib): unified interface for molecular harmonic vibrational frequency calculations, by zorkzou and smutao
+
 ## Computational Fluid Dynamics
 [2DEulerSolver](https://github.com/FrostyNip/2DEulerSolver): numerically solve the euler equations over a channel with a bump using jameson scheme finite volume analysis, by FrostyNip
 
