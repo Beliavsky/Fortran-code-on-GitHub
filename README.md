@@ -635,6 +635,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [coarray-examples](https://github.com/ljdursi/coarray-examples): simple coarray examples for teaching, by ljdursi
 
+[Coarray Fortran Intel Tutorial](https://github.com/Beliavsky/coarray_fortran_intel_tutorial): examples from Intel Fortran coarray tutorial at https://software.intel.com/content/www/us/en/develop/documentation/fortran-compiler-coarray-tutorial/top.html
+
 [examples](https://github.com/timkphd/examples): High Performance Computing examples in Fortran, C, Python, and R, by timkphd
 
 [FGPU](https://github.com/LLNL/FGPU): code examples focusing on porting FORTRAN codes to run DOE heterogenous architecture CPU+GPU machines, from LLNL. The purpose of these is to provide both learning aids for developers and OpenMP and CUDA code examples for testing vendor compilers capabilities.
