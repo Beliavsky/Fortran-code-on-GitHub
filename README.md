@@ -383,7 +383,7 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [Fortran exceptions library](https://github.com/LightDA-assim/fortran_exceptions): provides exception handling for Fortran 2003 and later, based on the methodology of [Poppe et al. 2012](https://dl.acm.org/doi/10.1145/2338786.2338787)
 
-[fortran_function_parser](https://github.com/jacobwilliams/fortran_function_parser): This function parser module by jacobwilliams
+[fortran_function_parser](https://github.com/jacobwilliams/fortran_function_parser): function parser module by jacobwilliams
 is intended for applications where a set of mathematical fortran-style expressions is specified at runtime and is then evaluated for a large number of variable values. This is done by compiling the set of function strings into byte code, which is interpreted efficiently for the various variable values.
 
 [fortranlib](https://github.com/astrofrog/fortranlib): Collection of personal scientific routines in Fortran
