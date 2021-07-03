@@ -682,6 +682,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [Guided_Missile_Simulation](https://github.com/bgin/Guided_Missile_Simulation): Air-to-Air Missile Simulation written in modern Fortran, by bgin
 
+[kmos](https://github.com/mhoffman/kmos): kMC on steroids: A vigorous attempt to make lattice kinetic Monte Carlo modelling easier, by mhoffman et al.
+
 [KORC](https://github.com/ORNL-Fusion/KORC): Kinetic Orbit Runaway Code, from ORNL-Fusion
 
 [Semi-Lagrangian Library (SeLaLib)](https://github.com/selalib/selalib): modular library for kinetic and gyrokinetic simulations of plasmas in fusion energy devices
