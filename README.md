@@ -311,6 +311,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [stl-fortran](https://github.com/jacobwilliams/stl-fortran): Fortran STL (stereolithography) File I/O, by jacobwilliams
 
+[Unidata NetCDF Fortran Library](https://github.com/Unidata/netcdf-fortran): The Unidata network Common Data Form (netCDF) is an interface for scientific data access and a set of freely-distributed software libraries that provide an implementation of the interface. The netCDF library also defines a machine-independent format for representing scientific data.
+
 [VTKFortran](https://github.com/szaghi/VTKFortran): parse and emit files conforming VTK (XML) standard, by szaghi et al.
 
 ## Finite Elements
