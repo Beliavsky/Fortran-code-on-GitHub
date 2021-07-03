@@ -767,7 +767,7 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 [fortran202x_split](https://github.com/milancurcic/fortran202x_split): Fortran implementation of the Fortran 202X split intrinsic subroutine, by 
 milancurcic and awvwgk
 
-[fortran_pcre](https://github.com/ZedThree/fortran_pcre): Fortran wrapper around the C PCRE regular expression library. (**OS:MIT**)
+[fortran_pcre](https://github.com/ZedThree/fortran_pcre): Fortran wrapper around the C PCRE regular expression library
 
 [fortran-strings](https://github.com/eengl/fortran-strings): library and module which contains functions for common string manipulations, by eengl
 
