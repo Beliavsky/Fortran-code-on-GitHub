@@ -633,6 +633,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [clfortran](https://github.com/cass-support/clfortran): Fortran interface to Khronos OpenCL API, from cass-support
 
+[coarray-examples](https://github.com/ljdursi/coarray-examples): simple coarray examples for teaching, by ljdursi
+
 [examples](https://github.com/timkphd/examples): High Performance Computing examples in Fortran, C, Python, and R, by timkphd
 
 [FGPU](https://github.com/LLNL/FGPU): code examples focusing on porting FORTRAN codes to run DOE heterogenous architecture CPU+GPU machines, from LLNL. The purpose of these is to provide both learning aids for developers and OpenMP and CUDA code examples for testing vendor compilers capabilities.
