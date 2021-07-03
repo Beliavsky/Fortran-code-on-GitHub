@@ -659,6 +659,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [MCFM-RE](https://github.com/lcarpino/MCFM-RE): NNLL resummation for jet-veto cross sections in colour singlet processes, by lcarpino
 
+[simc_gfortran](https://github.com/JeffersonLab/simc_gfortran): standard Hall C Monte Carlo for coincidence reactions, from JeffersonLab
+
 [SPheno](https://github.com/JP-Ellis/SPheno): SPheno stands for S(upersymmetric) Pheno(menology). The code, by JP-Ellis, calculates the SUSY spectrum using low energy data and a user supplied high scale model as input.
 
 [vbfnlo](https://github.com/vbfnlo/vbfnlo): fully flexible parton level Monte Carlo program for the simulation of vector boson fusion, double and triple vector boson production in hadronic collisions at next-to-leading order in the strong coupling constant
