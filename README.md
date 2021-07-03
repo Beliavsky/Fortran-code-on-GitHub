@@ -604,6 +604,8 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 
 [libga](https://github.com/ramos/libga): genetic algorithm optimisation library by Alberto Ramos 
 
+[minimize](https://github.com/ryokbys/minimize): minimization routines such as steepest descent, conjugate gradient, and quasi-Newton methods with line search method such as quadratic interpolation and golden section, by ryokbys
+
 [minuit](https://github.com/ramos/minuit): Fortran 77 library for function minimization and error Analysis by F. James
 
 [nonlin](https://github.com/jchristopherson/nonlin): solves systems of nonlinear equations, by jchristopherson
