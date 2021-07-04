@@ -208,7 +208,7 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [CGNS](https://github.com/CGNS/CGNS): the CFD General Notation System (CGNS) provides a standard for recording and recovering computer data associated with the numerical solution of fluid dynamics equations
 
-[code_saturne](https://github.com/code-saturne/code_saturne): CFD software handling of either incompressible or expandable flows with or without heat transfer and turbulence
+[code_saturne](https://github.com/code-saturne/code_saturne): CFD software handling either incompressible or expandable flows with or without heat transfer and turbulence
 
 [EOF](https://github.com/parkeryang69/EOF): simulation of electro-osmotic flow by Lattice Boltzmann method, by parkeryang69
 
