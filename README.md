@@ -53,7 +53,7 @@
 ## Astronomy
 [fortran-astrodynamics](https://github.com/Yuricst/fortran-astrodynamics): astrodynamics routines by Yuricst
 
-[Fortran-Astrodynamics-Toolkit](https://github.com/jacobwilliams/Fortran-Astrodynamics-Toolkit): aims to be a comprehensive library, written in modern Fortran (Fortran 2003/2008), of all the standard orbital mechanics algorithms, by jacobwilliams
+[Fortran-Astrodynamics-Toolkit](https://github.com/jacobwilliams/Fortran-Astrodynamics-Toolkit): aims to be a comprehensive library, written in modern Fortran (Fortran 2003/2008), of all the standard orbital mechanics algorithms, by Jacob Williams
 
 [starlink](https://github.com/Starlink/starlink): astronomical data processing
 
@@ -315,7 +315,7 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [serialbox](https://github.com/GridTools/serialbox): data serialization library and tools for C/C++ and Fortran, from GridTools
 
-[stl-fortran](https://github.com/jacobwilliams/stl-fortran): Fortran STL (stereolithography) File I/O, by jacobwilliams
+[stl-fortran](https://github.com/jacobwilliams/stl-fortran): Fortran STL (stereolithography) File I/O, by Jacob Williams
 
 [Unidata NetCDF Fortran Library](https://github.com/Unidata/netcdf-fortran): The Unidata network Common Data Form (netCDF) is an interface for scientific data access and a set of freely-distributed software libraries that provide an implementation of the interface. The netCDF library also defines a machine-independent format for representing scientific data.
 
@@ -385,7 +385,7 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [Fortran exceptions library](https://github.com/LightDA-assim/fortran_exceptions): provides exception handling for Fortran 2003 and later, based on the methodology of [Poppe et al. 2012](https://dl.acm.org/doi/10.1145/2338786.2338787)
 
-[fortran_function_parser](https://github.com/jacobwilliams/fortran_function_parser): function parser module by jacobwilliams
+[fortran_function_parser](https://github.com/jacobwilliams/fortran_function_parser): function parser module by Jacob Williams
 is intended for applications where a set of mathematical fortran-style expressions is specified at runtime and is then evaluated for a large number of variable values. This is done by compiling the set of function strings into byte code, which is interpreted efficiently for the various variable values.
 
 [fortranlib](https://github.com/astrofrog/fortranlib): Collection of personal scientific routines in Fortran
@@ -414,7 +414,7 @@ is intended for applications where a set of mathematical fortran-style expressio
 
 [jlib](https://github.com/jhthorpe/jlib): modules for buffers, file I/O, and memory management, by jhthorpe
 
-[json-fortran](https://github.com/jacobwilliams/json-fortran): user-friendly, thread-safe, and object-oriented API for reading and writing JSON files, written in modern Fortran, by jacobwilliams
+[json-fortran](https://github.com/jacobwilliams/json-fortran): user-friendly, thread-safe, and object-oriented API for reading and writing JSON files, written in modern Fortran, by Jacob Williams
 
 [kdtree2](https://github.com/jmhodges/kdtree2): kd-tree implementation in C++ (and Fortran) by Matthew B. Kennel
 
@@ -579,9 +579,9 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 [VecFor](https://github.com/szaghi/VecFor): Object-Oriented designed API for handling vectors in a (3D) three dimensional frame of reference, by szaghi and pdebuyl. It exposes (among others) the object Vector that posses a far complete set of overloaded operators for performing vectorial calculus algebra.
 
 ## Ordinary Differential Equations
-[ddeabm](https://github.com/jacobwilliams/ddeabm): modern object-oriented Fortran implementation of the DDEABM Adams-Bashforth-Moulton ODE solver, by jacobwilliams and web-flow
+[ddeabm](https://github.com/jacobwilliams/ddeabm): modern object-oriented Fortran implementation of the DDEABM Adams-Bashforth-Moulton ODE solver, by Jacob Williams and web-flow
 
-[dop853](https://github.com/jacobwilliams/dop853): modern Fortran (2003/2008) implementation of Hairer's DOP853 ODE solver, by jacobwilliams. The original FORTRAN 77 code has been extensively refactored, and is now object-oriented and thread-safe, with an easy-to-use class interface. DOP853 is an explicit Runge-Kutta method of order 8(5,3) due to Dormand & Prince (with stepsize control and dense output).
+[dop853](https://github.com/jacobwilliams/dop853): modern Fortran (2003/2008) implementation of Hairer's DOP853 ODE solver, by Jacob Williams. The original FORTRAN 77 code has been extensively refactored, and is now object-oriented and thread-safe, with an easy-to-use class interface. DOP853 is an explicit Runge-Kutta method of order 8(5,3) due to Dormand & Prince (with stepsize control and dense output).
 
 [FATODE](https://github.com/ComputationalScienceLaboratory/FATODE): set of integrators to solve ordinary differential system y'=f(t,y) with capabilities of direct and adjoint sensitivity analysis, from ComputationalScienceLaboratory
 
@@ -631,7 +631,7 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [scipydirect](https://github.com/andim/scipydirect): Python wrapper to the DIRECT global optimization algorithm with scipy.optimize compatible call syntax, by andim et al.
 
-[slsqp](https://github.com/jacobwilliams/slsqp): Modern Fortran edition of the [SLSQP](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.512.2567&rep=rep1&type=pdf) optimizer
+[slsqp](https://github.com/jacobwilliams/slsqp): Modern Fortran edition of the [SLSQP](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.512.2567&rep=rep1&type=pdf) optimizer, by Jacob Williams
 
 [simulated-annealing](https://github.com/jacobwilliams/simulated-annealing): Simulated Annealing with Modern Fortran by Jacob Williams 
 
@@ -751,9 +751,9 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 ## Sorting
 [Fortran-parallel-sort](https://github.com/cphyc/Fortran-parallel-sort): Fortran library to perform parallel sorts, by cphyc and OCsteve
 
-[fortran-search-and-sort](https://github.com/jacobwilliams/fortran-search-and-sort): Searching and sorting with modern Fortran, by jacobwilliams
+[fortran-search-and-sort](https://github.com/jacobwilliams/fortran-search-and-sort): Searching and sorting with modern Fortran, by Jacob Williams
 
-[stringsort](https://github.com/jacobwilliams/stringsort): sorting routines for strings, by jacobwilliams
+[stringsort](https://github.com/jacobwilliams/stringsort): sorting routines for strings, by Jacob Williams
 
 ## Statistics
 [200+ R packages with Fortran code](https://github.com/cran?q=&type=&language=fortran&sort=): R is a free software environment for statistical computing and graphics
