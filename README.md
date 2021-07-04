@@ -768,6 +768,10 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [fortran-gmm-EM](https://github.com/Jonas-Finkler/fortran-gmm-EM): extremely efficient implementation of the expectation maximization (EM) algorithm for Gaussian mixtures in Fortran, by Jonas-Finkler
 
+[libdierckx](https://github.com/DaanVanVugt/libdierckx): collection of FORTRAN programs for curve and surface fitting with
+splines and tensor product splines. Features included are automatic knot selection, error smoothing and data 
+reduction.
+
 [MCMC f90 library](https://github.com/mjlaine/mcmcf90): do Markov chain Monte Carlo simulation from a posterior distribution of unknown model parameters defined by a likelihood function and prior, by mjlaine
 
 [measurements](https://github.com/jchristopherson/measurements): routines supporting calculations related to measurement activities, in the following areas: statistics, linear regression, data smoothing, filtering, Fourier transforms, peak detection, interpolation, differentiation, and integration, by jchristopherson
