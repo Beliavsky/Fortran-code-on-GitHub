@@ -212,6 +212,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [EOF](https://github.com/parkeryang69/EOF): simulation of electro-osmotic flow by Lattice Boltzmann method, by parkeryang69
 
+[flexi](https://github.com/flexi-framework/flexi): High-Order Unstructured Discontinuous Galerkin Fluid Dynamics Solver
+
 [Flow81](https://github.com/corygoates/Flow81): basic CFD solvers by corygoates
 
 [fluidity](https://github.com/FluidityProject/fluidity): open source, general purpose, multiphase computational fluid dynamics code capable of numerically solving the Navier-Stokes equation and accompanying field equations on arbitrary unstructured finite element meshes in one, two and three dimensions
