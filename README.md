@@ -614,6 +614,8 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 
 [libga](https://github.com/ramos/libga): genetic algorithm optimisation library by Alberto Ramos 
 
+[LMBM](https://github.com/wilmerhenao/LMBM): Limited Memory Bundle Method for general, possible nonconvex, nonsmooth (nondifferentiable) large-scale minimization, by Napsu Karmitsa. Her site has other codes for nonsmooth optimization, clustering, regression, and imputation
+
 [Minimization](https://github.com/BramvandePut/Minimization): numerical minimization of n-dimensional mathematical functions, by BramvandePut
 
 [minimize](https://github.com/ryokbys/minimize): minimization routines such as steepest descent, conjugate gradient, and quasi-Newton methods with line search method such as quadratic interpolation and golden section, by ryokbys
