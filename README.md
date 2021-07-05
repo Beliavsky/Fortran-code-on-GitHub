@@ -325,6 +325,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [VTKFortran](https://github.com/szaghi/VTKFortran): parse and emit files conforming VTK (XML) standard, by szaghi et al.
 
+[yaFyaml](https://github.com/Goddard-Fortran-Ecosystem/yaFyaml): Fortran-based YAML parser, from Goddard-Fortran-Ecosystem. The rationale for this one is simply to be compatible with the containers in gFTL
+
 ## Finite Elements
 [CEOS](https://github.com/josemthiesen/CEOS): non linear finite element code by josemthiesen and BrunoKlahr
 
