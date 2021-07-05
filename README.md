@@ -787,6 +787,8 @@ reduction.
 
 [measurements](https://github.com/jchristopherson/measurements): routines supporting calculations related to measurement activities, in the following areas: statistics, linear regression, data smoothing, filtering, Fourier transforms, peak detection, interpolation, differentiation, and integration, by jchristopherson
 
+[Missing Value Imputation](https://github.com/SnTa2019/Missing-Value-Imputation): code for [Imputation via Clusterwise Linear Regression](http://napsu.karmitsa.fi/iviaclr/) by Napsu Karmitsa
+
 [MultiNest](https://github.com/rjw57/MultiNest): Bayesian inference tool which calculates the evidence and explores the parameter space which may contain multiple posterior modes and pronounced (curving) degeneracies in moderately high dimensions, by Farhan Feroz and Mike Hobson 
 
 [Multivariate Data Analysis Software in Fortran (and C)](https://mda-sw.github.io/) by Fionn Murtagh 
