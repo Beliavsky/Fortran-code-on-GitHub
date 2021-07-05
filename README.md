@@ -119,6 +119,8 @@
 
 [Performance comparison R, Julia, Fortran for Bayesian binary probit](https://github.com/driesbenoit/benchmark_R_Julia_Fortran) by driesbenoit
 
+[Python Performance](https://github.com/scivision/python-performance): performance benchmarks of Python, Numpy, etc. vs. other languages such as Matlab, Julia, Fortran, from scivision
+
 [raytracer](https://github.com/edin/raytracer): raytracer benchmark in dozens of languages, by edin.
 
 ## Biology and Medicine
