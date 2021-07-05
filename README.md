@@ -365,6 +365,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [coretran](https://github.com/leonfoks/coretran): easy-to-follow library to make Fortran easier in general with wrapped interfaces, sorting routines, kD-Trees, and other algorithms to handle scientific data and concepts.
 
+[fArgParse](https://github.com/Goddard-Fortran-Ecosystem/fArgParse): command line argument parsing for Fortran, from Goddard-Fortran-Ecosystem
+
 [FACE](https://github.com/szaghi/FACE): Ansi Colors and Styles Environment, by szaghi et al.
 
 [fdict](https://github.com/zerothi/fdict): native Fortran 90 dictionary with hash tables for retaining any data-type in a Python-like dictionary
