@@ -461,6 +461,8 @@ is intended for applications where a set of mathematical fortran-style expressio
 
 [chol-rev](https://github.com/imurray/chol-rev): reverse-mode routine written in FORTRAN 77, modeled after the fast LAPACK Cholesky routine DPOTRF, which uses blocked level-3 BLAS routines
 
+[cyclic-banded-matrix](https://github.com/mostlyharmlessone/cyclic-banded-matrix): solves cyclic banded matrices, by mostlyharmlessone
+
 [DBCSR](https://github.com/cp2k/dbcsr): Distributed Block Compressed Sparse Row matrix library, by cp2k
 
 [Fortran_Davidson](https://github.com/NLESC-JCER/Fortran_Davidson): Modern Fortran implementation of the Davidson diagonalization algorithms, from NLESC-JCER
