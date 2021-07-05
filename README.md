@@ -606,6 +606,8 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 
 [hyperBOB](https://github.com/maxEntropyProd/hyperBOB): Optimization using MPI parallel Latin hypercube sampling and BOBYQA, by maxEntropyProd
 
+[L-BFGS-B](https://github.com/jonathanschilling/L-BFGS-B): limited-memory quasi-Newton code for bound-constrained optimization, i.e., for problems where the only constraints are of the form l <= x <= u. It is intended for problems in which information on the Hessian matrix is difficult to obtain, or for large dense problems.
+
 [libga](https://github.com/ramos/libga): genetic algorithm optimisation library by Alberto Ramos 
 
 [Minimization](https://github.com/BramvandePut/Minimization): numerical minimization of n-dimensional mathematical functions, by BramvandePut
