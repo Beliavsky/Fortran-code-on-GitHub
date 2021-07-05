@@ -430,6 +430,8 @@ is intended for applications where a set of mathematical fortran-style expressio
 
 [petaca](https://github.com/nncarlson/petaca): collection of modern Fortran modules that provide broadly useful capabilities -- things that the author has found himself using repeatedly across many projects. A unifying feature of the modules is their object-oriented interfaces and implementation
 
+[pFlogger](https://github.com/Goddard-Fortran-Ecosystem/pFlogger): parallel Fortran logger based on the design of the Python logger, from Goddard-Fortran-Ecosystem
+
 [qContainers](https://github.com/darmar-lt/qcontainers): container library for Fortran language. It enables to store any internal Fortran data type and any derived data type to the container. It implements containers for key/value pairs: tree table and hash table, and containers for objects: list and vector.
 
 [stdlib](https://github.com/fortran-lang/stdlib): utilities, algorithms, and mathematics codes for a Fortran Standard Library, by fortran-lang
