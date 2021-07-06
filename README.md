@@ -602,6 +602,8 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 
 [quadrature-fortran](https://github.com/jacobwilliams/quadrature-fortran): adaptive Gaussian quadrature with modern Fortran, by jacobwilliams
 
+[triasymq](https://github.com/zgimbutas/triasymq): high-order quadratures for triangles, squares, cubes, and tetrahedra, by zgimbutas
+
 ## Ordinary Differential Equations
 [ddeabm](https://github.com/jacobwilliams/ddeabm): modern object-oriented Fortran implementation of the DDEABM Adams-Bashforth-Moulton ODE solver, by Jacob Williams and web-flow
 
