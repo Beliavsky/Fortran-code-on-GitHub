@@ -600,6 +600,8 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 
 [modern quadpack](https://github.com/nshaffer/modern_quadpack): provides QUADPACK as a module with explicit interfaces to the user-level routines and names for magic constants, by nshaffer
 
+[quadrature-fortran](https://github.com/jacobwilliams/quadrature-fortran): adaptive Gaussian quadrature with modern Fortran, by jacobwilliams
+
 ## Ordinary Differential Equations
 [ddeabm](https://github.com/jacobwilliams/ddeabm): modern object-oriented Fortran implementation of the DDEABM Adams-Bashforth-Moulton ODE solver, by Jacob Williams and web-flow
 
