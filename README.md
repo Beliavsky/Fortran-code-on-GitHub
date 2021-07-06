@@ -25,7 +25,7 @@
 * [Materials Science](#materials-science)
 * [Neural Networks and Machine Learning](#neural-networks-and-machine-learning)
 * [Numerical](#numerical)
-* [Numerical Integration](#numerical-integration)
+* [Numerical Integration](#numerical-integration-quadrature)
 * [Ordinary Differential Equations](#ordinary-differential-equations)
 * [Optimization](#optimization)
 * [Parallel Programing](#parallel-programming)
