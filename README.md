@@ -267,6 +267,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [Functionally Assembled Terrestrial Ecosystem Simulator (FATES)](https://github.com/NGEET/fates): numerical terrestrial ecosystem model from NGEET
 
+[GCHP](https://github.com/geoschem/GCHP): global 3-D model of atmospheric chemistry driven by meteorological input from the Goddard Earth Observing System (GEOS) of the NASA Global Modeling and Assimilation Office, from geoschem
+
 [gemini3d](https://github.com/gemini3d/gemini3d): ionospheric fluid electrodynamic model
 
 [GrowClust](https://github.com/dttrugman/GrowClust): program for the relative relocation of earthquake hypocenters based on waveform cross-correlation data, by dttrugman and sean0921
