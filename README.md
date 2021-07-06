@@ -25,6 +25,7 @@
 * [Materials Science](#materials-science)
 * [Neural Networks and Machine Learning](#neural-networks-and-machine-learning)
 * [Numerical](#numerical)
+* [Numerical Integration](#numerical-integration)
 * [Ordinary Differential Equations](#ordinary-differential-equations)
 * [Optimization](#optimization)
 * [Parallel Programing](#parallel-programming)
@@ -593,6 +594,9 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 [Tensor Toolbox for Modern Fortran (ttb)](https://github.com/adtzlr/ttb)
 
 [VecFor](https://github.com/szaghi/VecFor): Object-Oriented designed API for handling vectors in a (3D) three dimensional frame of reference, by szaghi and pdebuyl. It exposes (among others) the object Vector that posses a far complete set of overloaded operators for performing vectorial calculus algebra.
+
+## Numerical Integration
+[modern quadpack](https://github.com/nshaffer/modern_quadpack): provides QUADPACK as a module with explicit interfaces to the user-level routines and names for magic constants, by nshaffer
 
 ## Ordinary Differential Equations
 [ddeabm](https://github.com/jacobwilliams/ddeabm): modern object-oriented Fortran implementation of the DDEABM Adams-Bashforth-Moulton ODE solver, by Jacob Williams and web-flow
