@@ -773,17 +773,19 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [EMPM_MPI_NO](https://github.com/knappf/EMPM_MPI_NO): codes for TDA, 2 and 3 -phonon diagonalization of nuclear Hamiltonian within Equation-of-motion Phonon Method, by knappf. Natural orbital basis version.
 
+[HANDE](https://github.com/hande-qmc/hande): efficient, highly parallel code for stochastic quantum chemistry. It can be used both as a standalone program or (optionally) as a library from an existing quantum chemistry code.
+
 [molgw](https://github.com/bruneval/molgw): accurate many-body perturbation theory calculations of the electronic structure of molecules, by bruneval
 
 [NWChem](https://github.com/nwchemgit/nwchem): Open Source High-Performance Computational Chemistry
+
+[PROGRESS](https://github.com/lanl/qmd-progress): Parallel, Rapid O(N) and Graph-based Recursive Electronic Structure Solver, from lanl
 
 [q-e](https://github.com/QEF/q-e): Quantum ESPRESSO suite of codes (ESPRESSO: opEn-Source Package for Research in Electronic Structure, Simulation, and Optimization)
 
 [qe-gipaw](https://github.com/dceresoli/qe-gipaw): GIPAW code for Quantum-Espresso, by dceresoli
 
 [qe-gpu](https://github.com/fspiga/qe-gpu): GPU-accelerated Quantum ESPRESSO using CUDA Fortran, by fspiga
-
-[HANDE](https://github.com/hande-qmc/hande): efficient, highly parallel code for stochastic quantum chemistry. It can be used both as a standalone program or (optionally) as a library from an existing quantum chemistry code.
 
 [QuAcK](https://github.com/pfloos/QuAcK): performs i) various types of GW calculations (G0W0, evGW, qsGW, etc). ii) ensemble DFT calculations (under progress). QuAcK also include a very slow integral package called IntPak which does compute many types of different integrals. By pfloos.
 
