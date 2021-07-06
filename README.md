@@ -192,6 +192,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 ## Computational Chemistry
 [crest](https://github.com/grimme-lab/crest): Conformer-Rotamer Ensemble Sampling Tool based on the xtb Semiempirical Extended Tight-Binding Program Package, from grimme-lab
 
+[critic2](https://github.com/aoterodelaroza/critic2): manipulation and analysis of structural and chemical information in molecules and periodic solids, by aoterodelaroza et al.
+
 [duo](https://github.com/Trovemaster/Duo): diatomic code for solving a fully coupled rovibronic Schroedinger equation, by Trovemaster
 
 [ewald-summation](https://github.com/Jonas-Finkler/ewald-summation): efficient and easy-to-use implementation of the Ewald summation method, by Jonas-Finkler
