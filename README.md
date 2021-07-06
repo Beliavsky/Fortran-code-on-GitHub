@@ -595,12 +595,16 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 
 [VecFor](https://github.com/szaghi/VecFor): Object-Oriented designed API for handling vectors in a (3D) three dimensional frame of reference, by szaghi and pdebuyl. It exposes (among others) the object Vector that posses a far complete set of overloaded operators for performing vectorial calculus algebra.
 
-## Numerical Integration
+## Numerical Integration (Quadrature)
 [INTEGRAL](https://github.com/jchristopherson/integral): routines for the integration of functions of various types, by jchristopherson. Additionally, the INTEGRAL library provides routines for the integration of systems of ordinary differential equations (ODEs).
 
 [modern quadpack](https://github.com/nshaffer/modern_quadpack): provides QUADPACK as a module with explicit interfaces to the user-level routines and names for magic constants, by nshaffer
 
+[orthpol](https://github.com/ivan-pi/orthpol): generate orthogonal polynomials and Gauss-type quadrature rules, by ivan-pi
+
 [quadrature-fortran](https://github.com/jacobwilliams/quadrature-fortran): adaptive Gaussian quadrature with modern Fortran, by jacobwilliams
+
+[stroud_quad](https://github.com/ivan-pi/stroud_quad): routines from the book "Gaussian Quadrature Formulas" by Stroud & Secrest (1966), updated by ivan-pi
 
 [triasymq](https://github.com/zgimbutas/triasymq): high-order quadratures for triangles, squares, cubes, and tetrahedra, by zgimbutas
 
