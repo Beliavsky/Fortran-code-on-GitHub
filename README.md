@@ -213,6 +213,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 ## Computational Fluid Dynamics
 [2DEulerSolver](https://github.com/FrostyNip/2DEulerSolver): numerically solve the euler equations over a channel with a bump using jameson scheme finite volume analysis, by FrostyNip
 
+[CaNS](https://github.com/p-costa/CaNS): fast, massively-parallel direct numerical simulations (DNS) of canonical flows, by p-costa and nscapin
+
 [CGNS](https://github.com/CGNS/CGNS): the CFD General Notation System (CGNS) provides a standard for recording and recovering computer data associated with the numerical solution of fluid dynamics equations
 
 [code_saturne](https://github.com/code-saturne/code_saturne): CFD software handling either incompressible or expandable flows with or without heat transfer and turbulence
@@ -240,6 +242,9 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 [pencil-code](https://github.com/pencil-code/pencil-code): high-order finite-difference code for compressible hydrodynamic flows with magnetic fields and particles
 
 [shyfem](https://github.com/SHYFEM-model/shyfem): System of HydrodYnamic Finite Element Modules
+
+[SNaC](https://github.com/p-costa/SNaC): multi-block solver for massively parallel direct numerical simulations (DNS) of fluid flows, by p-costa and 
+nscapin
 
 [tlab](https://github.com/turbulencia/tlab): Tools to simulate and analyze turbulent flows in 2D and 3D configurations, from turbulencia. The numerical schemes are based on compact finite differences with structured meshes, where grid stretching allowed. Time advancement in based on Runge-Kutta schemes.
 
