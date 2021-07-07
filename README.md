@@ -544,7 +544,11 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 [thermo_pw](https://github.com/dalcorso/thermo_pw): ab-initio computation of material properties, by dalcorso
 
 ## Mesh Generation
+[fishman](https://github.com/dongli/fishman): generate Spherical Centroidal Voronoi Tessellation (SCVT) mesh for using in geophysical modeling, by dongli
+
 [LaGriT](https://github.com/lanl/LaGriT): Los Alamos Grid Toolbox (LaGriT) is a library of user callable tools that provide mesh generation, mesh optimization and dynamic mesh maintenance in two and three dimensions.
+
+[shabaka](https://github.com/omhafez/shabaka): command-line tool that reads segmented images and generates watertight surface meshes (or b-reps) of the objects of interest, by omhafez. Surface meshes can be piped into mesh generation tools for scientific computing, 3D printing programs, or visualization software.
 
 ## Neural Networks and Machine Learning
 [autofit](https://github.com/Auto-Mech/autofit): fit permutationally invariant polynomials (PIPs), by Auto-Mech
