@@ -635,7 +635,7 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 [rksuite](https://github.com/jacobwilliams/rksuite): Runge-Kutta methods for the numerical solution of the initial value problem for a first order system of ordinary differential equations
 
 ## Optimization
-[Clustering via Nonsmooth Optimization](https://github.com/SnTa2019/Clustering-via-Nonsmooth-Optimization):  codes of optimization based clustering algorithms described in the book "Partitional Clustering via Nonsmooth Optimization" written by "Adil M. Bagirov, Napsu Karmitsa and Sona Taheri", [Springer, 2020].
+[Clustering via Nonsmooth Optimization](https://github.com/SnTa2019/Clustering-via-Nonsmooth-Optimization):  codes of optimization based clustering algorithms described in the book [Partitional Clustering via Nonsmooth Optimization](http://napsu.karmitsa.fi/) by Adil M. Bagirov, Napsu Karmitsa and Sona Taheri, Springer, 2020.
 
 [CUTEst](https://github.com/ralna/CUTEst): Constrained and Unconstrained Testing Environment with safe threads for optimization software 
 
