@@ -584,6 +584,8 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 
 [lookup_table_fortran](https://github.com/jannisteunissen/lookup_table_fortran): module for linear lookup tables, by jannisteunissen. Supports multiple columns and various ways to read values from the table 
 
+[Modern Fortran Utilities](https://github.com/rweed/ModForUtils): variety of tasks including computing binomial coefficients, factorials, routines for checking for NaN and Infinity floating point exceptions, root finders, random number utils and array sorters, by rweed. Future releases will expand on these utilities and add interpolation routines and other utilities.
+
 [NumDiff](https://github.com/jacobwilliams/NumDiff): modern Fortran numerical differentiation library, by Jacob Williams
 
 [NumLib](https://github.com/ebrooker/NumLib): Numerical Library: Demonstration of various numerical methods/recipes, by ebrooker
