@@ -33,6 +33,7 @@
 * [Partial Differential Equations](#partial-differential-equations)
 * [Particle Physics](#particle-physics)
 * [Physics](#physics)
+* [Random Number Generation](#random-number-generation)
 * [Quantum Chemistry and Electronic Structure](#Quantum-Chemistry-and-Electronic-Structure)
 * [Sorting](#sorting)
 * [Statistics](#Statistics)
@@ -825,6 +826,9 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 [wannier90](https://github.com/wannier-developers/wannier90): Maximally-Localised Generalised Wannier Functions Code
 
 [Zen](https://github.com/huangli712/Zen): modern DFT + DMFT (namely, density functional theory plus dynamical mean-field theory) computation framework, by huangli712
+
+## Random Number Generation
+[rng_fortran](https://github.com/jannisteunissen/rng_fortran): generates random integers, uniform, normal, and Poisson variates, and random points on a circle or sphere, by jannisteunissen
 
 ## Sorting
 [Fortran-parallel-sort](https://github.com/cphyc/Fortran-parallel-sort): Fortran library to perform parallel sorts, by cphyc and OCsteve
