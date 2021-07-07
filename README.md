@@ -548,6 +548,8 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 ## Mesh Generation
 [fishman](https://github.com/dongli/fishman): generate Spherical Centroidal Voronoi Tessellation (SCVT) mesh for using in geophysical modeling, by dongli
 
+[hopr](https://github.com/flexi-framework/hopr): High Order Preprocessor is an open-source software for the generation of three-dimensional unstructured high-order meshes, from Numerics Research Group. These meshes are needed by high-order numerical methods like Discontinuous Galerkin, Spectral Element Methods or pFEM, in order to retain their accuracy if the computational domain includes curved boundaries.
+
 [LaGriT](https://github.com/lanl/LaGriT): Los Alamos Grid Toolbox (LaGriT) is a library of user callable tools that provide mesh generation, mesh optimization and dynamic mesh maintenance in two and three dimensions.
 
 [shabaka](https://github.com/omhafez/shabaka): command-line tool that reads segmented images and generates watertight surface meshes (or b-reps) of the objects of interest, by omhafez. Surface meshes can be piped into mesh generation tools for scientific computing, 3D printing programs, or visualization software.
