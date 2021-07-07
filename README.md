@@ -367,7 +367,7 @@ nscapin
 
 [modern-fortran](https://github.com/dvalters/modern-fortran): notes and code from the Fortran Modernisation workshop, by dvalters
 
-[modern_fortran_book](https://github.com/jonaslindemann/modern_fortran_book): Modern Fortran in Science and Technology, by jonaslindemann
+[modern_fortran_book](https://github.com/jonaslindemann/modern_fortran_book): files to build the site [Modern Fortran in Science and Technology](https://modern-fortran-in-science-and-technology.readthedocs.io), by jonaslindemann
 
 ## Games
 [blocktran](https://github.com/fortran-gaming/blocktran): Falling-block object-oriented Fortran 2018 game, with resizable playfield, from fortran-gaming
