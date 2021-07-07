@@ -250,6 +250,8 @@ nscapin
 
 [UCNS3D](https://github.com/ucns3d-team/UCNS3D): unstructured compressible CFD code
 
+[WABBIT](https://github.com/adaptive-cfd/WABBIT): Wavelet Adaptive Block-Based solver for Interactions with Turbulence, from adaptive-cfd
+
 ## Dates and Times
 [datetime-fortran](https://github.com/milancurcic/datetime-fortran): time and date manipulation facilities, by milancurcic
 
