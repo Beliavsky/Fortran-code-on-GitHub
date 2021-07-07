@@ -297,6 +297,8 @@ nscapin
 
 [SEM2DPACK](https://github.com/jpampuero/sem2dpack): spectral element method for 2D wave propagation and fracture dynamics, with emphasis on computational seismology and earthquake source dynamics, from jpampuero et al.
 
+[Specfem3D](https://github.com/geodynamics/specfem3d): simulates acoustic (fluid), elastic (solid), coupled acoustic/elastic, poroelastic or seismic wave propagation in any type of conforming mesh of hexahedra (structured or not.), from geodynamics
+
 [SurfTomo](https://github.com/caiweicaiwei/SurfTomo): direct inversion of surface wave dispersion data, by caiweicaiwei
 
 [trnfsp3n](https://github.com/Geo-Linux-Calculations/trnfsp3n): Fortran 77 code for transforming GPS orbit files in SP3 format between different realizations of ITRF's, from Geo-Linux-Calculations
