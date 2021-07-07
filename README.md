@@ -838,6 +838,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [curvefit](https://github.com/jchristopherson/curvefit): library for fitting functions to sets of data, by jchristopherson
 
+[ferre](https://github.com/callendeprieto/ferre): matches models to data, taking a set of observations and identifying the model parameters that best reproduce the data, in a chi-squared sense, by callendeprieto and holtzmanjon
+
 [fortran-gmm-EM](https://github.com/Jonas-Finkler/fortran-gmm-EM): extremely efficient implementation of the expectation maximization (EM) algorithm for Gaussian mixtures in Fortran, by Jonas-Finkler
 
 [libdierckx](https://github.com/DaanVanVugt/libdierckx): collection of FORTRAN programs for curve and surface fitting with
