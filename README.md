@@ -23,6 +23,7 @@
 * [Interoperability](#interoperability)
 * [Linear Algebra](#linear-algebra)
 * [Materials Science](#materials-science)
+* [Mesh Generation](#mesh-generation)
 * [Neural Networks and Machine Learning](#neural-networks-and-machine-learning)
 * [Numerical](#numerical)
 * [Numerical Integration (Quadrature)](#numerical-integration-quadrature)
@@ -541,6 +542,9 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 [SISSO](https://github.com/rouyang2017/SISSO): data-driven method combining symbolic regression and compressed sensing toward accurate & interpretable models, by rouyang2017
 
 [thermo_pw](https://github.com/dalcorso/thermo_pw): ab-initio computation of material properties, by dalcorso
+
+## Mesh Generation
+[LaGriT](https://github.com/lanl/LaGriT): Los Alamos Grid Toolbox (LaGriT) is a library of user callable tools that provide mesh generation, mesh optimization and dynamic mesh maintenance in two and three dimensions.
 
 ## Neural Networks and Machine Learning
 [autofit](https://github.com/Auto-Mech/autofit): fit permutationally invariant polynomials (PIPs), by Auto-Mech
