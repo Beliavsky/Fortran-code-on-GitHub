@@ -579,6 +579,8 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 
 [NN_MOD](https://github.com/thchang/NN_MOD): Fortran 2008 Module/Class for training neural network regressors, by thchang
 
+[ParallelForest](https://github.com/bert9bert/ParallelForest): R package implementing random forest classification using parallel computing, built with Fortran and OpenMP in the backend, by bert9bert
+
 [util](https://github.com/tchlux/util): machine learning, optimization, and data science utilities package, by tchlux
 
 ## Numerical
