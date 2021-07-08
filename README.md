@@ -17,7 +17,7 @@
 * [Fast Fourier Transform](#fast-fourier-transform)
 * [File I/O](#file-io)
 * [Finite Elements](#finite-elements)
-* [Fortran Tutorials](#fortran-tutorials)
+* [Fortran Books and Tutorials](#fortran-books-and-tutorials)
 * [Games](#games)
 * [Graphics, plotting and user interfaces](#graphics-plotting-and-user-interfaces)
 * [General Purpose](#general-purpose)
@@ -391,7 +391,7 @@ nscapin
 
 [PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran
 
-## Fortran Tutorials
+## Fortran Books and Tutorials
 [coarray-tutorial](https://github.com/tkoenig1/coarray-tutorial): short tutorial using gfortran, ifort, or NAG Fortran, by tkoenig1
 
 [fortran](https://github.com/alexpacheco/fortran): files (TeX, PDF, Exercise and Example codes) for HPC Training on Fortran, by alexpacheco
