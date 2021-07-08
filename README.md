@@ -281,6 +281,8 @@ nscapin
 
 [dep](https://github.com/dailyerosion/dep): Iowa State University Daily (Soil) Erosion Project
 
+[Framework for Aquatic Biogeochemical Models (FABM)](https://github.com/fabm-model/fabm): Fortran 2003 programming framework for biogeochemical models of marine and freshwater systems
+
 [Functionally Assembled Terrestrial Ecosystem Simulator (FATES)](https://github.com/NGEET/fates): numerical terrestrial ecosystem model from NGEET
 
 [FUNWAVE-TVD](https://github.com/fengyanshi/FUNWAVE-TVD): Total Variation Diminishing (TVD) version of the fully nonlinear Boussinesq wave model (FUNWAVE) developed by Shi et al. (2012), by fengyanshi
