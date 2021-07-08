@@ -501,6 +501,8 @@ is intended for applications where a set of mathematical fortran-style expressio
 
 [DBCSR](https://github.com/cp2k/dbcsr): Distributed Block Compressed Sparse Row matrix library, by cp2k
 
+[Eigenvalue SoLvers for Petaflop-Applications (ELPA)](https://github.com/marekandreas/elpa): scalable eigensolver for dense, symmetric (Hermitian) matrices
+
 [Fortran_Davidson](https://github.com/NLESC-JCER/Fortran_Davidson): Modern Fortran implementation of the Davidson diagonalization algorithms, from NLESC-JCER
 
 [fortran_lsp](https://github.com/ivan-pi/fortran_lsp): Fortran routines from "Solving Least Squares Problems" by C. Lawson and R. Hanson, with improved interfaces, from ivan-pi
