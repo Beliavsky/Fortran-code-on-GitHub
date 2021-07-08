@@ -400,6 +400,8 @@ nscapin
 
 [fortran-submodule](https://github.com/scivision/fortran-submodule): Examples of modern Fortran 2008 submodule, using Meson or CMake, from scivision. Fortran submodules allow easy switching in and out of features and extremely fast recompilation of large programs perhaps 100 times or more faster.
 
+[listings](https://github.com/modern-fortran/listings): code listings for [Modern Fortran: Building Efficient Parallel Applications](https://www.manning.com/books/modern-fortran), by Milan Curcic
+
 [M_intrinsics](https://github.com/urbanjost/M_intrinsics): man(1) pages for the standard Fortran intrinsics, with a secondary goal of providing a tested working example program for each intrinsic
 
 [modern-fortran](https://github.com/dvalters/modern-fortran): notes and code from the Fortran Modernisation workshop, by dvalters
