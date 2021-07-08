@@ -14,6 +14,7 @@
 * [Earth Science](#earth-science)
 * [Economics](#economics)
 * [Engineering](#engineering)
+* [Fast Fourier Transform](#fast-fourier-transform)
 * [File I/O](#file-io)
 * [Finite Elements](#finite-elements)
 * [Fortran Tutorials](#fortran-tutorials)
@@ -332,6 +333,19 @@ nscapin
 [DynamicStiffness](https://github.com/jbcSmc/DynamicStiffness): calculate the harmonic response of plane frame structures, by jbcSmc
 
 [openfast](https://github.com/OpenFAST/openfast): NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes
+
+## Fast Fourier Transform
+[ffte](https://github.com/certik/ffte): computes Discrete Fourier Transforms of 1-, 2- and 3- dimensional sequences of length (2^p)*(3^q)*(5^r).
+
+[fftlog-f90](https://github.com/coccoinomane/fftlog-f90): extended Fortran 90 version of the FFTLog code by Andrew Hamilton to convolve a tabulated function with a Bessel functions, by coccoinomane
+
+[fft-overlap](https://github.com/dappelha/fft-overlap): fficient implementations of ffts on multiple GPUs and across multiple nodes, by dappelha. Overlapping data transfer on multiple levels.
+
+[FFTPack](https://github.com/keurfonluu/FFTPack): easily usable package of functions using wrapping the Fortran 77 FFTPack library, by keurfonluu
+
+[modern_fftpack](https://github.com/jlokimlin/modern_fftpack): Fortran 2008 library of fast Fourier transforms -- an object-oriented modernization of NCAR's FFTPACK5.1., by jlokimlin
+
+[nufft](https://github.com/biotrump/nufft): code for the 1D, 2D and 3D non-uniform FFTs, from biotrump
 
 ## File I/O
 [fcore](https://github.com/jchristopherson/fcore): string handling and i/o routines, by jchristopherson
