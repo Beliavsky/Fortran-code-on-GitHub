@@ -236,6 +236,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [fluidity](https://github.com/FluidityProject/fluidity): open source, general purpose, multiphase computational fluid dynamics code capable of numerically solving the Navier-Stokes equation and accompanying field equations on arbitrary unstructured finite element meshes in one, two and three dimensions
 
+[fluxo](https://github.com/project-fluxo/fluxo): solves linear and nonlinear advection diffusion equations, for example the compressible Navier-Stokes equations, the resistive magneto-hydrodynamic equations and others
+
 [fosolvers](https://github.com/mianzhi/fosolvers): suite of free and open source solvers, created with the goals of solving practical engineering problems and being easy to hack, by mianzhi
 
 [lbm2d_opencl](https://github.com/LKedward/lbm2d_opencl): D2Q9 BGK Lattice Boltzmann code written in OpenCL and Modern Fortran, by LKedward
