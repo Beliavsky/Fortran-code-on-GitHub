@@ -828,6 +828,10 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 [Zen](https://github.com/huangli712/Zen): modern DFT + DMFT (namely, density functional theory plus dynamical mean-field theory) computation framework, by huangli712
 
 ## Random Number Generation
+[LEcuyer-RNG-Fortran90](https://github.com/p-serna/LEcuyer-RNG-Fortran90): pseudo-random number generator, more precisely, a combined multiple recursive generator (CMRG), MRG32k3a, proposed by L'Ecuyer "Good parameters and implementations for combined multiple recursive random number generators". Operations Research. 1999 Feb;47(1):159-64, by p-serna
+
+This algorithm is well suited for parallel computing as it can initialize many long streams and substreams, with a total period length of 2191 and it passes diehard tests.
+
 [randomField](https://github.com/cottereau/randomField): generation of random fields with prescribed first-order marginal distribution and correlation structure over structured grids or non-structured point arrays, by cottereau
 
 [rng_fortran](https://github.com/jannisteunissen/rng_fortran): generates random integers, uniform, normal, and Poisson variates, and random points on a circle or sphere, by jannisteunissen
