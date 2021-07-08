@@ -979,6 +979,8 @@ milancurcic and awvwgk
 
 [TOMS Algorithm 675](https://github.com/ivan-pi/TOMS-Algorithm-675): subroutines for computing the square root covariance filter and square root information filter in dense or Hessenberg forms, by ivan-pi
 
+[wavelets](https://github.com/chris-torrence/wavelets): Torrence & Compo Wavelet Analysis Software
+
 ## Unclassified
 [fds](https://github.com/firemodels/fds): Fire Dynamics Simulator (FDS) is a large-eddy simulation (LES) code for low-speed flows, from firemodels, with an emphasis on smoke and heat transport from fires.
 
