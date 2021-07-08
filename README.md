@@ -21,6 +21,7 @@
 * [Graphics, plotting and user interfaces](#graphics-plotting-and-user-interfaces)
 * [General Purpose](#general-purpose)
 * [Interoperability](#interoperability)
+* [Interpolation](#interpolation)
 * [Linear Algebra](#linear-algebra)
 * [Materials Science](#materials-science)
 * [Mesh Generation](#mesh-generation)
@@ -487,6 +488,29 @@ is intended for applications where a set of mathematical fortran-style expressio
 [FortCL](https://github.com/stfc/FortCL): Fortran wrapper library providing OpenCL functionality, from stfc
 
 [NPY for Fortran](https://github.com/MRedies/NPY-for-Fortran): allows saving numerical Fortran arrays in Numpy's .npy or .npz format, by MRedies
+
+## Interpolation
+[akima](https://github.com/andrewning/akima): 1-Dimensional Akima spline implementation with derivatives not only of the function, but also with respect to the original data points, by andrewnin. An Akima spline is a polynomial spline method that avoids overshooting issues common with many other splines (e.g., cubic splines), resulting in a more natural curve. 
+
+[bspline-fortran](https://github.com/jacobwilliams/bspline-fortran): Multidimensional B-Spline Interpolation of Data on a Regular Grid, by Jacob Williams
+
+[DelaunaySparse](https://github.com/vtopt/DelaunaySparse): interpolation in medium to high dimensions via a sparse subset of the Delaunay triangulation, from vtopt
+
+[finterp](https://github.com/jacobwilliams/finterp): performs multidimensional (1D-6D) linear interpolation of data on a regular grid, by Jacob Williams. The code is written in modern Fortran (2003/2008) and is object-oriented and thread safe.
+
+[FOLLIA](https://github.com/giacrossi/FOLLIA): evaluation of Lagrange coefficients and interpolation on uniform and non-uniform one-dimensional grids, by giacrossi
+
+[fortran-rbf](https://github.com/dongli/fortran-rbf): implementation of radial basis functions (RBF), by dongli
+
+[PCHIP](https://github.com/jacobwilliams/PCHIP): piecewise cubic Hermite interpolation of data, by Jacob Williams. It features software to produce a monotone and "visually pleasing" interpolant to monotone data.
+
+[regridpack](https://github.com/jacobwilliams/regridpack): routines for interpolating values between one-, two-, three-, and four-dimensional arrays defined on uniform or nonuniform orthogonal grids, from Jacob Williams
+
+[sosie](https://github.com/brodeau/sosie): SOSIE is Only a Surface Interpolation Environment, by brodeau
+
+[sprint](https://github.com/dongli/sprint): Spherical Remapping and Interpolation library, from dongli
+
+[WenOOF](https://github.com/Fortran-FOSS-Programmers/WenOOF): Weighted Essentially Non-Oscillatory (WENO) interpolation, from Fortran-FOSS-Programmers
 
 ## Linear Algebra
 [amg4psblas](https://github.com/sfilippone/amg4psblas): Algebraic Multigrid Package based on PSBLAS (Parallel Sparse BLAS version 3.7), for the iterative solution of large and sparse linear systems, by by sfilippone et al.
