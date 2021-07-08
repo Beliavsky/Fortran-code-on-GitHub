@@ -941,6 +941,8 @@ milancurcic and awvwgk
 [StringiFor](https://github.com/szaghi/StringiFor): Strings Fortran Manipulator with steroids, by szaghi
 
 ## Time Series
+[ACFbyFFT](https://github.com/lingtikong/ACFbyFFT): evaluates the auto(cross)-correlation of data in one or more columns of a file, by using the fftw 3.1.2 libraries, by lingtikong
+
 [BVARmml](https://github.com/dingshutong/BVARmml): variable selection in Bayesian VAR models via marginalization of marginal likelihood, by dingshutong
 
 [fortsa](https://github.com/zoziha/fortsa): univariate time series analysis and ARIMA modeling package, by zoziha
