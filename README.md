@@ -152,7 +152,7 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [E3SM](https://github.com/E3SM-Project/E3SM): Energy Exascale Earth System Model source code, by E3SM-Project 
 
-[fv3gfs](https://github.com/NOAA-EMC/fv3gfs): Finite­ Volume Cubed-Sphere dynamical core (FV3) Global Forecasting System (GFS), from NOAA-EMCGeneralized Analog Regression Downscaling
+[fv3gfs](https://github.com/NOAA-EMC/fv3gfs): Finite­ Volume Cubed-Sphere dynamical core (FV3) Global Forecasting System (GFS), from NOAA-EMC
 
 [GARD](https://github.com/NCAR/GARD): Generalized Analog Regression Downscaling code, from NCAR
 
