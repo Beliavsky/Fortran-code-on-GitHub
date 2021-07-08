@@ -476,6 +476,8 @@ is intended for applications where a set of mathematical fortran-style expressio
 [vtkmofo](https://github.com/porteri/vtkmofo): VTK format using modern Fortran, by porteri
 
 ## Interoperability
+[dynload-julia](https://github.com/brocolis/dynload-julia): dynamically load Julia from Fortran, by brocolis
+
 [FortCL](https://github.com/stfc/FortCL): Fortran wrapper library providing OpenCL functionality, from stfc
 
 [NPY for Fortran](https://github.com/MRedies/NPY-for-Fortran): allows saving numerical Fortran arrays in Numpy's .npy or .npz format, by MRedies
