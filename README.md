@@ -496,6 +496,8 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 
 [stdlib](https://github.com/fortran-lang/stdlib): utilities, algorithms, and mathematics codes for a Fortran Standard Library, by fortran-lang
 
+[UniShellect](https://github.com/Lateralus138/UniShellect): parses a JSON config file and loads a highly customizable menu of shells, interpreters, files, commands and possible arguments into any command line interface, by Lateralus138. This is inspired by the "hyper-shellect" plug-in for the "Hyper" terminal.
+
 [VectorClass](https://github.com/thchang/VectorClass): Fortran 2003 dynamic memory array that functions similarly (but not identically) to the C++ Vector class, by Tyler Chang
 
 [ZstdFortranLib](https://github.com/zbeekman/ZstdFortranLib): implements missing functionality such as error handling, strings manipulation, system/environment interface & testing utilities, by zbeekman
