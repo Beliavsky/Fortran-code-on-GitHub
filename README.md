@@ -180,6 +180,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 [WRF](https://github.com/wrf-model/WRF): Weather Research and Forecasting (WRF) model
 
 ## Code Tools
+[bench-cli](https://github.com/Lateralus138/bench-cli): cross-platform command line tool to benchmark commands and other executables/scripts in command lines written in Fortran, by Lateralus138. Very precise and fast.
+
 [exceptions](https://github.com/arjenmarkus/exceptions): experiment with exceptions in Fortran via a simple preprocessing step, by arjenmarkus
 
 [fortran-testanything](https://github.com/dennisdjensen/fortran-testanything): test library supporting the Test Anything Protocol (TAP) inspired by Perl's Test::More module, by dennisdjensen
