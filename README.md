@@ -453,8 +453,6 @@ nscapin
 
 [forbear](https://github.com/szaghi/forbear): progress bar environment by szaghi and jhykes
 
-[forpy](https://github.com/ylikx/forpy): use Python in Fortran and vice versa
-
 [Fortran exceptions library](https://github.com/LightDA-assim/fortran_exceptions): provides exception handling for Fortran 2003 and later, based on the methodology of [Poppe et al. 2012](https://dl.acm.org/doi/10.1145/2338786.2338787)
 
 [fortran_function_parser](https://github.com/jacobwilliams/fortran_function_parser): function parser module by Jacob Williams
@@ -526,6 +524,8 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 
 ## Interoperability
 [dynload-julia](https://github.com/brocolis/dynload-julia): dynamically load Julia from Fortran, by brocolis
+
+[forpy](https://github.com/ylikx/forpy): use Python in Fortran and vice versa
 
 [FortCL](https://github.com/stfc/FortCL): Fortran wrapper library providing OpenCL functionality, from stfc
 
