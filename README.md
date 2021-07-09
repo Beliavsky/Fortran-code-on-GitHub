@@ -526,6 +526,8 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 ## Interoperability
 [dynload-julia](https://github.com/brocolis/dynload-julia): dynamically load Julia from Fortran, by brocolis
 
+[fckit](https://github.com/ecmwf/fckit): Fortran toolkit for interoperating Fortran with C/C++, from ecmwf
+
 [forpy](https://github.com/ylikx/forpy): use Python in Fortran and vice versa
 
 [FortCL](https://github.com/stfc/FortCL): Fortran wrapper library providing OpenCL functionality, from stfc
