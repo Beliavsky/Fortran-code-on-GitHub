@@ -314,6 +314,8 @@ nscapin
 
 [LISF](https://github.com/NASA-LIS/LISF): The Land Information System (LIS) from NASA-LIS is a software framework for high performance terrestrial hydrology modeling and data assimilation developed with the goal of integrating satellite and ground-based observational data products and advanced modeling techniques to produce optimal fields of land surface states and fluxes.
 
+[MODFLOW 6: USGS Modular Hydrologic Model](https://github.com/MODFLOW-USGS/modflow6): accurately, reliably, and efficiently simulates groundwater flow. With time, growing interest in surface and groundwater interactions, local refinement with nested and unstructured grids, karst groundwater flow, solute transport, and saltwater intrusion, has led to the development of numerous MODFLOW versions.
+
 [MOM6](https://github.com/NOAA-GFDL/MOM6): Modular Ocean Model, from NOAA-GFDL
 
 [NEMO-examples](https://github.com/NEMO-ocean/NEMO-examples): simple configurations to study specific oceanic physical processes and be used as a tool for training
