@@ -318,6 +318,8 @@ nscapin
 
 [SurfTomo](https://github.com/caiweicaiwei/SurfTomo): direct inversion of surface wave dispersion data, by caiweicaiwei
 
+[SW_VAR_DENS_MODEL](https://github.com/demichie/SW_VAR_DENS_MODEL): model shallow gas-particles flows over digital elevation models (DEMs) of natural terrain, by demichie. The model solves for the conservation equations (mass,momentum,energy) of the mixture, and accounts for sedimentation, erosion, friction and entrainment. 
+
 [trnfsp3n](https://github.com/Geo-Linux-Calculations/trnfsp3n): Fortran 77 code for transforming GPS orbit files in SP3 format between different realizations of ITRF's, from Geo-Linux-Calculations
 
 [TSMP](https://github.com/HPSCTerrSys/TSMP): Terrestrial System Modeling Platform (TSMP or TerrSysMP, https://www.terrsysmp.org) is a scale-consistent, highly modular, massively parallel regional Earth system model, from HPSCTerrSys
