@@ -846,6 +846,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [vbfnlo](https://github.com/vbfnlo/vbfnlo): fully flexible parton level Monte Carlo program for the simulation of vector boson fusion, double and triple vector boson production in hadronic collisions at next-to-leading order in the strong coupling constant
 
+[Whizard-mirror](https://github.com/bijancn/Whizard-mirror): efficient calculation of multi-particle scattering cross sections and simulated event samples. Mirror of [private git](https://gitlab.tp.nt.uni-siegen.de/whizard/public)
+
 ## Physics
 [Bose-Einstein_Condensates](https://github.com/brito-leonardo/Bose-Einstein_Condensates): solve Bose-Einstein condensates problems and related algebraic problems in quantum mechanics, with Fortran 90 and Python 3 languages, by brito-leonardo
 
