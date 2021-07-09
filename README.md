@@ -528,6 +528,8 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 
 [fckit](https://github.com/ecmwf/fckit): Fortran toolkit for interoperating Fortran with C/C++, from ecmwf
 
+[flibcpp](https://github.com/swig-fortran/flibcpp): uses SWIG-Fortran to expose useful functionality from the C++ standard library to Fortran 2003 application developers. It generates self-contained Fortran modules with native proxy classes and functions which wrap the C++ standard library.
+
 [forpy](https://github.com/ylikx/forpy): use Python in Fortran and vice versa
 
 [FortCL](https://github.com/stfc/FortCL): Fortran wrapper library providing OpenCL functionality, from stfc
