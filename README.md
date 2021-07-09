@@ -227,6 +227,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 ## Computational Fluid Dynamics
 [2DEulerSolver](https://github.com/FrostyNip/2DEulerSolver): numerically solve the euler equations over a channel with a bump using jameson scheme finite volume analysis, by FrostyNip
 
+[adflow](https://github.com/mdolab/adflow): flow solver developed by the MDO Lab at the University of Michigan. It solves the compressible Euler, laminar Navier–Stokes and Reynolds-averaged Navier–Stokes equations using structured multi-block and overset meshes.
+
 [CaNS](https://github.com/p-costa/CaNS): fast, massively-parallel direct numerical simulations (DNS) of canonical flows, by p-costa and nscapin
 
 [CGNS](https://github.com/CGNS/CGNS): the CFD General Notation System (CGNS) provides a standard for recording and recovering computer data associated with the numerical solution of fluid dynamics equations
