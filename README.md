@@ -37,6 +37,7 @@
 * [Particle Physics](#particle-physics)
 * [Physics](#physics)
 * [Random Number Generation](#random-number-generation)
+* [Reactor Physics](#reactor-physics)
 * [Quantum Chemistry and Electronic Structure](#Quantum-Chemistry-and-Electronic-Structure)
 * [Sorting](#sorting)
 * [Statistics](#Statistics)
@@ -930,6 +931,17 @@ This algorithm is well suited for parallel computing as it can initialize many l
 [randomField](https://github.com/cottereau/randomField): generation of random fields with prescribed first-order marginal distribution and correlation structure over structured grids or non-structured point arrays, by cottereau
 
 [rng_fortran](https://github.com/jannisteunissen/rng_fortran): generates random integers, uniform, normal, and Poisson variates, and random points on a circle or sphere, by jannisteunissen
+
+## Reactor Physics
+[Ground Source Cooled Reactor (GSCR)](https://github.com/lancekim/GSCR): code from Kim, Lance K., Rainer Jungwirth, Guido Renda, Erik Wolfart, and Giacomo G. M. Cojazzi. “Potential Signatures and the Means of Detecting a Hypothetical Ground Source Cooled Nuclear Reactor.” Science & Global Security 24, no. 2 (2016): 92–113.
+
+[KOMODO](https://github.com/imronuke/KOMODO): nuclear reactor simulator that solves both static and transient neutron diffusion equation for one, two or three dimensional reactor problems in Cartesian geometry, from imronuke. Currently, by default, KOMODO uses Semi-Analytic Nodal Method (SANM) to spatially discretise the neutron diffusion equation.
+
+[PointKinetics](https://github.com/KarolLuszczek/PointKinetics): point-kinetics calculation of the nuclear reactor cores, by KarolLuszczek
+
+[ReactorHeatTransfer](https://github.com/rwalden1993/ReactorHeatTransfer): time-dependent heat transfer Fortran code used to model a 4 loop Westinghouse PWR primary coolant loop, by rwalden1993
+
+[trimon](https://github.com/rabieomar92/trimon): 3D Monte Carlo Code for TRIGA Mk-II Reactor Core Calculation, by rabieomar92
 
 ## Sorting
 [Fortran-parallel-sort](https://github.com/cphyc/Fortran-parallel-sort): Fortran library to perform parallel sorts, by cphyc and OCsteve
