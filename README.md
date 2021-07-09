@@ -467,6 +467,9 @@ is intended for applications where a set of mathematical fortran-style expressio
 
 [functional-fortran](https://github.com/wavebitscientific/functional-fortran): library for functional programming in modern Fortran
 
+[Futility](https://github.com/CASL/Futility): utilities that contains the following capabilities: definition of kinds for intrinsic numeric data types, a unit test harness, definitions for some basic extensions to the Fortran language, geometry definitions and intersection routines, 
+file wrapper functions, parallel wrapper functions, math utilities, a lightweight profiling interface, and other miscellaneous routines, from CASL
+
 [general-purpose-fortran](https://github.com/urbanjost/general-purpose-fortran): non-numeric tasks such as command-line parsing, string functions, date-and-time manipulation and display, interfacing to the C POSIX system routines, by urbanjost
 
 [gFTL](https://github.com/Goddard-Fortran-Ecosystem/gFTL): provides a mechanism to easily create robust containers and associated iterators which can be used within Fortran applications, from Goddard-Fortran-Ecosystem. The primary methods are intended to be as close to their C++ STL analogs as possible.
