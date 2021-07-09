@@ -25,6 +25,7 @@
 * [Interpolation](#interpolation)
 * [Linear Algebra](#linear-algebra)
 * [Materials Science](#materials-science)
+* [Molecular Dynamics](#molecular-dynamics)
 * [Mesh Generation](#mesh-generation)
 * [Neural Networks and Machine Learning](#neural-networks-and-machine-learning)
 * [Numerical](#numerical)
@@ -633,6 +634,19 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 [pyhyp](https://github.com/mdolab/pyhyp): uses hyperbolic volume mesh marching schemes to extrude structured surface meshes into volume meshes, by mdolab. pyHyp is used as a preprocessing step in the geometry and mesh-creation process prior to an optimization.
 
 [shabaka](https://github.com/omhafez/shabaka): command-line tool that reads segmented images and generates watertight surface meshes (or b-reps) of the objects of interest, by omhafez. Surface meshes can be piped into mesh generation tools for scientific computing, 3D printing programs, or visualization software.
+
+## Molecular Dynamics
+[EmDee](https://github.com/atoms-ufrj/EmDee): platform to test simulation methods that involve the mechanics of many atoms, such as different thermostats and barostats, hybrid Monte Carlo algorithms, etc, from atoms-ufrj
+
+[kg4vasp](https://github.com/conodipaola/kg4vasp): Kubo-Greenwood for transport properties from First Principle Molecular Dynamics with VASP, by conodipaola
+
+[Hefei-NAMD](https://github.com/QijingZheng/Hefei-NAMD): ab-initio nonadiabatic molecular dynamics program, by QijingZheng and WeibinChu
+
+[QUIP](https://github.com/libAtoms/QUIP): collection of software tools to carry out molecular dynamics simulations, from libAtoms. It implements a variety of interatomic potentials and tight binding quantum mechanics, and is also able to call external packages, and serve as plugins to other software such as LAMMPS, CP2K and also the python framework ASE.
+
+[QXMD](https://github.com/USCCACS/QXMD): scalable, parallel program for Quantum Molecular Dynamics simulations with various eXtensions, from USCCACS. Its simulation engine is based on (time-dependent) density functional theory using pseudopotentials and plane-wave basis, while extensions include nonadiabatic electron-nuclei dynamics and multiscale shock technique.
+
+[RXMD](https://github.com/USCCACS/RXMD): simulates large-scale Reactive Force Field molecular dynamics (MD) simulations on from commodity laptops to high-end supercomputing platforms, from USCCACS. rxmd has been used in a various class of material studies, such as shock-induced chemical reactions, stress corrosion cracking, underwater bubble collapse, fracture of self-healing ceramics and oxidation of nanoparticles.
 
 ## Neural Networks and Machine Learning
 [autofit](https://github.com/Auto-Mech/autofit): fit permutationally invariant polynomials (PIPs), by Auto-Mech
