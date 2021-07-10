@@ -717,6 +717,8 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 
 [NumericalHUB](https://github.com/jahrWork/NumericalHUB): set of modern Fortran numerical libraries covering: zeroes of Systems of Equations, Lagrange Interpolation, Finite Differences, Cauchy Problems, Boundary Value Problems, and Initial Boundary Value Problems, associated with book [How to learn Applied Mathematics through modern FORTRAN](https://www.amazon.com/Applied-Mathematics-through-modern-FORTRAN/dp/B0851LN6HT) 
 
+[Numerical_Methods](https://github.com/brito-leonardo/Numerical_Methods): useful numerical methods applied to simple problems, which are a starting point to solving physical problems, implemented in Fortran 90 and Python 3, by brito-leonardo
+
 [Numerical methods in Fortran](https://github.com/planelles20/numerical-methods-fortran): solving linear, nonlinear equations, integral, ordinary differential equations, ... using numerical methods in Fortran, by Carlos Planelles Alemany 
 
 [Numerical methods in Fortran](https://github.com/mrtkp9993/Numerical-Methods-in-Fortran): numerical analysis and statistics algorithms, by Murat Koptur 
