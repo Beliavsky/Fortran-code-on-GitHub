@@ -173,6 +173,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [libsim](https://github.com/ARPA-SIMC/libsim): libraries from ARPA-SIMC include a general purpose ''base'' library with modules for handling character variables, csv files, command-line arguments, physical constants, date and time computations, georeferenced coordinates, growable arrays and list structures of any type and other. Another set of libraries is specific to Meteorology and Earth Science and allows to work with gridded and sparse georeferenced data, perform interpolations, statistical processing in time, data quality control, thermodynamic computations.
 
+[MITgcm](https://github.com/MITgcm/MITgcm): A numerical model designed for study of the atmosphere, ocean, and climate, MITgcm’s (General Circulation Model) flexible non-hydrostatic formulation enables it to efficiently simulate fluid phenomena over a wide range of scales; its adjoint capabilities enable it to be applied to sensitivity questions and to parameter and state estimation problems.
+
 [NoahMP](https://github.com/ESMWG/NoahMP): Noah with multiparameterization options (NoahMP) land surface model, from ESMWG
 
 [pytdlpack](https://github.com/eengl/pytdlpack): Python interface for reading and writing TDLPACK data, by eengl
