@@ -526,6 +526,8 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 [vtkmofo](https://github.com/porteri/vtkmofo): VTK format using modern Fortran, by porteri
 
 ## Interoperability
+[arrayfire-fortran](https://github.com/arrayfire/arrayfire-fortran): Fortran wrapper for ArrayFire, a general purpose GPU library.
+
 [dynload-julia](https://github.com/brocolis/dynload-julia): dynamically load Julia from Fortran, by brocolis
 
 [fckit](https://github.com/ecmwf/fckit): Fortran toolkit for interoperating Fortran with C/C++, from ecmwf
