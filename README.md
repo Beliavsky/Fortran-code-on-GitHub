@@ -937,6 +937,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [qe-gpu](https://github.com/fspiga/qe-gpu): GPU-accelerated Quantum ESPRESSO using CUDA Fortran, by fspiga
 
+[Quantum Package 2.2](https://github.com/QuantumPackage/qp2): programming environment for quantum chemistry specially designed for wave function methods. Its main goal is the development of determinant-driven selected configuration interaction (sCI) methods and multi-reference second-order perturbation theory (PT2).
+
 [QuAcK](https://github.com/pfloos/QuAcK): performs i) various types of GW calculations (G0W0, evGW, qsGW, etc). ii) ensemble DFT calculations (under progress). QuAcK also include a very slow integral package called IntPak which does compute many types of different integrals. By pfloos.
 
 [smash](https://github.com/cmsi/smash): Massively parallel software for quantum chemistry calculations, from cmsi
