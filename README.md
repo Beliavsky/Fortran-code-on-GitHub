@@ -531,6 +531,8 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 
 [ogpf](https://github.com/kookma/ogpf): Object-Based Interface to GnuPlot from Fortran, by kookma
 
+[pyplot-fortran](https://github.com/jacobwilliams/pyplot-fortran): generate plots from Fortran using Python's matplotlib.pyplot, by jacobwilliams
+
 [vtkmofo](https://github.com/porteri/vtkmofo): VTK format using modern Fortran, by porteri
 
 ## Interoperability
