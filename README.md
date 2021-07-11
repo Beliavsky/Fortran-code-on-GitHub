@@ -546,6 +546,16 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 
 [FortCL](https://github.com/stfc/FortCL): Fortran wrapper library providing OpenCL functionality, from stfc
 
+[fortran-curl](https://github.com/interkosmos/fortran-curl): collection of ISO C binding interfaces to libcurl for Fortran 2008, by interkosmos. Compilation has been tested with GNU Fortran 10 and cURL 7.74.0.
+
+[fortran-lua53](https://github.com/interkosmos/fortran-lua53): Fortran 2008 interface bindings to Lua 5.3, from interkosmos
+
+[fortran-unix](https://github.com/interkosmos/fortran-unix): Fortran 2008 ISO C binding interfaces to selected POSIX and SysV types, functions, and routines on 64-bit Unix-like operating systems, by interkosmos
+
+[M_process](https://github.com/urbanjost/M_process): read and write lines to or from a process from Fortran via a C wrapper, by urbanjost
+
+[M_system](https://github.com/urbanjost/M_system): module that allows Fortran to call commonly available C routines that perform basic system operations like creating and deleting files and directories, changing and querying file permits, getting basic ID and process information, ... and other POSIX system requests, by urbanjost
+
 [NPY for Fortran](https://github.com/MRedies/NPY-for-Fortran): allows saving numerical Fortran arrays in Numpy's .npy or .npz format, by MRedies
 
 ## Interpolation
