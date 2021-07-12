@@ -185,6 +185,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [scream](https://github.com/E3SM-Project/scream): global atmosphere model targeted towards 3 km ("cloud resolving") resolution. It is part of the Energy Exascale Earth System Model (E3SM)
 
+[Unified Forecast System (UFS) weather model](https://github.com/ufs-community/ufs-weather-model): weather model is used in several of the UFS applications, including the medium-range weather application and the short-range weather application.
+
 [weather-buoys](https://github.com/modern-fortran/weather-buoys): Processing weather buoy data in parallel, from modern-fortran
 
 [WRF](https://github.com/wrf-model/WRF): Weather Research and Forecasting (WRF) model
