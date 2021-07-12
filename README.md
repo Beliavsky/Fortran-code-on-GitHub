@@ -959,6 +959,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [molgw](https://github.com/bruneval/molgw): accurate many-body perturbation theory calculations of the electronic structure of molecules, by bruneval
 
+[MuST](https://github.com/mstsuite/MuST): Multiple Scattering Theory code for first principles calculations, from mstsuite. Ab initio electronic structure calculation software package, with petascale and beyond computing capability, for the first principles study of quantum phenomena in disordered materials.
+
 [NWChem](https://github.com/nwchemgit/nwchem): Open Source High-Performance Computational Chemistry
 
 [PROGRESS](https://github.com/lanl/qmd-progress): Parallel, Rapid O(N) and Graph-based Recursive Electronic Structure Solver, from lanl
