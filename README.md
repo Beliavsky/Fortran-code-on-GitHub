@@ -665,6 +665,8 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 [tt-fort](https://github.com/oseledets/tt-fort): Fortran computing core of the TT-Toolbox. It also includes two slightly customized libraries for doing fast local solvers in eigenvalue and dynamical problems.
 
 ## Materials Science
+[DAMASK](https://github.com/eisenforschung/damask): DAMASK is a unified multi-physics crystal plasticity simulation package. The solution of continuum mechanical boundary value problems requires a constitutive response that connects deformation and stress at each material point. This problem is solved in DAMASK on the basis of crystal plasticity using a variety of constitutive models and homogenization approaches.
+
 [DMFTwDFT](https://github.com/DMFTwDFT-project/DMFTwDFT): calculates electronic, vibrational and elastic properties in strongly correlated materials (SCM) using beyond-DFT methods such as DFT+U, DFT+Hybrids and DFT+DMFT (Dynamical Mean Field Theory) with a variety of different DFT codes
 
 [EXCEED-DM](https://github.com/tanner-trickle/EXCEED-DM): EXtended Calculation of Electronic Excitations for Direct detection of Dark Matter, by tanner-trickle
