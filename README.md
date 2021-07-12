@@ -71,6 +71,8 @@
 
 [Commander](https://github.com/Cosmoglobe/Commander): optimal Monte-carlo Markov chAiN Driven EstimatoR which implements fast and efficient end-to-end CMB posterior exploration through Gibbs sampling, from Cosmoglobe
 
+[Compact Object Synthesis and Monte Carlo Investigation Code (COSMIC)](https://github.com/COSMIC-PopSynth/COSMIC): rapid binary population synthesis suite with a special purpose of generating realistic compact binary populations. COSMIC can also be used to evolve binaries with BSE in a python environment.
+
 [etfFinal](https://github.com/mgeshelley/etfFinal): Neutron star inner crust code, by mgeshelley
 
 [evelchemevol](https://github.com/lukeshingles/evelchemevol): one-zone closed-box chemical evolution code written in Fortran with OpenMP, by lukeshingles
