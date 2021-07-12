@@ -1095,6 +1095,8 @@ milancurcic and awvwgk
 [wavelets](https://github.com/chris-torrence/wavelets): Torrence & Compo Wavelet Analysis Software
 
 ## Unclassified
+[Consolidated Fire and Smoke Transport (CFAST)](https://github.com/firemodels/cfast): two-zone fire model that predicts the thermal environment caused by a fire within a compartmented structure, from firemodels
+
 [fds](https://github.com/firemodels/fds): Fire Dynamics Simulator (FDS) is a large-eddy simulation (LES) code for low-speed flows, from firemodels, with an emphasis on smoke and heat transport from fires.
 
 [DistTab](https://github.com/NickAbel/DistTab): library being developed for use with combustion codes that use spray flame lookup tables, by NickAbel
