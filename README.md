@@ -616,6 +616,8 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 
 [Eigenvalue SoLvers for Petaflop-Applications (ELPA)](https://github.com/marekandreas/elpa): scalable eigensolver for dense, symmetric (Hermitian) matrices
 
+[expokit](https://github.com/rasmusgo/expokit): matrix exponential package
+
 [Fortran_Davidson](https://github.com/NLESC-JCER/Fortran_Davidson): Modern Fortran implementation of the Davidson diagonalization algorithms, from NLESC-JCER
 
 [fortran_lsp](https://github.com/ivan-pi/fortran_lsp): Fortran routines from "Solving Least Squares Problems" by C. Lawson and R. Hanson, with improved interfaces, from ivan-pi
