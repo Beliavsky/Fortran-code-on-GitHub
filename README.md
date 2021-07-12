@@ -483,6 +483,8 @@ is intended for applications where a set of mathematical fortran-style expressio
 
 [Fortran Template Library (FTL)](https://github.com/SCM-NV/ftl): generic containers, versatile algorithms, easy string manipulation, and more
 
+[Fortran_UnitTest](https://github.com/zhenkunl/Fortran_UnitTest): unit test library based on OOP, by zhenkunl. It is strongly inspired by Zofu, and its output format is derived from [fortran-unit-test](https://github.com/dongli/fortran-unit-test).
+
 [fortran-utils](https://github.com/certik/fortran-utils): Various utilities for Fortran programs, including types, constants, sorting, saving/loading 2D arrays, meshes, cubic splines, saving/loading PPM images, Lapack interface, HDF5 interface, special functions, and optimization, by Ondrej Certik et al.
 
 [ForUtils](https://github.com/cmbant/forutils): Fortran 2008 utility functions and reusable classes, by cmbant
