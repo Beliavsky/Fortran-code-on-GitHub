@@ -330,6 +330,8 @@ nscapin
 
 [rsl](https://github.com/Guymer/rsl): maps the effects of rising sea levels on Great Britain, by Guymer
 
+[SEIS_FILO](https://github.com/akuhara/SEIS_FILO): SEISmological transdimensional inversion tools for Flat and Isotropic Layered structure in the Ocean, by akuhara
+
 [SEM2DPACK](https://github.com/jpampuero/sem2dpack): spectral element method for 2D wave propagation and fracture dynamics, with emphasis on computational seismology and earthquake source dynamics, from jpampuero et al.
 
 [Specfem3D](https://github.com/geodynamics/specfem3d): simulates acoustic (fluid), elastic (solid), coupled acoustic/elastic, poroelastic or seismic wave propagation in any type of conforming mesh of hexahedra (structured or not.), from geodynamics
