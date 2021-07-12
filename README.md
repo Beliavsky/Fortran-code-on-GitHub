@@ -886,6 +886,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [MORFEUS](https://github.com/sourceryinstitute/MORFEUS-Source): framework for the solution of partial differential equations (PDEs) written in modern Fortran, from sourceryinstitute. It is object oriented and attempts to provide useful abstractions for the solution of PDEs that are easy to use and performant.
 
+[riemann](https://github.com/clawpack/riemann): centralized location for all Clawpack-compatible Riemann solvers
+
 ## Particle Physics
 [darkmatter](https://github.com/ogorton/darkmatter): experimental WIMP Analysis, by ogorton
 
