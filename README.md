@@ -308,6 +308,10 @@ nscapin
 
 [gemini3d](https://github.com/gemini3d/gemini3d): ionospheric fluid electrodynamic model
 
+[geoclaw](https://github.com/clawpack/geoclaw): specialized version of some Clawpack and AMRClaw routines that have been modified to work well for certain geophysical flow problems.
+
+Currently the focus is on 2d depth-averaged shallow water equations for flow over varying topography.
+
 [GrowClust](https://github.com/dttrugman/GrowClust): program for the relative relocation of earthquake hypocenters based on waveform cross-correlation data, by dttrugman and sean0921
 
 [ICM_Hydro](https://github.com/CPRA-MP/ICM_Hydro): code corresponding to paper "Ecohydrology component of Louisiana’s 2012 Coastal Master Plan: mass-balance compartment model"
