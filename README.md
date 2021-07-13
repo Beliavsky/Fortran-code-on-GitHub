@@ -373,7 +373,7 @@ nscapin
 
 [fftlog-f90](https://github.com/coccoinomane/fftlog-f90): extended Fortran 90 version of the FFTLog code by Andrew Hamilton to convolve a tabulated function with a Bessel functions, by coccoinomane
 
-[fft-overlap](https://github.com/dappelha/fft-overlap): fficient implementations of ffts on multiple GPUs and across multiple nodes, by dappelha. Overlapping data transfer on multiple levels.
+[fft-overlap](https://github.com/dappelha/fft-overlap): efficient implementations of ffts on multiple GPUs and across multiple nodes, by dappelha. Overlapping data transfer on multiple levels.
 
 [FFTPack](https://github.com/keurfonluu/FFTPack): easily usable package of functions using wrapping the Fortran 77 FFTPack library, by keurfonluu
 
