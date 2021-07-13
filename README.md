@@ -185,6 +185,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [scream](https://github.com/E3SM-Project/scream): global atmosphere model targeted towards 3 km ("cloud resolving") resolution. It is part of the Energy Exascale Earth System Model (E3SM)
 
+[(urban Dutch Atmospheric Large Eddy Simulation (u-dales)](https://github.com/uDALES/u-dales): large-eddy simulation (LES) model for urban environments. LES is an approach to turbulence modelling used in computational fluid dynamics to simulate turbulent flows over a wide range of spatial and temporal scales.
+
 [Unified Forecast System (UFS) weather model](https://github.com/ufs-community/ufs-weather-model): weather model is used in several of the UFS applications, including the medium-range weather application and the short-range weather application.
 
 [weather-buoys](https://github.com/modern-fortran/weather-buoys): Processing weather buoy data in parallel, from modern-fortran
