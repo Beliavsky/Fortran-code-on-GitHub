@@ -586,6 +586,8 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 
 [fortran-lua53](https://github.com/interkosmos/fortran-lua53): Fortran 2008 interface bindings to Lua 5.3, from interkosmos
 
+[Fortran-RInside](https://github.com/ivan-pi/Fortran-RInside): demonstration of Fortran interface to Rinside, for calling R from Fortran, by ivan-pi
+
 [fortran-unix](https://github.com/interkosmos/fortran-unix): Fortran 2008 ISO C binding interfaces to selected POSIX and SysV types, functions, and routines on 64-bit Unix-like operating systems, by interkosmos
 
 [M_process](https://github.com/urbanjost/M_process): read and write lines to or from a process from Fortran via a C wrapper, by urbanjost
