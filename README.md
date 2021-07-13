@@ -434,6 +434,8 @@ nscapin
 
 [fortran2018-examples](https://github.com/scivision/fortran2018-examples): Fortran 2018 standard examples with broad applications, from SciVision
 
+[Fortran-MOOC](https://github.com/gjbex/Fortran-MOOC): reading material, source code, and software stack for the PRACE MOOC on "Fortran for scientific programming", by Geert Jan Bex et al.
+
 [fortran-submodule](https://github.com/scivision/fortran-submodule): Examples of modern Fortran 2008 submodule, using Meson or CMake, from scivision. Fortran submodules allow easy switching in and out of features and extremely fast recompilation of large programs perhaps 100 times or more faster.
 
 [FORTRAN-Topics](https://github.com/Koushikphy/FORTRAN-Topics): codes to demonstrate Modern Fortran features, and codes for numerics and I/O, by Koushikphy 
