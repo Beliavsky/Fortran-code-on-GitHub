@@ -671,6 +671,9 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 [tt-fort](https://github.com/oseledets/tt-fort): Fortran computing core of the TT-Toolbox. It also includes two slightly customized libraries for doing fast local solvers in eigenvalue and dynamical problems.
 
 ## Materials Science
+[Atom/Molecule/Material Software Kit (atomsk)](https://github.com/pierrehirel/atomsk): command-line program meant to manipulate
+atomic systems, and convert from and to various file formats
+
 [DMFTwDFT](https://github.com/DMFTwDFT-project/DMFTwDFT): calculates electronic, vibrational and elastic properties in strongly correlated materials (SCM) using beyond-DFT methods such as DFT+U, DFT+Hybrids and DFT+DMFT (Dynamical Mean Field Theory) with a variety of different DFT codes
 
 [Düsseldorf Advanced Material Simulation Kit (DAMASK)](https://github.com/eisenforschung/DAMASK): flexible and hierarchically structured model of material point behavior for the solution of elastoplastic boundary value problems along with damage and thermal physics, from eisenforschung. Its main purpose is the simulation of crystal plasticity within a finite-strain continuum mechanical framework.
