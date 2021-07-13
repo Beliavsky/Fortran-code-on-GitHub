@@ -896,6 +896,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Fortran Coarray and MPI Examples](https://github.com/scivision/fortran-coarray-mpi-examples) from scivision
 
+[Framework for Extensible Asynchronous Task Scheduling (FEATS)](https://github.com/sourceryinstitute/FEATS): project to develop a parallel Fortran 2018 asynchronous, task-scheduling framework for use in a range of applications, from sourceryinstitute
+
 [gpu-tips](https://github.com/dappelha/gpu-tips): Fortran examples of CUDA and directives tips and tricks for IBM Power + Nvidia Systems, by dappelha
 
 [miniWeather](https://github.com/mrnorman/miniWeather): mini app simulating weather-like flows for training in parallelizing accelerated HPC architectures, by mrnorman. Currently includes MPI (C, Fortran, and C++), OpenACC Offload (C and Fortran), OpenMP Threading (C and Fortran), OpenMP Offload (C and Fortran), and C++ Portability.
