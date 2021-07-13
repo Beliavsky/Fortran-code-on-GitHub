@@ -426,6 +426,8 @@ nscapin
 
 [fortran](https://github.com/alexpacheco/fortran): files (TeX, PDF, Exercise and Example codes) for HPC Training on Fortran, by alexpacheco
 
+[Fortran90_Basics](https://github.com/brito-leonardo/Fortran90_Basics): codes to learn the structure and first useful commands in Fortran 90 language, by brito-leonardo
+
 [fortran2018-examples](https://github.com/scivision/fortran2018-examples): Fortran 2018 standard examples with broad applications, from SciVision
 
 [fortran-submodule](https://github.com/scivision/fortran-submodule): Examples of modern Fortran 2008 submodule, using Meson or CMake, from scivision. Fortran submodules allow easy switching in and out of features and extremely fast recompilation of large programs perhaps 100 times or more faster.
