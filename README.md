@@ -673,6 +673,8 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 ## Materials Science
 [DMFTwDFT](https://github.com/DMFTwDFT-project/DMFTwDFT): calculates electronic, vibrational and elastic properties in strongly correlated materials (SCM) using beyond-DFT methods such as DFT+U, DFT+Hybrids and DFT+DMFT (Dynamical Mean Field Theory) with a variety of different DFT codes
 
+[Düsseldorf Advanced Material Simulation Kit (DAMASK)]: flexible and hierarchically structured model of material point behavior for the solution of elastoplastic boundary value problems along with damage and thermal physics, from eisenforschung. Its main purpose is the simulation of crystal plasticity within a finite-strain continuum mechanical framework.
+
 [EXCEED-DM](https://github.com/tanner-trickle/EXCEED-DM): EXtended Calculation of Electronic Excitations for Direct detection of Dark Matter, by tanner-trickle
 
 [Hard-fit-by-minimization](https://github.com/LaszloSToth/Hard-fit-by-minimization): efficient program to fit a stress-strain curve by the empirical function derived from crystal plasticity, by LaszloSToth
