@@ -672,7 +672,7 @@ standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive 
 
 ## Materials Science
 [Atom/Molecule/Material Software Kit (atomsk)](https://github.com/pierrehirel/atomsk): command-line program meant to manipulate
-atomic systems, and convert from and to various file formats
+atomic systems, and convert from and to various file formats, by pierrehirel et al.
 
 [DMFTwDFT](https://github.com/DMFTwDFT-project/DMFTwDFT): calculates electronic, vibrational and elastic properties in strongly correlated materials (SCM) using beyond-DFT methods such as DFT+U, DFT+Hybrids and DFT+DMFT (Dynamical Mean Field Theory) with a variety of different DFT codes
 
