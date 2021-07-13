@@ -185,6 +185,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [RegCM](https://github.com/ictp-esp/RegCM): Regional Climate Model system RegCM, originally developed at the National Center for Atmospheric Research (NCAR), is maintained in the Earth System Physics (ESP) section of the ICTP.
 
+[RTE+RRTMGP](https://github.com/earth-system-radiation/rte-rrtmgp) computes radiative fluxes in planetary atmospheres, from earth-system-radiation. RTE+RRTMGP is described in a paper in Journal of Advances in Modeling Earth Systems.
+
 [scream](https://github.com/E3SM-Project/scream): global atmosphere model targeted towards 3 km ("cloud resolving") resolution. It is part of the Energy Exascale Earth System Model (E3SM)
 
 [urban Dutch Atmospheric Large Eddy Simulation (u-dales)](https://github.com/uDALES/u-dales): large-eddy simulation (LES) model for urban environments. LES is an approach to turbulence modelling used in computational fluid dynamics to simulate turbulent flows over a wide range of spatial and temporal scales.
