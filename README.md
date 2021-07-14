@@ -711,6 +711,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [hopr](https://github.com/flexi-framework/hopr): High Order Preprocessor is an open-source software for the generation of three-dimensional unstructured high-order meshes, from Numerics Research Group. These meshes are needed by high-order numerical methods like Discontinuous Galerkin, Spectral Element Methods or pFEM, in order to retain their accuracy if the computational domain includes curved boundaries.
 
+[IDWarp](https://github.com/mdolab/idwarp): uses an inverse distance method to modify the location of mesh volume nodes given a perturbation of the surface nodes, from mdolab. Associated with paper N. Secco, G. K. W. Kenway, P. He, C. A. Mader, and J. R. R. A. Martins, “Efficient Mesh Generation and Deformation for Aerodynamic Shape Optimization”, AIAA Journal, 2021. doi:10.2514/1.J059491
+
 [LaGriT](https://github.com/lanl/LaGriT): Los Alamos Grid Toolbox (LaGriT) is a library of user callable tools that provide mesh generation, mesh optimization and dynamic mesh maintenance in two and three dimensions.
 
 [pyhyp](https://github.com/mdolab/pyhyp): uses hyperbolic volume mesh marching schemes to extrude structured surface meshes into volume meshes, by mdolab. pyHyp is used as a preprocessing step in the geometry and mesh-creation process prior to an optimization.
