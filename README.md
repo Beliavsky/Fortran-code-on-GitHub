@@ -372,6 +372,8 @@ nscapin
 
 [WRF-Hydro](https://github.com/NCAR/wrf_hydro_nwm_public): community modeling system and framework for hydrologic modeling and model coupling, from NCAR. In 2016 a configuration of WRF-Hydro was implemented as the National Water Model (NWM) for the continental United States.
 
+[WAVEWATCH III (WW3)](https://github.com/NOAA-EMC/WW3): community wave modeling framework that includes the latest scientific advancements in the field of wind-wave modeling and dynamics, from NOAA-EMC. Solves the random phase spectral action density balance equation for wavenumber-direction spectra.
+
 ## Economics
 [ce-fortran](https://github.com/fabiankindermann/ce-fortran/): program and compiler Database that accompanies the book "Introduction to Computational Economcis using Fortran" (2018), by Fehr and Kindermann
 
