@@ -1127,6 +1127,8 @@ milancurcic and awvwgk
 
 [setpar](https://github.com/wan9c9/setpar): code by wan9c9 related to the paper "Self-excited Threshold Poisson Autoregression Model"
 
+[SIGNAL](https://github.com/i-a-morozov/SIGNAL): frequency estimation, quasiperiodic decomposition and chaos indicators, by i-a-morozov
+
 [tidybench](https://github.com/sweichwald/tidybench): TIme series DiscoverY has four algorithms for causal structure learning for time series: SLARAC (Subsampled Linear Auto-Regression Absolute Coefficients), QRBS (Quantiles of Ridge regressed Bootstrap Samples), LASAR (LASso Auto-Regression), and SELVAR (Selective auto-regressive model), by sweichwald
 
 [Timeslab](https://github.com/Beliavsky/Timeslab): Fortran 77 time series package by H. Joseph Newton to accompany his book "Timeslab: A Time Series Analysis Laboratory" (1988)
