@@ -384,6 +384,8 @@ nscapin
 
 [openfast](https://github.com/OpenFAST/openfast): NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes
 
+[Reference OpenSource Controller (ROSCO) for wind turbine applications](https://github.com/NREL/ROSCO#nrels-reference-opensource-controller-rosco-for-wind-turbine-applications): modular and fully adaptable baseline wind turbine controller to the scientific community, from NREL. Because of the open character and modular set-up, scientists are able to collaborate and contribute in making continuous improvements to the code.
+
 [Wind Energy with Integrated Servo-control (WEIS)](https://github.com/WISDEM/WEIS): performs multifidelity co-design of wind turbines, from WISDEM. WEIS is a framework that combines multiple NREL-developed tools to enable design optimization of floating offshore wind turbines.
 
 ## Fast Fourier Transform
