@@ -384,6 +384,8 @@ nscapin
 
 [openfast](https://github.com/OpenFAST/openfast): NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes
 
+[Wind Energy with Integrated Servo-control (WEIS)](https://github.com/WISDEM/WEIS): performs multifidelity co-design of wind turbines, from WISDEM. WEIS is a framework that combines multiple NREL-developed tools to enable design optimization of floating offshore wind turbines.
+
 ## Fast Fourier Transform
 [ffte](https://github.com/certik/ffte): computes Discrete Fourier Transforms of 1-, 2- and 3- dimensional sequences of length (2^p)*(3^q)*(5^r).
 
