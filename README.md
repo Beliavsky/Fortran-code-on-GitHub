@@ -120,6 +120,8 @@
 
 [bench_density_gradient_wfn](https://github.com/zyth0s/bench_density_gradient_wfn): analyze the performance of evaluating the density gradient with various language implementations (C++/Fortran/Rust/Julia), by zyth0s
 
+[benchmarks](https://github.com/HPCL/benchmarks): high performance computing benchmarks and associated performance analysis workflows, from HPCL
+
 [Comparison of Programming Languages in Economics](https://github.com/jesusfv/Comparison-Programming-Languages-Economics): code referenced in the paper "A Comparison of Programming Languages in Economics" by S. Borağan Aruoba and Jesús Fernández-Villaverde
 
 [hpc-medley](https://github.com/moutai/hpc-medley): two publicly available hpc benchmarks: NPB (NAS) and the HPL part of the HPCC challenge. It is used to determine the performance of clustered computing resources.
