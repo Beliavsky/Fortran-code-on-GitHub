@@ -142,6 +142,8 @@
 
 [raytracer](https://github.com/edin/raytracer): raytracer benchmark in dozens of languages, by edin.
 
+[STREAM2](https://github.com/jklinkenberg-benchmarks/STREAM2): STREAM2 is an attempt to extend the functionality of the STREAM benchmark in two important ways: STREAM2 measures sustained bandwidth at all levels of the cache hierarchy and more clearly exposes the performance differences between reads and writes
+
 ## Biology and Medicine
 [CardiacFEM](https://github.com/Levrero/CardiacFEM): cardiac electro-mechanics solver based on ParaFEM, by Levrero
 
