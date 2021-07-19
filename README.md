@@ -580,6 +580,8 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 [ZstdFortranLib](https://github.com/zbeekman/ZstdFortranLib): implements missing functionality such as error handling, strings manipulation, system/environment interface & testing utilities, by zbeekman
 
 ## Graphics, Plotting, and User Interfaces
+[CHART_COUPE](https://github.com/meom-group/CHART_COUPE): Fortran plotting package base on NCL libraries, tuned for geophysical numerical model output, from meom-group
+
 [eggx-procall-2003](https://github.com/interkosmos/eggx-procall-2003): interfaces to the free X11 graphics library EGGX/ProCALL. The EGGX/ProCALL library provides fast and simple drawing routines on Linux, Unix, and Cygwin, directly callable from C or FORTRAN 77.
 
 [fortran-sdl2](https://github.com/interkosmos/fortran-sdl2): collection of ISO C binding interfaces to Simple DirectMedia Layer 2.0 (SDL 2.0), for 2D and 3D game programming in Fortran, by interkosmos
