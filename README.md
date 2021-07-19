@@ -653,7 +653,7 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 [WenOOF](https://github.com/Fortran-FOSS-Programmers/WenOOF): Weighted Essentially Non-Oscillatory (WENO) interpolation, from Fortran-FOSS-Programmers
 
 ## Linear Algebra
-[aldaas2021robust](https://github.com/prj-/aldaas2021robust): code asssociated with paper Al Daas, Hussam and Jolivet, Pierre and Scott, Jennifer A.}, "A Robust Algebraic Domain Decomposition Preconditioner for Sparse Normal Equations", 2021, SIAM Journal on Scientific Computing
+[aldaas2021robust](https://github.com/prj-/aldaas2021robust): code asssociated with paper by Al Daas, Hussam and Jolivet, Pierre and Scott, Jennifer A., "A Robust Algebraic Domain Decomposition Preconditioner for Sparse Normal Equations", 2021, SIAM Journal on Scientific Computing
 
 [amg4psblas](https://github.com/sfilippone/amg4psblas): Algebraic Multigrid Package based on PSBLAS (Parallel Sparse BLAS version 3.7), for the iterative solution of large and sparse linear systems, by by sfilippone et al.
 
