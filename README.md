@@ -240,6 +240,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [HFB](https://github.com/knappf/HFB): Hartree-Fock-Bogolyubov code for (hyper)nuclear structure calculations (version by P. Vesely)
 
+[PICLas](https://github.com/piclas-framework/piclas): parallel, three-dimensional PIC-DSMC solver developed cooperatively by the Institute of Space Systems, Institute of Aerodynamics and Gas Dynamics at the University of Stuttgart and the spin-off boltzplatz. PICLas is a flexible particle-based plasma simulation suite.
+
 [pmflib](https://github.com/kulhanek/pmflib): toolkit for Free Energy Calculations, by kulhanek
 
 [taurus_vap](https://github.com/project-taurus/taurus_vap): solves the variation after particle-number projection equations for real general Bogoliubov quasi-particle states represented in a spherical harmonic oscillator basis, from project-taurus
