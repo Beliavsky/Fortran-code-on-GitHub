@@ -1024,6 +1024,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [NWChem](https://github.com/nwchemgit/nwchem): Open Source High-Performance Computational Chemistry
 
+[Optados](https://github.com/optados-developers/optados): calculates core-electron and low-loss electron energy loss spectra (EELS) and optical spectra along with total-, projected- and joint-density of electronic states (DOS) from single-particle eigenenergies and dipole transition coefficients.
+
 [PROGRESS](https://github.com/lanl/qmd-progress): Parallel, Rapid O(N) and Graph-based Recursive Electronic Structure Solver, from lanl
 
 [qc2-teaching](https://github.com/grimme-lab/qc2-teaching): resources used for teaching the course quantum chemistry 2 (WP4) at the university of Bonn, including Fortran and Linux tutorials, from grimme-lab
