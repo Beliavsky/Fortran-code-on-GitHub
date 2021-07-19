@@ -993,6 +993,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [SNAP](https://github.com/lanl/SNAP): proxy application to model the performance of a modern discrete ordinates neutral particle transport application, from LANL
 
+[STELLOPT](https://github.com/PrincetonUniversity/STELLOPT): stellarator optimization code, from PrincetonUniversity. A stellarator is a plasma device that relies primarily on external magnets to confine a plasma.
+
 [thermopack](https://github.com/SINTEF/thermopack): thermodynamic model library for fluid properties and PVT calculations, from SINTEF
 
 [turbogap](https://github.com/mcaroba/turbogap): efficiently and accurately builds many-body atomic descriptors and carry out other related computations employed in machine-learning approaches to atomistic modeling, such as to run molecular dynamics simulations, by mcaroba
