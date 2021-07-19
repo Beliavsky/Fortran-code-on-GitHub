@@ -699,8 +699,9 @@ generalized eigenvalue problems, from NLAFET
 
 [scalapack](https://github.com/Reference-ScaLAPACK/scalapack): library of high-performance linear algebra routines for parallel distributed memory machines. ScaLAPACK solves dense and banded linear systems, least squares problems, eigenvalue problems, and singular value problems.
 
-[SEVP-PDHSEQR-Alg953](https://github.com/NLAFET/SEVP-PDHSEQR-Alg953): parallel ScaLAPACK-style library for solving nonsymmetric
-standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive early deflation on distributed memory HPC systems, from NLAFET
+[SEVP-PDHSEQR-Alg953](https://github.com/NLAFET/SEVP-PDHSEQR-Alg953): parallel ScaLAPACK-style library for solving nonsymmetric standard eigenvalue problems, using the Hessenberg QR algorithm with aggressive early deflation on distributed memory HPC systems, from NLAFET
+
+[Sherman-Morrison](https://github.com/TREX-CoE/Sherman-Morrison): matrix-inversion algorithms based on the paper of P. Maponi, "The solution of linear systems by using the Sherman–Morrison formula", doi:10.1016/j.laa.2006.07.007, from TREX-CoE
 
 [sparse-fortran](https://github.com/scivision/sparse-fortran): sparse array examples using MUMPS, Scalapack, BLACS, PARDISO with CMake and Meson, from SciVision
 
