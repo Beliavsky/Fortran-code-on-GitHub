@@ -902,6 +902,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [pso](https://github.com/Konrad1991/pso): particle swarm optimization in Fortran, by Konrad1991
 
+[PYthon OPTimization Framework (pyOpt)](https://github.com/madebr/pyOpt): object-oriented framework for formulating and solving nonlinear constrained optimization problems, calling Fortran codes
+
 [qnstop](https://github.com/vtopt/qnstop) suite of serial and parallel Fortran 95/2003 codes for deterministic global optimization and stochastic optimization by Layne Watson. 
 
 [RALFit](https://github.com/ralna/RALFit): non-linear least squares solver that is primarily developed by the Numerical Analysis group at STFC Rutherford Appleton Laboratory. 
