@@ -310,6 +310,8 @@ nscapin
 
 [atmos](https://github.com/VirtualPlanetaryLaboratory/atmos): package containing two atmospheric models, along with scripts to couple them together, from VirtualPlanetaryLaboratory
 
+[Catchment-based Macro-scale Floodplain (CaMa-Flood)](https://github.com/global-hydrodynamics/CaMa-Flood_v4): simulates the hydrodynamics in continental-scale rivers, from global-hydrodynamic. The entire river networks of the world are discretized to the hydrological units named unit-catchments for achieving efficient flow computation at the global scale. 
+
 [Community Data Models for Earth Prediction Systems (CDEPS)](https://github.com/ESCOMP/CDEPS): NUOPC-compliant data components along with ESMF-based share code that enables new capabilities in selectively removing feedbacks in coupled model systems
 
 [cdss-app-statemod-fortran](https://github.com/OpenCDSS/cdss-app-statemod-fortran): StateMod water allocation model, which is part of Colorado's Decision Support Systems (CDSS)
