@@ -968,6 +968,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 ## Particle Physics
 [darkmatter](https://github.com/ogorton/darkmatter): experimental WIMP Analysis, by ogorton
 
+[DPMJET](https://github.com/DPMJET/DPMJET): Monte Carlo event generator for hadron, photon and nuclear collisions with a several decade-long history. DPMJET is an integral part of FLUKA, a fully integrated particle physics MonteCarlo simulation package, acting as event generator for nucleus-nucleus collisions above 5 GeV/nucleon and for hadronic collisions at high energies. 
+
 [LRSM](https://github.com/oozdal/LRSM): Generic Left-Right Symmetric Model, by oozdal
 
 [MCFM-RE](https://github.com/lcarpino/MCFM-RE): NNLL resummation for jet-veto cross sections in colour singlet processes, by lcarpino
