@@ -1036,6 +1036,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [NWChem](https://github.com/nwchemgit/nwchem): Open Source High-Performance Computational Chemistry
 
+[OpenMolcas](https://github.com/Molcas/OpenMolcas): quantum chemistry software package developed by scientists and intended to be used by scientists. It includes programs to apply many different electronic structure methods to chemical systems, but its key feature is the multiconfigurational approach, with methods like CASSCF and CASPT2.
+
 [Optados](https://github.com/optados-developers/optados): calculates core-electron and low-loss electron energy loss spectra (EELS) and optical spectra along with total-, projected- and joint-density of electronic states (DOS) from single-particle eigenenergies and dipole transition coefficients.
 
 [PROGRESS](https://github.com/lanl/qmd-progress): Parallel, Rapid O(N) and Graph-based Recursive Electronic Structure Solver, from lanl
