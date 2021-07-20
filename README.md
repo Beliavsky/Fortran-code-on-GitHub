@@ -246,6 +246,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [taurus_vap](https://github.com/project-taurus/taurus_vap): solves the variation after particle-number projection equations for real general Bogoliubov quasi-particle states represented in a spherical harmonic oscillator basis, from project-taurus
 
+[THERMOCHIMICA](https://github.com/ORNL-CEES/thermochimica): omputational library for chemical thermodynamics. It determines a unique combination of phases and their compositions for a prescribed chemical composition, temperature and pressure, from ORNL-CEES.
+
 [tinker](https://github.com/TinkerTools/tinker): Tinker molecular modeling software is a complete and general package for molecular mechanics and dynamics, with some special features for biopolymers.
 
 [TROVE](https://github.com/Trovemaster/TROVE): Theoretical ROVibrational Energies: A variational program for accurate nuclear motion calculations, by Trovemaster
