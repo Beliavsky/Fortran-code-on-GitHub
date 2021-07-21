@@ -1116,6 +1116,8 @@ This algorithm is well suited for parallel computing as it can initialize many l
 
 [gslib2.0: Geostatistical Software Library](https://github.com/exepulveda/gslib2.0): aims to create a modern version of the original GSLIB source code, by exepulveda
 
+[KronLinInv](https://github.com/inverseproblem/KronLinInv): Kronecker-product-based linear inversion of geophysical (or other kinds of) data under Gaussian and separability assumptions. The code computes the posterior mean model and the posterior covariance matrix (or subsets of it) in an efficient manner (parallel algorithm) taking into account 3-D correlations both in the model parameters and in the observed data.
+
 [libdierckx](https://github.com/DaanVanVugt/libdierckx): collection of FORTRAN programs for curve and surface fitting with splines and tensor product splines. Features included are automatic knot selection, error smoothing and data reduction.
 
 [MCMC f90 library](https://github.com/mjlaine/mcmcf90): do Markov chain Monte Carlo simulation from a posterior distribution of unknown model parameters defined by a likelihood function and prior, by mjlaine
