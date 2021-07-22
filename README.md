@@ -885,6 +885,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [L-BFGS-B](https://github.com/jonathanschilling/L-BFGS-B): limited-memory quasi-Newton code for bound-constrained optimization, i.e., for problems where the only constraints are of the form l <= x <= u. It is intended for problems in which information on the Hessian matrix is difficult to obtain, or for large dense problems.
 
+[L-BFGS-B](https://github.com/scivision/L-BFGS-B): code for L-BFGS-B, modernized by scivision
+
 [L-BFGS-B-NS](https://github.com/wilmerhenao/L-BFGS-B-NS): code for thesis by Wilmer Henao, "An L-BFGS-B-NS optimizer for non-smooth functions"
 
 [libga](https://github.com/ramos/libga): genetic algorithm optimisation library by Alberto Ramos 
