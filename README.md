@@ -978,6 +978,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [LRSM](https://github.com/oozdal/LRSM): Generic Left-Right Symmetric Model, by oozdal
 
+[MAD-X](https://github.com/MethodicalAcceleratorDesign/MAD-X): project with a long history, aiming to be at the forefront of computational physics in the field of particle accelerator design and simulation. Its scripting language is de facto the standard to describe particle accelerators, simulate beam dynamics and optimize beam optics at CERN.
+
 [MCFM-RE](https://github.com/lcarpino/MCFM-RE): NNLL resummation for jet-veto cross sections in colour singlet processes, by lcarpino
 
 [simc_gfortran](https://github.com/JeffersonLab/simc_gfortran): standard Hall C Monte Carlo for coincidence reactions, from JeffersonLab
