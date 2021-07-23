@@ -113,6 +113,8 @@
 
 [universe-age](https://github.com/shu-yusa/universe-age): calculate the age of the universe for various parameters by integrating Friedmann Equation, by shu-yusa
 
+[XNet](https://github.com/starkiller-astro/XNet): thermonuclear reaction network for astrophysical applications, using a variety of temporal integration techniques, from starkiller-astro. It is written in portable modern Fortran and makes use of a variety of matrix solving packages to obtain excellent speed (as much as 50% of peak) on as many platforms as possible.
+
 ## Benchmarks
 [Assessment of Programming Languages for Computational Numerical Dynamics](https://github.com/arturofburgos/Assessment-of-Programming-Languages-for-Computational-Numerical-Dynamics): compares different programming languages performance in order to solve CFD and Heat Transfer problems, by arturofburgos
 
