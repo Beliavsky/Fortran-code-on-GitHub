@@ -550,6 +550,8 @@ nscapin
 
 [fortran_notes](https://github.com/zmiimz/fortran_notes): containers and advanced data structures, hash functions, and design patterns
 
+[fortran-sqlite3](https://github.com/interkosmos/fortran-sqlite3): Fortran 2018 interface bindings to SQLite 3, by interkosmos
+
 [Fortran Template Library (FTL)](https://github.com/SCM-NV/ftl): generic containers, versatile algorithms, easy string manipulation, and more
 
 [fortran-unit-test](https://github.com/dongli/fortran-unit-test): unit test library in Fortran to encourage scientific programmer to write tests, by dongli
