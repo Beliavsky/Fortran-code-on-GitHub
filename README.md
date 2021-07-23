@@ -430,6 +430,8 @@ nscapin
 [nufft](https://github.com/biotrump/nufft): code for the 1D, 2D and 3D non-uniform FFTs, from biotrump
 
 ## File I/O
+[cfgio](https://github.com/pkgpl/cfgio): Fortran config file parser, by pkgpl
+
 [fcore](https://github.com/jchristopherson/fcore): string handling and i/o routines, by jchristopherson
 
 [FiNeR](https://github.com/szaghi/FiNeR): IO of INI (config) files for modern (2003+) Fortran projects, by szaghi and kostyfisik
