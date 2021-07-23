@@ -269,6 +269,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [CaNS](https://github.com/p-costa/CaNS): fast, massively-parallel direct numerical simulations (DNS) of canonical flows, by p-costa and nscapin
 
+[CFD](https://github.com/brli3/CFD): basic CFD schemes implemented in Fortran using Finite-Volume and Finite-Difference Methods, by brli3. Sample simulations and figures are provided.
+
 [CGNS](https://github.com/CGNS/CGNS): the CFD General Notation System (CGNS) provides a standard for recording and recovering computer data associated with the numerical solution of fluid dynamics equations
 
 [code_saturne](https://github.com/code-saturne/code_saturne): CFD software handling either incompressible or expandable flows with or without heat transfer and turbulence
