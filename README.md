@@ -220,6 +220,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [prep](https://github.com/urbanjost/prep): streamlined pre-processor primarily designed for use with Fortran, by urbanjost It does not support procedural macros but does support variable substitution and reusable free-format text blocks which allows for basic templating as well as easy construction of multi-line CHARACTER variables; and is quite capable of supporting traditional conditional compilation.
 
+[progRESS+repORT (progrep}](https://github.com/SomajitDey/progrep): utility to show live progress, status and stats of a running simulation or any compute job that executes a given number of iterations, by SomajitDey. Progrep can report for both serial (single-core) and parallel (multi-core/multi-node - e.g. OpenMP/MPI) jobs.
+
 [tap](https://github.com/gzahl/tap): minimal producer implementation of the "Test Anything Protocol" (TAP) in Fortran 90, from gzahl
 
 [to_f90](https://github.com/jbdv-no/to_f90): Alan Miller's tool for converting Fortran 77 code to free-form Fortran 90 code, from jbdv-no
