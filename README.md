@@ -374,6 +374,8 @@ nscapin
 
 [PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran, from stfc
 
+[PyGeopack](https://github.com/mattkjames7/PyGeopack): Wrapper for the [geopack-08](https://geo.phys.spbu.ru/~tsyganenko/Geopack-2008.html) Fortran code used for the Tsyganenko magnetic field models
+
 [REAL](https://github.com/Dal-mzhang/REAL): Rapid Earthquake Association and Location, by Dal-mzhang
 
 [rsl](https://github.com/Guymer/rsl): maps the effects of rising sea levels on Great Britain, by Guymer
