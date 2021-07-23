@@ -99,6 +99,8 @@
 
 [phantom](https://github.com/danieljprice/phantom): 3D Smoothed Particle Hydrodynamics and Magnetohydrodynamics code for astrophysics, by Daniel Price and others
 
+[PhotochemPy](https://github.com/Nicholaswogan/PhotochemPy): photochemical model of rocky planet's atmospheres, by Nicholaswogan. Given inputs, like the stellar UV flux, the atmospheric temperature structure, etc., this code will find the steady-state chemical composition of an atmosphere, or evolve atmospheres through time.
+
 [radtrancode](https://github.com/nemesiscode/radtrancode): radiative transfer calculations and retrievals, originally written in Oxford University.
 
 [riaf-sed](https://github.com/rsnemmen/riaf-sed): computes spectral energy distributions of radiatively inefficient accretion flows (RIAFs) around black holes, by rsnemmen
