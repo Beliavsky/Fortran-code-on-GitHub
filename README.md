@@ -287,6 +287,10 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [fosolvers](https://github.com/mianzhi/fosolvers): suite of free and open source solvers, created with the goals of solving practical engineering problems and being easy to hack, by mianzhi
 
+[freeCappuccino](https://github.com/nikola-m/freeCappuccino): three-dimensional fully unstructured finite volume code for Computational Fluid Dynamics which comes in serial and parallel version, by nikola-m. FreeCappuccino is also a Fortran library for manipulation of discrete tensor fields, defined over polyhedral meshes.
+
+Moreover, freeCappuccino is a fortran library for manipulation of discrete tensor fields, defined over polyhedral meshes.
+
 [Geophysical High-Order Suite for Turbulence (GHOST)](https://github.com/pmininni/GHOST): accurate and highly scalable pseudospectral code that solves a variety of PDEs often encountered in studies of turbulent flows. It is mainly developed by Pablo Mininni and Duane Rosenberg, with contributions from many users.
 
 [lbm2d_opencl](https://github.com/LKedward/lbm2d_opencl): D2Q9 BGK Lattice Boltzmann code written in OpenCL and Modern Fortran, by LKedward
