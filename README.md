@@ -1144,6 +1144,8 @@ This algorithm is well suited for parallel computing as it can initialize many l
 ## Statistics
 [200+ R packages with Fortran code](https://github.com/cran?q=&type=&language=fortran&sort=): R is a free software environment for statistical computing and graphics
 
+[Adaptive Mixture ICA (AMICA) with shared components](https://github.com/japalmer29/amica): code associated with [paper](https://sccn.ucsd.edu/~jason/amica_a.pdf) "AMICA: An Adaptive Mixture of Independent Component Analyzers with Shared Components" Jason A. Palmer, Ken Kreutz-Delgado, and Scott Makeig
+
 [asurv](https://github.com/rsnemmen/asurv): suite of statistical methods for the analysis of censored data; i.e. data which are known to lie above or below some limit, by rsnemmen
 
 [BMSL](https://github.com/benRenard/BMSL): mathematical and statistical libraries, geared toward environmental / hydrological applications, by Ben Renard. 
