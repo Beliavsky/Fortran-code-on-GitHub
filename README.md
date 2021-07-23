@@ -618,6 +618,8 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 
 [eggx-procall-2003](https://github.com/interkosmos/eggx-procall-2003): interfaces to the free X11 graphics library EGGX/ProCALL. The EGGX/ProCALL library provides fast and simple drawing routines on Linux, Unix, and Cygwin, directly callable from C or FORTRAN 77.
 
+[f03gl](https://github.com/dcesari/f03gl): project is derived from the pioneering work of Anthony Stone and Aleksandar Donev for creating a complete Fortran interface to the OpenGL library along with GLU and GLUT libraries using the F2003 ISO_C_BINDING intrinsic module, by dcesari
+
 [fortran-sdl2](https://github.com/interkosmos/fortran-sdl2): collection of ISO C binding interfaces to Simple DirectMedia Layer 2.0 (SDL 2.0), for 2D and 3D game programming in Fortran, by interkosmos
 
 [FortGL](https://github.com/lewisfish/FortGL): 3D software rendering in pure Fortran, by lewisfish
