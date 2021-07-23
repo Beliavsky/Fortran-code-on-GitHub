@@ -344,6 +344,8 @@ nscapin
 
 [dep](https://github.com/dailyerosion/dep): Iowa State University Daily (Soil) Erosion Project
 
+[Decision Support System for Agrotechnology Transfer Cropping System Model (dssat-csm-os)](https://github.com/DSSAT/dssat-csm-os): crop simulation models for over 42 crops. The crop simulation models simulate growth, development and yield as a function of the soil-plant-atmosphere dynamics.
+
 [fortrangis](https://github.com/ARPA-SIMC/fortrangis): collection of Fortran interfaces to some common Open Source GIS (Geographic Information System) software libraries, plus some more Fortran-specific tools, from ARPA-SIMC. The libraries interfaced at the moment are Shapelib, GDAL, Proj and ReadOSM.
 
 [Framework for Aquatic Biogeochemical Models (FABM)](https://github.com/fabm-model/fabm): Fortran 2003 programming framework for biogeochemical models of marine and freshwater systems
