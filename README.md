@@ -447,6 +447,8 @@ nscapin
 [Wind Energy with Integrated Servo-control (WEIS)](https://github.com/WISDEM/WEIS): performs multifidelity co-design of wind turbines, from WISDEM. WEIS is a framework that combines multiple NREL-developed tools to enable design optimization of floating offshore wind turbines.
 
 ## Fast Fourier Transform
+[2DECOMP&FFT](https://github.com/BenMql/2decomp_emptyFourierFourier): scalable library for Fourier transforms, derived from 2decomp&fft, by BenMql. Compatible with in-core Chebyshev transforms.
+
 [ffte](https://github.com/certik/ffte): computes Discrete Fourier Transforms of 1-, 2- and 3- dimensional sequences of length (2^p)*(3^q)*(5^r).
 
 [fftlog-f90](https://github.com/coccoinomane/fftlog-f90): extended Fortran 90 version of the FFTLog code by Andrew Hamilton to convolve a tabulated function with a Bessel functions, by coccoinomane
