@@ -297,8 +297,6 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [freeCappuccino](https://github.com/nikola-m/freeCappuccino): three-dimensional fully unstructured finite volume code for Computational Fluid Dynamics which comes in serial and parallel version, by nikola-m. FreeCappuccino is also a Fortran library for manipulation of discrete tensor fields, defined over polyhedral meshes.
 
-Moreover, freeCappuccino is a fortran library for manipulation of discrete tensor fields, defined over polyhedral meshes.
-
 [Geophysical High-Order Suite for Turbulence (GHOST)](https://github.com/pmininni/GHOST): accurate and highly scalable pseudospectral code that solves a variety of PDEs often encountered in studies of turbulent flows. It is mainly developed by Pablo Mininni and Duane Rosenberg, with contributions from many users.
 
 [lbm2d_opencl](https://github.com/LKedward/lbm2d_opencl): D2Q9 BGK Lattice Boltzmann code written in OpenCL and Modern Fortran, by LKedward
@@ -319,6 +317,8 @@ Moreover, freeCappuccino is a fortran library for manipulation of discrete tenso
 
 [SNaC](https://github.com/p-costa/SNaC): multi-block solver for massively parallel direct numerical simulations (DNS) of fluid flows, by p-costa and 
 nscapin
+
+[Special Periodic Continuation Turbulence Solver (SPECTER)](https://github.com/mfontanaar/SPECTER): performs numerical integration in 3D space for a set of PDEs usually found in fluid dynamics, by Mauro Fontana and Pablo Mininni. A pseudo-spectral method is used to compute spatial derivatives, coupled with an adjustable order Runge-Kutta time stepping.
 
 [tlab](https://github.com/turbulencia/tlab): Tools to simulate and analyze turbulent flows in 2D and 3D configurations, from turbulencia. The numerical schemes are based on compact finite differences with structured meshes, where grid stretching allowed. Time advancement in based on Runge-Kutta schemes.
 
