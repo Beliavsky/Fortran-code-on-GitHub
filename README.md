@@ -1024,6 +1024,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [DPMJET](https://github.com/DPMJET/DPMJET): Monte Carlo event generator for hadron, photon and nuclear collisions with a several decade-long history. DPMJET is an integral part of FLUKA, a fully integrated particle physics MonteCarlo simulation package, acting as event generator for nucleus-nucleus collisions above 5 GeV/nucleon and for hadronic collisions at high energies. 
 
+[Higher Order Perturbative Parton Evolution Toolkit (HOPPET)](https://github.com/gavinsalam/hoppet): carries out DGLAP evolution and other common manipulations of parton distribution functions (PDFs), by gavinsalam. Within HOPPET, PDFs are represented on a grid in x-space so as to avoid limitations on the functional form of input distributions.
+
 [LRSM](https://github.com/oozdal/LRSM): Generic Left-Right Symmetric Model, by oozdal
 
 [MAD-X](https://github.com/MethodicalAcceleratorDesign/MAD-X): project with a long history, aiming to be at the forefront of computational physics in the field of particle accelerator design and simulation. Its scripting language is de facto the standard to describe particle accelerators, simulate beam dynamics and optimize beam optics at CERN.
