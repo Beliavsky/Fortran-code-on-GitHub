@@ -320,6 +320,8 @@ nscapin
 
 [Special Periodic Continuation Turbulence Solver (SPECTER)](https://github.com/mfontanaar/SPECTER): performs numerical integration in 3D space for a set of PDEs usually found in fluid dynamics, by Mauro Fontana and Pablo Mininni. A pseudo-spectral method is used to compute spatial derivatives, coupled with an adjustable order Runge-Kutta time stepping.
 
+[Supersonic TuRbulEnt Accelerated navier stokes Solver (STREAMS)](https://github.com/matteobernardini/STREAmS): performs Direct Numerical Simulations of compressible turbulent flows in Cartesian geometry solving the unsteady, fully compressible Navier-Stokes equations for a perfect gas, by matteobernardini et al. Currently, three canonical wall-bounded flows can be simulated: compressible turbulent channel flow, compressible zero-pressure-gradient turbulent boundary layer, and supersonic oblique shock-wave/turbulent boundary-layer interaction.
+
 [tlab](https://github.com/turbulencia/tlab): Tools to simulate and analyze turbulent flows in 2D and 3D configurations, from turbulencia. The numerical schemes are based on compact finite differences with structured meshes, where grid stretching allowed. Time advancement in based on Runge-Kutta schemes.
 
 [UCNS3D](https://github.com/ucns3d-team/UCNS3D): unstructured compressible CFD code
