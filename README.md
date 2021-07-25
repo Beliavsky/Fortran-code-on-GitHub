@@ -101,6 +101,8 @@
 
 [PhotochemPy](https://github.com/Nicholaswogan/PhotochemPy): photochemical model of rocky planet's atmospheres, by Nicholaswogan. Given inputs, like the stellar UV flux, the atmospheric temperature structure, etc., this code will find the steady-state chemical composition of an atmosphere, or evolve atmospheres through time.
 
+[Planetary Code Collection](https://github.com/nschorgh/Planetary-Code-Collection): Thermal and Ice Evolution Models for Planetary Surfaces, by Norbert Schorghofer
+
 [radtrancode](https://github.com/nemesiscode/radtrancode): radiative transfer calculations and retrievals, originally written in Oxford University.
 
 [riaf-sed](https://github.com/rsnemmen/riaf-sed): computes spectral energy distributions of radiatively inefficient accretion flows (RIAFs) around black holes, by rsnemmen
