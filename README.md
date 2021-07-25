@@ -414,6 +414,8 @@ nscapin
 
 [WASA-SED](https://github.com/TillF/WASA-SED): numerical model for simulation hydrological and sediment fluxes from meso-scale catchments (Mueller et al., 2010), from TillF
 
+[Wildland-urban Interface Simulator (WFDS)](https://github.com/ruddymell/wfds9977): extension of NIST's structural Fire Dynamics Simulator (FDS) to fuels that include vegetation. WFDS uses computational fluid dynamics methods to solve the governing equations for buoyant flow, heat transfer, combustion, and the thermal degradation of vegetative fuels.
+
 [WRF-Hydro](https://github.com/NCAR/wrf_hydro_nwm_public): community modeling system and framework for hydrologic modeling and model coupling, from NCAR. In 2016 a configuration of WRF-Hydro was implemented as the National Water Model (NWM) for the continental United States.
 
 [WAVEWATCH III (WW3)](https://github.com/NOAA-EMC/WW3): community wave modeling framework that includes the latest scientific advancements in the field of wind-wave modeling and dynamics, from NOAA-EMC. Solves the random phase spectral action density balance equation for wavenumber-direction spectra.
