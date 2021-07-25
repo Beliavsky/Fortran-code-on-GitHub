@@ -400,6 +400,8 @@ nscapin
 
 [REAL](https://github.com/Dal-mzhang/REAL): Rapid Earthquake Association and Location, by Dal-mzhang
 
+[relax](https://github.com/geodynamics/relax): implements a semi-analytic Fourier-domain solver and equivalent body forces to compute quasi-static relaxation of stress perturbation, from geodynamics
+
 [rsl](https://github.com/Guymer/rsl): maps the effects of rising sea levels on Great Britain, by Guymer
 
 [SEIS_FILO](https://github.com/akuhara/SEIS_FILO): SEISmological transdimensional inversion tools for Flat and Isotropic Layered structure in the Ocean, by akuhara
