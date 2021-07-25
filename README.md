@@ -439,6 +439,8 @@ nscapin
 
 [HANK](https://github.com/ikarib/HANK): replication of the computational algorithm for solving Heterogeneous Agent New Keynesian (HANK) model, by ikarib. The original code was written in Fortran utilizing SparseSuite library and parallelized using MPI on the cluster with 33 CPUs (Intel Xeon CPU E5-2695 v4 @ 2.10GHz) with total runtime of 1.5 hours.
 
+[numx](https://github.com/alpgodev/numx): High-Performance Library for Portfolio Optimization and Risk Analysis, by alpgodev
+
 ## Engineering
 [DynamicStiffness](https://github.com/jbcSmc/DynamicStiffness): calculate the harmonic response of plane frame structures, by jbcSmc
 
