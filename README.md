@@ -291,6 +291,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [fluidity](https://github.com/FluidityProject/fluidity): open source, general purpose, multiphase computational fluid dynamics code capable of numerically solving the Navier-Stokes equation and accompanying field equations on arbitrary unstructured finite element meshes in one, two and three dimensions
 
+[FLUSI](https://github.com/pseudospectators/FLUSI): Fluid-Structure-Interaction / MHD Research Code, from pseudospectators. Relies on Fourier transforms for derivatives and the volume penalization method to include obstacles.
+
 [fluxo](https://github.com/project-fluxo/fluxo): solves linear and nonlinear advection diffusion equations, for example the compressible Navier-Stokes equations, the resistive magneto-hydrodynamic equations and others
 
 [fosolvers](https://github.com/mianzhi/fosolvers): suite of free and open source solvers, created with the goals of solving practical engineering problems and being easy to hack, by mianzhi
