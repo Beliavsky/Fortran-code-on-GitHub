@@ -1188,6 +1188,8 @@ This algorithm is well suited for parallel computing as it can initialize many l
 
 [ferre](https://github.com/callendeprieto/ferre): matches models to data, taking a set of observations and identifying the model parameters that best reproduce the data, in a chi-squared sense, by callendeprieto and holtzmanjon
 
+[Functional Single Index Model (FSIM)](https://github.com/sbaek306/FSIM): codes for simulations and real data analysis, which appears in the manscript entitled, "Functional Single Index Model" by Jiang, F., Baek, S., Cao, J., and Ma, Y.
+
 [fortran-gmm-EM](https://github.com/Jonas-Finkler/fortran-gmm-EM): extremely efficient implementation of the expectation maximization (EM) algorithm for Gaussian mixtures in Fortran, by Jonas-Finkler
 
 [gslib2.0: Geostatistical Software Library](https://github.com/exepulveda/gslib2.0): aims to create a modern version of the original GSLIB source code, by exepulveda
