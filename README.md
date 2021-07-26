@@ -1106,6 +1106,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [dftbplus](https://github.com/dftbplus/dftbplus): DFTB+ general package for performing fast atomistic simulations
 
+[dftd4](https://github.com/dftd4/dftd4): Generally Applicable Atomic-Charge Dependent London Dispersion Correction
+
 [DyNaMol](https://github.com/spindynamics/DyNaMol): simulation package for the simulation of magnetic materials developed at the French Alternative Energies and Atomic Energy Commission. DyNaMol is designed to provide a community standard tool for ab initio simulations of magnetic materials with high performance and an easy-to-use interface.
 
 [EDIpack](https://github.com/QcmPlab/EDIpack): Lanczos-based solver for generic quantum impurity models exploiting distributed memory MPI parallelisation, from QcmPlab
