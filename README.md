@@ -963,7 +963,7 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [minimize](https://github.com/ryokbys/minimize): minimization routines such as steepest descent, conjugate gradient, and quasi-Newton methods with line search method such as quadratic interpolation and golden section, by ryokbys
 
-[Minpack](https://github.com/certik/minpack): library for solving nonlinear equations and nonlinear least squares problems
+[Minpack](https://github.com/certik/minpack): library for solving nonlinear equations and nonlinear least squares problems, with with CMake makefiles and examples by certik et al.
 
 [minuit](https://github.com/ramos/minuit): Fortran 77 library for function minimization and error Analysis by F. James
 
