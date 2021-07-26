@@ -543,7 +543,9 @@ nscapin
 [modern_fortran_book](https://github.com/jonaslindemann/modern_fortran_book): files to build the site [Modern Fortran in Science and Technology](https://modern-fortran-in-science-and-technology.readthedocs.io), by jonaslindemann
 
 ## Games
-[blocktran](https://github.com/fortran-gaming/blocktran): Falling-block object-oriented Fortran 2018 game, with resizable playfield, from fortran-gaming
+[blocktran](https://github.com/fortran-gaming/blocktran): falling-block object-oriented Fortran 2018 game, with resizable playfield, from fortran-gaming
+
+[Castlequest](https://github.com/Quuxplusone/Castlequest): parser adventure
 
 [fortranchessprogram](https://github.com/arbolis/fortranchessprogram): chess program where the user enters moves in notation such as e2-e4 and the board is displayed as text
 
