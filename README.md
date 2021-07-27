@@ -1095,6 +1095,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [STELLOPT](https://github.com/PrincetonUniversity/STELLOPT): stellarator optimization code, from PrincetonUniversity. A stellarator is a plasma device that relies primarily on external magnets to confine a plasma.
 
+[Themis](https://github.com/colombarifm/themis): statistical mechanics software designed to obtain the association thermodynamics of two structures (ions, molecules, crystals, nanoparticles, etc), by colombarifm. It generates a configurational partition function by systematically sampling the phase space using discrete grids to perform translations and rotations of one structure around another.
+
 [thermopack](https://github.com/SINTEF/thermopack): thermodynamic model library for fluid properties and PVT calculations, from SINTEF
 
 [turbogap](https://github.com/mcaroba/turbogap): efficiently and accurately builds many-body atomic descriptors and carry out other related computations employed in machine-learning approaches to atomistic modeling, such as to run molecular dynamics simulations, by mcaroba
