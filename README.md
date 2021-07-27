@@ -1,5 +1,4 @@
 ## Fortran code on GitHub -- also see [fortran-lang package index](https://fortran-lang.org/packages/)
-
 * [Art and Music](#art-and-music)
 * [Astronomy](#astronomy)
 * [Astrophysics](#astrophysics)
@@ -999,6 +998,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 [slsqp](https://github.com/jacobwilliams/slsqp): Modern Fortran edition of the [SLSQP](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.512.2567&rep=rep1&type=pdf) optimizer, by Jacob Williams
 
 [simulated-annealing](https://github.com/jacobwilliams/simulated-annealing): Simulated Annealing with Modern Fortran by Jacob Williams 
+
+[TikTak](https://github.com/serdarozkan/TikTak): multistart global optimization algorithm, described in the [paper](https://fguvenendotcom.files.wordpress.com/2019/09/agk2019-september-nber-submit.pdf) "Benchmarking Global Optimizers", by Antoine Arnoud, Fatih Guvenen, and Tatjana Kleineberg (2019)
 
 ## Parallel Programming
 [Advanced Parallel Programming](https://github.com/csc-training/advanced-parallel-prog): exercise material and model answers for the CSC course "Advanced Parallel Programming"
