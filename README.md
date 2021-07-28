@@ -393,6 +393,8 @@ nscapin
 
 [MODFLOW 6: USGS Modular Hydrologic Model](https://github.com/MODFLOW-USGS/modflow6): accurately, reliably, and efficiently simulates groundwater flow. With time, growing interest in surface and groundwater interactions, local refinement with nested and unstructured grids, karst groundwater flow, solute transport, and saltwater intrusion, has led to the development of numerous MODFLOW versions.
 
+[MOHID - Water Modelling System](https://github.com/Mohid-Water-Modelling-System/Mohid): modular finite volumes water-modelling system written in Fortran 95 using an Object-oriented programming philosophy, integrating diverse mathematical models and supporting graphical user interfaces that manage all the pre- and post-processing
+
 [MOM6](https://github.com/NOAA-GFDL/MOM6): Modular Ocean Model, from NOAA-GFDL
 
 [NEMO-examples](https://github.com/NEMO-ocean/NEMO-examples): simple configurations to study specific oceanic physical processes and be used as a tool for training
