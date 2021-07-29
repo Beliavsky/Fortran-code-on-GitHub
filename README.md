@@ -1086,6 +1086,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [computational_physics](https://github.com/alexbaekey/computational_physics): computational physics projects by alexbaekey
 
+[d3q and thermal2](https://github.com/anharmonic/d3q): d3q computes fully ab-initio the anharmonic third-order dynamical matrix and the three-body force constants, and thermal2 manipulates 2-body and 3-body force constants to study vibrational properties of materials.
+
 [exocross](https://github.com/Trovemaster/exocross): Fortran 2003 code to generate molecular cross-sections using line lists in the ExoMol format, by Trovemaster
 
 [fresco](https://github.com/I-Thompson/fresco): scattering code for coupled-channels calculations, by I-Thompson
