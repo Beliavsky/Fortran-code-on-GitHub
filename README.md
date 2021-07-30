@@ -415,6 +415,8 @@ nscapin
 
 [REAL](https://github.com/Dal-mzhang/REAL): Rapid Earthquake Association and Location, by Dal-mzhang
 
+[Ring current Atmosphere interactions Model with Self Consistent magnetic field (B) (RAM-SCB)](https://github.com/lanl/RAM-SCB): combines a kinetic model of ring current plasma with a three dimensional force-balanced model of the terrestrial magnetic field, from lanl. The kinetic portion, RAM, solves the kinetic equation to yield the bounce-averaged distribution function as a function of azimuth, radial distance, energy and pitch angle for three ion species (H+, He+, and O+) and, optionally, electrons.
+
 [relax](https://github.com/geodynamics/relax): implements a semi-analytic Fourier-domain solver and equivalent body forces to compute quasi-static relaxation of stress perturbation, from geodynamics
 
 [rsl](https://github.com/Guymer/rsl): maps the effects of rising sea levels on Great Britain, by Guymer
