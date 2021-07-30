@@ -426,6 +426,8 @@ nscapin
 
 [rsl](https://github.com/Guymer/rsl): maps the effects of rising sea levels on Great Britain, by Guymer
 
+[SAMSIM](https://github.com/pgriewank/SAMSIM): thermodynamic 1D sea ice model, by pgriewank
+
 [SEIS_FILO](https://github.com/akuhara/SEIS_FILO): SEISmological transdimensional inversion tools for Flat and Isotropic Layered structure in the Ocean, by akuhara
 
 [SEM2DPACK](https://github.com/jpampuero/sem2dpack): spectral element method for 2D wave propagation and fracture dynamics, with emphasis on computational seismology and earthquake source dynamics, from jpampuero et al.
