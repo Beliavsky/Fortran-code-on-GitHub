@@ -204,6 +204,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [RTE+RRTMGP](https://github.com/earth-system-radiation/rte-rrtmgp) computes radiative fluxes in planetary atmospheres, from earth-system-radiation. RTE+RRTMGP is described in a paper in Journal of Advances in Modeling Earth Systems.
 
+[Scalable Computing for Advanced Library and Environment (SCALE)](https://github.com/scale-met/scale): basic library for weather and climate model of the earth and planets aimed to be widely used in various models. The SCALE library is developed with co-design by researchers of computational science and computer science.
+
 [scream](https://github.com/E3SM-Project/scream): global atmosphere model targeted towards 3 km ("cloud resolving") resolution. It is part of the Energy Exascale Earth System Model (E3SM)
 
 [urban Dutch Atmospheric Large Eddy Simulation (u-dales)](https://github.com/uDALES/u-dales): large-eddy simulation (LES) model for urban environments. LES is an approach to turbulence modelling used in computational fluid dynamics to simulate turbulent flows over a wide range of spatial and temporal scales.
