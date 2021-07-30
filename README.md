@@ -1092,6 +1092,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [exocross](https://github.com/Trovemaster/exocross): Fortran 2003 code to generate molecular cross-sections using line lists in the ExoMol format, by Trovemaster
 
+[Felix](https://github.com/WarwickMicroscopy/Felix): Bloch wave method diffraction pattern simulation software, from WarwickMicroscopy 
+
 [fresco](https://github.com/I-Thompson/fresco): scattering code for coupled-channels calculations, by I-Thompson
 
 [Guided_Missile_Simulation](https://github.com/bgin/Guided_Missile_Simulation): Air-to-Air Missile Simulation written in modern Fortran, by bgin
