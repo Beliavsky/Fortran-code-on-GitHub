@@ -464,6 +464,8 @@ nscapin
 ## Engineering
 [DynamicStiffness](https://github.com/jbcSmc/DynamicStiffness): calculate the harmonic response of plane frame structures, by jbcSmc
 
+[F2A](https://github.com/yang7857854/F2A): aero-hydro-servo-elastic tool developed based on AQWA by Yang Yang, a postdoctoral research associate in Liverpool John Moores University for performing fully coupled analysis of floating offshore wind turbines (FOWT)
+
 [openfast](https://github.com/OpenFAST/openfast): NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes
 
 [Reference OpenSource Controller (ROSCO) for wind turbine applications](https://github.com/NREL/ROSCO#nrels-reference-opensource-controller-rosco-for-wind-turbine-applications): modular and fully adaptable baseline wind turbine controller to the scientific community, from NREL. Because of the open character and modular set-up, scientists are able to collaborate and contribute in making continuous improvements to the code.
