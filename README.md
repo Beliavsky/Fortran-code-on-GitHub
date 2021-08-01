@@ -1052,6 +1052,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [rwlock](https://github.com/kc9jud/rwlock): simple readers-writer lock in Fortran using OpenMP atomic constructs, by kc9jud. This can be used to protect a memory location which may be read by many threads simultaneously, but only modified by a single thread.
 
+[Simple OpenACC Fortran Examples](https://github.com/jeng1220/openacc_fortran_examples): hosts fundamental, but useful examples, by jeng1220. Each example is just a few dozen lines of code.
+
 ## Partial Differential Equations
 [fishpack](https://github.com/jlokimlin/fishpack): collection of Fortran programs and subroutines that solve 2nd- and 4th-order finite difference approximations to separable elliptic Partial Differential Equations (PDEs), by jlokimlin and t-bltg
 
