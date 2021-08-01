@@ -1152,6 +1152,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [HANDE](https://github.com/hande-qmc/hande): efficient, highly parallel code for stochastic quantum chemistry. It can be used both as a standalone program or (optionally) as a library from an existing quantum chemistry code.
 
+[Interacting Quantum Impurity Solver Toolkit (iQIST)](https://github.com/huangli712/iQIST): package for studying strongly correlated electron systems, by huangli712 et al. It contains several hybridization expansion continuous-time quantum Monte Carlo impurity solvers and some auxiliary scripts.
+
 [molgw](https://github.com/bruneval/molgw): accurate many-body perturbation theory calculations of the electronic structure of molecules, by bruneval
 
 [MuST](https://github.com/mstsuite/MuST): Multiple Scattering Theory code for first principles calculations, from mstsuite. Ab initio electronic structure calculation software package, with petascale and beyond computing capability, for the first principles study of quantum phenomena in disordered materials.
