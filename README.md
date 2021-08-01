@@ -942,6 +942,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 [triasymq](https://github.com/zgimbutas/triasymq): high-order quadratures for triangles, squares, cubes, and tetrahedra, by zgimbutas
 
 ## Ordinary Differential Equations
+[AUTO](https://github.com/auto-07p/auto-07p): software for continuation and bifurcation problems in ordinary differential equations originally written in 1980 and widely used in the dynamical systems community
+
 [ddeabm](https://github.com/jacobwilliams/ddeabm): modern object-oriented Fortran implementation of the DDEABM Adams-Bashforth-Moulton ODE solver, by Jacob Williams and web-flow
 
 [dop853](https://github.com/jacobwilliams/dop853): modern Fortran (2003/2008) implementation of Hairer's DOP853 ODE solver, by Jacob Williams. The original FORTRAN 77 code has been extensively refactored, and is now object-oriented and thread-safe, with an easy-to-use class interface. DOP853 is an explicit Runge-Kutta method of order 8(5,3) due to Dormand & Prince (with stepsize control and dense output).
