@@ -436,6 +436,8 @@ nscapin
 
 [SEM2DPACK](https://github.com/jpampuero/sem2dpack): spectral element method for 2D wave propagation and fracture dynamics, with emphasis on computational seismology and earthquake source dynamics, from jpampuero et al.
 
+[Simstrat](https://github.com/Eawag-AppliedSystemAnalysis/Simstrat): one-dimensional physical lake model for the simulation of stratification and mixing in deep stratified lakes, from Eawag-AppliedSystemAnalysis. The model was originally developed by Goudsmit et al. (2002) and has been successfully applied to lakes with different physical properties.
+
 [Specfem3D](https://github.com/geodynamics/specfem3d): simulates acoustic (fluid), elastic (solid), coupled acoustic/elastic, poroelastic or seismic wave propagation in any type of conforming mesh of hexahedra (structured or not.), from geodynamics
 
 [SurfTomo](https://github.com/caiweicaiwei/SurfTomo): direct inversion of surface wave dispersion data, by caiweicaiwei
@@ -830,7 +832,7 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [Finite Element Polycrystal Plasticity (FEPX)](https://github.com/acmelab-ua/FEPX): parallel finite element-based elasto-viscoplastic framework for use in modeling large deformations of polycrystalline aggregates, from acmelab-ua
 
-[Hard-fit-by-minimization](https://github.com/LaszloSToth/Hard-fit-by-minimization): efficient program to fit a stress-strain curve by the empirical function derived from crystal plasticity, by LaszloSToth
+[Hard-fit-by-minimization](https://github.com/LaszloSToth/Hard-fit-by-minimization): efficient program to fit a stress-strain curve by the empirical function derived from crystal plasticity, by LaszloSToth 
 
 [SISSO](https://github.com/rouyang2017/SISSO): data-driven method combining symbolic regression and compressed sensing toward accurate & interpretable models, by rouyang2017
 
