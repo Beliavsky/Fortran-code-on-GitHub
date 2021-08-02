@@ -416,6 +416,8 @@ nscapin
 
 [plantFEM](https://github.com/kazulagi/plantFEM): plant/farming simulator based on Finite Element Method, which targets crops in fields, from kazulagi. This software provides multi-physical simulations of agriculture for canopies, plants, and organs for farmers, breeders, and agronomists.
 
+[POLAN](https://github.com/space-physics/POLAN): calculate real-height profiles from chirp ionosonde data from the ionosphere, by J. E. Titheridge, updated by Michael Hirsch
+
 [PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran, from stfc
 
 [PyGeopack](https://github.com/mattkjames7/PyGeopack): Wrapper for the [geopack-08](https://geo.phys.spbu.ru/~tsyganenko/Geopack-2008.html) Fortran code used for the Tsyganenko magnetic field models
