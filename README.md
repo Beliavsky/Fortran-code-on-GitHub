@@ -828,6 +828,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [EXCEED-DM](https://github.com/tanner-trickle/EXCEED-DM): EXtended Calculation of Electronic Excitations for Direct detection of Dark Matter, by tanner-trickle
 
+[Finite Element Polycrystal Plasticity (FEPX)](https://github.com/acmelab-ua/FEPX): parallel finite element-based elasto-viscoplastic framework for use in modeling large deformations of polycrystalline aggregates, from acmelab-ua
+
 [Hard-fit-by-minimization](https://github.com/LaszloSToth/Hard-fit-by-minimization): efficient program to fit a stress-strain curve by the empirical function derived from crystal plasticity, by LaszloSToth
 
 [SISSO](https://github.com/rouyang2017/SISSO): data-driven method combining symbolic regression and compressed sensing toward accurate & interpretable models, by rouyang2017
