@@ -715,6 +715,8 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 
 [fortran-unix](https://github.com/interkosmos/fortran-unix): Fortran 2008 ISO C binding interfaces to selected POSIX and SysV types, functions, and routines on 64-bit Unix-like operating systems, by interkosmos
 
+[Fortran Language Compatibility Layer (FLCL)](https://github.com/kokkos/kokkos-fortran-interop): API for Fortran to C and C to Fortran multi-dimensional array interoperability
+
 [MatlabAPI](https://github.com/robince/MatlabAPI): Fortran 95 Matlab API
 
 [M_process](https://github.com/urbanjost/M_process): read and write lines to or from a process from Fortran via a C wrapper, by urbanjost
