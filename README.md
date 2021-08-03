@@ -356,6 +356,8 @@ nscapin
 ## Earth Science
 [aerobulk](https://github.com/brodeau/aerobulk): gathers state-of-the-art aerodynamic bulk formulae algorithms used to compute turbulent air-sea fluxes of momentum, heat and freshwater, by brodeau and einola
 
+[AtChem2](https://github.com/AtChem/AtChem2): modelling tool for atmospheric chemistry. It is primarily designed to use the Master Chemical Mechanism (MCM), but it can be used with any general set of chemical reactions.
+
 [atmos](https://github.com/VirtualPlanetaryLaboratory/atmos): package containing two atmospheric models, along with scripts to couple them together, from VirtualPlanetaryLaboratory
 
 [Catchment-based Macro-scale Floodplain (CaMa-Flood)](https://github.com/global-hydrodynamics/CaMa-Flood_v4): simulates the hydrodynamics in continental-scale rivers, from global-hydrodynamic. The entire river networks of the world are discretized to the hydrological units named unit-catchments for achieving efficient flow computation at the global scale. 
