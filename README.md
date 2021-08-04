@@ -851,6 +851,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [LaGriT](https://github.com/lanl/LaGriT): Los Alamos Grid Toolbox (LaGriT) is a library of user callable tools that provide mesh generation, mesh optimization and dynamic mesh maintenance in two and three dimensions.
 
+[MPI-AMRVAC](https://github.com/amrvac/amrvac): parallel adaptive mesh refinement framework aimed at solving (primarily hyperbolic) partial differential equations by a number of different numerical schemes. The emphasis is on (near) conservation laws and on shock-dominated problems in particular.
+
 [pyhyp](https://github.com/mdolab/pyhyp): uses hyperbolic volume mesh marching schemes to extrude structured surface meshes into volume meshes, by mdolab. pyHyp is used as a preprocessing step in the geometry and mesh-creation process prior to an optimization.
 
 [shabaka](https://github.com/omhafez/shabaka): command-line tool that reads segmented images and generates watertight surface meshes (or b-reps) of the objects of interest, by omhafez. Surface meshes can be piped into mesh generation tools for scientific computing, 3D printing programs, or visualization software.
