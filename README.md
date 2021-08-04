@@ -412,6 +412,8 @@ nscapin
 
 [NEMO-examples](https://github.com/NEMO-ocean/NEMO-examples): simple configurations to study specific oceanic physical processes and be used as a tool for training
 
+[NM-CT_MATLAB](https://github.com/tuhouwang/NM-CT_MATLAB): Fortran and Matlab codes for the paper "A Chebyshev-Tau spectral method for normal modes of underwater sound propagation with a layered marine environment", by H. Tu, Y. Wang, Q. Lan et al.
+
 [NRL HWM14 Horizontal Wind Model](https://github.com/gemini3d/hwm14): code from the Naval Research Lab described in the paper Drob, D. P., et al. (2015), "An Update to the Horizontal Wind Model (HWM): The Quiet Time Thermosphere", Earth and Space Science
 
 [omuse](https://github.com/omuse-geoscience/omuse): Oceanographic MUltipurpose Software Environment is a package to conduct numerical experiments in oceanography and other Earth sciences.
