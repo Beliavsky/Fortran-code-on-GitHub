@@ -94,6 +94,8 @@
 
 [magnetizer](https://github.com/luizfelippesr/magnetizer): post-processes the output of a semi-analytic model of galaxy formation and produces a catalogue of galaxies with detailed radial dependent ISM properties, including magnetic fields, by luizfelippesr
 
+[MCMax3D](https://github.com/michielmin/MCMax3D): Monte Carlo radiative transfer and disk modelling tool, described [here](https://www.exoclouds.com/Software/). It sets up a disk structure using physical processes or a parameterised structure.
+
 [Modules for Experiments in Stellar Astrophysics (MESA)](https://github.com/MESAHub/mesa): allow users to run experiments in stellar evolution. Stellar evolution calculations (i.e., stellar evolution tracks and detailed information about the evolution of internal and global properties) are a basic tool that enable a broad range of research in astrophysics. 
 
 [msg](https://github.com/rhdtownsend/msg): Multidimensional Spectral Grids -- project for evaluating radiant properties of stellar atmospheres by rhdtownsend
