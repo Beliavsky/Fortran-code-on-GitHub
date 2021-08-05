@@ -325,6 +325,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [MF-LBM](https://github.com/lanl/MF-LBM): Portable, Scalable and High-performance Lattice Boltzmann Code for DNS of Flow in Porous Media, from LANL
 
+[Multi-component Flow Code (MFC)](https://github.com/ComputationalFlowPhysics/MFC-Caltech): parallel simulation software for multi-component, multi-phase, and bubbly flows, by Spencer Bryngelson et al.
+
 [Nek5000](https://github.com/Nek5000/Nek5000): fast and scalable high-order solver for computational fluid dynamics.  Applications span a wide range of fields, including fluid flow, thermal convection, combustion and magnetohydrodynamics.
 
 [NTUSTCFDLAB](https://github.com/HSUAN221/NTUSTCFDLAB): code for 3D flow using projection method with FVM, by HSUAN221. Navier Stokes equations are solved for velocity and pressure fields. 
