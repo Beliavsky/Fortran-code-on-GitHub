@@ -408,6 +408,8 @@ nscapin
 
 [GrowClust](https://github.com/dttrugman/GrowClust): program for the relative relocation of earthquake hypocenters based on waveform cross-correlation data, by dttrugman and sean0921
 
+[HOS-ocean](https://github.com/LHEEA/HOS-ocean): High-Order Spectral method for oceanic simulations, by gducrozet and Gjacquenot
+
 [ICM_Hydro](https://github.com/CPRA-MP/ICM_Hydro): code corresponding to paper "Ecohydrology component of Louisiana’s 2012 Coastal Master Plan: mass-balance compartment model"
 
 [Isca](https://github.com/ExeClim/Isca): framework for the idealized modelling of the global circulation of planetary atmospheres at varying levels of complexity and realism, from the University of Exeter. The framework is an outgrowth of models from GFDL designed for Earth's atmosphere, but it may readily be extended into other planetary regimes.
