@@ -1125,6 +1125,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Felix](https://github.com/WarwickMicroscopy/Felix): Bloch wave method diffraction pattern simulation software, from WarwickMicroscopy 
 
+[FIDASIM: A Neutral Beam and Fast-ion Diagnostic Modeling Suite](https://github.com/D3DEnergetic/FIDASIM): code associated with [paper](https://infoscience.epfl.ch/record/279679?ln=en) "Progress in modelling fast-ion D-alpha spectra and neutral particle analyzer fluxes using FIDASIM", by Benedikt Geiger et al.
+
 [fresco](https://github.com/I-Thompson/fresco): scattering code for coupled-channels calculations, by I-Thompson
 
 [Guided_Missile_Simulation](https://github.com/bgin/Guided_Missile_Simulation): Air-to-Air Missile Simulation written in modern Fortran, by bgin
