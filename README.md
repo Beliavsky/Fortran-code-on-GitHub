@@ -1147,6 +1147,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [thermopack](https://github.com/SINTEF/thermopack): thermodynamic model library for fluid properties and PVT calculations, from SINTEF
 
+[TIme-dependent Transport and Angular momentum of Nanostructures (TITAN)](https://github.com/filipesmg/TITAN): calculates the electric and spin excitations for bulk and thin films, by JRSuckert and filipesmg. It can describe Ferromagnetic Resonance (FMR) experiments and intrinsic Spin and Orbital Momentum Hall Effects (including Anomalous and Planar Hall effects), for example.
+
 [turbogap](https://github.com/mcaroba/turbogap): efficiently and accurately builds many-body atomic descriptors and carry out other related computations employed in machine-learning approaches to atomistic modeling, such as to run molecular dynamics simulations, by mcaroba
 
 [VicsekSimulation](https://github.com/santinoacco/VicsekSimulation): Fortran & Python based simulation of a self-propelled particles system
