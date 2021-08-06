@@ -1192,6 +1192,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [DyNaMol](https://github.com/spindynamics/DyNaMol): simulation package for the simulation of magnetic materials developed at the French Alternative Energies and Atomic Energy Commission. DyNaMol is designed to provide a community standard tool for ab initio simulations of magnetic materials with high performance and an easy-to-use interface.
 
+[ecalj — a package for the first-principles electronic structure calculations](https://github.com/tkotani/ecalj): quasiparticle self-consistent GW method in the PMT method (LAPW+LMTO+Lo), by tkotani and nim-hrkn
+
 [EDIpack](https://github.com/QcmPlab/EDIpack): Lanczos-based solver for generic quantum impurity models exploiting distributed memory MPI parallelisation, from QcmPlab
 
 [EMPM_MPI](https://github.com/knappf/EMPM_MPI): codes for TDA, 2 and 3 -phonon diagonalization of nuclear Hamiltonian within Equation-of-motion Phonon Method, by knappf
