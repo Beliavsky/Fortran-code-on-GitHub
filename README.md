@@ -464,6 +464,8 @@ nscapin
 
 [SW_VAR_DENS_MODEL](https://github.com/demichie/SW_VAR_DENS_MODEL): model shallow gas-particles flows over digital elevation models (DEMs) of natural terrain, by demichie. The model solves for the conservation equations (mass,momentum,energy) of the mixture, and accounts for sedimentation, erosion, friction and entrainment. 
 
+[Tenstream](https://github.com/tenstream/tenstream): approximately solves the radiative transfer equation in 3D and computes irradiance and heating rates from optical properties
+
 [Town Energy Balance (TEB) model](https://github.com/TEB-model/teb): calculates the urban surface energy balance at neighborhood scale assuming a simplified canyon geometry. [Paper](https://joss.theoj.org/papers/10.21105/joss.02008): Meyer, D., Schoetter, R., Masson, V., Grimmond, S., 2020: Enhanced software and platform for the Town Energy Balance (TEB) model. Journal of Open Source Software, 5(50), 2008.
 
 [trnfsp3n](https://github.com/Geo-Linux-Calculations/trnfsp3n): Fortran 77 code for transforming GPS orbit files in SP3 format between different realizations of ITRF's, from Geo-Linux-Calculations
