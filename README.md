@@ -74,6 +74,8 @@
 
 [Compact Object Synthesis and Monte Carlo Investigation Code (COSMIC)](https://github.com/COSMIC-PopSynth/COSMIC): rapid binary population synthesis suite with a special purpose of generating realistic compact binary populations. COSMIC can also be used to evolve binaries with BSE in a python environment.
 
+[ECLIPSE](https://github.com/CosmoTool/ECLIPSE): code for [paper](https://iopscience.iop.org/article/10.1088/1475-7516/2021/07/034) "ECLIPSE: a fast Quadratic Maximum Likelihood estimator for CMB intensity and polarization power spectra" (2021), by J.D. Bilbao-Ahedo et al.
+
 [etfFinal](https://github.com/mgeshelley/etfFinal): Neutron star inner crust code, by mgeshelley
 
 [evelchemevol](https://github.com/lukeshingles/evelchemevol): one-zone closed-box chemical evolution code written in Fortran with OpenMP, by lukeshingles
