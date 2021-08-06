@@ -474,6 +474,8 @@ nscapin
 
 [tsunami](https://github.com/modern-fortran/tsunami): parallel tsunami simulator. Companion running example from book [Modern Fortran: Building Efficient Parallel Applications](https://www.manning.com/books/modern-fortran)
 
+[uclales](https://github.com/uclales/uclales): large eddy simulation code for atmospheric flow
+
 [WASA-SED](https://github.com/TillF/WASA-SED): numerical model for simulation hydrological and sediment fluxes from meso-scale catchments (Mueller et al., 2010), from TillF
 
 [Wildland-urban Interface Simulator (WFDS)](https://github.com/ruddymell/wfds9977): extension of NIST's structural Fire Dynamics Simulator (FDS) to fuels that include vegetation. WFDS uses computational fluid dynamics methods to solve the governing equations for buoyant flow, heat transfer, combustion, and the thermal degradation of vegetative fuels.
