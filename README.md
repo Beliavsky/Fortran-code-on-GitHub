@@ -848,6 +848,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [DiffuseCode](https://github.com/tproffen/DiffuseCode): suite of programs to simulate disordered and nanomaterials, by tproffen et al.
 
+[disorder](https://github.com/jichunlian/disorder): code corresponding to paper "Algorithm for generating irreducible site-occupancy configurations" (2020), by Ji-Chun Lian et al.
+
 [DMFTwDFT](https://github.com/DMFTwDFT-project/DMFTwDFT): calculates electronic, vibrational and elastic properties in strongly correlated materials (SCM) using beyond-DFT methods such as DFT+U, DFT+Hybrids and DFT+DMFT (Dynamical Mean Field Theory) with a variety of different DFT codes
 
 [Düsseldorf Advanced Material Simulation Kit (DAMASK)](https://github.com/eisenforschung/DAMASK): flexible and hierarchically structured model of material point behavior for the solution of elastoplastic boundary value problems along with damage and thermal physics, from eisenforschung. Its main purpose is the simulation of crystal plasticity within a finite-strain continuum mechanical framework.
