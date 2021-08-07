@@ -1135,6 +1135,9 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 ## Physics
 [Bose-Einstein_Condensates](https://github.com/brito-leonardo/Bose-Einstein_Condensates): solve Bose-Einstein condensates problems and related algebraic problems in quantum mechanics, with Fortran 90 and Python 3 languages, by brito-leonardo
 
+[Cartesian-coordinate Oblique-boundary Particles and Thermals In Cell (COPTIC)](https://github.com/ihutch/COPTIC):  moves particles in three dimensions of space and time (6
+phase-space dimensions) and simultaneously calculates the self-consistent electrostatic potential in the presence of a neutralizing species governed by a thermal Boltzmann factor, or of a second particle species, by ihutch and chaako
+
 [CDMFT-LANC-ED](https://github.com/QcmPlab/CDMFT-LANC-ED): Lanczos based solver for the Cluster Dynamical Mean-Field Theory using the N_up:N_dw implementation, from QcmPlab
 
 [Computational Environment for Nuclear Structure (CENS)](https://github.com/ManyBodyPhysics/CENS): many-body codes developed by Morten Hjorth-Jensen and collaborators
