@@ -410,6 +410,9 @@ nscapin
 
 [GrowClust](https://github.com/dttrugman/GrowClust): program for the relative relocation of earthquake hypocenters based on waveform cross-correlation data, by dttrugman and sean0921
 
+[Halfspace deformation (hdef)](https://github.com/mherman09/Hdef): forward calculation of displacements, strains, and stresses in an elastic half-space. The sources are fault
+slip models, using the solutions derived in Okada (1992) and in Meade (2007).
+
 [HOS-ocean](https://github.com/LHEEA/HOS-ocean): High-Order Spectral method for oceanic simulations, by gducrozet and Gjacquenot
 
 [ICM_Hydro](https://github.com/CPRA-MP/ICM_Hydro): code corresponding to paper "Ecohydrology component of Louisiana’s 2012 Coastal Master Plan: mass-balance compartment model"
