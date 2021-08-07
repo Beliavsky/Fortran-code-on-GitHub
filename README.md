@@ -358,6 +358,8 @@ nscapin
 
 [tlab](https://github.com/turbulencia/tlab): Tools to simulate and analyze turbulent flows in 2D and 3D configurations, from turbulencia. The numerical schemes are based on compact finite differences with structured meshes, where grid stretching allowed. Time advancement in based on Runge-Kutta schemes.
 
+[TM](https://github.com/victowne/TM): full MHD code used for simulating the tearing mode instability in slab geometry, by victowne
+
 [UCNS3D](https://github.com/ucns3d-team/UCNS3D): unstructured compressible CFD code
 
 [WABBIT](https://github.com/adaptive-cfd/WABBIT): Wavelet Adaptive Block-Based solver for Interactions with Turbulence, from adaptive-cfd
