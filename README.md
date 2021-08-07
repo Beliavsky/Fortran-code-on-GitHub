@@ -688,6 +688,8 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 
 [kdtree2](https://github.com/jmhodges/kdtree2): kd-tree implementation in C++ (and Fortran) by Matthew B. Kennel
 
+[M_io](https://github.com/urbanjost/M_io): collection of procedures that create a simple interface for common I/O tasks not conveniently done with intrinsic I/O procedures, by urbanjost
+
 [PENF](https://github.com/szaghi/PENF): Fortran (standard 2003) module useful to achieve portable codes. The module makes available portable kind-parameters and some useful procedures to deal with them
 
 [petaca](https://github.com/nncarlson/petaca): collection of modern Fortran modules that provide broadly useful capabilities -- things that the author has found himself using repeatedly across many projects. A unifying feature of the modules is their object-oriented interfaces and implementation
