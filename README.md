@@ -168,6 +168,8 @@
 
 [GENeralized-Ensemble SImulation System (GENESIS)](https://github.com/genesis-release-r-ccs/genesis-2.0): molecular dynamics and modeling software for bimolecular systems such as proteins, lipids, nucleic acids, glycans, and their complexes. Main site is [here](https://www.r-ccs.riken.jp/labs/cbrt/).
 
+[MycoplasmaGenitalium](https://github.com/ccsb-scripps/MycoplasmaGenitalium): modelling of Mycoplasma genitalium based on the WC computational model, by Ludovic Autin and Martina Maritan
+
 [umat_cartilage](https://github.com/shayansss/umat_cartilage): subroutines for a multiphasic and fibril-reinforced model of articular cartilage, by shayansss
 
 [3D_Convolusional_Filtering](https://github.com/JoGebert/3D_Convolusional_Filtering): convolusional filtering of computed tomography scans, by JoGebert. Intended to get a clear separation between bone marrow and cancellous bone for subsequent binarization and calculations.
