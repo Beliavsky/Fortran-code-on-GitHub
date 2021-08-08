@@ -1189,6 +1189,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 
 [SENSMG](https://github.com/jafavorite/SENSMG): Sensitivities of Neutron Reaction Rates, Reaction-Rate Ratios, Leakage, keff, and α Using PARTISN, by jafavorite
 
+[ShengBTE](https://github.com/wxmwy/ShengBTE): solver for the Boltzmann transport equation for phonons, by Wu Li et al.
+
 [SNAP](https://github.com/lanl/SNAP): proxy application to model the performance of a modern discrete ordinates neutral particle transport application, from LANL
 
 [STELLOPT](https://github.com/PrincetonUniversity/STELLOPT): stellarator optimization code, from PrincetonUniversity. A stellarator is a plasma device that relies primarily on external magnets to confine a plasma.
