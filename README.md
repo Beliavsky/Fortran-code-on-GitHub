@@ -1173,6 +1173,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 
 [FIDASIM: A Neutral Beam and Fast-ion Diagnostic Modeling Suite](https://github.com/D3DEnergetic/FIDASIM): code associated with [paper](https://infoscience.epfl.ch/record/279679?ln=en) "Progress in modelling fast-ion D-alpha spectra and neutral particle analyzer fluxes using FIDASIM", by Benedikt Geiger et al.
 
+[FourPhonon](https://github.com/FourPhonon/FourPhonon): extension module to ShengBTE for computing four-phonon scattering rates and thermal conductivity, by Zherui Han et al.
+
 [fresco](https://github.com/I-Thompson/fresco): scattering code for coupled-channels calculations, by I-Thompson
 
 [Guided_Missile_Simulation](https://github.com/bgin/Guided_Missile_Simulation): Air-to-Air Missile Simulation written in modern Fortran, by bgin
