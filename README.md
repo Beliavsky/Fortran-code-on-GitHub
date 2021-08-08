@@ -1157,6 +1157,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 
 [ElectroStatic Vlasov-Maxwell (ESVM)](https://github.com/michaeltouati/ESVM): 1D-1V Vlasov-Maxwell Fortran code parallelized using OpenMP and developed for an educational purpose as well as for testing linear finite volume numerical advection schemes such as the donor cell, the Lax-Wendroff, the beam warming or the Fromm method and non-linear ones such as the minmod, the superbee, the Van Leer, the MUSCL1 or the MUSCL2 method, by michaeltouati and nzeal
 
+[Esfahan Spin Simulation package (ESpinS)](https://github.com/nafiserb/ESpinS): Package for classical Monte-Carlo simulation of spin systems, by nafiserb. In ESpinS, the spin model hamiltonian of a spin system can be defined through the Heisenberg exchange, bi-quadratic, Dzyaloshinskii-Moriya, and single-ion interactions.
+
 [exocross](https://github.com/Trovemaster/exocross): Fortran 2003 code to generate molecular cross-sections using line lists in the ExoMol format, by Trovemaster
 
 [Felix](https://github.com/WarwickMicroscopy/Felix): Bloch wave method diffraction pattern simulation software, from WarwickMicroscopy 
