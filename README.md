@@ -303,6 +303,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [code_saturne](https://github.com/code-saturne/code_saturne): CFD software handling either incompressible or expandable flows with or without heat transfer and turbulence
 
+[Couette-Poiseuille-Flow](https://github.com/anand-me/Couette-Poiseuille-Flow): computation of Couette-Poiseuille flow with a mixing-length model of turbulence, by Akshay Anand
+
 [EOF](https://github.com/parkeryang69/EOF): simulation of electro-osmotic flow by Lattice Boltzmann method, by parkeryang69
 
 [FEST-3D](https://github.com/FEST3D/FEST-3D): solves Navier-Stokes equations on a structured grid using state of the art finite-volume numerical methods. It is a modular, multiblock finite-volume code developed to solve compressible flow problems encountered in the field of aerodynamics.
