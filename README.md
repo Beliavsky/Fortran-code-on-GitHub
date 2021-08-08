@@ -347,6 +347,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [phasta](https://github.com/PHASTA/phasta): Parallel Hierarchic Adaptive Stabilized Transient Analysis of compressible and incompressible Navier Stokes equations
 
+[ransfoil](https://github.com/sdhzhs/ransfoil): console to simulate airflow around an airfoil based on RANS approach
+
 [shyfem](https://github.com/SHYFEM-model/shyfem): System of HydrodYnamic Finite Element Modules
 
 [SNaC](https://github.com/p-costa/SNaC): multi-block solver for massively parallel direct numerical simulations (DNS) of fluid flows, by p-costa and 
