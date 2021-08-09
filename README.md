@@ -305,6 +305,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [Channel3d](https://github.com/GongZheng-Justin/Channel3d): efficient second- /fourth-order finite-difference direct numerical simulation (DNS) solver with versatile viscous treatments, also with the ability to handle different boundary conditions, by GongZheng-Justin
 
+[CloverLeaf_ref](https://github.com/UK-MAC/CloverLeaf_ref): solves the compressible Euler equations on a Cartesian grid, using an explicit, second-order accurate method, from UK-MAC. Each cell stores three values: energy, density, and pressure. 
+
 [code_saturne](https://github.com/code-saturne/code_saturne): CFD software handling either incompressible or expandable flows with or without heat transfer and turbulence
 
 [Couette-Poiseuille-Flow](https://github.com/anand-me/Couette-Poiseuille-Flow): computation of Couette-Poiseuille flow with a mixing-length model of turbulence, by Akshay Anand
