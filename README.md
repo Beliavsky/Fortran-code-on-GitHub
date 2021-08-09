@@ -280,6 +280,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [pmflib](https://github.com/kulhanek/pmflib): toolkit for Free Energy Calculations, by kulhanek
 
+[QCxMS](https://github.com/qcxms/QCxMS): quantum chemical (QC) based program that enables users to calculate mass spectra (MS) using Born-Oppenheimer Molecular Dynamics (MD), by Jeroen Koopman and Sebastian Ehlert. It is the successor of the QCEIMS program, in which the EI part is exchanged to x (x=EI, CID) to account for the greater general applicability of the program
+
 [taurus_vap](https://github.com/project-taurus/taurus_vap): solves the variation after particle-number projection equations for real general Bogoliubov quasi-particle states represented in a spherical harmonic oscillator basis, from project-taurus
 
 [THERMOCHIMICA](https://github.com/ORNL-CEES/thermochimica): omputational library for chemical thermodynamics. It determines a unique combination of phases and their compositions for a prescribed chemical composition, temperature and pressure, from ORNL-CEES.
