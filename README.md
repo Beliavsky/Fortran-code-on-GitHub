@@ -149,6 +149,8 @@
 
 [NetworkDynamicsBenchmarks](https://github.com/PIK-ICoNe/NetworkDynamicsBenchmarks): scripts for benchmarking dynamical systems on networks, from paper "NetworkDynamics.jl -- Composing and simulating complex networks in Julia", by Michael Lindner et al.
 
+[nwchem-tce-triples-kernels](https://github.com/jeffhammond/nwchem-tce-triples-kernels): NWChem TCE CCSD(T) loop-driven kernels for performance optimization experiments, by jeffhammond
+
 [Performance comparison R, Julia, Fortran for Bayesian binary probit](https://github.com/driesbenoit/benchmark_R_Julia_Fortran) by driesbenoit
 
 [Python Performance](https://github.com/scivision/python-performance): performance benchmarks of Python, Numpy, etc. vs. other languages such as Matlab, Julia, Fortran, from scivision
