@@ -333,6 +333,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [Geophysical High-Order Suite for Turbulence (GHOST)](https://github.com/pmininni/GHOST): accurate and highly scalable pseudospectral code that solves a variety of PDEs often encountered in studies of turbulent flows. It is mainly developed by Pablo Mininni and Duane Rosenberg, with contributions from many users.
 
+[Improved_Phase-Field_LBM_2D](https://github.com/AbbasHub/Improved_Phase-Field_LBM_2D): Improved conservative phase-field LBM code for multiphase flows in a 2D periodic domain, by Abbas Fakhari. It is a sample Lattice-Boltzmann solver for two-phase flows.
+
 [Incompact3d](https://github.com/xcompact3d/Incompact3d): Fortran-MPI based, finite difference high-performance code for solving the incompressible Navier-Stokes equation and as many as needed scalar transport equations
 
 [lbm2d_opencl](https://github.com/LKedward/lbm2d_opencl): D2Q9 BGK Lattice Boltzmann code written in OpenCL and Modern Fortran, by LKedward
