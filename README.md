@@ -297,6 +297,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [adflow](https://github.com/mdolab/adflow): flow solver developed by the MDO Lab at the University of Michigan. It solves the compressible Euler, laminar Navier–Stokes and Reynolds-averaged Navier–Stokes equations using structured multi-block and overset meshes.
 
+[AMR-LBM-OpenMP-2D](https://github.com/AbbasHub/AMR-LBM-OpenMP-2D): Adaptive Mesh Refinement (AMR) technique utilized with the Lattice-Boltzmann Method (LBM) for numerical simulation of multiphase flows, by AbbasHub. OpenMP is used for parallelization of the code on share-memory machines.
+
 [CaNS](https://github.com/p-costa/CaNS): fast, massively-parallel direct numerical simulations (DNS) of canonical flows, by p-costa and nscapin
 
 [CFD](https://github.com/brli3/CFD): basic CFD schemes implemented in Fortran using Finite-Volume and Finite-Difference Methods, by brli3. Sample simulations and figures are provided.
