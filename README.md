@@ -430,6 +430,8 @@ nscapin
 
 [GrowClust](https://github.com/dttrugman/GrowClust): program for the relative relocation of earthquake hypocenters based on waveform cross-correlation data, by dttrugman and sean0921
 
+[geoflac](https://github.com/tan2/geoflac): code for lithospheric scale geodynamics, by Eh Tan et al.
+
 [Halfspace deformation (hdef)](https://github.com/mherman09/Hdef): forward calculation of displacements, strains, and stresses in an elastic half-space. The sources are fault
 slip models, using the solutions derived in Okada (1992) and in Meade (2007).
 
