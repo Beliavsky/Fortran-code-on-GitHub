@@ -1056,6 +1056,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [minuit](https://github.com/ramos/minuit): Fortran 77 library for function minimization and error Analysis by F. James
 
+[nlopt-wrap](https://github.com/awvwgk/nlopt-wrap): Fortran bindings for the NLopt library, by awvwgk. While the NLopt library supports Fortran by using implicit interface calling conventions, those are not type-safe. 
+
 [nonlin](https://github.com/jchristopherson/nonlin): solves systems of nonlinear equations, by jchristopherson
 
 [osqp-fortran](https://github.com/osqp/osqp-fortran): Fortran wrapper for OSQP: the Operator Splitting QP Solver
