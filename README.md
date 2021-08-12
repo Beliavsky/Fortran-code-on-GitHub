@@ -392,7 +392,9 @@ nscapin
 
 [atmos](https://github.com/VirtualPlanetaryLaboratory/atmos): package containing two atmospheric models, along with scripts to couple them together, from VirtualPlanetaryLaboratory
 
-[Catchment-based Macro-scale Floodplain (CaMa-Flood)](https://github.com/global-hydrodynamics/CaMa-Flood_v4): simulates the hydrodynamics in continental-scale rivers, from global-hydrodynamic. The entire river networks of the world are discretized to the hydrological units named unit-catchments for achieving efficient flow computation at the global scale. 
+[Catchment-based Macro-scale Floodplain (CaMa-Flood)](https://github.com/global-hydrodynamics/CaMa-Flood_v4): simulates the hydrodynamics in continental-scale rivers, from global-hydrodynamic. The entire river networks of the world are discretized to the hydrological units named unit-catchments for achieving efficient flow computation at the global scale.
+
+[CE-QUAL-W2](https://github.com/EnvironmentalSystems/CE-QUAL-W2): two‐dimensional (2D), longitudinal/vertical, hydrodynamic water quality (WQ) model, by TSteissberg and hsteissberg. Because the model assumes lateral homogeneity, it is especially suited for relatively long and narrow waterbodies exhibiting longitudinal and vertical water quality gradients.
 
 [Community Data Models for Earth Prediction Systems (CDEPS)](https://github.com/ESCOMP/CDEPS): NUOPC-compliant data components along with ESMF-based share code that enables new capabilities in selectively removing feedbacks in coupled model systems
 
