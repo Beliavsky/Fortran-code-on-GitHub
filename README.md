@@ -529,6 +529,8 @@ slip models, using the solutions derived in Okada (1992) and in Meade (2007).
 [numx](https://github.com/alpgodev/numx): High-Performance Library for Portfolio Optimization and Risk Analysis, by alpgodev
 
 ## Engineering
+[Bonneville Power Administration Interactive Power Flow and Transient Stability Program (bpa-ipf-tsp)](https://github.com/mbheinen/bpa-ipf-tsp): family of programs for doing power flow studies. IPF models the balanced steady-state operation of an electric power network.
+
 [DynamicStiffness](https://github.com/jbcSmc/DynamicStiffness): calculate the harmonic response of plane frame structures, by jbcSmc
 
 [F2A](https://github.com/yang7857854/F2A): aero-hydro-servo-elastic tool developed based on AQWA by Yang Yang, a postdoctoral research associate in Liverpool John Moores University for performing fully coupled analysis of floating offshore wind turbines (FOWT)
