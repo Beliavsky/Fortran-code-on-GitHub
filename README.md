@@ -1248,6 +1248,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 
 [EMPM_MPI_NO](https://github.com/knappf/EMPM_MPI_NO): codes for TDA, 2 and 3 -phonon diagonalization of nuclear Hamiltonian within Equation-of-motion Phonon Method, by knappf. Natural orbital basis version.
 
+[H2-PolarizabilityMatrixElements](https://github.com/ankit7540/H2-PolarizabilityMatrixElements): code associated with paper "Polarizability tensor invariants of H2, HD, and D2", by Raj, A., Hamaguchi, H., and Witek, H. A., Journal of Chemical Physics 148, 104308 (2018)
+
 [HANDE](https://github.com/hande-qmc/hande): efficient, highly parallel code for stochastic quantum chemistry. It can be used both as a standalone program or (optionally) as a library from an existing quantum chemistry code.
 
 [Interacting Quantum Impurity Solver Toolkit (iQIST)](https://github.com/huangli712/iQIST): package for studying strongly correlated electron systems, by huangli712 et al. It contains several hybridization expansion continuous-time quantum Monte Carlo impurity solvers and some auxiliary scripts.
