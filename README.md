@@ -940,6 +940,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [fortran_calls_tensorflow](https://github.com/putschblos/fortran_calls_tensorflow): how to calls a TensorFlow from Fortran 2003, by putschblos
 
+[Fortran FLANN binding](https://github.com/ivan-pi/fortran-flann): Fortran bindings to the FLANN library for performing fast approximate nearest neighbor searches in high dimensional spaces, by ivan-pi
+
 [fortran-NeuralNetwork](https://github.com/Jonas-Finkler/fortran-NeuralNetwork): Simple implementation of a neural network, implemented in Fortran, by Jonas-Finkler
 
 [gpf](https://github.com/ots22/gpf): small Fortran library for Gaussian process regression. It currently implements value predictions with dense Gaussian processes, and projected-process approximate Gaussian processes
