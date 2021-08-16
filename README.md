@@ -602,6 +602,8 @@ slip models, using the solutions derived in Okada (1992) and in Meade (2007).
 
 [ParaFEM](https://github.com/ParaFEM/ParaFEM): open source parallel finite element analysis library that is documented by the text book "Programming the Finite Element Method"
 
+[ParallelFEM-Fortran](https://github.com/chennachaos/PFEMFort): Parallel programming for Finite Element Analysis using Fortran and PETSc, by chennachaos. This code includes several parallel implementations for the Lapalace equation and linear elasticity in 2D and 3D. 
+
 [PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran
 
 ## Fortran Books and Tutorials
