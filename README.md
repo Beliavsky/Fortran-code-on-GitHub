@@ -912,6 +912,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [LaGriT](https://github.com/lanl/LaGriT): Los Alamos Grid Toolbox (LaGriT) is a library of user callable tools that provide mesh generation, mesh optimization and dynamic mesh maintenance in two and three dimensions.
 
+[local_mesh_refinement](https://github.com/PhiPsi-Software/local_mesh_refinement): performs local refinement of XFEM-enriched 3D hexahedral elements, from PhiPsi-Software. Given the original mesh (*.elem and *.node files) and a file (*.ennd) that describes enriched nodes, this program generates the refined mesh (output.elem and output.ndoe).
+
 [MPI-AMRVAC](https://github.com/amrvac/amrvac): parallel adaptive mesh refinement framework aimed at solving (primarily hyperbolic) partial differential equations by a number of different numerical schemes. The emphasis is on (near) conservation laws and on shock-dominated problems in particular.
 
 [pyhyp](https://github.com/mdolab/pyhyp): uses hyperbolic volume mesh marching schemes to extrude structured surface meshes into volume meshes, by mdolab. pyHyp is used as a preprocessing step in the geometry and mesh-creation process prior to an optimization.
