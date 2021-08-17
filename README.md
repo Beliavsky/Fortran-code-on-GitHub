@@ -1105,6 +1105,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [simulated-annealing](https://github.com/jacobwilliams/simulated-annealing): Simulated Annealing with Modern Fortran by Jacob Williams 
 
+[subplex](https://github.com/kingaa/subplex): solves unconstrained optimization problems using a simplex method on subspaces. The method is well suited for optimizing objective functions that are noisy or are discontinuous at the solution.
+
 [TikTak](https://github.com/serdarozkan/TikTak): multistart global optimization algorithm, described in the [paper](https://fguvenendotcom.files.wordpress.com/2019/09/agk2019-september-nber-submit.pdf) "Benchmarking Global Optimizers", by Antoine Arnoud, Fatih Guvenen, and Tatjana Kleineberg (2019)
 
 ## Parallel Programming
