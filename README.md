@@ -449,6 +449,8 @@ slip models, using the solutions derived in Okada (1992) and in Meade (2007).
 
 [Isca](https://github.com/ExeClim/Isca): framework for the idealized modelling of the global circulation of planetary atmospheres at varying levels of complexity and realism, from the University of Exeter. The framework is an outgrowth of models from GFDL designed for Earth's atmosphere, but it may readily be extended into other planetary regimes.
 
+[JDSurfg](https://github.com/nqdu/JDSurfG): Joint Inversion of Direct Surface Wave Tomography and Bouguer Gravity, by nqdu
+
 [Line-By-Line Radiative Transfer Model(LBLRTM)](https://github.com/AER-RC/LBLRTM): accurate and efficient line-by-line radiative transfer model derived from the Fast Atmospheric Signature Code (FASCODE), from AER-RC. LBLRTM has been, and continues to be, extensively validated against atmospheric radiance spectra from the ultraviolet to the sub-millimeter.
 
 [LISF](https://github.com/NASA-LIS/LISF): The Land Information System (LIS) from NASA-LIS is a software framework for high performance terrestrial hydrology modeling and data assimilation developed with the goal of integrating satellite and ground-based observational data products and advanced modeling techniques to produce optimal fields of land surface states and fluxes.
