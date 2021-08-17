@@ -497,6 +497,8 @@ slip models, using the solutions derived in Okada (1992) and in Meade (2007).
 
 [SurfTomo](https://github.com/caiweicaiwei/SurfTomo): direct inversion of surface wave dispersion data, by caiweicaiwei
 
+[SUTRASET](https://github.com/SUTRASET/SUTRASET): extended USGS SUTRA 2.2 considering seepage(S), evaporation(E) and tide(T)
+
 [SW_VAR_DENS_MODEL](https://github.com/demichie/SW_VAR_DENS_MODEL): model shallow gas-particles flows over digital elevation models (DEMs) of natural terrain, by demichie. The model solves for the conservation equations (mass,momentum,energy) of the mixture, and accounts for sedimentation, erosion, friction and entrainment. 
 
 [Tenstream](https://github.com/tenstream/tenstream): approximately solves the radiative transfer equation in 3D and computes irradiance and heating rates from optical properties
