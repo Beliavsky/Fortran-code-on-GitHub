@@ -1300,6 +1300,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 
 [QuAcK](https://github.com/pfloos/QuAcK): performs i) various types of GW calculations (G0W0, evGW, qsGW, etc). ii) ensemble DFT calculations (under progress). QuAcK also include a very slow integral package called IntPak which does compute many types of different integrals. By pfloos.
 
+[RUQT](https://github.com/HoyLab-Rowan/RUQT): performs Landauer NEGF calculations using advanced electronic structure methods particularly parametric 2-RDM (NEGF-RDM) and multi-configuration pair density functional theory (NEGF-PDFT), from HoyLab-Rowan
+
 [smash](https://github.com/cmsi/smash): Massively parallel software for quantum chemistry calculations, from cmsi
 
 [STB](https://github.com/MRedies/STB): Simple Tight-binding, by MRedies
