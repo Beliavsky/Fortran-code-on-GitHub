@@ -54,6 +54,8 @@
 
 [MUSICV](https://github.com/vlazzarini/MUSICV): Max Mathew's MUSIC V synthesis program, prepared by Bill Schottstaed for gfortran, with additions and fixes by Victor Lazzarini.
 
+[uzura3](https://github.com/cure-honey/uzura3): mpeg audio layer 3 encoder written in Fortran 90/95 (mp3 encoder), by cure-honey. There is also [uzura1_fpm](https://github.com/cure-honey/uzura1_fpm) that works with the Fortran Package Manager.
+
 [XenakisFreeStochasticMusicFortran](https://github.com/ThemosTsikas/XenakisFreeStochasticMusicFortran): working versions of a Xenakis FORTRAN program (Xenakis 1971 Formalized Music p 149)
 
 ## Astronomy
