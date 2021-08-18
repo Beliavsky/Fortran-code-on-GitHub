@@ -1237,6 +1237,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 
 [SNAP](https://github.com/lanl/SNAP): proxy application to model the performance of a modern discrete ordinates neutral particle transport application, from LANL
 
+[Stellarator Fokker-Planck Iterative Neoclassical Conservative Solver (SFINCS)](https://github.com/landreman/sfincs): computes neoclassical effects in nonaxisymmetric or axisymmetric toroidal plasmas, such as stellarators and tokamaks, by Matt Landreman et al. The code solves a drift-kinetic equation for the distribution function of each species. 
+
 [STELLOPT](https://github.com/PrincetonUniversity/STELLOPT): stellarator optimization code, from PrincetonUniversity. A stellarator is a plasma device that relies primarily on external magnets to confine a plasma.
 
 [Themis](https://github.com/colombarifm/themis): statistical mechanics software designed to obtain the association thermodynamics of two structures (ions, molecules, crystals, nanoparticles, etc), by colombarifm. It generates a configurational partition function by systematically sampling the phase space using discrete grids to perform translations and rotations of one structure around another.
