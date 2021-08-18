@@ -400,6 +400,8 @@ nscapin
 
 [Community Data Models for Earth Prediction Systems (CDEPS)](https://github.com/ESCOMP/CDEPS): NUOPC-compliant data components along with ESMF-based share code that enables new capabilities in selectively removing feedbacks in coupled model systems
 
+[Community Multiscale Air Quality Model (CMAQ) of US EPA](https://github.com/USEPA/CMAQ): combines current knowledge in atmospheric science and air quality modeling with multi-processor computing techniques in an open-source framework to deliver fast, technically sound estimates of ozone, particulates, toxics, and acid deposition.
+
 [Coupled-Ocean-Atmosphere-Wave-Sediment Transport (COAWST) Modeling System](https://github.com/jcwarner-usgs/COAWST): combines many sophisticated systems that each provide relative earth-system components necessary to investigate the dynamics of coastal storm impacts. Specifically, the COAWST Modeling System includes an ocean component—Regional Ocean Modeling System (ROMS); atmosphere component—Weather Research and Forecast Model (WRF), hydrology component- WRF_Hydro; wave components—Simulating Waves Nearshore (SWAN), WAVEWATCHIII, and InWave; a sediment component—the USGS Community Sediment Models; and a sea ice model.
 
 [cdss-app-statemod-fortran](https://github.com/OpenCDSS/cdss-app-statemod-fortran): StateMod water allocation model, which is part of Colorado's Decision Support Systems (CDSS)
