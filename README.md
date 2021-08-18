@@ -1354,6 +1354,9 @@ This algorithm is well suited for parallel computing as it can initialize many l
 
 [asurv](https://github.com/rsnemmen/asurv): suite of statistical methods for the analysis of censored data; i.e. data which are known to lie above or below some limit, by rsnemmen
 
+[BayesRCO](https://github.com/fmollandin/BayesRCO): complex trait prediction with Bayesian hierarchical models using genome-wide genetic variation grouped into potentially overlapping annotation categories based on prior biological information (e.g., functional annotations, candidate gene lists, known causal variants), by Fanny Mollandin
+and Andrea Rau
+
 [BMSL](https://github.com/benRenard/BMSL): mathematical and statistical libraries, geared toward environmental / hydrological applications, by Ben Renard. 
 
 [cdaSQR](https://github.com/KarimOualkacha/cdaSQR): generalized coordinate descent (GCD) algorithm for computing the solution path of the penalized quantile regression, by KarimOualkacha
