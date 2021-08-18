@@ -436,6 +436,8 @@ nscapin
 
 [geoclaw](https://github.com/clawpack/geoclaw): specialized version of some Clawpack and AMRClaw routines that have been modified to work well for certain geophysical flow problems. Currently the focus is on 2d depth-averaged shallow water equations for flow over varying topography.
 
+[Global Ionosphere Thermosphere Model (GITM)](https://github.com/aaronjridley/GITM): 3D model of the upper atmosphere, by Aaron Ridley et al. GITM solves for the coupled continuity, momentum and energy equations of the neutrals and ions.
+
 [GrowClust](https://github.com/dttrugman/GrowClust): program for the relative relocation of earthquake hypocenters based on waveform cross-correlation data, by dttrugman and sean0921
 
 [geoflac](https://github.com/tan2/geoflac): code for lithospheric scale geodynamics, by Eh Tan et al.
