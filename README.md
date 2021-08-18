@@ -1354,8 +1354,10 @@ This algorithm is well suited for parallel computing as it can initialize many l
 
 [asurv](https://github.com/rsnemmen/asurv): suite of statistical methods for the analysis of censored data; i.e. data which are known to lie above or below some limit, by rsnemmen
 
+[bayesR](https://github.com/syntheke/bayesR): Bayesian hierarchical model for complex trait analysis, associated with [paper](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004969) "Simultaneous Discovery, Estimation and Prediction Analysis of Complex Traits Using a Bayesian Mixture Model", by Gerhard Moser et al.
+
 [BayesRCO](https://github.com/fmollandin/BayesRCO): complex trait prediction with Bayesian hierarchical models using genome-wide genetic variation grouped into potentially overlapping annotation categories based on prior biological information (e.g., functional annotations, candidate gene lists, known causal variants), by Fanny Mollandin
-and Andrea Rau
+and Andrea Rau.
 
 [BMSL](https://github.com/benRenard/BMSL): mathematical and statistical libraries, geared toward environmental / hydrological applications, by Ben Renard. 
 
