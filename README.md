@@ -477,6 +477,8 @@ slip models, using the solutions derived in Okada (1992) and in Meade (2007).
 
 [omuse](https://github.com/omuse-geoscience/omuse): Oceanographic MUltipurpose Software Environment is a package to conduct numerical experiments in oceanography and other Earth sciences.
 
+[Optimal Retrieval of Aerosol and Cloud (orac)](https://github.com/ORAC-CC/orac): optimal estimation retrieval scheme for the estimation of aerosol and cloud properties from a wide range of visible-infrared imaging satellites, such as MODIS, AATSR, AVHRR and SEVIRI. It has been used to produce analysis-ready datasets of cloud and aerosol properties as part of the ESA CCI project and is currently supported by NCEO.
+
 [plantFEM](https://github.com/kazulagi/plantFEM): plant/farming simulator based on Finite Element Method, which targets crops in fields, from kazulagi. This software provides multi-physical simulations of agriculture for canopies, plants, and organs for farmers, breeders, and agronomists.
 
 [POLAN](https://github.com/space-physics/POLAN): calculate real-height profiles from chirp ionosonde data from the ionosphere, by J. E. Titheridge, updated by Michael Hirsch
