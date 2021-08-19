@@ -564,6 +564,8 @@ slip models, using the solutions derived in Okada (1992) and in Meade (2007).
 
 [fft-overlap](https://github.com/dappelha/fft-overlap): efficient implementations of ffts on multiple GPUs and across multiple nodes, by dappelha. Overlapping data transfer on multiple levels.
 
+[fftpack](https://github.com/fortran-lang/fftpack): double precision version of original fftpack, from fortran-lang
+
 [FFTPack](https://github.com/keurfonluu/FFTPack): easily usable package of functions using wrapping the Fortran 77 FFTPack library, by keurfonluu
 
 [modern_fftpack](https://github.com/jlokimlin/modern_fftpack): Fortran 2008 library of fast Fourier transforms -- an object-oriented modernization of NCAR's FFTPACK5.1., by jlokimlin
