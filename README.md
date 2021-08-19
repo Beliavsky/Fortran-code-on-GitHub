@@ -503,6 +503,9 @@ slip models, using the solutions derived in Okada (1992) and in Meade (2007).
 
 [SEM2DPACK](https://github.com/jpampuero/sem2dpack): spectral element method for 2D wave propagation and fracture dynamics, with emphasis on computational seismology and earthquake source dynamics, from jpampuero et al.
 
+[Shear-wave birefringence analysis (SHEBA)](https://github.com/jwookey/sheba): code associated with Wüstefeld, A.; Al-Harrasi, O.; Verdon, J.; Wookey, J. and Kendall, J-M. (2010)
+"A strategy for automated analysis of passive microseismic data to image seismic anisotropy and fracture characteristics", Geophysical Prospecting, vol 58, 755–773, DOI:10.1111/j.1365-2478.2010.00891.x
+
 [Simstrat](https://github.com/Eawag-AppliedSystemAnalysis/Simstrat): one-dimensional physical lake model for the simulation of stratification and mixing in deep stratified lakes, from Eawag-AppliedSystemAnalysis. The model was originally developed by Goudsmit et al. (2002) and has been successfully applied to lakes with different physical properties.
 
 [Specfem3D](https://github.com/geodynamics/specfem3d): simulates acoustic (fluid), elastic (solid), coupled acoustic/elastic, poroelastic or seismic wave propagation in any type of conforming mesh of hexahedra (structured or not.), from geodynamics
