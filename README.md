@@ -63,6 +63,8 @@
 
 [Fortran-Astrodynamics-Toolkit](https://github.com/jacobwilliams/Fortran-Astrodynamics-Toolkit): aims to be a comprehensive library, written in modern Fortran (Fortran 2003/2008), of all the standard orbital mechanics algorithms, by Jacob Williams
 
+[spacepy](https://github.com/spacepy/spacepy): Space Science library for Python, calling Fortran code - contains superposed epoch classes, drift shell tracing, access to magnetic field models, streamline tracing, bootstrap confidence limits, time and coordinate conversions, etc.
+
 [starlink](https://github.com/Starlink/starlink): astronomical data processing
 
 ## Astrophysics
@@ -115,6 +117,8 @@
 [radtrancode](https://github.com/nemesiscode/radtrancode): radiative transfer calculations and retrievals, originally written in Oxford University.
 
 [riaf-sed](https://github.com/rsnemmen/riaf-sed): computes spectral energy distributions of radiatively inefficient accretion flows (RIAFs) around black holes, by rsnemmen
+
+[spacepy](
 
 [splash](https://github.com/danieljprice/splash): visualisation tool for Smoothed Particle Hydrodynamics (SPH) simulations in one, two and three dimensions, developed mainly for astrophysics, by Daniel Price
 
