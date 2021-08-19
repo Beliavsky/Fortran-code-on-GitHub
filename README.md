@@ -806,6 +806,8 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 
 [NPY for Fortran](https://github.com/MRedies/NPY-for-Fortran): allows saving numerical Fortran arrays in Numpy's .npy or .npz format, by MRedies
 
+[statamod](https://github.com/ajshephard/statamod): provides read/write access for Stata datasets from within Fortran, by Andrew Shephard
+
 ## Interpolation
 [akima](https://github.com/andrewning/akima): 1-Dimensional Akima spline implementation with derivatives not only of the function, but also with respect to the original data points, by andrewnin. An Akima spline is a polynomial spline method that avoids overshooting issues common with many other splines (e.g., cubic splines), resulting in a more natural curve. 
 
