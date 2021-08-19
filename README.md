@@ -919,6 +919,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [Hard-fit-by-minimization](https://github.com/LaszloSToth/Hard-fit-by-minimization): efficient program to fit a stress-strain curve by the empirical function derived from crystal plasticity, by LaszloSToth 
 
+[Nonlinear MetaMaterial MPI Solver (NM^3)](https://github.com/wonnie87/NMCube): odes and example files used in paper, "High-Performance Large-Scale Simulation of Multi-stable Metastructures", by M. Hwang, C. Scalo, and A. F. Arrieta, to be published.
+
 [SISSO](https://github.com/rouyang2017/SISSO): data-driven method combining symbolic regression and compressed sensing toward accurate & interpretable models, by rouyang2017
 
 [thermo_pw](https://github.com/dalcorso/thermo_pw): ab-initio computation of material properties, by dalcorso
