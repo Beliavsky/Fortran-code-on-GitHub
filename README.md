@@ -586,6 +586,8 @@ slip models, using the solutions derived in Okada (1992) and in Meade (2007).
 ## File I/O
 [cfgio](https://github.com/pkgpl/cfgio): Fortran config file parser, by pkgpl
 
+[dataset1d](https://github.com/perrette/dataset1d): in-memory netCDF Dataset for fortran, for 1-D arrays only (so making it more similar to a pandas DataFrame), by perrette
+
 [fcore](https://github.com/jchristopherson/fcore): string handling and i/o routines, by jchristopherson
 
 [FiNeR](https://github.com/szaghi/FiNeR): IO of INI (config) files for modern (2003+) Fortran projects, by szaghi and kostyfisik
