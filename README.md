@@ -737,6 +737,8 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 
 [gFTL](https://github.com/Goddard-Fortran-Ecosystem/gFTL): provides a mechanism to easily create robust containers and associated iterators which can be used within Fortran applications, from Goddard-Fortran-Ecosystem. The primary methods are intended to be as close to their C++ STL analogs as possible.
 
+[hwloc-fortran](https://github.com/scivision/hwloc-fortran): simple Fortran binding for HWLOC to get CPU count, with fallback to alternative methods, from scivision. Provides Fortran module hwloc_ifc with integer(int32) function get_cpu_count().
+
 [JAMS](https://github.com/mcuntz/jams_fortran): collection of general Fortran modules offering miscellaneous functions in the categories Computational, Date and Time, Input / Output, Math / Numerics, Screening, Sensitivity Analysis and Optimising / Fitting, and Miscellaneous. Written by Matthias Cuntz, Juliane Mai and Stephan Thober
 
 [jlib](https://github.com/jhthorpe/jlib): modules for buffers, file I/O, and memory management, by jhthorpe
