@@ -114,6 +114,8 @@
 
 [Planetary Code Collection](https://github.com/nschorgh/Planetary-Code-Collection): Thermal and Ice Evolution Models for Planetary Surfaces, by Norbert Schorghofer
 
+[pymoog](https://github.com/MingjieJian/pymoog): Python 3 wrapper for running the LTE spectrum synthesis part of the Fortran code [MOOG](https://www.as.utexas.edu/~chris/moog.html) by Chris Sneden
+
 [radtrancode](https://github.com/nemesiscode/radtrancode): radiative transfer calculations and retrievals, originally written in Oxford University.
 
 [riaf-sed](https://github.com/rsnemmen/riaf-sed): computes spectral energy distributions of radiatively inefficient accretion flows (RIAFs) around black holes, by rsnemmen
