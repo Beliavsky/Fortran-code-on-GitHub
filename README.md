@@ -604,6 +604,8 @@ slip models, using the solutions derived in Okada (1992) and in Meade (2007).
 
 [nc4fortran](https://github.com/geospace-code/nc4fortran): object-oriented Fortran NetCDF4 interface, by geospace-code
 
+[nml](https://github.com/alex-robinson/nml): Fortran namelist I/O module intended to provide a small upgrade to native Fortran namelist functionality, by alex-robinson
+
 [serialbox](https://github.com/GridTools/serialbox): data serialization library and tools for C/C++ and Fortran, from GridTools
 
 [stl-fortran](https://github.com/jacobwilliams/stl-fortran): Fortran STL (stereolithography) File I/O, by Jacob Williams
