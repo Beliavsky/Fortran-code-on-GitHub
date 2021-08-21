@@ -676,6 +676,8 @@ slip models, using the solutions derived in Okada (1992) and in Meade (2007).
 ## General Purpose
 [AwesomeFortranLibraries](https://github.com/SourangshuGhosh/AwesomeFortranLibraries): modules for numerics, file I/O, and other topics by Sourangshu Ghosh for use in more complex codes
 
+[assert](https://github.com/sourceryinstitute/assert): simple yet slightly non-obvious assertion utility for Fortran 2018, from sourceryinstitute.
+
 [BeFoR64](https://github.com/szaghi/BeFoR64): Base64 encoding/decoding library for FoRtran poor men, is a pure Fortran (KISS) library for base64 encoding/decoding for modern (2003+) Fortran projects
 
 [coretran](https://github.com/leonfoks/coretran): easy-to-follow library to make Fortran easier in general with wrapped interfaces, sorting routines, kD-Trees, and other algorithms to handle scientific data and concepts.
