@@ -717,10 +717,6 @@ slip models, using the solutions derived in Okada (1992) and in Meade (2007).
 
 [Fortran Template Library (FTL)](https://github.com/SCM-NV/ftl): generic containers, versatile algorithms, easy string manipulation, and more
 
-[fortran-unit-test](https://github.com/dongli/fortran-unit-test): unit test library in Fortran to encourage scientific programmer to write tests, by dongli
-
-[Fortran_UnitTest](https://github.com/zhenkunl/Fortran_UnitTest): unit test library based on OOP, by zhenkunl. It is strongly inspired by Zofu, and its output format is derived from [fortran-unit-test](https://github.com/dongli/fortran-unit-test).
-
 [fortran-utils](https://github.com/certik/fortran-utils): Various utilities for Fortran programs, including types, constants, sorting, saving/loading 2D arrays, meshes, cubic splines, saving/loading PPM images, Lapack interface, HDF5 interface, special functions, and optimization, by Ondrej Certik et al.
 
 [ForUtils](https://github.com/cmbant/forutils): Fortran 2008 utility functions and reusable classes, by cmbant
@@ -1481,6 +1477,10 @@ milancurcic and awvwgk
 
 ## Unit Testing
 [fortran-testanything](https://github.com/dennisdjensen/fortran-testanything): test library supporting the Test Anything Protocol (TAP) inspired by Perl's Test::More module, by dennisdjensen
+
+[fortran-unit-test](https://github.com/dongli/fortran-unit-test): unit test library in Fortran to encourage scientific programmer to write tests, by dongli
+
+[Fortran_UnitTest](https://github.com/zhenkunl/Fortran_UnitTest): unit test library based on OOP, by zhenkunl. It is strongly inspired by Zofu, and its output format is derived from [fortran-unit-test](https://github.com/dongli/fortran-unit-test).
 
 [Fortran Unit Test Library](https://github.com/zhenkunl/Fortran_UnitTest): pure Fortran library using Object-Oriented Programming (OOP), by zhenkunl. It is strongly inspired by [Zofu](https://github.com/acroucher/zofu), and its output format is derived from [fortran-unit-test](https://github.com/dongli/fortran-unit-test). 
 
