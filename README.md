@@ -511,6 +511,9 @@ slip models, using the solutions derived in Okada (1992) and in Meade (2007).
 
 [Specfem3D](https://github.com/geodynamics/specfem3d): simulates acoustic (fluid), elastic (solid), coupled acoustic/elastic, poroelastic or seismic wave propagation in any type of conforming mesh of hexahedra (structured or not.), from geodynamics
 
+[SPHERA](https://github.com/AndreaAmicarelliRSE/SPHERA): Lagrangian Computational Fluid Dynamics (LCFD) - Smoothed Particle Hydrodynamics (SPH) research code by 
+Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landslides for the safety of hydroelectric plants, electrical substations and electricity pylons.
+
 [SurfTomo](https://github.com/caiweicaiwei/SurfTomo): direct inversion of surface wave dispersion data, by caiweicaiwei
 
 [SUTRASET](https://github.com/SUTRASET/SUTRASET): extended USGS SUTRA 2.2 considering seepage(S), evaporation(E) and tide(T)
