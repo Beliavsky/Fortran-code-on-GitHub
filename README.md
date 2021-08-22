@@ -43,6 +43,7 @@
 * [Strings](#strings)
 * [Time Series](#time-series)
 * [Unclassified](#unclassified)
+* [Unit Testing](#unit-testing)
 * [XML](#xml)
 
 ## Art and Music
@@ -1485,6 +1486,9 @@ milancurcic and awvwgk
 [fds](https://github.com/firemodels/fds): Fire Dynamics Simulator (FDS) is a large-eddy simulation (LES) code for low-speed flows, from firemodels, with an emphasis on smoke and heat transport from fires.
 
 [DistTab](https://github.com/NickAbel/DistTab): library being developed for use with combustion codes that use spray flame lookup tables, by NickAbel
+
+## Unit Testing
+[test-drive](https://github.com/awvwgk/test-drive): lightweight, procedural unit testing framework based on nothing but standard Fortran, by awvwgk. Integration with meson, cmake and Fortran package manager (fpm) is available.
 
 ## XML
 [fox](https://github.com/andreww/fox): XML library by andreww et al.
