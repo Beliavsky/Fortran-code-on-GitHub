@@ -424,6 +424,8 @@ nscapin
 
 [Decision Support System for Agrotechnology Transfer Cropping System Model (dssat-csm-os)](https://github.com/DSSAT/dssat-csm-os): crop simulation models for over 42 crops. The crop simulation models simulate growth, development and yield as a function of the soil-plant-atmosphere dynamics.
 
+[European Regional Seas Ecosystem Model (ERSEM)](https://github.com/pmlmodelling/ersem): marine ecosystem model that describes the biogeochemical cycling of carbon, nitrogen, phosphorus, silicon, oxygen and iron through pelagic and benthic ecosystems.
+
 [fd3d_tsn_pt](https://github.com/fgallovic/fd3d_tsn_pt): earthquake dynamic source inversion by parallel tempering, by fgallovic and valelu
 
 [FE-Project](https://github.com/ywkawai/FE-Project): library for dynamical cores of atmosphere and ocean models with discontinuous Galerkin finite element method, by ywkawai
