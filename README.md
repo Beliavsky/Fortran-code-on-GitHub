@@ -1256,6 +1256,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 
 [Esfahan Spin Simulation package (ESpinS)](https://github.com/nafiserb/ESpinS): Package for classical Monte-Carlo simulation of spin systems, by nafiserb. In ESpinS, the spin model hamiltonian of a spin system can be defined through the Heisenberg exchange, bi-quadratic, Dzyaloshinskii-Moriya, and single-ion interactions.
 
+[Ether](https://github.com/mukkelian/Ether): based on the classical lattice model (Heisenberg, XYZ, etc.), Ether has been developed by Mukesh Kumar Sharma to study the thermodynamics of any crystal system by performing the basic Monte Carlo methods. Metropolis algorithm has been used to equate all the observables
+
 [exocross](https://github.com/Trovemaster/exocross): Fortran 2003 code to generate molecular cross-sections using line lists in the ExoMol format, by Trovemaster
 
 [Felix](https://github.com/WarwickMicroscopy/Felix): Bloch wave method diffraction pattern simulation software, from WarwickMicroscopy 
