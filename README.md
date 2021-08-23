@@ -1264,6 +1264,10 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 
 [FIDASIM: A Neutral Beam and Fast-ion Diagnostic Modeling Suite](https://github.com/D3DEnergetic/FIDASIM): code associated with [paper](https://infoscience.epfl.ch/record/279679?ln=en) "Progress in modelling fast-ion D-alpha spectra and neutral particle analyzer fluxes using FIDASIM", by Benedikt Geiger et al.
 
+[FMM3D](https://github.com/flatironinstitute/FMM3D): compute N-body interactions governed by the Laplace and Helmholtz equations, to a specified precision, in three dimensions, on a multi-core shared-memory machine, from the Flatiron Institute
+
+[fmm3dbie](https://github.com/fastalgorithms/fmm3dbie): FMM-accelerated boundary integral equation solvers that currently support high-order triangulation of smooth surfaces, from fastalgorithms
+
 [FourPhonon](https://github.com/FourPhonon/FourPhonon): extension module to ShengBTE for computing four-phonon scattering rates and thermal conductivity, by Zherui Han et al.
 
 [fresco](https://github.com/I-Thompson/fresco): scattering code for coupled-channels calculations, by I-Thompson
