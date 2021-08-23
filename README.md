@@ -208,6 +208,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [E3SM](https://github.com/E3SM-Project/E3SM): Energy Exascale Earth System Model source code, by E3SM-Project 
 
+[Finite Element Sea Ice-Ocean Model (FESOM2)](https://github.com/FESOM/fesom2): Multi-resolution ocean general circulation model that solves the equations of motion describing the ocean and sea ice using finite-element and finite-volume methods on unstructured computational grids. The model is developed and supported by researchers at the Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI), in Bremerhaven, Germany.
+
 [fv3gfs](https://github.com/NOAA-EMC/fv3gfs): Finite­ Volume Cubed-Sphere dynamical core (FV3) Global Forecasting System (GFS), from NOAA-EMC
 
 [GARD](https://github.com/NCAR/GARD): Generalized Analog Regression Downscaling code, from NCAR
