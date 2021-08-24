@@ -502,6 +502,8 @@ recorded by a sparse regional seismograph network.
 
 [Optimal Retrieval of Aerosol and Cloud (orac)](https://github.com/ORAC-CC/orac): optimal estimation retrieval scheme for the estimation of aerosol and cloud properties from a wide range of visible-infrared imaging satellites, such as MODIS, AATSR, AVHRR and SEVIRI. It has been used to produce analysis-ready datasets of cloud and aerosol properties as part of the ESA CCI project and is currently supported by NCEO.
 
+[PaleoCalAdjust](https://github.com/pjbartlein/PaleoCalAdjust): accompanies this paper: Bartlein, P. J. and Shafer, S. L.: Paleo calendar-effect adjustments in time-slice and transient climate-model simulations (PaleoCalAdjust v1.0): impact and strategies for data analysis, Geosci. Model Dev., https://doi.org/10.5194/gmd-12-3889-2019, 2019.
+
 [plantFEM](https://github.com/kazulagi/plantFEM): plant/farming simulator based on Finite Element Method, which targets crops in fields, from kazulagi. This software provides multi-physical simulations of agriculture for canopies, plants, and organs for farmers, breeders, and agronomists.
 
 [POLAN](https://github.com/space-physics/POLAN): calculate real-height profiles from chirp ionosonde data from the ionosphere, by J. E. Titheridge, updated by Michael Hirsch
