@@ -698,7 +698,7 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 ## General Purpose
 [AwesomeFortranLibraries](https://github.com/SourangshuGhosh/AwesomeFortranLibraries): modules for numerics, file I/O, and other topics by Sourangshu Ghosh for use in more complex codes
 
-[assert](https://github.com/sourceryinstitute/assert): simple yet slightly non-obvious assertion utility for Fortran 2018, from sourceryinstitute.
+[assert](https://github.com/sourceryinstitute/assert): simple assertion utility taking advantage of the Fortran 2018 standard's introduction of variable stop codes and error termination inside pure procedures, by Damian Rouson
 
 [BeFoR64](https://github.com/szaghi/BeFoR64): Base64 encoding/decoding library for FoRtran poor men, is a pure Fortran (KISS) library for base64 encoding/decoding for modern (2003+) Fortran projects
 
