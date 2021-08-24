@@ -396,6 +396,8 @@ nscapin
 
 [aerobulk](https://github.com/brodeau/aerobulk): gathers state-of-the-art aerodynamic bulk formulae algorithms used to compute turbulent air-sea fluxes of momentum, heat and freshwater, by brodeau and einola
 
+[Aquatic EcoDnamics (AED) Suite](https://github.com/AquaticEcoDynamics/libaed-water): collection of community-driven libraries of modules and algorithms for simulation of "aquatic ecodynamics" - water quality, aquatic biogeochemsitry, biotic habitat and aquatic ecosystem dynamics. Liaed-water is the core library of water biochemistry modules, libaed-bentic is a collection of benthic layer modules, and libaed-demo is a set of examples for developing modules.
+
 [AtChem2](https://github.com/AtChem/AtChem2): modelling tool for atmospheric chemistry. It is primarily designed to use the Master Chemical Mechanism (MCM), but it can be used with any general set of chemical reactions.
 
 [atmos](https://github.com/VirtualPlanetaryLaboratory/atmos): package containing two atmospheric models, along with scripts to couple them together, from VirtualPlanetaryLaboratory
