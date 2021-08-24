@@ -666,6 +666,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 ## Fortran Books and Tutorials
 [coarray-tutorial](https://github.com/tkoenig1/coarray-tutorial): short tutorial using gfortran, ifort, or NAG Fortran, by tkoenig1
 
+[fidbits](https://github.com/sourceryinstitute/fidbits): Fortran tidbits: random code snippets produced in conversations that seem worth preserving for future reference, by Damian Rouson et al. They illustrate features of modern Fortran.
+
 [fortran](https://github.com/alexpacheco/fortran): files (TeX, PDF, Exercise and Example codes) for HPC Training on Fortran, by alexpacheco
 
 [Fortran90_Basics](https://github.com/brito-leonardo/Fortran90_Basics): codes to learn the structure and first useful commands in Fortran 90 language, by brito-leonardo
