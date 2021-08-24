@@ -1292,6 +1292,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 
 [ShengBTE](https://github.com/wxmwy/ShengBTE): solver for the Boltzmann transport equation for phonons, by Wu Li et al.
 
+[Slave Spins](https://github.com/QcmPlab/Slave-Spins): flexible slave spins mean-field code, with support for multi-band structure and inequivalent sites, from QcmPlab. This code uses MPI for faster execution.
+
 [SNAP](https://github.com/lanl/SNAP): proxy application to model the performance of a modern discrete ordinates neutral particle transport application, from LANL
 
 [Stellarator Fokker-Planck Iterative Neoclassical Conservative Solver (SFINCS)](https://github.com/landreman/sfincs): computes neoclassical effects in nonaxisymmetric or axisymmetric toroidal plasmas, such as stellarators and tokamaks, by Matt Landreman et al. The code solves a drift-kinetic equation for the distribution function of each species. 
