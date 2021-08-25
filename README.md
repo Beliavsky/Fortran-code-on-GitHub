@@ -62,6 +62,8 @@
 ## Astronomy
 [ALBUS_ionosphere](https://github.com/twillis449/ALBUS_ionosphere): determines the ionosphere total electron content (TEC) over any location on the Earth as a function of location and time, by Tony Willis. It then uses the TEC and a model of the Earth's magnetic field to compute the ionosphere's effect on the Faraday Rotion Measure (RM) observed for an astronomical radio source. The ionosphere's contribution to the RM can then be removed. 
 
+[astro-api](https://github.com/FrankThomasTveter/astro-api): makes the astronomical calculations for yr.no, by Frank Thomas Tveter et al. The astro-api software uses the JPL ephemeride tables and the SOFA astronomical library, along with algorithms for quick and precise searches, to provide astronomical data on demand, such as sun/moon rise/set, twilight, polar day/night, moon phase, eclipse, solstice times.
+
 [fortran-astrodynamics](https://github.com/Yuricst/fortran-astrodynamics): astrodynamics routines by Yuricst
 
 [Fortran-Astrodynamics-Toolkit](https://github.com/jacobwilliams/Fortran-Astrodynamics-Toolkit): aims to be a comprehensive library, written in modern Fortran (Fortran 2003/2008), of all the standard orbital mechanics algorithms, by Jacob Williams
