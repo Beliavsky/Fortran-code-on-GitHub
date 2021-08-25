@@ -98,6 +98,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [hazel2](https://github.com/aasensio/hazel2): synthesis and inversion of Stokes profiles caused by the joint action of atomic level polarization and the Hanle and Zeeman effects, by aasensio
 
+[High-Altitude to Space Transport Estimator (HASTE)](https://github.com/wtdailey/HASTE): high fidelity Monte Carlo code written in modern Fortran for estimating the radiation field seen by a space-based detector from a point source in or above the atmosphere, by wtdailey. The HASTE code includes models for many of the special features of this air-to-space transport problem that are not modeled, or only partially modeled, in other transport codes. 
+
 [kcarta_gen](https://github.com/sergio66/kcarta_gen): fast, accurate, easy-to-use pseudo-monochromatic radiative transfer code, by sergio66
 
 [legolas](https://github.com/n-claes/legolas): modern tool for MHD spectroscopy, by n-claes
