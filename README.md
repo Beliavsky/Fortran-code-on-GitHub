@@ -520,6 +520,8 @@ recorded by a sparse regional seismograph network.
 
 [PyGeopack](https://github.com/mattkjames7/PyGeopack): Wrapper for the [geopack-08](https://geo.phys.spbu.ru/~tsyganenko/Geopack-2008.html) Fortran code used for the Tsyganenko magnetic field models
 
+[pySIR](https://github.com/aasensio/pySIR): Python wrapper for the Stokes Inversion based on Response functions Fortran code by Ruiz Cobo & del Toro Iniesta (1992)
+
 [REAL](https://github.com/Dal-mzhang/REAL): Rapid Earthquake Association and Location, by Dal-mzhang
 
 [Ring current Atmosphere interactions Model with Self Consistent magnetic field (B) (RAM-SCB)](https://github.com/lanl/RAM-SCB): combines a kinetic model of ring current plasma with a three dimensional force-balanced model of the terrestrial magnetic field, from lanl. The kinetic portion, RAM, solves the kinetic equation to yield the bounce-averaged distribution function as a function of azimuth, radial distance, energy and pitch angle for three ion species (H+, He+, and O+) and, optionally, electrons.
