@@ -706,6 +706,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [BeFoR64](https://github.com/szaghi/BeFoR64): Base64 encoding/decoding library for FoRtran poor men, is a pure Fortran (KISS) library for base64 encoding/decoding for modern (2003+) Fortran projects
 
+[commonTools](https://github.com/wtdailey/commonTools): code for file I/O, Gauss-Legendre quadrature, mathematical and physical constants, interpolation, Legendre polynomials, random number generation, numerical integration, finding roots, sorting, statistics, and other topics, by Whitman T. Dailey
+
 [coretran](https://github.com/leonfoks/coretran): easy-to-follow library to make Fortran easier in general with wrapped interfaces, sorting routines, kD-Trees, and other algorithms to handle scientific data and concepts.
 
 [fArgParse](https://github.com/Goddard-Fortran-Ecosystem/fArgParse): command line argument parsing for Fortran, from Goddard-Fortran-Ecosystem
