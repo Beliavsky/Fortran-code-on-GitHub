@@ -590,6 +590,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 ## Engineering
 [Bonneville Power Administration Interactive Power Flow and Transient Stability Program (bpa-ipf-tsp)](https://github.com/mbheinen/bpa-ipf-tsp): family of programs for doing power flow studies. IPF models the balanced steady-state operation of an electric power network.
 
+[CCFatiguePlatform](https://github.com/EPFL-ENAC/CCFatiguePlatform): web application to faciltate manipulation and harmonized storage of composite materials testing datasets, from EPFL-ENAC
+
 [DynamicStiffness](https://github.com/jbcSmc/DynamicStiffness): calculate the harmonic response of plane frame structures, by jbcSmc
 
 [F2A](https://github.com/yang7857854/F2A): aero-hydro-servo-elastic tool developed based on AQWA by Yang Yang, a postdoctoral research associate in Liverpool John Moores University for performing fully coupled analysis of floating offshore wind turbines (FOWT)
