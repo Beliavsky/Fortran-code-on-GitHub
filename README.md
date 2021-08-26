@@ -706,6 +706,9 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [modern_fortran_book](https://github.com/jonaslindemann/modern_fortran_book): files to build the site [Modern Fortran in Science and Technology](https://modern-fortran-in-science-and-technology.readthedocs.io), by jonaslindemann
 
+[rocket-science](https://github.com/everythingfunctional/rocket-science): case study in modernizing legacy Fortran software, by Brad Richardson et al. This repository contains
+a modern mini-application for simulating solid rocket motors using an object-oriented, functional programming style in Fortran 2018, a legacy motor simulator demonstrating the solution of the same governing equations using a procedural programming style in Fortran 77/90, and a refurbished motor simulator demonstrating one modernization path for making the legacy solver object-oriented but without the radical redesign that affords the above purely functional programming style.
+
 ## Games
 [blocktran](https://github.com/fortran-gaming/blocktran): falling-block object-oriented Fortran 2018 game, with resizable playfield, from fortran-gaming
 
