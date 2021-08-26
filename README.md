@@ -1302,6 +1302,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 
 [FIDASIM: A Neutral Beam and Fast-ion Diagnostic Modeling Suite](https://github.com/D3DEnergetic/FIDASIM): code associated with [paper](https://infoscience.epfl.ch/record/279679?ln=en) "Progress in modelling fast-ion D-alpha spectra and neutral particle analyzer fluxes using FIDASIM", by Benedikt Geiger et al.
 
+[Fingerprint](https://github.com/KrumaKruma/Fingerprint): computation of overlap matrix based fingerprints. The fingerprint vector contains the eigenvalues of the overlap matrix which is itself constructed from gaussian type orbitals.
+
 [FMM3D](https://github.com/flatironinstitute/FMM3D): compute N-body interactions governed by the Laplace and Helmholtz equations, to a specified precision, in three dimensions, on a multi-core shared-memory machine, from the Flatiron Institute
 
 [fmm3dbie](https://github.com/fastalgorithms/fmm3dbie): FMM-accelerated boundary integral equation solvers that currently support high-order triangulation of smooth surfaces, from fastalgorithms
