@@ -192,6 +192,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [MycoplasmaGenitalium](https://github.com/ccsb-scripps/MycoplasmaGenitalium): modelling of Mycoplasma genitalium based on the WC computational model, by Ludovic Autin and Martina Maritan
 
+[siQ-ChIP: sans spike-in Quantitative ChIP-seq](https://github.com/BradleyDickson/siQ-ChIP): small package of bash and Fortran codes used to quantify ChIP-seq data without requiring "spike-ins" to be added to the ChIP-seq protocol. Associated with [paper](https://www.jbc.org/article/S0021-9258(17)50412-3/fulltext) J Biol Chem. 2020 Nov 20;295(47):15826-15837. "A physical basis for quantitative ChIP-sequencing" by Bradley M Dickson, Rochelle L Tiedemann, Alison A Chomiak, Evan M Cornett, Robert M Vaughan, and Scott B Rothbart
+
 [umat_cartilage](https://github.com/shayansss/umat_cartilage): subroutines for a multiphasic and fibril-reinforced model of articular cartilage, by shayansss
 
 [3D_Convolusional_Filtering](https://github.com/JoGebert/3D_Convolusional_Filtering): convolusional filtering of computed tomography scans, by JoGebert. Intended to get a clear separation between bone marrow and cancellous bone for subsequent binarization and calculations.
