@@ -464,6 +464,8 @@ nscapin
 
 [geoclaw](https://github.com/clawpack/geoclaw): specialized version of some Clawpack and AMRClaw routines that have been modified to work well for certain geophysical flow problems. Currently the focus is on 2d depth-averaged shallow water equations for flow over varying topography.
 
+[GIMPM-SSA-Damage](https://github.com/alex-huth/GIMPM_SSA_Damage): Generalized Interpolation Material Point Method for the Shallow Shelf Approximation of ice flow with Damage, by Alex Huth.
+
 [ginette](https://github.com/agnes-riviere/ginette): model for saturated-unsaturated, variable-density ground-water flow with solute or energy transport, by agnes-riviere et al. It is a 2-D variably saturated groundwater flow model with integrated 1-D surface flow for the stream.
 
 [Global Ionosphere Thermosphere Model (GITM)](https://github.com/aaronjridley/GITM): 3D model of the upper atmosphere, by Aaron Ridley et al. GITM solves for the coupled continuity, momentum and energy equations of the neutrals and ions.
