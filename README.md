@@ -956,6 +956,8 @@ generalized eigenvalue problems, from NLAFET
 
 [sparse-fortran](https://github.com/scivision/sparse-fortran): sparse array examples using MUMPS, Scalapack, BLACS, PARDISO with CMake and Meson, from SciVision
 
+[Sparse Parallel Robust Algorithm Library (SPRAL)](https://github.com/ralna/spral): library for sparse linear algebra and associated algorithms. It is primarily developed by the Numerical Analysis group at STFC Rutherford Appleton Laboratory (hsl@stfc.ac.uk).
+
 [SpLLT](https://github.com/NLAFET/SpLLT): sparse direct solver for computing the solution of symmetric positive definite linear systems, from NLAFET. The factorization phase, which is the most computationally intensive part, is based on a task-based Cholesky algorithm and the parallel code is implemented using a runtime system. 
 
 [tt-fort](https://github.com/oseledets/tt-fort): Fortran computing core of the TT-Toolbox. It also includes two slightly customized libraries for doing fast local solvers in eigenvalue and dynamical problems.
