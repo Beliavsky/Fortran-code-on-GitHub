@@ -1297,6 +1297,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 
 [d3q and thermal2](https://github.com/anharmonic/d3q): d3q computes fully ab-initio the anharmonic third-order dynamical matrix and the three-body force constants, and thermal2 manipulates 2-body and 3-body force constants to study vibrational properties of materials.
 
+[dftatom: Routines for Radial Integration of Dirac, Schrödinger, and Poisson Equations](https://github.com/certik/dftatom): implements accurate and efficient radial Schrödinger and Dirac shooting-method solvers. Detailed description of methods, convergence and implementation is in the following article: Ondřej Čertík, John E. Pask, Jiří Vackář, dftatom: A robust and general Schrödinger and Dirac solver for atomic structure calculations, Computer Physics Communications, Volume 184, Issue 7, July 2013, Pages 1777-1791, ISSN 0010-4655, 10.1016/j.cpc.2013.02.014. Preprint: arXiv:1209.1752.
+
 [ElectroStatic Vlasov-Maxwell (ESVM)](https://github.com/michaeltouati/ESVM): 1D-1V Vlasov-Maxwell Fortran code parallelized using OpenMP and developed for an educational purpose as well as for testing linear finite volume numerical advection schemes such as the donor cell, the Lax-Wendroff, the beam warming or the Fromm method and non-linear ones such as the minmod, the superbee, the Van Leer, the MUSCL1 or the MUSCL2 method, by michaeltouati and nzeal
 
 [Esfahan Spin Simulation package (ESpinS)](https://github.com/nafiserb/ESpinS): Package for classical Monte-Carlo simulation of spin systems, by nafiserb. In ESpinS, the spin model hamiltonian of a spin system can be defined through the Heisenberg exchange, bi-quadratic, Dzyaloshinskii-Moriya, and single-ion interactions.
