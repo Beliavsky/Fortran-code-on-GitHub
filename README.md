@@ -948,6 +948,8 @@ generalized eigenvalue problems, from NLAFET
 
 [M_blas](https://github.com/urbanjost/M_blas): Fortran BLAS library implemented as a free-format module, by urbanjost
 
+[M_LA](https://github.com/urbanjost/M_LA): small collection of routines primarily associated with linear algebra, by urbanjost
+
 [mfi](https://github.com/14NGiestas/mfi): modern Fortran Interfaces to BLAS and LAPACK, by 14NGiestas
 
 [MPI_GEVP](https://github.com/sims-code/MPI_GEVP): Fortran 90+ program for solving the generalized eigenvalue problem on distributed computers, by sims-code
