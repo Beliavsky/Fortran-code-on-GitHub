@@ -707,6 +707,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [listings](https://github.com/modern-fortran/listings): code listings for [Modern Fortran: Building Efficient Parallel Applications](https://www.manning.com/books/modern-fortran), by Milan Curcic
 
+[man-pages-fortran](https://github.com/AstroFloyd/man-pages-fortran): Man pages for the Fortran language. The description of the Fortran language in these man pages has been taken from the GNU Fortran Compiler documentation, version 5.3.0. They contain elements that follow the Fortran standard, and elements that are GNU extentions.
+
 [M_intrinsics](https://github.com/urbanjost/M_intrinsics): man(1) pages for the standard Fortran intrinsics, with a secondary goal of providing a tested working example program for each intrinsic
 
 [modern-fortran](https://github.com/dvalters/modern-fortran): notes and code from the Fortran Modernisation workshop, by dvalters
