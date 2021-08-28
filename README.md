@@ -516,6 +516,9 @@ recorded by a sparse regional seismograph network.
 
 [omuse](https://github.com/omuse-geoscience/omuse): Oceanographic MUltipurpose Software Environment is a package to conduct numerical experiments in oceanography and other Earth sciences.
 
+[Open-source Seismic Wave Propagation Code (OpenSWPC)](https://github.com/tktmyd/OpenSWPC): simulates seismic wave propagation by solving equations of motion with constitutive equations of elastic/viscoelastic medium by finite difference method (FDM) under message passing interface (MPI) environment in 3D and 2D (P-SV or SH) media, by Takuto Maeda.
+This package also provides a set of tools for visualizing/converting simulation output.
+
 [Optimal Retrieval of Aerosol and Cloud (orac)](https://github.com/ORAC-CC/orac): optimal estimation retrieval scheme for the estimation of aerosol and cloud properties from a wide range of visible-infrared imaging satellites, such as MODIS, AATSR, AVHRR and SEVIRI. It has been used to produce analysis-ready datasets of cloud and aerosol properties as part of the ESA CCI project and is currently supported by NCEO.
 
 [PaleoCalAdjust](https://github.com/pjbartlein/PaleoCalAdjust): accompanies this paper: Bartlein, P. J. and Shafer, S. L.: Paleo calendar-effect adjustments in time-slice and transient climate-model simulations (PaleoCalAdjust v1.0): impact and strategies for data analysis, Geosci. Model Dev., https://doi.org/10.5194/gmd-12-3889-2019, 2019.
