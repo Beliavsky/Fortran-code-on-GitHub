@@ -64,6 +64,8 @@
 
 [astro-api](https://github.com/FrankThomasTveter/astro-api): makes the astronomical calculations for yr.no, by Frank Thomas Tveter et al. The astro-api software uses the JPL ephemeride tables and the SOFA astronomical library, along with algorithms for quick and precise searches, to provide astronomical data on demand, such as sun/moon rise/set, twilight, polar day/night, moon phase, eclipse, solstice times.
 
+[astroTools](https://github.com/AstroFloyd/astroTools): command-line tools for astronomy and astrophysics, by AstroFloyd
+
 [fortran-astrodynamics](https://github.com/Yuricst/fortran-astrodynamics): astrodynamics routines by Yuricst
 
 [Fortran-Astrodynamics-Toolkit](https://github.com/jacobwilliams/Fortran-Astrodynamics-Toolkit): aims to be a comprehensive library, written in modern Fortran (Fortran 2003/2008), of all the standard orbital mechanics algorithms, by Jacob Williams
