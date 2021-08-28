@@ -1520,6 +1520,8 @@ and Andrea Rau.
 
 [Spatial Locally Weighted Regression](https://github.com/XiaosuTong/Spaloess): enhancements to the loess implementation that comes with base R, by XiaosuTong. Most of computation in FORTRAN are kept as same in loess function except the distance calculation.
 
+[statTools](https://github.com/AstroFloyd/statTools): command-line tools for simple statistics, by AstroFloyd
+
 [treat](https://github.com/plopezrios/treat): tail-regression estimator analysis toolbox to analyze samples distributed according to heavy-tailed distributions of known tail indices, by plopezrios
 
 ## Strings
