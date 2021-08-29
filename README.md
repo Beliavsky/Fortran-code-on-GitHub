@@ -1348,6 +1348,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 
 [MDCM](https://github.com/MMunibas/MDCM): Machine learning code to fit Minimal Distributed Charge Models, by Mike Devereux et al.
 
+[Parabolic two-band model Analyzer for Nonlinear electron Dynamics in Attosecond phenomena (PANDA)](https://github.com/shunsuke-sato/two_band_model): calculates electron dynamics and light-matter interactions, by Shunsuke A. Sato. It is based on a parabolic two-band model for electron structure and dynamics.
+
 [raytracer_3D](https://github.com/ceden/raytracer_3D): simulates the radiative energy transfer equation for internal gravity waves in 6 dimensions, by ceden
 
 [Semi-Lagrangian Library (SeLaLib)](https://github.com/selalib/selalib): modular library for kinetic and gyrokinetic simulations of plasmas in fusion energy devices
