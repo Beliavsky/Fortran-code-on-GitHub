@@ -1354,6 +1354,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 
 [raytracer_3D](https://github.com/ceden/raytracer_3D): simulates the radiative energy transfer equation for internal gravity waves in 6 dimensions, by ceden
 
+[Scalable Ab-initio Light–Matter simulator for Optics and Nanoscience (SALMON)](https://github.com/SALMON-TDDFT/SALMON2): software based on first-principles time-dependent density functional theory to describe optical responses and electron dynamics in matters induced by light electromagnetic fields, by Shunsuke Yamada et al.
+
 [Semi-Lagrangian Library (SeLaLib)](https://github.com/selalib/selalib): modular library for kinetic and gyrokinetic simulations of plasmas in fusion energy devices
 
 [SENSMG](https://github.com/jafavorite/SENSMG): Sensitivities of Neutron Reaction Rates, Reaction-Rate Ratios, Leakage, keff, and α Using PARTISN, by jafavorite
