@@ -1301,6 +1301,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 [Whizard-mirror](https://github.com/bijancn/Whizard-mirror): efficient calculation of multi-particle scattering cross sections and simulated event samples. Mirror of [private git](https://gitlab.tp.nt.uni-siegen.de/whizard/public)
 
 ## Physics
+[Advanced LOwer Hybrid Antenna (ALOHA)](https://github.com/jhillairet/ALOHA): coupling code for Lower Hybrid Current Drive antennas facing tokamak magnetized fusion plasma, by Julien Hillairet. This coupling code is based on the linear coupling theory.
+
 [Bose-Einstein_Condensates](https://github.com/brito-leonardo/Bose-Einstein_Condensates): solve Bose-Einstein condensates problems and related algebraic problems in quantum mechanics, with Fortran 90 and Python 3 languages, by brito-leonardo
 
 [Cartesian-coordinate Oblique-boundary Particles and Thermals In Cell (COPTIC)](https://github.com/ihutch/COPTIC):  moves particles in three dimensions of space and time (6
