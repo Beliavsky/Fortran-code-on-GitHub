@@ -1014,6 +1014,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [Finite Element Polycrystal Plasticity (FEPX)](https://github.com/acmelab-ua/FEPX): parallel finite element-based elasto-viscoplastic framework for use in modeling large deformations of polycrystalline aggregates, from acmelab-ua
 
+[GPMaterials](https://github.com/felipefr/gpmaterials): implements a rich set of finite element formulations for finite strain hyperelasticity, damage, multi-scale solid mechanics in both continuum and discrete level (truss-like network of fibres), by Felipe Figueredo Rocha
+
 [Hard-fit-by-minimization](https://github.com/LaszloSToth/Hard-fit-by-minimization): efficient program to fit a stress-strain curve by the empirical function derived from crystal plasticity, by LaszloSToth 
 
 [Nonlinear MetaMaterial MPI Solver (NM^3)](https://github.com/wonnie87/NMCube): odes and example files used in paper, "High-Performance Large-Scale Simulation of Multi-stable Metastructures", by M. Hwang, C. Scalo, and A. F. Arrieta, to be published.
