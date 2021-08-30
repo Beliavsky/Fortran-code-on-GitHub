@@ -813,6 +813,8 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 
 [library containing Some Useful Fortran Routines (libSUFR)](https://github.com/MarcvdSluys/libSUFR): code for command-line options and arguments, manipulation of dates and times,  fitting functions to data, interpolation, random number generation, sorting, solving equations, statistics, and other topics, by  Marc van der Sluys
 
+[M_CLI2](https://github.com/urbanjost/M_CLI2): cracks the command line when given a prototype string that looks very much like an invocation of the program, by urbanjost. A call to get_args(3f) or one of its variants is then made for each parameter name to set the variables appropriately in the program.
+
 [PENF](https://github.com/szaghi/PENF): Fortran (standard 2003) module useful to achieve portable codes. The module makes available portable kind-parameters and some useful procedures to deal with them
 
 [petaca](https://github.com/nncarlson/petaca): collection of modern Fortran modules that provide broadly useful capabilities -- things that the author has found himself using repeatedly across many projects. A unifying feature of the modules is their object-oriented interfaces and implementation
