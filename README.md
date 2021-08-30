@@ -598,7 +598,7 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 ## Economics
 [aimad](https://github.com/houtanb/aimad): Automatic Differentiation Applied to the Likelihood Function for Dynamic General Equilibrium Models, by houtanb. Associated with paper Bastani, Houtan and Luca Guerrieri. "On the Application of Automatic Differentiation to the Likelihood Function for Dynamic General Equilibrium Models". Advances in Automatic Differentiation, Eds. Bischof, C.H., et. al. Berlin: Springer-Verlag, 2008. 303-314.
 
-[ce-fortran](https://github.com/fabiankindermann/ce-fortran/): program and compiler Database that accompanies the book "Introduction to Computational Economcis using Fortran" (2018), by Fehr and Kindermann
+[ce-fortran](https://github.com/fabiankindermann/ce-fortran/): program and compiler Database that accompanies the book "Introduction to Computational Economics using Fortran" (2018), by Fehr and Kindermann
 
 [HANK](https://github.com/ikarib/HANK): replication of the computational algorithm for solving Heterogeneous Agent New Keynesian (HANK) model, by ikarib. The original code was written in Fortran utilizing SparseSuite library and parallelized using MPI on the cluster with 33 CPUs (Intel Xeon CPU E5-2695 v4 @ 2.10GHz) with total runtime of 1.5 hours.
 
