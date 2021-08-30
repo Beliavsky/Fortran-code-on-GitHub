@@ -428,6 +428,8 @@ nscapin
 
 [CE-QUAL-W2](https://github.com/EnvironmentalSystems/CE-QUAL-W2): two‐dimensional (2D), longitudinal/vertical, hydrodynamic water quality (WQ) model, by TSteissberg and hsteissberg. Because the model assumes lateral homogeneity, it is especially suited for relatively long and narrow waterbodies exhibiting longitudinal and vertical water quality gradients.
 
+[Chemistry Across Multiple Phases: CAMP](https://github.com/open-atmos/camp): multi-phase chemistry treatment for atmospheric models. Reference: M. Dawson, C. Guzman, J. H. Curtis, M. Acosta, S. Zhu, D. Dabdub, A. Conley, M. West, N. Riemer, and O. Jorba (2021), Chemistry Across Multiple Phases (CAMP) version 1.0: An Integrated multi-phase chemistry model, in preparation
+
 [Community Data Models for Earth Prediction Systems (CDEPS)](https://github.com/ESCOMP/CDEPS): NUOPC-compliant data components along with ESMF-based share code that enables new capabilities in selectively removing feedbacks in coupled model systems
 
 [Community Multiscale Air Quality Model (CMAQ) of US EPA](https://github.com/USEPA/CMAQ): combines current knowledge in atmospheric science and air quality modeling with multi-processor computing techniques in an open-source framework to deliver fast, technically sound estimates of ozone, particulates, toxics, and acid deposition.
