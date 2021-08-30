@@ -543,6 +543,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [pySIR](https://github.com/aasensio/pySIR): Python wrapper for the Stokes Inversion based on Response functions Fortran code by Ruiz Cobo & del Toro Iniesta (1992)
 
+[Quasi-DYNamic earthquake simulator: qdyn](https://github.com/ydluo/qdyn): boundary element software to simulate earthquake cycles (seismic and aseismic slip on tectonic faults) under the quasi-dynamic approximation (quasi-static elasticity combined with radiation damping) on faults governed by rate-and-state friction and embedded in elastic media, by Yingdi Luo et al.
+
 [REAL](https://github.com/Dal-mzhang/REAL): Rapid Earthquake Association and Location, by Dal-mzhang
 
 [Ring current Atmosphere interactions Model with Self Consistent magnetic field (B) (RAM-SCB)](https://github.com/lanl/RAM-SCB): combines a kinetic model of ring current plasma with a three dimensional force-balanced model of the terrestrial magnetic field, from lanl. The kinetic portion, RAM, solves the kinetic equation to yield the bounce-averaged distribution function as a function of azimuth, radial distance, energy and pitch angle for three ion species (H+, He+, and O+) and, optionally, electrons.
