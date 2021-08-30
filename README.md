@@ -285,6 +285,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [duo](https://github.com/Trovemaster/Duo): diatomic code for solving a fully coupled rovibronic Schroedinger equation, by Trovemaster
 
+[EMsoft](https://github.com/EMsoft-org/EMsoft): computation and visualization of scanning electron microscopy diffraction patterns, notably EBSD, ECP, TKD, and EKP, by Marc de Graef et al. In addition, there are programs for TEM defect image contrast, CBED, PED, Laue x-ray diffraction, and a new series of programs for computational polarized light microscopy.
+
 [ewald-summation](https://github.com/Jonas-Finkler/ewald-summation): efficient and easy-to-use implementation of the Ewald summation method, by Jonas-Finkler
 
 [Flexible Atomic Code (fac)](https://github.com/flexible-atomic-code/fac): software packge for the calculation of various atomic processes, by Ming Feng Gu
