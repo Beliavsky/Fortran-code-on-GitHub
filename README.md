@@ -73,6 +73,8 @@
 [libTheSky](https://github.com/MarcvdSluys/libTheSky): computes the positions and other properties of celestial bodies (Moon, planets, comets, asteroids, stars), events (e.g. 
 lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFloyd. It forms the core of the software that is used to create the Dutch popular-astronomy website http://hemel.waarnemen.com.
 
+[oorb](https://github.com/oorb/oorb): contains the statistical orbital ranging method (hereafter referred to as Ranging). Ranging is used to solve the orbital inverse problem of computing non-Gaussian orbital-element probability density functions based on input astrometry.
+
 [spacepy](https://github.com/spacepy/spacepy): Space Science library for Python, calling Fortran code - contains superposed epoch classes, drift shell tracing, access to magnetic field models, streamline tracing, bootstrap confidence limits, time and coordinate conversions, etc.
 
 [starlink](https://github.com/Starlink/starlink): astronomical data processing
