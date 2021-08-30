@@ -1263,6 +1263,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 [Simple OpenACC Fortran Examples](https://github.com/jeng1220/openacc_fortran_examples): hosts fundamental, but useful examples, by jeng1220. Each example is just a few dozen lines of code.
 
 ## Partial Differential Equations
+[coral](https://github.com/BenMql/coral): spectral PDEs solver for the plane-layer geometry, written in modern Fortran and highly scalable, by BenMql. The name comes from the initial motivation, which was Convection in Rapidly rotating Layers (even though the code has now a much more general scope).
+
 [fishpack](https://github.com/jlokimlin/fishpack): collection of Fortran programs and subroutines that solve 2nd- and 4th-order finite difference approximations to separable elliptic Partial Differential Equations (PDEs), by jlokimlin and t-bltg
 
 [FOODIE, Fortran Object-Oriented Differential-equations Integration Environment](https://github.com/Fortran-FOSS-Programmers/FOODIE): numerical integration of Differential-equations such as Ordinary and Partial Differential Equations (ODE, PDE), from Fortran-FOSS-Programmers. FOODIE is tailored to the systems arising from the semi-discretization of PDEs, but it is not limited to them.
