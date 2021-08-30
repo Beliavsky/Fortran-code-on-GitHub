@@ -1120,6 +1120,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [polylogarithm](https://github.com/Expander/polylogarithm): C, C++ and Fortran implementations of various polylogarithms, including the real and complex dilogarithm, trilogarithm, and standard Clausen functions, by Alexander Voigt. The implementations have been fully tested against the literature and many other implementations and are highly optimized for fast numerical evaluation.
 
+[roots-fortran](https://github.com/jacobwilliams/roots-fortran): library for finding the roots of continuous scalar functions of a single real variable, by Jacob Wiliams
+
 [rpn-calc-fortran](https://github.com/scivision/rpn-calc-fortran): Fortran 2018 Reverse Polish Notation (RPN) calculator from scivision. Over 100 functions not in standard Fortran
 
 [SciFortran](https://github.com/QcmPlab/SciFortran): A library of fortran modules and routines for scientific calculations (*in a way* just like scipy for python), from QcmPlab
