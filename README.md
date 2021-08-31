@@ -424,6 +424,8 @@ nscapin
 
 [Bergen Layered Ocean Model (BLOM)](https://github.com/NorESMhub/BLOM): ocean component of the Norwegian Earth System Model. Includes the ocean biogeochemistry model iHAMOCC.
 
+[Calypso](https://github.com/geodynamics/calypso): performs magnetohydrodynamics (MHD) simulation in a rotating spherical shell, modeled as Boussinesq fluid driven by thermal or compositional buoyancy, by Hiro Matsui
+
 [Catchment-based Macro-scale Floodplain (CaMa-Flood)](https://github.com/global-hydrodynamics/CaMa-Flood_v4): simulates the hydrodynamics in continental-scale rivers, from global-hydrodynamic. The entire river networks of the world are discretized to the hydrological units named unit-catchments for achieving efficient flow computation at the global scale.
 
 [CE-QUAL-W2](https://github.com/EnvironmentalSystems/CE-QUAL-W2): two‐dimensional (2D), longitudinal/vertical, hydrodynamic water quality (WQ) model, by TSteissberg and hsteissberg. Because the model assumes lateral homogeneity, it is especially suited for relatively long and narrow waterbodies exhibiting longitudinal and vertical water quality gradients.
