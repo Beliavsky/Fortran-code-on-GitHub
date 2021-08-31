@@ -845,6 +845,8 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 
 [qContainers](https://github.com/darmar-lt/qcontainers): container library for Fortran language. It enables to store any internal Fortran data type and any derived data type to the container. It implements containers for key/value pairs: tree table and hash table, and containers for objects: list and vector.
 
+[sourcery](https://github.com/sourceryinstitute/sourcery): utilities such as array functions, assertions, emulated intrinsic functions: findloc, emulated collective subroutines: co_sum, co_broadcast, user-defined collective subroutines: co_all, string functions, and classes for parallel data partitioning and gathering and the (Co-)Object pattern abstract parent, by Damian Rouson and Brad Richardson
+
 [stdlib](https://github.com/fortran-lang/stdlib): utilities, algorithms, and mathematics codes for a Fortran Standard Library, by fortran-lang
 
 [UniShellect](https://github.com/Lateralus138/UniShellect): parses a JSON config file and loads a highly customizable menu of shells, interpreters, files, commands and possible arguments into any command line interface, by Lateralus138. This is inspired by the "hyper-shellect" plug-in for the "Hyper" terminal.
