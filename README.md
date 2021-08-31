@@ -464,6 +464,8 @@ nscapin
 
 [FE-Project](https://github.com/ywkawai/FE-Project): library for dynamical cores of atmosphere and ocean models with discontinuous Galerkin finite element method, by ywkawai
 
+[flexwin](https://github.com/geodynamics/flexwin): automates the time-window selection problem for seismologists, Alessia Maggi. It operates on pairs of observed and synthetic single component seismograms, defining windows that cover as much of a given seismogram as possible, while avoiding portions of the waveform that are dominated by noise.
+
 [FMTT_Parallel](https://github.com/nqdu/FMTT_Parallel): parallel version of [FMTT](http://www.iearth.org.au/codes/FMTT): Fast Marching Teleseismic Tomography, from nqdu
 
 [fortrangis](https://github.com/ARPA-SIMC/fortrangis): collection of Fortran interfaces to some common Open Source GIS (Geographic Information System) software libraries, plus some more Fortran-specific tools, from ARPA-SIMC. The libraries interfaced at the moment are Shapelib, GDAL, Proj and ReadOSM.
