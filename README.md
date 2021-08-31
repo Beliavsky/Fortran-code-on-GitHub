@@ -510,6 +510,8 @@ recorded by a sparse regional seismograph network.
 
 [Millennial](https://github.com/email-clm/Millennial): code related to 2018 paper "The millennial model: in search of measurable pools and transformations for modeling soil carbon in the new century", by Abramoff, R. et al., Biogeochemistry, 137(1-2), 51-71. doi:https://doi.org/10.1007/s10533-017-0409-7
 
+[MINEOS](https://github.com/EHopper/MINEOS): surface wave phase velocity and kernel calculations, by Colleen Dalton and Zach Eilon
+
 [mizuRoute](https://github.com/NCAR/mizuRoute): post-processor of runoff output from a hydrologic model or Land surface model to produce streamflow estimates in the river network provided by a user, from NCAR. The tool was developed for the large scale, network based river routing (e.g., river network over contiguous United States), but works for gridded river network as well.
 
 [MODFLOW 6: USGS Modular Hydrologic Model](https://github.com/MODFLOW-USGS/modflow6): accurately, reliably, and efficiently simulates groundwater flow. With time, growing interest in surface and groundwater interactions, local refinement with nested and unstructured grids, karst groundwater flow, solute transport, and saltwater intrusion, has led to the development of numerous MODFLOW versions.
