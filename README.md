@@ -545,6 +545,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [plantFEM](https://github.com/kazulagi/plantFEM): plant/farming simulator based on Finite Element Method, which targets crops in fields, from kazulagi. This software provides multi-physical simulations of agriculture for canopies, plants, and organs for farmers, breeders, and agronomists.
 
+[Plasti](https://github.com/geodynamics/plasti): 2-D ALE (Arbitrary Lagrangian Eulerian) code by Sean Willett and Chris Fuller. [Reference](https://pubs.geoscienceworld.org/gsa/geology/article-abstract/34/2/65/129453/Formation-of-forearc-basins-and-their-influence-on):  Fuller, C.W., Willett, S.D. and Brandon, M.T., 2006. Formation of forearc basins and their influence on subduction zone earthquakes. Geology, 34: 65-68.
+
 [POLAN](https://github.com/space-physics/POLAN): calculate real-height profiles from chirp ionosonde data from the ionosphere, by J. E. Titheridge, updated by Michael Hirsch
 
 [PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran, from stfc
