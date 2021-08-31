@@ -420,6 +420,8 @@ nscapin
 
 [atmos](https://github.com/VirtualPlanetaryLaboratory/atmos): package containing two atmospheric models, along with scripts to couple them together, from VirtualPlanetaryLaboratory
 
+[AxiSEM](https://github.com/geodynamics/axisem): parallel spectral-element method to solve 3D wave propagation in a sphere with axisymmetric or spherically symmetric visco-elastic, acoustic, anisotropic structures, by Martin van Driel et al.
+
 [axitra](https://github.com/coutanto/axitra): numerical modelling of seismic wave propagation in 3D with flat layer models, associated with the following [paper](https://academic.oup.com/gji/article/128/3/676/675790): F. Cotton and Coutant O., 1997, Dynamic stress variations due to shear faults in a plane-layered medium, GEOPHYSICAL JOURNAL INTERNATIONAL,Vol 128, 676-688
 
 [Bergen Layered Ocean Model (BLOM)](https://github.com/NorESMhub/BLOM): ocean component of the Norwegian Earth System Model. Includes the ocean biogeochemistry model iHAMOCC.
