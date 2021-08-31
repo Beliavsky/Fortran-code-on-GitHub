@@ -1386,6 +1386,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 
 [STELLOPT](https://github.com/PrincetonUniversity/STELLOPT): stellarator optimization code, from PrincetonUniversity. A stellarator is a plasma device that relies primarily on external magnets to confine a plasma.
 
+[streamer_1d](https://github.com/jannisteunissen/streamer_1d): 1D discharge simulations with a particle-in-cell or fluid model, by Jannis Teunissen
+
 [tbcode](https://github.com/srigas/tbcode): simulate the effects of impurities embedded in or adsorbed on superconducting hosts, by srigas
 
 [Themis](https://github.com/colombarifm/themis): statistical mechanics software designed to obtain the association thermodynamics of two structures (ions, molecules, crystals, nanoparticles, etc), by colombarifm. It generates a configurational partition function by systematically sampling the phase space using discrete grids to perform translations and rotations of one structure around another.
