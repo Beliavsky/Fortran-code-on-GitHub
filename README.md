@@ -244,6 +244,10 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [RegCM](https://github.com/ictp-esp/RegCM): Regional Climate Model system RegCM, originally developed at the National Center for Atmospheric Research (NCAR), is maintained in the Earth System Physics (ESP) section of the ICTP.
 
+[Regional Atmospheric Modeling System (RAMS)](https://github.com/RAMSmodel/RAMS): highly versatile numerical code
+developed by several groups over the years, including the scientists at Colorado State University, the ASTER division of Mission Research Corporation, and ATMET. RAMS is used for
+simulating and forecasting meteorological phenomena. 
+
 [RTE+RRTMGP](https://github.com/earth-system-radiation/rte-rrtmgp) computes radiative fluxes in planetary atmospheres, from earth-system-radiation. RTE+RRTMGP is described in a paper in Journal of Advances in Modeling Earth Systems.
 
 [Scalable Computing for Advanced Library and Environment (SCALE)](https://github.com/scale-met/scale): basic library for weather and climate model of the earth and planets aimed to be widely used in various models. The SCALE library is developed with co-design by researchers of computational science and computer science.
