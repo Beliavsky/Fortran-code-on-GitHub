@@ -1580,6 +1580,8 @@ and Andrea Rau.
 
 [gslib2.0: Geostatistical Software Library](https://github.com/exepulveda/gslib2.0): aims to create a modern version of the original GSLIB source code, by exepulveda
 
+[inference](https://github.com/tloredo/inference): Python modules for statistical inference, including the Parametric Inference Engine (PIE), with underlying Fortran code, by Tom Loredo
+
 [KronLinInv](https://github.com/inverseproblem/KronLinInv): Kronecker-product-based linear inversion of geophysical (or other kinds of) data under Gaussian and separability assumptions. The code computes the posterior mean model and the posterior covariance matrix (or subsets of it) in an efficient manner (parallel algorithm) taking into account 3-D correlations both in the model parameters and in the observed data.
 
 [libdierckx](https://github.com/DaanVanVugt/libdierckx): collection of FORTRAN programs for curve and surface fitting with splines and tensor product splines. Features included are automatic knot selection, error smoothing and data reduction.
