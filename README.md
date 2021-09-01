@@ -1271,6 +1271,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [Coarray Fortran Intel Tutorial](https://github.com/Beliavsky/coarray_fortran_intel_tutorial): examples from Intel Fortran coarray [tutorial](https://software.intel.com/content/www/us/en/develop/documentation/fortran-compiler-coarray-tutorial/top.html)
 
+[concatenate_netcdf](https://github.com/weather4evr/concatenate_netcdf): concatenate netcdf files from multiple processors into one file with MPI Fortran, by Craig Schwartz
+
 [CUDA-Fortran-Book](https://github.com/bakmano737/CUDA-Fortran-Book): example codes included in this directory are a portion of the code samples
 from the companion website to the book [CUDA Fortran for Scientists and Engineers](http://store.elsevier.com/product.jsp?isbn=9780124169708)
 
