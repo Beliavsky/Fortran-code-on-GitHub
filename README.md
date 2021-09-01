@@ -1414,6 +1414,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 
 [raytracer_3D](https://github.com/ceden/raytracer_3D): simulates the radiative energy transfer equation for internal gravity waves in 6 dimensions, by ceden
 
+[scadyn](https://github.com/jherrane/scadyn): code for scattering dynamics calculations, which utilizes a volume integral equation solution for the T-matrices of non-spherical scatterers, by Joonas Herranen. The main motivations for the development of this code are the study of grain alignment dynamics in interstellar environments and optical tweezers and traps.
+
 [Scalable Ab-initio Light–Matter simulator for Optics and Nanoscience (SALMON)](https://github.com/SALMON-TDDFT/SALMON2): software based on first-principles time-dependent density functional theory to describe optical responses and electron dynamics in matters induced by light electromagnetic fields, by Shunsuke Yamada et al.
 
 [Semi-Lagrangian Library (SeLaLib)](https://github.com/selalib/selalib): modular library for kinetic and gyrokinetic simulations of plasmas in fusion energy devices
