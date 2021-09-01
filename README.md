@@ -470,6 +470,8 @@ nscapin
 
 [DSM Kernel Suite](https://github.com/IPGP/DSM-Kernel): calculates 3D finite frequency Fréchet sensitivity kernels (or 3D waveform partial derivatives) for 1D reference Earth models using Direct Solution Method, by Nobuaki Fuji et al. It consists of forward and back propagated strain Green's function calculation in a 2D plane, cross correlations of forward and back propagated wavefields to obtain sensitivity kernels.
 
+[EcoSLIM](https://github.com/reedmaxwell/EcoSLIM): Lagrangian, particle-tracking code that simulates advective and diffusive movement of water parcels, by Reed Maxwell et al. This code can be used to simulate age, diagnose travel times, source water composition and flowpaths.
+
 [European Regional Seas Ecosystem Model (ERSEM)](https://github.com/pmlmodelling/ersem): marine ecosystem model that describes the biogeochemical cycling of carbon, nitrogen, phosphorus, silicon, oxygen and iron through pelagic and benthic ecosystems.
 
 [fd3d_tsn_pt](https://github.com/fgallovic/fd3d_tsn_pt): earthquake dynamic source inversion by parallel tempering, by fgallovic and valelu
