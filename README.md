@@ -1533,6 +1533,8 @@ This algorithm is well suited for parallel computing as it can initialize many l
 
 [KOMODO](https://github.com/imronuke/KOMODO): nuclear reactor simulator that solves both static and transient neutron diffusion equation for one, two or three dimensional reactor problems in Cartesian geometry, from imronuke. Currently, by default, KOMODO uses Semi-Analytic Nodal Method (SANM) to spatially discretise the neutron diffusion equation.
 
+[NJOY2016](https://github.com/njoy/NJOY2016): modular computer code designed to read evaluated data in ENDF format, transform the data in various ways, and output the results as libraries designed to be used in various applications. Each module performs a well defined processing task.
+
 [PointKinetics](https://github.com/KarolLuszczek/PointKinetics): point-kinetics calculation of the nuclear reactor cores, by KarolLuszczek
 
 [ReactorHeatTransfer](https://github.com/rwalden1993/ReactorHeatTransfer): time-dependent heat transfer Fortran code used to model a 4 loop Westinghouse PWR primary coolant loop, by rwalden1993
