@@ -90,6 +90,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [Compact Object Synthesis and Monte Carlo Investigation Code (COSMIC)](https://github.com/COSMIC-PopSynth/COSMIC): rapid binary population synthesis suite with a special purpose of generating realistic compact binary populations. COSMIC can also be used to evolve binaries with BSE in a python environment.
 
+[Cosmology Object Oriented Package (COOP)](https://github.com/zqhuang/COOP): Reference: [Observational effects of a running Planck mass](https://arxiv.org/abs/1511.02808), by Zhiqi Huang 
+
 [CosmoSIS](https://cosmosis.readthedocs.io/en/latest/): cosmological parameter estimation code, by joezuntz et al. It is a framework for structuring cosmological parameter estimation with a focus on flexibility, re-usability, debugging, verifiability, and code sharing in the form of calculation modules.
 
 [DYnamics, Age and Metallicity Indicators Tracing Evolution (DYNAMITE)](https://github.com/dynamics-of-stellar-systems/dynamite_release): Schwarzschild- and stellar-population modelling of stellar systems
