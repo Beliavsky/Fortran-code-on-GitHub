@@ -120,6 +120,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [MCMax3D](https://github.com/michielmin/MCMax3D): Monte Carlo radiative transfer and disk modelling tool, described [here](https://www.exoclouds.com/Software/). It sets up a disk structure using physical processes or a parameterised structure.
 
+[Microphysics](https://github.com/starkiller-astro/Microphysics): collection of astrophysical microphysics routines for stellar explosions, by Michael Zingale et al.
+
 [Modules for Experiments in Stellar Astrophysics (MESA)](https://github.com/MESAHub/mesa): allow users to run experiments in stellar evolution. Stellar evolution calculations (i.e., stellar evolution tracks and detailed information about the evolution of internal and global properties) are a basic tool that enable a broad range of research in astrophysics. 
 
 [msg](https://github.com/rhdtownsend/msg): Multidimensional Spectral Grids -- project for evaluating radiant properties of stellar atmospheres by rhdtownsend
