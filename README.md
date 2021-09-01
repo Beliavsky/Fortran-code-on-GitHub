@@ -518,6 +518,8 @@ slip models, using the solutions derived in Okada (1992) and in Meade (2007).
 [hypoellipse](https://github.com/INGV/hypoellipse): determines hypocenters and magnitudes of near regional earthquakes and the ellipsoids that enclose the 68-percent confidence volumes of the computed hypocenters. HYPOELLIPSE was developed to meet the needs of U.S. Geological Survey (USGS) scientists studying crustal and sub-crustal earthquakes
 recorded by a sparse regional seismograph network. 
 
+[IBMlib](https://github.com/IBMlib/IBMlib): individual-based modelling framework able to assess marine habitat connectivity. Eggs/larvae/juvenile/adults may be modelled in order to analyze recruitment impact of marine protected areas.
+
 [ICM_Hydro](https://github.com/CPRA-MP/ICM_Hydro): code corresponding to paper "Ecohydrology component of Louisiana’s 2012 Coastal Master Plan: mass-balance compartment model"
 
 [Implicit Earth system Model of Intermediate Complexity (I-EMIC)](https://github.com/nlesc-smcm/i-emic): parallel Earth system model that allows the use of large-scale dynamical systems techniques, by Erik Mulder et al. The term 'implicit' refers to this model's main design feature: all model equations and constraints are solved simultaneously.
