@@ -534,6 +534,8 @@ recorded by a sparse regional seismograph network.
 
 [illumina](https://github.com/aubema/illumina): Monte Carlo based radiative transfer model aimed to simulate the artificial light at night propagation into the environment, by Alexandre Simoneau et al. The model typically uses satellite data and locally acquired data as inputs.
 
+[IMEX_SfloW2D](https://github.com/demichie/IMEX_SfloW2D): models shallow water granular flows over digital elevation models (DEMs) of natural terrain, with the friction forces described by the Voellmy-Salm rheology, by Mattia de' Michieli Vitturi. The system is described by an hyperbolic system of partial differential equations with relaxation and source terms.
+
 [Implicit Earth system Model of Intermediate Complexity (I-EMIC)](https://github.com/nlesc-smcm/i-emic): parallel Earth system model that allows the use of large-scale dynamical systems techniques, by Erik Mulder et al. The term 'implicit' refers to this model's main design feature: all model equations and constraints are solved simultaneously.
 
 [Isca](https://github.com/ExeClim/Isca): framework for the idealized modelling of the global circulation of planetary atmospheres at varying levels of complexity and realism, from the University of Exeter. The framework is an outgrowth of models from GFDL designed for Earth's atmosphere, but it may readily be extended into other planetary regimes.
