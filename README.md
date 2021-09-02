@@ -581,6 +581,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [Plasti](https://github.com/geodynamics/plasti): 2-D ALE (Arbitrary Lagrangian Eulerian) code by Sean Willett and Chris Fuller. [Reference](https://pubs.geoscienceworld.org/gsa/geology/article-abstract/34/2/65/129453/Formation-of-forearc-basins-and-their-influence-on):  Fuller, C.W., Willett, S.D. and Brandon, M.T., 2006. Formation of forearc basins and their influence on subduction zone earthquakes. Geology, 34: 65-68.
 
+[PLUME-MoM-TSM](https://github.com/demichie/PLUME-MoM-TSM): solves the equations for a steady-state integral volcanic plume model, describing the rise in the atmosphere of a mixture of gas and volcanic ash during an eruption, by Mattia de' Michieli Vitturi. The model describes the steady-state dynamics of a plume in a 3-D coordinate system, and the two-size moment (TSM) method is adopted to describe changes in grain-size distribution along the plume associated with particle loss from plume margins and with particle aggregation. 
+
 [POLAN](https://github.com/space-physics/POLAN): calculate real-height profiles from chirp ionosonde data from the ionosphere, by J. E. Titheridge, updated by Michael Hirsch
 
 [PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran, from stfc
