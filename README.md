@@ -468,6 +468,8 @@ nscapin
 
 [CICE Consortium sea-ice model](https://github.com/CICE-Consortium/CICE): computationally efficient model for simulating the growth, melting, and movement of polar sea ice
 
+[Data-Interpolating Variational Analysis (DIVA)](https://github.com/gher-ulg/DIVA): spatial interpolation of data (analysis) in an optimal way, comparable to optimal interpolation (OI), by Sylvain Watelet et al. In comparison to OI, it takes into account coastlines, sub-basins and advection. 
+
 [defmod-swpc](https://github.com/Chunfang/defmod-swpc): fault rupture (defmod) and wave propagation (swpc), by Chunfang
 
 [dep](https://github.com/dailyerosion/dep): Iowa State University Daily (Soil) Erosion Project
