@@ -1622,6 +1622,8 @@ and Andrea Rau.
 
 [SLICE](https://github.com/ericlindsey/slice): efficient N-Dimensional Monte Carlo inversion algorithm, by ericlindsey 
 
+[SparseReg](https://github.com/Hua-Zhou/SparseReg): Matlab toolbox for sparse regression calling Fortran code, by Hua-Zhou Hua Zhou and Brian Gaines
+
 [Spatial Locally Weighted Regression](https://github.com/XiaosuTong/Spaloess): enhancements to the loess implementation that comes with base R, by XiaosuTong. Most of computation in FORTRAN are kept as same in loess function except the distance calculation.
 
 [statTools](https://github.com/AstroFloyd/statTools): command-line tools for simple statistics, by AstroFloyd
