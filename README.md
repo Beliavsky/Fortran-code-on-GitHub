@@ -1033,6 +1033,8 @@ generalized eigenvalue problems, from NLAFET
 
 [linalg](https://github.com/jchristopherson/linalg): linear algebra library that provides a user-friendly interface to several BLAS and LAPACK routines, by jchristopherson
 
+[LinAlgf90](https://github.com/Takayuki-Miyagi/LinAlgf90): modern Fortran wrappers for the eigenvalue functionality of Lapack, by Takayuki Miyagi
+
 [M_blas](https://github.com/urbanjost/M_blas): Fortran BLAS library implemented as a free-format module, by urbanjost
 
 [M_LA](https://github.com/urbanjost/M_LA): small collection of routines primarily associated with linear algebra, by urbanjost
