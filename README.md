@@ -253,6 +253,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [MITgcm](https://github.com/MITgcm/MITgcm): A numerical model designed for study of the atmosphere, ocean, and climate, MITgcm’s (General Circulation Model) flexible non-hydrostatic formulation enables it to efficiently simulate fluid phenomena over a wide range of scales; its adjoint capabilities enable it to be applied to sensitivity questions and to parameter and state estimation problems.
 
+[Model for Prediction Across Scales (MPAS)](https://github.com/MPAS-Dev/MPAS-Model): develops atmosphere, ocean, and other earth-system simulation components for use in climate, regional climate, and weather studies. The primary development partners are the climate modeling group at Los Alamos National Laboratory (COSIM) and the National Center for Atmospheric Research.
+
 [NoahMP](https://github.com/ESMWG/NoahMP): Noah with multiparameterization options (NoahMP) land surface model, from ESMWG
 
 [pytdlpack](https://github.com/eengl/pytdlpack): Python interface for reading and writing TDLPACK data, by eengl
