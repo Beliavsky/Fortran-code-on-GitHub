@@ -1398,6 +1398,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 
 [dftatom: Routines for Radial Integration of Dirac, Schrödinger, and Poisson Equations](https://github.com/certik/dftatom): implements accurate and efficient radial Schrödinger and Dirac shooting-method solvers. Detailed description of methods, convergence and implementation is in the following article: Ondřej Čertík, John E. Pask, Jiří Vackář, dftatom: A robust and general Schrödinger and Dirac solver for atomic structure calculations, Computer Physics Communications, Volume 184, Issue 7, July 2013, Pages 1777-1791, ISSN 0010-4655, 10.1016/j.cpc.2013.02.014. Preprint: arXiv:1209.1752.
 
+[DSLEAP](https://github.com/Jonathan271828/DSLEAP): algorithms for determining lattice oscillations. [Reference](https://arxiv.org/abs/2101.06099): "Anharmonic lattice dynamics in large thermodynamic ensembles with machine-learning force fields: the breakdown of the phonon quasiparticle picture in CsPbBr3", by Jonathan Lahnsteiner and Menno Bokdam
+
 [EDIPIC-2D](https://github.com/PrincetonUniversity/EDIPIC-2D): 2D version of [EDIPIC](https://github.com/PrincetonUniversity/EDIPIC), a particle-in-cell code developed for low temperature plasma applications, by Dmytro Sydorenko et al..
 
 [ElectroStatic Vlasov-Maxwell (ESVM)](https://github.com/michaeltouati/ESVM): 1D-1V Vlasov-Maxwell Fortran code parallelized using OpenMP and developed for an educational purpose as well as for testing linear finite volume numerical advection schemes such as the donor cell, the Lax-Wendroff, the beam warming or the Fromm method and non-linear ones such as the minmod, the superbee, the Van Leer, the MUSCL1 or the MUSCL2 method, by michaeltouati and nzeal
