@@ -384,6 +384,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [lbm2d_opencl](https://github.com/LKedward/lbm2d_opencl): D2Q9 BGK Lattice Boltzmann code written in OpenCL and Modern Fortran, by LKedward
 
+[MagIC](https://github.com/magic-sph/magic): simulates fluid dynamics in a spherical shell. MagIC solves for the Navier-Stokes equation including Coriolis force, optionally coupled with an induction equation for Magneto-Hydro Dynamics (MHD), a temperature (or entropy) equation and an equation for chemical composition under both the anelastic and the Boussinesq approximations.
+
 [MF-LBM](https://github.com/lanl/MF-LBM): Portable, Scalable and High-performance Lattice Boltzmann Code for DNS of Flow in Porous Media, from LANL
 
 [Multi-component Flow Code (MFC)](https://github.com/ComputationalFlowPhysics/MFC-Caltech): parallel simulation software for multi-component, multi-phase, and bubbly flows, by Spencer Bryngelson et al.
