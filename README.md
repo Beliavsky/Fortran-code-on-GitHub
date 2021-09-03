@@ -1000,6 +1000,8 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 
 [arpack-ng](https://github.com/opencollab/arpack-ng): collection of Fortran77 subroutines designed to solve large scale eigenvalue problems, from opencollab
 
+[ARPACK_PARPACK](https://github.com/KingJGod/ARPACK_PARPACK): solves large eigenvalue problems in double precision in standard Fortran 90, by KingJGod
+
 [bddcml](https://github.com/sistek/bddcml): massively parallel solver of systems of linear equations using Multilevel Balancing Domain Decomposition based on Constraints (BDDC), by sistek
 
 [ButterflyPACK](https://github.com/liuyangzhuan/ButterflyPACK): software for rapidly solving large-scale dense linear systems that exhibit off-diagonal rank-deficiency, by liuyangzhuan
