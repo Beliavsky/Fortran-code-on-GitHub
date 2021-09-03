@@ -113,6 +113,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [High-Altitude to Space Transport Estimator (HASTE)](https://github.com/wtdailey/HASTE): high fidelity Monte Carlo code written in modern Fortran for estimating the radiation field seen by a space-based detector from a point source in or above the atmosphere, by wtdailey. The HASTE code includes models for many of the special features of this air-to-space transport problem that are not modeled, or only partially modeled, in other transport codes. 
 
+[HMcode](https://github.com/alexander-mead/HMcode): augmented halo model for accurate non-linear matter power spectrum calculations, by Alexander Mead and Tilman Troester.
+
 [Just Another Vehicle for Estimating Lags In Nuclei (JAVELIN)](https://github.com/nye17/javelin): version of the SPEAR algorithm written in Python to provide more flexibility in both functionality and visualization. One can use JAVELIN to model quasar variability using different covariance functions (Zu et al. 2013), and measure emission line lags using either spectroscopic light cruves (Zu et al. 2011) or photometric light curves (Zu et al. 2016).
 
 [kcarta_gen](https://github.com/sergio66/kcarta_gen): fast, accurate, easy-to-use pseudo-monochromatic radiative transfer code, by sergio66
