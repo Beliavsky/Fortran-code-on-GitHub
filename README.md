@@ -147,8 +147,6 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [riaf-sed](https://github.com/rsnemmen/riaf-sed): computes spectral energy distributions of radiatively inefficient accretion flows (RIAFs) around black holes, by rsnemmen
 
-[spacepy](
-
 [splash](https://github.com/danieljprice/splash): visualisation tool for Smoothed Particle Hydrodynamics (SPH) simulations in one, two and three dimensions, developed mainly for astrophysics, by Daniel Price
 
 [starsmasher](https://github.com/jalombar/starsmasher): smoothed particle hydrodynamics code for smashing stars (and planets), by jalombar
