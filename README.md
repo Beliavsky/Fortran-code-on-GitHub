@@ -1332,6 +1332,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [OpenCoarrays](https://github.com/sourceryinstitute/OpenCoarrays): parallel application binary interface for Fortran 2018 compilers, from sourceryinstitute
 
+[Particle-In-Cell Scalable Application Resource (PICSAR)](https://github.com/ECP-WarpX/picsar): high performance repository intended to help scientists porting their Particle-In-Cell (PIC) codes to the next generation of exascale computers. PICSAR exploits the three levels of parallelism that will be required to achieve good performances on future architectures: distributed memory parallelization (internode), shared memory parallelization (intranode) and vectorization.
+
 [rwlock](https://github.com/kc9jud/rwlock): simple readers-writer lock in Fortran using OpenMP atomic constructs, by kc9jud. This can be used to protect a memory location which may be read by many threads simultaneously, but only modified by a single thread.
 
 [Simple OpenACC Fortran Examples](https://github.com/jeng1220/openacc_fortran_examples): hosts fundamental, but useful examples, by jeng1220. Each example is just a few dozen lines of code.
