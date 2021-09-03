@@ -149,6 +149,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [splash](https://github.com/danieljprice/splash): visualisation tool for Smoothed Particle Hydrodynamics (SPH) simulations in one, two and three dimensions, developed mainly for astrophysics, by Daniel Price
 
+[Starlib: Thermonuclear Rate Library](https://github.com/Starlib/Rate-Library): library of thermonuclear reaction and laboratory weak interaction rates. It can be used for studies of stellar models and nucleosynthesis.
+
 [starsmasher](https://github.com/jalombar/starsmasher): smoothed particle hydrodynamics code for smashing stars (and planets), by jalombar
 
 [SWMF](https://github.com/MSTEM-QUDA/SWMF): Space Weather Modeling Framework is a software framework that provides a common operating environment for the various modeling components included. Each of the components models particular aspects of space weather (sun, heliosphere, magnetosphere, etc) and the various commands allow you to control how those models run and interact with each other.
