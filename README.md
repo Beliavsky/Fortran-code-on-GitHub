@@ -315,6 +315,8 @@ simulating and forecasting meteorological phenomena.
 [Fermi-orbital descriptor Monte-Carlo (fodMC)](https://github.com/pyflosic/fodMC): generator for Fermi-orbital descriptor (FOD) positions
 to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) method, described in paper [Interpretation and automatic generation of Fermi-orbital descriptors](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.26062), S. Schwalbe, K. Trepte, et al., Journal of Computational Chemistry, vol. 40, pp. 2843-2857, 2019    
 
+[FREZCHEM](https://github.com/MarcNeveu/frezchem): includes chloride, bromide, perchlorate, nitrate, sulfate, and bicarbonate-carbonate salts, strong acid chemistry, ferrous and ferric iron chemistry, aluminum and silicon chemistries, ammonia and ammonium chemistries, methane, ethane, and propane chemistries, and gas hydrate chemistry, by Giles Marion. This version includes both temperature and pressure dependencies.
+
 [HFB](https://github.com/knappf/HFB): Hartree-Fock-Bogolyubov code for (hyper)nuclear structure calculations (version by P. Vesely)
 
 [HICOLM: Multi-Methods for Molecules and Condensed Systems](https://github.com/flavianowilliams/HICOLM): molecular modelling of condensed systems. Reference: F. W. Fernandes, HICOLM: High-Performance Platform of Physical Simulations by Using Low Computational Cost Methods. doi: 10.22456/2175-2745.92486.
