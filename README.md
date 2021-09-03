@@ -981,6 +981,8 @@ file wrapper functions, parallel wrapper functions, math utilities, a lightweigh
 
 [fortran-rbf](https://github.com/dongli/fortran-rbf): implementation of radial basis functions (RBF), by dongli
 
+[NdSpline](https://github.com/Takayuki-Miyagi/NdSpline): multidimensional spline interpolation based on the B-spline method, by Takayuki Miyagi. For details, see G. D. Knott, [Interpolating cubic splines](https://www.springer.com/us/book/9781461270928), Springer 2000.
+
 [PCHIP](https://github.com/jacobwilliams/PCHIP): piecewise cubic Hermite interpolation of data, by Jacob Williams. It features software to produce a monotone and "visually pleasing" interpolant to monotone data.
 
 [regridpack](https://github.com/jacobwilliams/regridpack): routines for interpolating values between one-, two-, three-, and four-dimensional arrays defined on uniform or nonuniform orthogonal grids, from Jacob Williams
