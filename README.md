@@ -853,6 +853,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [Fortran Template Library (FTL)](https://github.com/SCM-NV/ftl): generic containers, versatile algorithms, easy string manipulation, and more
 
+[FortranUtilities](https://github.com/ecasglez/FortranUtilities): functions for strings, numbers, precision, statistics and files, by Emilio Castro
+
 [fortran-utils](https://github.com/certik/fortran-utils): Various utilities for Fortran programs, including types, constants, sorting, saving/loading 2D arrays, meshes, cubic splines, saving/loading PPM images, Lapack interface, HDF5 interface, special functions, and optimization, by Ondrej Certik et al.
 
 [ForUtils](https://github.com/cmbant/forutils): Fortran 2008 utility functions and reusable classes, by cmbant
