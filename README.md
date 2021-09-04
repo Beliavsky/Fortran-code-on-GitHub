@@ -1526,6 +1526,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 
 [LBNL-AMO-MCTDHF](https://github.com/LBNL-AMO-MCTDHF/V1): suite of codes for Multiconfiguration Time-Dependent Hartree-Fock applied to ultrafast laser dynamics of atoms and molecules. It calculates nonadiabatic electronic and nuclear wave functions for the nonrelativistic Schrödinger equation.
 
+[Merced Quantum Chemistry Package (mqcPack)](https://github.com/MQCPack/mqcPack): objects and procedures to streamline develoments of quantum chemical methodologies, by Lee M. Thompson et al. MQC is built using object-orientated Fortran
+
 [molgw](https://github.com/bruneval/molgw): accurate many-body perturbation theory calculations of the electronic structure of molecules, by bruneval
 
 [MuST](https://github.com/mstsuite/MuST): Multiple Scattering Theory code for first principles calculations, from mstsuite. Ab initio electronic structure calculation software package, with petascale and beyond computing capability, for the first principles study of quantum phenomena in disordered materials.
