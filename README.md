@@ -1463,6 +1463,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 
 [Parabolic two-band model Analyzer for Nonlinear electron Dynamics in Attosecond phenomena (PANDA)](https://github.com/shunsuke-sato/two_band_model): calculates electron dynamics and light-matter interactions, by Shunsuke A. Sato. It is based on a parabolic two-band model for electron structure and dynamics.
 
+[Quantum Annealing Machine Emulator](https://github.com/camsenec/qa-emulator): quantum annealing simulation on SpinGlass model using Path Integral Monte Carlo method, by Tomoya Tanaka
+
 [raytracer_3D](https://github.com/ceden/raytracer_3D): simulates the radiative energy transfer equation for internal gravity waves in 6 dimensions, by ceden
 
 [scadyn](https://github.com/jherrane/scadyn): code for scattering dynamics calculations, which utilizes a volume integral equation solution for the T-matrices of non-spherical scatterers, by Joonas Herranen. The main motivations for the development of this code are the study of grain alignment dynamics in interstellar environments and optical tweezers and traps.
