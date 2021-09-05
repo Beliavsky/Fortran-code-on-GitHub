@@ -378,6 +378,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [fluxo](https://github.com/project-fluxo/fluxo): solves linear and nonlinear advection diffusion equations, for example the compressible Navier-Stokes equations, the resistive magneto-hydrodynamic equations and others
 
+[Fortran LBM](https://github.com/samieeme/Fortran-LBM-MSc-2013): Lattice Boltzmann solver for fluid flows, by Mehdi Samiee
+
 [fosolvers](https://github.com/mianzhi/fosolvers): suite of free and open source solvers, created with the goals of solving practical engineering problems and being easy to hack, by mianzhi
 
 [freeCappuccino](https://github.com/nikola-m/freeCappuccino): three-dimensional fully unstructured finite volume code for Computational Fluid Dynamics which comes in serial and parallel version, by nikola-m. FreeCappuccino is also a Fortran library for manipulation of discrete tensor fields, defined over polyhedral meshes.
