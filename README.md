@@ -418,6 +418,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [Rayleigh - dynamo in spherical geometry](https://github.com/geodynamics/Rayleigh): 3-D convection code designed for the study of dynamo behavior in spherical geometry. It evolves the incompressible and anelastic MHD equations in spherical geometry using a pseudo-spectral approach. 
 
+[rdshellmodel](https://github.com/nicholasmr/rdshellmodel): Rathmann and Ditlevsen (2016) helical shell model of turbulence (http://arxiv.org/abs/1602.02553)
+
 [shyfem](https://github.com/SHYFEM-model/shyfem): System of HydrodYnamic Finite Element Modules
 
 [SNaC](https://github.com/p-costa/SNaC): multi-block solver for massively parallel direct numerical simulations (DNS) of fluid flows, by p-costa and 
