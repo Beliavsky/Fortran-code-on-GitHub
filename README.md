@@ -635,6 +635,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [Soil and Water Assessment Tool Plus (SWAT+)](https://github.com/joelz575/swatplus): small watershed to river basin-scale model to simulate the quality and quantity of surface and ground water and predict the environmental impact of land use, land management practices, and climate change. SWAT is widely used in assessing soil erosion prevention and control, non-point source pollution control and regional management in watersheds.
 
+[Spectral orientation fabric (specfab)](https://github.com/nicholasmr/specfab): spectral fabric model of kinematic lattice (c-axis) rotation (Svendsen and Hutter, 1996), discontinuous dynamic recrystallization (Placidi and others, 2010), and rotation recrystallization (Gödert, 2003)
+
 [Specfem3D](https://github.com/geodynamics/specfem3d): simulates acoustic (fluid), elastic (solid), coupled acoustic/elastic, poroelastic or seismic wave propagation in any type of conforming mesh of hexahedra (structured or not.), from geodynamics
 
 [SPHERA](https://github.com/AndreaAmicarelliRSE/SPHERA): Lagrangian Computational Fluid Dynamics (LCFD) - Smoothed Particle Hydrodynamics (SPH) research code by 
