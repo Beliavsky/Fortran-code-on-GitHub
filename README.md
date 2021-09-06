@@ -1514,6 +1514,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 ## Quantum Chemistry and Electronic Structure
 [abinit](https://github.com/abinit/abinit): atomic-scale simulation software suite
 
+[atomistica](https://github.com/Atomistica/atomistica): library of interatomic potentials, including empirical potentials and non-orthogonal tight-binding. It is designed to be plugged into different simulation environments.
+
 [bandup](https://github.com/band-unfolding/bandup): Band Unfolding code for Plane-wave based calculations
 
 [cp2k](https://github.com/cp2k/cp2k): quantum chemistry and solid state physics software package that can perform atomistic simulations of solid state, liquid, molecular, periodic, material, crystal, and biological systems
