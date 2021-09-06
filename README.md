@@ -1051,6 +1051,8 @@ generalized eigenvalue problems, from NLAFET
 
 [LAPACK95](https://github.com/scivision/LAPACK95): CMake and Meson enhanced mirror of Netlib LAPACK95, from SciVision
 
+[libsparse](https://github.com/jvdp1/libsparse): Fortran 2003 library that provides objects to create and handle rectangular and square sparse matrices using different formats: Linked List, COOrdinate storage (with elements stored using a hashing function), or Compressed Row Storage, by Jeremie Vandenplas. The library relies on different libraries, such as BLAS/LAPACK libraries, PARDISO (at this stage, Intel MKL PARDISO), and METIS 5. 
+
 [LIBXSMM](https://github.com/hfp/libxsmm): library for specialized dense and sparse matrix operations as well as for deep learning primitives such as small convolutions, from hfp
 
 [linalg](https://github.com/jchristopherson/linalg): linear algebra library that provides a user-friendly interface to several BLAS and LAPACK routines, by jchristopherson
