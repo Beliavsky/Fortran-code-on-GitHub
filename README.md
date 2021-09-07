@@ -1526,6 +1526,8 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 ## Quantum Chemistry and Electronic Structure
 [abinit](https://github.com/abinit/abinit): atomic-scale simulation software suite
 
+[https://github.com/AbinitioDGA/ADGA](Abinitio DGA): implementation of a DGA approach for electronic structure calculations of materials, by Matthias Pickem. It allows the inclusion of non-local correlations beyond DMFT and the calculation of momentum-dependent susceptibilities.
+
 [atomistica](https://github.com/Atomistica/atomistica): library of interatomic potentials, including empirical potentials and non-orthogonal tight-binding. It is designed to be plugged into different simulation environments.
 
 [bandup](https://github.com/band-unfolding/bandup): Band Unfolding code for Plane-wave based calculations
