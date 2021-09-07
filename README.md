@@ -304,6 +304,8 @@ simulating and forecasting meteorological phenomena.
 [test_nvfortran_20_11](https://github.com/vyu16/test_nvfortran_20_11): source code test.f90 by vyu16 attempts to call getitem, defined in dummy_module.f90, incorrectly. Both ifort and gfortran are able to catch it at compile time. However, nvfortran compiles the code and seems to just ignore the call at run time.
 
 ## Computational Chemistry
+[https://github.com/MaginnGroup/Cassandra](Cassandra): Monte Carlo package developed in the Maginn group at the University of Notre Dame to perform atomistic simulations of molecules composed of rings, chains, or both. Cassandra is suited to compute the thermodynamic properties of fluids and phase equilibria.
+
 [crest](https://github.com/grimme-lab/crest): Conformer-Rotamer Ensemble Sampling Tool based on the xtb Semiempirical Extended Tight-Binding Program Package, from grimme-lab
 
 [critic2](https://github.com/aoterodelaroza/critic2): manipulation and analysis of structural and chemical information in molecules and periodic solids, by aoterodelaroza et al.
