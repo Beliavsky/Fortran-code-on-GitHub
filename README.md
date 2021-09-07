@@ -614,6 +614,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [pySIR](https://github.com/aasensio/pySIR): Python wrapper for the Stokes Inversion based on Response functions Fortran code by Ruiz Cobo & del Toro Iniesta (1992)
 
+[PySolid](https://github.com/insarlab/PySolid): Python wrapper for the Fortran program solid to compute solid Earth tides. Solid Earth tides introduces very long spatial wavelength range components in SAR/InSAR observations, as shown in the Sentinel-1 data with regular acquisitions and large swaths (Fattahi et al., 2020).
+
 [Quasi-DYNamic earthquake simulator: qdyn](https://github.com/ydluo/qdyn): boundary element software to simulate earthquake cycles (seismic and aseismic slip on tectonic faults) under the quasi-dynamic approximation (quasi-static elasticity combined with radiation damping) on faults governed by rate-and-state friction and embedded in elastic media, by Yingdi Luo et al.
 
 [Radar Altimeter Database System (RADS)](https://github.com/remkos/rads): apart from actual altimeter data, provides a suite of applications and subroutines that simplify the reading, editing and handling of data from various radar altimeters. RADS was developed by the Delft Institute for Earth-Oriented Space Research, the NOAA Laboratory for Satellite Altimetry, and EUMETSAT.
