@@ -736,6 +736,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [hdf5-benchmark](https://github.com/scivision/hdf5-benchmark): benchmarking speed of HDF5 writes from MPI parallel workers, by scivision
 
+[https://github.com/mpickem/hdf5_wrapper](HDF5 wrapper): minimalistic hdf5 wrapper for Fortran90/95, by Matthias Pickem
+
 [mpi-libfdf-parser](https://github.com/neelravi/mpi-libfdf-parser): modern Fortran-based parser for parsing input files, by neelravi. It uses the LibFDF library and works with sequential as well as multinode calculations.
 
 [h5fortran](https://github.com/geospace-code/h5fortran): Simple, robust, thin HDF5 polymorphic Fortran read/write interface, by geospace-code
