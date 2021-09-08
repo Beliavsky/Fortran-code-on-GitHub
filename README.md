@@ -678,6 +678,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [VVM](https://github.com/chienmingwu/VVM): Vector Vorticity equation cloud-resolving Model
 
+[Waiwera](https://github.com/waiwera/waiwera): parallel geothermal flow simulator that numerical simulates high-temperature subsurface flows, including robust phase changes. Reference: Croucher, A.E., O'Sullivan, M.J., O'Sullivan, J.P, Yeh, A., Burnell, J. and Kissling, W. (2020). "Waiwera: A parallel open-source geothermal flow simulator". Computers and Geosciences 141, https://doi.org/10.1016/j.cageo.2020.104529.
+
 [WASA-SED](https://github.com/TillF/WASA-SED): numerical model for simulation hydrological and sediment fluxes from meso-scale catchments (Mueller et al., 2010), from TillF
 
 [Wildland-urban Interface Simulator (WFDS)](https://github.com/ruddymell/wfds9977): extension of NIST's structural Fire Dynamics Simulator (FDS) to fuels that include vegetation. WFDS uses computational fluid dynamics methods to solve the governing equations for buoyant flow, heat transfer, combustion, and the thermal degradation of vegetative fuels.
