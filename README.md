@@ -1415,6 +1415,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [DPMJET](https://github.com/DPMJET/DPMJET): Monte Carlo event generator for hadron, photon and nuclear collisions with a several decade-long history. DPMJET is an integral part of FLUKA, a fully integrated particle physics MonteCarlo simulation package, acting as event generator for nucleus-nucleus collisions above 5 GeV/nucleon and for hadronic collisions at high energies. 
 
+[EventShapes_HiggsTOgg_QCD_NLO](https://github.com/GuglielmoColoretti/EventShapes_HiggsTOgg_QCD_NLO): code for EERAD3 to compute three-jets event shapes QCD corrections up to NLO to Higgs decays into a pair of gluons and up to NLO into a bottom-antibottom pair.
+
 [halld_sim](https://github.com/JeffersonLab/halld_sim): simulation for the GlueX Experiment in Hall D, from JeffersonLab. Contains programs used to do detector simulation and event generation.
 
 [Higher Order Perturbative Parton Evolution Toolkit (HOPPET)](https://github.com/gavinsalam/hoppet): carries out DGLAP evolution and other common manipulations of parton distribution functions (PDFs), by gavinsalam. Within HOPPET, PDFs are represented on a grid in x-space so as to avoid limitations on the functional form of input distributions.
