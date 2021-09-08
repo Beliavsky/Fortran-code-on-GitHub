@@ -477,6 +477,8 @@ nscapin
 
 [Community Multiscale Air Quality Model (CMAQ) of US EPA](https://github.com/USEPA/CMAQ): combines current knowledge in atmospheric science and air quality modeling with multi-processor computing techniques in an open-source framework to deliver fast, technically sound estimates of ozone, particulates, toxics, and acid deposition.
 
+[ComPASS](https://github.com/BRGM/ComPASS): open, evolutive platform for hydrothermal modeling, by Simon-Lopez et al. It implements state of the art numerical scheme to discretize multiphase Darcean flows on generic unstructured meshes.
+
 [ConMan](https://github.com/geodynamics/conman): finite element program for the solution of the equations of incompressible, infinite-Prandtl number convection in two dimensions, by Scott King et al.
 
 [coordinates](https://github.com/alex-robinson/coordinates): manage grids and arbitrary sets of points, including interpolation and mapping between different coordinate systems, by alex-robinson. It also contains several helper modules that are useful generally for the manipulation of sets of points and grids.
