@@ -1196,6 +1196,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [ParallelForest](https://github.com/bert9bert/ParallelForest): R package implementing random forest classification using parallel computing, built with Fortran and OpenMP in the backend, by bert9bert
 
+[Tangent-linear and adjoint test of a neural network (nn_tl_ad)](https://github.com/samhatfield/nn_tl_ad): fully-connected neural network implemented in Fortran, along with its "tangent-linear" and "adjoint" versions (i.e. the Jacobian and transpose of the Jacobian), by Sam Hatfield. It also includes standard tests for the consistency of these.
+
 [util](https://github.com/tchlux/util): machine learning, optimization, and data science utilities package, by tchlux
 
 ## Numerical
