@@ -1294,6 +1294,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [CUTEst](https://github.com/ralna/CUTEst): Constrained and Unconstrained Testing Environment with safe threads for optimization software 
 
+[differential-evolution_f95](https://github.com/ian-mmm/differential-evolution_f95): basic differential evolution optimization algorithm, by Ian Morrall
+
 [DualSimplex](https://github.com/thchang/DualSimplex) Fortran 90 module for solving linear programs of the form max c^T x s.t. A x <= b where, c is a cost vector and A x <= b is a system of linear inequality constraints, by Tyler Chang
 
 [FilterSD](https://github.com/jacobwilliams/FilterSD): Fortran 77 subroutines for solving nonlinear programming problems and linearly constrained problems in continuous optimization
