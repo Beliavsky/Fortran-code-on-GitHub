@@ -634,6 +634,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [SAMSIM](https://github.com/pgriewank/SAMSIM): thermodynamic 1D sea ice model, by pgriewank
 
+[Seismic and Radar Toolbox (SeidarT)](https://github.com/UMainedynamics/SeidarT): platform for forward modeling mechanical and electromagnetic wave propagation, by Steven P. Bernsen et al. The major objective of the project is to easily and quickly implement isotropic and anisotropic complex geometries and/or velocity structures to develop prior constraints for - not limited too - investigating, estimating, and imaging englacial ice structure, sub-glacial boundary conditions on the sub-regional scale.
+
 [SEIS_FILO](https://github.com/akuhara/SEIS_FILO): SEISmological transdimensional inversion tools for Flat and Isotropic Layered structure in the Ocean, by akuhara
 
 [SEISMIC_CPML](https://github.com/geodynamics/seismic_cpml): set of sixteen Fortran 90 programs to solve the two-dimensional or three-dimensional isotropic or anisotropic elastic, viscoelastic or poroelastic wave equation using a finite-difference method with Convolutional or Auxiliary Perfectly Matched Layer (C-PML or ADE-PML) conditions, developed by Dimitri Komatitsch and Roland Martin
