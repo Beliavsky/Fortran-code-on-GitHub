@@ -205,6 +205,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [COVID-testbias](https://github.com/dkhaz/COVID-testbias): Understanding the Bias between the Number of Confirmed Cases and Actual Number of Infections in the COVID-19 Pandemic, by dkhaz and xingangchen
 
+[FSATOOL](https://github.com/fsatool/fsatool): fast sampling and analysis tool for biomolecules, by haomiao et al.
+
 [GENeralized-Ensemble SImulation System (GENESIS)](https://github.com/genesis-release-r-ccs/genesis-2.0): molecular dynamics and modeling software for bimolecular systems such as proteins, lipids, nucleic acids, glycans, and their complexes. Main site is [here](https://www.r-ccs.riken.jp/labs/cbrt/).
 
 [MycoplasmaGenitalium](https://github.com/ccsb-scripps/MycoplasmaGenitalium): modelling of Mycoplasma genitalium based on the WC computational model, by Ludovic Autin and Martina Maritan
