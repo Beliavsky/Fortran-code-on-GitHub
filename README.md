@@ -1135,7 +1135,9 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [GPMaterials](https://github.com/felipefr/gpmaterials): implements a rich set of finite element formulations for finite strain hyperelasticity, damage, multi-scale solid mechanics in both continuum and discrete level (truss-like network of fibres), by Felipe Figueredo Rocha
 
-[Hard-fit-by-minimization](https://github.com/LaszloSToth/Hard-fit-by-minimization): efficient program to fit a stress-strain curve by the empirical function derived from crystal plasticity, by LaszloSToth 
+[Hard-fit-by-minimization](https://github.com/LaszloSToth/Hard-fit-by-minimization): efficient program to fit a stress-strain curve by the empirical function derived from crystal plasticity, by LaszloSToth
+
+[Inverse Design of Materials by Multi-objective optimization (IM2ODE)](https://github.com/YueyuZhang/IM2ODE): target properties of concern include the optical and electronic-structure properties of semiconductors, hardness of crystals, etc, by Yueyu Zhang et al.  IM2ODE can easily predict the atomic configurations with desired properties for three dimensional structure, interface and cluster, even complex defect in solid.
 
 [Nonlinear MetaMaterial MPI Solver (NM^3)](https://github.com/wonnie87/NMCube): odes and example files used in paper, "High-Performance Large-Scale Simulation of Multi-stable Metastructures", by M. Hwang, C. Scalo, and A. F. Arrieta, to be published.
 
