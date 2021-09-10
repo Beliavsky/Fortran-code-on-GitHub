@@ -477,9 +477,15 @@ nscapin
 
 [Catchment-based Macro-scale Floodplain (CaMa-Flood)](https://github.com/global-hydrodynamics/CaMa-Flood_v4): simulates the hydrodynamics in continental-scale rivers, from global-hydrodynamic. The entire river networks of the world are discretized to the hydrological units named unit-catchments for achieving efficient flow computation at the global scale.
 
+[CDFTOOLS](https://github.com/meom-group/CDFTOOLS): analysis and diagnostics on NEMO ocean model output, from meom-group
+
+[cdss-app-statemod-fortran](https://github.com/OpenCDSS/cdss-app-statemod-fortran): StateMod water allocation model, which is part of Colorado's Decision Support Systems (CDSS)
+
 [CE-QUAL-W2](https://github.com/EnvironmentalSystems/CE-QUAL-W2): two‐dimensional (2D), longitudinal/vertical, hydrodynamic water quality (WQ) model, by TSteissberg and hsteissberg. Because the model assumes lateral homogeneity, it is especially suited for relatively long and narrow waterbodies exhibiting longitudinal and vertical water quality gradients.
 
 [Chemistry Across Multiple Phases: CAMP](https://github.com/open-atmos/camp): multi-phase chemistry treatment for atmospheric models. Reference: M. Dawson, C. Guzman, J. H. Curtis, M. Acosta, S. Zhu, D. Dabdub, A. Conley, M. West, N. Riemer, and O. Jorba (2021), Chemistry Across Multiple Phases (CAMP) version 1.0: An Integrated multi-phase chemistry model, in preparation
+
+[CICE Consortium sea-ice model](https://github.com/CICE-Consortium/CICE): computationally efficient model for simulating the growth, melting, and movement of polar sea ice
 
 [Community Data Models for Earth Prediction Systems (CDEPS)](https://github.com/ESCOMP/CDEPS): NUOPC-compliant data components along with ESMF-based share code that enables new capabilities in selectively removing feedbacks in coupled model systems
 
@@ -495,11 +501,7 @@ nscapin
 
 [Coupled-Ocean-Atmosphere-Wave-Sediment Transport (COAWST) Modeling System](https://github.com/jcwarner-usgs/COAWST): combines many sophisticated systems that each provide relative earth-system components necessary to investigate the dynamics of coastal storm impacts. Specifically, the COAWST Modeling System includes an ocean component—Regional Ocean Modeling System (ROMS); atmosphere component—Weather Research and Forecast Model (WRF), hydrology component- WRF_Hydro; wave components—Simulating Waves Nearshore (SWAN), WAVEWATCHIII, and InWave; a sediment component—the USGS Community Sediment Models; and a sea ice model.
 
-[cdss-app-statemod-fortran](https://github.com/OpenCDSS/cdss-app-statemod-fortran): StateMod water allocation model, which is part of Colorado's Decision Support Systems (CDSS)
-
-[CDFTOOLS](https://github.com/meom-group/CDFTOOLS): analysis and diagnostics on NEMO ocean model output, from meom-group
-
-[CICE Consortium sea-ice model](https://github.com/CICE-Consortium/CICE): computationally efficient model for simulating the growth, melting, and movement of polar sea ice
+[cshore](https://github.com/erdc/cshore): predicts beach evolution over the nearshore region, from US Army Engineer Research and Development Center. The combined wave and current model operates under the assumption of longshore uniformity and includes the effects of a wave roller and quadratic bottom shear stress.
 
 [Data-Interpolating Variational Analysis (DIVA)](https://github.com/gher-ulg/DIVA): spatial interpolation of data (analysis) in an optimal way, comparable to optimal interpolation (OI), by Sylvain Watelet et al. In comparison to OI, it takes into account coastlines, sub-basins and advection. 
 
