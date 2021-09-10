@@ -909,8 +909,9 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [functional-fortran](https://github.com/wavebitscientific/functional-fortran): library for functional programming in modern Fortran
 
-[Futility](https://github.com/CASL/Futility): utilities for definition of kinds for intrinsic numeric data types, a unit test harness, definitions for some basic extensions to the Fortran language, geometry definitions and intersection routines, 
-file wrapper functions, parallel wrapper functions, math utilities, a lightweight profiling interface, and other miscellaneous routines, from CASL
+[Futility](https://github.com/CASL/Futility): utilities for definition of kinds for intrinsic numeric data types, a unit test harness, definitions for some basic extensions to the Fortran language, geometry definitions and intersection routines, file wrapper functions, parallel wrapper functions, math utilities, a lightweight profiling interface, and other miscellaneous routines, from CASL
+
+[futility](https://github.com/cmacmackin/futility): collection of modern Fortran utilities, including some numerical subroutines and a module for simplified input and output of arrays, by Chris MacMackin
 
 [general-purpose-fortran](https://github.com/urbanjost/general-purpose-fortran): non-numeric tasks such as command-line parsing, string functions, date-and-time manipulation and display, interfacing to the C POSIX system routines, by urbanjost
 
