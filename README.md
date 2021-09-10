@@ -883,6 +883,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [Fortran-Linked-List](https://github.com/ChetanKarwa/Fortran-Linked-List): linked list module for stdlib of fortran-lang, by ChetanKarwa
 
+[Fortran Logging Library: Flogging](https://github.com/cmacmackin/flogging): provides an easy-to-use interface for logging events and errors in Fortran applications and libraries, by Chris MacMackin. Its use and functionality is similar to that of [logging](https://docs.python.org/2/library/logging.html) library in Python.
+
 [fortran-mongo](https://github.com/dongli/fortran-mongo): MongoDB binding library for Fortran, by dongli
 
 [fortran_notes](https://github.com/zmiimz/fortran_notes): containers and advanced data structures, hash functions, and design patterns
