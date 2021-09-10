@@ -286,7 +286,9 @@ simulating and forecasting meteorological phenomena.
 [WRF](https://github.com/wrf-model/WRF): Weather Research and Forecasting (WRF) model
 
 ## Code Tools
-[adjac](https://github.com/pv/adjac): Automatic Differentiation for generating sparse Jacobians, using Fortran 95 and operator overloading, by pv.
+[adjac](https://github.com/pv/adjac): automatic differentiation for generating sparse Jacobians, using Fortran 95 and operator overloading, by pv.
+
+[autodiff](https://github.com/sgeard/autodiff): automatic differentiation for up to 4th derivatives, by Simon Geard
 
 [bench-cli](https://github.com/Lateralus138/bench-cli): cross-platform command line tool to benchmark commands and other executables/scripts in command lines written in Fortran, by Lateralus138. Very precise and fast.
 
