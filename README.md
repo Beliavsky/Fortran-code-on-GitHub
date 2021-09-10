@@ -1108,6 +1108,8 @@ generalized eigenvalue problems, from NLAFET
 
 [mfi](https://github.com/14NGiestas/mfi): modern Fortran Interfaces to BLAS and LAPACK, by 14NGiestas
 
+[moa-fortran](https://github.com/wyphan/moa-fortran): Mathematics of Arrays library for modern Fortran, by Wileam Y. Phan
+
 [MPI_GEVP](https://github.com/sims-code/MPI_GEVP): Fortran 90+ program for solving the generalized eigenvalue problem on distributed computers, by sims-code
 
 [NTPoly](https://github.com/william-dawson/ntpoly): massively parallel library for computing the functions of sparse matrices, by william-dawson
