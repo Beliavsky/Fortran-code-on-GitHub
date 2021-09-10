@@ -1302,6 +1302,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [differential-evolution_f95](https://github.com/ian-mmm/differential-evolution_f95): basic differential evolution optimization algorithm, by Ian Morrall
 
+[Differential Evolution Parallel Program (DEPP)](https://github.com/gbertoldo/DEPP): designed to solve non-linear optimization problems of real-valued functions (objective functions) constrained to boxed domains, by gbertoldo. Additionally, this software is gradient-free, it is not code-invasive, i.e., objective function is treated as a "black-box", it is tolerant to failures, to poor precision calculated or noisy objective functions, it uses parallelization, that is particularly useful for handling computationally expensive objective functions, and it allows a Response Surface Methodology-Differential Evolution hybridization for convergence acceleration.
+
 [Diver](https://github.com/patscott/Diver): fast parameter sampler and optimiser based on differential evolution, by Pat Scott et al.
 
 [DualSimplex](https://github.com/thchang/DualSimplex) Fortran 90 module for solving linear programs of the form max c^T x s.t. A x <= b where, c is a cost vector and A x <= b is a system of linear inequality constraints, by Tyler Chang
