@@ -567,6 +567,8 @@ recorded by a sparse regional seismograph network.
 
 [Isca](https://github.com/ExeClim/Isca): framework for the idealized modelling of the global circulation of planetary atmospheres at varying levels of complexity and realism, from the University of Exeter. The framework is an outgrowth of models from GFDL designed for Earth's atmosphere, but it may readily be extended into other planetary regimes.
 
+[Ice Shelf/Ocean Fluid and Thermodynamics (ISOFT)](https://github.com/cmacmackin/isoft): object-oriented, extensible framework with which to model glacial flow using modern Fortran, by Chris MacMackin. Though developed for ice shelves, it could in principle be modified to simulated grounded ice dynamics as well.
+
 [JDSurfg](https://github.com/nqdu/JDSurfG): Joint Inversion of Direct Surface Wave Tomography and Bouguer Gravity, by nqdu
 
 [Line-By-Line Radiative Transfer Model(LBLRTM)](https://github.com/AER-RC/LBLRTM): accurate and efficient line-by-line radiative transfer model derived from the Fast Atmospheric Signature Code (FASCODE), from AER-RC. LBLRTM has been, and continues to be, extensively validated against atmospheric radiance spectra from the ultraviolet to the sub-millimeter.
