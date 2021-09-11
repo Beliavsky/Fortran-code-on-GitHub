@@ -121,6 +121,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [kcarta_gen](https://github.com/sergio66/kcarta_gen): fast, accurate, easy-to-use pseudo-monochromatic radiative transfer code, by sergio66
 
+[KiloNova Explosion Code (kNEC)](https://github.com/StevenWu1999/KNEC): simulates hydrodynamical evolution of BNS merger ejecta and the corresponding kilonova emission, by Zhenyu Wu. It is based on the SNEC code by Morozova et al., which is a Lagrangian radiation-hydrodynamics code for core-collapse supernova explosion.
+
 [legolas](https://github.com/n-claes/legolas): modern tool for MHD spectroscopy, by n-claes
 
 [MAESTRO](https://github.com/AMReX-Astro/MAESTRO): solves the equations of low Mach number hydrodynamics for stratified atmospheres/stars with a general equation of state, from AMReX-Astro
