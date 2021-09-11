@@ -1168,6 +1168,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [thermo_pw](https://github.com/dalcorso/thermo_pw): ab-initio computation of material properties, by dalcorso
 
+[Truchas](https://github.com/truchas/truchas): physics-based modeling and simulation of manufacturing processes, from Los Alamos National Laboratory. Its core capabilities are primarily geared toward metal casting, with developing capabilities for metal additive manufacturing. 
+
 ## Mesh Generation
 [fishman](https://github.com/dongli/fishman): generate Spherical Centroidal Voronoi Tessellation (SCVT) mesh for using in geophysical modeling, by dongli
 
