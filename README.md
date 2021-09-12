@@ -1069,6 +1069,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [bddcml](https://github.com/sistek/bddcml): massively parallel solver of systems of linear equations using Multilevel Balancing Domain Decomposition based on Constraints (BDDC), by sistek
 
+[blas-interface](https://github.com/awvwgk/blas-interface): interface declarations for basic linear algebra subprograms, by Sebastian Ehlert
+
 [ButterflyPACK](https://github.com/liuyangzhuan/ButterflyPACK): software for rapidly solving large-scale dense linear systems that exhibit off-diagonal rank-deficiency, by liuyangzhuan
 
 [chol-rev](https://github.com/imurray/chol-rev): reverse-mode routine written in FORTRAN 77, modeled after the fast LAPACK Cholesky routine DPOTRF, which uses blocked level-3 BLAS routines
