@@ -1112,6 +1112,8 @@ generalized eigenvalue problems, from NLAFET
 
 [mfi](https://github.com/14NGiestas/mfi): modern Fortran Interfaces to BLAS and LAPACK, by 14NGiestas
 
+[minila](https://github.com/ghbrown/minila): lightweight, standalone set of common linear algebraic operations for vectors and matrices, by Gabriel Brown
+
 [moa-fortran](https://github.com/wyphan/moa-fortran): Mathematics of Arrays library for modern Fortran, by Wileam Y. Phan
 
 [MPI_GEVP](https://github.com/sims-code/MPI_GEVP): Fortran 90+ program for solving the generalized eigenvalue problem on distributed computers, by sims-code
