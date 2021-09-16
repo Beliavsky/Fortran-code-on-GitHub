@@ -1424,6 +1424,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 [CUDA-Fortran-Book](https://github.com/bakmano737/CUDA-Fortran-Book): example codes included in this directory are a portion of the code samples
 from the companion website to the book [CUDA Fortran for Scientists and Engineers](http://store.elsevier.com/product.jsp?isbn=9780124169708)
 
+[dmr](https://github.com/giacrossi/dmr):  Fortran 2008 library for mimicking OpenMP device memory routines in Fortran, by Giacomo Rossi
+
 [examples](https://github.com/timkphd/examples): High Performance Computing examples in Fortran, C, Python, and R, by timkphd
 
 [FGPU](https://github.com/LLNL/FGPU): code examples focusing on porting FORTRAN codes to run DOE heterogenous architecture CPU+GPU machines, from LLNL. The purpose of these is to provide both learning aids for developers and OpenMP and CUDA code examples for testing vendor compilers capabilities.
