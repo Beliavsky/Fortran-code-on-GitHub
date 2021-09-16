@@ -412,6 +412,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [lbm2d_opencl](https://github.com/LKedward/lbm2d_opencl): D2Q9 BGK Lattice Boltzmann code written in OpenCL and Modern Fortran, by LKedward
 
+[lesgo](https://github.com/lesgo-jhu/lesgo): solves the filtered Navier-Stokes equations in the high-Reynolds number limit on a Cartesian mesh, from the Turbulence Research Group at Johns Hopkins University. Originally designed to simulate flow in the atmospheric boundary layer, LESGO has been extended and used to simulate flow over tree canopies, wall-mounted cubes, and wind turbine arrays, among other things.
+
 [MagIC](https://github.com/magic-sph/magic): simulates fluid dynamics in a spherical shell. MagIC solves for the Navier-Stokes equation including Coriolis force, optionally coupled with an induction equation for Magneto-Hydro Dynamics (MHD), a temperature (or entropy) equation and an equation for chemical composition under both the anelastic and the Boussinesq approximations.
 
 [MF-LBM](https://github.com/lanl/MF-LBM): Portable, Scalable and High-performance Lattice Boltzmann Code for DNS of Flow in Porous Media, from LANL
