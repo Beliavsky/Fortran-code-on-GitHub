@@ -388,6 +388,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [Flow81](https://github.com/corygoates/Flow81): basic CFD solvers by corygoates
 
+[flowmol](https://github.com/edwardsmith999/flowmol): molecular dynamics solver for molecular fluid dynamics simulation, by David Trevelyan and Ed Smith
+
 [fluidity](https://github.com/FluidityProject/fluidity): open source, general purpose, multiphase computational fluid dynamics code capable of numerically solving the Navier-Stokes equation and accompanying field equations on arbitrary unstructured finite element meshes in one, two and three dimensions
 
 [FLUSI](https://github.com/pseudospectators/FLUSI): Fluid-Structure-Interaction / MHD Research Code, from pseudospectators. Relies on Fourier transforms for derivatives and the volume penalization method to include obstacles.
