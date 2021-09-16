@@ -137,6 +137,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [msg](https://github.com/rhdtownsend/msg): Multidimensional Spectral Grids -- project for evaluating radiant properties of stellar atmospheres by rhdtownsend
 
+[NASA Ames Legacy Mars Global Climate Model](https://github.com/nasa/legacy-mars-global-climate-model): uses a modified version of the ARIES/GEOS dynamical core coupled with a set of Mars physics packages to simulate the martian climate. 
+
 [NormalModes](https://github.com/js1019/NormalModes): applies a combination of several highly parallel algorithms to compute the planetary interior normal modes, by js1019
 
 [phantom](https://github.com/danieljprice/phantom): 3D Smoothed Particle Hydrodynamics and Magnetohydrodynamics code for astrophysics, by Daniel Price and others
