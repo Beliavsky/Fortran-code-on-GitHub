@@ -1531,6 +1531,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [ElectroStatic Vlasov-Maxwell (ESVM)](https://github.com/michaeltouati/ESVM): 1D-1V Vlasov-Maxwell Fortran code parallelized using OpenMP and developed for an educational purpose as well as for testing linear finite volume numerical advection schemes such as the donor cell, the Lax-Wendroff, the beam warming or the Fromm method and non-linear ones such as the minmod, the superbee, the Van Leer, the MUSCL1 or the MUSCL2 method, by michaeltouati and nzeal
 
+[ElVibRot-TnumTana](https://github.com/lauvergn/ElVibRot-TnumTana): general quantum dynamics code by lauvergn using curvilinear coordinates and a numerical kinetic energy operator to compute (i) Vibrational levels, intensities for floppy molecular system (ii) Wave-packet propagation with or without time dependent Hamiltonian (iii) Quantum gate and optimal control.
+
 [Esfahan Spin Simulation package (ESpinS)](https://github.com/nafiserb/ESpinS): Package for classical Monte-Carlo simulation of spin systems, by nafiserb. In ESpinS, the spin model hamiltonian of a spin system can be defined through the Heisenberg exchange, bi-quadratic, Dzyaloshinskii-Moriya, and single-ion interactions.
 
 [Ether](https://github.com/mukkelian/Ether): based on the classical lattice model (Heisenberg, XYZ, etc.), Ether has been developed by Mukesh Kumar Sharma to study the thermodynamics of any crystal system by performing the basic Monte Carlo methods. Metropolis algorithm has been used to equate all the observables
