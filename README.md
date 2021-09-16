@@ -1301,6 +1301,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 [VecFor](https://github.com/szaghi/VecFor): Object-Oriented designed API for handling vectors in a (3D) three dimensional frame of reference, by szaghi and pdebuyl. It exposes (among others) the object Vector that posses a far complete set of overloaded operators for performing vectorial calculus algebra.
 
 ## Numerical Integration (Quadrature)
+[FORbID](https://github.com/giacrossi/FORbID): object-oriented Fortran 2008 library for numerical integration of definite integrals, by Giacomo Rossi and Stefano Zaghi
+
 [INTEGRAL](https://github.com/jchristopherson/integral): routines for the integration of functions of various types, by jchristopherson. Additionally, the INTEGRAL library provides routines for the integration of systems of ordinary differential equations (ODEs).
 
 [modern quadpack](https://github.com/nshaffer/modern_quadpack): provides QUADPACK as a module with explicit interfaces to the user-level routines and names for magic constants, by nshaffer
