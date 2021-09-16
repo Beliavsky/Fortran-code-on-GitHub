@@ -311,6 +311,8 @@ simulating and forecasting meteorological phenomena.
 ## Compiler Tests
 [fortran-compiler-tests](https://github.com/nncarlson/fortran-compiler-tests): collection of Fortran compiler bug examples and tests, by nncarlson
 
+[infnan](https://github.com/zaikunzhang/infnan): functions for checking Inf/NaN, Zaikun Zhang. They should work even if the compilers are invoked with aggressive optimization flags such as `gfortran -Ofast`.
+
 [test_nvfortran_20_11](https://github.com/vyu16/test_nvfortran_20_11): source code test.f90 by vyu16 attempts to call getitem, defined in dummy_module.f90, incorrectly. Both ifort and gfortran are able to catch it at compile time. However, nvfortran compiles the code and seems to just ignore the call at run time.
 
 ## Computational Chemistry
