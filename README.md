@@ -1670,6 +1670,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [qe-gpu](https://github.com/fspiga/qe-gpu): GPU-accelerated Quantum ESPRESSO using CUDA Fortran, by fspiga
 
+[QuantumModelLib](https://github.com/lauvergn/QuantumModelLib): enables one to use potentials extracted from the literature, by David Lauvergnat et al. It has the following features: one or several degrees of freedom; one or several electronic states; for each electronic state, the energy, gradient and hessian can be obtained in the diabatic or adiabatic representations
+
 [Quantum Package 2.2](https://github.com/QuantumPackage/qp2): programming environment for quantum chemistry specially designed for wave function methods. Its main goal is the development of determinant-driven selected configuration interaction (sCI) methods and multi-reference second-order perturbation theory (PT2).
 
 [QuAcK](https://github.com/pfloos/QuAcK): performs i) various types of GW calculations (G0W0, evGW, qsGW, etc). ii) ensemble DFT calculations (under progress). QuAcK also include a very slow integral package called IntPak which does compute many types of different integrals. By pfloos.
