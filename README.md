@@ -917,6 +917,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [fson](https://github.com/josephalevin/fson): Fortran 95 JSON Parser, by josephalevin
 
+[fstack](https://github.com/jake-87/fstack): custom stack type for Fortran 2003 that implements a C-style stack, by jake-87. The advantage of this model is that one can have multiple stacks at any one time, so there is no need to juggle them -- just allocate another one.
+
 [FTObjectLibrary](https://github.com/trixi-framework/FTObjectLibrary): provides a collection of reference counted Fortran 2003 classes to facilitate writing generic object oriented Fortran programs
 
 [functional-fortran](https://github.com/wavebitscientific/functional-fortran): library for functional programming in modern Fortran
