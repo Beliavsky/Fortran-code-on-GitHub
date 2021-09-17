@@ -790,6 +790,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [nml](https://github.com/alex-robinson/nml): Fortran namelist I/O module intended to provide a small upgrade to native Fortran namelist functionality, by alex-robinson
 
+[oo_hdf](https://github.com/rjgtorres/oo_hdf): object-oriented Fortran HDF5 module, by Ricardo Torres. This library aims to create a group of classes in Fortran to interact with HDF5.
+
 [serialbox](https://github.com/GridTools/serialbox): data serialization library and tools for C/C++ and Fortran, from GridTools
 
 [stl-fortran](https://github.com/jacobwilliams/stl-fortran): Fortran STL (stereolithography) File I/O, by Jacob Williams
