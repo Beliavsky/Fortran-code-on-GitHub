@@ -1452,6 +1452,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [dmr](https://github.com/giacrossi/dmr):  Fortran 2008 library for mimicking OpenMP device memory routines in Fortran, by Giacomo Rossi
 
+[Elements of high-performance computing](https://github.com/csc-training/elements-of-hpc): general level introduction to high-performance computing, from csc-training
+
 [examples](https://github.com/timkphd/examples): High Performance Computing examples in Fortran, C, Python, and R, by timkphd
 
 [FGPU](https://github.com/LLNL/FGPU): code examples focusing on porting FORTRAN codes to run DOE heterogenous architecture CPU+GPU machines, from LLNL. The purpose of these is to provide both learning aids for developers and OpenMP and CUDA code examples for testing vendor compilers capabilities.
