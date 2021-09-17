@@ -1209,6 +1209,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [shabaka](https://github.com/omhafez/shabaka): command-line tool that reads segmented images and generates watertight surface meshes (or b-reps) of the objects of interest, by omhafez. Surface meshes can be piped into mesh generation tools for scientific computing, 3D printing programs, or visualization software.
 
+[XH5For](https://github.com/victorsndvg/XH5For): library to read and write parallel partitioned FEM meshes taking advantage of the Collective/Independent IO provided by the HDF5 library, by victorsndvg and Stefano Zaghi. XH5For is not a general-purpose XDMF library, it only reads XDMF files written by itself
+
 ## Molecular Dynamics
 [EmDee](https://github.com/atoms-ufrj/EmDee): platform to test simulation methods that involve the mechanics of many atoms, such as different thermostats and barostats, hybrid Monte Carlo algorithms, etc, from atoms-ufrj
 
