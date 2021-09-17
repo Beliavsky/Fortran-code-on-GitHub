@@ -784,6 +784,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [h5fortran](https://github.com/geospace-code/h5fortran): Simple, robust, thin HDF5 polymorphic Fortran read/write interface, by geospace-code
 
+[mo_netcdf](https://github.com/schaefed/mo_netcdf): object-oriented wrapper around the NetCDF Fortran 90 interface, by David Schaefer et al.
+
 [nc4fortran](https://github.com/geospace-code/nc4fortran): object-oriented Fortran NetCDF4 interface, by geospace-code
 
 [NetCDF Input-Output (NCIO)](https://github.com/alex-robinson/ncio): simple Fortran interface to NetCDF reading and writing, by alex-robinson
