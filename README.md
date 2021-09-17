@@ -961,6 +961,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [library containing Some Useful Fortran Routines (libSUFR)](https://github.com/MarcvdSluys/libSUFR): code for command-line options and arguments, manipulation of dates and times,  fitting functions to data, interpolation, random number generation, sorting, solving equations, statistics, and other topics, by  Marc van der Sluys
 
+[M_calculator](https://github.com/urbanjost/M_calculator): parse Fortran-like double precision scalar expressions, by urbanjost
+
 [M_CLI2](https://github.com/urbanjost/M_CLI2): cracks the command line when given a prototype string that looks very much like an invocation of the program, by urbanjost. A call to get_args(3f) or one of its variants is then made for each parameter name to set the variables appropriately in the program.
 
 [M_msg](https://github.com/urbanjost/M_msg): convert all common variables to a string in Fortran using unlimited polymorphic variables, by urbanjost
