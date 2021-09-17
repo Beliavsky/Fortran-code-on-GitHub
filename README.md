@@ -1454,6 +1454,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [mpifx](https://github.com/dftbplus/mpifx): provides modern Fortran (Fortran 2003) wrappers around routines of the MPI library to make their use as simple as possible, from dftbplus. Currently several data distribution routines are covered.
 
+[NVIDIA OpenACC Course Sources and Labs](https://github.com/NVIDIA-OpenACC-Course/nvidia-openacc-course-sources): contains sources related to the lectures and labs for the [NVIDIA OpenACC course](https://developer.nvidia.com/openacc-courses).
+
 [OpenCoarrays](https://github.com/sourceryinstitute/OpenCoarrays): parallel application binary interface for Fortran 2018 compilers, from sourceryinstitute
 
 [Particle-In-Cell Scalable Application Resource (PICSAR)](https://github.com/ECP-WarpX/picsar): high performance repository intended to help scientists porting their Particle-In-Cell (PIC) codes to the next generation of exascale computers. PICSAR exploits the three levels of parallelism that will be required to achieve good performances on future architectures: distributed memory parallelization (internode), shared memory parallelization (intranode) and vectorization.
