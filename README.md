@@ -198,6 +198,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [raytracer](https://github.com/edin/raytracer): raytracer benchmark in dozens of languages, by edin. Associated with paper M. Moreira-Soares, R. Coimbra, L. Rebelo, J. Carvalho & R. D. M. Travasso. "Angiogenic Factors produced by Hypoxic Cells are a leading driver of Anastomoses in Sprouting Angiogenesis–a computational study". Scientific Reports 8, 8726 (2018)
 
+[Simple N-Body with LeapFrog integrator](https://github.com/marblestation/benchmark-leapfrog): Implementation in C, Fortran, Go, Julia and Rust of a very simple N-Body simulator with 3 particles using a LeapFrog integrator. Presented in What can the programming language Rust do for astrophysics?, to appear in the Proceedings of the IAU Symposium 325 on Astroinformatics.
+
 [STREAM2](https://github.com/jklinkenberg-benchmarks/STREAM2): STREAM2 is an attempt to extend the functionality of the STREAM benchmark in two important ways: STREAM2 measures sustained bandwidth at all levels of the cache hierarchy and more clearly exposes the performance differences between reads and writes
 
 ## Biology and Medicine
