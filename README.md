@@ -1191,6 +1191,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 [Truchas](https://github.com/truchas/truchas): physics-based modeling and simulation of manufacturing processes, from Los Alamos National Laboratory. Its core capabilities are primarily geared toward metal casting, with developing capabilities for metal additive manufacturing. 
 
 ## Mesh Generation
+[FEconv](https://github.com/victorsndvg/FEconv): utility to convert between several mesh and FE field formats, like ANSYS mesh files (.msh), MD Nastran input files (.bdf), I-Deas Universal (.unv), VTK files (.vtk), etc. 
+
 [fishman](https://github.com/dongli/fishman): generate Spherical Centroidal Voronoi Tessellation (SCVT) mesh for using in geophysical modeling, by dongli
 
 [hopr](https://github.com/flexi-framework/hopr): High Order Preprocessor is an open-source software for the generation of three-dimensional unstructured high-order meshes, from Numerics Research Group. These meshes are needed by high-order numerical methods like Discontinuous Galerkin, Spectral Element Methods or pFEM, in order to retain their accuracy if the computational domain includes curved boundaries.
