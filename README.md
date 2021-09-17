@@ -762,6 +762,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [dataset1d](https://github.com/perrette/dataset1d): in-memory netCDF Dataset for fortran, for 1-D arrays only (so making it more similar to a pandas DataFrame), by perrette
 
+[easy-netcdf](https://github.com/onepieceze/easy-netcdf): OOP Interface to the [netcdf Fortran library](https://github.com/Unidata/netcdf-fortran), by onepieceze
+
 [fcore](https://github.com/jchristopherson/fcore): string handling and i/o routines, by jchristopherson
 
 [FiNeR](https://github.com/szaghi/FiNeR): IO of INI (config) files for modern (2003+) Fortran projects, by szaghi and kostyfisik
