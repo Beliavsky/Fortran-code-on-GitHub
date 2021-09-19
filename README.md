@@ -1402,6 +1402,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [Minpack](https://github.com/certik/minpack): library for solving nonlinear equations and nonlinear least squares problems, with with CMake makefiles and examples by certik et al.
 
+[Minpack](https://github.com/jacobwilliams/minpack): modernization of the original Fortran 77 code, by Jacob Williams
+
 [minuit](https://github.com/ramos/minuit): Fortran 77 library for function minimization and error Analysis by F. James
 
 [nlopt-f](https://github.com/awvwgk/nlopt-wrap): Fortran bindings for the NLopt library, by awvwgk. While the NLopt library supports Fortran by using implicit interface calling conventions, those are not type-safe. 
