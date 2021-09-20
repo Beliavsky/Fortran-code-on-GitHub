@@ -965,6 +965,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [M_CLI2](https://github.com/urbanjost/M_CLI2): cracks the command line when given a prototype string that looks very much like an invocation of the program, by urbanjost. A call to get_args(3f) or one of its variants is then made for each parameter name to set the variables appropriately in the program.
 
+[M_history](https://github.com/urbanjost/M_history): input line history editor, by urbanjost
+
 [M_msg](https://github.com/urbanjost/M_msg): convert all common variables to a string in Fortran using unlimited polymorphic variables, by urbanjost
 
 [M_path](https://github.com/urbanjost/M_path): creates an OOP (Object Oriented Programming) interface to other modules in the [General Purpose Fortran](https://github.com/urbanjost/general-purpose-fortran) package, by urbanjost. 
