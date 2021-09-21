@@ -202,6 +202,9 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [STREAM2](https://github.com/jklinkenberg-benchmarks/STREAM2): STREAM2 is an attempt to extend the functionality of the STREAM benchmark in two important ways: STREAM2 measures sustained bandwidth at all levels of the cache hierarchy and more clearly exposes the performance differences between reads and writes
 
+[Traveling Salesman Problem Exact algorithm](https://github.com/harveytriana/TspApproach): fastest to slowest are C++, Rust, Go, C#, Fortran, Dart, and Python, by 
+Luis Harvey Triana Vega
+
 ## Biology and Medicine
 [angio](https://github.com/phydev/angio): 3D phase-field modelling for tumor angiogenesis, by phydev. Associated with [paper](https://www.nature.com/articles/s41598-018-27034-8) M. Moreira-Soares, R. Coimbra, L. Rebelo, J. Carvalho & R. D. M. Travasso. Angiogenic Factors produced by Hypoxic Cells are a leading driver of Anastomoses in Sprouting Angiogenesis–a computational study. Scientific Reports 8, 8726 (2018)
 
