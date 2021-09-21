@@ -145,6 +145,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [PhotochemPy](https://github.com/Nicholaswogan/PhotochemPy): photochemical model of rocky planet's atmospheres, by Nicholaswogan. Given inputs, like the stellar UV flux, the atmospheric temperature structure, etc., this code will find the steady-state chemical composition of an atmosphere, or evolve atmospheres through time.
 
+[PIERNIK](https://github.com/piernik-dev/piernik): grid-based MHD code using conservative numerical schemes: relaxing TVD scheme (Pen et al., 2003; Trac & Pen, 2003) and the recently implemented HLLD approximate Riemann MHD solver (Miyoshi & Kusano, 2005) combined with the Dedner et al. (2002) divergence cleaning algorithm. 
+
 [Planetary Code Collection](https://github.com/nschorgh/Planetary-Code-Collection): Thermal and Ice Evolution Models for Planetary Surfaces, by Norbert Schorghofer
 
 [pymoog](https://github.com/MingjieJian/pymoog): Python 3 wrapper for running the LTE spectrum synthesis part of the Fortran code [MOOG](https://www.as.utexas.edu/~chris/moog.html) by Chris Sneden
