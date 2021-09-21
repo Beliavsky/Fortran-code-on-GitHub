@@ -1059,6 +1059,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [MatlabAPI](https://github.com/robince/MatlabAPI): Fortran 95 Matlab API
 
+[MatlabFortran](https://github.com/aledinola/MatlabFortran): easily export data from Matlab to Fortran and back, by Alessandro Di Nola
+
 [M_process](https://github.com/urbanjost/M_process): read and write lines to or from a process from Fortran via a C wrapper, by urbanjost
 
 [M_system](https://github.com/urbanjost/M_system): module that allows Fortran to call commonly available C routines that perform basic system operations like creating and deleting files and directories, changing and querying file permits, getting basic ID and process information, ... and other POSIX system requests, by urbanjost
