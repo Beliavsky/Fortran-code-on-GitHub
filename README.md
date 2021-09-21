@@ -1633,6 +1633,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [SNAP](https://github.com/lanl/SNAP): proxy application to model the performance of a modern discrete ordinates neutral particle transport application, from LANL
 
+[SPECTRA-PKA](https://github.com/fispact/SPECTRA-PKA): calculates the expected primary knock-on atom (PKA) spectra for a given target nuclide under neutron or charged particle irradiation, by Mark Gilbert and Michael Fleming. NJOY-processed recoil matrices must be provided as the input nuclear data for each nuclide and reaction channel of interest. 
+
 [Stellarator Fokker-Planck Iterative Neoclassical Conservative Solver (SFINCS)](https://github.com/landreman/sfincs): computes neoclassical effects in nonaxisymmetric or axisymmetric toroidal plasmas, such as stellarators and tokamaks, by Matt Landreman et al. The code solves a drift-kinetic equation for the distribution function of each species. 
 
 [STELLOPT](https://github.com/PrincetonUniversity/STELLOPT): stellarator optimization code, from PrincetonUniversity. A stellarator is a plasma device that relies primarily on external magnets to confine a plasma.
