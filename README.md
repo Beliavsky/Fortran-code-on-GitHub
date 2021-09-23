@@ -1821,6 +1821,8 @@ and Andrea Rau.
 
 [Regression via Nonsmooth Optimization](https://github.com/SnTa2019/Regression-via-Nonsmooth-Optimization): optimization based regression algorithms introduced by Sona Taheri and co-authors
 
+[sampleSTAT](https://github.com/haniibrahim/sampleSTAT): command-line application to determine sampling distributions, by Hani Andreas Ibrahim. It goes a lot further than arithmetic mean and standard deviation.
+
 [SLICE](https://github.com/ericlindsey/slice): efficient N-Dimensional Monte Carlo inversion algorithm, by ericlindsey 
 
 [SparseReg](https://github.com/Hua-Zhou/SparseReg): Matlab toolbox for sparse regression calling Fortran code, by Hua-Zhou Hua Zhou and Brian Gaines
