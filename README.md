@@ -875,6 +875,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [Castlequest](https://github.com/Quuxplusone/Castlequest): parser adventure
 
+[fortlife](https://github.com/owainkenwayucl/fortlife): Conway's Game of Life, written in Fortran 77 for the Open Watcom compiler on FreeDOS, but which also compiles on gfortran on Linux, by Owain Kenway
+
 [fortranchessprogram](https://github.com/arbolis/fortranchessprogram): chess program where the user enters moves in notation such as e2-e4 and the board is displayed as text
 
 [mastermind](https://github.com/fortran-gaming/mastermind): classic MasterMind game in modern Fortran 2008, from fortran-gaming
