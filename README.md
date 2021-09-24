@@ -346,6 +346,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [FREZCHEM](https://github.com/MarcNeveu/frezchem): includes chloride, bromide, perchlorate, nitrate, sulfate, and bicarbonate-carbonate salts, strong acid chemistry, ferrous and ferric iron chemistry, aluminum and silicon chemistries, ammonia and ammonium chemistries, methane, ethane, and propane chemistries, and gas hydrate chemistry, by Giles Marion. This version includes both temperature and pressure dependencies.
 
+[gibbs2](https://github.com/aoterodelaroza/gibbs2): calculates pressure and temperature dependent thermodynamic properties of solids from ab initio results, by aoterodelaroza
+
 [HFB](https://github.com/knappf/HFB): Hartree-Fock-Bogolyubov code for (hyper)nuclear structure calculations (version by P. Vesely)
 
 [HICOLM: Multi-Methods for Molecules and Condensed Systems](https://github.com/flavianowilliams/HICOLM): molecular modelling of condensed systems. Reference: F. W. Fernandes, HICOLM: High-Performance Platform of Physical Simulations by Using Low Computational Cost Methods. doi: 10.22456/2175-2745.92486.
