@@ -877,6 +877,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [Castlequest](https://github.com/Quuxplusone/Castlequest): parser adventure
 
+[Empire for the PDP-10](https://github.com/DigitalMars/Empire-for-PDP-10): Empire Written In FORTRAN-10 for the PDP-10 Circa 1978, from DigitalMars
+
 [fortlife](https://github.com/owainkenwayucl/fortlife): Conway's Game of Life, written in Fortran 77 for the Open Watcom compiler on FreeDOS, but which also compiles on gfortran on Linux, by Owain Kenway
 
 [fortranchessprogram](https://github.com/arbolis/fortranchessprogram): chess program where the user enters moves in notation such as e2-e4 and the board is displayed as text
