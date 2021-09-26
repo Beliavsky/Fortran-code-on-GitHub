@@ -1537,6 +1537,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [MORFEUS](https://github.com/sourceryinstitute/MORFEUS-Source): framework for the solution of partial differential equations (PDEs) written in modern Fortran, from sourceryinstitute. It is object oriented and attempts to provide useful abstractions for the solution of PDEs that are easy to use and performant.
 
+[PoisFFT](https://github.com/LadaF/PoisFFT): solves the Poisson equation on a uniform Cartesian grid using the Fast Fourier Transform, by Vladimír Fuka and Javier Alejandro Acevedo Barroso. It calls the library FFTW3 and (if MPI is used) also PFFT.
+
 [PyClaw](https://github.com/clawpack/pyclaw): Python-based interface to the algorithms of Clawpack and SharpClaw. It also contains the PetClaw package, which adds parallelism through PETSc.
 
 [riemann](https://github.com/clawpack/riemann): centralized location for all Clawpack-compatible Riemann solvers
