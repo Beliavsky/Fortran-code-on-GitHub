@@ -478,6 +478,8 @@ nscapin
 
 [WABBIT](https://github.com/adaptive-cfd/WABBIT): Wavelet Adaptive Block-Based solver for Interactions with Turbulence, from adaptive-cfd
 
+[WiRE-LES2](https://github.com/moulin1024/WiRE-LES2): large-eddy simulation code written in CUDA Fortran for simulating atmospheric boundary layer flows, by Mou Lin and Tristan Revaz
+
 ## Dates and Times
 [datetime-fortran](https://github.com/milancurcic/datetime-fortran): time and date manipulation facilities, by milancurcic
 
