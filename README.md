@@ -1184,6 +1184,8 @@ generalized eigenvalue problems, from NLAFET
 
 [moa-fortran](https://github.com/wyphan/moa-fortran): Mathematics of Arrays library for modern Fortran, by Wileam Y. Phan
 
+[Monolis](https://github.com/nqomorita/monolis): Morita's non-overlapping / overlapping domain decomposition based linear equation solver. Has both a direct solver (LU) and many iterative solvers
+
 [MPI_GEVP](https://github.com/sims-code/MPI_GEVP): Fortran 90+ program for solving the generalized eigenvalue problem on distributed computers, by sims-code
 
 [NTPoly](https://github.com/william-dawson/ntpoly): massively parallel library for computing the functions of sparse matrices, by william-dawson
