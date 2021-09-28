@@ -836,6 +836,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [elmerfem](https://github.com/ElmerCSC/elmerfem): finite element software for numerical solution of partial differential equations. Elmer is capable of handling any number of equations and is therefore ideally suited for the simulation of multiphysical problems.
 
+[FrontISTR](https://github.com/FrontISTR/FrontISTR): Large-Scale Parallel FEM Program for Nonlinear Structural Analysis, by Naoki Morita et al.
+
 [HypFEM](https://github.com/md861/HypFEM): enriched finite element solution space based numerical solver for initial-boundary value problems in hyperbolic linear PDEs, by md861
 
 [MYSTRAN](https://github.com/dr-bill-c/MYSTRAN): general purpose finite element analysis computer program for structures that can be modeled as linear (i.e. displacements, forces and stresses proportional to applied load), by dr-bill-c et al.
