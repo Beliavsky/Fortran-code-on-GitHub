@@ -1572,6 +1572,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [sippp](https://github.com/nschloe/sippp): solves singularly perturbed parabolic problems, by Nico Schlömer. The library contains routines which handle the generation of meshes (in particular layer adapted meshes) when treating singularly perturbed problems as well as a wide range of A-stable Runge-Kutta methods.
 
+[Spectral Element Libraries in Fortran (SELF)](https://github.com/FluidNumerics/SELF): object-oriented Fortran library that support the implementation of Spectral Element Methods for solving partial differential equations, by Joe Schoonover. The SELF API is designed based on the assumption that SEM developers and researchers need to be able to implement derivatives in 1-D and divergence, gradient, and curl in 2-D and 3-D on scalar, vector, and tensor functions using spectral collocation, continuous galerkin, and discontinuous galerkin spectral element methods.
+
 [Unstructured Finite Volume Solver](https://github.com/komahanb/unstructured-finite-volume): unstructured Finite Volume Solver for Partial Differential Equations that is standard Fortran 2018, is object-oriented for separation of geometry, physics and solution, uses coarrays for distributed memory parallelism, and uses the pure, elemental, and do concurrent features for shared memory parallelism, by komahanb
 
 ## Particle Physics
