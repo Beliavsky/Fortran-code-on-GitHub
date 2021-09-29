@@ -853,6 +853,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran
 
+[simple Discrete Element Method (sDEM)](https://github.com/GongZheng-Justin/sDEM): simple parallel DEM code by Zheng Gong, with the following features: MPI parallelization by means of 2D Domain Decomposition, the ability to handle particles with different diameters, both linear and non-linear contact force models, and NBS-Munjiza (Non Binary Search - Munjiza) contact search algorithm
+
 ## Fortran Books and Tutorials
 [coarray-tutorial](https://github.com/tkoenig1/coarray-tutorial): short tutorial using gfortran, ifort, or NAG Fortran, by tkoenig1
 
