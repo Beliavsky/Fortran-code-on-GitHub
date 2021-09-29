@@ -399,6 +399,9 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [code_saturne](https://github.com/code-saturne/code_saturne): CFD software handling either incompressible or expandable flows with or without heat transfer and turbulence
 
+[contur](https://github.com/aldorona/contur): code in Appendix D of J.C. Sivells, [A computer program for the aerodynamic design of axisymmetric and planar nozzles for supersonic and hypersonic wind tunnels](https://apps.dtic.mil/sti/citations/ADA062944), ARO Inc., a Sverdrup Corporation Company, ADEC TR 78 63, December 1978.
+The code uses a combination of analytical solutions, the method of  characteristics, and centerline distributions in order to calculate the divergent section of a convergent-divergent de Laval nozzle.
+
 [Couette-Poiseuille-Flow](https://github.com/anand-me/Couette-Poiseuille-Flow): computation of Couette-Poiseuille flow with a mixing-length model of turbulence, by Akshay Anand
 
 [EOF](https://github.com/parkeryang69/EOF): simulation of electro-osmotic flow by Lattice Boltzmann method, by parkeryang69
