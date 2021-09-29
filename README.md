@@ -1250,6 +1250,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 [Truchas](https://github.com/truchas/truchas): physics-based modeling and simulation of manufacturing processes, from Los Alamos National Laboratory. Its core capabilities are primarily geared toward metal casting, with developing capabilities for metal additive manufacturing. 
 
 ## Mesh Generation
+[EqualSpherePartition](https://github.com/GongZheng-Justin/EqualSpherePartition): partitions the surface of a sphere into regions of equal area, by Zheng Gong. Reference: Leopardi P. [A partition of the unit sphere into regions of equal area and small diameter](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.90.2213)[J]. Electronic Transactions on Numerical Analysis Etna, 2006, 25(1):2006.
+
 [FEconv](https://github.com/victorsndvg/FEconv): utility to convert between several mesh and FE field formats, like ANSYS mesh files (.msh), MD Nastran input files (.bdf), I-Deas Universal (.unv), VTK files (.vtk), etc. 
 
 [fishman](https://github.com/dongli/fishman): generate Spherical Centroidal Voronoi Tessellation (SCVT) mesh for using in geophysical modeling, by dongli
