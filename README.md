@@ -387,6 +387,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [CaNS](https://github.com/p-costa/CaNS): fast, massively-parallel direct numerical simulations (DNS) of canonical flows, by p-costa and nscapin
 
+[cemfDEM](https://github.com/hamidrezanorouzi/cemfDEM): code corresponding to the book [Coupled CFD-DEM Modeling: Formulation, Implementation and Application to Multiphase Flows](https://www.wiley.com/en-us/Coupled+CFD+DEM+Modeling%3A+Formulation%2C+Implementation+and+Application+to+Multiphase+Flows-p-9781119005292) by Hamid Reza Norouzi et al.
+
 [CFD](https://github.com/brli3/CFD): basic CFD schemes implemented in Fortran using Finite-Volume and Finite-Difference Methods, by brli3. Sample simulations and figures are provided.
 
 [CFL3D](https://github.com/nasa/CFL3D): structured-grid, cell-centered, upwind-biased, Reynolds-averaged Navier-Stokes (RANS) code, by Chris Rumsey et al. It can be run in parallel on multiple grid zones with point-matched, patched, overset, or embedded connectivities.
