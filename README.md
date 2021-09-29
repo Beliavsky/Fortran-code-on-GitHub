@@ -923,6 +923,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [ferror](https://github.com/jchristopherson/ferror): library to assist with error handling in Fortran projects
 
+[Fortran General Library (FGL)](https://github.com/mobius-eng/FGL): code for bitstrings, exception handling, hash tables, lists, logging, queues, strings, sorting, JSON parsing, and other topics, from mobius-eng
+
 [fhash](https://github.com/LKedward/fhash): hash table with support for generic keys and values, by LKedward
 
 [ffhash](https://github.com/jannisteunissen/ffhash): generic and fast hash table similar to khash in C, by Jannis Teunissen
