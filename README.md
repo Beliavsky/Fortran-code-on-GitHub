@@ -992,7 +992,7 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [general-purpose-fortran](https://github.com/urbanjost/general-purpose-fortran): non-numeric tasks such as command-line parsing, string functions, date-and-time manipulation and display, interfacing to the C POSIX system routines, by urbanjost
 
-[gFTL](https://github.com/Goddard-Fortran-Ecosystem/gFTL): provides a mechanism to easily create robust containers and associated iterators which can be used within Fortran applications, from Goddard-Fortran-Ecosystem. The primary methods are intended to be as close to their C++ STL analogs as possible.
+[gFTL](https://github.com/Goddard-Fortran-Ecosystem/gFTL): provides a mechanism to easily create robust containers and associated iterators which can be used within Fortran applications, from Goddard-Fortran-Ecosystem. The primary methods are intended to be as close to their C++ STL analogs as possible. Also see [gFTL-shared](https://github.com/Goddard-Fortran-Ecosystem/gFTL-shared)
 
 [hwloc-fortran](https://github.com/scivision/hwloc-fortran): simple Fortran binding for HWLOC to get CPU count, with fallback to alternative methods, from scivision. Provides Fortran module hwloc_ifc with integer(int32) function get_cpu_count().
 
