@@ -1831,6 +1831,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [Adaptive Mixture ICA (AMICA) with shared components](https://github.com/japalmer29/amica): code associated with [paper](https://sccn.ucsd.edu/~jason/amica_a.pdf) "AMICA: An Adaptive Mixture of Independent Component Analyzers with Shared Components" Jason A. Palmer, Ken Kreutz-Delgado, and Scott Makeig
 
+[amber](https://github.com/octoflar/amber): evaluate multivariate Bernstein polynomials for multivariate polynomial regression using de Casteljau's algorithm, by R. Quast
+
 [asurv](https://github.com/rsnemmen/asurv): suite of statistical methods for the analysis of censored data; i.e. data which are known to lie above or below some limit, by rsnemmen
 
 [bayesR](https://github.com/syntheke/bayesR): Bayesian hierarchical model for complex trait analysis, associated with [paper](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004969) "Simultaneous Discovery, Estimation and Prediction Analysis of Complex Traits Using a Bayesian Mixture Model", by Gerhard Moser et al.
