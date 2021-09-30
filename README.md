@@ -696,12 +696,13 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [SEM2DPACK](https://github.com/jpampuero/sem2dpack): spectral element method for 2D wave propagation and fracture dynamics, with emphasis on computational seismology and earthquake source dynamics, from jpampuero et al.
 
-[Shear-wave birefringence analysis (SHEBA)](https://github.com/jwookey/sheba): code associated with Wüstefeld, A.; Al-Harrasi, O.; Verdon, J.; Wookey, J. and Kendall, J-M. (2010)
-"A strategy for automated analysis of passive microseismic data to image seismic anisotropy and fracture characteristics", Geophysical Prospecting, vol 58, 755–773, DOI:10.1111/j.1365-2478.2010.00891.x
+[Shear-wave birefringence analysis (SHEBA)](https://github.com/jwookey/sheba): code associated with Wüstefeld, A.; Al-Harrasi, O.; Verdon, J.; Wookey, J. and Kendall, J-M. (2010) "A strategy for automated analysis of passive microseismic data to image seismic anisotropy and fracture characteristics", Geophysical Prospecting, vol 58, 755–773, DOI:10.1111/j.1365-2478.2010.00891.x
 
 [SLIM: The Simple Land Interface Model](https://github.com/marysa/SimpleLand): reference: Laguë, M. M., Bonan, G. B., & Swann, A. L. S. (2019). Separating the Impact of Individual Land Surface Properties on the Terrestrial Surface Energy Budget in both the Coupled and Uncoupled Land–Atmosphere System. Journal of Climate, 32(18), 5725–5744. https://doi.org/10.1175/jcli-d-18-0812.1
 
 [Simstrat](https://github.com/Eawag-AppliedSystemAnalysis/Simstrat): one-dimensional physical lake model for the simulation of stratification and mixing in deep stratified lakes, from Eawag-AppliedSystemAnalysis. The model was originally developed by Goudsmit et al. (2002) and has been successfully applied to lakes with different physical properties.
+
+[Sparse Matrix Operator Kernel Emissions (SMOKE) Modeling System](https://github.com/CEMPD/SMOKE): emissions processing system designed to create gridded, speciated, hourly emissions for input into a variety of air quality models such as CMAQ, REMSAD, CAMX and UAM. SMOKE supports area, biogenic, mobile (both onroad and nonroad), and point source emissions processing for criteria, particulate, and toxic pollutants.
 
 [Soil and Water Assessment Tool Plus (SWAT+)](https://github.com/joelz575/swatplus): small watershed to river basin-scale model to simulate the quality and quantity of surface and ground water and predict the environmental impact of land use, land management practices, and climate change. SWAT is widely used in assessing soil erosion prevention and control, non-point source pollution control and regional management in watersheds.
 
