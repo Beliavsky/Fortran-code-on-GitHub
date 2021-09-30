@@ -1956,6 +1956,8 @@ milancurcic and awvwgk
 
 [Fortran Unit Test Library](https://github.com/zhenkunl/Fortran_UnitTest): pure Fortran library using Object-Oriented Programming (OOP), by zhenkunl. It is strongly inspired by [Zofu](https://github.com/acroucher/zofu), and its output format is derived from [fortran-unit-test](https://github.com/dongli/fortran-unit-test). 
 
+[FyTest — Instant Fortran unit testing](https://github.com/aradi/fytest): lightweight unit testing framework for Fortran, by Bálint Aradi. Thanks to its header-only design, it can be easily bundled with any Fortran project without creating extra dependencies. 
+
 [pFUnit](https://github.com/Goddard-Fortran-Ecosystem/pFUnit): unit testing framework enabling JUnit-like testing of serial and MPI-parallel software written in Fortran, from Goddard-Fortran-Ecosystem. Limited support for OpenMP is also provided in the form of managing exceptions in a thread-safe manner.
 
 [tap](https://github.com/gzahl/tap): minimal producer implementation of the "Test Anything Protocol" (TAP) in Fortran 90, from gzahl
