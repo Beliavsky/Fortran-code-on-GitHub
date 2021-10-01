@@ -171,6 +171,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [universe-age](https://github.com/shu-yusa/universe-age): calculate the age of the universe for various parameters by integrating Friedmann Equation, by shu-yusa
 
+[weaklib](https://github.com/starkiller-astro/weaklib): code library for astrophysical applications, from starkiller-astro. It provides preprocessed equation of state (EoS) and neutrino opacity tables for use in neutrino transport calculations.
+
 [XNet](https://github.com/starkiller-astro/XNet): thermonuclear reaction network for astrophysical applications, using a variety of temporal integration techniques, from starkiller-astro. It is written in portable modern Fortran and makes use of a variety of matrix solving packages to obtain excellent speed (as much as 50% of peak) on as many platforms as possible.
 
 ## Benchmarks
