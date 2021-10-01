@@ -1290,6 +1290,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 [XH5For](https://github.com/victorsndvg/XH5For): library to read and write parallel partitioned FEM meshes taking advantage of the Collective/Independent IO provided by the HDF5 library, by victorsndvg and Stefano Zaghi. XH5For is not a general-purpose XDMF library, it only reads XDMF files written by itself
 
 ## Molecular Dynamics
+[ABIN](https://github.com/PHOTOX/ABIN): performs ab initio molecular dynamics, by Daniel Hollas et al. It was designed specifically to deal with quantum nuclear effects.
+
 [EmDee](https://github.com/atoms-ufrj/EmDee): platform to test simulation methods that involve the mechanics of many atoms, such as different thermostats and barostats, hybrid Monte Carlo algorithms, etc, from atoms-ufrj
 
 [kg4vasp](https://github.com/conodipaola/kg4vasp): Kubo-Greenwood for transport properties from First Principle Molecular Dynamics with VASP, by conodipaola
