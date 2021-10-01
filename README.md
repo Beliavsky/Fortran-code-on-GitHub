@@ -1344,7 +1344,7 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [forlab](https://github.com/zoziha/forlab): module that provides a lot of functions for scientific computing mostly inspired by Matlab and Python's module NumPy, by zoziha
 
-[forSISL](https://github.com/rweed/forSISL): Modern Fortran interfaces to the SINTEF Spline Library (SISL) 
+[forSISL](https://github.com/rweed/forSISL): Modern Fortran interfaces to the [SINTEF Spline Library (SISL)](https://github.com/SINTEF-Geometry/SISL), by Richard Weed
 
 [FURY](https://github.com/szaghi/FURY): Fortran Units (environment) for Reliable phYsical math, by Stefano Zaghi 
 
@@ -1354,7 +1354,7 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [lookup_table_fortran](https://github.com/jannisteunissen/lookup_table_fortran): module for linear lookup tables, by jannisteunissen. Supports multiple columns and various ways to read values from the table 
 
-[Modern Fortran Utilities](https://github.com/rweed/ModForUtils): variety of tasks including computing binomial coefficients, factorials, routines for checking for NaN and Infinity floating point exceptions, root finders, random number utils and array sorters, by rweed. Future releases will expand on these utilities and add interpolation routines and other utilities.
+[Modern Fortran Utilities (ModForUtils)](https://github.com/rweed/ModForUtils): variety of tasks including computing binomial coefficients, factorials, routines for checking for NaN and Infinity floating point exceptions, root finders, random number utils and array sorters, and findloc, by Richard Weed. Future releases will expand on these utilities and add interpolation routines and other utilities.
 
 [NITSOL](https://github.com/cmacmackin/nitsol): Newton-iterative solution of large-scale nonlinear systems, by Homer F. Walker
 
