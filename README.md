@@ -1675,6 +1675,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [octopus](https://github.com/octopus/octopus): ab initio virtual experimentation on electron/ion dynamics in external electromagnetic fields of arbitrary intensity, shape and frequency in a hopefully ever increasing range of system types, by M. A. L. Marques et al.
 
+[OpenCalphad](https://github.com/sundmanbo/opencalphad): thermodynamic software for calculation of multicomponent equilibria, property and phase diagrams and for database development, by Bo Sundman et al. It has a simple command line interface and an Application Software Interface (OCASI) for integration in simulation software. 
+
 [Parabolic two-band model Analyzer for Nonlinear electron Dynamics in Attosecond phenomena (PANDA)](https://github.com/shunsuke-sato/two_band_model): calculates electron dynamics and light-matter interactions, by Shunsuke A. Sato. It is based on a parabolic two-band model for electron structure and dynamics.
 
 [Quantum Annealing Machine Emulator](https://github.com/camsenec/qa-emulator): quantum annealing simulation on SpinGlass model using Path Integral Monte Carlo method, by Tomoya Tanaka
