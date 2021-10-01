@@ -819,6 +819,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [nc4fortran](https://github.com/geospace-code/nc4fortran): object-oriented Fortran NetCDF4 interface, by geospace-code
 
+[NetCDF95](https://github.com/lguez/NetCDF95): interface to the NetCDF library, by Lionel Guez. Compared to the Fortran 90 NetCDF interface, the NetCDF95 interface is meant to be friendlier and more secure, for example freeing the user from the cumbersome task of handling the error status.
+
 [NetCDF Input-Output (NCIO)](https://github.com/alex-robinson/ncio): simple Fortran interface to NetCDF reading and writing, by alex-robinson
 
 [nml](https://github.com/alex-robinson/nml): Fortran namelist I/O module intended to provide a small upgrade to native Fortran namelist functionality, by alex-robinson
