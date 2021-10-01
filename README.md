@@ -1002,6 +1002,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [json-fortran](https://github.com/jacobwilliams/json-fortran): user-friendly, thread-safe, and object-oriented API for reading and writing JSON files, written in modern Fortran, by Jacob Williams
 
+[Jumble](https://github.com/lguez/Jumble): library of various utilities in Fortran 2003, by Lionel Guez
+
 [kdtree2](https://github.com/jmhodges/kdtree2): kd-tree implementation in C++ (and Fortran) by Matthew B. Kennel
 
 [library containing Some Useful Fortran Routines (libSUFR)](https://github.com/MarcvdSluys/libSUFR): code for command-line options and arguments, manipulation of dates and times,  fitting functions to data, interpolation, random number generation, sorting, solving equations, statistics, and other topics, by  Marc van der Sluys
