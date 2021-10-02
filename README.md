@@ -916,6 +916,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [BeFoR64](https://github.com/szaghi/BeFoR64): Base64 encoding/decoding library for FoRtran poor men, is a pure Fortran (KISS) library for base64 encoding/decoding for modern (2003+) Fortran projects
 
+[cernlib](https://github.com/apc-llc/cernlib): large collection of general purpose libraries and modules maintained and offered in both source and object code form on the CERN central computers. Most of these programs were developed at CERN and are therefore oriented towards the needs of a physics research laboratory that is general mathematics, data analysis, detectors simulation, data-handling etc... applicable to a wide range of problems. 
+
 [commonTools](https://github.com/wtdailey/commonTools): code for file I/O, Gauss-Legendre quadrature, mathematical and physical constants, interpolation, Legendre polynomials, random number generation, numerical integration, finding roots, sorting, statistics, and other topics, by Whitman T. Dailey
 
 [coretran](https://github.com/leonfoks/coretran): easy-to-follow library to make Fortran easier in general with wrapped interfaces, sorting routines, kD-Trees, and other algorithms to handle scientific data and concepts.
