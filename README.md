@@ -230,7 +230,7 @@ Luis Harvey Triana Vega
 
 [MycoplasmaGenitalium](https://github.com/ccsb-scripps/MycoplasmaGenitalium): modelling of Mycoplasma genitalium based on the WC computational model, by Ludovic Autin and Martina Maritan
 
-[Reproductive Simulation Library (reprosim)](https://github.com/VirtualPregnancy/reprosim): placenta and uterus simulation libraries by 
+[Reproductive Simulation Library (reprosim)](https://github.com/VirtualPregnancy/reprosim): placenta and uterus simulation libraries by Monika Byrne et al.
 
 [svFSI](https://github.com/SimVascular/svFSI): multi-physics finite element solver for patient-specific blood flow simulation including fluid-structure interaction and cardiac electrophysiology, by Vijay Vedula et al.
 
