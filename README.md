@@ -924,6 +924,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [coretran](https://github.com/leonfoks/coretran): easy-to-follow library to make Fortran easier in general with wrapped interfaces, sorting routines, kD-Trees, and other algorithms to handle scientific data and concepts.
 
+[f90getopt](https://github.com/haniibrahim/f90getopt): getopt()- and getopt_long()-like functionality (similar to the C-functions) for Fortran 90, by Hani Andreas Ibrahim
+
 [fArgParse](https://github.com/Goddard-Fortran-Ecosystem/fArgParse): command line argument parsing for Fortran, from Goddard-Fortran-Ecosystem
 
 [FACE](https://github.com/szaghi/FACE): Ansi Colors and Styles Environment, by szaghi et al.
