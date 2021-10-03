@@ -1179,6 +1179,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [DBCSR](https://github.com/cp2k/dbcsr): Distributed Block Compressed Sparse Row matrix library, by cp2k
 
+[Eigensolver_gpu](https://github.com/NVIDIA/Eigensolver_gpu): generalized eigensolver for symmetric/hermetian-definite eigenproblems with functionality similar to the DSYGVD/X or ZHEGVD/X functions available within LAPACK/MAGMA, by Josh Romero et al. This solver has less dependencies on CPU computation than comparable implementations within MAGMA, which may be of benefit to systems with limited CPU resources or to users without access to high-performing CPU LAPACK libraries.
+
 [Eigenvalue SoLvers for Petaflop-Applications (ELPA)](https://github.com/marekandreas/elpa): scalable eigensolver for dense, symmetric (Hermitian) matrices
 
 [expokit](https://github.com/rasmusgo/expokit): matrix exponential package
