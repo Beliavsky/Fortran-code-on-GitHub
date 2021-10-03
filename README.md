@@ -1078,6 +1078,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [M_escape](https://github.com/urbanjost/M_escape): using in-band signaling wih ANSI control (escape) sequences to control terminal color from Fortran, by urbanjost and brocolis
 
+[M_ncurses](https://github.com/urbanjost/M_ncurses): module that allows use of the C Ncurses library for controlling and formatting terminal displays, by urbanjost
+
 [ogpf](https://github.com/kookma/ogpf): Object-Based Interface to GnuPlot from Fortran, by kookma
 
 [PG2PLplot](https://github.com/AstroFloyd/PG2PLplot): facilitate the transition from Fortran code linked against [PGPlot](https://sites.astro.caltech.edu/~tjp/pgplot/) to linking it against [PLplot](http://plplot.sourceforge.net/), which is open source and maintained. Currently, many PGPlot routines are included, but the code is by no means exhaustive.
