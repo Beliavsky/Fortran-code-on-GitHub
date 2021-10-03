@@ -186,6 +186,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [Comparison of Programming Languages in Economics](https://github.com/jesusfv/Comparison-Programming-Languages-Economics): code referenced in the paper "A Comparison of Programming Languages in Economics" by S. Borağan Aruoba and Jesús Fernández-Villaverde
 
+[cumsum_benchmark](https://github.com/ivan-pi/cumsum_benchmark): benchmarks for the cumulative sum of an array, in Fortran, C++, Matlab, and Python, using various methods
+
 [hpc-medley](https://github.com/moutai/hpc-medley): two publicly available hpc benchmarks: NPB (NAS) and the HPL part of the HPCC challenge. It is used to determine the performance of clustered computing resources.
 
 [Julia, Matlab, Octave, and Fortran FEM Benchmark and Comparison](https://github.com/rdeits/julia-matlab-fortran-fem-benchmark): Benchmark and comparison of Julia, Matlab, Octave, and Fortran for a 2D Poisson problem solved on a unit square, by rdeits. The problem is discretized with Q1 bilinear Lagrange finite elements.
