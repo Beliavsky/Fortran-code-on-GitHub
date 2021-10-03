@@ -815,6 +815,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [HDF5 wrapper](https://github.com/mpickem/hdf5_wrapper): minimalistic hdf5 wrapper for Fortran90/95, by Matthias Pickem
 
+[M_display](https://github.com/urbanjost/M_display): standard Fortran 95 module for printing scalars, vectors, and matrices to external files, by urbanjost. The module can display variables of default kind of all intrinsic types (integer, real, complex, logical, and character), and add-on modules are provided for data of the nondefault kind. 
+
 [mpi-libfdf-parser](https://github.com/neelravi/mpi-libfdf-parser): modern Fortran-based parser for parsing input files, by neelravi. It uses the LibFDF library and works with sequential as well as multinode calculations.
 
 [h5fortran](https://github.com/geospace-code/h5fortran): Simple, robust, thin HDF5 polymorphic Fortran read/write interface, by geospace-code
