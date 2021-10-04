@@ -296,6 +296,8 @@ simulating and forecasting meteorological phenomena.
 
 [scream](https://github.com/E3SM-Project/scream): global atmosphere model targeted towards 3 km ("cloud resolving") resolution. It is part of the Energy Exascale Earth System Model (E3SM)
 
+[SPARTACUS-Surface - Canopy radiation scheme](https://github.com/ecmwf/spartacus-surface): computes radiative transfer in complex 3D surface canopies, such as forests and cities, by Robin Hogan and VakankGrang. It makes use of the "SPARTACUS" technique, originally developed for clouds. 
+
 [speedy.f90](https://github.com/samhatfield/speedy.f90): intermediate complexity atmospheric general circulation model written in modern Fortran, by Sam Hatfield and Leo Saffin It is based on [SPEEDY](http://users.ictp.it/~kucharsk/speedy-net.html), developed by Fred Kucharski, Franco Molteni and Martin P. King.
 
 [urban Dutch Atmospheric Large Eddy Simulation (u-dales)](https://github.com/uDALES/u-dales): large-eddy simulation (LES) model for urban environments. LES is an approach to turbulence modelling used in computational fluid dynamics to simulate turbulent flows over a wide range of spatial and temporal scales.
