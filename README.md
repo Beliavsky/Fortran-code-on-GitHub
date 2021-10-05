@@ -1562,6 +1562,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [gpu-tips](https://github.com/dappelha/gpu-tips): Fortran examples of CUDA and directives tips and tricks for IBM Power + Nvidia Systems, by dappelha
 
+[Hybrid CPU programming with OpenMP and MPI](https://github.com/csc-training/hybrid-openmp-mpi): exercise material and model answers for the [CSC course](https://events.prace-ri.eu/event/1225/), by Jussi Enkovaara and Martti Louhivuori
+
 [matmul_fortran_tensor_core](https://github.com/samhatfield/matmul_fortran_tensor_core): Example code for calling Tensor Core GEMM from Fortran, by Sam Hatfield
 
 [miniWeather](https://github.com/mrnorman/miniWeather): mini app simulating weather-like flows for training in parallelizing accelerated HPC architectures, by mrnorman. Currently includes MPI (C, Fortran, and C++), OpenACC Offload (C and Fortran), OpenMP Threading (C and Fortran), OpenMP Offload (C and Fortran), and C++ Portability.
