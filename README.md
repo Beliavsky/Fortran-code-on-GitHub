@@ -1790,6 +1790,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [MuST](https://github.com/mstsuite/MuST): Multiple Scattering Theory code for first principles calculations, from mstsuite. Ab initio electronic structure calculation software package, with petascale and beyond computing capability, for the first principles study of quantum phenomena in disordered materials.
 
+[NECI](https://github.com/ghb24/NECI_STABLE): implements the Full Configuration Interaction Quantum Monte Carlo (FCIQMC) algorithm, a method based on a stochastic application of the Hamiltonian matrix on a sparse sampling of the wave function. The program utilizes a very powerful parallelization and scales efficiently to more than 24 000 central processing unit cores.
+
 [NWChem](https://github.com/nwchemgit/nwchem): Open Source High-Performance Computational Chemistry
 
 [Object Oriented GRASP](https://github.com/cffischer/Object-Oriented-GRASP): general relativistic atomic structure software organized as the processing of objects that is both more readable and manages memory more efficiently, by Charlotte Fischer. Written in Fortran 2008 or later, it relies extensively on parameterized user-defined data types for defining objects and linked lists for managing memory of lists whose size cannot be determined in advance.
