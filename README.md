@@ -430,6 +430,8 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [FLUSI](https://github.com/pseudospectators/FLUSI): Fluid-Structure-Interaction / MHD Research Code, from pseudospectators. Relies on Fourier transforms for derivatives and the volume penalization method to include obstacles.
 
+[Fluid Transport Accelerated Solver (FluTAS)](https://github.com/Multiphysics-Flow-Solvers/FluTAS): modular, multiphysics code for multiphase fluid dynamics simulations. The code is written following a "functional programming" approach and aims to accommodate various independent modules. One of the main purposes of the project is to provide an efficient framework able to run both on many-CPUs (MPI) and many-GPUs (MPI+OpenACC+CUDA-Fortran).
+
 [fluxo](https://github.com/project-fluxo/fluxo): solves linear and nonlinear advection diffusion equations, for example the compressible Navier-Stokes equations, the resistive magneto-hydrodynamic equations and others
 
 [Fortran LBM](https://github.com/samieeme/Fortran-LBM-MSc-2013): Lattice Boltzmann solver for fluid flows, by Mehdi Samiee
