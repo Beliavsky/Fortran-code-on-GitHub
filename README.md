@@ -1384,6 +1384,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [NITSOL](https://github.com/cmacmackin/nitsol): Newton-iterative solution of large-scale nonlinear systems, by Homer F. Walker
 
+[NR_util](https://github.com/lguez/NR_util): Fortran 2003 library by Lionel Guez containing basic mathematical constants and basic procedures for numerical tasks. NR_util originates from the "utility routines" of Numerical Recipes in Fortran 90 (Press et al., 1996, Cambridge University Press, appendix C1), version 2.10a, contained in files nrtype.f90 and nrutil.f90. These files of Numerical Recipes were put in the public domain by Press et al.
+
 [NumDiff](https://github.com/jacobwilliams/NumDiff): modern Fortran numerical differentiation library, by Jacob Williams
 
 [NumLib](https://github.com/ebrooker/NumLib): Numerical Library: Demonstration of various numerical methods/recipes, by ebrooker
