@@ -815,6 +815,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [Fortran-YAML](https://github.com/BoldingBruggeman/fortran-yaml): lightweight YAML parser written in object-oriented Fortran, by jombr et al.
 
+[fortran-yaml-cpp](https://github.com/Nicholaswogan/fortran-yaml-cpp): YAML parser for Fortran matching the YAML 1.2 spec, by Nick Wogan. This package uses the C++ package yaml-cpp to parse yaml documents and then stores the data in Fortran derived types created by fortran-yaml.
+
 [hdf5-benchmark](https://github.com/scivision/hdf5-benchmark): benchmarking speed of HDF5 writes from MPI parallel workers, by scivision
 
 [Object-oriented Fortran 2018 HDF5 interface](https://github.com/fccf/hdf5_interface): very simple single-file/module access to HDF5, by fccf. More advanced object-oriented Fortran HDF5 access is also available but not compatible with HDF5 1.10 like this program.
