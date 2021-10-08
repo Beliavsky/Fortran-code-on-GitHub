@@ -1208,6 +1208,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 [GEVP-PDHGEQZ](https://github.com/NLAFET/GEVP-PDHGEQZ): parallel ScaLAPACK-style package of routines for solving nonsymmetric real
 generalized eigenvalue problems, from NLAFET
 
+[JACSD](https://github.com/venovako/JACSD): utilities for the Jacobi-type (G/H)SVD algorithms and beyond, plus a Cosine-Sine Decomposition tester, by Vedran Novaković. 
+
 [lapack](https://github.com/Reference-LAPACK/lapack): subroutines for solving the most commonly occurring problems in numerical linear algebra
 
 [LAPACK_Examples](https://github.com/numericalalgorithmsgroup/LAPACK_Examples): example programs showing how to call LAPACK driver and computational routines (Fortran double precision), from numericalalgorithmsgroup
