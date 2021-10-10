@@ -159,6 +159,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [radtrancode](https://github.com/nemesiscode/radtrancode): radiative transfer calculations and retrievals, originally written in Oxford University.
 
+[ramses](https://github.com/ALaDyn/ramses): models astrophysical systems, featuring self-gravitating, magnetised, compressible, radiative fluid flows. It is based on the Adaptive Mesh Refinement (AMR) technique on a fully-threaded graded octree.
+
 [riaf-sed](https://github.com/rsnemmen/riaf-sed): computes spectral energy distributions of radiatively inefficient accretion flows (RIAFs) around black holes, by rsnemmen
 
 [splash](https://github.com/danieljprice/splash): visualisation tool for Smoothed Particle Hydrodynamics (SPH) simulations in one, two and three dimensions, developed mainly for astrophysics, by Daniel Price
