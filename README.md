@@ -353,6 +353,8 @@ simulating and forecasting meteorological phenomena.
 
 [critic2](https://github.com/aoterodelaroza/critic2): manipulation and analysis of structural and chemical information in molecules and periodic solids, by aoterodelaroza et al.
 
+[Donostia Natural Orbital Functional Software (DoNOFsw)](https://github.com/DoNOF/DoNOFsw): performs computational chemistry calculations based on the Natural Orbital Functional Theory (NOFT), including PNOF5, PNOF6 and PNOF7. Correlation corrections after PNOF calculations can be estimated by second order perturbation theories.
+
 [duo](https://github.com/Trovemaster/Duo): diatomic code for solving a fully coupled rovibronic Schroedinger equation, by Trovemaster
 
 [EMsoft](https://github.com/EMsoft-org/EMsoft): computation and visualization of scanning electron microscopy diffraction patterns, notably EBSD, ECP, TKD, and EKP, by Marc de Graef et al. In addition, there are programs for TEM defect image contrast, CBED, PED, Laue x-ray diffraction, and a new series of programs for computational polarized light microscopy.
