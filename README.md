@@ -374,6 +374,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [HICOLM: Multi-Methods for Molecules and Condensed Systems](https://github.com/flavianowilliams/HICOLM): molecular modelling of condensed systems. Reference: F. W. Fernandes, HICOLM: High-Performance Platform of Physical Simulations by Using Low Computational Cost Methods. doi: 10.22456/2175-2745.92486.
 
+[linemake](https://github.com/vmplacco/linemake): atomic and molecular line list generator, by Chris Sneden et al. Rather than a replacement for a number of well-established atomic and molecular spectral databases, linemake aims to be a lightweight, easy-to-use tool to generate formatted and curated lists suitable for spectral synthesis work.
+
 [Modular computation tool chain library (mctc-lib)](https://github.com/grimme-lab/mctc-lib): common tool chain to use molecular structure data in various applications, from grimme-lab. This library provides a unified way to perform operations on molecular structure data, like reading and writing to common geometry file formats.
 
 [numsa](https://github.com/grimme-lab/numsa): solvent accessible surface area calculation, from grimme-lab
