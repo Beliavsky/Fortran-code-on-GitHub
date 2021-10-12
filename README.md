@@ -1092,6 +1092,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [FortGL](https://github.com/lewisfish/FortGL): 3D software rendering in pure Fortran, by lewisfish
 
+[fortran-motif](https://github.com/interkosmos/fortran-motif): collection of ISO C binding interfaces to X/Motif, to create graphical user interfaces for Unix in Fortran 2008, by interkosmos. The library includes selected bindings to Xlib, Xt, Xm, and the XmHTML widget to render HTML 3.2 inside a Motif widget (optional).
+
 [fplot](https://github.com/jchristopherson/fplot): provides a convenient interface for plotting with Gnuplot, by jchristopherson
 
 [gtk-fortran](https://github.com/vmagnin/gtk-fortran): cross-platform library to build Graphical User Interfaces (GUI), by vmagnin et al. Gtk-fortran is a partial GTK / Fortran binding 100% written in Fortran, thanks to the ISO_C_BINDING module for interoperability between C and Fortran
