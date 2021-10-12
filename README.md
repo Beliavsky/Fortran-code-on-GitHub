@@ -905,6 +905,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [FORTRAN-Topics](https://github.com/Koushikphy/FORTRAN-Topics): codes to demonstrate Modern Fortran features, and codes for numerics and I/O, by Koushikphy 
 
+[Intro-to-Fortran](https://github.com/coolernato/Intro-to-Fortran): materials for an [online course](https://www.imperial.ac.uk/study/pg/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/intro-to-fortran/) by Chris Cooling
+
 [listings](https://github.com/modern-fortran/listings): code listings for [Modern Fortran: Building Efficient Parallel Applications](https://www.manning.com/books/modern-fortran), by Milan Curcic
 
 [man-pages-fortran](https://github.com/AstroFloyd/man-pages-fortran): Man pages for the Fortran language. The description of the Fortran language in these man pages has been taken from the GNU Fortran Compiler documentation, version 5.3.0. They contain elements that follow the Fortran standard, and elements that are GNU extentions.
