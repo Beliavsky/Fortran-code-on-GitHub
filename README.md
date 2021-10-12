@@ -702,6 +702,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [rsl](https://github.com/Guymer/rsl): maps the effects of rising sea levels on Great Britain, by Guymer
 
+[sailing](https://github.com/ntu-as-cooklab/sailing): sailing simulation based on CFSR wind and ocean current data, from ntu-as-cooklab. The goal is to simulate the sailing route of a sailing ship during different seasons based on a simple model, which may be helpful for studies on human migration across the ocean.
+
 [SAMSIM](https://github.com/pgriewank/SAMSIM): thermodynamic 1D sea ice model, by pgriewank
 
 [Seismic and Radar Toolbox (SeidarT)](https://github.com/UMainedynamics/SeidarT): platform for forward modeling mechanical and electromagnetic wave propagation, by Steven P. Bernsen et al. The major objective of the project is to easily and quickly implement isotropic and anisotropic complex geometries and/or velocity structures to develop prior constraints for - not limited too - investigating, estimating, and imaging englacial ice structure, sub-glacial boundary conditions on the sub-regional scale.
