@@ -1344,6 +1344,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [Hefei-NAMD](https://github.com/QijingZheng/Hefei-NAMD): ab-initio nonadiabatic molecular dynamics program, by QijingZheng and WeibinChu
 
+[Packmol](https://github.com/m3g/packmol): creates an initial point for molecular dynamics simulations by packing molecules in defined regions of space, from Martinez Molecular Modeling Group. The packing guarantees that short range repulsive interactions do not disrupt the simulations.
+
 [QUIP](https://github.com/libAtoms/QUIP): collection of software tools to carry out molecular dynamics simulations, from libAtoms. It implements a variety of interatomic potentials and tight binding quantum mechanics, and is also able to call external packages, and serve as plugins to other software such as LAMMPS, CP2K and also the python framework ASE.
 
 [QXMD](https://github.com/USCCACS/QXMD): scalable, parallel program for Quantum Molecular Dynamics simulations with various eXtensions, from USCCACS. Its simulation engine is based on (time-dependent) density functional theory using pseudopotentials and plane-wave basis, while extensions include nonadiabatic electron-nuclei dynamics and multiscale shock technique.
