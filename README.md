@@ -948,6 +948,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [coretran](https://github.com/leonfoks/coretran): easy-to-follow library to make Fortran easier in general with wrapped interfaces, sorting routines, kD-Trees, and other algorithms to handle scientific data and concepts.
 
+[errorfx](https://github.com/aradi/errorfx): simple library for demonstrating exception like error handling strategy in Fortran, by Bálint Aradi. It provides an error handling mechanism which is robust, convenient, and PURE.
+
 [f90getopt](https://github.com/haniibrahim/f90getopt): getopt()- and getopt_long()-like functionality (similar to the C-functions) for Fortran 90, by Hani Andreas Ibrahim
 
 [fArgParse](https://github.com/Goddard-Fortran-Ecosystem/fArgParse): command line argument parsing for Fortran, from Goddard-Fortran-Ecosystem
