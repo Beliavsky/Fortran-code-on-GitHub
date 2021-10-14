@@ -1602,6 +1602,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [miniWeather](https://github.com/mrnorman/miniWeather): mini app simulating weather-like flows for training in parallelizing accelerated HPC architectures, by mrnorman. Currently includes MPI (C, Fortran, and C++), OpenACC Offload (C and Fortran), OpenMP Threading (C and Fortran), OpenMP Offload (C and Fortran), and C++ Portability.
 
+[MPI-course](https://github.com/SNIC-MPI-course/MPI-course): material for the course [An introduction to parallel programming using Message Passing with MPI](https://www.pdc.kth.se/about/events/training/an-introduction-to-parallel-programming-using-message-passing-with-mpi-1.1103658)
+
 [mpifx](https://github.com/dftbplus/mpifx): provides modern Fortran (Fortran 2003) wrappers around routines of the MPI library to make their use as simple as possible, from dftbplus. Currently several data distribution routines are covered.
 
 [NVIDIA OpenACC Course Sources and Labs](https://github.com/NVIDIA-OpenACC-Course/nvidia-openacc-course-sources): contains sources related to the lectures and labs for the [NVIDIA OpenACC course](https://developer.nvidia.com/openacc-courses).
