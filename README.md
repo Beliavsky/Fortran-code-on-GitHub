@@ -413,6 +413,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [CGNS](https://github.com/CGNS/CGNS): the CFD General Notation System (CGNS) provides a standard for recording and recovering computer data associated with the numerical solution of fluid dynamics equations
 
+[channel](https://github.com/davecats/channel): direct numerical simulation of an incompressible turbulent channel flow with two dimensional parallelization, by Davide Gatti
+
 [Channel3d](https://github.com/GongZheng-Justin/Channel3d): efficient second- /fourth-order finite-difference direct numerical simulation (DNS) solver with versatile viscous treatments, also with the ability to handle different boundary conditions, by GongZheng-Justin
 
 [CloverLeaf_ref](https://github.com/UK-MAC/CloverLeaf_ref): solves the compressible Euler equations on a Cartesian grid, using an explicit, second-order accurate method, from UK-MAC. Each cell stores three values: energy, density, and pressure. 
