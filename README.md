@@ -1840,6 +1840,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [Object Oriented GRASP](https://github.com/cffischer/Object-Oriented-GRASP): general relativistic atomic structure software organized as the processing of objects that is both more readable and manages memory more efficiently, by Charlotte Fischer. Written in Fortran 2008 or later, it relies extensively on parameterized user-defined data types for defining objects and linked lists for managing memory of lists whose size cannot be determined in advance.
 
+[omm-bundle](https://github.com/ElectronicStructureLibrary/omm-bundle): library implementing the orbital minimization method for solving the Kohn-Sham equation as a generalized eigenvalue problem, by Fabiano Corsetti et al.
+
 [OpenMolcas](https://github.com/Molcas/OpenMolcas): quantum chemistry software package developed by scientists and intended to be used by scientists. It includes programs to apply many different electronic structure methods to chemical systems, but its key feature is the multiconfigurational approach, with methods like CASSCF and CASPT2.
 
 [Optados](https://github.com/optados-developers/optados): calculates core-electron and low-loss electron energy loss spectra (EELS) and optical spectra along with total-, projected- and joint-density of electronic states (DOS) from single-particle eigenenergies and dipole transition coefficients.
