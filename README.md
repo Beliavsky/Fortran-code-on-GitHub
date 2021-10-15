@@ -962,15 +962,11 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [ferror](https://github.com/jchristopherson/ferror): library to assist with error handling in Fortran projects
 
-[Fortran General Library (FGL)](https://github.com/mobius-eng/FGL): code for bitstrings, exception handling, hash tables, lists, logging, queues, strings, sorting, JSON parsing, and other topics, from mobius-eng
-
 [fhash](https://github.com/LKedward/fhash): hash table with support for generic keys and values, by LKedward
 
 [ffhash](https://github.com/jannisteunissen/ffhash): generic and fast hash table similar to khash in C, by Jannis Teunissen
 
 [fh_table](https://github.com/dbartilson/fh_table): modern Fortran hash functions and hash tables, by dbartilson
-
-[Fortran Equation Parser (feqparse)](https://github.com/FluidNumerics/feq-parse): equation parser Fortran class that is used to interpret and evaluate functions provided as strings, by Joe Schoonover 
 
 [FIAT](https://github.com/Fortran-FOSS-Programmers/FIAT): Fortran Implementation of Abstract Types
 
@@ -982,9 +978,13 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [forbear](https://github.com/szaghi/forbear): progress bar environment by szaghi and jhykes
 
+[Fortran Equation Parser (feqparse)](https://github.com/FluidNumerics/feq-parse): equation parser Fortran class that is used to interpret and evaluate functions provided as strings, by Joe Schoonover 
+
 [Fortran exceptions library](https://github.com/LightDA-assim/fortran_exceptions): provides exception handling for Fortran 2003 and later, based on the methodology of [Poppe et al. 2012](https://dl.acm.org/doi/10.1145/2338786.2338787)
 
 [fortran_function_parser](https://github.com/jacobwilliams/fortran_function_parser): function parser module by Jacob Williams is intended for applications where a set of mathematical fortran-style expressions is specified at runtime and is then evaluated for a large number of variable values. This is done by compiling the set of function strings into byte code, which is interpreted efficiently for the various variable values.
+
+[Fortran General Library (FGL)](https://github.com/mobius-eng/FGL): code for bitstrings, exception handling, hash tables, lists, logging, queues, strings, sorting, JSON parsing, and other topics, from mobius-eng
 
 [fortranlib](https://github.com/astrofrog/fortranlib): Collection of personal scientific routines in Fortran
 
@@ -999,6 +999,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 [fortran-mongo](https://github.com/dongli/fortran-mongo): MongoDB binding library for Fortran, by dongli
 
 [fortran_notes](https://github.com/zmiimz/fortran_notes): containers and advanced data structures, hash functions, and design patterns
+
+[FortranPatterns](https://github.com/farhanjk/FortranPatterns): Implementation of popular design patterns in Fortran, by Farhan J. Khan and zmiimz. This is intended to facilitate the community using Fortran for computationally expensive tasks. The main philosophy here is to make these patterns available for improving the reusability and efficiency of the code.
 
 [Fortran Parameter List (FPL)](https://github.com/victorsndvg/FPL): Fortran 2003 library that can manage the parameters of a program from a single point, by victorsndvg. FPL is an extendible container (dictionary) of <Key, Value> pairs, where the Key is a character string and the Value can be, by the default, of the basic data types.
 
