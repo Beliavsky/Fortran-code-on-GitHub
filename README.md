@@ -1444,6 +1444,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [SciFortran](https://github.com/QcmPlab/SciFortran): A library of fortran modules and routines for scientific calculations (*in a way* just like scipy for python), from QcmPlab
 
+[SLATEC](https://github.com/MehdiChinoune/SLATEC): comprehensive software library containing over 1400 general purpose mathematical and statistical routines, translated to modern Fortran by Mehdi Chinoune
+
 [SSP](https://github.com/msemina/SSP): Scientific Subroutine Package - Fortran science package for statistics, matrix calculus, and other mathematical areas
 
 [STEM-Fortran](https://github.com/roh6608/STEM-Fortran): modules and routines for math, science and engineering calculations, by roh6608
