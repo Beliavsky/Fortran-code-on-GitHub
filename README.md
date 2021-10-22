@@ -336,6 +336,8 @@ simulating and forecasting meteorological phenomena.
 [to_f90](https://github.com/jbdv-no/to_f90): Alan Miller's tool for converting Fortran 77 code to free-form Fortran 90 code, from jbdv-no
 
 ## Compiler Tests
+[AdHoc](https://github.com/rouson/bug-reports): archives ad hoc tests for modern Fortran compilers used by Sourcery Institute, Sourcery, Inc., their collaborators, sponsors, and clients. These tests emphasize support for the Fortran 2003 and 2008 standards along with features proposed for Fortran 2015 in technical specification TS 29113 Further Interoperability with C and the draft technical specification TS 18508 Additional Parallel Features in Fortran.
+
 [fortran-compiler-tests](https://github.com/nncarlson/fortran-compiler-tests): collection of Fortran compiler bug examples and tests, by nncarlson
 
 [infnan](https://github.com/zaikunzhang/infnan): functions for checking Inf/NaN, Zaikun Zhang. They should work even if the compilers are invoked with aggressive optimization flags such as `gfortran -Ofast`.
