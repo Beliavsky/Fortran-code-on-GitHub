@@ -1052,6 +1052,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [LinkedList](https://github.com/pedro-ricardo/LinkedList): simple implementation of heterogeneous linked list in a single module, by Pedro Ricardo C. Souza
 
+[LinkedList](https://github.com/degawa/LinkedList): doubly linked list for Fortran 2003, by Tomohiro Degawa. The list is based on object-oriented programming, so the list can treat all types Fortran supports, including integer, real, character and derived types by using the unlimited polymorphism feature.
+
 [M_calculator](https://github.com/urbanjost/M_calculator): parse Fortran-like double precision scalar expressions, by urbanjost
 
 [M_CLI2](https://github.com/urbanjost/M_CLI2): cracks the command line when given a prototype string that looks very much like an invocation of the program, by urbanjost. A call to get_args(3f) or one of its variants is then made for each parameter name to set the variables appropriately in the program.
