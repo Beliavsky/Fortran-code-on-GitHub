@@ -192,6 +192,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [cumsum_benchmark](https://github.com/ivan-pi/cumsum_benchmark): benchmarks for the cumulative sum of an array, in Fortran, C++, Matlab, and Python, using various methods
 
+[Himeno Benchmark in Modern Fortran](https://github.com/degawa/Himeno-Benchmark-in-Modern-Fortran): [Himeno benchmark](https://i.riken.jp/en/supercom/documents/himenobmt/) to evaluate performance of incompressible fluid analysis code, written in Modern Fortran style, achieving almost the same execution performance as the original version. In this program, global variables are eliminated, and some variable names and subroutine names are refactored.
+
 [hpc-medley](https://github.com/moutai/hpc-medley): two publicly available hpc benchmarks: NPB (NAS) and the HPL part of the HPCC challenge. It is used to determine the performance of clustered computing resources.
 
 [Julia, Matlab, Octave, and Fortran FEM Benchmark and Comparison](https://github.com/rdeits/julia-matlab-fortran-fem-benchmark): Benchmark and comparison of Julia, Matlab, Octave, and Fortran for a 2D Poisson problem solved on a unit square, by rdeits. The problem is discretized with Q1 bilinear Lagrange finite elements.
