@@ -1426,6 +1426,9 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [NumDiff](https://github.com/jacobwilliams/NumDiff): modern Fortran numerical differentiation library, by Jacob Williams
 
+[Numeric Library for Modern Fortran](https://github.com/degawa/fortran-numeric): scope: Integer (handling integer constants, digits, convert to string with format); 
+Real (handling real constants, convert to string with format); Non-number (handling quiet nan and positive/negative inf as constants, check whether an array of floating-point numbers has at least one quiet nan, positive/negative inf value), by Tomohiro Degawa
+
 [NumLib](https://github.com/ebrooker/NumLib): Numerical Library: Demonstration of various numerical methods/recipes, by ebrooker
 
 [NumericalHUB](https://github.com/jahrWork/NumericalHUB): set of modern Fortran numerical libraries covering: zeroes of Systems of Equations, Lagrange Interpolation, Finite Differences, Cauchy Problems, Boundary Value Problems, and Initial Boundary Value Problems, associated with book [How to learn Applied Mathematics through modern FORTRAN](https://www.amazon.com/Applied-Mathematics-through-modern-FORTRAN/dp/B0851LN6HT) 
