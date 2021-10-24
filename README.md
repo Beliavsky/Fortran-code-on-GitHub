@@ -1760,6 +1760,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [Quantum Annealing Machine Emulator](https://github.com/camsenec/qa-emulator): quantum annealing simulation on SpinGlass model using Path Integral Monte Carlo method, by Tomoya Tanaka
 
+[Quasilinear Electromagnetic Oscillations (QLEO)](https://github.com/pastfalk/QLEO): code based on the quasilinear kinetic equation which self-consistently describes how a given velocity distribution function of a homogeneous gyrotropic plasma evolves in time in the presence of an unstable spectrum of parallel propagating, electromagnetic linear eigenmodes, by Patrick Astfalk. The implemented formalism is based on the quasilinear kinetic equations given in, e.g., 'Methods in Nonlinear Plasma Theory' by R. C. Davidson (1972).
+
 [raytracer_3D](https://github.com/ceden/raytracer_3D): simulates the radiative energy transfer equation for internal gravity waves in 6 dimensions, by ceden
 
 [scadyn](https://github.com/jherrane/scadyn): code for scattering dynamics calculations, which utilizes a volume integral equation solution for the T-matrices of non-spherical scatterers, by Joonas Herranen. The main motivations for the development of this code are the study of grain alignment dynamics in interstellar environments and optical tweezers and traps.
