@@ -1744,6 +1744,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [kmos](https://github.com/mhoffman/kmos): kMC on steroids: A vigorous attempt to make lattice kinetic Monte Carlo modelling easier, by mhoffman et al.
 
+[Linear Electromagnetic Oscillations in Plasmas with Arbitrary Rotationally-symmetric Distributions (LEOPARD)](https://github.com/pastfalk/LEOPARD): dispersion relation solver which can derive the frequencies and growth rates of electromagnetic waves with arbitrary propagation angle in homogeneous plasmas with an arbitrary number of particle species, by Patrick Astfalk. LEOPARD allows the computation of the (fully-kinetic) dielectric tensor components for both bi-Maxwellian or arbitrary gyrotropic velocity distributions. The implemented expressions for the dielectric tensor components are based on 'Kinetic Theory of Plasma Waves' by M. Brambilla (1998).
+
 [KORC](https://github.com/ORNL-Fusion/KORC): Kinetic Orbit Runaway Code, from ORNL-Fusion
 
 [McPhase](https://github.com/mducle/mcphase): Mean-field monte-Carlo simulation program for magnetic PHASE diagrams and excitations, originally developed by Martin Rotter. McPhase uses the mean-field approximation to calculate magnetic structures and magnetic-field vs temperature phase diagrams from input files which specify the crystal structure of a magnetic material and the exchange interactions between the magnetic ions in this material.
