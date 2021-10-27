@@ -1833,6 +1833,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [EMPM_MPI_NO](https://github.com/knappf/EMPM_MPI_NO): codes for TDA, 2 and 3 -phonon diagonalization of nuclear Hamiltonian within Equation-of-motion Phonon Method, by knappf. Natural orbital basis version.
 
+[exciting](https://github.com/exciting/exciting): all-electron full-potential computer package for first-principles calculations, based on (linearized) augmented planewave + local orbital [(L)APW+lo] methods, by Stephan Sagmeister. This family of basis sets is known as the most precise numerical scheme to solve the Kohn-Sham equations of density-functional theory (DFT), reaching up to micro-Hartree precision.
+
 [feff10](https://github.com/times-software/feff10): ab initio multiple-scattering code for calculations of excitation spectra and electronic structure, from times-software. It is based on a real space Green's function approach that includes a screened core-hole, inelastic losses and self-energy shifts, and Debye-Waller factors.
 
 [FLOSIC2020](https://github.com/FLOSIC/PublicRelease_2020): performs self-interaction corrected (SIC) density functional approximation calculations, by Duyen Nguyen et al. Fermi Löwdin orbital implementation of Perdew-Zunger SIC scheme is used in the software.
