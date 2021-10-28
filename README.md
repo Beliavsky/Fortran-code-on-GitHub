@@ -563,6 +563,8 @@ nscapin
 
 [coordinates](https://github.com/alex-robinson/coordinates): manage grids and arbitrary sets of points, including interpolation and mapping between different coordinate systems, by alex-robinson. It also contains several helper modules that are useful generally for the manipulation of sets of points and grids.
 
+[CoulombAnalysis](https://github.com/jjwangw/CoulombAnalysis): computes Coulomb stress changes induced by earthquakes, by jjwangw
+
 [Coupled-Ocean-Atmosphere-Wave-Sediment Transport (COAWST) Modeling System](https://github.com/jcwarner-usgs/COAWST): combines many sophisticated systems that each provide relative earth-system components necessary to investigate the dynamics of coastal storm impacts. Specifically, the COAWST Modeling System includes an ocean component—Regional Ocean Modeling System (ROMS); atmosphere component—Weather Research and Forecast Model (WRF), hydrology component- WRF_Hydro; wave components—Simulating Waves Nearshore (SWAN), WAVEWATCHIII, and InWave; a sediment component—the USGS Community Sediment Models; and a sea ice model.
 
 [cshore](https://github.com/erdc/cshore): predicts beach evolution over the nearshore region, from US Army Engineer Research and Development Center. The combined wave and current model operates under the assumption of longshore uniformity and includes the effects of a wave roller and quadratic bottom shear stress.
