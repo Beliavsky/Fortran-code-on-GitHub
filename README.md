@@ -836,6 +836,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [Fortran Data Compression](https://github.com/SokolAK/Fortran-Data-Compression): sample programs demonstrating the ability to compress/decompress data on the fly when writing to or reading from a file in Fortran using named pipes (FIFOs), by SokolAK
 
+[json-fortran-benchmarks](https://github.com/jacobwilliams/json-fortran-benchmarks): benchmarks for JSON Fortran parsers, by jacobwilliams. Also comparison to Python.
+
 [Fortran-YAML](https://github.com/BoldingBruggeman/fortran-yaml): lightweight YAML parser written in object-oriented Fortran, by jombr et al.
 
 [fortran-yaml-cpp](https://github.com/Nicholaswogan/fortran-yaml-cpp): YAML parser for Fortran matching the YAML 1.2 spec, by Nick Wogan. This package uses the C++ package yaml-cpp to parse yaml documents and then stores the data in Fortran derived types created by fortran-yaml.
