@@ -1747,7 +1747,7 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [FourPhonon](https://github.com/FourPhonon/FourPhonon): extension module to ShengBTE for computing four-phonon scattering rates and thermal conductivity, by Zherui Han et al.
 
-[fresco](https://github.com/I-Thompson/fresco): scattering code for coupled-channels calculations, by I-Thompson
+[fresco](https://github.com/I-Thompson/fresco): scattering code for coupled-channels calculations, by I-Thompson. [Frescox](https://github.com/LLNL/Frescox) is an updated version.
 
 [Guided_Missile_Simulation](https://github.com/bgin/Guided_Missile_Simulation): Air-to-Air Missile Simulation written in modern Fortran, by bgin
 
