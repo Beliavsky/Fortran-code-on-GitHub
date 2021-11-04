@@ -2019,6 +2019,8 @@ milancurcic and awvwgk
 
 [fortran-strings](https://github.com/eengl/fortran-strings): library and module which contains functions for common string manipulations, by eengl
 
+[Fortran-String-to-Real](https://github.com/Carltoffel/Fortran-String-to-Real): converts strings to reals without using an internal read, by Carltoffel
+
 [M_io](https://github.com/urbanjost/M_io): collection of procedures that create a simple interface for common I/O tasks not conveniently done with intrinsic I/O procedures, by urbanjost
 
 [M_match](https://github.com/urbanjost/M_match): basic implementation in Fortran of a subset of regular expressions as described in "Software Tools" by Kernighan and Plauger, 1976.
