@@ -1830,9 +1830,11 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 ## Quantum Chemistry and Electronic Structure
 [abinit](https://github.com/abinit/abinit): atomic-scale simulation software suite
 
-[https://github.com/AbinitioDGA/ADGA](Abinitio DGA): implementation of a DGA approach for electronic structure calculations of materials, by Matthias Pickem. It allows the inclusion of non-local correlations beyond DMFT and the calculation of momentum-dependent susceptibilities.
+[Abinitio DGA](https://github.com/AbinitioDGA/ADGA): implementation of a DGA approach for electronic structure calculations of materials, by Matthias Pickem. It allows the inclusion of non-local correlations beyond DMFT and the calculation of momentum-dependent susceptibilities.
 
 [atomistica](https://github.com/Atomistica/atomistica): library of interatomic potentials, including empirical potentials and non-orthogonal tight-binding. It is designed to be plugged into different simulation environments.
+
+[bands4vasp](https://github.com/QuantumMaterialsModelling/bands4vasp): post processing package for the analysis of unfolded eigenstates in VASP, and much more: band structures, 2D and 3D Fermi surfaces, Fermi vectors and spectral functions, by David Dirnberger and Michele Reticcioli
 
 [bandup](https://github.com/band-unfolding/bandup): Band Unfolding code for Plane-wave based calculations
 
