@@ -235,6 +235,8 @@ Luis Harvey Triana Vega
 
 [COVID-testbias](https://github.com/dkhaz/COVID-testbias): Understanding the Bias between the Number of Confirmed Cases and Actual Number of Infections in the COVID-19 Pandemic, by dkhaz and xingangchen
 
+[Fortran Image Processing](https://github.com/hpcnpatel/Fortran_Image_Processing): processing, manipulating, and filtering CT scan data, by Nisarg Patel. A CT scan data could be binary RAW data or VTK data.
+
 [FSATOOL](https://github.com/fsatool/fsatool): fast sampling and analysis tool for biomolecules, by haomiao et al.
 
 [GENeralized-Ensemble SImulation System (GENESIS)](https://github.com/genesis-release-r-ccs/genesis-2.0): molecular dynamics and modeling software for bimolecular systems such as proteins, lipids, nucleic acids, glycans, and their complexes. Main site is [here](https://www.r-ccs.riken.jp/labs/cbrt/).
