@@ -772,6 +772,9 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [tsunami](https://github.com/modern-fortran/tsunami): parallel tsunami simulator. Companion running example from book [Modern Fortran: Building Efficient Parallel Applications](https://www.manning.com/books/modern-fortran)
 
+[Universal Boltzmann Equation Solver (UBER)](https://github.com/zheng-lh/UBER): solves the general form of Fokker-Planck equation and Boltzmann equation, 
+diffusive or non-diffusive, that appear in modeling planetary radiation belts, by Liheng Zheng
+
 [uclales](https://github.com/uclales/uclales): large eddy simulation code for atmospheric flow
 
 [Utrecht FinitE voluMe Ice-Sheet Model (UFEMISM)](https://github.com/IMAU-paleo/UFEMISM): ice-sheet-shelf model that solves the hybrid SIA/SSA ice-dynamical equations on a dynamic adaptive grid. Reference: The Utrecht Finite Volume Ice-Sheet Model: UFEMISM (version 1.0), by Constantijn J. Berends, Heiko Goelzer, and Roderik S. W. van de Wal1, Geosci. Model Dev., 14, 2443–2470, 2021 https://doi.org/10.5194/gmd-14-2443-2021
