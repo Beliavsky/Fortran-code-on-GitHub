@@ -737,6 +737,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [SEM2DPACK](https://github.com/jpampuero/sem2dpack): spectral element method for 2D wave propagation and fracture dynamics, with emphasis on computational seismology and earthquake source dynamics, from jpampuero et al.
 
+[Semi-implicit Cross-scale Hydroscience Integrated System Model (SCHISM)](https://github.com/schism-dev/schism): community-supported modeling system based on unstructured grids and designed for the seamless simulation of 3D baroclinic circulation across creek-lake-river-estuary-shelf-ocean scales.
+
 [Shear-wave birefringence analysis (SHEBA)](https://github.com/jwookey/sheba): code associated with Wüstefeld, A.; Al-Harrasi, O.; Verdon, J.; Wookey, J. and Kendall, J-M. (2010) "A strategy for automated analysis of passive microseismic data to image seismic anisotropy and fracture characteristics", Geophysical Prospecting, vol 58, 755–773, DOI:10.1111/j.1365-2478.2010.00891.x
 
 [SLIM: The Simple Land Interface Model](https://github.com/marysa/SimpleLand): reference: Laguë, M. M., Bonan, G. B., & Swann, A. L. S. (2019). Separating the Impact of Individual Land Surface Properties on the Terrestrial Surface Energy Budget in both the Coupled and Uncoupled Land–Atmosphere System. Journal of Climate, 32(18), 5725–5744. https://doi.org/10.1175/jcli-d-18-0812.1
