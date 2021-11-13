@@ -451,6 +451,8 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [flowmol](https://github.com/edwardsmith999/flowmol): molecular dynamics solver for molecular fluid dynamics simulation, by David Trevelyan and Ed Smith
 
+[Fluid2d](https://github.com/pvthinker/Fluid2d): versatile Python-Fortran CFD code that solves a large class of 2D flows, by Guillaume Roullet et al. It is designed to be used easily by Students learning Fluid Mechanics or Geophysical Fluid Dynamics and by their professors willing to illustrate their course and to organize numerical practicals. 
+
 [fluidity](https://github.com/FluidityProject/fluidity): open source, general purpose, multiphase computational fluid dynamics code capable of numerically solving the Navier-Stokes equation and accompanying field equations on arbitrary unstructured finite element meshes in one, two and three dimensions
 
 [FLUSI](https://github.com/pseudospectators/FLUSI): Fluid-Structure-Interaction / MHD Research Code, from pseudospectators. Relies on Fourier transforms for derivatives and the volume penalization method to include obstacles.
