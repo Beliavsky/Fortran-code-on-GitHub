@@ -772,6 +772,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [Town Energy Balance (TEB) model](https://github.com/TEB-model/teb): calculates the urban surface energy balance at neighborhood scale assuming a simplified canyon geometry. [Paper](https://joss.theoj.org/papers/10.21105/joss.02008): Meyer, D., Schoetter, R., Masson, V., Grimmond, S., 2020: Enhanced software and platform for the Town Energy Balance (TEB) model. Journal of Open Source Software, 5(50), 2008.
 
+[Tracmass](https://github.com/TRACMASS/Tracmass): Lagrangian trajectory code for ocean and atmospheric general circulation models, by Aitor Aldama and Kristofer Döös. The code makes it possible to estimate water paths, Lagrangian stream functions (barotropic, overturning, etc.), exchange times, etc.
+
 [trnfsp3n](https://github.com/Geo-Linux-Calculations/trnfsp3n): Fortran 77 code for transforming GPS orbit files in SP3 format between different realizations of ITRF's, from Geo-Linux-Calculations
 
 [TSMP](https://github.com/HPSCTerrSys/TSMP): Terrestrial System Modeling Platform (TSMP or TerrSysMP, https://www.terrsysmp.org) is a scale-consistent, highly modular, massively parallel regional Earth system model, from HPSCTerrSys
