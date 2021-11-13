@@ -1428,6 +1428,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [afnl](https://github.com/ramos/afnl): Fortran 90 numerical library with modules for numerical types, constants, error handling, integration, optimization, linear algebra, sorting and search, special functions, statistics, polynomials, root-finding, Fourier transforms, and dates and times, by Alberto Ramos
 
+[compare](https://github.com/tcanich/compare): module to aid in comparison of real or complex numbers, by Tom Canich and Magnus Hagdorn. The module specifies a tolerance when making the comparisons to determine equality or inequality.
+
 [DATAPLOT](https://github.com/usnistgov/dataplot): powerful and flexible program for performing scientific, engineering, statistical, mathematical, and graphical analysis, from usnistgov
 
 [faiNumber-Fortran](https://github.com/kevinhng86/faiNumber-Fortran): fast, flexible, and secure numerical library for Fortran with fast number parsing as one of its features
