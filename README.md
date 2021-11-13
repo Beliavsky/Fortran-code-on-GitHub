@@ -267,11 +267,13 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [gcm](https://github.com/pqnelson/gcm): Toy General Circulation Model in Literate Fortran, by pqnelson
 
-[ecrad](https://github.com/ecmwf/ecrad): offline version of a radiation scheme suitable for use in atmospheric weather and climate models, from ecmwf
-
 [E3SM](https://github.com/E3SM-Project/E3SM): Energy Exascale Earth System Model source code, by E3SM-Project 
 
+[ecrad](https://github.com/ecmwf/ecrad): offline version of a radiation scheme suitable for use in atmospheric weather and climate models, from ecmwf
+
 [Finite Element Sea Ice-Ocean Model (FESOM2)](https://github.com/FESOM/fesom2): Multi-resolution ocean general circulation model that solves the equations of motion describing the ocean and sea ice using finite-element and finite-volume methods on unstructured computational grids. The model is developed and supported by researchers at the Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI), in Bremerhaven, Germany.
+
+[ExoRT](https://github.com/storyofthewolf/ExoRT): reasonably flexible two-stream radiative transfer code designed for use with 3D climate models, by Eric T. Wolf. In this software, contained are builds for a 1-D offline version, and for directly interfacing with CESM/CAM4.
 
 [fv3gfs](https://github.com/NOAA-EMC/fv3gfs): Finite­ Volume Cubed-Sphere dynamical core (FV3) Global Forecasting System (GFS), from NOAA-EMC
 
