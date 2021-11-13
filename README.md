@@ -1925,6 +1925,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [smash](https://github.com/cmsi/smash): Massively parallel software for quantum chemistry calculations, from cmsi
 
+[soap_turbo](https://github.com/libAtoms/soap_turbo): code associated with paper Miguel A. Caro. "Optimizing many-body atomic descriptors for enhanced computational performance of machine learning based interatomic potentials". Phys. Rev. B 100, 024112 (2019).
+
 [SPHF](https://github.com/cffischer/SPHF): B-spline version of a Hartree-Fock program, by Charlotte Fischer
 
 [STB](https://github.com/MRedies/STB): Simple Tight-binding, by MRedies
