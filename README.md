@@ -78,6 +78,8 @@
 [libTheSky](https://github.com/MarcvdSluys/libTheSky): computes the positions and other properties of celestial bodies (Moon, planets, comets, asteroids, stars), events (e.g. 
 lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFloyd. It forms the core of the software that is used to create the Dutch popular-astronomy website http://hemel.waarnemen.com.
 
+[NEAT](https://github.com/rwesson/NEAT): calculates chemical abundances in photoionised nebulae, by Roger Wesson et al. It can propagate uncertainties and compensate for measurement biases affecting weak lines.
+
 [NPI Ephemeris Propagation Tool with Uncertainty Extrapolation (NEPTUNE)](https://github.com/Space-Systems/neptune): state-of-the-art numerical orbit propagator, from Space-Systems. It allows the extrapolation of a state vector and the associated uncertainty forward and backward in time.
 
 [oorb](https://github.com/oorb/oorb): contains the statistical orbital ranging method (hereafter referred to as Ranging). Ranging is used to solve the orbital inverse problem of computing non-Gaussian orbital-element probability density functions based on input astrometry.
