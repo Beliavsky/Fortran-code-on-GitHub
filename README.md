@@ -1883,6 +1883,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [feff10](https://github.com/times-software/feff10): ab initio multiple-scattering code for calculations of excitation spectra and electronic structure, from times-software. It is based on a real space Green's function approach that includes a screened core-hole, inelastic losses and self-energy shifts, and Debye-Waller factors.
 
+[ffr-PWDFT](https://github.com/f-fathurrahman/ffr-PWDFT): poor man's program in simple Fortran 90 to carry out electronic structure calculations based on plane wave basis set and pseudopotential, by Fadjar Fathurrahman
+
 [FLOSIC2020](https://github.com/FLOSIC/PublicRelease_2020): performs self-interaction corrected (SIC) density functional approximation calculations, by Duyen Nguyen et al. Fermi Löwdin orbital implementation of Perdew-Zunger SIC scheme is used in the software.
 
 [H2-PolarizabilityMatrixElements](https://github.com/ankit7540/H2-PolarizabilityMatrixElements): Fortran and Python code associated with paper "Polarizability tensor invariants of H2, HD, and D2", by Raj, A., Hamaguchi, H., and Witek, H. A., Journal of Chemical Physics 148, 104308 (2018)
