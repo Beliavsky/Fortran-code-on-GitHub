@@ -69,6 +69,8 @@
 
 [astroTools](https://github.com/AstroFloyd/astroTools): command-line tools for astronomy and astrophysics, by AstroFloyd
 
+[Automatic Line Fitting Algorithm (ALFA)](https://github.com/rwesson/ALFA): identifies and fits hundreds of lines in emission line spectra in just a few seconds. It does this using a genetic algorithm to optimise the line parameters, by Roger Wesson
+
 [fortran-astrodynamics](https://github.com/Yuricst/fortran-astrodynamics): astrodynamics routines by Yuricst
 
 [Fortran-Astrodynamics-Toolkit](https://github.com/jacobwilliams/Fortran-Astrodynamics-Toolkit): aims to be a comprehensive library, written in modern Fortran (Fortran 2003/2008), of all the standard orbital mechanics algorithms, by Jacob Williams
