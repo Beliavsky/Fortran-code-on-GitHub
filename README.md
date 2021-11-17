@@ -366,6 +366,8 @@ simulating and forecasting meteorological phenomena.
 
 [Cassandra](https://github.com/MaginnGroup/Cassandra): Monte Carlo package developed in the Maginn group at the University of Notre Dame to perform atomistic simulations of molecules composed of rings, chains, or both. Cassandra is suited to compute the thermodynamic properties of fluids and phase equilibria.
 
+[ClassyMC](https://github.com/mrnucleation/ClassyMC): General Purpose Object Oriented Molecular Monte Carlo code. Classy is designed to be used for Metropolis Monte Carlo and other similar sampling methods in molecular simulations.
+
 [CoarseAIR](https://github.com/simoneventuri/CoarseAIR): Fortran 2008 Code for State-to-State and Coarse-Grained Quasi-Classical Trajectory (QCT) Method. Reference: S Venturi - "Machine Learning and Uncertainty Quantification Framework for Predictive Ab Initio Hypersonics" - Ph.D. Thesis, University of Illinois at Urbana-Champaign (2021)
 
 [crest](https://github.com/grimme-lab/crest): Conformer-Rotamer Ensemble Sampling Tool based on the xtb Semiempirical Extended Tight-Binding Program Package, from grimme-lab
