@@ -1396,6 +1396,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [EmDee](https://github.com/atoms-ufrj/EmDee): platform to test simulation methods that involve the mechanics of many atoms, such as different thermostats and barostats, hybrid Monte Carlo algorithms, etc, from atoms-ufrj
 
+[examples from "Computer Simulation of Liquids"](https://github.com/Allen-Tildesley/examples): code by Michael P. Allen and Dominic J. Tildesley to accompany book. The programs contain some explanatory comments, and are written, in the main, in Fortran 2003/2008. 
+
 [kg4vasp](https://github.com/conodipaola/kg4vasp): Kubo-Greenwood for transport properties from First Principle Molecular Dynamics with VASP, by conodipaola
 
 [Hefei-NAMD](https://github.com/QijingZheng/Hefei-NAMD): ab-initio nonadiabatic molecular dynamics program, by QijingZheng and WeibinChu
