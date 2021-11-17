@@ -1360,6 +1360,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [Nonlinear MetaMaterial MPI Solver (NM^3)](https://github.com/wonnie87/NMCube): odes and example files used in paper, "High-Performance Large-Scale Simulation of Multi-stable Metastructures", by M. Hwang, C. Scalo, and A. F. Arrieta, to be published.
 
+[Polymer Self-Consistent Field Theory (PSCF)](https://github.com/dmorse/pscf): numerically solves the polymer self-consistent field theory (SCFT) for spatially periodic structures formed by block copolymer melts and mixtures of block copolymers with linear homopolymers and/or small molecule solvents, by David Morse et al.
+
 [SISSO](https://github.com/rouyang2017/SISSO): data-driven method combining symbolic regression and compressed sensing toward accurate & interpretable models, by rouyang2017
 
 [thermo_pw](https://github.com/dalcorso/thermo_pw): ab-initio computation of material properties, by dalcorso
