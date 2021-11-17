@@ -2083,6 +2083,8 @@ milancurcic and awvwgk
 
 [Gaussian Mixture ARMA-GARCH](https://github.com/saveriocolla90/Gaussian-Mixture-ARMA-GARCH): implements a Gaussian Mixture ARMA-GARCH model to fit a generic time series with zero mean and gaussian distributed standard deviations, by saveriocolla90
 
+[KFAS: R Package for Exponential Family State Space Models](https://github.com/helske/KFAS): provides tools for modelling exponential family state space models such as structural time series, ARIMA models, generalized linear models and generalized linear mixed models, by Jouni Helske et al., with underlying Fortran 95 code
+
 [REDFIT-X](https://github.com/kristinbjorg/REDFIT-X-Cross-spectral-analysis-of-unevenly-spaced-paleoclimate-time-series): cross-spectral analysis of unevenly spaced paleoclimate time series, by kristinbjorg et al.
 
 [setpar](https://github.com/wan9c9/setpar): code by wan9c9 related to the paper "Self-excited Threshold Poisson Autoregression Model"
