@@ -1800,6 +1800,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [KORC](https://github.com/ORNL-Fusion/KORC): Kinetic Orbit Runaway Code, from ORNL-Fusion
 
+[MagTense](https://github.com/cmt-dtu-energy/MagTense): magnetostatic and a micromagnetism calculation framework, in Fortran with Matlab MEX and Python interfaces, by Kaspar Kirstein Nielsen et al.
+
 [McPhase](https://github.com/mducle/mcphase): Mean-field monte-Carlo simulation program for magnetic PHASE diagrams and excitations, originally developed by Martin Rotter. McPhase uses the mean-field approximation to calculate magnetic structures and magnetic-field vs temperature phase diagrams from input files which specify the crystal structure of a magnetic material and the exchange interactions between the magnetic ions in this material.
 
 [MDCM](https://github.com/MMunibas/MDCM): Machine learning code to fit Minimal Distributed Charge Models, by Mike Devereux et al.
