@@ -84,6 +84,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [oorb](https://github.com/oorb/oorb): contains the statistical orbital ranging method (hereafter referred to as Ranging). Ranging is used to solve the orbital inverse problem of computing non-Gaussian orbital-element probability density functions based on input astrometry.
 
+[SMERCURY-T](https://github.com/SMKreyche/SMERCURY-T): upgrade of the SMERCURY orbital integrator that includes modules to enable the solar tidal spin torque as well as the general relativistic force, by Steven M. Kreyche
+
 [spacepy](https://github.com/spacepy/spacepy): Space Science library for Python, calling Fortran code - contains superposed epoch classes, drift shell tracing, access to magnetic field models, streamline tracing, bootstrap confidence limits, time and coordinate conversions, etc.
 
 [starlink](https://github.com/Starlink/starlink): astronomical data processing
