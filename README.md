@@ -1714,7 +1714,7 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [riemann](https://github.com/clawpack/riemann): centralized location for all Clawpack-compatible Riemann solvers
 
-[Sequential Software for the Robust Multigrid Technique](https://github.com/simartynenko/Robust_Multigrid_Technique_2020): code associated with book by S. I. Martynenko. Presents basic concepts of modern numerical methods for mathematical modeling of physical and chemical processes in the computational continuum mechanics (thermal conductivity, chemical hydrodynamics, convective heat transfer, electrodynamics, etc.).
+[Sequential Software for the Robust Multigrid Technique](https://github.com/simartynenko/Robust_Multigrid_Technique_2020): code associated with book by S. I. Martynenko. Presents basic concepts of modern numerical methods for mathematical modeling of physical and chemical processes in the computational continuum mechanics (thermal conductivity, chemical hydrodynamics, convective heat transfer, electrodynamics, etc.). [Robust_Multigrid_Technique_2021_OpenMP](https://github.com/simartynenko/Robust_Multigrid_Technique_2021_OpenMP) is an OpenMP version.
 
 [sippp](https://github.com/nschloe/sippp): solves singularly perturbed parabolic problems, by Nico Schlömer. The library contains routines which handle the generation of meshes (in particular layer adapted meshes) when treating singularly perturbed problems as well as a wide range of A-stable Runge-Kutta methods.
 
