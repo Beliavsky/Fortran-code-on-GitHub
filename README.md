@@ -1714,6 +1714,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [riemann](https://github.com/clawpack/riemann): centralized location for all Clawpack-compatible Riemann solvers
 
+[Sequential Software for the Robust Multigrid Technique](https://github.com/simartynenko/Robust_Multigrid_Technique_2020): code associated with book by S. I. Martynenko. Presents basic concepts of modern numerical methods for mathematical modeling of physical and chemical processes in the computational continuum mechanics (thermal conductivity, chemical hydrodynamics, convective heat transfer, electrodynamics, etc.).
+
 [sippp](https://github.com/nschloe/sippp): solves singularly perturbed parabolic problems, by Nico Schlömer. The library contains routines which handle the generation of meshes (in particular layer adapted meshes) when treating singularly perturbed problems as well as a wide range of A-stable Runge-Kutta methods.
 
 [Spectral Element Libraries in Fortran (SELF)](https://github.com/FluidNumerics/SELF): object-oriented Fortran library that support the implementation of Spectral Element Methods for solving partial differential equations, by Joe Schoonover. The SELF API is designed based on the assumption that SEM developers and researchers need to be able to implement derivatives in 1-D and divergence, gradient, and curl in 2-D and 3-D on scalar, vector, and tensor functions using spectral collocation, continuous galerkin, and discontinuous galerkin spectral element methods.
