@@ -1366,6 +1366,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [SISSO](https://github.com/rouyang2017/SISSO): data-driven method combining symbolic regression and compressed sensing toward accurate & interpretable models, by rouyang2017
 
+[sulfur-magma](https://github.com/charlesll/sulfur-magma): predicts of sulfur redox state in magmatic liquids, by Roberto Moretti and Charles Le Losq. Associated paper: Moretti, R., & Ottonello, G. (2003). A polymeric approach to the sulfide capacity of silicate slags and melts. Metallurgical and Materials Transactions B, 34(4), 399–410. doi.org/10.1007/s11663-003-0066-1
+
 [thermo_pw](https://github.com/dalcorso/thermo_pw): ab-initio computation of material properties, by dalcorso
 
 [Truchas](https://github.com/truchas/truchas): physics-based modeling and simulation of manufacturing processes, from Los Alamos National Laboratory. Its core capabilities are primarily geared toward metal casting, with developing capabilities for metal additive manufacturing. 
