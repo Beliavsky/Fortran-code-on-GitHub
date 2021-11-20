@@ -2028,6 +2028,8 @@ and Andrea Rau.
 
 [curvefit](https://github.com/jchristopherson/curvefit): library for fitting functions to sets of data, by jchristopherson
 
+[em-fortranbox](https://github.com/elmarmertens/em-fortranbox): econometrics modules by Elmar Mertens
+
 [Ensemble Data Assimilation Modules (EnsDAM)](https://github.com/brankart/ensdam): modules that can be useful to ensemble data assimilation systems, by Jean-Michel Brankart. Includes code to compute and update statisics, locate and interpolate points, and sample from uniform and nonuniform distirubtions.
 
 [ferre](https://github.com/callendeprieto/ferre): matches models to data, taking a set of observations and identifying the model parameters that best reproduce the data, in a chi-squared sense, by callendeprieto and holtzmanjon
