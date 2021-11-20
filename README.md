@@ -820,6 +820,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [numx](https://github.com/alpgodev/numx): High-Performance Library for Portfolio Optimization and Risk Analysis, by alpgodev
 
+[trendInflation](https://github.com/elmarmertens/trendInflation): code for trend inflation model of Mertens (2016, REStat, http://dx.doi.org/10.1162/REST_a_00549) and Garnier, Mertens and Nelson (2015, IJCB, http://www.ijcb.org/journal/ijcb15q4a2.htm). The model implemented here is the variant with stochastic volatility in all inflation gaps.
+
 ## Engineering
 [Bonneville Power Administration Interactive Power Flow and Transient Stability Program (bpa-ipf-tsp)](https://github.com/mbheinen/bpa-ipf-tsp): family of programs for doing power flow studies. IPF models the balanced steady-state operation of an electric power network.
 
