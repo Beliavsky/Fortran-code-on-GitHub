@@ -2000,6 +2000,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [fortran-search-and-sort](https://github.com/jacobwilliams/fortran-search-and-sort): Searching and sorting with modern Fortran, by Jacob Williams
 
+[M_sort](https://github.com/urbanjost/M_sort): collection of Fortran procedures that do simple sorts, by urbanjost
+
 [stringsort](https://github.com/jacobwilliams/stringsort): sorting routines for strings, by Jacob Williams
 
 ## Statistics
