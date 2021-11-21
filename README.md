@@ -1168,6 +1168,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [PG2PLplot](https://github.com/AstroFloyd/PG2PLplot): facilitate the transition from Fortran code linked against [PGPlot](https://sites.astro.caltech.edu/~tjp/pgplot/) to linking it against [PLplot](http://plplot.sourceforge.net/), which is open source and maintained. Currently, many PGPlot routines are included, but the code is by no means exhaustive.
 
+[PlPlotLib](https://github.com/zoziha/PlPlotLib): wrapper for PlPlot inspired by the interface of matplotlib, by zoziha. It is intended to fill the need for rapid feedback while developing numerical simulations, and does not replace more sophisticated packages such as matplotlib or even direct use of PlPlot.
+
 [pyplot-fortran](https://github.com/jacobwilliams/pyplot-fortran): generate plots from Fortran using Python's matplotlib.pyplot, by jacobwilliams
 
 [RayTran](https://github.com/lewisfish/RayTran): ray tracer in pure Fortran, by lewisfish
