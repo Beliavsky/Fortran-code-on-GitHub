@@ -434,6 +434,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [CFD](https://github.com/brli3/CFD): basic CFD schemes implemented in Fortran using Finite-Volume and Finite-Difference Methods, by brli3. Sample simulations and figures are provided.
 
+[CFD Utility Software Library (CFDTOOLS)](https://github.com/nasa/cfdtools): contains nearly 30 numerical analysis libraries and close to 100 utility applications built upon those libraries. These utilities were developed over a rougly fifty year span to support aerospace research and development activities at NASA Ames Research Center (ARC).
+
 [CFL3D](https://github.com/nasa/CFL3D): structured-grid, cell-centered, upwind-biased, Reynolds-averaged Navier-Stokes (RANS) code, by Chris Rumsey et al. It can be run in parallel on multiple grid zones with point-matched, patched, overset, or embedded connectivities.
 
 [CGNS](https://github.com/CGNS/CGNS): the CFD General Notation System (CGNS) provides a standard for recording and recovering computer data associated with the numerical solution of fluid dynamics equations
