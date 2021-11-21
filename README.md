@@ -479,6 +479,8 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [Geophysical High-Order Suite for Turbulence (GHOST)](https://github.com/pmininni/GHOST): accurate and highly scalable pseudospectral code that solves a variety of PDEs often encountered in studies of turbulent flows. It is mainly developed by Pablo Mininni and Duane Rosenberg, with contributions from many users.
 
+[IMEXLB-1.0](https://github.com/lucaso19891019/IMEXLB-1.0): Lattice Boltzmann Method (LBM) proxy application code-suite for heterogeneous platforms (such as ThetaGPU). A ProxyApp, by definition, is a proxy for a full-fledged application code that simulates a wider array of problems.
+
 [Improved_Phase-Field_LBM_2D](https://github.com/AbbasHub/Improved_Phase-Field_LBM_2D): Improved conservative phase-field LBM code for multiphase flows in a 2D periodic domain, by Abbas Fakhari. It is a sample Lattice-Boltzmann solver for two-phase flows.
 
 [Incompact3d](https://github.com/xcompact3d/Incompact3d): Fortran-MPI based, finite difference high-performance code for solving the incompressible Navier-Stokes equation and as many as needed scalar transport equations
