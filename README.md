@@ -1850,6 +1850,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [Scalable Ab-initio Light–Matter simulator for Optics and Nanoscience (SALMON)](https://github.com/SALMON-TDDFT/SALMON2): software based on first-principles time-dependent density functional theory to describe optical responses and electron dynamics in matters induced by light electromagnetic fields, by Shunsuke Yamada et al.
 
+[SCENE](https://github.com/PlasmaFAIR/SCENE): tokamak equilibrium solver which can generate equilibria in a variety of file formats, from PlasmaFAIR
+
 [Semi-Lagrangian Library (SeLaLib)](https://github.com/selalib/selalib): modular library for kinetic and gyrokinetic simulations of plasmas in fusion energy devices
 
 [SENSMG](https://github.com/jafavorite/SENSMG): Sensitivities of Neutron Reaction Rates, Reaction-Rate Ratios, Leakage, keff, and α Using PARTISN, by jafavorite
