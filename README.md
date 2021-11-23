@@ -1080,6 +1080,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [futility](https://github.com/cmacmackin/futility): collection of modern Fortran utilities, including some numerical subroutines and a module for simplified input and output of arrays, by Chris MacMackin
 
+[fuuid4](https://github.com/PlasmaFAIR/fuuid4): generates random (version 4) Universally Unique Identifiers (UUIDs). Fuuid4 can either wrap the libuuid generator, or use the bundled Mersenne Twister psuedo-random number generator (PRNG) to generate UUIDs itself.
+
 [general-purpose-fortran](https://github.com/urbanjost/general-purpose-fortran): non-numeric tasks such as command-line parsing, string functions, date-and-time manipulation and display, interfacing to the C POSIX system routines, by urbanjost
 
 [gFTL](https://github.com/Goddard-Fortran-Ecosystem/gFTL): provides a mechanism to easily create robust containers and associated iterators which can be used within Fortran applications, from Goddard-Fortran-Ecosystem. The primary methods are intended to be as close to their C++ STL analogs as possible. Also see [gFTL-shared](https://github.com/Goddard-Fortran-Ecosystem/gFTL-shared)
