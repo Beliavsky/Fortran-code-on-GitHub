@@ -1588,6 +1588,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [FilterSD](https://github.com/jacobwilliams/FilterSD): Fortran 77 subroutines for solving nonlinear programming problems and linearly constrained problems in continuous optimization
 
+[fmin](https://github.com/jacobwilliams/fmin): derivative-free 1D function minimizer in modern Fortran, by Jacob Williams
+
 [GALAHAD](https://github.com/ralna/GALAHAD): library of modern Fortran modules for nonlinear optimization
 
 [hyperBOB](https://github.com/maxEntropyProd/hyperBOB): Optimization using MPI parallel Latin hypercube sampling and BOBYQA, by maxEntropyProd
