@@ -1993,6 +1993,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [wannier90](https://github.com/wannier-developers/wannier90): Maximally-Localised Generalised Wannier Functions Code
 
+[WFNSYM](https://github.com/abelcarreras/WFNSYM): calculates continuous symmetry measures (CSM) of the electronic wave function of molecules, by Abel Carreras and ‪Efrem Bernuz
+
 [Yet Another Many-Body cOde (YAMBO)](https://github.com/yambo-code/yambo): implements Many-Body Perturbation Theory (MBPT) methods (such as GW and BSE) and Time-Dependent Density Functional Theory (TDDFT), which allows for accurate prediction of fundamental properties as band gaps of semiconductors, band alignments, defect quasi-particle energies, optics and out-of-equilibrium properties of materials, by Davide Sangalli et al.
 
 [Zen](https://github.com/huangli712/Zen): modern DFT + DMFT (namely, density functional theory plus dynamical mean-field theory) computation framework, by huangli712
