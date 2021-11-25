@@ -2156,6 +2156,8 @@ milancurcic and awvwgk
 ## Unclassified
 [Consolidated Fire and Smoke Transport (CFAST)](https://github.com/firemodels/cfast): two-zone fire model that predicts the thermal environment caused by a fire within a compartmented structure, from firemodels
 
+[DAGLIB](https://github.com/jacobwilliams/daglib): modern Fortran module for creating and manipulating directed acyclic graphs (DAGs), by Jacob Williams and Damian Rouson. It includes a toposort feature, and also the ability to generate files in the GraphViz "dot" notation.
+
 [fds](https://github.com/firemodels/fds): Fire Dynamics Simulator (FDS) is a large-eddy simulation (LES) code for low-speed flows, from firemodels, with an emphasis on smoke and heat transport from fires.
 
 [Fortran---CGAL-polyhedra](https://github.com/LadaF/Fortran---CGAL-polyhedra): bindings to the CGAL library to query to find whether a point is inside of a polyhedron and their distance, by Vladimír Fuka
