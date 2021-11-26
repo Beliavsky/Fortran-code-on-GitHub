@@ -819,6 +819,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [WAVEWATCH III (WW3)](https://github.com/NOAA-EMC/WW3): community wave modeling framework that includes the latest scientific advancements in the field of wind-wave modeling and dynamics, from NOAA-EMC. Solves the random phase spectral action density balance equation for wavenumber-direction spectra.
 
+[yelmo](https://github.com/palma-ice/yelmo): 3D ice-sheet-shelf model solving for the coupled dynamics and thermodynamics of the ice sheet system. Yelmo can be used for idealized simulations, stand-alone ice sheet simulations and fully coupled ice-sheet and climate simulations.
+
 ## Economics
 [aimad](https://github.com/houtanb/aimad): Automatic Differentiation Applied to the Likelihood Function for Dynamic General Equilibrium Models, by houtanb. Associated with paper Bastani, Houtan and Luca Guerrieri. "On the Application of Automatic Differentiation to the Likelihood Function for Dynamic General Equilibrium Models". Advances in Automatic Differentiation, Eds. Bischof, C.H., et. al. Berlin: Springer-Verlag, 2008. 303-314.
 
