@@ -1392,6 +1392,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [Truchas](https://github.com/truchas/truchas): physics-based modeling and simulation of manufacturing processes, from Los Alamos National Laboratory. Its core capabilities are primarily geared toward metal casting, with developing capabilities for metal additive manufacturing. 
 
+[usrmat_LS-Dyna_Fortran](https://github.com/jfriedlein/usrmat_LS-Dyna_Fortran): basics to implement user-defined materials (usrmat, umat, utan) in [LS-Dyna](https://www.lstc.com/products/ls-dyna) with Fortran, by jfriedlein
+
 ## Mesh Generation
 [EqualSpherePartition](https://github.com/GongZheng-Justin/EqualSpherePartition): partitions the surface of a sphere into regions of equal area, by Zheng Gong. Reference: Leopardi P. [A partition of the unit sphere into regions of equal area and small diameter](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.90.2213)[J]. Electronic Transactions on Numerical Analysis Etna, 2006, 25(1):2006.
 
