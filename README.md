@@ -1757,6 +1757,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 [Unstructured Finite Volume Solver](https://github.com/komahanb/unstructured-finite-volume): unstructured Finite Volume Solver for Partial Differential Equations that is standard Fortran 2018, is object-oriented for separation of geometry, physics and solution, uses coarrays for distributed memory parallelism, and uses the pure, elemental, and do concurrent features for shared memory parallelism, by komahanb
 
 ## Particle Physics
+[Cyclone](https://github.com/BruceMilton/Cyclone): cyclotron orbit code by Bruce F. Milton. It calculates orbits using both magnetic and electric field maps and is therefore useful for central region design.
+
 [darkmatter](https://github.com/ogorton/darkmatter): experimental WIMP Analysis, by ogorton
 
 [DPMJET](https://github.com/DPMJET/DPMJET): Monte Carlo event generator for hadron, photon and nuclear collisions with a several decade-long history. DPMJET is an integral part of FLUKA, a fully integrated particle physics MonteCarlo simulation package, acting as event generator for nucleus-nucleus collisions above 5 GeV/nucleon and for hadronic collisions at high energies. 
