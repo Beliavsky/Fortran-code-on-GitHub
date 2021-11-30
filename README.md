@@ -1457,6 +1457,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [fortran-NeuralNetwork](https://github.com/Jonas-Finkler/fortran-NeuralNetwork): Simple implementation of a neural network, implemented in Fortran, by Jonas-Finkler
 
+[Fortran-Torch-Adapter](https://github.com/luc99hen/FTA): integrates a deep learning model into a Fortran environment, by luc99hen
+
 [gpf](https://github.com/ots22/gpf): small Fortran library for Gaussian process regression. It currently implements value predictions with dense Gaussian processes, and projected-process approximate Gaussian processes
 
 [mlxanes](https://github.com/tneth/mlxanes): machine learning x-ray absorption near edge structure: An OpenMP parallelised multivariate linear regression Fortran program for predicting XANES spectra from an xyz file, by tneth
