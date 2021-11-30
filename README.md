@@ -2181,6 +2181,8 @@ milancurcic and awvwgk
 [DistTab](https://github.com/NickAbel/DistTab): library being developed for use with combustion codes that use spray flame lookup tables, by NickAbel
 
 ## Unit Testing
+[f90tw](https://github.com/loudove/f90tw): provides Fortran wrappers for a limited subset of the Boost and Google test frameworks functionality, by loudove. At the same time, it offers a rather simple mechanism for setting up and managing test suites in Fortran projects. 
+
 [fortran-testanything](https://github.com/dennisdjensen/fortran-testanything): test library supporting the Test Anything Protocol (TAP) inspired by Perl's Test::More module, by dennisdjensen
 
 [fortran-unit-test](https://github.com/dongli/fortran-unit-test): unit test library in Fortran to encourage scientific programmer to write tests, by dongli
