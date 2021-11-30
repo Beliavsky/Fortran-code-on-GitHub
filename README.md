@@ -887,6 +887,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [hdf5-benchmark](https://github.com/scivision/hdf5-benchmark): benchmarking speed of HDF5 writes from MPI parallel workers, by scivision
 
+[json-fortran](https://github.com/jonathanschilling/json-fortran): KISS Fortran routines to write (multi-dimensional) data as JSON, by Jonathan Schilling
+
 [Object-oriented Fortran 2018 HDF5 interface](https://github.com/fccf/hdf5_interface): very simple single-file/module access to HDF5, by fccf. More advanced object-oriented Fortran HDF5 access is also available but not compatible with HDF5 1.10 like this program.
 
 [HDF5 wrapper](https://github.com/mpickem/hdf5_wrapper): minimalistic hdf5 wrapper for Fortran90/95, by Matthias Pickem
