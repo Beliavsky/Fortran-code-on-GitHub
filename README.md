@@ -196,6 +196,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [bench_density_gradient_wfn](https://github.com/zyth0s/bench_density_gradient_wfn): analyze the performance of evaluating the density gradient with various language implementations (C++/Fortran/Rust/Julia), by zyth0s
 
+[benchio](https://github.com/davidhenty/benchio): simple Fortran parallel IO benchmark for teaching and benchmarking purposes, by David Henty
+
 [benchmarks](https://github.com/HPCL/benchmarks): high performance computing benchmarks and associated performance analysis workflows, from HPCL
 
 [Comparison of Programming Languages in Economics](https://github.com/jesusfv/Comparison-Programming-Languages-Economics): code referenced in the paper "A Comparison of Programming Languages in Economics" by S. Borağan Aruoba and Jesús Fernández-Villaverde
