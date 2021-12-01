@@ -733,6 +733,9 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [PyGeopack](https://github.com/mattkjames7/PyGeopack): Wrapper for the [geopack-08](https://geo.phys.spbu.ru/~tsyganenko/Geopack-2008.html) Fortran code used for the Tsyganenko magnetic field models
 
+[PyRaysum](https://github.com/paudetseis/PyRaysum):g enerates sets of ray-theoretical seismograms for an incident plane wave (teleseismic approximation) for models consisting of a stack of layers with planar but nonparallel (dipping) interfaces, allowing the possibility of anisotropy in the layers. Incident P and S waves are supported.
+PyRaysum is a Python wrapper around the Fortran software Raysum, originally developed by Andrew Frederiksen.
+
 [pySIR](https://github.com/aasensio/pySIR): Python wrapper for the Stokes Inversion based on Response functions Fortran code by Ruiz Cobo & del Toro Iniesta (1992)
 
 [PySolid](https://github.com/insarlab/PySolid): Python wrapper for the Fortran program solid to compute solid Earth tides. Solid Earth tides introduces very long spatial wavelength range components in SAR/InSAR observations, as shown in the Sentinel-1 data with regular acquisitions and large swaths (Fattahi et al., 2020).
