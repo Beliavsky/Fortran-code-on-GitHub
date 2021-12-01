@@ -1066,6 +1066,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [Fortran Parameter List (FPL)](https://github.com/victorsndvg/FPL): Fortran 2003 library that can manage the parameters of a program from a single point, by victorsndvg. FPL is an extendible container (dictionary) of <Key, Value> pairs, where the Key is a character string and the Value can be, by the default, of the basic data types.
 
+[Fortran pathlib](https://github.com/scivision/fortran-pathlib): Filesystem path manipulation utilities for standard Fortran, from scivision. Inspired by Python pathlib and C++17 filesystem.
+
 [fortran-sqlite3](https://github.com/interkosmos/fortran-sqlite3): Fortran 2018 interface bindings to SQLite 3, by interkosmos
 
 [Fortran Template Library (FTL)](https://github.com/SCM-NV/ftl): generic containers, versatile algorithms, easy string manipulation, and more
