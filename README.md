@@ -1786,6 +1786,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [EventShapes_HiggsTOgg_QCD_NLO](https://github.com/GuglielmoColoretti/EventShapes_HiggsTOgg_QCD_NLO): code for EERAD3 to compute three-jets event shapes QCD corrections up to NLO to Higgs decays into a pair of gluons and up to NLO into a bottom-antibottom pair.
 
+[GEometry ANd Tracking (geant3)](https://github.com/vmc-project/geant3): simulation software using Monte Carlo methods to describe how particles pass through matter, by Ivana Hrivnacova et al.
+
 [halld_sim](https://github.com/JeffersonLab/halld_sim): simulation for the GlueX Experiment in Hall D, from JeffersonLab. Contains programs used to do detector simulation and event generation.
 
 [Higher Order Perturbative Parton Evolution Toolkit (HOPPET)](https://github.com/gavinsalam/hoppet): carries out DGLAP evolution and other common manipulations of parton distribution functions (PDFs), by gavinsalam. Within HOPPET, PDFs are represented on a grid in x-space so as to avoid limitations on the functional form of input distributions.
