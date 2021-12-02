@@ -1780,7 +1780,7 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 ## Particle Physics
 [Cyclone](https://github.com/BruceMilton/Cyclone): cyclotron orbit code by Bruce F. Milton. It calculates orbits using both magnetic and electric field maps and is therefore useful for central region design.
 
-[darkmatter](https://github.com/ogorton/darkmatter): experimental WIMP Analysis, by ogorton
+[dmfortfactor](https://github.com/ogorton/dmfortfactor): program for experimental WIMP analysis that computes the differential event rate per recoil energy for WIMP-nucleon scattering events, by Calvin Johnson and Oliver Gorton 
 
 [DPMJET](https://github.com/DPMJET/DPMJET): Monte Carlo event generator for hadron, photon and nuclear collisions with a several decade-long history. DPMJET is an integral part of FLUKA, a fully integrated particle physics MonteCarlo simulation package, acting as event generator for nucleus-nucleus collisions above 5 GeV/nucleon and for hadronic collisions at high energies. 
 
