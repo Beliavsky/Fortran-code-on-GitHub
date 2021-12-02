@@ -515,6 +515,8 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [Nek5000](https://github.com/Nek5000/Nek5000): fast and scalable high-order solver for computational fluid dynamics.  Applications span a wide range of fields, including fluid flow, thermal convection, combustion and magnetohydrodynamics.
 
+[NekIBM](https://github.com/YunchaoYang/NekIBM): implementation of Immersed Boundary Method for for exascale simulation of multiphase flow based on the Spectral Element Method Nek5000/CMTnek code, by Yunchao Yang
+
 [Nemoh](https://github.com/LHEEA/Nemoh): Boundary Element Methods (BEM) code dedicated to the computation of first order wave loads on offshore structures (added mass, radiation damping, diffraction forces). Typical use is estimation of dynamic response of floating structures or performance assessment of wave energy converters.
 
 [NTUSTCFDLAB](https://github.com/HSUAN221/NTUSTCFDLAB): code for 3D flow using projection method with FVM, by HSUAN221. Navier Stokes equations are solved for velocity and pressure fields. 
