@@ -688,6 +688,8 @@ recorded by a sparse regional seismograph network.
 
 [LISF](https://github.com/NASA-LIS/LISF): The Land Information System (LIS) from NASA-LIS is a software framework for high performance terrestrial hydrology modeling and data assimilation developed with the goal of integrating satellite and ground-based observational data products and advanced modeling techniques to produce optimal fields of land surface states and fluxes.
 
+[MANDIFORE_modeling](https://github.com/MortonArb-ForestEcology/MANDIFORE_modeling): Forestry x climate scenarios for NSF-funded MANDIFORE project, by Christy Rollinson and Lucien Fitzpatrick
+
 [Maptran 3D](https://github.com/geospace-code/maptran3d): Modern Fortran 3D coordinate conversions for geospace ecef enu eci, from geospace-code.  Similar to Python PyMap3D and Matlab Matmap3d.
 
 [mcm](https://github.com/swami-h2020-eu/mcm): H2020 project with the purpose of developing a model of the whole atmosphere by means of blending the Unified Model (UM) from the MetOffice in the UK for the atmosphere (0 to 120 km) and the Drag Temperature Model (DTM2020) from the Centre National d'Études Spatiales (CNES) in France covering the thermosphere, from 120 to 1500 km
