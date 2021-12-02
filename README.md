@@ -91,6 +91,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 [starlink](https://github.com/Starlink/starlink): astronomical data processing
 
 ## Astrophysics
+[ARTEMIS-P](https://github.com/maserlib/ARTEMIS-P): Anisotropic Ray Tracer for Electromagnetism in Magnetospheres, Ionospheres and Solar wind, including Polarisation, by Baptiste Cecconi and C. Baskevitch
+
 [ATES-Code](https://github.com/AndreaCaldiroli/ATES-Code): ATES hydrodynamics code, by AndreaCaldiroli, computes the temperature, density, velocity and ionization fraction profiles of highly irradiated planetary atmospheres, along with the current, steady-state mass loss rate.
 
 [BI-spectra and Non-Gaussianity Operator (BINGO)](https://github.com/dkhaz/bingo): numerically evaluates the scalar bi-spectrum and the non-Gaussianity parameter fNL in single field inflationary models involving the canonical scalar field, by dkhaz. The code is based on the Maldacena formalism to evaluate the bi-spectrum.  
