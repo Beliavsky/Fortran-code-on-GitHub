@@ -584,6 +584,8 @@ nscapin
 
 [cdss-app-statemod-fortran](https://github.com/OpenCDSS/cdss-app-statemod-fortran): StateMod water allocation model, which is part of Colorado's Decision Support Systems (CDSS)
 
+[celltrack](https://github.com/lochbika/celltrack): finds continuous cells in 2D fields and tracks them in time. The primary use case is rain cell tracking. Related paper: Lochbihler, K., Lenderink, G., and Siebesma, A. P. (2017), The spatial extent of rainfall events and its relation to precipitation scaling, Geophys. Res. Lett., 44, 8629– 8636, doi:10.1002/2017GL074857.
+
 [CE-QUAL-W2](https://github.com/EnvironmentalSystems/CE-QUAL-W2): two‐dimensional (2D), longitudinal/vertical, hydrodynamic water quality (WQ) model, by TSteissberg and hsteissberg. Because the model assumes lateral homogeneity, it is especially suited for relatively long and narrow waterbodies exhibiting longitudinal and vertical water quality gradients.
 
 [Chemistry Across Multiple Phases: CAMP](https://github.com/open-atmos/camp): multi-phase chemistry treatment for atmospheric models. Reference: M. Dawson, C. Guzman, J. H. Curtis, M. Acosta, S. Zhu, D. Dabdub, A. Conley, M. West, N. Riemer, and O. Jorba (2021), Chemistry Across Multiple Phases (CAMP) version 1.0: An Integrated multi-phase chemistry model, in preparation
