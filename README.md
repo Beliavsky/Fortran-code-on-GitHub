@@ -177,6 +177,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [riaf-sed](https://github.com/rsnemmen/riaf-sed): computes spectral energy distributions of radiatively inefficient accretion flows (RIAFs) around black holes, by rsnemmen
 
+[SpectralRadex](https://github.com/uclchem/SpectralRadex): Python library for spectral modelling and RADEX, by Jon Holdship et al. SpectralRadex uses F2PY to compile a version of RADEX written in modern Fortran, most importantly dropping the use of common blocks. As a result, running a RADEX model creates no subprocesses and can be parallelized.
+
 [splash](https://github.com/danieljprice/splash): visualisation tool for Smoothed Particle Hydrodynamics (SPH) simulations in one, two and three dimensions, developed mainly for astrophysics, by Daniel Price
 
 [Starlib: Thermonuclear Rate Library](https://github.com/Starlib/Rate-Library): library of thermonuclear reaction and laboratory weak interaction rates. It can be used for studies of stellar models and nucleosynthesis.
