@@ -1823,6 +1823,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Angular Momentum model Of Relativistic Electron beam transport (AMoRE)](https://github.com/michaeltouati/AMoRE): code parallelized using OpenMP for fast simulations of laser-generated relativistic electron beam transport in solid or dense plasma targets, by Michaël J. Touati. It computes the two first angular moments of the relativistic Vlasov-Fokker-Planck-Belaiev-Budker kinetic equation completed with the Minerbo maximum angular entropy closure and coupled with target Magneto-Hydrodynamic equations considering time scales during which the return current has already set up.
 
+[aorsa3d](https://github.com/ORNL-Fusion/aorsa3d): solves for the wave electric field and heating in a 3-D stellerator plasma heated by radio frequency waves using an all orders spectral algorithm, by Naoto Tsujii and David L. Green
+
 [Bose-Einstein_Condensates](https://github.com/brito-leonardo/Bose-Einstein_Condensates): solve Bose-Einstein condensates problems and related algebraic problems in quantum mechanics, with Fortran 90 and Python 3 languages, by brito-leonardo
 
 [Cartesian-coordinate Oblique-boundary Particles and Thermals In Cell (COPTIC)](https://github.com/ihutch/COPTIC):  moves particles in three dimensions of space and time (6
