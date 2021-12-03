@@ -2129,6 +2129,8 @@ and Andrea Rau.
 
 [Multivariate Data Analysis Software in Fortran (and C)](https://mda-sw.github.io/) by Fionn Murtagh 
 
+[Optimal Subset CArdinality Regression models (oscar)](https://github.com/Syksy/oscar): R package with underlying Fortran code by T. D. Laajala
+
 [ParaMonte](https://github.com/cdslaborg/paramonte): Plain Powerful Parallel Monte Carlo and MCMC Library for Python, MATLAB, Fortran, C++, C, from cdslaborg
 
 [PolyChordLite](https://github.com/PolyChord/PolyChordLite): public version of PolyChord, next generation data technology which has the ability to more fully explore a complex, challenging data landscape
