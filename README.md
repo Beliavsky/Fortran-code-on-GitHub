@@ -275,17 +275,17 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [CTSM](https://github.com/ESCOMP/CTSM): Community Terrestrial Systems Model (includes the Community Land Model of CESM), from ESCOMP
 
-[FMS](https://github.com/NOAA-GFDL/FMS): Flexible Modeling System (FMS), from NOAA-GFDL, is a software environment that supports the efficient development, construction, execution, and scientific interpretation of atmospheric, oceanic, and climate system models
-
-[gcm](https://github.com/pqnelson/gcm): Toy General Circulation Model in Literate Fortran, by pqnelson
-
 [E3SM](https://github.com/E3SM-Project/E3SM): Energy Exascale Earth System Model source code, by E3SM-Project 
 
 [ecrad](https://github.com/ecmwf/ecrad): offline version of a radiation scheme suitable for use in atmospheric weather and climate models, from ecmwf
 
-[Finite Element Sea Ice-Ocean Model (FESOM2)](https://github.com/FESOM/fesom2): Multi-resolution ocean general circulation model that solves the equations of motion describing the ocean and sea ice using finite-element and finite-volume methods on unstructured computational grids. The model is developed and supported by researchers at the Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI), in Bremerhaven, Germany.
-
 [ExoRT](https://github.com/storyofthewolf/ExoRT): reasonably flexible two-stream radiative transfer code designed for use with 3D climate models, by Eric T. Wolf. In this software, contained are builds for a 1-D offline version, and for directly interfacing with CESM/CAM4.
+
+[FMS](https://github.com/NOAA-GFDL/FMS): Flexible Modeling System (FMS), from NOAA-GFDL, is a software environment that supports the efficient development, construction, execution, and scientific interpretation of atmospheric, oceanic, and climate system models
+
+[gcm](https://github.com/pqnelson/gcm): Toy General Circulation Model in Literate Fortran, by pqnelson
+
+[Finite Element Sea Ice-Ocean Model (FESOM2)](https://github.com/FESOM/fesom2): Multi-resolution ocean general circulation model that solves the equations of motion describing the ocean and sea ice using finite-element and finite-volume methods on unstructured computational grids. The model is developed and supported by researchers at the Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI), in Bremerhaven, Germany.
 
 [fv3gfs](https://github.com/NOAA-EMC/fv3gfs): Finite­ Volume Cubed-Sphere dynamical core (FV3) Global Forecasting System (GFS), from NOAA-EMC
 
@@ -296,6 +296,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 [GFDL_atmos_cubed_sphere](https://github.com/NOAA-GFDL/GFDL_atmos_cubed_sphere): GFDL atmos_cubed_sphere dynamical core code, from NOAA-GFDL
 
 [Gridded Meteorological Ensemble Tool (GMET)](https://github.com/NCAR/GMET): software for created gridded meteorological datasets for precipitation and temperature, by Andy Newman. The current applications have been at a daily timestep, yielding daily total precipitation, mean temperature and temperature range.
+
+[Himawari_HSD_Reader](https://github.com/simonrp84/Himawari_HSD_Reader): reader for data from Japan's [Himawari satellite](https://en.wikipedia.org/wiki/Himawari_8), by Simon Proud. This utility reads 'raw' HSD format data and can convert it into more friendly formats such as NetCDF4.
 
 [icar](https://github.com/NCAR/icar): Intermediate Complexity Atmospheric Research Model (ICAR), from NCAR, a simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses
 
