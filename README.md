@@ -2036,6 +2036,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [RUQT](https://github.com/HoyLab-Rowan/RUQT): performs Landauer NEGF calculations using advanced electronic structure methods particularly parametric 2-RDM (NEGF-RDM) and multi-configuration pair density functional theory (NEGF-PDFT), from HoyLab-Rowan
 
+[ShirleyForQE](https://github.com/subhayanrc/ShirleyForQE): distribution of the Quantum ESPRESSO suite of codes (ESPRESSO: opEn-Source Package for Research in Electronic Structure, Simulation, and Optimization).
+
 [SkProgs](https://github.com/dftbplus/skprogs): generates Slater-Koster files for the Density Functional Based Tight Binding method (DFTB-method), by Bálint Aradi et al.
 
 [smash](https://github.com/cmsi/smash): Massively parallel software for quantum chemistry calculations, from cmsi
