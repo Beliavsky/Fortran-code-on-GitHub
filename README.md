@@ -273,6 +273,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [C_ClWxSim](https://github.com/RosesHaveThorns/C_ClWxSim): very simplistic weather and climate simulator for worldbuilding, from RosesHaveThorns
 
+[convert_mpas](https://github.com/mgduda/convert_mpas): general conversion utility for MPAS-Atmosphere output files, by Michael Duda and David Ahijevych
+
 [CRUST](https://github.com/ClimaticResearchUnit/CRUST): Climatic Research Unit Standardisation of Tree-ring data
 
 [CTSM](https://github.com/ESCOMP/CTSM): Community Terrestrial Systems Model (includes the Community Land Model of CESM), from ESCOMP
