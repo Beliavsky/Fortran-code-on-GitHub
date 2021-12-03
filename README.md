@@ -109,6 +109,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [CosmoSIS](https://cosmosis.readthedocs.io/en/latest/): cosmological parameter estimation code, by joezuntz et al. It is a framework for structuring cosmological parameter estimation with a focus on flexibility, re-usability, debugging, verifiability, and code sharing in the form of calculation modules.
 
+[DAOPHOT-MCMC](https://github.com/skterry/daophot_mcmc): modified version of the subroutine NSTAR.F which implements a Markov chain Monte Carlo (MCMC) routine for fitting highly blended stellar positions and fluxes, by Sean Terry. This code is installed and implemented within the overall DAOPHOT-II structure. 
+
 [Discrete Element Model Body (DEMBody)](https://github.com/Bin-Cheng-THU/DEMBody): software for Granular Dynamics Simulation for Planetary Science and Geophysics, by Bin Cheng. It incorporates classical granular dynamics simulations and N-body self-gravity calculation. 
 
 [DYnamics, Age and Metallicity Indicators Tracing Evolution (DYNAMITE)](https://github.com/dynamics-of-stellar-systems/dynamite_release): Schwarzschild- and stellar-population modelling of stellar systems
