@@ -840,6 +840,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [WASA-SED](https://github.com/TillF/WASA-SED): numerical model for simulation hydrological and sediment fluxes from meso-scale catchments (Mueller et al., 2010), from TillF
 
+[Wetland Water Quality Model (WetQual-GUI)](https://github.com/USEPA/WetQual-GUI): simulates nitrogen (N), phosphorus (P), total suspended sediment (TSS) and carbon (C) cycles and their dynamics in wetlands, by Daniel Lee Young et al. The model partitions a wetland into three basic compartments: (1) (free) water column, (2) wetland soil layer, which is further portioned into aerobic and anaerobic zones, and (3) plant biomass.
+
 [Wildland-urban Interface Simulator (WFDS)](https://github.com/ruddymell/wfds9977): extension of NIST's structural Fire Dynamics Simulator (FDS) to fuels that include vegetation. WFDS uses computational fluid dynamics methods to solve the governing equations for buoyant flow, heat transfer, combustion, and the thermal degradation of vegetative fuels.
 
 [WRF-Hydro](https://github.com/NCAR/wrf_hydro_nwm_public): community modeling system and framework for hydrologic modeling and model coupling, from NCAR. In 2016 a configuration of WRF-Hydro was implemented as the National Water Model (NWM) for the continental United States.
