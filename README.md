@@ -1164,6 +1164,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [PolyCon](https://github.com/cmacmackin/PolyCon): abstract container derived type which can be used as a sort of unlimited polymorphic entity whose contents are retrievable with type-guards, by Chris MacMackin. Different subclasses are created in order to hold different data-types.
 
+[progressbar](https://github.com/giambagiamba/progressbar): simple C library for drawing a progress bar on a memory mapped log file, designed to introduce as little overhead as possible, by G-Lorenz and giambagiamba. It is compatible with C++ and Fortran.
+
 [qContainers](https://github.com/darmar-lt/qcontainers): container library for Fortran language. It enables to store any internal Fortran data type and any derived data type to the container. It implements containers for key/value pairs: tree table and hash table, and containers for objects: list and vector.
 
 [sourcery](https://github.com/sourceryinstitute/sourcery): utilities such as array functions, assertions, emulated intrinsic functions: findloc, emulated collective subroutines: co_sum, co_broadcast, user-defined collective subroutines: co_all, string functions, and classes for parallel data partitioning and gathering and the (Co-)Object pattern abstract parent, by Damian Rouson and Brad Richardson
