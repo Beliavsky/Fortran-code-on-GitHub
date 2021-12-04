@@ -1059,6 +1059,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [flink](https://github.com/huangli712/flink): Flexible Fortran Modules and Subroutines for Scientific Computing
 
+[flist](https://github.com/jacobwilliams/flist): modern Fortran linked lists using unlimited polymorphic derived types, by Jacob Williams
+
 [forbear](https://github.com/szaghi/forbear): progress bar environment by szaghi and jhykes
 
 [Fortran Equation Parser (feqparse)](https://github.com/FluidNumerics/feq-parse): equation parser Fortran class that is used to interpret and evaluate functions provided as strings, by Joe Schoonover 
