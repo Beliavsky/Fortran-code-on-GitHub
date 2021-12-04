@@ -511,7 +511,7 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [KatzPlotkin](https://github.com/cibinjoseph/KatzPlotkin): Fortran programs provided by Joseph Katz and Allen Plotkin in their book [Low-Speed Aerodynamics](https://www.amazon.com/Low-Speed-Aerodynamics-Second-Cambridge-Aerospace/dp/0521665523)
 
-[lbm2d_opencl](https://github.com/LKedward/lbm2d_opencl): D2Q9 BGK Lattice Boltzmann code written in OpenCL and Modern Fortran, by LKedward
+[lbm2d_opencl](https://github.com/LKedward/lbm2d_opencl): D2Q9 BGK Lattice Boltzmann code written in OpenCL and Modern Fortran, by Laurence Kedward
 
 [lesgo](https://github.com/lesgo-jhu/lesgo): solves the filtered Navier-Stokes equations in the high-Reynolds number limit on a Cartesian mesh, from the Turbulence Research Group at Johns Hopkins University. Originally designed to simulate flow in the atmospheric boundary layer, LESGO has been extended and used to simulate flow over tree canopies, wall-mounted cubes, and wind turbine arrays, among other things.
 
@@ -1045,7 +1045,7 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [ferror](https://github.com/jchristopherson/ferror): library to assist with error handling in Fortran projects
 
-[fhash](https://github.com/LKedward/fhash): hash table with support for generic keys and values, by LKedward
+[fhash](https://github.com/LKedward/fhash): hash table with support for generic keys and values, by Laurence Kedward
 
 [ffhash](https://github.com/jannisteunissen/ffhash): generic and fast hash table similar to khash in C, by Jannis Teunissen
 
@@ -1728,7 +1728,7 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [FGPU](https://github.com/LLNL/FGPU): code examples focusing on porting FORTRAN codes to run DOE heterogenous architecture CPU+GPU machines, from LLNL. The purpose of these is to provide both learning aids for developers and OpenMP and CUDA code examples for testing vendor compilers capabilities.
 
-[focal](https://github.com/LKedward/focal): modern Fortran abstraction layer for OpenCL, by LKedward
+[focal](https://github.com/LKedward/focal): modern Fortran abstraction layer for OpenCL, by Laurence Kedward
 
 [Fortran Coarray and MPI Examples](https://github.com/scivision/fortran-coarray-mpi-examples) from scivision
 
