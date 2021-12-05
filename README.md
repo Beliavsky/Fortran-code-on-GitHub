@@ -527,6 +527,8 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [Nemoh](https://github.com/LHEEA/Nemoh): Boundary Element Methods (BEM) code dedicated to the computation of first order wave loads on offshore structures (added mass, radiation damping, diffraction forces). Typical use is estimation of dynamic response of floating structures or performance assessment of wave energy converters.
 
+[NGA2](https://github.com/desjardi/NGA2): high performance computing research library that provides a variety of finite volumes/finite difference solvers for typical fluid-related partial differential equations, by Olivier Desjardins and Austin Han
+
 [NTUSTCFDLAB](https://github.com/HSUAN221/NTUSTCFDLAB): code for 3D flow using projection method with FVM, by HSUAN221. Navier Stokes equations are solved for velocity and pressure fields. 
 
 [OFF](https://github.com/szaghi/OFF): solve, numerically, the Navier-Stokes equations of fluid dynamics by means of Finite Volume technique, by szaghi and giacrossi 
