@@ -335,6 +335,8 @@ simulating and forecasting meteorological phenomena.
 
 [scream](https://github.com/E3SM-Project/scream): global atmosphere model targeted towards 3 km ("cloud resolving") resolution. It is part of the Energy Exascale Earth System Model (E3SM)
 
+[simple atmospheric models](https://github.com/mathewbarlow/simple-atmospheric-models): simple models of the atmosphere (and ocean), for classroom examples, by Mathew Barlow
+
 [SPARTACUS-Surface - Canopy radiation scheme](https://github.com/ecmwf/spartacus-surface): computes radiative transfer in complex 3D surface canopies, such as forests and cities, by Robin Hogan and VakankGrang. It makes use of the "SPARTACUS" technique, originally developed for clouds. 
 
 [speedy.f90](https://github.com/samhatfield/speedy.f90): intermediate complexity atmospheric general circulation model written in modern Fortran, by Sam Hatfield and Leo Saffin It is based on [SPEEDY](http://users.ictp.it/~kucharsk/speedy-net.html), developed by Fred Kucharski, Franco Molteni and Martin P. King.
