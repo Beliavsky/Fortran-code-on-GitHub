@@ -2030,6 +2030,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [Optados](https://github.com/optados-developers/optados): calculates core-electron and low-loss electron energy loss spectra (EELS) and optical spectra along with total-, projected- and joint-density of electronic states (DOS) from single-particle eigenenergies and dipole transition coefficients.
 
+[periodic-NBO](https://github.com/jrschmidt2/periodic-NBO): This projection code is capable of representing any plane-wave bands output by VASP into any user specified Gaussian type orbital basis set. Such an AO representation is required for the subsequent NBO analysis. The code is set up to then output all information necessary for periodic NBO analysis using the code of JRS and BDD.
+
 [PROGRESS](https://github.com/lanl/qmd-progress): Parallel, Rapid O(N) and Graph-based Recursive Electronic Structure Solver, from lanl
 
 [qc2-teaching](https://github.com/grimme-lab/qc2-teaching): resources used for teaching the course quantum chemistry 2 (WP4) at the university of Bonn, including Fortran and Linux tutorials, from grimme-lab
