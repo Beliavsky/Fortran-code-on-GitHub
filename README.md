@@ -1357,6 +1357,8 @@ generalized eigenvalue problems, from NLAFET
 
 [LinAlgf90](https://github.com/Takayuki-Miyagi/LinAlgf90): modern Fortran wrappers for the eigenvalue functionality of Lapack, by Takayuki Miyagi
 
+[LSQR](https://github.com/jacobwilliams/LSQR): Fortran 2008 edition of [LSQR](https://web.stanford.edu/group/SOL/software/lsqr/), a conjugate-gradient type method for solving sparse linear equations and sparse least-squares problems, by Jacob Williams.
+
 [LUSOL](https://github.com/Rioghasarig/trlu): maintains LU factors of a square or rectangular sparse matrix. This repository provides LUSOL source code and a Matlab interface.
 
 [M_blas](https://github.com/urbanjost/M_blas): Fortran BLAS library implemented as a free-format module, by urbanjost
