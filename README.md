@@ -386,6 +386,8 @@ simulating and forecasting meteorological phenomena.
 [test_nvfortran_20_11](https://github.com/vyu16/test_nvfortran_20_11): source code test.f90 by vyu16 attempts to call getitem, defined in dummy_module.f90, incorrectly. Both ifort and gfortran are able to catch it at compile time. However, nvfortran compiles the code and seems to just ignore the call at run time.
 
 ## Computational Chemistry
+[Aerosol Inorganic-Organic Mixtures Functional groups Activity Coefficients (AIOMFAC)](https://github.com/andizuend/AIOMFAC): thermodynamic group-contribution model to describe non-ideal mixing in liquid solutions
+
 [BayesApp](https://github.com/Niels-Bohr-Institute-XNS-StructBiophys/BayesApp): calculates the pair distance distribution function, p(r), from a SAXS/SANS dataset by a Bayesian indirect Fourier transformation (BIFT) algorithm, by Steen Hansen
 
 [Cassandra](https://github.com/MaginnGroup/Cassandra): Monte Carlo package developed in the Maginn group at the University of Notre Dame to perform atomistic simulations of molecules composed of rings, chains, or both. Cassandra is suited to compute the thermodynamic properties of fluids and phase equilibria.
