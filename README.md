@@ -50,9 +50,9 @@
 ## Art and Music
 [Art1](https://github.com/ef1j/Art1): Art1 is a program that was written by Richard Williams in 1968. Its purpose was to give non-progammers access to an IBM System/360 Model 40 computer at the University of New Mexico in order to explore artistic and aesthetic uses of the machine.
 
-[formidi](https://github.com/vmagnin/formidi): small Fortran MIDI sequencer for composing music and exploring algorithmic music, by vmagnin
+[formidi](https://github.com/vmagnin/formidi): small Fortran MIDI sequencer for composing music and exploring algorithmic music, by Vincent Magnin
 
-[forsynth](https://github.com/vmagnin/forsynth): small Fortran synthesizer to explore sound synthesis, sound effects, electronic music, algorithmic music, etc, by vmagnin
+[forsynth](https://github.com/vmagnin/forsynth): small Fortran synthesizer to explore sound synthesis, sound effects, electronic music, algorithmic music, etc, by Vincent Magnin
 
 [MUSICV](https://github.com/vlazzarini/MUSICV): Max Mathew's MUSIC V synthesis program, prepared by Bill Schottstaed for gfortran, with additions and fixes by Victor Lazzarini.
 
@@ -1211,7 +1211,7 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fplot](https://github.com/jchristopherson/fplot): provides a convenient interface for plotting with Gnuplot, by jchristopherson
 
-[gtk-fortran](https://github.com/vmagnin/gtk-fortran): cross-platform library to build Graphical User Interfaces (GUI), by vmagnin et al. Gtk-fortran is a partial GTK / Fortran binding 100% written in Fortran, thanks to the ISO_C_BINDING module for interoperability between C and Fortran
+[gtk-fortran](https://github.com/vmagnin/gtk-fortran): cross-platform library to build Graphical User Interfaces (GUI), by Vincent Magnin et al. Gtk-fortran is a partial GTK / Fortran binding 100% written in Fortran, thanks to the ISO_C_BINDING module for interoperability between C and Fortran
 
 [M_attr](https://github.com/urbanjost/M_attr): set terminal text attributes using ANSI escape sequences
 
