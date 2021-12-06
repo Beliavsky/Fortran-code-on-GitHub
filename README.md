@@ -1553,6 +1553,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [Modern Fortran Utilities (ModForUtils)](https://github.com/rweed/ModForUtils): variety of tasks including computing binomial coefficients, factorials, routines for checking for NaN and Infinity floating point exceptions, root finders, random number utils and array sorters, and findloc, by Richard Weed. Future releases will expand on these utilities and add interpolation routines and other utilities.
 
+[Naval Surface Warfare Center (NSWC) Mathematical Library](https://github.com/jacobwilliams/nswc): collection of Fortran 77 routines specializing in numerical mathematics. NSWC has made every effort to include only reliable, transportable, reasonably efficient and easy to use code in this library.
+
 [NITSOL](https://github.com/cmacmackin/nitsol): Newton-iterative solution of large-scale nonlinear systems, by Homer F. Walker
 
 [Nonlinear Equation Solver with Modern Fortran (nlesolver-fortran)](https://github.com/jacobwilliams/nlesolver-fortran): basic Newton-Raphson type nonlinear equation solver for dense systems with m functions of n input variables, by Jacob Williams. Uses LAPACK routines (dgesv or dgels) to solve the linear system.
