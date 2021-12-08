@@ -450,7 +450,7 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 [UniMoVib](https://github.com/zorkzou/UniMoVib): unified interface for molecular harmonic vibrational frequency calculations, by zorkzou and smutao
 
 ## Computational Fluid Dynamics
-[2DEulerSolver](https://github.com/FrostyNip/2DEulerSolver): numerically solve the euler equations over a channel with a bump using jameson scheme finite volume analysis, by FrostyNip
+[2DEulerSolver](https://github.com/FrostyNip/2DEulerSolver): numerically solve the Euler equations over a channel with a bump using Jameson scheme finite volume analysis, by FrostyNip
 
 [adflow](https://github.com/mdolab/adflow): flow solver developed by the MDO Lab at the University of Michigan. It solves the compressible Euler, laminar Navier–Stokes and Reynolds-averaged Navier–Stokes equations using structured multi-block and overset meshes.
 
@@ -537,7 +537,7 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [NGA2](https://github.com/desjardi/NGA2): high performance computing research library that provides a variety of finite volumes/finite difference solvers for typical fluid-related partial differential equations, by Olivier Desjardins and Austin Han
 
-[Non-HydrostaticWave Model (NHWAVE)](https://github.com/MartinHu1997/NHWAVE): three-dimensional shock-capturing model, which solves the incompressible Navier-Stokes equations in terrain and surface-following sigma coordinates. The model predicts instantaneous surface elevation and 3D flow field and is capable of resolving coastal wave processes (shoaling, refraction, diffraction, breaking etc.) as well as tsunami wave generation by landslide.
+[Non-HydrostaticWave Model (NHWAVE)](https://github.com/MartinHu1997/NHWAVE): three-dimensional shock-capturing model which solves the incompressible Navier-Stokes equations in terrain and surface-following sigma coordinates. The model predicts instantaneous surface elevation and 3D flow field and is capable of resolving coastal wave processes (shoaling, refraction, diffraction, breaking etc.) as well as tsunami wave generation by landslide.
 
 [NTUSTCFDLAB](https://github.com/HSUAN221/NTUSTCFDLAB): code for 3D flow using projection method with FVM, by HSUAN221. Navier Stokes equations are solved for velocity and pressure fields. 
 
