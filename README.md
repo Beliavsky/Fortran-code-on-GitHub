@@ -1694,6 +1694,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [osqp-fortran](https://github.com/osqp/osqp-fortran): Fortran wrapper for OSQP: the Operator Splitting QP Solver
 
+[Particle Swarm Optimization (PSO) code in Fortran 95](https://github.com/zaman13/Particle-Swarm-Optimization-Fortran-95): general code that can be used with any fitness function, by Mohammad Asif Zaman
+
 [pikaia](https://github.com/jacobwilliams/pikaia): Modern Fortran Edition of the Pikaia Genetic Algorithm by Jacob Williams
 
 [pdfo](https://github.com/pdfo/pdfo): Powell's Derivative-Free Optimization solvers is a cross-platform package
