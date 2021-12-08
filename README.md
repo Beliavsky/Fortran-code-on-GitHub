@@ -2182,6 +2182,8 @@ and Andrea Rau.
 
 [PolyChordLite](https://github.com/PolyChord/PolyChordLite): public version of PolyChord, next generation data technology which has the ability to more fully explore a complex, challenging data landscape
 
+[pygslib](https://github.com/opengeostat/pygslib): GSLIB (Geostatistical Software LIBrary) Fortran code wrapped into python
+
 [RegressionPooledDilution](https://github.com/mswarasi/RegressionPooledDilution): R and FORTRAN programs associated with the article, “Group testing regression models with dilution submodels”, by mswarasi
 
 [Regression via Nonsmooth Optimization](https://github.com/SnTa2019/Regression-via-Nonsmooth-Optimization): optimization based regression algorithms introduced by Sona Taheri and co-authors
