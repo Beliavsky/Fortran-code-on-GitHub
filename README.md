@@ -1043,6 +1043,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [assert](https://github.com/sourceryinstitute/assert): simple assertion utility taking advantage of the Fortran 2018 standard's introduction of variable stop codes and error termination inside pure procedures, by Damian Rouson
 
+[Auto-generated time-stamped folder](https://github.com/zaman13/Auto-generated-time-stamped-folder): code for auto generating a time-stamped folder, log file, and data file (csv) to store results of each run of the code, by Mohammad Asif Zaman. The submodules can be easily incorporated in any program. Useful for cases when the same program must be run many times and the corresponding data must be saved in files.
+
 [BeFoR64](https://github.com/szaghi/BeFoR64): Base64 encoding/decoding library for FoRtran poor men, is a pure Fortran (KISS) library for base64 encoding/decoding for modern (2003+) Fortran projects
 
 [cernlib](https://github.com/apc-llc/cernlib): large collection of general purpose libraries and modules maintained and offered in both source and object code form on the CERN central computers. Most of these programs were developed at CERN and are therefore oriented towards the needs of a physics research laboratory that is general mathematics, data analysis, detectors simulation, data-handling etc... applicable to a wide range of problems. 
