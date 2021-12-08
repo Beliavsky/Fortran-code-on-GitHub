@@ -433,6 +433,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [pmflib](https://github.com/kulhanek/pmflib): toolkit for Free Energy Calculations, by kulhanek
 
+[Python-Fortran-Fluids (PyForFluids)](https://github.com/fedebenelli/PyForFluids): Python package focused in the calculation of Fluid properties based on Equations of State (EoS), by Federico E. Benelli et al. It provides a simple interface to work from Python but also exploits the high performance Fortran code for the more heavy calculations.
+
 [QCxMS](https://github.com/qcxms/QCxMS): quantum chemical (QC) based program that enables users to calculate mass spectra (MS) using Born-Oppenheimer Molecular Dynamics (MD), by Jeroen Koopman and Sebastian Ehlert. It is the successor of the QCEIMS program, in which the EI part is exchanged to x (x=EI, CID) to account for the greater general applicability of the program
 
 [structure analysis on the command line (struca)](https://github.com/hokru/struca): simple tool to help compare structures and compute trajectory data on the command line, by Holger Kruse
