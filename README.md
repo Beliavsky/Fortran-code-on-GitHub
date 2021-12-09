@@ -2110,6 +2110,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 [Zen](https://github.com/huangli712/Zen): modern DFT + DMFT (namely, density functional theory plus dynamical mean-field theory) computation framework, by huangli712
 
 ## Random Number Generation
+[FortRAND](https://github.com/llamm-de/fortrand): lightweight random sampling library written in modern Fortran, by Lukas Lamm. It provides a simple interface to the build in Fortran pseudo-random number generator for the generation of uniformly distributed random numbers. In addition, it also provides algorithms for sampling numbers from various other distributions.
+
 [LEcuyer-RNG-Fortran90](https://github.com/p-serna/LEcuyer-RNG-Fortran90): pseudo-random number generator, more precisely, a combined multiple recursive generator (CMRG), MRG32k3a, proposed by L'Ecuyer "Good parameters and implementations for combined multiple recursive random number generators". Operations Research. 1999 Feb;47(1):159-64, by p-serna. This algorithm is well suited for parallel computing as it can initialize many long streams and substreams, with a total period length of 2191 and it passes diehard tests.
 
 [pseudo_RNG_modules](https://github.com/pointedsphere/pseudo_RNG_modules): pseudo-random number generator modules in Fortran, with option to compile as Python modules and some basic randomness tests in Python, from pointedsphere
