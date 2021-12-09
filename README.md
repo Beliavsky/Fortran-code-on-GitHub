@@ -335,6 +335,8 @@ simulating and forecasting meteorological phenomena.
 
 [scream](https://github.com/E3SM-Project/scream): global atmosphere model targeted towards 3 km ("cloud resolving") resolution. It is part of the Energy Exascale Earth System Model (E3SM)
 
+[shumlib](https://github.com/metomi/shumlib): libraries which are used by the UM; the UK Met Office's Unified Model, that may be of use to external tools or applications where identical functionality is desired. The hope of the project is to enable developers to quickly and easily access parts of the UM code that are commonly duplicated elsewhere.
+
 [simple atmospheric models](https://github.com/mathewbarlow/simple-atmospheric-models): simple models of the atmosphere (and ocean), for classroom examples, by Mathew Barlow
 
 [SPARTACUS-Surface - Canopy radiation scheme](https://github.com/ecmwf/spartacus-surface): computes radiative transfer in complex 3D surface canopies, such as forests and cities, by Robin Hogan and VakankGrang. It makes use of the "SPARTACUS" technique, originally developed for clouds. 
