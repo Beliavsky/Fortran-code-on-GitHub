@@ -1415,6 +1415,8 @@ generalized eigenvalue problems, from NLAFET
 
 [SpLLT](https://github.com/NLAFET/SpLLT): sparse direct solver for computing the solution of symmetric positive definite linear systems, from NLAFET. The factorization phase, which is the most computationally intensive part, is based on a task-based Cholesky algorithm and the parallel code is implemented using a runtime system. 
 
+[TensorTools](https://github.com/llamm-de/tensor_tools): modern Fortran library for tensor calculus, by Lukas Lamm
+
 [tt-fort](https://github.com/oseledets/tt-fort): Fortran computing core of the TT-Toolbox. It also includes two slightly customized libraries for doing fast local solvers in eigenvalue and dynamical problems.
 
 ## Materials Science
