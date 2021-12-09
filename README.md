@@ -1964,6 +1964,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [SPECTRA-PKA](https://github.com/fispact/SPECTRA-PKA): calculates the expected primary knock-on atom (PKA) spectra for a given target nuclide under neutron or charged particle irradiation, by Mark Gilbert and Michael Fleming. NJOY-processed recoil matrices must be provided as the input nuclear data for each nuclide and reaction channel of interest. 
 
+[Spherical-Coordinate Implicit Derivatives time-dependent Schroedinger equation (SCID-TDSE)](https://github.com/MBI-Theory/scid-tdse): numerical solution of TDSE for a one-electron atom subject to a laser field, by Serguei Patchkovskii. TDSE is solved in spherical coordinates, with the laser field treated in the velocity-gauge dipole approximation.
+
 [stella](https://github.com/stellaGK/stella): solves the gyrokinetic-Poisson system of equations in the local limit using an operator-split, implicit-explicit numerical scheme, by Denis St-Onge et al. It is capable of evolving electrostatic fluctuations with fully kinetic electrons and an arbitrary number of ion species in general magnetic geometry, including stellarators.
 
 [Stellarator Fokker-Planck Iterative Neoclassical Conservative Solver (SFINCS)](https://github.com/landreman/sfincs): computes neoclassical effects in nonaxisymmetric or axisymmetric toroidal plasmas, such as stellarators and tokamaks, by Matt Landreman et al. The code solves a drift-kinetic equation for the distribution function of each species. 
