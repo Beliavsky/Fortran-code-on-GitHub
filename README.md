@@ -2267,6 +2267,8 @@ milancurcic and awvwgk
 
 [TOMS Algorithm 675](https://github.com/ivan-pi/TOMS-Algorithm-675): subroutines for computing the square root covariance filter and square root information filter in dense or Hessenberg forms, by ivan-pi
 
+[Time Series Analysis with State Space Model (TSSS)](https://github.com/cran/TSSS): R package with underlying Fortran code, used in the book [Introduction to Time Series Modeling with Applications in R, 2nd ed.](https://www.routledge.com/Introduction-to-Time-Series-Modeling-with-Applications-in-R/Kitagawa/p/book/9780367187330)
+
 [wavelets](https://github.com/chris-torrence/wavelets): Torrence & Compo Wavelet Analysis Software
 
 ## Unclassified
