@@ -1247,6 +1247,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [PlPlotLib](https://github.com/zoziha/PlPlotLib): wrapper for PlPlot inspired by the interface of matplotlib, by zoziha. It is intended to fill the need for rapid feedback while developing numerical simulations, and does not replace more sophisticated packages such as matplotlib or even direct use of PlPlot.
 
+[pnmio](https://github.com/JeffIrwin/pnmio): I/O routines for portable anymap image files (.pbm, .pgm, .ppm), by Jeff Irwin. Currently only output routines are provided. 
+
 [pyplot-fortran](https://github.com/jacobwilliams/pyplot-fortran): generate plots from Fortran using Python's matplotlib.pyplot, by jacobwilliams
 
 [RayTran](https://github.com/lewisfish/RayTran): ray tracer in pure Fortran, by lewisfish
