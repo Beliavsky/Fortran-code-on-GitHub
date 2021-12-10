@@ -1994,6 +1994,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [TIme-dependent Transport and Angular momentum of Nanostructures (TITAN)](https://github.com/filipesmg/TITAN): calculates the electric and spin excitations for bulk and thin films, by JRSuckert and filipesmg. It can describe Ferromagnetic Resonance (FMR) experiments and intrinsic Spin and Orbital Momentum Hall Effects (including Anomalous and Planar Hall effects), for example.
 
+[T-matrix for Electromagnetic Radiation with Multiple Scatterers (TERMS)](https://github.com/nano-optics/terms): simulates the near-field and far-field optical properties of collections of particles, by Dmitri Schebarchov et al. TERMS solves rigorously the Maxwell equations via the superposition T-matrix method, where incident and scattered fields are decomposed into a basis of multipolar electric and magnetic spherical waves.
+
 [turbogap](https://github.com/mcaroba/turbogap): efficiently and accurately builds many-body atomic descriptors and carry out other related computations employed in machine-learning approaches to atomistic modeling, such as to run molecular dynamics simulations, by mcaroba
 
 [VASPBERRY](https://github.com/Infant83/VASPBERRY): Berry curvature and Chern number calculations with the output (WAVECAR) of VASP code, by Hyun-Jung Kim. VASPBERRY is written for the post-processing purpose of the VASP outputs, i.e., WAVECAR the Bloch wavefunction information.
