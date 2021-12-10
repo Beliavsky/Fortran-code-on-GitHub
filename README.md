@@ -2267,6 +2267,8 @@ milancurcic and awvwgk
 
 [SIGNAL](https://github.com/i-a-morozov/SIGNAL): frequency estimation, quasiperiodic decomposition and chaos indicators, by i-a-morozov
 
+[signal_subspace](https://github.com/scivision/signal_subspace): 1-D and ensemble signal subspace analysis with methods such as Esprit and RootMusic in Fortran, C, and Python, from scivision, based in part upon the [Spectral Analysis Lib public domain code](https://github.com/vincentchoqueuse/spectral_analysis_project). The core subspace code is written in Fortran 2008 and is called from other languages (Python, C).
+
 [tidybench](https://github.com/sweichwald/tidybench): TIme series DiscoverY has four algorithms for causal structure learning for time series: SLARAC (Subsampled Linear Auto-Regression Absolute Coefficients), QRBS (Quantiles of Ridge regressed Bootstrap Samples), LASAR (LASso Auto-Regression), and SELVAR (Selective auto-regressive model), by sweichwald
 
 [Timeslab](https://github.com/Beliavsky/Timeslab): Fortran 77 time series package by H. Joseph Newton to accompany his book "Timeslab: A Time Series Analysis Laboratory" (1988)
