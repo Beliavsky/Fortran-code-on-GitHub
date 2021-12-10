@@ -489,6 +489,8 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [EOF](https://github.com/parkeryang69/EOF): simulation of electro-osmotic flow by Lattice Boltzmann method, by parkeryang69
 
+[euler2D-kfvs-Fortran2003](https://github.com/truongd8593/euler2D-kfvs-Fortran2003): compressible Euler equations solver using kinetic flux vector splitting (KFVS) scheme, by truongd8593
+
 [FEST-3D](https://github.com/FEST3D/FEST-3D): solves Navier-Stokes equations on a structured grid using state of the art finite-volume numerical methods. It is a modular, multiblock finite-volume code developed to solve compressible flow problems encountered in the field of aerodynamics.
 
 [flexi](https://github.com/flexi-framework/flexi): High-Order Unstructured Discontinuous Galerkin Fluid Dynamics Solver
