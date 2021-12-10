@@ -1044,6 +1044,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [mastermind](https://github.com/fortran-gaming/mastermind): classic MasterMind game in modern Fortran 2008, from fortran-gaming
 
+[rubik](https://github.com/JeffIrwin/rubik): Rubik's cube command line interface game, by Jeff Irwin
+
 ## General Purpose
 [AwesomeFortranLibraries](https://github.com/SourangshuGhosh/AwesomeFortranLibraries): modules for numerics, file I/O, and other topics by Sourangshu Ghosh for use in more complex codes
 
