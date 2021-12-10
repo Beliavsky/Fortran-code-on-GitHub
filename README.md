@@ -1040,6 +1040,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [fortranchessprogram](https://github.com/arbolis/fortranchessprogram): chess program where the user enters moves in notation such as e2-e4 and the board is displayed as text
 
+[life](https://github.com/JeffIrwin/life): Conway's game of life, by Jeff Irwin
+
 [mastermind](https://github.com/fortran-gaming/mastermind): classic MasterMind game in modern Fortran 2008, from fortran-gaming
 
 ## General Purpose
