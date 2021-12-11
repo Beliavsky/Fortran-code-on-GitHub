@@ -918,6 +918,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 ## File I/O
 [cfgio](https://github.com/pkgpl/cfgio): Fortran config file parser, by pkgpl
 
+[Convert Precision](https://github.com/p-costa/convert-precision): converts large binary files in parallel from/to single to/from double precision, using MPI-I/O, Pedro Costa. The code assumes that the each file contains only single- or double-precision floating-point.
+
 [dataset1d](https://github.com/perrette/dataset1d): in-memory netCDF Dataset for fortran, for 1-D arrays only (so making it more similar to a pandas DataFrame), by perrette
 
 [easy-netcdf](https://github.com/onepieceze/easy-netcdf): OOP Interface to the [netcdf Fortran library](https://github.com/Unidata/netcdf-fortran), by onepieceze
