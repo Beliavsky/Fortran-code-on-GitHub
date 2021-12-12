@@ -537,7 +537,7 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [MGLC](https://github.com/cheryli/MGLC): multi-GPU parallel implementation of LBM(Lattice Boltzmann Method), using OpenACC to accelerate codes on single GPU and MPI for inter-GPU communication
 
-[Multi-component Flow Code (MFC)](https://github.com/ComputationalFlowPhysics/MFC-Caltech): parallel simulation software for multi-component, multi-phase, and bubbly flows, by Spencer Bryngelson et al.
+[Multi-component Flow Code (MFC)](https://github.com/MFlowCode/MFC): parallel simulation software for multi-component, multi-phase, and bubbly flows, by Spencer Bryngelson et al.
 
 [Nek5000](https://github.com/Nek5000/Nek5000): fast and scalable high-order solver for computational fluid dynamics.  Applications span a wide range of fields, including fluid flow, thermal convection, combustion and magnetohydrodynamics.
 
