@@ -319,6 +319,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [NoahMP](https://github.com/ESMWG/NoahMP): Noah with multiparameterization options (NoahMP) land surface model, from ESMWG
 
+[National Ocean Service Operational Forecast System from NCEP Central Operations (nosofs-NCO)](https://github.com/ioos/nosofs-NCO): copy from NOAA's PMB website. This repository contains updates needed to run using GCC/GFortran compilers.
+
 [prodsim](https://github.com/ARPA-SIMC/prodsim): collection of shell scripts and Fortran programs based on libsim, by Davide Cesari and ddales3. It is designed for processing raw numerical weather prediction (NWP) model output data and perform physically-based operations in order to obtain postprocessed data
 
 [pytdlpack](https://github.com/eengl/pytdlpack): Python interface for reading and writing TDLPACK data, by eengl
