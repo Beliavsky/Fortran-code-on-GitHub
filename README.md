@@ -1105,6 +1105,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [forbear](https://github.com/szaghi/forbear): progress bar environment by szaghi and jhykes
 
+[Fortran Error Handler](https://github.com/samharrison7/fortran-error-handler): universal and comprehensive solution for applications requiring functional and robust error handling, utilising the power of modern object-oriented Fortran, by  Sam Harrison and KellerV
+
 [Fortran Equation Parser (feqparse)](https://github.com/FluidNumerics/feq-parse): equation parser Fortran class that is used to interpret and evaluate functions provided as strings, by Joe Schoonover 
 
 [Fortran exceptions library](https://github.com/LightDA-assim/fortran_exceptions): provides exception handling for Fortran 2003 and later, based on the methodology of [Poppe et al. 2012](https://dl.acm.org/doi/10.1145/2338786.2338787)
