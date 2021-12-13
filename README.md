@@ -1525,6 +1525,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [QXMD](https://github.com/USCCACS/QXMD): scalable, parallel program for Quantum Molecular Dynamics simulations with various eXtensions, from USCCACS. Its simulation engine is based on (time-dependent) density functional theory using pseudopotentials and plane-wave basis, while extensions include nonadiabatic electron-nuclei dynamics and multiscale shock technique.
 
+[Reactive_PB_NN_MD](https://github.com/jmcdaniel43/Reactive_PB_NN_MD): reactive molecular dynamics code based on PB-NN potentials, in which neural networks are utilized in the off-diagonal elements of the Hamiltonian to mediate the chemical reactions, by Sam Delmerico et al. This code uses a custom update algorithm to calculate PME forces for the diabatic states in the Hamiltonian matrix.
+
 [RXMD](https://github.com/USCCACS/RXMD): simulates large-scale Reactive Force Field molecular dynamics (MD) simulations on from commodity laptops to high-end supercomputing platforms, from USCCACS. rxmd has been used in a various class of material studies, such as shock-induced chemical reactions, stress corrosion cracking, underwater bubble collapse, fracture of self-healing ceramics and oxidation of nanoparticles.
 
 ## Neural Networks and Machine Learning
