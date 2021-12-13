@@ -750,6 +750,8 @@ recorded by a sparse regional seismograph network.
 
 [MOM6](https://github.com/NOAA-GFDL/MOM6): Modular Ocean Model, from NOAA-GFDL
 
+[NanoFASE](https://github.com/NERC-CEH/nanofase): multimedia spatiotemporal model of nanomaterial fate, speciation and bio-uptake, by Sam Harrison and slofts
+
 [NEMO-examples](https://github.com/NEMO-ocean/NEMO-examples): simple configurations to study specific oceanic physical processes and be used as a tool for training
 
 [NM-CT](https://github.com/tuhouwang/NM-CT): Fortran and Matlab codes for the paper "A Chebyshev-Tau spectral method for normal modes of underwater sound propagation with a layered marine environment", by H. Tu, Y. Wang, Q. Lan et al.
