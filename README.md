@@ -525,6 +525,8 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [Incompact3d](https://github.com/xcompact3d/Incompact3d): Fortran-MPI based, finite difference high-performance code for solving the incompressible Navier-Stokes equation and as many as needed scalar transport equations
 
+[interpolate-fields](https://github.com/p-costa/interpolate-fields): interpolates DNS data to a new grid using linear interpolation, by Pedro Costa. It can run and store the interpolated data in a massively-parallel setting using MPI I/O. For now, it assumes two regular Cartesian grids with the file format of CaNS.
+
 [KatzPlotkin](https://github.com/cibinjoseph/KatzPlotkin): Fortran programs provided by Joseph Katz and Allen Plotkin in their book [Low-Speed Aerodynamics](https://www.amazon.com/Low-Speed-Aerodynamics-Second-Cambridge-Aerospace/dp/0521665523)
 
 [lbm2d_opencl](https://github.com/LKedward/lbm2d_opencl): D2Q9 BGK Lattice Boltzmann code written in OpenCL and Modern Fortran, by Laurence Kedward
