@@ -2095,6 +2095,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [periodic-NBO](https://github.com/jrschmidt2/periodic-NBO): This projection code is capable of representing any plane-wave bands output by VASP into any user specified Gaussian type orbital basis set. Such an AO representation is required for the subsequent NBO analysis. The code is set up to then output all information necessary for periodic NBO analysis using the code of JRS and BDD.
 
+[Plane Wave Density Functional Theory (PWDFT)](https://github.com/ebylaska/PWDFT): PW-DFT development for [NWChemEx](https://www.exascaleproject.org/research-project/nwchemex/), by Eric Bylaska et al.
+
 [PROGRESS](https://github.com/lanl/qmd-progress): Parallel, Rapid O(N) and Graph-based Recursive Electronic Structure Solver, from lanl
 
 [qc2-teaching](https://github.com/grimme-lab/qc2-teaching): resources used for teaching the course quantum chemistry 2 (WP4) at the university of Bonn, including Fortran and Linux tutorials, from grimme-lab
