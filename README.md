@@ -323,6 +323,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [National Ocean Service Operational Forecast System from NCEP Central Operations (nosofs-NCO)](https://github.com/ioos/nosofs-NCO): copy from NOAA's PMB website. This repository contains updates needed to run using GCC/GFortran compilers.
 
+[NCEPLIBS G2](https://github.com/NOAA-EMC/NCEPLIBS-g2): Utilities for coding/decoding GRIB2 messages, by Hang Lei et al. This library contains Fortran 90 decoder/encoder routines for GRIB edition 2, as well as indexing/searching utility routines.
+
 [prodsim](https://github.com/ARPA-SIMC/prodsim): collection of shell scripts and Fortran programs based on libsim, by Davide Cesari and ddales3. It is designed for processing raw numerical weather prediction (NWP) model output data and perform physically-based operations in order to obtain postprocessed data
 
 [pytdlpack](https://github.com/eengl/pytdlpack): Python interface for reading and writing TDLPACK data, by eengl
