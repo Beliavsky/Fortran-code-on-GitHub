@@ -159,6 +159,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [NormalModes](https://github.com/js1019/NormalModes): applies a combination of several highly parallel algorithms to compute the planetary interior normal modes, by js1019
 
+[Optab](https://github.com/nombac/optab): computes opacity based on user-provided chemical equilibrium abundances, and outputs mean opacities as well as monochromatic opacities, by Shigenobu Hirose. Consequently, one can have opacity tables consistent with one's equation of state.
+
 [phantom](https://github.com/danieljprice/phantom): 3D Smoothed Particle Hydrodynamics and Magnetohydrodynamics code for astrophysics, by Daniel Price and others
 
 [PhotochemPy](https://github.com/Nicholaswogan/PhotochemPy): photochemical model of rocky planet's atmospheres, by Nicholaswogan. Given inputs, like the stellar UV flux, the atmospheric temperature structure, etc., this code will find the steady-state chemical composition of an atmosphere, or evolve atmospheres through time.
