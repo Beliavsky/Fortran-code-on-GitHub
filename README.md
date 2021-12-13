@@ -1439,6 +1439,8 @@ generalized eigenvalue problems, from NLAFET
 
 [sparse-fortran](https://github.com/scivision/sparse-fortran): sparse array examples using MUMPS, Scalapack, BLACS, PARDISO with CMake and Meson, from SciVision
 
+[SParse matrices in Object-Oriented Fortran (SPOOF)](https://github.com/samharrison7/spoof): modern, object-oriented Fortran library for sparse matrix computations, by Sam Harrison. It largely draws on the SPARSKIT library, adding an object-oriented interface to improve usability.
+
 [Sparse Parallel Robust Algorithm Library (SPRAL)](https://github.com/ralna/spral): library for sparse linear algebra and associated algorithms. It is primarily developed by the Numerical Analysis group at STFC Rutherford Appleton Laboratory.
 
 [SpLLT](https://github.com/NLAFET/SpLLT): sparse direct solver for computing the solution of symmetric positive definite linear systems, from NLAFET. The factorization phase, which is the most computationally intensive part, is based on a task-based Cholesky algorithm and the parallel code is implemented using a runtime system. 
