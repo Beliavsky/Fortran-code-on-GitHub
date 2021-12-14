@@ -676,6 +676,8 @@ nscapin
 
 [FE-Project](https://github.com/ywkawai/FE-Project): library for dynamical cores of atmosphere and ocean models with discontinuous Galerkin finite element method, by ywkawai
 
+[Finite Element Heat and Mass Transfer Code: FEHM](https://github.com/lanl/FEHM): simulates groundwater and contaminant flow and transport in deep and shallow, fractured and un-fractured porous media throughout the US DOE complex. FEHM has been used in projects of national interest including Environmental Remediation of the Nevada Test Site, the LANL Groundwater Protection Program, geologic CO2 sequestration, Enhanced Geothermal Energy (EGS) programs, Oil and Gas production, Nuclear Waste Isolation, and Arctic Permafrost.
+
 [flexwin](https://github.com/geodynamics/flexwin): automates the time-window selection problem for seismologists, Alessia Maggi. It operates on pairs of observed and synthetic single component seismograms, defining windows that cover as much of a given seismogram as possible, while avoiding portions of the waveform that are dominated by noise.
 
 [FMTT_Parallel](https://github.com/nqdu/FMTT_Parallel): parallel version of [FMTT](http://www.iearth.org.au/codes/FMTT): Fast Marching Teleseismic Tomography, from nqdu
