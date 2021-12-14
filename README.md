@@ -1873,6 +1873,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 [Unstructured Finite Volume Solver](https://github.com/komahanb/unstructured-finite-volume): unstructured Finite Volume Solver for Partial Differential Equations that is standard Fortran 2018, is object-oriented for separation of geometry, physics and solution, uses coarrays for distributed memory parallelism, and uses the pure, elemental, and do concurrent features for shared memory parallelism, by komahanb
 
 ## Particle Physics
+[APFEL: A Parton Distribution Function Evolution Library](https://github.com/scarrazza/apfel): performs DGLAP evolution up to NNLO in QCD and to NLO in QED, both with pole and MSbar masses. The coupled DGLAP QCD+QED evolution equations are solved in x-space by means of higher order interpolations and Runge-Kutta techniques.
+
 [Cyclone](https://github.com/BruceMilton/Cyclone): cyclotron orbit code by Bruce F. Milton. It calculates orbits using both magnetic and electric field maps and is therefore useful for central region design.
 
 [dmfortfactor](https://github.com/ogorton/dmfortfactor): program for experimental WIMP analysis that computes the differential event rate per recoil energy for WIMP-nucleon scattering events, by Calvin Johnson and Oliver Gorton 
