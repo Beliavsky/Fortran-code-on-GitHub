@@ -255,6 +255,8 @@ Luis Harvey Triana Vega
 
 [ECOSYS](https://github.com/jinyun1tang/ECOSYS): code for terrestrial ecosystem biogeochemistry, by Robert Grant. A related project is [EcoSim](https://github.com/jinyun1tang/EcoSIM).
 
+[Euplectella_HPC](https://github.com/giacomofalcucci/Euplectella_HPC): code for paper [Extreme flow simulations reveal skeletal adaptations of deep-sea sponges](https://www.nature.com/articles/s41586-021-03658-1), by Giacomo Falcucci et al., Nature volume 595, pages537–541 (2021)
+
 [Fortran Image Processing](https://github.com/hpcnpatel/Fortran_Image_Processing): processing, manipulating, and filtering CT scan data, by Nisarg Patel. A CT scan data could be binary RAW data or VTK data.
 
 [FSATOOL](https://github.com/fsatool/fsatool): fast sampling and analysis tool for biomolecules, by haomiao et al.
