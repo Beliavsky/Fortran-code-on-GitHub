@@ -230,6 +230,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [Performance comparison R, Julia, Fortran for Bayesian binary probit](https://github.com/driesbenoit/benchmark_R_Julia_Fortran) by driesbenoit
 
+[pi_examples](https://github.com/UCL-RITS/pi_examples): calculate pi using numerical integration of `1/(1+x**2)`, using Fortran with do concurrent, MPI, OpenMP, OpenACC, and other languages, by Owain Kenway et al.
+
 [Python Performance](https://github.com/scivision/python-performance): performance benchmarks of Python, Numpy, etc. vs. other languages such as Matlab, Julia, Fortran, from scivision
 
 [raytracer](https://github.com/edin/raytracer): raytracer benchmark in dozens of languages, by edin. Associated with paper M. Moreira-Soares, R. Coimbra, L. Rebelo, J. Carvalho & R. D. M. Travasso. "Angiogenic Factors produced by Hypoxic Cells are a leading driver of Anastomoses in Sprouting Angiogenesis–a computational study". Scientific Reports 8, 8726 (2018)
