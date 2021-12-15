@@ -327,6 +327,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [NoahMP](https://github.com/ESMWG/NoahMP): Noah with multiparameterization options (NoahMP) land surface model, from ESMWG
 
+[Noah-OWP-Modular](https://github.com/NOAA-OWP/noah-owp-modular): extended, refactored version of the [Noah-MP](https://github.com/NCAR/noahmp/) land surface model, by K. Jennings et al. In order to ease readability, adaptability, and interoperability, the model has been broken out into a series of modules and data types that represent various components of model information and parameters as well as the energy and water balances.
+
 [National Ocean Service Operational Forecast System from NCEP Central Operations (nosofs-NCO)](https://github.com/ioos/nosofs-NCO): copy from NOAA's PMB website. This repository contains updates needed to run using GCC/GFortran compilers.
 
 [NCEPLIBS G2](https://github.com/NOAA-EMC/NCEPLIBS-g2): Utilities for coding/decoding GRIB2 messages, by Hang Lei et al. This library contains Fortran 90 decoder/encoder routines for GRIB edition 2, as well as indexing/searching utility routines.
