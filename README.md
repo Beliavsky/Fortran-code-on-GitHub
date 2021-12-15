@@ -2069,7 +2069,7 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [ecalj — a package for the first-principles electronic structure calculations](https://github.com/tkotani/ecalj): quasiparticle self-consistent GW method in the PMT method (LAPW+LMTO+Lo), by tkotani and nim-hrkn
 
-[EDIpack](https://github.com/QcmPlab/EDIpack): Lanczos-based solver for generic quantum impurity models exploiting distributed memory MPI parallelisation, from QcmPlab
+[EDIpack](https://github.com/QcmPlab/EDIpack): Lanczos-based solver for generic quantum impurity models exploiting distributed memory MPI parallelisation, from QcmPlab. Related is [EDlattice](https://github.com/QcmPlab/EDlattice), a parallel Exact Diagonalization algorithm for interacting electrons on a lattice.
 
 [ELectronic Structure Infrastructure (elsi)](https://github.com/ElectronicStructureLibrary/elsi-interface): provides and enhances scalable, open-source software library solutions for electronic structure calculations in materials science, condensed matter physics, chemistry, and many other fields. ELSI focuses on methods that solve or circumvent eigenvalue problems in electronic structure theory. The ELSI infrastructure should also be useful for other challenging eigenvalue problems.
 
