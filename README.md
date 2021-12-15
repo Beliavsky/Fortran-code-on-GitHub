@@ -1487,6 +1487,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [Inverse Design of Materials by Multi-objective optimization (IM2ODE)](https://github.com/YueyuZhang/IM2ODE): target properties of concern include the optical and electronic-structure properties of semiconductors, hardness of crystals, etc, by Yueyu Zhang et al.  IM2ODE can easily predict the atomic configurations with desired properties for three dimensional structure, interface and cluster, even complex defect in solid.
 
+[LBsoft](https://github.com/copmat/LBsoft): software for soft glassy emulsion simulations, by Fabio Bonaccorso et al.
+
 [mef90](https://github.com/bourdin/mef90): reference implementation of the variational approach to fracture, as described in several papers, by Blaise Bourdin
 
 [Nonlinear MetaMaterial MPI Solver (NM^3)](https://github.com/wonnie87/NMCube): codes and example files used in paper, "High-Performance Large-Scale Simulation of Multi-stable Metastructures", by M. Hwang, C. Scalo, and A. F. Arrieta, to be published.
