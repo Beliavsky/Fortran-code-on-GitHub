@@ -1306,6 +1306,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [flibhpc](https://github.com/swig-fortran/flibhpc): uses SWIG-Fortran to generate Fortran-2003 wrappers to common high performance computing (HPC) libraries. It can be used as a support library for other libraries that want to generate MPI-friendly Fortran wrappers to their code, or used by application developers who want to adapt Fortran CUDA/OpenACC code to their C++ kernels.
 
+[fortran-cython-examples](https://github.com/Nicholaswogan/fortran-cython-examples): examples for how to wrap Fortran with Cython, by Nick Wogan
+
 [Fortran-Lua-hook library (flook)](https://github.com/ElectronicStructureLibrary/flook): allows abstraction of input files to be pure Lua files to enable configuration of internal variables through an embedded Lua interpreter. Any valid Lua script can be executed from within any fortran application at points where the application creates Lua channels. Its main usage is the ability to change run-time variables at run-time in order to optimize, or even change, the execution path of the parent program.
 
 [forpy](https://github.com/ylikx/forpy): use Python in Fortran and vice versa
