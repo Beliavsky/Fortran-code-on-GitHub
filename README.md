@@ -585,6 +585,8 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [shyfem](https://github.com/SHYFEM-model/shyfem): System of HydrodYnamic Finite Element Modules
 
+[Smoothed Particle Hydrodynamics（SPH)](https://github.com/zoziha/SPH): uses code from the book [Smooth Particle hydrodynamics - A Meshfree Particle Method](https://www.worldscientific.com/worldscibooks/10.1142/5340) as a starting point, by zoziha
+
 [SNaC](https://github.com/p-costa/SNaC): multi-block solver for massively parallel direct numerical simulations (DNS) of fluid flows, by p-costa and 
 nscapin
 
