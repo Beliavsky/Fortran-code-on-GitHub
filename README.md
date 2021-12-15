@@ -539,6 +539,8 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [KatzPlotkin](https://github.com/cibinjoseph/KatzPlotkin): Fortran programs provided by Joseph Katz and Allen Plotkin in their book [Low-Speed Aerodynamics](https://www.amazon.com/Low-Speed-Aerodynamics-Second-Cambridge-Aerospace/dp/0521665523)
 
+[LBcuda](https://github.com/copmat/LBcuda): CUDA Fortran code to solve Lattice Boltzmann equations of a multi-component flow interacting with rigid spherical particles, by Fabio Bonaccorso et al.
+
 [lbm2d_opencl](https://github.com/LKedward/lbm2d_opencl): D2Q9 BGK Lattice Boltzmann code written in OpenCL and Modern Fortran, by Laurence Kedward
 
 [lesgo](https://github.com/lesgo-jhu/lesgo): solves the filtered Navier-Stokes equations in the high-Reynolds number limit on a Cartesian mesh, from the Turbulence Research Group at Johns Hopkins University. Originally designed to simulate flow in the atmospheric boundary layer, LESGO has been extended and used to simulate flow over tree canopies, wall-mounted cubes, and wind turbine arrays, among other things.
