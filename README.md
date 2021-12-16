@@ -2006,6 +2006,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [Parabolic two-band model Analyzer for Nonlinear electron Dynamics in Attosecond phenomena (PANDA)](https://github.com/shunsuke-sato/two_band_model): calculates electron dynamics and light-matter interactions, by Shunsuke A. Sato. It is based on a parabolic two-band model for electron structure and dynamics.
 
+[Physical optics propagation through synchrotron radiation beamlines (PHASE)](https://github.com/flechsig/phase): tool for the optical design of synchrotron radiation beamlines. It is based on analytic expressions for nonlinear transformation of beam coordinates across optical elements. Documented [here](https://www.helmholtz-berlin.de/forschung/oe/wi/undulators/arbeitsgebiete/phase_en.html)
+
 [Quantum Annealing Machine Emulator](https://github.com/camsenec/qa-emulator): quantum annealing simulation on SpinGlass model using Path Integral Monte Carlo method, by Tomoya Tanaka
 
 [Quasilinear Electromagnetic Oscillations (QLEO)](https://github.com/pastfalk/QLEO): code based on the quasilinear kinetic equation which self-consistently describes how a given velocity distribution function of a homogeneous gyrotropic plasma evolves in time in the presence of an unstable spectrum of parallel propagating, electromagnetic linear eigenmodes, by Patrick Astfalk. The implemented formalism is based on the quasilinear kinetic equations given in, e.g., 'Methods in Nonlinear Plasma Theory' by R. C. Davidson (1972).
