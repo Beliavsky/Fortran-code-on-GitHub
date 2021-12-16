@@ -2375,7 +2375,7 @@ milancurcic and awvwgk
 
 [tap](https://github.com/gzahl/tap): minimal producer implementation of the "Test Anything Protocol" (TAP) in Fortran 90, from gzahl
 
-[test-drive](https://github.com/awvwgk/test-drive): lightweight, procedural unit testing framework based on nothing but standard Fortran, by awvwgk. Integration with meson, cmake and Fortran package manager (fpm) is available.
+[test-drive](https://github.com/fortran-lang/test-drive): lightweight, procedural unit testing framework based on nothing but standard Fortran, by Sebastian Ehlert and Jeremie Vandenplas. Integration with meson, cmake and Fortran package manager (fpm) is available.
 
 ## Web Programming
 [Fortran + Apache + BSD + sqlite (FABS)](https://github.com/bceverly/FABS): web framework that leverages Fortran for the middle-tier, by bceverly. The client is a standard HTML5/CSS3/Javascript that talks to a REST API that is exposed by the Fotran middle-tier code via an Apache content filter using CGI.
