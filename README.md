@@ -2071,7 +2071,7 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [Abinitio DGA](https://github.com/AbinitioDGA/ADGA): implementation of a DGA approach for electronic structure calculations of materials, by Matthias Pickem. It allows the inclusion of non-local correlations beyond DMFT and the calculation of momentum-dependent susceptibilities.
 
-[A Fortran Electronic Structure Programme (AFESP)](https://github.com/brianz98/A-Fortran-Electronic-Structure-Programme): project based on the [Crawford Group's C++ Programming Tutorial in Chemistry](https://github.com/CrawfordGroup/ProgrammingProjects), but written in Fortran. The end goal of this project will be performing HF, MP2, CCSD, and CCSD(T), as per the original tutorial, but with additional support for multicore processors (modern CPUs, GPUs).
+[A Fortran Electronic Structure Programme (AFESP)](https://github.com/brianz98/A-Fortran-Electronic-Structure-Programme): project based on the [Crawford Group's C++ Programming Tutorial in Chemistry](https://github.com/CrawfordGroup/ProgrammingProjects), but written in Fortran, by Kirk Pearce et al. The end goal of this project will be performing HF, MP2, CCSD, and CCSD(T), as per the original tutorial, but with additional support for multicore processors (modern CPUs, GPUs).
 
 [atomistica](https://github.com/Atomistica/atomistica): library of interatomic potentials, including empirical potentials and non-orthogonal tight-binding. It is designed to be plugged into different simulation environments.
 
