@@ -577,6 +577,8 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [O2-Project](https://github.com/kgpolitis/O2-Project): framework for CFD oriented scientific code development in Modern Fortran, by kgpolitis
 
+[ParaTC](https://github.com/GongZheng-Justin/ParaTC): high order finite difference solver for simulations of turbidity currents with high parallel efficiency, by Zheng Gong
+
 [pencil-code](https://github.com/pencil-code/pencil-code): high-order finite-difference code for compressible hydrodynamic flows with magnetic fields and particles
 
 [phasta](https://github.com/PHASTA/phasta): Parallel Hierarchic Adaptive Stabilized Transient Analysis of compressible and incompressible Navier Stokes equations
