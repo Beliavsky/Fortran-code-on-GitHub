@@ -1224,6 +1224,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 [M_path](https://github.com/urbanjost/M_path): creates an OOP (Object Oriented Programming) interface to other modules in the [General Purpose Fortran](https://github.com/urbanjost/general-purpose-fortran) package, by urbanjost. 
 It allows the typical components of a pathname on a POSIX system (Such as GNU/Linux, Unix and Cygwin) to be accessed easily, to render the full pathname of the path and to get basic file properties (permissions, size, ownership, ...). 
 
+[M_readline](https://github.com/urbanjost/M_readline): interface to the commonly available C procedure readline(3c). to provide a familiar command history interface for interactive programs, by urbanjost
+
 [M_stopwatch](https://github.com/urbanjost/M_stopwatch): package for measuring cpu and wall clock execution time by urbanjost, based on [StopWatch](https://math.nist.gov/StopWatch/). It supports the wall clock, CPU clock, and a breakdown of the CPU clock into user and system times.
 
 [PENF](https://github.com/szaghi/PENF): Fortran (standard 2003) module useful to achieve portable codes. The module makes available portable kind-parameters and some useful procedures to deal with them
