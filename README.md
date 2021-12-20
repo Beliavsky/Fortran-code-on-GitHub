@@ -2161,7 +2161,7 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [qe-gipaw](https://github.com/dceresoli/qe-gipaw): GIPAW code for Quantum-Espresso, by dceresoli
 
-[qe-gpu](https://github.com/fspiga/qe-gpu): GPU-accelerated Quantum ESPRESSO using CUDA Fortran, by fspiga
+[qe-gpu](https://github.com/fspiga/qe-gpu): GPU-accelerated Quantum ESPRESSO using CUDA Fortran, by Filippo Spiga
 
 [QuantumModelLib](https://github.com/lauvergn/QuantumModelLib): enables one to use potentials extracted from the literature, by David Lauvergnat et al. It has the following features: one or several degrees of freedom; one or several electronic states; for each electronic state, the energy, gradient and hessian can be obtained in the diabatic or adiabatic representations
 
