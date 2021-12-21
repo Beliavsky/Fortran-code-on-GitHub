@@ -173,6 +173,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [Planetary Code Collection](https://github.com/nschorgh/Planetary-Code-Collection): Thermal and Ice Evolution Models for Planetary Surfaces, by Norbert Schorghofer
 
+[POT3D: High Performance Potential Field Solver](https://github.com/predsci/POT3D): computes potential field solutions to approximate the solar coronal magnetic field using observed photospheric magnetic fields as a boundary condition. A version of POT3D that includes GPU-acceleration with both MPI+OpenACC and MPI+OpenMP was released as part of the Standard Performance Evaluation Corporation's (SPEC) beta version of the SPEChpc(TM) 2021 benchmark suites.
+
 [pymoog](https://github.com/MingjieJian/pymoog): Python 3 wrapper for running the LTE spectrum synthesis part of the Fortran code [MOOG](https://www.as.utexas.edu/~chris/moog.html) by Chris Sneden
 
 [RADMC-3D Version 2.0](https://github.com/dullemond/radmc3d-2.0): computes the observational appearance of an astrophysical object on the sky of the observer, by dullemond. It solves the non-local radiative transfer problem of dusty media, including thermal radiative transport and scattering.
