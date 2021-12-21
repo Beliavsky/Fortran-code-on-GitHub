@@ -1877,6 +1877,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Simple OpenACC Fortran Examples](https://github.com/jeng1220/openacc_fortran_examples): hosts fundamental, but useful examples, by jeng1220. Each example is just a few dozen lines of code.
 
+[Tensor Algebra Library Routines for Shared Memory Systems: Nodes equipped with multicore CPU, NVIDIA GPU, AMD GPU, and Intel Xeon Phi (TAL_SH)](https://github.com/DmitryLyakh/TAL_SH): implements basic tensor algebra operations with interfaces to C, C++11, and Fortran 90+, by Dmitry I. Lyakh
+
 ## Partial Differential Equations
 [coral](https://github.com/BenMql/coral): spectral PDEs solver for the plane-layer geometry, written in modern Fortran and highly scalable, by BenMql. The name comes from the initial motivation, which was Convection in Rapidly rotating Layers (even though the code has now a much more general scope).
 
