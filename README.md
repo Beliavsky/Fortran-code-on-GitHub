@@ -2155,6 +2155,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [Optados](https://github.com/optados-developers/optados): calculates core-electron and low-loss electron energy loss spectra (EELS) and optical spectra along with total-, projected- and joint-density of electronic states (DOS) from single-particle eigenenergies and dipole transition coefficients.
 
+[peacemaker](https://github.com/awvwgk/peacemaker): quantum cluster equilibrium theory for applying statistical mechanics to quantum-chemically optimized clusters, forked by Sebastian Ehlert
+
 [periodic-NBO](https://github.com/jrschmidt2/periodic-NBO): This projection code is capable of representing any plane-wave bands output by VASP into any user specified Gaussian type orbital basis set. Such an AO representation is required for the subsequent NBO analysis. The code is set up to then output all information necessary for periodic NBO analysis using the code of JRS and BDD.
 
 [Plane Wave Density Functional Theory (PWDFT)](https://github.com/ebylaska/PWDFT): PW-DFT development for [NWChemEx](https://www.exascaleproject.org/research-project/nwchemex/), by Eric Bylaska et al.
