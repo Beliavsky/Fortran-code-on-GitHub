@@ -2284,6 +2284,8 @@ and Andrea Rau.
 
 [MultiNest](https://github.com/rjw57/MultiNest): Bayesian inference tool which calculates the evidence and explores the parameter space which may contain multiple posterior modes and pronounced (curving) degeneracies in moderately high dimensions, by Farhan Feroz and Mike Hobson 
 
+[Multi-Reader Multi-Case Analysis of Variance: MRMCaov](https://github.com/brian-j-smith/MRMCaov):  R package with underlying Fortran code for statistical comparison of diagnostic tests - such as those based on medical imaging - for which ratings have been obtained from multiple readers and on multiple cases, by Brian J. Smith
+
 [Multivariate Data Analysis Software in Fortran (and C)](https://mda-sw.github.io/) by Fionn Murtagh 
 
 [Optimal Subset CArdinality Regression models (oscar)](https://github.com/Syksy/oscar): R package with underlying Fortran code by T. D. Laajala
