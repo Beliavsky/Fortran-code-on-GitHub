@@ -2371,6 +2371,8 @@ milancurcic and awvwgk
 
 [wavelets](https://github.com/chris-torrence/wavelets): Torrence & Compo Wavelet Analysis Software
 
+[wavepack](https://github.com/zoziha/wavepack): computes the wavelet transform of a time series, and significance levels, by zoziha
+
 ## Unclassified
 [Consolidated Fire and Smoke Transport (CFAST)](https://github.com/firemodels/cfast): two-zone fire model that predicts the thermal environment caused by a fire within a compartmented structure, from firemodels
 
