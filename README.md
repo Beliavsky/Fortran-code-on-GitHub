@@ -1710,6 +1710,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [orthpol](https://github.com/ivan-pi/orthpol): generate orthogonal polynomials and Gauss-type quadrature rules, by ivan-pi
 
+[Quadpack2](https://github.com/jacobwilliams/quadpack): update by Jacob Williams and Sebastian Ehlert of QUADPACK, a FORTRAN subroutine package for the numerical computation of definite one-dimensional integrals
+
 [quadrature-fortran](https://github.com/jacobwilliams/quadrature-fortran): adaptive Gaussian quadrature with modern Fortran, by jacobwilliams
 
 [stroud_quad](https://github.com/ivan-pi/stroud_quad): routines from the book "Gaussian Quadrature Formulas" by Stroud & Secrest (1966), updated by ivan-pi
