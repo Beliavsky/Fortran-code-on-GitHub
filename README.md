@@ -1941,6 +1941,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [MCFM-RE](https://github.com/lcarpino/MCFM-RE): NNLL resummation for jet-veto cross sections in colour singlet processes, by lcarpino
 
+[remoll](https://github.com/JeffersonLab/remoll): simulations for the MOLLER Experiment at Jefferson Lab, which proposes to measure the parity-violating asymmetry in electron-electron (Møller) scattering
+
 [simc_gfortran](https://github.com/JeffersonLab/simc_gfortran): standard Hall C Monte Carlo for coincidence reactions, from JeffersonLab
 
 [SPheno](https://github.com/JP-Ellis/SPheno): SPheno stands for S(upersymmetric) Pheno(menology). The code, by JP-Ellis, calculates the SUSY spectrum using low energy data and a user supplied high scale model as input.
