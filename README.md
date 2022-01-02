@@ -2226,6 +2226,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [rng_fortran](https://github.com/jannisteunissen/rng_fortran): generates random integers, uniform, normal, and Poisson variates, and random points on a circle or sphere, by jannisteunissen
 
+[xoshiro-fortran](https://github.com/DSCF-1224/xoshiro-fortran): implementation of xoshiro/xoroshiro in Fortran 2008, by DSCF-1224
+
 ## Reactor Physics
 [Ground Source Cooled Reactor (GSCR)](https://github.com/lancekim/GSCR): code from Kim, Lance K., Rainer Jungwirth, Guido Renda, Erik Wolfart, and Giacomo G. M. Cojazzi. “Potential Signatures and the Means of Detecting a Hypothetical Ground Source Cooled Nuclear Reactor.” Science & Global Security 24, no. 2 (2016): 92–113.
 
