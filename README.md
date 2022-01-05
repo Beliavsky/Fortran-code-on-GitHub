@@ -797,6 +797,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [PaleoCalAdjust](https://github.com/pjbartlein/PaleoCalAdjust): accompanies this paper: Bartlein, P. J. and Shafer, S. L.: Paleo calendar-effect adjustments in time-slice and transient climate-model simulations (PaleoCalAdjust v1.0): impact and strategies for data analysis, Geosci. Model Dev., https://doi.org/10.5194/gmd-12-3889-2019, 2019.
 
+[Passive and Active Microwave TRANsfer (PAMTRA)](https://github.com/igmk/pamtra): Python/Fortran 90 package to solve the passive and active microwave radiative transfer in a plan parallel horizontally homogeneous atmosphere with hydrometeors, by Davide Ori et al.
+
 [plantFEM](https://github.com/kazulagi/plantFEM): plant/farming simulator based on Finite Element Method, which targets crops in fields, from kazulagi. This software provides multi-physical simulations of agriculture for canopies, plants, and organs for farmers, breeders, and agronomists.
 
 [Plasti](https://github.com/geodynamics/plasti): 2-D ALE (Arbitrary Lagrangian Eulerian) code by Sean Willett and Chris Fuller. [Reference](https://pubs.geoscienceworld.org/gsa/geology/article-abstract/34/2/65/129453/Formation-of-forearc-basins-and-their-influence-on):  Fuller, C.W., Willett, S.D. and Brandon, M.T., 2006. Formation of forearc basins and their influence on subduction zone earthquakes. Geology, 34: 65-68.
