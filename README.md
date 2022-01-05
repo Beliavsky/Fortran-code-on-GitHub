@@ -1058,6 +1058,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [fortran-submodule](https://github.com/scivision/fortran-submodule): Examples of modern Fortran 2008 submodule, using Meson or CMake, from scivision. Fortran submodules allow easy switching in and out of features and extremely fast recompilation of large programs perhaps 100 times or more faster.
 
+[FortranTip](https://github.com/Beliavsky/FortranTip): short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip), by Beliavsky et al.
+
 [FORTRAN-Topics](https://github.com/Koushikphy/FORTRAN-Topics): codes to demonstrate Modern Fortran features, and codes for numerics and I/O, by Koushikphy 
 
 [Intro-to-Fortran](https://github.com/coolernato/Intro-to-Fortran): materials for an [online course](https://www.imperial.ac.uk/study/pg/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/intro-to-fortran/) by Chris Cooling
