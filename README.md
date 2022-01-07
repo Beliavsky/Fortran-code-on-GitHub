@@ -1848,6 +1848,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [Coarray Fortran Intel Tutorial](https://github.com/Beliavsky/coarray_fortran_intel_tutorial): examples from Intel Fortran coarray [tutorial](https://software.intel.com/content/www/us/en/develop/documentation/fortran-compiler-coarray-tutorial/top.html)
 
+[CoArray Fortran Framework of Efficient Interfaces to Network Environments (Caffeine)](https://github.com/rouson/caffeine): parallel runtime library that aims to support Fortran compilers with a programming-model-agnostic application binary interface (ABI) to various communication libraries, by Damian Rouson et al. Current work is on supporting the ABI with the GASNet-EX or with POSIX processes.
+
 [code_examples](https://github.com/MeteoSwiss-APN/code_examples): collection of examples showing peculiarities when working with Fortran, OpenACC, PGI, or any other software extensively used at MeteoSwiss
 
 [concatenate_netcdf](https://github.com/weather4evr/concatenate_netcdf): concatenate netcdf files from multiple processors into one file with MPI Fortran, by Craig Schwartz
