@@ -2074,6 +2074,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [ShengBTE](https://github.com/wxmwy/ShengBTE): solver for the Boltzmann transport equation for phonons, by Wu Li et al.
 
+[signedMCRT](https://github.com/lewisfish/signedMCRT): use of signed distance fields in Monte Carlo Radiative Transfer, by Lewis McMillan. This allows modelling of smooth surfaces with out the need to use triangle or similar meshes.
+
 [Slave Spins](https://github.com/QcmPlab/Slave-Spins): flexible slave spins mean-field code, with support for multi-band structure and inequivalent sites, from QcmPlab. This code uses MPI for faster execution.
 
 [SNAP](https://github.com/lanl/SNAP): proxy application to model the performance of a modern discrete ordinates neutral particle transport application, from LANL
