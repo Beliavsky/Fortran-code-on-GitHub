@@ -610,6 +610,9 @@ nscapin
 
 [UCNS3D](https://github.com/ucns3d-team/UCNS3D): unstructured compressible CFD code
 
+[Xoptfoil](https://github.com/montagdude/Xoptfoil): airfoil optimization code using the [Xfoil](https://web.mit.edu/drela/Public/web/xfoil/) aerodynamics
+engine, by montagdude and Geoff Sokoll
+
 [WABBIT](https://github.com/adaptive-cfd/WABBIT): Wavelet Adaptive Block-Based solver for Interactions with Turbulence, from adaptive-cfd
 
 [WiRE-LES2](https://github.com/moulin1024/WiRE-LES2): large-eddy simulation code written in CUDA Fortran for simulating atmospheric boundary layer flows, by Mou Lin and Tristan Revaz
