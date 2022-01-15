@@ -1356,7 +1356,7 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fortran-unix](https://github.com/interkosmos/fortran-unix): Fortran 2008 ISO C binding interfaces to selected POSIX and SysV types, functions, and routines on 64-bit Unix-like operating systems, by interkosmos
 
-[Fortran Unsigned Wrapper (funsignedwrapper)](https://github.com/johandweber/funsignedwrapper): module with functions for accessing unsigned variables in standard Fortran 2008, by ohann Andreas Weber
+[Fortran Unsigned Wrapper (funsignedwrapper)](https://github.com/johandweber/funsignedwrapper): module with functions for accessing unsigned variables in standard Fortran 2008, by Johann Andreas Weber
 
 [MatlabAPI](https://github.com/robince/MatlabAPI): Fortran 95 Matlab API
 
