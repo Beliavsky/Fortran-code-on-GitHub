@@ -62,40 +62,18 @@
 
 [XenakisFreeStochasticMusicFortran](https://github.com/ThemosTsikas/XenakisFreeStochasticMusicFortran): working versions of a Xenakis FORTRAN program (Xenakis 1971 Formalized Music p 149)
 
-## Astronomy
+## Astronomy and Astrophysics
 [ALBUS_ionosphere](https://github.com/twillis449/ALBUS_ionosphere): determines the ionosphere total electron content (TEC) over any location on the Earth as a function of location and time, by Tony Willis. It then uses the TEC and a model of the Earth's magnetic field to compute the ionosphere's effect on the Faraday Rotion Measure (RM) observed for an astronomical radio source. The ionosphere's contribution to the RM can then be removed. 
+
+[ARTEMIS-P](https://github.com/maserlib/ARTEMIS-P): Anisotropic Ray Tracer for Electromagnetism in Magnetospheres, Ionospheres and Solar wind, including Polarisation, by Baptiste Cecconi and C. Baskevitch
 
 [astro-api](https://github.com/FrankThomasTveter/astro-api): makes the astronomical calculations for yr.no, by Frank Thomas Tveter et al. The astro-api software uses the JPL ephemeride tables and the SOFA astronomical library, along with algorithms for quick and precise searches, to provide astronomical data on demand, such as sun/moon rise/set, twilight, polar day/night, moon phase, eclipse, solstice times.
 
 [astroTools](https://github.com/AstroFloyd/astroTools): command-line tools for astronomy and astrophysics, by AstroFloyd
 
-[Automatic Line Fitting Algorithm (ALFA)](https://github.com/rwesson/ALFA): identifies and fits hundreds of lines in emission line spectra in just a few seconds. It does this using a genetic algorithm to optimise the line parameters, by Roger Wesson
-
-[fortran-astrodynamics](https://github.com/Yuricst/fortran-astrodynamics): astrodynamics routines by Yuricst
-
-[Fortran-Astrodynamics-Toolkit](https://github.com/jacobwilliams/Fortran-Astrodynamics-Toolkit): aims to be a comprehensive library, written in modern Fortran (Fortran 2003/2008), of all the standard orbital mechanics algorithms, by Jacob Williams
-
-[libTheSky](https://github.com/MarcvdSluys/libTheSky): computes the positions and other properties of celestial bodies (Moon, planets, comets, asteroids, stars), events (e.g. 
-lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFloyd. It forms the core of the software that is used to create the Dutch popular-astronomy website http://hemel.waarnemen.com.
-
-[NEAT](https://github.com/rwesson/NEAT): calculates chemical abundances in photoionised nebulae, by Roger Wesson et al. It can propagate uncertainties and compensate for measurement biases affecting weak lines.
-
-[NPI Ephemeris Propagation Tool with Uncertainty Extrapolation (NEPTUNE)](https://github.com/Space-Systems/neptune): state-of-the-art numerical orbit propagator, from Space-Systems. It allows the extrapolation of a state vector and the associated uncertainty forward and backward in time.
-
-[oorb](https://github.com/oorb/oorb): contains the statistical orbital ranging method (hereafter referred to as Ranging). Ranging is used to solve the orbital inverse problem of computing non-Gaussian orbital-element probability density functions based on input astrometry.
-
-[OrbFit](https://github.com/Fenu24/OrbFit): this version of the OrbFit package, by Marco Fenucci, contains a modified version of the orbit9 integrator. The integrator has been modified to integrate the spin axis dynamics of small asteroids, due to the Yarkovsky–O'Keefe–Radzievskii–Paddack (YORP) effect.
-
-[SMERCURY-T](https://github.com/SMKreyche/SMERCURY-T): upgrade of the SMERCURY orbital integrator that includes modules to enable the solar tidal spin torque as well as the general relativistic force, by Steven M. Kreyche
-
-[spacepy](https://github.com/spacepy/spacepy): Space Science library for Python, calling Fortran code - contains superposed epoch classes, drift shell tracing, access to magnetic field models, streamline tracing, bootstrap confidence limits, time and coordinate conversions, etc.
-
-[starlink](https://github.com/Starlink/starlink): astronomical data processing
-
-## Astrophysics
-[ARTEMIS-P](https://github.com/maserlib/ARTEMIS-P): Anisotropic Ray Tracer for Electromagnetism in Magnetospheres, Ionospheres and Solar wind, including Polarisation, by Baptiste Cecconi and C. Baskevitch
-
 [ATES-Code](https://github.com/AndreaCaldiroli/ATES-Code): ATES hydrodynamics code, by AndreaCaldiroli, computes the temperature, density, velocity and ionization fraction profiles of highly irradiated planetary atmospheres, along with the current, steady-state mass loss rate.
+
+[Automatic Line Fitting Algorithm (ALFA)](https://github.com/rwesson/ALFA): identifies and fits hundreds of lines in emission line spectra in just a few seconds. It does this using a genetic algorithm to optimise the line parameters, by Roger Wesson
 
 [BI-spectra and Non-Gaussianity Operator (BINGO)](https://github.com/dkhaz/bingo): numerically evaluates the scalar bi-spectrum and the non-Gaussianity parameter fNL in single field inflationary models involving the canonical scalar field, by dkhaz. The code is based on the Maldacena formalism to evaluate the bi-spectrum.  
 
@@ -127,6 +105,10 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [exotrending](https://github.com/oscaribv/exotrending): fast and easy-to-use light curve detrending software for exoplanets, from oscaribv
 
+[fortran-astrodynamics](https://github.com/Yuricst/fortran-astrodynamics): astrodynamics routines by Yuricst
+
+[Fortran-Astrodynamics-Toolkit](https://github.com/jacobwilliams/Fortran-Astrodynamics-Toolkit): aims to be a comprehensive library, written in modern Fortran (Fortran 2003/2008), of all the standard orbital mechanics algorithms, by Jacob Williams
+
 [galacticus](https://github.com/galacticusorg/galacticus): semi-analytic model of galaxy formation - a powerful toolkit for modeling the physics of how galaxies form
 
 [GYRE Stellar Oscillation Code](https://github.com/rhdtownsend/gyre): Given an input stellar model, GYRE calculates the eigenfrequencies and eigenfunctions for the normal oscillation modes of the model, by rhdtownsend et al. These data can be put to a variety of uses; the most common is to compare them against observed oscillation frequencies of a star, allowing constraints on the star's fundamental parameters (mass, radius, etc.) to be established — the discipline of asteroseismology.
@@ -147,6 +129,9 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [legolas](https://github.com/n-claes/legolas): modern tool for MHD spectroscopy, by n-claes
 
+[libTheSky](https://github.com/MarcvdSluys/libTheSky): computes the positions and other properties of celestial bodies (Moon, planets, comets, asteroids, stars), events (e.g. 
+lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFloyd. It forms the core of the software that is used to create the Dutch popular-astronomy website http://hemel.waarnemen.com.
+
 [MAESTRO](https://github.com/AMReX-Astro/MAESTRO): solves the equations of low Mach number hydrodynamics for stratified atmospheres/stars with a general equation of state, from AMReX-Astro
 
 [magnetizer](https://github.com/luizfelippesr/magnetizer): post-processes the output of a semi-analytic model of galaxy formation and produces a catalogue of galaxies with detailed radial dependent ISM properties, including magnetic fields, by luizfelippesr
@@ -161,7 +146,15 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [NASA Ames Legacy Mars Global Climate Model](https://github.com/nasa/legacy-mars-global-climate-model): uses a modified version of the ARIES/GEOS dynamical core coupled with a set of Mars physics packages to simulate the martian climate. 
 
+[NEAT](https://github.com/rwesson/NEAT): calculates chemical abundances in photoionised nebulae, by Roger Wesson et al. It can propagate uncertainties and compensate for measurement biases affecting weak lines.
+
 [NormalModes](https://github.com/js1019/NormalModes): applies a combination of several highly parallel algorithms to compute the planetary interior normal modes, by js1019
+
+[NPI Ephemeris Propagation Tool with Uncertainty Extrapolation (NEPTUNE)](https://github.com/Space-Systems/neptune): state-of-the-art numerical orbit propagator, from Space-Systems. It allows the extrapolation of a state vector and the associated uncertainty forward and backward in time.
+
+[OrbFit](https://github.com/Fenu24/OrbFit): this version of the OrbFit package, by Marco Fenucci, contains a modified version of the orbit9 integrator. The integrator has been modified to integrate the spin axis dynamics of small asteroids, due to the Yarkovsky–O'Keefe–Radzievskii–Paddack (YORP) effect.
+
+[oorb](https://github.com/oorb/oorb): contains the statistical orbital ranging method (hereafter referred to as Ranging). Ranging is used to solve the orbital inverse problem of computing non-Gaussian orbital-element probability density functions based on input astrometry.
 
 [Optab](https://github.com/nombac/optab): computes opacity based on user-provided chemical equilibrium abundances, and outputs mean opacities as well as monochromatic opacities, by Shigenobu Hirose. Consequently, one can have opacity tables consistent with one's equation of state.
 
@@ -185,11 +178,17 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [riaf-sed](https://github.com/rsnemmen/riaf-sed): computes spectral energy distributions of radiatively inefficient accretion flows (RIAFs) around black holes, by rsnemmen
 
+[SMERCURY-T](https://github.com/SMKreyche/SMERCURY-T): upgrade of the SMERCURY orbital integrator that includes modules to enable the solar tidal spin torque as well as the general relativistic force, by Steven M. Kreyche
+
+[spacepy](https://github.com/spacepy/spacepy): Space Science library for Python, calling Fortran code - contains superposed epoch classes, drift shell tracing, access to magnetic field models, streamline tracing, bootstrap confidence limits, time and coordinate conversions, etc.
+
 [SpectralRadex](https://github.com/uclchem/SpectralRadex): Python library for spectral modelling and RADEX, by Jon Holdship et al. SpectralRadex uses F2PY to compile a version of RADEX written in modern Fortran, most importantly dropping the use of common blocks. As a result, running a RADEX model creates no subprocesses and can be parallelized.
 
 [splash](https://github.com/danieljprice/splash): visualisation tool for Smoothed Particle Hydrodynamics (SPH) simulations in one, two and three dimensions, developed mainly for astrophysics, by Daniel Price
 
 [Starlib: Thermonuclear Rate Library](https://github.com/Starlib/Rate-Library): library of thermonuclear reaction and laboratory weak interaction rates. It can be used for studies of stellar models and nucleosynthesis.
+
+[starlink](https://github.com/Starlink/starlink): astronomical data processing
 
 [starsmasher](https://github.com/jalombar/starsmasher): smoothed particle hydrodynamics code for smashing stars (and planets), by jalombar
 
