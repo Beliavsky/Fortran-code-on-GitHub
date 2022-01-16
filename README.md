@@ -921,7 +921,7 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [ce-fortran](https://github.com/fabiankindermann/ce-fortran/): program and compiler Database that accompanies the book "Introduction to Computational Economics using Fortran" (2018), by Fehr and Kindermann
 
-[firingcosts_petit2021](https://github.com/borjapetit/firingcosts_petit2021): replication package for the working paper [Aggregate effects of firing costs with endogenous firm productivity growth (2021)],(https://borjapetit.github.io/files/papers/petit_firing.pdf) by Borja Petit. The codes use OpenMP for parallelization and GNUplot to generate the graphs. 
+[firingcosts_petit2021](https://github.com/borjapetit/firingcosts_petit2021): replication package for the working paper [Aggregate effects of firing costs with endogenous firm productivity growth (2021)](https://borjapetit.github.io/files/papers/petit_firing.pdf) by Borja Petit. The codes use OpenMP for parallelization and GNUplot to generate the graphs. 
 
 [HANK](https://github.com/ikarib/HANK): replication of the computational algorithm for solving Heterogeneous Agent New Keynesian (HANK) model, by ikarib. The original code was written in Fortran utilizing SparseSuite library and parallelized using MPI on the cluster with 33 CPUs (Intel Xeon CPU E5-2695 v4 @ 2.10GHz) with total runtime of 1.5 hours.
 
