@@ -1667,7 +1667,7 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [Mittag Leffler function and its derivative](https://github.com/tranqv/Mittag-Leffler-function-and-its-derivative): translated from the Matlab code of Robert Garrappa
 
-[MPFUN2020](https://github.com/jacobwilliams/MPFUN2020): thread-safe arbitrary precision package that enables one to perform floating-point computations (real and complex) to arbitrarily high numeric precision, by making only relatively minor changes to existing Fortran-90 programs (mostly changes to type statements), by David H. Bailey. All basic arithmetic operations and transcendental functions are supported, together with several special functions.
+[MPFUN2020](https://github.com/jacobwilliams/MPFUN2020): thread-safe arbitrary precision package that enables one to perform floating-point computations (real and complex) to arbitrarily high numeric precision, by making only relatively minor changes to existing Fortran-90 programs (mostly changes to type statements), by David H. Bailey. All basic arithmetic operations and transcendental functions are supported, together with several special functions. FPM package by Jacob Williams [here](https://github.com/jacobwilliams/mpfun2020-var1)
 
 [Modern Fortran Utilities (ModForUtils)](https://github.com/rweed/ModForUtils): variety of tasks including computing binomial coefficients, factorials, routines for checking for NaN and Infinity floating point exceptions, root finders, random number utils and array sorters, and findloc, by Richard Weed. Future releases will expand on these utilities and add interpolation routines and other utilities.
 
