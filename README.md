@@ -2040,6 +2040,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [Guiding-center ORbit Integration with Local Linearization Approach (GORILLA)](https://github.com/itpplasma/GORILLA): computes guiding-center orbits for charged particles of given mass, charge and energy in toroidal fusion devices with three-dimensional field geometry. This guiding-center orbit code is designed to be used in scientific plasma physics simulations in the field of magnetic confinement fusion.
 
+[IrisFDTD-Academic](https://github.com/IrisFDTD/IrisFDTD-Academic): implements the Finite-Difference Time-Domain (FDTD) method. It is a "toy version" of the [IrisFDTD](https://github.com/IrisFDTD/IrisFDTD) program, a Maxwell’s equations solver in the field of computational electrodynamics for photonics and nanotechnology, by Sergio G Rodrigo.
+
 [kmos](https://github.com/mhoffman/kmos): kMC on steroids: A vigorous attempt to make lattice kinetic Monte Carlo modelling easier, by mhoffman et al.
 
 [libdlr](https://github.com/jasonkaye/libdlr): Fortran subroutines to build and work with the discrete Lehmann representation for single particle imaginary time Green's functions, as well as the stand-alone Python module pydlr implementing the same functionality, by Jason Kaye and Hugo U.R. Strand
