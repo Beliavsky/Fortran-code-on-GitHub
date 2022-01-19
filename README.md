@@ -1,7 +1,6 @@
 ## Fortran code on GitHub -- also see [fortran-lang package index](https://fortran-lang.org/packages/)
 * [Art and Music](#art-and-music)
-* [Astronomy](#astronomy)
-* [Astrophysics](#astrophysics)
+* [Astronomy and Astrophysics](#astronomy-and-astrophysics)
 * [Benchmarks](#benchmarks)
 * [Biology and Medicine](#biology-and-medicine)
 * [Climate and Weather](#climate-and-weather)
