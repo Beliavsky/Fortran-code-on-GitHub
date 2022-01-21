@@ -657,6 +657,8 @@ engine, by montagdude and Geoff Sokoll
 
 [CICE Consortium sea-ice model](https://github.com/CICE-Consortium/CICE): computationally efficient model for simulating the growth, melting, and movement of polar sea ice
 
+[CLM-Microbe](https://github.com/email-clm/CLM-Microbe): modeling work within the Ecological Modeling and Integration Laboratory at SDSU. One publication is [Substrate and environmental controls on microbial assimilation of soil organic carbon: a framework for Earth system models](https://onlinelibrary.wiley.com/doi/10.1111/ele.12254).
+
 [Community Data Models for Earth Prediction Systems (CDEPS)](https://github.com/ESCOMP/CDEPS): NUOPC-compliant data components along with ESMF-based share code that enables new capabilities in selectively removing feedbacks in coupled model systems
 
 [Community Ice Sheet Model (CISM)](https://github.com/ESCOMP/CISM): land ice model designed to be used as part of an Earth-system model or as a stand-alone model
