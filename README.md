@@ -2186,6 +2186,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [Merced Quantum Chemistry Package (mqcPack)](https://github.com/MQCPack/mqcPack): objects and procedures to streamline develoments of quantum chemical methodologies, by Lee M. Thompson et al. MQC is built using object-orientated Fortran
 
+[Molecular Orbital KIT (MOKIT)](https://github.com/1234zou/MOKIT): utilities and modules to transfer MOs among various quantum chemistry software packages, by jxzou. In addition, the automr program in MOKIT can set up and run common multi-reference calculations in a block-box way.
+
 [Molecular Orbital PACkage (MOPAC)](https://github.com/openmopac/MOPAC): general-purpose semiempirical molecular orbital package for the study of solid state and molecular structures and reactions.  The semiempirical Hamiltonians MNDO, AM1, PM3, PM6, RM1, MNDO-d, and PM7 are used in the electronic part of the calculation to obtain molecular orbitals, the heat of formation and its derivative with respect to molecular geometry.
 
 [molgw](https://github.com/bruneval/molgw): accurate many-body perturbation theory calculations of the electronic structure of molecules, by bruneval
