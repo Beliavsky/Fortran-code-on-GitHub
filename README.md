@@ -453,6 +453,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [Modular computation tool chain library (mctc-lib)](https://github.com/grimme-lab/mctc-lib): common tool chain to use molecular structure data in various applications, from grimme-lab. This library provides a unified way to perform operations on molecular structure data, like reading and writing to common geometry file formats.
 
+[mstore](https://github.com/grimme-lab/mstore): molecular structure store for testing, from grimme-lab
+
 [numsa](https://github.com/grimme-lab/numsa): solvent accessible surface area calculation, from grimme-lab
 
 [PICLas](https://github.com/piclas-framework/piclas): parallel, three-dimensional PIC-DSMC solver developed cooperatively by the Institute of Space Systems, Institute of Aerodynamics and Gas Dynamics at the University of Stuttgart and the spin-off boltzplatz. PICLas is a flexible particle-based plasma simulation suite.
