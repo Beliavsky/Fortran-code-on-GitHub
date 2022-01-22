@@ -1966,7 +1966,7 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Higher Order Perturbative Parton Evolution Toolkit (HOPPET)](https://github.com/gavinsalam/hoppet): carries out DGLAP evolution and other common manipulations of parton distribution functions (PDFs), by gavinsalam. Within HOPPET, PDFs are represented on a grid in x-space so as to avoid limitations on the functional form of input distributions.
 
-[JHUGen](https://github.com/JHUGen/JHUGen): generator giving parton-level information including full spin and polarization correlations for the processes ab → X → VV (V=Z,W,gamma), VBF, X+JJ, pp → VX, ee → VX, by Heshy Roskes et al.
+[JHUGen](https://github.com/JHUGen/JHUGen): generator giving parton-level information including full spin and polarization correlations for the processes ab → X → VV (V=Z,W,gamma), VBF, X+JJ, pp → VX, ee → VX
 
 [LRSM](https://github.com/oozdal/LRSM): Generic Left-Right Symmetric Model, by oozdal
 
