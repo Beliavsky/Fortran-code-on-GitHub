@@ -727,6 +727,8 @@ engine, by montagdude and Geoff Sokoll
 
 [geoclaw](https://github.com/clawpack/geoclaw): specialized version of some Clawpack and AMRClaw routines that have been modified to work well for certain geophysical flow problems. Currently the focus is on 2d depth-averaged shallow water equations for flow over varying topography.
 
+[geoflac](https://github.com/tan2/geoflac): code for lithospheric scale geodynamics, by Eh Tan et al.
+
 [GIMPM-SSA-Damage](https://github.com/alex-huth/GIMPM_SSA_Damage): Generalized Interpolation Material Point Method for the Shallow Shelf Approximation of ice flow with Damage, by Alex Huth.
 
 [ginette](https://github.com/agnes-riviere/ginette): model for saturated-unsaturated, variable-density ground-water flow with solute or energy transport, by agnes-riviere et al. It is a 2-D variably saturated groundwater flow model with integrated 1-D surface flow for the stream.
@@ -737,7 +739,7 @@ engine, by montagdude and Geoff Sokoll
 
 [GrowClust](https://github.com/dttrugman/GrowClust): program for the relative relocation of earthquake hypocenters based on waveform cross-correlation data, by dttrugman and sean0921
 
-[geoflac](https://github.com/tan2/geoflac): code for lithospheric scale geodynamics, by Eh Tan et al.
+[GSFLOW](https://github.com/rniswon/gsflow_v2): coupled Groundwater and Surface-water FLOW model based on the integration of the USGS Precipitation-Runoff Modeling System (PRMS-V) and the USGS Modular Groundwater Flow Model (MODFLOW-2005 and MODFLOW-NWT), by Steve Regan et al.
 
 [Halfspace deformation (hdef)](https://github.com/mherman09/Hdef): forward calculation of displacements, strains, and stresses in an elastic half-space. The sources are fault
 slip models, using the solutions derived in Okada (1992) and in Meade (2007).
