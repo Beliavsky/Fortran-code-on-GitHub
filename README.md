@@ -386,6 +386,8 @@ simulating and forecasting meteorological phenomena.
 
 [Fortran-RefCount](https://github.com/LadaF/Fortran-RefCount): simple reference counting for Fortran
 
+[FtnTemple](https://github.com/hsnyder/FtnTemple): template preprocessor for Fortran, by Harris Snyder. Modern Fortran is an excellent language for scientific computing, but one of its shortcomings is the lack of strong support for generic programming. Aims to address Fortran's lack of support for generic programming with a simple preprocessor, modeled after some of the language committee's early ideas for a template language feature, to be included in a future Fortran standard.
+
 [libfde](https://github.com/Zorkator/libfde): Fortran Development Extensions (library), by Zorkator
 
 [prep](https://github.com/urbanjost/prep): streamlined pre-processor primarily designed for use with Fortran, by urbanjost. It does not support procedural macros but does support variable substitution and reusable free-format text blocks which allows for basic templating as well as easy construction of multi-line CHARACTER variables; and is quite capable of supporting traditional conditional compilation.
