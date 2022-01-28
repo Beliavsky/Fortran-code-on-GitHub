@@ -2053,6 +2053,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [fresco](https://github.com/I-Thompson/fresco): scattering code for coupled-channels calculations, by I-Thompson. [Frescox](https://github.com/LLNL/Frescox) is an updated version.
 
+[Generalized Spallation Model and Event Generator](https://github.com/lanl/generalized-spallation-model): composed of several sub-models, consisting primarily of the Standard and Modified Dubna Cascade Models (DCM), a Coalescence model, Preequilibrium model, and the GEM2 (Generalized Evaporation Model), being used for simulating compound Evaporation and fission, from Los Alamos National Laboratory.
+
 [Guided_Missile_Simulation](https://github.com/bgin/Guided_Missile_Simulation): Air-to-Air Missile Simulation written in modern Fortran, by bgin
 
 [Guiding-center ORbit Integration with Local Linearization Approach (GORILLA)](https://github.com/itpplasma/GORILLA): computes guiding-center orbits for charged particles of given mass, charge and energy in toroidal fusion devices with three-dimensional field geometry. This guiding-center orbit code is designed to be used in scientific plasma physics simulations in the field of magnetic confinement fusion.
