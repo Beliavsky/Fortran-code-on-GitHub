@@ -1732,6 +1732,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [VecFor](https://github.com/szaghi/VecFor): Object-Oriented designed API for handling vectors in a (3D) three dimensional frame of reference, by szaghi and pdebuyl. It exposes (among others) the object Vector that posses a far complete set of overloaded operators for performing vectorial calculus algebra.
 
+[Warton Legacy](https://github.com/daoudclarke/wartonlegacy): RSA code scrambling and unscrambling, code generating via robust prime construction, code breaking and secret sharing, by Robert Warton. Routines in number theory and algebraic numbers exist both within programs and separately.
+
 ## Numerical Integration (Quadrature)
 [FORbID](https://github.com/giacrossi/FORbID): object-oriented Fortran 2008 library for numerical integration of definite integrals, by Giacomo Rossi and Stefano Zaghi
 
