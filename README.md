@@ -2409,6 +2409,8 @@ milancurcic and awvwgk
 
 [Fregex](https://github.com/14NGiestas/fregex): Perl Compatible Regular Expressions (PCRE) wrapper for Fortran by Ian Giestas Pauli
 
+[fString](https://github.com/dpettas/fString): contains methods to add strings to values or split the context of a string of more than one substrings or even extract specific values using the pattern method, by Dionisis Pettas. The main idea comes from Python and how uses its strings.
+
 [M_io](https://github.com/urbanjost/M_io): collection of procedures that create a simple interface for common I/O tasks not conveniently done with intrinsic I/O procedures, by urbanjost
 
 [M_match](https://github.com/urbanjost/M_match): basic implementation in Fortran of a subset of regular expressions as described in "Software Tools" by Kernighan and Plauger, 1976.
