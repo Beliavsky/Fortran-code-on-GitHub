@@ -518,6 +518,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [M_hashkeys](https://github.com/urbanjost/M_hashkeys): collection of hash key generator modules, by urbanjost
 
+[PolyCon](https://github.com/cmacmackin/PolyCon): abstract container derived type which can be used as a sort of unlimited polymorphic entity whose contents are retrievable with type-guards, by Chris MacMackin. Different subclasses are created in order to hold different data-types.
+
 [qContainers](https://github.com/darmar-lt/qcontainers): container library for Fortran language. It enables to store any internal Fortran data type and any derived data type to the container. It implements containers for key/value pairs: tree table and hash table, and containers for objects: list and vector.
 
 [VectorClass](https://github.com/thchang/VectorClass): Fortran 2003 dynamic memory array that functions similarly (but not identically) to the C++ Vector class, by Tyler Chang
