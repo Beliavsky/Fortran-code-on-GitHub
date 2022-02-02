@@ -494,6 +494,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [FIAT](https://github.com/Fortran-FOSS-Programmers/FIAT): Fortran Implementation of Abstract Types
 
+[flist](https://github.com/jacobwilliams/flist): modern Fortran linked lists using unlimited polymorphic derived types, by Jacob Williams
+
 [Fortran-Linked-List](https://github.com/ChetanKarwa/Fortran-Linked-List): linked list module for stdlib of fortran-lang, by ChetanKarwa
 
 [fortran-list](https://github.com/LadaF/fortran-list): generic list implementation in Fortran 2003, by Vladimír Fuka. Uses unlimited polymorphics or parametric polymorphism.
