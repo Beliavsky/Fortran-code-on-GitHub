@@ -2503,6 +2503,8 @@ milancurcic and awvwgk
 
 [test-drive](https://github.com/fortran-lang/test-drive): lightweight, procedural unit testing framework based on nothing but standard Fortran, by Sebastian Ehlert and Jeremie Vandenplas. Integration with meson, cmake and Fortran package manager (fpm) is available.
 
+[XFunit](https://github.com/ffadrique/XFunit): object oriented framework to implement unit testing in Fortran 2018, by Fran Martinez Fadrique. Unit testing with XFunit is structured in suites and units. A test suite typically define all test to be implemented for a Fortran module.
+
 ## Web Programming
 [Fortran + Apache + BSD + sqlite (FABS)](https://github.com/bceverly/FABS): web framework that leverages Fortran for the middle-tier, by bceverly. The client is a standard HTML5/CSS3/Javascript that talks to a REST API that is exposed by the Fotran middle-tier code via an Apache content filter using CGI.
 
