@@ -1183,25 +1183,13 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [FACE](https://github.com/szaghi/FACE): Ansi Colors and Styles Environment, by szaghi et al.
 
-[fdict](https://github.com/zerothi/fdict): native Fortran 90 dictionary with hash tables for retaining any data-type in a Python-like dictionary
-
 [ferror](https://github.com/jchristopherson/ferror): library to assist with error handling in Fortran projects
-
-[fhash](https://github.com/LKedward/fhash): hash table with support for generic keys and values, by Laurence Kedward
-
-[ffhash](https://github.com/jannisteunissen/ffhash): generic and fast hash table similar to khash in C, by Jannis Teunissen
-
-[fh_table](https://github.com/dbartilson/fh_table): modern Fortran hash functions and hash tables, by dbartilson
-
-[FIAT](https://github.com/Fortran-FOSS-Programmers/FIAT): Fortran Implementation of Abstract Types
 
 [FLAP](https://github.com/szaghi/FLAP): command Line Arguments Parser for poor people, by szaghi et al. A KISS pure Fortran Library for building powerful, easy-to-use, elegant command line interfaces
 
 [flib](https://github.com/crshapiro/flib): standard library, function library, a tridiagonal matrix solver, and code for a doubly linked list, optimization, and interpolation
 
 [flink](https://github.com/huangli712/flink): Flexible Fortran Modules and Subroutines for Scientific Computing
-
-[flist](https://github.com/jacobwilliams/flist): modern Fortran linked lists using unlimited polymorphic derived types, by Jacob Williams
 
 [forbear](https://github.com/szaghi/forbear): progress bar environment by szaghi and jhykes
 
@@ -1219,10 +1207,6 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [Fortran-Library](https://github.com/YifanShenSZ/Fortran-Library): Code for geometry transformations, nonlinear optimization, Fourier transforms, clustering, statistics, mathematics, linear algebra, strings, and chemistry
 
-[Fortran-Linked-List](https://github.com/ChetanKarwa/Fortran-Linked-List): linked list module for stdlib of fortran-lang, by ChetanKarwa
-
-[fortran-list](https://github.com/LadaF/fortran-list): generic list implementation in Fortran 2003, by Vladimír Fuka. Uses unlimited polymorphics or parametric polymorphism.
-
 [Fortran Logging Library: Flogging](https://github.com/cmacmackin/flogging): provides an easy-to-use interface for logging events and errors in Fortran applications and libraries, by Chris MacMackin. Its use and functionality is similar to that of [logging](https://docs.python.org/2/library/logging.html) library in Python.
 
 [fortran-mongo](https://github.com/dongli/fortran-mongo): MongoDB binding library for Fortran, by dongli
@@ -1231,15 +1215,9 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [FortranPatterns](https://github.com/farhanjk/FortranPatterns): Implementation of popular design patterns in Fortran, by Farhan J. Khan and zmiimz. This is intended to facilitate the community using Fortran for computationally expensive tasks. The main philosophy here is to make these patterns available for improving the reusability and efficiency of the code.
 
-[Fortran Parameter List (FPL)](https://github.com/victorsndvg/FPL): Fortran 2003 library that can manage the parameters of a program from a single point, by victorsndvg. FPL is an extendible container (dictionary) of <Key, Value> pairs, where the Key is a character string and the Value can be, by the default, of the basic data types.
-
 [Fortran pathlib](https://github.com/scivision/fortran-pathlib): Filesystem path manipulation utilities for standard Fortran, from scivision. Inspired by Python pathlib and C++17 filesystem.
 
 [fortran-sqlite3](https://github.com/interkosmos/fortran-sqlite3): Fortran 2018 interface bindings to SQLite 3, by interkosmos
-
-[Fortran Template Library (FTL)](https://github.com/SCM-NV/ftl): generic containers, versatile algorithms, easy string manipulation, and more
-
-[Fortran Template Library (FTL)](https://github.com/ffadrique/FTL): object oriented implementation of generic containers similar to the C++ STL (Standard Template Library), by Fran Martinez Fadrique. Not all elements present in STL are implemented in FTL, yet the documentation in http://www.cplusplus.com/reference/stl/ can be used as generic conceptual reference.
 
 [Fortran User Defined Exceptions Handler (ForEx)](https://github.com/victorsndvg/ForEx): Fortran 2003 project taking advantage of the C preprocessor capabilities in order to emulate exception handling, by victorsndvg
 
@@ -1253,11 +1231,7 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [fson](https://github.com/josephalevin/fson): Fortran 95 JSON Parser, by josephalevin
 
-[fstack](https://github.com/jake-87/fstack): custom stack type for Fortran 2003 that implements a C-style stack, by jake-87. The advantage of this model is that one can have multiple stacks at any one time, so there is no need to juggle them -- just allocate another one.
-
 [ftime](https://github.com/wcdawn/ftime): basic timing routines in Fortran 2003, by William C. Dawn
-
-[FTObjectLibrary](https://github.com/trixi-framework/FTObjectLibrary): provides a collection of reference counted Fortran 2003 classes to facilitate writing generic object oriented Fortran programs
 
 [functional-fortran](https://github.com/wavebitscientific/functional-fortran): library for functional programming in modern Fortran
 
@@ -1268,8 +1242,6 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 [fuuid4](https://github.com/PlasmaFAIR/fuuid4): generates random (version 4) Universally Unique Identifiers (UUIDs). Fuuid4 can either wrap the libuuid generator, or use the bundled Mersenne Twister psuedo-random number generator (PRNG) to generate UUIDs itself.
 
 [general-purpose-fortran](https://github.com/urbanjost/general-purpose-fortran): non-numeric tasks such as command-line parsing, string functions, date-and-time manipulation and display, interfacing to the C POSIX system routines, by urbanjost
-
-[gFTL](https://github.com/Goddard-Fortran-Ecosystem/gFTL): provides a mechanism to easily create robust containers and associated iterators which can be used within Fortran applications, from Goddard-Fortran-Ecosystem. The primary methods are intended to be as close to their C++ STL analogs as possible. Also see [gFTL-shared](https://github.com/Goddard-Fortran-Ecosystem/gFTL-shared)
 
 [hwloc-fortran](https://github.com/scivision/hwloc-fortran): simple Fortran binding for HWLOC to get CPU count, with fallback to alternative methods, from scivision. Provides Fortran module hwloc_ifc with integer(int32) function get_cpu_count().
 
@@ -1284,10 +1256,6 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 [kdtree2](https://github.com/jmhodges/kdtree2): kd-tree implementation in C++ (and Fortran) by Matthew B. Kennel
 
 [library containing Some Useful Fortran Routines (libSUFR)](https://github.com/MarcvdSluys/libSUFR): code for command-line options and arguments, manipulation of dates and times,  fitting functions to data, interpolation, random number generation, sorting, solving equations, statistics, and other topics, by  Marc van der Sluys
-
-[LinkedList](https://github.com/pedro-ricardo/LinkedList): simple implementation of heterogeneous linked list in a single module, by Pedro Ricardo C. Souza
-
-[LinkedList](https://github.com/degawa/LinkedList): doubly linked list for Fortran 2003, by Tomohiro Degawa. The list is based on object-oriented programming, so the list can treat all types Fortran supports, including integer, real, character and derived types by using the unlimited polymorphism feature.
 
 [M_calculator](https://github.com/urbanjost/M_calculator): parse Fortran-like double precision scalar expressions, by urbanjost
 
@@ -1316,11 +1284,7 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [pFlogger](https://github.com/Goddard-Fortran-Ecosystem/pFlogger): parallel Fortran logger based on the design of the Python logger, from Goddard-Fortran-Ecosystem
 
-[PolyCon](https://github.com/cmacmackin/PolyCon): abstract container derived type which can be used as a sort of unlimited polymorphic entity whose contents are retrievable with type-guards, by Chris MacMackin. Different subclasses are created in order to hold different data-types.
-
 [progressbar](https://github.com/giambagiamba/progressbar): simple C library for drawing a progress bar on a memory mapped log file, designed to introduce as little overhead as possible, by G-Lorenz and giambagiamba. It is compatible with C++ and Fortran.
-
-[qContainers](https://github.com/darmar-lt/qcontainers): container library for Fortran language. It enables to store any internal Fortran data type and any derived data type to the container. It implements containers for key/value pairs: tree table and hash table, and containers for objects: list and vector.
 
 [sourcery](https://github.com/sourceryinstitute/sourcery): utilities such as array functions, assertions, emulated intrinsic functions: findloc, emulated collective subroutines: co_sum, co_broadcast, user-defined collective subroutines: co_all, string functions, and classes for parallel data partitioning and gathering and the (Co-)Object pattern abstract parent, by Damian Rouson and Brad Richardson
 
@@ -1329,8 +1293,6 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 [TimerClass](https://github.com/DannyVanpoucke/TimerClass): object-oriented Fortran 2003 timer class, by Danny Vanpoucke
 
 [UniShellect](https://github.com/Lateralus138/UniShellect): parses a JSON config file and loads a highly customizable menu of shells, interpreters, files, commands and possible arguments into any command line interface, by Lateralus138. This is inspired by the "hyper-shellect" plug-in for the "Hyper" terminal.
-
-[VectorClass](https://github.com/thchang/VectorClass): Fortran 2003 dynamic memory array that functions similarly (but not identically) to the C++ Vector class, by Tyler Chang
 
 [ZstdFortranLib](https://github.com/zbeekman/ZstdFortranLib): implements missing functionality such as error handling, strings manipulation, system/environment interface & testing utilities, by zbeekman
 
