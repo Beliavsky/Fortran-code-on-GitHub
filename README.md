@@ -1200,6 +1200,8 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 
 [Fortran Template Library (FTL)](https://github.com/SCM-NV/ftl): generic containers, versatile algorithms, easy string manipulation, and more
 
+[Fortran Template Library (FTL)](https://github.com/ffadrique/FTL): object oriented implementation of generic containers similar to the C++ STL (Standard Template Library), by Fran Martinez Fadrique. Not all elements present in STL are implemented in FTL, yet the documentation in http://www.cplusplus.com/reference/stl/ can be used as generic conceptual reference.
+
 [Fortran User Defined Exceptions Handler (ForEx)](https://github.com/victorsndvg/ForEx): Fortran 2003 project taking advantage of the C preprocessor capabilities in order to emulate exception handling, by victorsndvg
 
 [FortranUtilities](https://github.com/ecasglez/FortranUtilities): functions for strings, numbers, precision, statistics and files, by Emilio Castro
