@@ -504,7 +504,7 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [Fortran Template Library (FTL)](https://github.com/SCM-NV/ftl): generic containers, versatile algorithms, easy string manipulation, and more
 
-[Fortran Template Library (FTL)](https://github.com/ffadrique/FTL): object oriented implementation of generic containers similar to the C++ STL (Standard Template Library), by Fran Martinez Fadrique. Not all elements present in STL are implemented in FTL, yet the documentation in http://www.cplusplus.com/reference/stl/ can be used as generic conceptual reference.
+[Fortran Template Library (FTL)](https://github.com/ffadrique/FTL): object-oriented implementation of generic containers similar to the C++ STL (Standard Template Library), by Fran Martinez Fadrique. Not all elements present in STL are implemented in FTL, yet the documentation in http://www.cplusplus.com/reference/stl/ can be used as generic conceptual reference.
 
 [fstack](https://github.com/jake-87/fstack): custom stack type for Fortran 2003 that implements a C-style stack, by jake-87. The advantage of this model is that one can have multiple stacks at any one time, so there is no need to juggle them -- just allocate another one.
 
