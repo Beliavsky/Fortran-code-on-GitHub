@@ -484,6 +484,42 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 ## Containers and Generic Programming
 
+[fdict](https://github.com/zerothi/fdict): native Fortran 90 dictionary with hash tables for retaining any data-type in a Python-like dictionary
+
+[fhash](https://github.com/LKedward/fhash): hash table with support for generic keys and values, by Laurence Kedward
+
+[ffhash](https://github.com/jannisteunissen/ffhash): generic and fast hash table similar to khash in C, by Jannis Teunissen
+
+[fh_table](https://github.com/dbartilson/fh_table): modern Fortran hash functions and hash tables, by dbartilson
+
+[FIAT](https://github.com/Fortran-FOSS-Programmers/FIAT): Fortran Implementation of Abstract Types
+
+[Fortran-Linked-List](https://github.com/ChetanKarwa/Fortran-Linked-List): linked list module for stdlib of fortran-lang, by ChetanKarwa
+
+[fortran-list](https://github.com/LadaF/fortran-list): generic list implementation in Fortran 2003, by Vladimír Fuka. Uses unlimited polymorphics or parametric polymorphism.
+
+[Fortran Parameter List (FPL)](https://github.com/victorsndvg/FPL): Fortran 2003 library that can manage the parameters of a program from a single point, by victorsndvg. FPL is an extendible container (dictionary) of <Key, Value> pairs, where the Key is a character string and the Value can be, by the default, of the basic data types.
+
+[Fortran Template Library (FTL)](https://github.com/SCM-NV/ftl): generic containers, versatile algorithms, easy string manipulation, and more
+
+[Fortran Template Library (FTL)](https://github.com/ffadrique/FTL): object oriented implementation of generic containers similar to the C++ STL (Standard Template Library), by Fran Martinez Fadrique. Not all elements present in STL are implemented in FTL, yet the documentation in http://www.cplusplus.com/reference/stl/ can be used as generic conceptual reference.
+
+[fstack](https://github.com/jake-87/fstack): custom stack type for Fortran 2003 that implements a C-style stack, by jake-87. The advantage of this model is that one can have multiple stacks at any one time, so there is no need to juggle them -- just allocate another one.
+
+[FTObjectLibrary](https://github.com/trixi-framework/FTObjectLibrary): provides a collection of reference counted Fortran 2003 classes to facilitate writing generic object oriented Fortran programs
+
+[gFTL](https://github.com/Goddard-Fortran-Ecosystem/gFTL): provides a mechanism to easily create robust containers and associated iterators which can be used within Fortran applications, from Goddard-Fortran-Ecosystem. The primary methods are intended to be as close to their C++ STL analogs as possible. Also see [gFTL-shared](https://github.com/Goddard-Fortran-Ecosystem/gFTL-shared)
+
+[LinkedList](https://github.com/pedro-ricardo/LinkedList): simple implementation of heterogeneous linked list in a single module, by Pedro Ricardo C. Souza
+
+[LinkedList](https://github.com/degawa/LinkedList): doubly linked list for Fortran 2003, by Tomohiro Degawa. The list is based on object-oriented programming, so the list can treat all types Fortran supports, including integer, real, character and derived types by using the unlimited polymorphism feature.
+
+[M_hashkeys](https://github.com/urbanjost/M_hashkeys): collection of hash key generator modules, by urbanjost
+
+[qContainers](https://github.com/darmar-lt/qcontainers): container library for Fortran language. It enables to store any internal Fortran data type and any derived data type to the container. It implements containers for key/value pairs: tree table and hash table, and containers for objects: list and vector.
+
+[VectorClass](https://github.com/thchang/VectorClass): Fortran 2003 dynamic memory array that functions similarly (but not identically) to the C++ Vector class, by Tyler Chang
+
 ## Computational Fluid Dynamics
 [2DEulerSolver](https://github.com/FrostyNip/2DEulerSolver): numerically solve the Euler equations over a channel with a bump using Jameson scheme finite volume analysis, by FrostyNip
 
