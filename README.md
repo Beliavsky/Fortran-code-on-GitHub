@@ -2200,6 +2200,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [hfsolver](https://github.com/certik/hfsolver): Hartree Fock solver by certik
 
+[Humble Interface for Vasp outputEditing (HIVE4-tools)](https://github.com/DannyVanpoucke/HIVE4-tools): Post-processing tool-set for ab-intio calculations obtained with [VASP](https://www.vasp.at/), by Danny Vanpoucke
+
 [Interacting Quantum Impurity Solver Toolkit (iQIST)](https://github.com/huangli712/iQIST): package for studying strongly correlated electron systems, by huangli712 et al. It contains several hybridization expansion continuous-time quantum Monte Carlo impurity solvers and some auxiliary scripts.
 
 [LBNL-AMO-MCTDHF](https://github.com/LBNL-AMO-MCTDHF/V1): suite of codes for Multiconfiguration Time-Dependent Hartree-Fock applied to ultrafast laser dynamics of atoms and molecules. It calculates nonadiabatic electronic and nuclear wave functions for the nonrelativistic Schrödinger equation.
