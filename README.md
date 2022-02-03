@@ -391,8 +391,6 @@ simulating and forecasting meteorological phenomena.
 
 [Fortran-RefCount](https://github.com/LadaF/Fortran-RefCount): simple reference counting for Fortran
 
-[FMacro](https://github.com/hsnyder/FMacro): template preprocessor for Fortran, by Harris Snyder. Aims to address Fortran's lack of support for generic programming with a simple preprocessor, modeled after some of the language committee's early ideas for a template language feature, to be included in a future Fortran standard.
-
 [libfde](https://github.com/Zorkator/libfde): Fortran Development Extensions (library), by Zorkator
 
 [prep](https://github.com/urbanjost/prep): streamlined pre-processor primarily designed for use with Fortran, by urbanjost. It does not support procedural macros but does support variable substitution and reusable free-format text blocks which allows for basic templating as well as easy construction of multi-line CHARACTER variables; and is quite capable of supporting traditional conditional compilation.
@@ -493,6 +491,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 [ffhash](https://github.com/jannisteunissen/ffhash): generic and fast hash table similar to khash in C, by Jannis Teunissen
 
 [fh_table](https://github.com/dbartilson/fh_table): modern Fortran hash functions and hash tables, by dbartilson
+
+[FMacro](https://github.com/hsnyder/FMacro): template preprocessor for Fortran, by Harris Snyder. Aims to address Fortran's lack of support for generic programming with a simple preprocessor, modeled after some of the language committee's early ideas for a template language feature, to be included in a future Fortran standard.
 
 [Fortran Implementation of Abstract Types (FIAT)](https://github.com/Fortran-FOSS-Programmers/FIAT): aims to implement various common data structures in Fortran, by Chris MacMackin and gitter-badger. These will be implemented in a generic manner using a container type. This was originally developed in [PolyCon](https://github.com/cmacmackin/PolyCon) but has since been folded into FIAT, with some improvements.
 
