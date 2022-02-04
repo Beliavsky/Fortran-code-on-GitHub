@@ -1733,6 +1733,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [polylogarithm](https://github.com/Expander/polylogarithm): C, C++ and Fortran implementations of various polylogarithms, including the real and complex dilogarithm, trilogarithm, and standard Clausen functions, by Alexander Voigt. The implementations have been fully tested against the literature and many other implementations and are highly optimized for fast numerical evaluation.
 
+[pypolsys](https://github.com/nennigb/pypolsys): Python wrapper to [POLSYS_PLP](https://dl.acm.org/doi/abs/10.1145/347837.347885) Fortran 90 package from Layne T. Watson, Steven M. Wise, Andrew J. Sommese, August, 1998. POLSYS_PLP is a solver for N complex coefficients polynomial systems of equations in N unknowns by a probability-one, globally convergent homotopy method.
+
 [QD](https://github.com/highprecision/QD): double-double and quad-double package for Fortran and C++, by Michael Orlitzky and X. Sherry Li
 
 [roots-fortran](https://github.com/jacobwilliams/roots-fortran): library for finding the roots of continuous scalar functions of a single real variable, by Jacob Wiliams
