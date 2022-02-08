@@ -1429,6 +1429,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fortran-rbf](https://github.com/dongli/fortran-rbf): implementation of radial basis functions (RBF), by dongli
 
+[lagrange_interpolator](https://github.com/jlokimlin/lagrange_interpolator): OOP library for 1 and 2-dimensional Lagrange interpolation, by Jon Lo Kim Lin
+
 [Mean-preserving interpolation (mp-interp)](https://github.com/pjbartlein/mp-interp): implements four approaches for mean-preserving interpolation as might be applied, for example, to the interpolation of pseudo-daily values from monthly means, that when averaged, reproduce those monthly means, by Pat Bartlein
 
 [NdSpline](https://github.com/Takayuki-Miyagi/NdSpline): multidimensional spline interpolation based on the B-spline method, by Takayuki Miyagi. For details, see G. D. Knott, [Interpolating cubic splines](https://www.springer.com/us/book/9781461270928), Springer 2000.
