@@ -1984,6 +1984,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Spectral Element Libraries in Fortran (SELF)](https://github.com/FluidNumerics/SELF): object-oriented Fortran library that support the implementation of Spectral Element Methods for solving partial differential equations, by Joe Schoonover. The SELF API is designed based on the assumption that SEM developers and researchers need to be able to implement derivatives in 1-D and divergence, gradient, and curl in 2-D and 3-D on scalar, vector, and tensor functions using spectral collocation, continuous galerkin, and discontinuous galerkin spectral element methods.
 
+[spherepack](https://github.com/jlokimlin/spherepack): computes common spherical differential operators including divergence, vorticity, latitudinal derivatives, gradients, the Laplacian of both scalar and vector functions, and the inverses of these operators, by Jon Lo Kim Lin. For example, given divergence and vorticity, the package can be used to compute velocity components, then the Laplacian inverse can be used to solve the scalar and vector Poisson equations. 
+
 [Unstructured Finite Volume Solver](https://github.com/komahanb/unstructured-finite-volume): unstructured Finite Volume Solver for Partial Differential Equations that is standard Fortran 2018, is object-oriented for separation of geometry, physics and solution, uses coarrays for distributed memory parallelism, and uses the pure, elemental, and do concurrent features for shared memory parallelism, by komahanb
 
 ## Particle Physics
