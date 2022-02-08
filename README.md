@@ -217,6 +217,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [Comparison of Programming Languages in Economics](https://github.com/jesusfv/Comparison-Programming-Languages-Economics): code referenced in the paper "A Comparison of Programming Languages in Economics" by S. Borağan Aruoba and Jesús Fernández-Villaverde
 
+[Compiler-benchmark-suites](https://github.com/quepas/Compiler-benchmark-suites): list of benchmark suites (and some loose kernels) in C and Fortran used in the research related to compilers, program performance, scientific computations etc.
+
 [cumsum_benchmark](https://github.com/ivan-pi/cumsum_benchmark): benchmarks for the cumulative sum of an array, in Fortran, C++, Matlab, and Python, using various methods
 
 [Himeno Benchmark in Modern Fortran](https://github.com/degawa/Himeno-Benchmark-in-Modern-Fortran): [Himeno benchmark](https://i.riken.jp/en/supercom/documents/himenobmt/) to evaluate performance of incompressible fluid analysis code, written in Modern Fortran style, achieving almost the same execution performance as the original version, by Tomohiro Degawa. In this program, global variables are eliminated, and some variable names and subroutine names are refactored.
