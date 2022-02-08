@@ -508,6 +508,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [Fortran Parameter List (FPL)](https://github.com/victorsndvg/FPL): Fortran 2003 library that can manage the parameters of a program from a single point, by victorsndvg. FPL is an extendible container (dictionary) of <Key, Value> pairs, where the Key is a character string and the Value can be, by the default, of the basic data types.
 
+[Fortran Preprocessor Templates for Dynamic Data Structures (FPT-DDS)](https://github.com/alexispaz/FortranTemplates): implements Fortran templates to create dynamic data structures using preprocessor directives, by Sergio Alexis Paz. A data structure for an arbitrary data type can be easily constructed by defining a few preprocessor variables and including the corresponding files distributed in the include folder.
+
 [Fortran Template Library (FTL)](https://github.com/SCM-NV/ftl): generic containers, versatile algorithms, easy string manipulation, and more, by Robert Rüger and Tomáš Trnka. It is heavily inspired by C++'s standard library, especially the part that is commonly referred to as the Standard Template Library (STL).
 
 [Fortran Template Library (FTL)](https://github.com/ffadrique/FTL): object-oriented implementation of generic containers similar to the C++ STL (Standard Template Library), by Fran Martinez Fadrique. Not all elements present in STL are implemented in FTL, yet the documentation in http://www.cplusplus.com/reference/stl/ can be used as generic conceptual reference.
