@@ -836,6 +836,8 @@ recorded by a sparse regional seismograph network.
 
 [Maptran 3D](https://github.com/geospace-code/maptran3d): Modern Fortran 3D coordinate conversions for geospace ecef enu eci, from geospace-code.  Similar to Python PyMap3D and Matlab Matmap3d.
 
+[MCDisp](https://github.com/xin2zhang/MCDisp): surface wave dispersion curve inversion using Monte Carlo sampling. The 1d modal approximation code used to compute dispersion curves is from [Computer Programs in Seismology](http://www.eas.slu.edu/eqc/eqccps.html). This package by xin2zhang provides a Python interface for the original Fortran code. 
+
 [mcm](https://github.com/swami-h2020-eu/mcm): H2020 project with the purpose of developing a model of the whole atmosphere by means of blending the Unified Model (UM) from the MetOffice in the UK for the atmosphere (0 to 120 km) and the Drag Temperature Model (DTM2020) from the Centre National d'Études Spatiales (CNES) in France covering the thermosphere, from 120 to 1500 km
 
 [MCTomo](https://github.com/xin2zhang/MCTomo): 3D Monte Carlo tomography package using reversible jump McMC method and 3D Voronoi tessellation, by Xin Zhang and Andrew Curtis
