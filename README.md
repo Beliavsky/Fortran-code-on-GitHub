@@ -266,7 +266,7 @@ Luis Harvey Triana Vega
 
 [ECOSYS](https://github.com/jinyun1tang/ECOSYS): code for terrestrial ecosystem biogeochemistry, by Robert Grant. A related project is [EcoSim](https://github.com/jinyun1tang/EcoSIM).
 
-[EpiDetector](https://github.com/pecanka/epidetector): identifies epistasis (i.e., gene-to-gene interactions) in a genome-wide analysis setting. EpiDetector implements several flavors of a two-stage testing approach. The underlying methodology is described in this [paper](https://academic.oup.com/biostatistics/article/18/3/477/2970370?) and [book chapter](https://link.springer.com/protocol/10.1007/978-1-0716-0947-7_6).
+[EpiDetector](https://github.com/pecanka/epidetector): identifies epistasis (i.e., gene-to-gene interactions) in a genome-wide analysis setting, by Jakub Pecanka. EpiDetector implements several flavors of a two-stage testing approach. The underlying methodology is described in this [paper](https://academic.oup.com/biostatistics/article/18/3/477/2970370?) and [book chapter](https://link.springer.com/protocol/10.1007/978-1-0716-0947-7_6).
 
 [Euplectella_HPC](https://github.com/giacomofalcucci/Euplectella_HPC): code for paper [Extreme flow simulations reveal skeletal adaptations of deep-sea sponges](https://www.nature.com/articles/s41586-021-03658-1), by Giacomo Falcucci et al., Nature volume 595, pp 537–541 (2021)
 
