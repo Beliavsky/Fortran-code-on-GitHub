@@ -1448,7 +1448,7 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 ## Linear Algebra
 [aldaas2021robust](https://github.com/prj-/aldaas2021robust): code asssociated with paper by Al Daas, Hussam and Jolivet, Pierre and Scott, Jennifer A., "A Robust Algebraic Domain Decomposition Preconditioner for Sparse Normal Equations", 2021, SIAM Journal on Scientific Computing
 
-[amg4psblas](https://github.com/sfilippone/amg4psblas): Algebraic Multigrid Package based on PSBLAS (Parallel Sparse BLAS version 3.7), for the iterative solution of large and sparse linear systems, by by sfilippone et al.
+[amg4psblas](https://github.com/sfilippone/amg4psblas): Algebraic Multigrid Package based on PSBLAS (Parallel Sparse BLAS version 3.7), for the iterative solution of large and sparse linear systems, by sfilippone et al.
 
 [arpack-ng](https://github.com/opencollab/arpack-ng): collection of Fortran77 subroutines designed to solve large scale eigenvalue problems, from opencollab
 
