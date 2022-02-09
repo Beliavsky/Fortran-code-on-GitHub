@@ -1046,6 +1046,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [FiNeR](https://github.com/szaghi/FiNeR): IO of INI (config) files for modern (2003+) Fortran projects, by szaghi and kostyfisik
 
+[flexout](https://github.com/BoldingBruggeman/flexout): Fortran-based flexible output manager with support for NetCDF and text formats, by Jorn Bruggeman et al.
+
 [Fortran Data Compression](https://github.com/SokolAK/Fortran-Data-Compression): sample programs demonstrating the ability to compress/decompress data on the fly when writing to or reading from a file in Fortran using named pipes (FIFOs), by SokolAK
 
 [json-fortran-benchmarks](https://github.com/jacobwilliams/json-fortran-benchmarks): benchmarks for JSON Fortran parsers, by jacobwilliams. Also comparison to Python. Discussed [here](https://fortran-lang.discourse.group/t/a-new-json-library/2197/11)
