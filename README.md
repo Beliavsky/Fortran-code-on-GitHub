@@ -1900,6 +1900,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [clfortran](https://github.com/cass-support/clfortran): Fortran interface to Khronos OpenCL API, from cass-support
 
+[Coarray Collectives](https://github.com/nncarlson/coarray-collectives): module aims to provide various collective parallel procedures for Fortran coarray programs, by Neil Carlson. These are in addition to the several intrinsic collectives introduced in Fortran 2018. Currently the module provides a single procedure, co_sum_scan which computes a prefix sum across all images, similar to MPI_Scan.
+
 [coarray-examples](https://github.com/ljdursi/coarray-examples): simple coarray examples for teaching, by ljdursi
 
 [Coarray Fortran Intel Tutorial](https://github.com/Beliavsky/coarray_fortran_intel_tutorial): examples from Intel Fortran coarray [tutorial](https://software.intel.com/content/www/us/en/develop/documentation/fortran-compiler-coarray-tutorial/top.html)
