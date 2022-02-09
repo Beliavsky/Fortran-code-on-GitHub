@@ -1527,6 +1527,8 @@ generalized eigenvalue problems, from NLAFET
 
 [PSBLAS3](https://github.com/sfilippone/psblas3): Parallel Sparse Basic Linear Algebra Subroutines, from sfilippone
 
+[qrupdate-ng](https://github.com/mpimd-csc/qrupdate-ng): library for fast updating of QR, LU, and Cholesky decompositions, by Jaroslav Hajek, updated by M. Koehler and C. Himpe
+
 [scalapack](https://github.com/Reference-ScaLAPACK/scalapack): library of high-performance linear algebra routines for parallel distributed memory machines. ScaLAPACK solves dense and banded linear systems, least squares problems, eigenvalue problems, and singular value problems.
 
 [ScalapackFx](https://github.com/dftbplus/scalapackfx): modern Fortran 2003 wrappers for the routines of the ScaLAPACK library, by Ben Hourahine et al. Currently mostly the routines related to diagonalization are covered.
