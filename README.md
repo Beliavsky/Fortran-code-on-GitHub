@@ -2098,6 +2098,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [Fingerprint](https://github.com/KrumaKruma/Fingerprint): computation of overlap matrix based fingerprints. The fingerprint vector contains the eigenvalues of the overlap matrix which is itself constructed from gaussian type orbitals.
 
+[flex-general](https://github.com/johndeisz/flex-general): applies the Fluctuation Exchange Approximation (FLEX) to study superconductivity and magnetism in multiband tight-binding models, by John Deisz. [flex-stripes](https://github.com/johndeisz/flex-stripes) analyzes charge and magnetic stripe formation in one-band tight-binding models.
+
 [FMM3D](https://github.com/flatironinstitute/FMM3D): compute N-body interactions governed by the Laplace and Helmholtz equations, to a specified precision, in three dimensions, on a multi-core shared-memory machine, from the Flatiron Institute
 
 [fmm3dbie](https://github.com/fastalgorithms/fmm3dbie): FMM-accelerated boundary integral equation solvers that currently support high-order triangulation of smooth surfaces, from fastalgorithms
