@@ -1304,6 +1304,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [M_stopwatch](https://github.com/urbanjost/M_stopwatch): package for measuring cpu and wall clock execution time by urbanjost, based on [StopWatch](https://math.nist.gov/StopWatch/). It supports the wall clock, CPU clock, and a breakdown of the CPU clock into user and system times.
 
+[Fortran Input Parser](https://github.com/nextnano/FortranInputParser): typical application is the reading in of input parameters (input file) and material parameters (database) from two text files for e.g. a scientific code
+
 [paramcard](https://github.com/tueda/paramcard): command-line parameter input made simple, by Takahiro Ueda
 
 [PENF](https://github.com/szaghi/PENF): Fortran (standard 2003) module useful to achieve portable codes. The module makes available portable kind-parameters and some useful procedures to deal with them
