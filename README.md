@@ -1559,6 +1559,8 @@ generalized eigenvalue problems, from NLAFET
 
 [SpLLT](https://github.com/NLAFET/SpLLT): sparse direct solver for computing the solution of symmetric positive definite linear systems, from NLAFET. The factorization phase, which is the most computationally intensive part, is based on a task-based Cholesky algorithm and the parallel code is implemented using a runtime system. 
 
+[STCollection](https://github.com/oamarques/STCollection): contains matrices that have been used for testing LAPACK's symmetric tridiagonal eigensolvers and bidiagonal SVD algorithms. The collection includes symmetric tridiagonal matrices and (upper) bidiagonal matrices. The original set of matrices in the collection has been described in Marques, Demmel, Voemel, and Parlett, [A Testing Infrastructure for Symmetric Tridiagonal Eigensolvers](https://people.eecs.berkeley.edu/~demmel/Demmel_pubs_07_11_final/J82_Alg880_Testing_Infrastructure_for_LAPACK.pdf), ACM TOMS, 35:2008. 
+
 [TensorTools](https://github.com/llamm-de/tensor_tools): modern Fortran library for tensor calculus, by Lukas Lamm
 
 [tt-fort](https://github.com/oseledets/tt-fort): Fortran computing core of the TT-Toolbox. It also includes two slightly customized libraries for doing fast local solvers in eigenvalue and dynamical problems.
