@@ -826,6 +826,8 @@ recorded by a sparse regional seismograph network.
 
 [Ice Shelf/Ocean Fluid and Thermodynamics (ISOFT)](https://github.com/cmacmackin/isoft): object-oriented, extensible framework with which to model glacial flow using modern Fortran, by Chris MacMackin. Though developed for ice shelves, it could in principle be modified to simulated grounded ice dynamics as well.
 
+[JAGURS](https://github.com/jagurs-admin/jagurs): tsunami simulation code solving linear/nonlinear long-wave/Boussinesq equations with/without effects of elastic deformation of the Earth due to tsunami load and vertical profile of seawater density stratification. This code was parallelized by using OpenMP and MPI.
+
 [JDSurfg](https://github.com/nqdu/JDSurfG): Joint Inversion of Direct Surface Wave Tomography and Bouguer Gravity, by nqdu
 
 [Line-By-Line Radiative Transfer Model(LBLRTM)](https://github.com/AER-RC/LBLRTM): accurate and efficient line-by-line radiative transfer model derived from the Fast Atmospheric Signature Code (FASCODE), from AER-RC. LBLRTM has been, and continues to be, extensively validated against atmospheric radiance spectra from the ultraviolet to the sub-millimeter.
