@@ -1961,6 +1961,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Hybrid CPU programming with OpenMP and MPI](https://github.com/csc-training/hybrid-openmp-mpi): exercise material and model answers for the [CSC course](https://events.prace-ri.eu/event/1225/), by Jussi Enkovaara and Martti Louhivuori
 
+[Index Map](https://github.com/nncarlson/index-map): index_map_type Fortran module, by Neil Carlson, provides core capabilities that support use of distributed arrays in MPI-based SPMD programs through the index_map derived type that describes the mapping of an array's index set to processes. The mapping allows for overlap between processes, and provides collective array gather procedures and scatter reduction procedures associated with that overlap.
+
 [matmul_fortran_tensor_core](https://github.com/samhatfield/matmul_fortran_tensor_core): Example code for calling Tensor Core GEMM from Fortran, by Sam Hatfield
 
 [miniWeather](https://github.com/mrnorman/miniWeather): mini app simulating weather-like flows for training in parallelizing accelerated HPC architectures, by mrnorman. Currently includes MPI (C, Fortran, and C++), OpenACC Offload (C and Fortran), OpenMP Threading (C and Fortran), OpenMP Offload (C and Fortran), and C++ Portability.
