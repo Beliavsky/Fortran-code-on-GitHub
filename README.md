@@ -1189,9 +1189,11 @@ a modern mini-application for simulating solid rocket motors using an object-ori
 [rubik](https://github.com/JeffIrwin/rubik): Rubik's cube command line interface game, by Jeff Irwin
 
 ## General Purpose
-[AwesomeFortranLibraries](https://github.com/SourangshuGhosh/AwesomeFortranLibraries): modules for numerics, file I/O, and other topics by Sourangshu Ghosh for use in more complex codes
+[argv-fortran](https://github.com/jacobwilliams/argv-fortran): a better get_command_argument for Fortran that returns the argument in an allocatable character string, by Jacob Williams
 
 [assert](https://github.com/sourceryinstitute/assert): simple assertion utility taking advantage of the Fortran 2018 standard's introduction of variable stop codes and error termination inside pure procedures, by Damian Rouson
+
+[AwesomeFortranLibraries](https://github.com/SourangshuGhosh/AwesomeFortranLibraries): modules for numerics, file I/O, and other topics by Sourangshu Ghosh for use in more complex codes
 
 [Auto-generated time-stamped folder](https://github.com/zaman13/Auto-generated-time-stamped-folder): code for auto generating a time-stamped folder, log file, and data file (csv) to store results of each run of the code, by Mohammad Asif Zaman. The submodules can be easily incorporated in any program. Useful for cases when the same program must be run many times and the corresponding data must be saved in files.
 
