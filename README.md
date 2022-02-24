@@ -955,6 +955,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [SW_VAR_DENS_MODEL](https://github.com/demichie/SW_VAR_DENS_MODEL): model shallow gas-particles flows over digital elevation models (DEMs) of natural terrain, by demichie. The model solves for the conservation equations (mass,momentum,energy) of the mixture, and accounts for sedimentation, erosion, friction and entrainment. 
 
+[Telewavesim](https://github.com/paudetseis/Telewavesim): teleseismic body wave modeling through stacks of (submarine/anisotropic) layers, by Pascal Audet
+
 [Tenstream](https://github.com/tenstream/tenstream): approximately solves the radiative transfer equation in 3D and computes irradiance and heating rates from optical properties
 
 [Tomofast-x v.1.2](https://github.com/TOMOFAST/Tomofast-x): parallel inversion platform to run single domain or joint inversion (gravity and magnetic data), by V. Ogarko and M. Jessell. It can use local weighting of gradient regularization function, global and local petrophysical constraints (Gaussian mixture model and multiple disjoint bound constraints).
