@@ -1098,6 +1098,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [oo_hdf](https://github.com/rjgtorres/oo_hdf): object-oriented Fortran HDF5 module, by Ricardo Torres. This library aims to create a group of classes in Fortran to interact with HDF5.
 
+[qfyaml](https://github.com/yantosca/qfyaml): quick Fortran YAML parser, by Bob Yantosca
+
 [serialbox](https://github.com/GridTools/serialbox): data serialization library and tools for C/C++ and Fortran, from GridTools
 
 [stl-fortran](https://github.com/jacobwilliams/stl-fortran): Fortran STL (stereolithography) File I/O, by Jacob Williams
