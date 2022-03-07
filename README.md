@@ -229,6 +229,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [julia-numpy-fortran-test](https://github.com/mdmaas/julia-numpy-fortran-test): comparing Julia vs Numpy vs Fortran for performance and code simplicity, by mdmaas
 
+[Julia Syntax: Comparison with Fortran](https://github.com/pnavaro/fortran-vs-julia): simple cheatsheet and some performance comparison for scientific programmers who are interested in discover Julia, by Pierre Navaro
+
 [LINPACK](https://github.com/zaniyah/LINPACK): original (1000x1000 double precision) LINPACK benchmark, with bugfixes, by zaniyah
 
 [Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks): micro benchmark comparison of Julia against other languages, including Fortran, from JuliaLang
