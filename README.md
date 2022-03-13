@@ -2065,16 +2065,32 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 [Whizard-mirror](https://github.com/bijancn/Whizard-mirror): efficient calculation of multi-particle scattering cross sections and simulated event samples. Mirror of [private git](https://gitlab.tp.nt.uni-siegen.de/whizard/public)
 
 ## Plasma Physics
-[Flexible Optimized Coils Using Space curves (FOCUS)](https://github.com/PrincetonUniversity/FOCUS): nonlinear optimization code for designing 3D coils. Its sibling, FAMUS, can be use to design permanent magnets.
-
-## Physics
-[Acceleration by Laser and Dynamics of charged particles (ALaDyn)](https://github.com/ALaDyn/ALaDyn): particle-in-cell code firstly described in ALaDyn: A High-Accuracy PIC code for the Maxwell-Vlasov Equations by C. Benedetti et al., published on IEEE Transactions on Plasma Science, 36 4, 1790-1798 (2008) and then again in the update Charge preserving high order PIC schemes by P. Londrillo et al., published on Nucl. Instrum. Meth. A, 620 1, 28-35 (2010).
-
 [Advanced LOwer Hybrid Antenna (ALOHA)](https://github.com/jhillairet/ALOHA): coupling code for Lower Hybrid Current Drive antennas facing tokamak magnetized fusion plasma, by Julien Hillairet. This coupling code is based on the linear coupling theory.
 
 [Angular Momentum model Of Relativistic Electron beam transport (AMoRE)](https://github.com/michaeltouati/AMoRE): code parallelized using OpenMP for fast simulations of laser-generated relativistic electron beam transport in solid or dense plasma targets, by Michaël J. Touati. It computes the two first angular moments of the relativistic Vlasov-Fokker-Planck-Belaiev-Budker kinetic equation completed with the Minerbo maximum angular entropy closure and coupled with target Magneto-Hydrodynamic equations considering time scales during which the return current has already set up.
 
 [aorsa3d](https://github.com/ORNL-Fusion/aorsa3d): solves for the wave electric field and heating in a 3-D stellerator plasma heated by radio frequency waves using an all orders spectral algorithm, by Naoto Tsujii and David L. Green
+
+[EDIPIC-2D](https://github.com/PrincetonUniversity/EDIPIC-2D): 2D version of [EDIPIC](https://github.com/PrincetonUniversity/EDIPIC), a particle-in-cell code developed for low temperature plasma applications, by Dmytro Sydorenko et al..
+
+[Flexible Optimized Coils Using Space curves (FOCUS)](https://github.com/PrincetonUniversity/FOCUS): nonlinear optimization code for designing 3D coils. Its sibling, FAMUS, can be use to design permanent magnets.
+
+[Guiding-center ORbit Integration with Local Linearization Approach (GORILLA)](https://github.com/itpplasma/GORILLA): computes guiding-center orbits for charged particles of given mass, charge and energy in toroidal fusion devices with three-dimensional field geometry. This guiding-center orbit code is designed to be used in scientific plasma physics simulations in the field of magnetic confinement fusion.
+
+[KORC](https://github.com/ORNL-Fusion/KORC): Kinetic Orbit Runaway Code, from ORNL-Fusion
+
+[Quasilinear Electromagnetic Oscillations (QLEO)](https://github.com/pastfalk/QLEO): code based on the quasilinear kinetic equation which self-consistently describes how a given velocity distribution function of a homogeneous gyrotropic plasma evolves in time in the presence of an unstable spectrum of parallel propagating, electromagnetic linear eigenmodes, by Patrick Astfalk. The implemented formalism is based on the quasilinear kinetic equations given in, e.g., 'Methods in Nonlinear Plasma Theory' by R. C. Davidson (1972).
+
+[SCENE](https://github.com/PlasmaFAIR/SCENE): tokamak equilibrium solver which can generate equilibria in a variety of file formats, from PlasmaFAIR
+
+[stella](https://github.com/stellaGK/stella): solves the gyrokinetic-Poisson system of equations in the local limit using an operator-split, implicit-explicit numerical scheme, by Denis St-Onge et al. It is capable of evolving electrostatic fluctuations with fully kinetic electrons and an arbitrary number of ion species in general magnetic geometry, including stellarators.
+
+[Stellarator Fokker-Planck Iterative Neoclassical Conservative Solver (SFINCS)](https://github.com/landreman/sfincs): computes neoclassical effects in nonaxisymmetric or axisymmetric toroidal plasmas, such as stellarators and tokamaks, by Matt Landreman et al. The code solves a drift-kinetic equation for the distribution function of each species. 
+
+[STELLOPT](https://github.com/PrincetonUniversity/STELLOPT): stellarator optimization code, from PrincetonUniversity. A stellarator is a plasma device that relies primarily on external magnets to confine a plasma.
+
+## Physics
+[Acceleration by Laser and Dynamics of charged particles (ALaDyn)](https://github.com/ALaDyn/ALaDyn): particle-in-cell code firstly described in ALaDyn: A High-Accuracy PIC code for the Maxwell-Vlasov Equations by C. Benedetti et al., published on IEEE Transactions on Plasma Science, 36 4, 1790-1798 (2008) and then again in the update Charge preserving high order PIC schemes by P. Londrillo et al., published on Nucl. Instrum. Meth. A, 620 1, 28-35 (2010).
 
 [Bose-Einstein_Condensates](https://github.com/brito-leonardo/Bose-Einstein_Condensates): solve Bose-Einstein condensates problems and related algebraic problems in quantum mechanics, with Fortran 90 and Python 3 languages, by brito-leonardo
 
@@ -2098,8 +2114,6 @@ phase-space dimensions) and simultaneously calculates the self-consistent electr
 [Dr. Probe command-line tools (drprobe_clt)](https://github.com/ju-bar/drprobe_clt): CELSLC is a program to calculate object transmission functions to be used as phase gratings in a multislice algorithm for electron diffraction calculations. MSA is a program to calculate the diffraction of beam of probing electrons through a crystal. MSA is a program to calculate the diffraction of beam of probing electrons through a crystal.
 
 [DSLEAP](https://github.com/Jonathan271828/DSLEAP): algorithms for determining lattice oscillations. [Reference](https://arxiv.org/abs/2101.06099): "Anharmonic lattice dynamics in large thermodynamic ensembles with machine-learning force fields: the breakdown of the phonon quasiparticle picture in CsPbBr3", by Jonathan Lahnsteiner and Menno Bokdam
-
-[EDIPIC-2D](https://github.com/PrincetonUniversity/EDIPIC-2D): 2D version of [EDIPIC](https://github.com/PrincetonUniversity/EDIPIC), a particle-in-cell code developed for low temperature plasma applications, by Dmytro Sydorenko et al..
 
 [electron-phonon Boltzmann transport (elphbolt)](https://github.com/nakib/elphbolt): Fortran 2018 code for solving the coupled electron and phonon Boltzmann transport equations (BTEs), by nakib. Using ab initio electron-phonon and phonon-phonon interactions and a fully wave vector and electron band/phonon branch resolved formulation of the BTEs, elphbolt can calculate the phonon and electronic thermal conductivities; electronic conductivity; phonon and electronic contributions to the thermopower; and
 effect of the mutual electron-phonon drag on the transport coefficients listed above.
@@ -2134,15 +2148,11 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [Guided_Missile_Simulation](https://github.com/bgin/Guided_Missile_Simulation): Air-to-Air Missile Simulation written in modern Fortran, by bgin
 
-[Guiding-center ORbit Integration with Local Linearization Approach (GORILLA)](https://github.com/itpplasma/GORILLA): computes guiding-center orbits for charged particles of given mass, charge and energy in toroidal fusion devices with three-dimensional field geometry. This guiding-center orbit code is designed to be used in scientific plasma physics simulations in the field of magnetic confinement fusion.
-
 [IrisFDTD-Academic](https://github.com/IrisFDTD/IrisFDTD-Academic): implements the Finite-Difference Time-Domain (FDTD) method. It is a "toy version" of the [IrisFDTD](https://github.com/IrisFDTD/IrisFDTD) program, a Maxwell’s equations solver in the field of computational electrodynamics for photonics and nanotechnology, by Sergio G Rodrigo.
 
 [kmos](https://github.com/mhoffman/kmos): kMC on steroids: A vigorous attempt to make lattice kinetic Monte Carlo modelling easier, by mhoffman et al.
 
 [Koko Optical Design Software (KODS)](https://github.com/dinosauria123/Koko): raytracing software for the design and analysis of optical imaging and illumination systems. Koko has evolved from the optics design program KDP-2 that was made open-source by its original developer James E. Klein.
-
-[KORC](https://github.com/ORNL-Fusion/KORC): Kinetic Orbit Runaway Code, from ORNL-Fusion
 
 [libdlr](https://github.com/jasonkaye/libdlr): Fortran subroutines to build and work with the discrete Lehmann representation for single particle imaginary time Green's functions, as well as the stand-alone Python module pydlr implementing the same functionality, by Jason Kaye and Hugo U.R. Strand
 
@@ -2166,15 +2176,11 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [Quantum Annealing Machine Emulator](https://github.com/camsenec/qa-emulator): quantum annealing simulation on SpinGlass model using Path Integral Monte Carlo method, by Tomoya Tanaka
 
-[Quasilinear Electromagnetic Oscillations (QLEO)](https://github.com/pastfalk/QLEO): code based on the quasilinear kinetic equation which self-consistently describes how a given velocity distribution function of a homogeneous gyrotropic plasma evolves in time in the presence of an unstable spectrum of parallel propagating, electromagnetic linear eigenmodes, by Patrick Astfalk. The implemented formalism is based on the quasilinear kinetic equations given in, e.g., 'Methods in Nonlinear Plasma Theory' by R. C. Davidson (1972).
-
 [raytracer_3D](https://github.com/ceden/raytracer_3D): simulates the radiative energy transfer equation for internal gravity waves in 6 dimensions, by ceden
 
 [scadyn](https://github.com/jherrane/scadyn): code for scattering dynamics calculations, which utilizes a volume integral equation solution for the T-matrices of non-spherical scatterers, by Joonas Herranen. The main motivations for the development of this code are the study of grain alignment dynamics in interstellar environments and optical tweezers and traps.
 
 [Scalable Ab-initio Light–Matter simulator for Optics and Nanoscience (SALMON)](https://github.com/SALMON-TDDFT/SALMON2): software based on first-principles time-dependent density functional theory to describe optical responses and electron dynamics in matters induced by light electromagnetic fields, by Shunsuke Yamada et al.
-
-[SCENE](https://github.com/PlasmaFAIR/SCENE): tokamak equilibrium solver which can generate equilibria in a variety of file formats, from PlasmaFAIR
 
 [Semi-Lagrangian Library (SeLaLib)](https://github.com/selalib/selalib): modular library for kinetic and gyrokinetic simulations of plasmas in fusion energy devices
 
@@ -2191,12 +2197,6 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 [SPECTRA-PKA](https://github.com/fispact/SPECTRA-PKA): calculates the expected primary knock-on atom (PKA) spectra for a given target nuclide under neutron or charged particle irradiation, by Mark Gilbert and Michael Fleming. NJOY-processed recoil matrices must be provided as the input nuclear data for each nuclide and reaction channel of interest. 
 
 [Spherical-Coordinate Implicit Derivatives time-dependent Schroedinger equation (SCID-TDSE)](https://github.com/MBI-Theory/scid-tdse): numerical solution of TDSE for a one-electron atom subject to a laser field, by Serguei Patchkovskii. TDSE is solved in spherical coordinates, with the laser field treated in the velocity-gauge dipole approximation.
-
-[stella](https://github.com/stellaGK/stella): solves the gyrokinetic-Poisson system of equations in the local limit using an operator-split, implicit-explicit numerical scheme, by Denis St-Onge et al. It is capable of evolving electrostatic fluctuations with fully kinetic electrons and an arbitrary number of ion species in general magnetic geometry, including stellarators.
-
-[Stellarator Fokker-Planck Iterative Neoclassical Conservative Solver (SFINCS)](https://github.com/landreman/sfincs): computes neoclassical effects in nonaxisymmetric or axisymmetric toroidal plasmas, such as stellarators and tokamaks, by Matt Landreman et al. The code solves a drift-kinetic equation for the distribution function of each species. 
-
-[STELLOPT](https://github.com/PrincetonUniversity/STELLOPT): stellarator optimization code, from PrincetonUniversity. A stellarator is a plasma device that relies primarily on external magnets to confine a plasma.
 
 [streamer_1d](https://github.com/jannisteunissen/streamer_1d): 1D discharge simulations with a particle-in-cell or fluid model, by Jannis Teunissen
 
