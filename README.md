@@ -35,6 +35,7 @@
 * [Partial Differential Equations](#partial-differential-equations)
 * [Particle Physics](#particle-physics)
 * [Physics](#physics)
+* [Plasma Physics](#plasma-physics)
 * [Random Number Generation](#random-number-generation)
 * [Reactor Physics](#reactor-physics)
 * [Quantum Chemistry and Electronic Structure](#Quantum-Chemistry-and-Electronic-Structure)
@@ -2062,6 +2063,9 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 [vbfnlo](https://github.com/vbfnlo/vbfnlo): fully flexible parton level Monte Carlo program for the simulation of vector boson fusion, double and triple vector boson production in hadronic collisions at next-to-leading order in the strong coupling constant
 
 [Whizard-mirror](https://github.com/bijancn/Whizard-mirror): efficient calculation of multi-particle scattering cross sections and simulated event samples. Mirror of [private git](https://gitlab.tp.nt.uni-siegen.de/whizard/public)
+
+## Plasma Physics
+[Flexible Optimized Coils Using Space curves (FOCUS)](https://github.com/PrincetonUniversity/FOCUS): nonlinear optimization code for designing 3D coils. Its sibling, FAMUS, can be use to design permanent magnets.
 
 ## Physics
 [Acceleration by Laser and Dynamics of charged particles (ALaDyn)](https://github.com/ALaDyn/ALaDyn): particle-in-cell code firstly described in ALaDyn: A High-Accuracy PIC code for the Maxwell-Vlasov Equations by C. Benedetti et al., published on IEEE Transactions on Plasma Science, 36 4, 1790-1798 (2008) and then again in the update Charge preserving high order PIC schemes by P. Londrillo et al., published on Nucl. Instrum. Meth. A, 620 1, 28-35 (2010).
