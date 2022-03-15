@@ -2567,6 +2567,8 @@ milancurcic and awvwgk
 
 [test-drive](https://github.com/fortran-lang/test-drive): lightweight, procedural unit testing framework based on nothing but standard Fortran, by Sebastian Ehlert and Jeremie Vandenplas. Integration with meson, cmake and Fortran package manager (fpm) is available.
 
+[Testing Or ASsertion Toolkit (TOAST)](https://github.com/thomasms/toast): unit testing library by thomasms and Bob Apthorpe
+
 [XFunit](https://github.com/ffadrique/XFunit): object oriented framework to implement unit testing in Fortran 2018, by Fran Martinez Fadrique. Unit testing with XFunit is structured in suites and units. A test suite typically define all test to be implemented for a Fortran module.
 
 ## Web Programming
