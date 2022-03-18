@@ -2403,6 +2403,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [Bayesian Inference for Factor Modeling (BayesFM)](https://github.com/cran/BayesFM): R package with a collection of procedures to perform Bayesian analysis on a variety of factor models, calling Fortran 2003 code, by Rémi Piatek. It includes random number generators for uniform and non-uniform distributions.
 
+[Bayesian Modeling (BaM)](https://github.com/BaM-tools/BaM): framework aimed at estimating a model using a Bayesian approach and using it for prediction, with a particular focus on uncertainty quantification, by Ben Renard and Emeline Perret
+
 [bayesR](https://github.com/syntheke/bayesR): Bayesian hierarchical model for complex trait analysis, associated with [paper](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004969) "Simultaneous Discovery, Estimation and Prediction Analysis of Complex Traits Using a Bayesian Mixture Model", by Gerhard Moser et al.
 
 [BayesRCO](https://github.com/fmollandin/BayesRCO): complex trait prediction with Bayesian hierarchical models using genome-wide genetic variation grouped into potentially overlapping annotation categories based on prior biological information (e.g., functional annotations, candidate gene lists, known causal variants), by Fanny Mollandin
