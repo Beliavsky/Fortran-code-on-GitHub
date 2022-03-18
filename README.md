@@ -1853,6 +1853,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [DualSimplex](https://github.com/thchang/DualSimplex) Fortran 90 module for solving linear programs of the form max c^T x s.t. A x <= b where, c is a cost vector and A x <= b is a system of linear inequality constraints, by Tyler Chang
 
+[EMSOL](https://github.com/ERGO-Code/EMSOL): primal simplex linear programming solver
+
 [FilterSD](https://github.com/jacobwilliams/FilterSD): Fortran 77 subroutines for solving nonlinear programming problems and linearly constrained problems in continuous optimization
 
 [fmin](https://github.com/jacobwilliams/fmin): derivative-free 1D function minimizer in modern Fortran, by Jacob Williams
