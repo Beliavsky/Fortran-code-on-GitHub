@@ -757,6 +757,8 @@ engine, by montagdude and Geoff Sokoll
 
 [DSM Kernel Suite](https://github.com/IPGP/DSM-Kernel): calculates 3D finite frequency Fréchet sensitivity kernels (or 3D waveform partial derivatives) for 1D reference Earth models using Direct Solution Method, by Nobuaki Fuji et al. It consists of forward and back propagated strain Green's function calculation in a 2D plane, cross correlations of forward and back propagated wavefields to obtain sensitivity kernels.
 
+[Dynamically Simple Model of Atmospheric Chemical Complexity (DSMACC)](https://github.com/barronh/DSMACC): tropospheric chemistry box model designed to help understand the composition of the troposphere in a flexiable and friendly manner. It is written to address a range of problems ranging from calculating the expected concentrations of atmospheric radicals to comparing chemistry schemes.
+
 [Earth System Modeling Framework (ESMF)](https://github.com/esmf-org/esmf): suite of software tools for developing high-performance, multi-component Earth science modeling applications, by Gerhard Theurich et al.
 
 [ECCOv4-Configurations](https://github.com/ECCO-GROUP/ECCO-v4-Configurations): documentation and model configuration files for official releases of the ECCO version 4 ocean and sea-ice state estimates, by Ou Wang et al. Model configuration files allow users to reproduce the state estimate or conduct new simulation experiments.
