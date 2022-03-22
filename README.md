@@ -743,6 +743,8 @@ engine, by montagdude and Geoff Sokoll
 
 [Coupled-Ocean-Atmosphere-Wave-Sediment Transport (COAWST) Modeling System](https://github.com/jcwarner-usgs/COAWST): combines many sophisticated systems that each provide relative earth-system components necessary to investigate the dynamics of coastal storm impacts. Specifically, the COAWST Modeling System includes an ocean component—Regional Ocean Modeling System (ROMS); atmosphere component—Weather Research and Forecast Model (WRF), hydrology component- WRF_Hydro; wave components—Simulating Waves Nearshore (SWAN), WAVEWATCHIII, and InWave; a sediment component—the USGS Community Sediment Models; and a sea ice model.
 
+[Coupled Water Balance and Vegetation Optimality Model (VOM)](https://github.com/schymans/VOM): predicts vegetation water use based on meteorological information, soils and topography only, without the need for prescribing site-specific vegetation properties or calibration against observed fluxes, by Stan Schymanski et al.
+
 [cshore](https://github.com/erdc/cshore): predicts beach evolution over the nearshore region, from US Army Engineer Research and Development Center. The combined wave and current model operates under the assumption of longshore uniformity and includes the effects of a wave roller and quadratic bottom shear stress.
 
 [Data Interpolating Empirical Orthogonal Functions (DINEOF)](https://github.com/aida-alvera/DINEOF): EOF-based method to fill in missing data from geophysical fields, such as clouds in sea surface temperature. For more information on how DINEOF works, please refer to Alvera-Azcarate et al (2005) and Beckers and Rixen (2003).
