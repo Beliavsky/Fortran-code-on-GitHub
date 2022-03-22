@@ -1873,7 +1873,7 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [L-BFGS-B](https://github.com/scivision/L-BFGS-B): code for L-BFGS-B, modernized by scivision
 
-[L-BFGS-B-NS](https://github.com/wilmerhenao/L-BFGS-B-NS): code for thesis by Wilmer Henao, "An L-BFGS-B-NS optimizer for non-smooth functions"
+[L-BFGS-B-NS](https://github.com/wilmerhenao/L-BFGS-B-NS): code for thesis by Wilmer Henao, [An L-BFGS-B-NS optimizer for non-smooth functions](https://cs.nyu.edu/~overton/mstheses/henao/msthesis.pdf)
 
 [libdogleg-f](https://github.com/ivan-pi/libdogleg-f): Fortran bindings to libdogleg - a large-scale nonlinear least-squares optimization library, by Ivan Pribec. Currently only the dense optimizer calls are supported.
 
