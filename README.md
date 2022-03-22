@@ -1861,6 +1861,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [fmin](https://github.com/jacobwilliams/fmin): derivative-free 1D function minimizer in modern Fortran, by Jacob Williams
 
+[FortranFilterSLP](https://github.com/ERGO-Code/FortranFilterSLP): for a particular class of non-convex nonlinear programming problems, this implementation of FilterSLP by jajhall uses sequential linear programming to find a (local) optimal solution.
+
 [GALAHAD](https://github.com/ralna/GALAHAD): library of modern Fortran modules for nonlinear optimization
 
 [hyperBOB](https://github.com/maxEntropyProd/hyperBOB): Optimization using MPI parallel Latin hypercube sampling and BOBYQA, by maxEntropyProd
