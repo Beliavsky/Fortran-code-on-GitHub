@@ -1962,6 +1962,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [examples](https://github.com/timkphd/examples): High Performance Computing examples in Fortran, C, Python, and R, by timkphd
 
+[Examples from OpenMP Application Programming Interface](https://github.com/OpenMP/Examples/tree/v5.0.1): examples from [OpenMP Application Programming Interface](https://www.openmp.org/wp-content/uploads/openmp-examples-5-0-1.pdf) in Fortran, C, and C++
+
 [f77_zmq](https://github.com/zeromq/f77_zmq): Fortran 77 binding library for ZeroMQ, an open-source universal messaging library, by Anthony Scemama et al.
 
 [FGPU](https://github.com/LLNL/FGPU): code examples focusing on porting FORTRAN codes to run DOE heterogenous architecture CPU+GPU machines, from LLNL. The purpose of these is to provide both learning aids for developers and OpenMP and CUDA code examples for testing vendor compilers capabilities.
