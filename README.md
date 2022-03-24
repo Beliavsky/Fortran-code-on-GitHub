@@ -1350,6 +1350,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [CHART_COUPE](https://github.com/meom-group/CHART_COUPE): Fortran plotting package base on NCL libraries, tuned for geophysical numerical model output, from meom-group
 
+[Dislin_x_y_plot](https://github.com/andizuend/Dislin_x_y_plot): generates plots from within a Fortran program nearly as easily as with the provided [Dislin](https://www.dislin.de/) "quickplots", by Andi Zuend. However, unlike the quickplots, this module offers a lot more options for controlling the plot page, axis system and various curve properties. It also makes adding multiple x--y data sets (curves) to a single plot easy.
+
 [eggx-procall-2003](https://github.com/interkosmos/eggx-procall-2003): interfaces to the free X11 graphics library EGGX/ProCALL. The EGGX/ProCALL library provides fast and simple drawing routines on Linux, Unix, and Cygwin, directly callable from C or FORTRAN 77.
 
 [f03gl](https://github.com/dcesari/f03gl): project is derived from the pioneering work of Anthony Stone and Aleksandar Donev for creating a complete Fortran interface to the OpenGL library along with GLU and GLUT libraries using the F2003 ISO_C_BINDING intrinsic module, by dcesari
