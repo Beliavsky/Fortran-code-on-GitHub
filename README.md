@@ -2292,6 +2292,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [LBNL-AMO-MCTDHF](https://github.com/LBNL-AMO-MCTDHF/V1): suite of codes for Multiconfiguration Time-Dependent Hartree-Fock applied to ultrafast laser dynamics of atoms and molecules. It calculates nonadiabatic electronic and nuclear wave functions for the nonrelativistic Schrödinger equation.
 
+[libconeangle](https://github.com/kjelljorner/libconeangle): library for calculating exact ligand cone angles according to the paper Bilbrey, J. A.; Kazez, A. H.; Locklin, J.; Allen, W. D. [Exact Ligand Cone Angles.](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.23217) Journal of Computational Chemistry 2013, 34 (14), 1189–1197.
+
 [Merced Quantum Chemistry Package (mqcPack)](https://github.com/MQCPack/mqcPack): objects and procedures to streamline develoments of quantum chemical methodologies, by Lee M. Thompson et al. MQC is built using object-orientated Fortran
 
 [Molecular Orbital KIT (MOKIT)](https://github.com/1234zou/MOKIT): utilities and modules to transfer MOs among various quantum chemistry software packages, by jxzou. In addition, the automr program in MOKIT can set up and run common multi-reference calculations in a block-box way.
