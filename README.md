@@ -1789,6 +1789,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [SLATEC](https://github.com/MehdiChinoune/SLATEC): comprehensive software library containing over 1400 general purpose mathematical and statistical routines, translated to modern Fortran by Mehdi Chinoune
 
+[special_functions](https://github.com/ameli/special_functions): Cython and Python API for some Fortran and C libraries of special functions, by Siavash Ameli
+
 [SSP](https://github.com/msemina/SSP): Scientific Subroutine Package - Fortran science package for statistics, matrix calculus, and other mathematical areas
 
 [STEM-Fortran](https://github.com/roh6608/STEM-Fortran): modules and routines for math, science and engineering calculations, by roh6608
