@@ -2519,6 +2519,8 @@ milancurcic and awvwgk
 
 [M_strings](https://github.com/urbanjost/M_strings): modules for processing strings. Routines for parsing, tokenizing, changing case, substituting new strings for substrings, locating strings with simple wildcard expressions, removing tabs and line terminators and other string manipulations are included
 
+[parff](https://github.com/everythingfunctional/parff): functional style parser combinator library, by Brad Richardson and Patrick Raynaud. By using a library like this, it is possible to implement parsers for complex formats by composing independent little pieces. 
+
 [ryu_fortran](https://github.com/St-Maxwell/ryu_fortran): Ryu algorithm which converts floating point numbers to decimal strings, by St Maxwell. It is more effective than internal file approach. This implementation is based on the Scala version of Ryu.
 
 [strff](https://github.com/everythingfunctional/strff): library of string functions, by Brad Richardson
