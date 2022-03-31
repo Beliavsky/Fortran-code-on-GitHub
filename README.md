@@ -49,7 +49,7 @@
 * [XML](#xml)
 
 ## Art and Music
-[Art1](https://github.com/ef1j/Art1): Art1 is a program that was written by Richard Williams in 1968. Its purpose was to give non-progammers access to an IBM System/360 Model 40 computer at the University of New Mexico in order to explore artistic and aesthetic uses of the machine.
+[Art1](https://github.com/ef1j/Art1): program written by Richard Williams in 1968. Its purpose was to give non-progammers access to an IBM System/360 Model 40 computer at the University of New Mexico in order to explore artistic and aesthetic uses of the machine.
 
 [formidi](https://github.com/vmagnin/formidi): small Fortran MIDI sequencer for composing music and exploring algorithmic music, by Vincent Magnin
 
