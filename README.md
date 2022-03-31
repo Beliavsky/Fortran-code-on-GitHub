@@ -2517,6 +2517,8 @@ milancurcic and awvwgk
 
 [ryu_fortran](https://github.com/St-Maxwell/ryu_fortran): Ryu algorithm which converts floating point numbers to decimal strings, by St Maxwell. It is more effective than internal file approach. This implementation is based on the Scala version of Ryu.
 
+[strff](https://github.com/everythingfunctional/strff): library of string functions, by Brad Richardson
+
 [StringiFor](https://github.com/szaghi/StringiFor): Strings Fortran Manipulator with steroids, by szaghi
 
 ## Time Series
