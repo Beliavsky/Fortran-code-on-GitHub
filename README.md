@@ -902,6 +902,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [PyGeopack](https://github.com/mattkjames7/PyGeopack): Wrapper for the [geopack-08](https://geo.phys.spbu.ru/~tsyganenko/Geopack-2008.html) Fortran code used for the Tsyganenko magnetic field models
 
+[pyOM2](https://github.com/ceden/pyOM2): ocean circulation model with Fortran and Python front end, by ceden
+
 [PyRaysum](https://github.com/paudetseis/PyRaysum):g enerates sets of ray-theoretical seismograms for an incident plane wave (teleseismic approximation) for models consisting of a stack of layers with planar but nonparallel (dipping) interfaces, allowing the possibility of anisotropy in the layers. Incident P and S waves are supported.
 PyRaysum is a Python wrapper around the Fortran software Raysum, originally developed by Andrew Frederiksen.
 
