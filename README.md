@@ -2260,6 +2260,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [cp2k](https://github.com/cp2k/cp2k): quantum chemistry and solid state physics software package that can perform atomistic simulations of solid state, liquid, molecular, periodic, material, crystal, and biological systems
 
+[ddX](https://github.com/ACoM-Computational-Mathematics/ddX): package for continuum solvation models based on the domain decomposition paradigm. It contains a common interface for the three different methods ddCOSMO, ddPCM and ddLPB for the numerical solution to the COSMO, PCM and LPB solvation models, by mnottoli et al.
+
 [dftbplus](https://github.com/dftbplus/dftbplus): DFTB+ general package for performing fast atomistic simulations
 
 [dftd4](https://github.com/dftd4/dftd4): Generally Applicable Atomic-Charge Dependent London Dispersion Correction
