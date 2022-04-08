@@ -767,6 +767,8 @@ engine, by montagdude and Geoff Sokoll
 
 [EcoSLIM](https://github.com/reedmaxwell/EcoSLIM): Lagrangian, particle-tracking code that simulates advective and diffusive movement of water parcels, by Reed Maxwell et al. This code can be used to simulate age, diagnose travel times, source water composition and flowpaths.
 
+[EddyPro](https://github.com/LI-COR/eddypro-engine): processes eddy covariance data, by LI‑COR Biosciences. It computes fluxes of water vapor (evapotranspiration), carbon dioxide, methane, other trace gases, and energy with the Eddy Covariance method.
+
 [European Regional Seas Ecosystem Model (ERSEM)](https://github.com/pmlmodelling/ersem): marine ecosystem model that describes the biogeochemical cycling of carbon, nitrogen, phosphorus, silicon, oxygen and iron through pelagic and benthic ecosystems.
 
 [fd3d_tsn_pt](https://github.com/fgallovic/fd3d_tsn_pt): earthquake dynamic source inversion by parallel tempering, by fgallovic and valelu
