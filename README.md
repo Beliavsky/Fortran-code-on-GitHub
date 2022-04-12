@@ -382,7 +382,7 @@ simulating and forecasting meteorological phenomena.
 [WRF](https://github.com/wrf-model/WRF): Weather Research and Forecasting (WRF) model
 
 ## Code Tools
-[adjac](https://github.com/pv/adjac): automatic differentiation for generating sparse Jacobians, using Fortran 95 and operator overloading, by pv.
+[adjac](https://github.com/pv/adjac): automatic differentiation for generating sparse Jacobians, using Fortran 95 and operator overloading, by Pauli Virtanen
 
 [autodiff](https://github.com/sgeard/autodiff): automatic differentiation for up to 4th derivatives, by Simon Geard
 
