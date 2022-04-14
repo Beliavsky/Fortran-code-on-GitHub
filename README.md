@@ -2423,6 +2423,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [M_sort](https://github.com/urbanjost/M_sort): collection of Fortran procedures that do simple sorts, by urbanjost
 
+[orderpack](https://github.com/urbanjost/orderpack): clone by urbanjost of [Orderpack 2.0](http://www.fortran-2000.com/rank/) from Michel Olagnon that has been restructured so as to be useable as an fpm package. It provides order and unconditional, unique, and partial ranking, sorting, and permutation.
+
 [stringsort](https://github.com/jacobwilliams/stringsort): sorting routines for strings, by Jacob Williams
 
 ## Statistics
