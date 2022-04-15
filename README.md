@@ -2003,6 +2003,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Index Map](https://github.com/nncarlson/index-map): index_map_type Fortran module, by Neil Carlson, provides core capabilities that support use of distributed arrays in MPI-based SPMD programs through the index_map derived type that describes the mapping of an array's index set to processes. The mapping allows for overlap between processes, and provides collective array gather procedures and scatter reduction procedures associated with that overlap.
 
+[INHDF5](https://github.com/nompelis/INHDF5): various utilities for using the parallel HDF5 library with MPI and Fortran, by Ioannis Nompelis
+
 [INshm](https://github.com/nompelis/INshm): library for accessing chunks of shared memory across process running on a Unix host in Fortran, by 
 Ioannis Nompelis
 
