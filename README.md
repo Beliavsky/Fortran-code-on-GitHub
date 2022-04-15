@@ -2497,7 +2497,7 @@ and Andrea Rau.
 
 [sampleSTAT](https://github.com/haniibrahim/sampleSTAT): command-line application to determine sampling distributions, by Hani Andreas Ibrahim. It goes a lot further than arithmetic mean and standard deviation.
 
-[SLICE](https://github.com/ericlindsey/slice): efficient N-Dimensional Monte Carlo inversion algorithm, by ericlindsey 
+[SLICE](https://github.com/ericlindsey/slice): efficient N-Dimensional Monte Carlo inversion algorithm, by ericlindsey
 
 [SparseReg](https://github.com/Hua-Zhou/SparseReg): Matlab toolbox for sparse regression calling Fortran code, by Hua-Zhou Hua Zhou and Brian Gaines
 
@@ -2561,6 +2561,8 @@ milancurcic and awvwgk
 [SIGNAL](https://github.com/i-a-morozov/SIGNAL): frequency estimation, quasiperiodic decomposition and chaos indicators, by i-a-morozov
 
 [signal_subspace](https://github.com/scivision/signal_subspace): 1-D and ensemble signal subspace analysis with methods such as Esprit and RootMusic in Fortran, C, and Python, from scivision, based in part upon the [Spectral Analysis Lib public domain code](https://github.com/vincentchoqueuse/spectral_analysis_project). The core subspace code is written in Fortran 2008 and is called from other languages (Python, C).
+
+[SLICOT System Identification Toolbox](https://github.com/SLICOT/SLICOT-SystemIdentification): includes SLICOT-based MATLAB and Fortran tools for linear and Wiener-type, time-invariant discrete-time multivariable systems. Subspace-based approaches MOESP - Multivariable Output-Error state SPace identification, N4SID - Numerical algorithms for Subspace State Space System IDentification, and their combination, are used to identify linear systems, and to initialize the parameters of the linear part of a Wiener system. See also [SLICOT Basic Systems and Control Toolbox](https://github.com/SLICOT/SLICOT-BasicControl) and [SLICOT Library](https://github.com/SLICOT/SLICOT-Reference).
 
 [tidybench](https://github.com/sweichwald/tidybench): TIme series DiscoverY has four algorithms for causal structure learning for time series: SLARAC (Subsampled Linear Auto-Regression Absolute Coefficients), QRBS (Quantiles of Ridge regressed Bootstrap Samples), LASAR (LASso Auto-Regression), and SELVAR (Selective auto-regressive model), by sweichwald
 
