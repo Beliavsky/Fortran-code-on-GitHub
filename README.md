@@ -70,7 +70,7 @@
 
 [astro-api](https://github.com/FrankThomasTveter/astro-api): makes the astronomical calculations for yr.no, by Frank Thomas Tveter et al. The astro-api software uses the JPL ephemeride tables and the SOFA astronomical library, along with algorithms for quick and precise searches, to provide astronomical data on demand, such as sun/moon rise/set, twilight, polar day/night, moon phase, eclipse, solstice times.
 
-[astro-fortran](https://github.com/jacobwilliams/astro-fortran): modern Fortran implementations of standard models used in fundamental astronomy, by Jacob Williams. It is a refactoring of [IAU SOFA](http://marcomaggi.github.io/docs/iausofa.html).
+[astro-fortran](https://github.com/jacobwilliams/astro-fortran): modern Fortran implementations of standard models used in fundamental astronomy, by Jacob Williams. It is a refactoring of [IAU SOFA](https://github.com/jacobwilliams/IAU_SOFA).
 
 [astroTools](https://github.com/AstroFloyd/astroTools): command-line tools for astronomy and astrophysics, by AstroFloyd
 
