@@ -1951,6 +1951,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [TikTak](https://github.com/serdarozkan/TikTak): multistart global optimization algorithm, described in the [paper](https://fguvenendotcom.files.wordpress.com/2019/09/agk2019-september-nber-submit.pdf) "Benchmarking Global Optimizers", by Antoine Arnoud, Fatih Guvenen, and Tatjana Kleineberg (2019)
 
+[Trust Region Derivative-Free algorithm (TRDF)](https://github.com/fsobral/trdf): reference: P. D. Conejo, E. Karas, and L. G. Pedroso, [A trust-region derivative-free algorithm for constrained optimization](https://www.tandfonline.com/doi/abs/10.1080/10556788.2015.1026968), Optim. Methods Softw., vol. 30, no. 6, pp. 1126–1145, Nov. 2015. Also [vkpss](https://github.com/fsobral/vkpss): algorithm based on sampling approaches for building models in derivative-free trust-region optimization problems
+
 ## Parallel Programming
 [Advanced MPI and parallel I/O](https://github.com/csc-training/advanced-mpi): Exercise material and model answers for the CSC course [Advanced MPI and parallel I/O](https://events.prace-ri.eu/event/1224/), by Jussi Enkovaara and Cristian-Vasile Achim
 
