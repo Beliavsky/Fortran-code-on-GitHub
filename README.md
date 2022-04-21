@@ -939,6 +939,8 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [SEISMIC_CPML](https://github.com/geodynamics/seismic_cpml): set of sixteen Fortran 90 programs to solve the two-dimensional or three-dimensional isotropic or anisotropic elastic, viscoelastic or poroelastic wave equation using a finite-difference method with Convolutional or Auxiliary Perfectly Matched Layer (C-PML or ADE-PML) conditions, developed by Dimitri Komatitsch and Roland Martin
 
+[seismo-fortran](https://github.com/anowacki/seismo-fortran): utility modules for dealing with generally-anisotropic elastic constants and other geophysics problems, by Andy Nowacki
+
 [SealEveL EquatioN solver (SELEN)](https://github.com/geodynamics/selen): numerical solution of the Sea Level Equation (SLE) for a spherical, layered, rotating Earth with viscoelastic rheology, by Eric Heien et al.
 
 [SEM2DPACK](https://github.com/jpampuero/sem2dpack): spectral element method for 2D wave propagation and fracture dynamics, with emphasis on computational seismology and earthquake source dynamics, from jpampuero et al.
