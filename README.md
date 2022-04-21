@@ -1179,6 +1179,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [Intro-to-Fortran](https://github.com/coolernato/Intro-to-Fortran): materials for an [online course](https://www.imperial.ac.uk/study/pg/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/intro-to-fortran/) by Chris Cooling
 
+[Introduction to Modern Fortran](https://github.com/ARCHER2-HPC/archer2-fortran-intro): aimed at users and developers who know how to program, but have little or no experience in Fortran, and those who may wish to have a refresher in Fortran, by Kevin Stratford
+
 [listings](https://github.com/modern-fortran/listings): code listings for [Modern Fortran: Building Efficient Parallel Applications](https://www.manning.com/books/modern-fortran), by Milan Curcic
 
 [man-pages-fortran](https://github.com/AstroFloyd/man-pages-fortran): Man pages for the Fortran language. The description of the Fortran language in these man pages has been taken from the GNU Fortran Compiler documentation, version 5.3.0. They contain elements that follow the Fortran standard, and elements that are GNU extentions.
