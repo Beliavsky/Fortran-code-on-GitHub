@@ -2476,6 +2476,8 @@ and Andrea Rau.
 
 [ferre](https://github.com/callendeprieto/ferre): matches models to data, taking a set of observations and identifying the model parameters that best reproduce the data, in a chi-squared sense, by callendeprieto and holtzmanjon
 
+[fsklearn](https://github.com/zhoutengye/fsklearn): simple module for machine learning in Fortran using scikit-learn, by Zhouteng Ye. The module can be used to do training and prediction in Fortran, the training part uses scikit-learn library by calling Python from Fortran, and the prediction part, as it may be called frequently by a Fortran code, is written in Fortran 2003.
+
 [Functional Single Index Model (FSIM)](https://github.com/sbaek306/FSIM): codes for simulations and real data analysis, which appears in the manscript entitled, "Functional Single Index Model" by Jiang, F., Baek, S., Cao, J., and Ma, Y.
 
 [Fortran](https://github.com/nevillejackson/Fortran): programs and subroutine libraries useful in statistical analysis and quantitative genetics. Some are by Neville Jackson and others are collected from the public domain.
