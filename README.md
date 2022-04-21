@@ -234,6 +234,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [julia-numpy-fortran-test](https://github.com/mdmaas/julia-numpy-fortran-test): comparing Julia vs Numpy vs Fortran for performance and code simplicity, by mdmaas
 
+[julia-pde-benchmark](https://github.com/johnfgibson/julia-pde-benchmark): benchmarks a very simple numerical integration algorithm for a 1d nonlinear partial differential equation (PDE) in Julia, Python, Matlab, C++, C, and Fortran, by John F. Gibson and Frank Otto. Results include execution time versus size of discretized system, and execution time versus lines of code.
+
 [Julia Syntax: Comparison with Fortran](https://github.com/pnavaro/fortran-vs-julia): simple cheatsheet and some performance comparison for scientific programmers who are interested in discover Julia, by Pierre Navaro
 
 [LINPACK](https://github.com/zaniyah/LINPACK): original (1000x1000 double precision) LINPACK benchmark, with bugfixes, by zaniyah
