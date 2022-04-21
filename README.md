@@ -2637,7 +2637,7 @@ milancurcic and awvwgk
 
 [Testing Or ASsertion Toolkit (TOAST)](https://github.com/thomasms/toast): unit testing library by thomasms and Bob Apthorpe
 
-[Vegetables](https://github.com/everythingfunctional/vegetables): unit testing framework written using functional programming principles, by Brad Richardson. As many of its procedures as possible are marked with the pure keyword, while still allowing the framework to test impure code.
+[Veggies](https://github.com/everythingfunctional/veggies): unit testing framework written using functional programming principles, with the ability to test parallel code, by Brad Richardson et al. As many of its procedures as possible are marked with the pure keyword, while still allowing the framework to test impure code. 
 
 [XFunit](https://github.com/ffadrique/XFunit): object oriented framework to implement unit testing in Fortran 2018, by Fran Martinez Fadrique. Unit testing with XFunit is structured in suites and units. A test suite typically define all test to be implemented for a Fortran module.
 
