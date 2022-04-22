@@ -2270,6 +2270,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [WannierTools](https://github.com/quanshengwu/wannier_tools): package for novel topological materials, by QuanSheng Wu et al.
 
+[w2dynamics](https://github.com/w2dynamics/w2dynamics): continuous-time hybridization-expansion Monte Carlo code for calculating n-particle Green's functions of the Anderson impurity model and within dynamical mean-field theory, by Alexander Kowalski et al.
+
 ## Quantum Chemistry and Electronic Structure
 [abinit](https://github.com/abinit/abinit): atomic-scale simulation software suite
 
