@@ -1146,6 +1146,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [feappv](https://github.com/sanjayg0/feappv): free personal version of the [FEAP](http://projects.ce.berkeley.edu/feap/) (A Finite Element Analysis Program), associated with the book [The Finite Element Method: Its Basis and Fundamentals, 7th ed.](https://www.elsevier.com/books/the-finite-element-method-its-basis-and-fundamentals/zienkiewicz/978-1-85617-633-0), by O.C. Zienkiewicz, R.L. Taylor and J.Z. Zhu, Elsevier, Oxford, 2013
 
+[Finite Element Multiphysics PARallel solvers (FEMPAR)](https://github.com/fempar/fempar): scientific software for the simulation of problems governed by partial differential equations (PDEs). It provides a set of state-of-the-art numerical discretizations, including finite element methods, discontinuous Galerkin methods, XFEM, and spline-based functional spaces.
+
 [FrontISTR](https://github.com/FrontISTR/FrontISTR): Large-Scale Parallel FEM Program for Nonlinear Structural Analysis, by Naoki Morita et al.
 
 [HypFEM](https://github.com/md861/HypFEM): enriched finite element solution space based numerical solver for initial-boundary value problems in hyperbolic linear PDEs, by md861
