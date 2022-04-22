@@ -1062,6 +1062,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [modern_fftpack](https://github.com/jlokimlin/modern_fftpack): Fortran 2008 library of fast Fourier transforms -- an object-oriented modernization of NCAR's FFTPACK5.1., by jlokimlin
 
+[fstpack](https://github.com/thkrz/fstpack): library of Fast Stockwell transforms, including CUDA support, by Thomas Kreuzer
+
 [nufft](https://github.com/biotrump/nufft): code for the 1D, 2D and 3D non-uniform FFTs, from biotrump
 
 ## File I/O
