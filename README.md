@@ -1243,6 +1243,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [errorfx](https://github.com/aradi/errorfx): simple library for demonstrating exception like error handling strategy in Fortran, by Bálint Aradi. It provides an error handling mechanism which is robust, convenient, and PURE.
 
+[errstat](https://github.com/degawa/errstat): error status and message handling library for Modern Fortran, by Tomohiro Degawa
+
 [f90getopt](https://github.com/haniibrahim/f90getopt): getopt()- and getopt_long()-like functionality (similar to the C-functions) for Fortran 90, by Hani Andreas Ibrahim
 
 [fArgParse](https://github.com/Goddard-Fortran-Ecosystem/fArgParse): command line argument parsing for Fortran, from Goddard-Fortran-Ecosystem
