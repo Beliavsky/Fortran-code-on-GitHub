@@ -1221,6 +1221,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 [rubik](https://github.com/JeffIrwin/rubik): Rubik's cube command line interface game, by Jeff Irwin
 
 ## General Purpose
+[Algorithms](https://github.com/andreypudov/algorithms): The Laboratory of Algorithms, by Andrey Pudov.
+
 [argv-fortran](https://github.com/jacobwilliams/argv-fortran): a better get_command_argument for Fortran that returns the argument in an allocatable character string, by Jacob Williams
 
 [assert](https://github.com/sourceryinstitute/assert): simple assertion utility taking advantage of the Fortran 2018 standard's introduction of variable stop codes and error termination inside pure procedures, by Damian Rouson
