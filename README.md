@@ -1360,6 +1360,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [Quantities for Fortran (quaff)](https://github.com/everythingfunctional/quaff): makes math with units more convenient, by Brad Richardson et al. This library provides all the functionality necessary to almost treat quantities with units associated with them as though they were just intrinsic real values
 
+[reference-counter](https://github.com/sourceryinstitute/reference-counter): object-oriented, extensible reference-counting utility for Fortran, by Damian Rouson et al.
+
 [sourcery](https://github.com/sourceryinstitute/sourcery): utilities such as array functions, assertions, emulated intrinsic functions: findloc, emulated collective subroutines: co_sum, co_broadcast, user-defined collective subroutines: co_all, string functions, and classes for parallel data partitioning and gathering and the (Co-)Object pattern abstract parent, by Damian Rouson and Brad Richardson
 
 [SQLite for Fortran (sqliteff)](https://github.com/everythingfunctional/sqliteff): thin wrapper around the SQLite library, by Brad Richardson. The sqliteff_* functions are effectively identical to the sqlite3_* functions that would be called from C, but with Fortran intrinsics and types.
