@@ -13,6 +13,7 @@
 * [Earth Science](#earth-science)
 * [Economics](#economics)
 * [Engineering](#engineering)
+* [Error Handling](#error-handling)
 * [Fast Fourier Transform](#fast-fourier-transform)
 * [File I/O](#file-io)
 * [Finite Elements](#finite-elements)
@@ -1046,6 +1047,23 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 [Reference OpenSource Controller (ROSCO) for wind turbine applications](https://github.com/NREL/ROSCO#nrels-reference-opensource-controller-rosco-for-wind-turbine-applications): modular and fully adaptable baseline wind turbine controller to the scientific community, from NREL. Because of the open character and modular set-up, scientists are able to collaborate and contribute in making continuous improvements to the code.
 
 [Wind Energy with Integrated Servo-control (WEIS)](https://github.com/WISDEM/WEIS): performs multifidelity co-design of wind turbines, from WISDEM. WEIS is a framework that combines multiple NREL-developed tools to enable design optimization of floating offshore wind turbines.
+
+## Error Handling
+[assert](https://github.com/sourceryinstitute/assert): simple assertion utility taking advantage of the Fortran 2018 standard's introduction of variable stop codes and error termination inside pure procedures, by Damian Rouson
+
+[erloff](https://github.com/everythingfunctional/erloff): errors and logging for Fortran, by Brad Richardson. The basic usage is that a procedure can have intent(out) message and/or error list arguments, or as a component of its return value.
+
+[errorfx](https://github.com/aradi/errorfx): simple library for demonstrating exception like error handling strategy in Fortran, by Bálint Aradi. It provides an error handling mechanism which is robust, convenient, and PURE.
+
+[errstat](https://github.com/degawa/errstat): error status and message handling library for Modern Fortran, by Tomohiro Degawa
+
+[ferror](https://github.com/jchristopherson/ferror): library to assist with error handling in Fortran projects
+
+[Fortran Error Handler](https://github.com/samharrison7/fortran-error-handler): universal and comprehensive solution for applications requiring functional and robust error handling, utilising the power of modern object-oriented Fortran, by  Sam Harrison and KellerV
+
+[Fortran exceptions library](https://github.com/LightDA-assim/fortran_exceptions): provides exception handling for Fortran 2003 and later, based on the methodology of [Poppe et al. 2012](https://dl.acm.org/doi/10.1145/2338786.2338787)
+
+[Fortran Logging Library: Flogging](https://github.com/cmacmackin/flogging): provides an easy-to-use interface for logging events and errors in Fortran applications and libraries, by Chris MacMackin. Its use and functionality is similar to that of [logging](https://docs.python.org/2/library/logging.html) library in Python.
 
 ## Fast Fourier Transform
 [2DECOMP&FFT](https://github.com/BenMql/2decomp_emptyFourierFourier): scalable library for Fourier transforms, derived from 2decomp&fft, by BenMql. Compatible with in-core Chebyshev transforms.
