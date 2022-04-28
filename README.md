@@ -1225,8 +1225,6 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [argv-fortran](https://github.com/jacobwilliams/argv-fortran): a better get_command_argument for Fortran that returns the argument in an allocatable character string, by Jacob Williams
 
-[assert](https://github.com/sourceryinstitute/assert): simple assertion utility taking advantage of the Fortran 2018 standard's introduction of variable stop codes and error termination inside pure procedures, by Damian Rouson
-
 [AwesomeFortranLibraries](https://github.com/SourangshuGhosh/AwesomeFortranLibraries): modules for numerics, file I/O, and other topics by Sourangshu Ghosh for use in more complex codes
 
 [Auto-generated time-stamped folder](https://github.com/zaman13/Auto-generated-time-stamped-folder): code for auto generating a time-stamped folder, log file, and data file (csv) to store results of each run of the code, by Mohammad Asif Zaman. The submodules can be easily incorporated in any program. Useful for cases when the same program must be run many times and the corresponding data must be saved in files.
@@ -1241,19 +1239,11 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [cpu_timer](https://github.com/jlokimlin/cpu_timer): Fortran 2008 object-oriented library for computing elapsed CPU time, by Jon Lo Kim Lin
 
-[erloff](https://github.com/everythingfunctional/erloff): errors and logging for Fortran, by Brad Richardson. The basic usage is that a procedure can have intent(out) message and/or error list arguments, or as a component of its return value.
-
-[errorfx](https://github.com/aradi/errorfx): simple library for demonstrating exception like error handling strategy in Fortran, by Bálint Aradi. It provides an error handling mechanism which is robust, convenient, and PURE.
-
-[errstat](https://github.com/degawa/errstat): error status and message handling library for Modern Fortran, by Tomohiro Degawa
-
 [f90getopt](https://github.com/haniibrahim/f90getopt): getopt()- and getopt_long()-like functionality (similar to the C-functions) for Fortran 90, by Hani Andreas Ibrahim
 
 [fArgParse](https://github.com/Goddard-Fortran-Ecosystem/fArgParse): command line argument parsing for Fortran, from Goddard-Fortran-Ecosystem
 
 [FACE](https://github.com/szaghi/FACE): Ansi Colors and Styles Environment, by szaghi et al.
-
-[ferror](https://github.com/jchristopherson/ferror): library to assist with error handling in Fortran projects
 
 [FLAP](https://github.com/szaghi/FLAP): command Line Arguments Parser for poor people, by szaghi et al. A KISS pure Fortran Library for building powerful, easy-to-use, elegant command line interfaces
 
@@ -1263,11 +1253,7 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [forbear](https://github.com/szaghi/forbear): progress bar environment by szaghi and jhykes
 
-[Fortran Error Handler](https://github.com/samharrison7/fortran-error-handler): universal and comprehensive solution for applications requiring functional and robust error handling, utilising the power of modern object-oriented Fortran, by  Sam Harrison and KellerV
-
 [Fortran Equation Parser (feqparse)](https://github.com/FluidNumerics/feq-parse): equation parser Fortran class that is used to interpret and evaluate functions provided as strings, by Joe Schoonover 
-
-[Fortran exceptions library](https://github.com/LightDA-assim/fortran_exceptions): provides exception handling for Fortran 2003 and later, based on the methodology of [Poppe et al. 2012](https://dl.acm.org/doi/10.1145/2338786.2338787)
 
 [fortran_function_parser](https://github.com/jacobwilliams/fortran_function_parser): function parser module by Jacob Williams is intended for applications where a set of mathematical fortran-style expressions is specified at runtime and is then evaluated for a large number of variable values. This is done by compiling the set of function strings into byte code, which is interpreted efficiently for the various variable values.
 
@@ -1276,8 +1262,6 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 [fortranlib](https://github.com/astrofrog/fortranlib): Collection of personal scientific routines in Fortran
 
 [Fortran-Library](https://github.com/YifanShenSZ/Fortran-Library): Code for geometry transformations, nonlinear optimization, Fourier transforms, clustering, statistics, mathematics, linear algebra, strings, and chemistry
-
-[Fortran Logging Library: Flogging](https://github.com/cmacmackin/flogging): provides an easy-to-use interface for logging events and errors in Fortran applications and libraries, by Chris MacMackin. Its use and functionality is similar to that of [logging](https://docs.python.org/2/library/logging.html) library in Python.
 
 [fortran-mongo](https://github.com/dongli/fortran-mongo): MongoDB binding library for Fortran, by dongli
 
