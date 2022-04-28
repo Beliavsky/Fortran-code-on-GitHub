@@ -1059,7 +1059,9 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [ferror](https://github.com/jchristopherson/ferror): library to assist with error handling in Fortran projects
 
-[Fortran Error Handler](https://github.com/samharrison7/fortran-error-handler): universal and comprehensive solution for applications requiring functional and robust error handling, utilising the power of modern object-oriented Fortran, by  Sam Harrison and KellerV
+[Fortran Error Handler](https://github.com/samharrison7/fortran-error-handler): universal and comprehensive solution for applications requiring functional and robust error handling, utilising the power of modern object-oriented Fortran, by Sam Harrison and KellerV
+
+[Fortran Error Handling](https://github.com/SINTEF/fortran-error-handling): makes error handling easier by providing a type, error_t, to indicate if a procedure invocation has failed, from SINTEF. Errors can be handled gracefully and context can be added while returning up the call stack. It is also possible to programmatically identify and handle certain types or errors without terminating the application.
 
 [Fortran exceptions library](https://github.com/LightDA-assim/fortran_exceptions): provides exception handling for Fortran 2003 and later, based on the methodology of [Poppe et al. 2012](https://dl.acm.org/doi/10.1145/2338786.2338787)
 
