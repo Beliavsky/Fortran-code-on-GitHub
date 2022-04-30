@@ -1205,6 +1205,9 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [Intro-to-Fortran](https://github.com/coolernato/Intro-to-Fortran): materials for an [online course](https://www.imperial.ac.uk/study/pg/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/intro-to-fortran/) by Chris Cooling
 
+[Introduction to Fortran Debugging](https://github.com/aperezhortal/fortran_debugging_introduction): reviews the most common types of errors and
+present simple ways to locate and correct those errors without the use of any debugging applications, by Andres Perez Hortal. The common errors are illustrated using simple Fortran applications where the simple debugging techniques are applied.
+
 [Introduction to Modern Fortran](https://github.com/ARCHER2-HPC/archer2-fortran-intro): aimed at users and developers who know how to program, but have little or no experience in Fortran, and those who may wish to have a refresher in Fortran, by Kevin Stratford
 
 [listings](https://github.com/modern-fortran/listings): code listings for [Modern Fortran: Building Efficient Parallel Applications](https://www.manning.com/books/modern-fortran), by Milan Curcic
