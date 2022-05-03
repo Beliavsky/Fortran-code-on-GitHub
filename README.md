@@ -2429,6 +2429,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [LEcuyer-RNG-Fortran90](https://github.com/p-serna/LEcuyer-RNG-Fortran90): pseudo-random number generator, more precisely, a combined multiple recursive generator (CMRG), MRG32k3a, proposed by L'Ecuyer "Good parameters and implementations for combined multiple recursive random number generators". Operations Research. 1999 Feb;47(1):159-64, by p-serna. This algorithm is well suited for parallel computing as it can initialize many long streams and substreams, with a total period length of 2191 and it passes diehard tests.
 
+[mersenne-twister-fortran](https://github.com/jacobwilliams/mersenne-twister-fortran): Mersenne Twister pseudorandom number generator, by Jacob Williams
+
 [M_random](https://github.com/urbanjost/M_random): module of pseudo random procedures, by urbanjost
 
 [pseudo_RNG_modules](https://github.com/pointedsphere/pseudo_RNG_modules): pseudo-random number generator modules in Fortran, with option to compile as Python modules and some basic randomness tests in Python, from pointedsphere
