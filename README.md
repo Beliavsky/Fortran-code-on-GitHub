@@ -426,6 +426,8 @@ simulating and forecasting meteorological phenomena.
 
 [infnan](https://github.com/zaikunzhang/infnan): functions for checking Inf/NaN, Zaikun Zhang. They should work even if the compilers are invoked with aggressive optimization flags such as `gfortran -Ofast`.
 
+[paranoia](https://github.com/urbanjost/paranoia): tests floating-point arithmetic in a Fortran programming environment, by urbanjost. This is a version of the netlib PARANOIA Fortran programs converted to procedures. They can be embedded into programs such that one can verify the behavior of the options selected to execute a program, or the simple test program can be used to experiment with various compiler selections.
+
 [test_compiler](https://github.com/zaikunzhang/test_compiler): tests the applicability of Fortran compilers in a project that develops optimization solvers, by Zhang Zaikun
 
 [test_nvfortran_20_11](https://github.com/vyu16/test_nvfortran_20_11): source code test.f90 by vyu16 attempts to call getitem, defined in dummy_module.f90, incorrectly. Both ifort and gfortran are able to catch it at compile time. However, nvfortran compiles the code and seems to just ignore the call at run time.
