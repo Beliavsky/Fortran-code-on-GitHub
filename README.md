@@ -2555,6 +2555,8 @@ and Andrea Rau.
 
 [statTools](https://github.com/AstroFloyd/statTools): command-line tools for simple statistics, by AstroFloyd
 
+[STooDs](https://github.com/STooDs-tools/STooDs): framework to build and estimate probabilistic models for data varying in space, time or other dimensions, by Ben Renard
+
 [System of Sequential Assimilation Modules (sesam)](https://github.com/brankart/sesam): perform the various basic operations that are required in sequential data assimilation systems. These operations include square root or ensemble observational updates (with global or local parameterization of the forecast error statistics), adaptive statistical parameterizations, anamorphosis transformations, or the computation of truncated Gaussian estimators.
 
 [treat](https://github.com/plopezrios/treat): tail-regression estimator analysis toolbox to analyze samples distributed according to heavy-tailed distributions of known tail indices, by plopezrios
