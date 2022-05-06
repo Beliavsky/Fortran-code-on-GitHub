@@ -387,6 +387,8 @@ simulating and forecasting meteorological phenomena.
 [WRF](https://github.com/wrf-model/WRF): Weather Research and Forecasting (WRF) model
 
 ## Code Tools
+[AD_dnSVM](https://github.com/lauvergn/AD_dnSVM): Fortran Automatic Differentiation tool using forward mode for scalars (S), Vectors (V) and Matrices (M), by David Lauvergnat. It has no limit in terms of the number of independent variables (this number is defined at runtime) and can compute up to third derivatives.
+
 [adjac](https://github.com/pv/adjac): automatic differentiation for generating sparse Jacobians, using Fortran 95 and operator overloading, by Pauli Virtanen
 
 [autodiff](https://github.com/sgeard/autodiff): automatic differentiation for up to 4th derivatives, by Simon Geard
