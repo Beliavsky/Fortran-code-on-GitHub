@@ -1840,6 +1840,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [SLATEC](https://github.com/MehdiChinoune/SLATEC): comprehensive software library containing over 1400 general purpose mathematical and statistical routines, translated to modern Fortran by Mehdi Chinoune
 
+[specfunc-fullerton](https://github.com/arjenmarkus/specfunc-fullerton): library for evaluating special mathematical function, based on the [fn](http://www.netlib.org/fn/index.html) library of Wayne Fullerton, modernised by Arjen Markus. It has Airy functions, modified Bessel functions, beta functions, exponential and logarithmic integrals, gamma functions, inverse cosine and cosine hyperbolic integrals, miscellaneous functions, and Pochhammer symbols
+
 [special_functions](https://github.com/ameli/special_functions): Cython and Python API for some Fortran and C libraries of special functions, by Siavash Ameli
 
 [SSP](https://github.com/msemina/SSP): Scientific Subroutine Package - Fortran science package for statistics, matrix calculus, and other mathematical areas
