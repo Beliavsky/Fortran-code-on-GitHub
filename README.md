@@ -1449,6 +1449,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [arrayfire-fortran](https://github.com/arrayfire/arrayfire-fortran): Fortran wrapper for ArrayFire, a general purpose GPU library.
 
+[call_py_fort](https://github.com/nbren12/call_py_fort): call Python from Fortran, by Noah D. Brenowitz. Operates by pushing Fortran arrays into a global python dictionary, calling Python functions with this dictionary as input, and then reading NumPy arrays from this dictionary back into Fortran.
+
 [dynload-julia](https://github.com/brocolis/dynload-julia): dynamically load Julia from Fortran, by brocolis
 
 [F2Py Sockets](https://github.com/b-fg/f2py-sockets): example of how to use sockets to transfer data from Fortran to Python and viceversa, by Bernat Font
