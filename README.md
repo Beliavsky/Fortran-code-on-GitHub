@@ -1537,6 +1537,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [ARPACK_PARPACK](https://github.com/KingJGod/ARPACK_PARPACK): solves large eigenvalue problems in double precision in standard Fortran 90, by KingJGod
 
+[Automatically Tuned Linear Algebra Software (ATLAS)](https://github.com/math-atlas/math-atlas): applies empirical techniques in order to provide portable performance. At present, it provides C and Fortran77 interfaces to a portably efficient BLAS implementation, as well as a few routines from LAPACK.
+
 [bddcml](https://github.com/sistek/bddcml): massively parallel solver of systems of linear equations using Multilevel Balancing Domain Decomposition based on Constraints (BDDC), by sistek
 
 [blas-interface](https://github.com/awvwgk/blas-interface): interface declarations for basic linear algebra subprograms, by Sebastian Ehlert
