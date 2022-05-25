@@ -415,6 +415,8 @@ simulating and forecasting meteorological phenomena.
 
 [progRESS+repORT (progrep}](https://github.com/SomajitDey/progrep): utility to show live progress, status and stats of a running simulation or any compute job that executes a given number of iterations, by SomajitDey. Progrep can report for both serial (single-core) and parallel (multi-core/multi-node - e.g. OpenMP/MPI) jobs.
 
+[symengine.f90](https://github.com/symengine/symengine.f90): Fortran wrappers by Rikard Nordgren and Ondřej Čertík of SymEngine, a fast symbolic manipulation library, written in C++
+
 [to_f90](https://github.com/jbdv-no/to_f90): Alan Miller's tool for converting Fortran 77 code to free-form Fortran 90 code, from jbdv-no
 
 ## Compiler Tests
