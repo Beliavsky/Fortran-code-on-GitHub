@@ -2000,6 +2000,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [Trust Region Derivative-Free algorithm (TRDF)](https://github.com/fsobral/trdf): by F. N. C. Sobral. Reference: P. D. Conejo, E. Karas, and L. G. Pedroso, [A trust-region derivative-free algorithm for constrained optimization](https://www.tandfonline.com/doi/abs/10.1080/10556788.2015.1026968), Optim. Methods Softw., vol. 30, no. 6, pp. 1126–1145, Nov. 2015. Also [vkpss](https://github.com/fsobral/vkpss): algorithm based on sampling approaches for building models in derivative-free trust-region optimization problems, [skinny](https://github.com/fsobral/skinny): derivative-free direct search algorithm for constrained problems, [fird](https://github.com/fsobral/fird): solves general derivative-free constrained optimization problems in which the derivatives of the objective function are not available
 
+[VTMOP: Solver for Blackbox Multiobjective Optimization Problems](https://github.com/vtopt/VTMOP): package containing a robust, portable solver and a flexible framework for solving MOPs, by Tyler Chang and Layne Watson. Designed for for efficiency and scalability to an arbitrary number of objectives, VTMOP attempts to generate uniformly spaced points on a (possibly nonconvex) Pareto front with minimal cost function evaluations.
+
 ## Parallel Programming
 [Advanced MPI and parallel I/O](https://github.com/csc-training/advanced-mpi): Exercise material and model answers for the CSC course [Advanced MPI and parallel I/O](https://events.prace-ri.eu/event/1224/), by Jussi Enkovaara and Cristian-Vasile Achim
 
