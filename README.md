@@ -1802,7 +1802,7 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [gf_solver](https://github.com/gfell/gf_solver): finds the zeros of a function using the basic Newton method and switches to hybrid Newton-bisection if the max number of iterations is exceeded, by gfell
 
-[HOMPACK90](https://github.com/vtopt/hompack90): solves nonlinear systems of equations by homotopy methods. There are subroutines for fixed point, zero finding, and general homotopy curve tracking problems, utilizing both dense and sparse Jacobian matrices, and implementing three different algorithms: ODE-based, normal flow, and augmented Jacobian. Associated paper: [Algorithm 777: HOMPACK90: a suite of Fortran 90 codes for globally convergent homotopy algorithms](https://dl.acm.org/doi/10.1145/279232.279235)
+[HOMPACK90](https://github.com/vtopt/hompack90): solves nonlinear systems of equations by homotopy methods. There are subroutines for fixed point, zero finding, and general homotopy curve tracking problems, utilizing both dense and sparse Jacobian matrices, and implementing three different algorithms: ODE-based, normal flow, and augmented Jacobian. Associated paper: [Algorithm 777: HOMPACK90: a suite of Fortran 90 codes for globally convergent homotopy algorithms](https://dl.acm.org/doi/10.1145/279232.279235), by Layne T. Watson et al.
 
 [Library of Numerical Analysis - Moscow State University](https://github.com/VadimAnIsaev/Library-of-Numerical-Analysis-MSU): Translation of subroutines into modern Fortran (Fortran90 or higher) from Fortran 66. Original website: http://num-anal.srcc.msu.ru/lib_na/cat/cat0.htm
 
