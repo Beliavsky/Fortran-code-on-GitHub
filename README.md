@@ -1528,6 +1528,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [regridpack](https://github.com/jacobwilliams/regridpack): routines for interpolating values between one-, two-, three-, and four-dimensional arrays defined on uniform or nonuniform orthogonal grids, from Jacob Williams
 
+[SHEPPACK](https://github.com/vtopt/sheppack): modified Shepard algorithm for interpolation of scattered multivariate data, by William Thacker and Layne Watson. It is [Algorithm 905](https://dl.acm.org/doi/10.1145/1824801.1824812) of ACM Transactions on Mathematical Software.
+
 [sosie](https://github.com/brodeau/sosie): SOSIE is Only a Surface Interpolation Environment, by brodeau
 
 [sprint](https://github.com/dongli/sprint): Spherical Remapping and Interpolation library, from dongli
