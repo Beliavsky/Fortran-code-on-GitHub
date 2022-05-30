@@ -2251,6 +2251,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [Linear Electromagnetic Oscillations in Plasmas with Arbitrary Rotationally-symmetric Distributions (LEOPARD)](https://github.com/pastfalk/LEOPARD): dispersion relation solver which can derive the frequencies and growth rates of electromagnetic waves with arbitrary propagation angle in homogeneous plasmas with an arbitrary number of particle species, by Patrick Astfalk. LEOPARD allows the computation of the (fully-kinetic) dielectric tensor components for both bi-Maxwellian or arbitrary gyrotropic velocity distributions. The implemented expressions for the dielectric tensor components are based on 'Kinetic Theory of Plasma Waves' by M. Brambilla (1998).
 
+[LINVARIANT](https://github.com/PaulChern/LINVARIANT): universal model generator in the field of computational condensed matter physics, by Peng Chen et al. Using group theory, it mathematically models physical systems such as lattice, electron, spin and their coupling systems.
+
 [MagTense](https://github.com/cmt-dtu-energy/MagTense): magnetostatic and a micromagnetism calculation framework, in Fortran with Matlab MEX and Python interfaces, by Kaspar Kirstein Nielsen et al.
 
 [McPhase](https://github.com/mducle/mcphase): Mean-field monte-Carlo simulation program for magnetic PHASE diagrams and excitations, originally developed by Martin Rotter. McPhase uses the mean-field approximation to calculate magnetic structures and magnetic-field vs temperature phase diagrams from input files which specify the crystal structure of a magnetic material and the exchange interactions between the magnetic ions in this material.
