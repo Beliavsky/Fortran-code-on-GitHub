@@ -2011,7 +2011,7 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 ## Parallel Programming
 [Advanced MPI and parallel I/O](https://github.com/csc-training/advanced-mpi): Exercise material and model answers for the CSC course [Advanced MPI and parallel I/O](https://events.prace-ri.eu/event/1224/), by Jussi Enkovaara and Cristian-Vasile Achim
 
-[Advanced Parallel Programming](https://github.com/csc-training/advanced-parallel-prog): exercise material and model answers for the CSC course "Advanced Parallel Programming". Other CSC courses are [Elements of high-performance computing](https://github.com/csc-training/elements-of-hpc) and [Parallel Programming with MPI](https://github.com/csc-training/mpi-introduction) and [CSC Summer School in High-Performance Computing 2022](https://github.com/csc-training/summerschool).
+[Advanced Parallel Programming](https://github.com/csc-training/advanced-parallel-prog): exercise material and model answers for a CSC course. Other CSC courses are [Elements of high-performance computing](https://github.com/csc-training/elements-of-hpc) and [Parallel Programming with MPI](https://github.com/csc-training/mpi-introduction) and [CSC Summer School in High-Performance Computing 2022](https://github.com/csc-training/summerschool).
 
 [Atomic_Subroutines--How_the_Parallel_Codes_may_look_like--Part_1](https://github.com/MichaelSiehl/Atomic_Subroutines--How_the_Parallel_Codes_may_look_like--Part_1): Fortran 2008 coarray programming with unordered execution segments (user-defined ordering). First in a series of articles by MichaelSiehl
 
