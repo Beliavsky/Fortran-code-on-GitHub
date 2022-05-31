@@ -2549,6 +2549,8 @@ and Andrea Rau.
 
 [libdierckx](https://github.com/DaanVanVugt/libdierckx): collection of FORTRAN programs for curve and surface fitting with splines and tensor product splines. Features included are automatic knot selection, error smoothing and data reduction.
 
+[M_datapac](https://github.com/urbanjost/M_datapac): NIST [DATAPAC](https://www.nist.gov/itl/sed/datapac) package modularized and made available as an fpm(1) package, by urbanjost, original code by James Filliben. There are routines for computing various probability functions.
+
 [MCMC f90 library](https://github.com/mjlaine/mcmcf90): do Markov chain Monte Carlo simulation from a posterior distribution of unknown model parameters defined by a likelihood function and prior, by mjlaine
 
 [measurements](https://github.com/jchristopherson/measurements): routines supporting calculations related to measurement activities, in the following areas: statistics, linear regression, data smoothing, filtering, Fourier transforms, peak detection, interpolation, differentiation, and integration, by jchristopherson
