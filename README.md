@@ -164,6 +164,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [Optab](https://github.com/nombac/optab): computes opacity based on user-provided chemical equilibrium abundances, and outputs mean opacities as well as monochromatic opacities, by Shigenobu Hirose. Consequently, one can have opacity tables consistent with one's equation of state.
 
+[optool](https://github.com/cdominik/optool): computes complex dust particle opacities from the command line, by Carsten Dominik and Ryo Tazaki. It is derived from Michiel Min’s DHS [OpacityTool](https://dianaproject.wp.st-andrews.ac.uk/data-results-downloads/fortran-package/) and also implements Ryo Tazaki’s MMF theory for highly porous aggregates.
+
 [phantom](https://github.com/danieljprice/phantom): 3D Smoothed Particle Hydrodynamics and Magnetohydrodynamics code for astrophysics, by Daniel Price and others
 
 [PhotochemPy](https://github.com/Nicholaswogan/PhotochemPy): photochemical model of rocky planet's atmospheres, by Nicholaswogan. Given inputs, like the stellar UV flux, the atmospheric temperature structure, etc., this code will find the steady-state chemical composition of an atmosphere, or evolve atmospheres through time.
