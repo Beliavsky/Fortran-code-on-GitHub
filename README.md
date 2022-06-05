@@ -1953,6 +1953,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [L-BFGS-B-NS](https://github.com/wilmerhenao/L-BFGS-B-NS): code for thesis by Wilmer Henao, [An L-BFGS-B-NS optimizer for non-smooth functions](https://cs.nyu.edu/~overton/mstheses/henao/msthesis.pdf)
 
+[L-BFGS-B_wrapper_f90](https://github.com/snljty/L-BFGS-B_wrapper_f90): Fortran 90 wrapper of L-BFGS-B local minimization routine, by Mingda Zhang
+
 [libdogleg-f](https://github.com/ivan-pi/libdogleg-f): Fortran bindings to libdogleg - a large-scale nonlinear least-squares optimization library, by Ivan Pribec. Currently only the dense optimizer calls are supported.
 
 [libga](https://github.com/ramos/libga): genetic algorithm optimisation library by Alberto Ramos 
