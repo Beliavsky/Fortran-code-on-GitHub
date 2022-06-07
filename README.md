@@ -2601,7 +2601,7 @@ and Andrea Rau.
 
 ## Strings
 [fortran202x_split](https://github.com/milancurcic/fortran202x_split): Fortran implementation of the Fortran 202X split intrinsic subroutine, by 
-milancurcic and awvwgk
+Milan Curcic and Sebastian Ehlert
 
 [fortran_pcre](https://github.com/ZedThree/fortran_pcre): Fortran wrapper around the C PCRE regular expression library
 
@@ -2620,6 +2620,8 @@ milancurcic and awvwgk
 [M_io](https://github.com/urbanjost/M_io): collection of procedures that create a simple interface for common I/O tasks not conveniently done with intrinsic I/O procedures, by urbanjost
 
 [M_match](https://github.com/urbanjost/M_match): basic implementation in Fortran of a subset of regular expressions as described in "Software Tools" by Kernighan and Plauger, 1976.
+
+[mod_pcreposix](https://github.com/tranqv/mod_pcreposix): module for working (in Unix) with the Perl compatible regular expressions, by tranqv
 
 [M_strings](https://github.com/urbanjost/M_strings): modules for processing strings. Routines for parsing, tokenizing, changing case, substituting new strings for substrings, locating strings with simple wildcard expressions, removing tabs and line terminators and other string manipulations are included
 
