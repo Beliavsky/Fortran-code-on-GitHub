@@ -1759,6 +1759,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [fortnet](https://github.com/vanderhe/fortnet): using atom-centered symmetry functions to characterize local atomic environments, Fortnet provides easy access to the Behler-Parrinello-Neural-Network architecture to predict atomic or global properties of a physical system, featuring powerful but optional MPI parallelism, by vanderhe
 
+[fortran2xgb](https://github.com/christophkeller/fortran2xgb): interface for calling XGBoost from Fortran, by Christoph Keller. The idea is to train an XGBoost model externally, e.g. in Python, then save that model to disk (in the XGBoost internal binary format, e.g. using Booster.save_model() in Python), and later call the model from Fortran to make a prediction.
+
 [fortran_calls_tensorflow](https://github.com/putschblos/fortran_calls_tensorflow): how to calls a TensorFlow from Fortran 2003, by putschblos
 
 [Fortran FLANN binding](https://github.com/ivan-pi/fortran-flann): Fortran bindings to the FLANN library for performing fast approximate nearest neighbor searches in high dimensional spaces, by ivan-pi
