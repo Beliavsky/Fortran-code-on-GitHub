@@ -1328,6 +1328,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [functional-fortran](https://github.com/wavebitscientific/functional-fortran): library for functional programming in modern Fortran
 
+[https://github.com/tranqv/funx](https://github.com/tranqv/funx): Unix commands from Fortran via calls to C, by tranqv
+
 [Futility](https://github.com/CASL/Futility): utilities for definition of kinds for intrinsic numeric data types, a unit test harness, definitions for some basic extensions to the Fortran language, geometry definitions and intersection routines, file wrapper functions, parallel wrapper functions, math utilities, a lightweight profiling interface, and other miscellaneous routines, from CASL
 
 [futility](https://github.com/cmacmackin/futility): collection of modern Fortran utilities, including some numerical subroutines and a module for simplified input and output of arrays, by Chris MacMackin
