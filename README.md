@@ -1243,6 +1243,8 @@ present simple ways to locate and correct those errors without the use of any de
 [Upgrading-to-Fortran90](https://github.com/nickbrady/Upgrading-to-Fortran90): programs from [Upgrading to Fortran 90](https://link.springer.com/book/10.1007/978-1-4612-2562-1) by Cooper Redwine (1995)
 
 ## Games
+[adventure](https://github.com/ghfbsd/adventure): original Fortran version of Adventure by Will Crowther, updated by ghfbsd to work with a modern Fortran compiler
+
 [blocktran](https://github.com/fortran-gaming/blocktran): falling-block object-oriented Fortran 2018 game, with resizable playfield, from fortran-gaming
 
 [Castlequest](https://github.com/Quuxplusone/Castlequest): parser adventure
