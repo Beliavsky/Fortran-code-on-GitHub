@@ -1812,6 +1812,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [forSISL](https://github.com/rweed/forSISL): Modern Fortran interfaces to the [SINTEF Spline Library (SISL)](https://github.com/SINTEF-Geometry/SISL), by Richard Weed
 
+[ForTrilinos](https://github.com/trilinos/ForTrilinos): provides Fortran interfaces for the following capabilities of the C++ [Trilinos](https://trilinos.github.io/) library: Parameter lists and XML parsers (through Teuchos); Distributed linear algebra object including sparse graphs, sparse matrices, and dense vectors (through Tpetra); Linear solvers and preconditioners (through Stratimikos, Ifpack2, Belos, MueLu); and Eigen solvers (through Anasazi).
+
 [FURY](https://github.com/szaghi/FURY): Fortran Units (environment) for Reliable phYsical math, by Stefano Zaghi 
 
 [GetRootsF](https://github.com/physicsfan/GetRootsF): routines for finding the roots of linear/non-linear equations, with or without derivative information, by Andrew Senchuk
