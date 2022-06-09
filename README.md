@@ -2658,7 +2658,7 @@ Milan Curcic and Sebastian Ehlert
 
 [REDFIT-X](https://github.com/kristinbjorg/REDFIT-X-Cross-spectral-analysis-of-unevenly-spaced-paleoclimate-time-series): cross-spectral analysis of unevenly spaced paleoclimate time series, by kristinbjorg et al.
 
-[sacbook](https://github.com/ghfbsd/sacbook): online analysis methods provided in [The Seismic Analysis Code A Primer and User's Guide](https://www.cambridge.org/us/academic/subjects/earth-and-environmental-science/solid-earth-geophysics/seismic-analysis-code-primer-and-users-guide?format=HB&isbn=9781107045453) by George Helffrich, James Wookey, and Ian Bastow
+[sacbook](https://github.com/ghfbsd/sacbook): online analysis methods provided in [The Seismic Analysis Code: A Primer and User's Guide](https://www.cambridge.org/us/academic/subjects/earth-and-environmental-science/solid-earth-geophysics/seismic-analysis-code-primer-and-users-guide?format=HB&isbn=9781107045453) by George Helffrich, James Wookey, and Ian Bastow
 
 [setpar](https://github.com/wan9c9/setpar): code by wan9c9 related to the paper "Self-excited Threshold Poisson Autoregression Model"
 
