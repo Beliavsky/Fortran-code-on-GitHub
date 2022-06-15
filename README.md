@@ -1302,6 +1302,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [Fortran General Library (FGL)](https://github.com/mobius-eng/FGL): code for bitstrings, exception handling, hash tables, lists, logging, queues, strings, sorting, JSON parsing, and other topics, from mobius-eng
 
+[Fortran IFS and Arpege Toolkit (FIAT)](https://github.com/ecmwf-ifs/fiat): collection of selected Fortran utility libraries, extracted from the IFS/Arpege model, including drhook for tracing, gstats for timing, parkind to choose precision, mpl for MPI communication, mpi_serial for MPI dummy symbols compiled into static library, and other routines
+
 [fortranlib](https://github.com/astrofrog/fortranlib): Collection of personal scientific routines in Fortran
 
 [Fortran-Library](https://github.com/YifanShenSZ/Fortran-Library): Code for geometry transformations, nonlinear optimization, Fourier transforms, clustering, statistics, mathematics, linear algebra, strings, and chemistry
