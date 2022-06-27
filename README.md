@@ -14,6 +14,7 @@
 * [Economics](#economics)
 * [Engineering](#engineering)
 * [Error Handling](#error-handling)
+* [Expression Parsers](#expression-parsers)
 * [Fast Fourier Transform](#fast-fourier-transform)
 * [File I/O](#file-io)
 * [Finite Elements](#finite-elements)
@@ -1083,6 +1084,13 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [Fortran Logging Library: Flogging](https://github.com/cmacmackin/flogging): provides an easy-to-use interface for logging events and errors in Fortran applications and libraries, by Chris MacMackin. Its use and functionality is similar to that of [logging](https://docs.python.org/2/library/logging.html) library in Python.
 
+## Expression Parsers
+[Fortran Equation Parser (feqparse)](https://github.com/FluidNumerics/feq-parse): equation parser Fortran class that is used to interpret and evaluate functions provided as strings, by Joe Schoonover 
+
+[fortran_function_parser](https://github.com/jacobwilliams/fortran_function_parser): function parser module by Jacob Williams is intended for applications where a set of mathematical fortran-style expressions is specified at runtime and is then evaluated for a large number of variable values. This is done by compiling the set of function strings into byte code, which is interpreted efficiently for the various variable values.
+
+[Fortran Function Parser (ffp)](https://github.com/jacobwilliams/ffp): evaluates a string containing a mathematical expression that can be formed by numbers, brackets, functions, and variables, by Wilton P. Silva and Ivomar B. Soares
+
 ## Fast Fourier Transform
 [2DECOMP&FFT](https://github.com/BenMql/2decomp_emptyFourierFourier): scalable library for Fourier transforms, derived from 2decomp&fft, by BenMql. Compatible with in-core Chebyshev transforms.
 
@@ -1293,12 +1301,6 @@ present simple ways to locate and correct those errors without the use of any de
 [flink](https://github.com/huangli712/flink): Flexible Fortran Modules and Subroutines for Scientific Computing
 
 [forbear](https://github.com/szaghi/forbear): progress bar environment by szaghi and jhykes
-
-[Fortran Equation Parser (feqparse)](https://github.com/FluidNumerics/feq-parse): equation parser Fortran class that is used to interpret and evaluate functions provided as strings, by Joe Schoonover 
-
-[fortran_function_parser](https://github.com/jacobwilliams/fortran_function_parser): function parser module by Jacob Williams is intended for applications where a set of mathematical fortran-style expressions is specified at runtime and is then evaluated for a large number of variable values. This is done by compiling the set of function strings into byte code, which is interpreted efficiently for the various variable values.
-
-[Fortran Function Parser (ffp)](https://github.com/jacobwilliams/ffp): evaluates a string containing a mathematical expression that can be formed by numbers, brackets, functions, and variables, by Wilton P. Silva and Ivomar B. Soares
 
 [Fortran General Library (FGL)](https://github.com/mobius-eng/FGL): code for bitstrings, exception handling, hash tables, lists, logging, queues, strings, sorting, JSON parsing, and other topics, from mobius-eng
 
