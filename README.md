@@ -1091,7 +1091,11 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [Fortran Function Parser (ffp)](https://github.com/jacobwilliams/ffp): evaluates a string containing a mathematical expression that can be formed by numbers, brackets, functions, and variables, by Wilton P. Silva and Ivomar B. Soares
 
+[Fortran Parser](https://github.com/jacopo-chevallard/FortranParser): parser of mathematical expressions by hennink and Jacopo Chevallard, based on Roland Schmehl's [fparser](http://fparser.sourceforge.net/)
+
 [M_calculator](https://github.com/urbanjost/M_calculator): parse Fortran-like double precision scalar expressions, by urbanjost
+
+[M_matrix](https://github.com/urbanjost/M_matrix): Fortran callable version of old matlab-like interface, by urbanjost
 
 ## Fast Fourier Transform
 [2DECOMP&FFT](https://github.com/BenMql/2decomp_emptyFourierFourier): scalable library for Fourier transforms, derived from 2decomp&fft, by BenMql. Compatible with in-core Chebyshev transforms.
