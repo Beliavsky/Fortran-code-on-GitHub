@@ -1091,6 +1091,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [Fortran Function Parser (ffp)](https://github.com/jacobwilliams/ffp): evaluates a string containing a mathematical expression that can be formed by numbers, brackets, functions, and variables, by Wilton P. Silva and Ivomar B. Soares
 
+[M_calculator](https://github.com/urbanjost/M_calculator): parse Fortran-like double precision scalar expressions, by urbanjost
+
 ## Fast Fourier Transform
 [2DECOMP&FFT](https://github.com/BenMql/2decomp_emptyFourierFourier): scalable library for Fourier transforms, derived from 2decomp&fft, by BenMql. Compatible with in-core Chebyshev transforms.
 
@@ -1359,8 +1361,6 @@ present simple ways to locate and correct those errors without the use of any de
 [kdtree2](https://github.com/jmhodges/kdtree2): kd-tree implementation in C++ (and Fortran) by Matthew B. Kennel
 
 [library containing Some Useful Fortran Routines (libSUFR)](https://github.com/MarcvdSluys/libSUFR): code for command-line options and arguments, manipulation of dates and times,  fitting functions to data, interpolation, random number generation, sorting, solving equations, statistics, and other topics, by  Marc van der Sluys
-
-[M_calculator](https://github.com/urbanjost/M_calculator): parse Fortran-like double precision scalar expressions, by urbanjost
 
 [M_CLI2](https://github.com/urbanjost/M_CLI2): cracks the command line when given a prototype string that looks very much like an invocation of the program, by urbanjost. A call to get_args(3f) or one of its variants is then made for each parameter name to set the variables appropriately in the program.
 
