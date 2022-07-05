@@ -2006,6 +2006,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 [pdfo](https://github.com/pdfo/pdfo): Powell's Derivative-Free Optimization solvers is a cross-platform package
 providing interfaces for using the late M. J. D. Powell's derivative-free optimization solvers, including UOBYQA, NEWUOA, BOBYQA, LINCOA, and COBYLA.
 
+[pdfo_ref](https://github.com/zequipe/pdfo_ref): reference implementation of Powell's derivative-free optimization solvers, namely COBYLA, UOBYQA, NEWUOA, BOBYQA, and LINCOA, by Zhang Zaikun and Tom M. Ragonneau. The goal is to implement these solvers in modern languages --- first modern Fortran (F2003 or later), and then MATLAB, Python, and probably Julia and R. It will be a faithful implementation, in the sense that the new code will be mathematically equivalent to Powell’s, except for the bug fixing and improvements that we make intentionally.
+
 [PowellOpt](https://github.com/jacobwilliams/PowellOpt): collection of derivative-free optimization algorithms by M.J.D. Powell. 
 
 [pso](https://github.com/Konrad1991/pso): particle swarm optimization in Fortran, by Konrad1991
