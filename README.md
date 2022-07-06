@@ -1324,6 +1324,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [Fortran pathlib](https://github.com/scivision/fortran-pathlib): Filesystem path manipulation utilities for standard Fortran, from scivision. Inspired by Python pathlib and C++17 filesystem.
 
+[fortran-sleep](https://github.com/scivision/fortran-sleep): OS/compiler-independent "sleep" Fortran subroutine that calls c_sleep, from scivision
+
 [fortran-sqlite3](https://github.com/interkosmos/fortran-sqlite3): Fortran 2018 interface bindings to SQLite 3, by interkosmos
 
 [Fortran User Defined Exceptions Handler (ForEx)](https://github.com/victorsndvg/ForEx): Fortran 2003 project taking advantage of the C preprocessor capabilities in order to emulate exception handling, by victorsndvg
