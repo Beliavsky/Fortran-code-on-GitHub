@@ -2068,6 +2068,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 [CUDA-Fortran-Book](https://github.com/bakmano737/CUDA-Fortran-Book): example codes included in this directory are a portion of the code samples
 from the companion website to the book [CUDA Fortran for Scientists and Engineers](http://store.elsevier.com/product.jsp?isbn=9780124169708)
 
+[CUDA Fortran: Fortran programming on GPU](https://github.com/Koushikphy/Intro-to-CUDA-Fortran): a complete introduction for beginners by Koushik Naskar
+
 [dmr](https://github.com/giacrossi/dmr):  Fortran 2008 library for mimicking OpenMP device memory routines in Fortran, by Giacomo Rossi
 
 [Elements of high-performance computing](https://github.com/csc-training/elements-of-hpc): general level introduction to high-performance computing, from csc-training
