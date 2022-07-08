@@ -1548,6 +1548,10 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [PCHIP](https://github.com/jacobwilliams/PCHIP): piecewise cubic Hermite interpolation of data, by Jacob Williams. It features software to produce a monotone and "visually pleasing" interpolant to monotone data.
 
+[pytspack](https://github.com/noaa-oar-arl/pytspack): Python wrapper by Barry Baker and Zachary Moon of Robert J. Renka's [TSPACK](http://www.netlib.no/netlib/toms/716), a curve-fitting package based on exponential tension splines with automatic selection of tension factors
+
+TSPACK is a curve-fitting package based on exponential tension splines with automatic selection of tension factors.
+
 [regridpack](https://github.com/jacobwilliams/regridpack): routines for interpolating values between one-, two-, three-, and four-dimensional arrays defined on uniform or nonuniform orthogonal grids, from Jacob Williams
 
 [SHEPPACK](https://github.com/vtopt/sheppack): modified Shepard algorithm for interpolation of scattered multivariate data, by William Thacker and Layne Watson. It is [Algorithm 905](https://dl.acm.org/doi/10.1145/1824801.1824812) of ACM Transactions on Mathematical Software.
