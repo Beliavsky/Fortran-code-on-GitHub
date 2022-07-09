@@ -1334,6 +1334,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [fortran-utils](https://github.com/certik/fortran-utils): Various utilities for Fortran programs, including types, constants, sorting, saving/loading 2D arrays, meshes, cubic splines, saving/loading PPM images, Lapack interface, HDF5 interface, special functions, and optimization, by Ondrej Certik et al.
 
+[fortran-zlib](https://github.com/interkosmos/fortran-zlib): collection of Fortran 2018 ISO_C_BINDING interfaces to selected zlib functions, by interkosmos. Zlib is a lossless data-compression library.
+
 [ForUtils](https://github.com/cmbant/forutils): Fortran 2008 utility functions and reusable classes, by cmbant
 
 [fparser](https://github.com/TREX-CoE/fparser): modern Fortran-based input file parser, from TREX-CoE. It uses a modified libfdf library.
