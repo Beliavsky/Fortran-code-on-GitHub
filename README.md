@@ -1097,6 +1097,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [M_matrix](https://github.com/urbanjost/M_matrix): Fortran callable version of old matlab-like interface, by urbanjost
 
+[shunting-yard-fortran](https://github.com/14NGiestas/shunting-yard-fortran): small expression parser using shunting yard algorithm, by Ian Giestas Pauli
+
 ## Fast Fourier Transform
 [2DECOMP&FFT](https://github.com/BenMql/2decomp_emptyFourierFourier): scalable library for Fourier transforms, derived from 2decomp&fft, by BenMql. Compatible with in-core Chebyshev transforms.
 
