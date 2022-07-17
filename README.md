@@ -1314,6 +1314,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [Fortran IFS and Arpege Toolkit (FIAT)](https://github.com/ecmwf-ifs/fiat): collection of selected Fortran utility libraries, extracted from the IFS/Arpege model, including drhook for tracing, gstats for timing, parkind to choose precision, mpl for MPI communication, mpi_serial for MPI dummy symbols compiled into static library, and other routines
 
+[Fortran Input Parser](https://github.com/nextnano/FortranInputParser): typical application is the reading in of input parameters (input file) and material parameters (database) from two text files for e.g. a scientific code
+
 [fortranlib](https://github.com/astrofrog/fortranlib): Collection of personal scientific routines in Fortran
 
 [Fortran-Library](https://github.com/YifanShenSZ/Fortran-Library): Code for geometry transformations, nonlinear optimization, Fourier transforms, clustering, statistics, mathematics, linear algebra, strings, and chemistry
@@ -1389,7 +1391,7 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [M_stopwatch](https://github.com/urbanjost/M_stopwatch): package for measuring cpu and wall clock execution time by urbanjost, based on [StopWatch](https://math.nist.gov/StopWatch/). It supports the wall clock, CPU clock, and a breakdown of the CPU clock into user and system times.
 
-[Fortran Input Parser](https://github.com/nextnano/FortranInputParser): typical application is the reading in of input parameters (input file) and material parameters (database) from two text files for e.g. a scientific code
+[mytimer](https://github.com/p-costa/mytimer): simple timing routines to be used in codes which use MPI and possibly CUDA, by Pedro Costa
 
 [paramcard](https://github.com/tueda/paramcard): command-line parameter input made simple, by Takahiro Ueda
 
