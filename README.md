@@ -2127,6 +2127,8 @@ Ioannis Nompelis
 
 [Particle-In-Cell Scalable Application Resource (PICSAR)](https://github.com/ECP-WarpX/picsar): high performance repository intended to help scientists porting their Particle-In-Cell (PIC) codes to the next generation of exascale computers. PICSAR exploits the three levels of parallelism that will be required to achieve good performances on future architectures: distributed memory parallelization (internode), shared memory parallelization (intranode) and vectorization.
 
+[RookieHPC](https://github.com/rookiehpc/rookiehpc.github.io): web site covers major technologies in High-Performance Computing (HPC), such as OpenMP and MPI, providing documentation along with examples, as well as exercises and sometimes tools
+
 [rpncomm](https://github.com/mfvalin/rpncomm): MPI-based communication routines for models, by mfvalin
 
 [rwlock](https://github.com/kc9jud/rwlock): simple readers-writer lock in Fortran using OpenMP atomic constructs, by kc9jud. This can be used to protect a memory location which may be read by many threads simultaneously, but only modified by a single thread.
