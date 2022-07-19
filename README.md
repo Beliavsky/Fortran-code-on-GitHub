@@ -1828,6 +1828,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [Field Abstract Calculus Type Usable and Aesthetic Library (FACTUAL)](https://github.com/cmacmackin/factual): provides abstract types to represent mathematical fields in Fortran, by Chris MacMackin. These are both scalar and vector fields. It also contains (at present) one concrete implementation of these types, using a pseudo-spectral approach and tracking field values at Chebyshev collocation points.
 
+[FMPFR](https://github.com/tkoenig1/FMPFR): Fortran binding to the [GNU MPFR Library multi-precision library](https://www.mpfr.org/), by Thomas Koenig
+
 [forlab](https://github.com/zoziha/forlab): module that provides a lot of functions for scientific computing mostly inspired by Matlab and Python's module NumPy, by zoziha
 
 [forSISL](https://github.com/rweed/forSISL): Modern Fortran interfaces to the [SINTEF Spline Library (SISL)](https://github.com/SINTEF-Geometry/SISL), by Richard Weed
