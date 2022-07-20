@@ -2137,6 +2137,8 @@ Ioannis Nompelis
 
 [Simple OpenACC Fortran Examples](https://github.com/jeng1220/openacc_fortran_examples): hosts fundamental, but useful examples, by jeng1220. Each example is just a few dozen lines of code.
 
+[standalone_mpi_f08_module](https://github.com/jeffhammond/standalone_mpi_f08_module): attempt to implement MPI Fortran 2018 support, by Jeff Hammond
+
 [Tensor Algebra Library Routines for Shared Memory Systems: Nodes equipped with multicore CPU, NVIDIA GPU, AMD GPU, and Intel Xeon Phi (TAL_SH)](https://github.com/DmitryLyakh/TAL_SH): implements basic tensor algebra operations with interfaces to C, C++11, and Fortran 90+, by Dmitry I. Lyakh
 
 ## Partial Differential Equations
