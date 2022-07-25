@@ -1870,6 +1870,8 @@ differential equations, and random number generation.
 [Numeric Library for Modern Fortran](https://github.com/degawa/fortran-numeric): scope: Integer (handling integer constants, digits, convert to string with format); 
 Real (handling real constants, convert to string with format); Non-number (handling quiet nan and positive/negative inf as constants, check whether an array of floating-point numbers has at least one quiet nan, positive/negative inf value), by Tomohiro Degawa
 
+[NumFort](https://github.com/AnthonyKalaitzis/NumFort): numerical library for FORTRAN that includes quadpack, lapack, PLplot and Matplotlib source code, by Anthony Kalaitzis and Curtis Abell. It enables the use of handy mathematical macros such as linspace.
+
 [NumLib](https://github.com/ebrooker/NumLib): Numerical Library: Demonstration of various numerical methods/recipes, by ebrooker
 
 [NumericalHUB](https://github.com/jahrWork/NumericalHUB): set of modern Fortran numerical libraries covering: zeroes of Systems of Equations, Lagrange Interpolation, Finite Differences, Cauchy Problems, Boundary Value Problems, and Initial Boundary Value Problems, associated with book [How to learn Applied Mathematics through modern FORTRAN](https://www.amazon.com/Applied-Mathematics-through-modern-FORTRAN/dp/B0851LN6HT) 
