@@ -1979,6 +1979,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [GALAHAD](https://github.com/ralna/GALAHAD): library of modern Fortran modules for nonlinear optimization
 
+[Generalized PROgram for OPTimization (GPROPT)](https://github.com/iarlopes/GPROPT): generic tool to minimize a user-defined objective function, by Igor A. R. Lopes. Several classical methods are implemented along with a genetic algorithm.
+
 [hyperBOB](https://github.com/maxEntropyProd/hyperBOB): Optimization using MPI parallel Latin hypercube sampling and BOBYQA, by maxEntropyProd
 
 [lbfgs](https://github.com/jmbr/lbfgs): L-BFGS Software for Large-scale Unconstrained Optimization by Jorge Nocedal
