@@ -1985,6 +1985,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [hyperBOB](https://github.com/maxEntropyProd/hyperBOB): Optimization using MPI parallel Latin hypercube sampling and BOBYQA, by maxEntropyProd
 
+[J](https://github.com/juhalappi/J): software for mathematical and statistical computations, with special reference to linear programming in forestry, by Juha Lappi
+
 [lbfgs](https://github.com/jmbr/lbfgs): L-BFGS Software for Large-scale Unconstrained Optimization by Jorge Nocedal
 
 [L-BFGS-B](https://github.com/jonathanschilling/L-BFGS-B): limited-memory quasi-Newton code for bound-constrained optimization, i.e., for problems where the only constraints are of the form l <= x <= u. It is intended for problems in which information on the Hessian matrix is difficult to obtain, or for large dense problems.
