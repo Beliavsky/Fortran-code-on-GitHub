@@ -2588,7 +2588,7 @@ and Andrea Rau.
 
 [curvefit](https://github.com/jchristopherson/curvefit): library for fitting functions to sets of data, by jchristopherson
 
-[ecgmm_fortran](https://github.com/minzastro/ecgmm_fortran): Error-Corrected Gaussian Mixture Model algorithm, by Alexey Mints. Based on the paper ao, J., Koester, B. P., Mckay, T. a., Rykoff, E. S., Rozo, E., Evrard, A., Annis, J., et al. (2009). ]Precision Measurements of the Cluster Red Sequence Using an Error-Corrected Gaussian Mixture Model](https://iopscience.iop.org/article/10.1088/0004-637X/702/1/745). The Astrophysical Journal, 702(1), 745–758.
+[ecgmm_fortran](https://github.com/minzastro/ecgmm_fortran): Error-Corrected Gaussian Mixture Model algorithm, by Alexey Mints. Based on the paper Hao, J., Koester, B. P., Mckay, T. a., Rykoff, E. S., Rozo, E., Evrard, A., Annis, J., et al. (2009). [Precision Measurements of the Cluster Red Sequence Using an Error-Corrected Gaussian Mixture Model](https://iopscience.iop.org/article/10.1088/0004-637X/702/1/745). The Astrophysical Journal, 702(1), 745–758.
 
 [em-fortranbox](https://github.com/elmarmertens/em-fortranbox): econometrics modules by Elmar Mertens
 
