@@ -1349,6 +1349,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [ftime](https://github.com/wcdawn/ftime): basic timing routines in Fortran 2003, by William C. Dawn
 
+[Frypto](https://github.com/ffadrique/Frypto): cryptographic library by Fran Martinez Fadrique
+
 [functional-fortran](https://github.com/wavebitscientific/functional-fortran): library for functional programming in modern Fortran
 
 [funx](https://github.com/tranqv/funx): Unix commands from Fortran via calls to C, by tranqv
