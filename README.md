@@ -2656,6 +2656,8 @@ and Andrea Rau.
 
 [treat](https://github.com/plopezrios/treat): tail-regression estimator analysis toolbox to analyze samples distributed according to heavy-tailed distributions of known tail indices, by plopezrios
 
+[tweedie](https://github.com/PeterKDunn/tweedie): R code for Tweedie density calculations, including Fortran 77, by Peter K. Dunn
+
 ## Strings
 [fortran202x_split](https://github.com/milancurcic/fortran202x_split): Fortran implementation of the Fortran 202X split intrinsic subroutine, by 
 Milan Curcic and Sebastian Ehlert
