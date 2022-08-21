@@ -1309,6 +1309,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [flink](https://github.com/huangli712/flink): Flexible Fortran Modules and Subroutines for Scientific Computing
 
+[Fommons](https://github.com/ffadrique/Fommons): collection of common low level components to support XFunit, FTL and Frypto, by Fran Martinez Fadrique
+
 [forbear](https://github.com/szaghi/forbear): progress bar environment by szaghi and jhykes
 
 [Fortran General Library (FGL)](https://github.com/mobius-eng/FGL): code for bitstrings, exception handling, hash tables, lists, logging, queues, strings, sorting, JSON parsing, and other topics, from mobius-eng
