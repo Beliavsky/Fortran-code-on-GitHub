@@ -2101,6 +2101,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [f77_zmq](https://github.com/zeromq/f77_zmq): Fortran 77 binding library for ZeroMQ, an open-source universal messaging library, by Anthony Scemama et al.
 
+[first-timer](https://github.com/p-costa/first-timer): simple timing routines to be used in codes which use MPI and possibly CUDA/OpenACC using NVTX markers, by Pedro Costa
+
 [FGPU](https://github.com/LLNL/FGPU): code examples focusing on porting FORTRAN codes to run DOE heterogenous architecture CPU+GPU machines, from LLNL. The purpose of these is to provide both learning aids for developers and OpenMP and CUDA code examples for testing vendor compilers capabilities.
 
 [focal](https://github.com/LKedward/focal): modern Fortran abstraction layer for OpenCL, by Laurence Kedward
