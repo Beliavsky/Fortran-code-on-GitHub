@@ -2709,6 +2709,8 @@ Milan Curcic and Sebastian Ehlert
 
 [BVARmml](https://github.com/dingshutong/BVARmml): variable selection in Bayesian VAR models via marginalization of marginal likelihood, by dingshutong
 
+[EnKF_analysis](https://github.com/geirev/EnKF_analysis): EnKF (Ensemble Kalman Filter) analysis routines in Fortran 90, by Geir Evensen. Stochastic and SQRT formulations with subspace inversion. There is a related [book](https://enkf.nersc.no/).
+
 [fortsa](https://github.com/zoziha/fortsa): univariate time series analysis and ARIMA modeling package, by zoziha
 
 [fortress](https://github.com/eph/fortress): tools for Bayesian estimation of time series models, by eph
