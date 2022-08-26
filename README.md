@@ -1691,6 +1691,8 @@ generalized eigenvalue problems, from NLAFET
 
 [tt-fort](https://github.com/oseledets/tt-fort): Fortran computing core of the TT-Toolbox. It also includes two slightly customized libraries for doing fast local solvers in eigenvalue and dynamical problems.
 
+[vanhuffel](https://github.com/ivan-pi/vanhuffel): partial total least squares routines from Sabine Van Huffel
+
 ## Materials Science
 [Atom/Molecule/Material Software Kit (atomsk)](https://github.com/pierrehirel/atomsk): command-line program meant to manipulate
 atomic systems, and convert from and to various file formats, by pierrehirel et al.
