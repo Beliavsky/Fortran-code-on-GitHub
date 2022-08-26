@@ -1573,6 +1573,8 @@ TSPACK is a curve-fitting package based on exponential tension splines with auto
 
 [sosie](https://github.com/brodeau/sosie): SOSIE is Only a Surface Interpolation Environment, by brodeau
 
+[spharm-interp](https://github.com/ahbarnett/spharm-interp): MATLAB and Fortran routines for interpolation from scattered points on the sphere via spherical harmonics, by Alex Barnett et al.
+
 [sprint](https://github.com/dongli/sprint): Spherical Remapping and Interpolation library, from dongli
 
 [WenOOF](https://github.com/Fortran-FOSS-Programmers/WenOOF): Weighted Essentially Non-Oscillatory (WENO) interpolation, from Fortran-FOSS-Programmers
