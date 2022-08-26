@@ -2251,6 +2251,8 @@ Ioannis Nompelis
 
 [Quasilinear Electromagnetic Oscillations (QLEO)](https://github.com/pastfalk/QLEO): code based on the quasilinear kinetic equation which self-consistently describes how a given velocity distribution function of a homogeneous gyrotropic plasma evolves in time in the presence of an unstable spectrum of parallel propagating, electromagnetic linear eigenmodes, by Patrick Astfalk. The implemented formalism is based on the quasilinear kinetic equations given in, e.g., 'Methods in Nonlinear Plasma Theory' by R. C. Davidson (1972).
 
+[RAYS](https://github.com/ORNL-Fusion/RAYS): plasma ray tracing code from ORNL-Fusion. The primary objective is to provide a starting point for discussion of what a modern ray tracing code, built on a green-field site might look like.
+
 [SCENE](https://github.com/PlasmaFAIR/SCENE): tokamak equilibrium solver which can generate equilibria in a variety of file formats, from PlasmaFAIR
 
 [stella](https://github.com/stellaGK/stella): solves the gyrokinetic-Poisson system of equations in the local limit using an operator-split, implicit-explicit numerical scheme, by Denis St-Onge et al. It is capable of evolving electrostatic fluctuations with fully kinetic electrons and an arbitrary number of ion species in general magnetic geometry, including stellarators.
