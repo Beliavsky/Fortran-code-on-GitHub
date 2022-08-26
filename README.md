@@ -1064,8 +1064,6 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [MPM3D-F90](https://github.com/xzhang66/MPM3D-F90): simplified Fortran 90 version of MPM3D that serves as the companion open source code for the book X Zhang, Z Chen, Y Liu. [The Material Point Method - A Continuum-Based Particle Method for Extreme Loading Cases](https://www.elsevier.com/books/the-material-point-method/zhang/978-0-12-407716-4). Academic Press, 2016
 
-X Zhang, Z Chen, Y Liu. The Material Point Method - A Continuum-Based Particle Method for Extreme Loading Cases. Academic Press, 2016;
-
 [openfast](https://github.com/OpenFAST/openfast): NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes
 
 [Reference OpenSource Controller (ROSCO) for wind turbine applications](https://github.com/NREL/ROSCO#nrels-reference-opensource-controller-rosco-for-wind-turbine-applications): modular and fully adaptable baseline wind turbine controller to the scientific community, from NREL. Because of the open character and modular set-up, scientists are able to collaborate and contribute in making continuous improvements to the code.
