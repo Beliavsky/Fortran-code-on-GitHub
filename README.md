@@ -1062,7 +1062,7 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [F2A](https://github.com/yang7857854/F2A): aero-hydro-servo-elastic tool developed based on AQWA by Yang Yang, a postdoctoral research associate in Liverpool John Moores University for performing fully coupled analysis of floating offshore wind turbines (FOWT)
 
-[MPM3D-F90](https://github.com/xzhang66/MPM3D-F90): simplified Fortran 90 version of MPM3D that serves as the companion open source code for the book X Zhang, Z Chen, Y Liu. [The Material Point Method - A Continuum-Based Particle Method for Extreme Loading Cases[(https://www.elsevier.com/books/the-material-point-method/zhang/978-0-12-407716-4). Academic Press, 2016
+[MPM3D-F90](https://github.com/xzhang66/MPM3D-F90): simplified Fortran 90 version of MPM3D that serves as the companion open source code for the book X Zhang, Z Chen, Y Liu. [The Material Point Method - A Continuum-Based Particle Method for Extreme Loading Cases](https://www.elsevier.com/books/the-material-point-method/zhang/978-0-12-407716-4). Academic Press, 2016
 
 X Zhang, Z Chen, Y Liu. The Material Point Method - A Continuum-Based Particle Method for Extreme Loading Cases. Academic Press, 2016;
 
