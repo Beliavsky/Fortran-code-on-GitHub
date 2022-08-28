@@ -1287,6 +1287,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [rubik](https://github.com/JeffIrwin/rubik): Rubik's cube command line interface game, by Jeff Irwin
 
+[SDL77](https://github.com/interkosmos/sdl77): C library for game programming in FORTRAN 77 that provides some glue code to access the software renderer of SDL 1.2, by interkosmos
+
 ## General Purpose
 [Algorithms](https://github.com/andreypudov/algorithms): The Laboratory of Algorithms, by Andrey Pudov.
 
