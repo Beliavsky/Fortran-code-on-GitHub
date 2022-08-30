@@ -1844,6 +1844,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [faiNumber-Fortran](https://github.com/kevinhng86/faiNumber-Fortran): fast, flexible, and secure numerical library for Fortran with fast number parsing as one of its features
 
+[fctables](https://github.com/mfontanaar/fctables): computes FC-Gram tables, by Mauro Fontana and sabian2008, using the MPFUN2020 library for arbitrary precision floating point arithmetic. The algorithm is described in the paper [Fourier continuation method for incompressible fluids with boundaries](https://www.sciencedirect.com/science/article/abs/pii/S0010465520302265?via%3Dihub)
+
 [fgsl](https://github.com/reinh-bader/fgsl): Fortran interface to the GNU Scientific Library, by reinh-bader
 
 [Field Abstract Calculus Type Usable and Aesthetic Library (FACTUAL)](https://github.com/cmacmackin/factual): provides abstract types to represent mathematical fields in Fortran, by Chris MacMackin. These are both scalar and vector fields. It also contains (at present) one concrete implementation of these types, using a pseudo-spectral approach and tracking field values at Chebyshev collocation points.
