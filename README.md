@@ -2655,6 +2655,8 @@ and Andrea Rau.
 
 [Multivariate Data Analysis Software in Fortran (and C)](https://mda-sw.github.io/) by Fionn Murtagh 
 
+[npregfast](https://github.com/sestelo/npregfast): R package with Fortran code for obtaining nonparametric estimates of regression models with or without factor-by-curve interactions using local polynomial kernel smoothers or splines, by Marta Sestelo
+
 [Optimal Subset CArdinality Regression models (oscar)](https://github.com/Syksy/oscar): R package with underlying Fortran code by T. D. Laajala
 
 [ParaMonte](https://github.com/cdslaborg/paramonte): Plain Powerful Parallel Monte Carlo and MCMC Library for Python, MATLAB, Fortran, C++, C, from cdslaborg
