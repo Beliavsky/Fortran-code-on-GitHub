@@ -645,6 +645,8 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [lesgo](https://github.com/lesgo-jhu/lesgo): solves the filtered Navier-Stokes equations in the high-Reynolds number limit on a Cartesian mesh, from the Turbulence Research Group at Johns Hopkins University. Originally designed to simulate flow in the atmospheric boundary layer, LESGO has been extended and used to simulate flow over tree canopies, wall-mounted cubes, and wind turbine arrays, among other things.
 
+[https://github.com/sscollis/lns3d](LNS3D compressible Navier-Stokes Solver): part of the [Flow Physics & Simulation](https://flow-physics-simulation.github.io/flow-physics-simulation/) code suite of fluid mechanics analysis codes to explore linear and nonlinear phenomena, primarily for compressible flows, by S. Scott Collis
+
 [MagIC](https://github.com/magic-sph/magic): simulates fluid dynamics in a spherical shell. MagIC solves for the Navier-Stokes equation including Coriolis force, optionally coupled with an induction equation for Magneto-Hydro Dynamics (MHD), a temperature (or entropy) equation and an equation for chemical composition under both the anelastic and the Boussinesq approximations.
 
 [MF-LBM](https://github.com/lanl/MF-LBM): Portable, Scalable and High-performance Lattice Boltzmann Code for DNS of Flow in Porous Media, from LANL
