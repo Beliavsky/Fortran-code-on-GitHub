@@ -1193,6 +1193,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [stl-fortran](https://github.com/jacobwilliams/stl-fortran): Fortran STL (stereolithography) File I/O, by Jacob Williams
 
+[table-for-fortran](https://github.com/aschneeberger/table-for-fortran): table for Fortran working in a similar way as for Astropy or pandas, by aschneeberger. Currently reads and writes csv.
+
 [toml-f](https://github.com/toml-f/toml-f): TOML parser implementation for data serialization and deserialization in Fortran
 
 [Unidata NetCDF Fortran Library](https://github.com/Unidata/netcdf-fortran): The Unidata network Common Data Form (netCDF) is an interface for scientific data access and a set of freely-distributed software libraries that provide an implementation of the interface. The netCDF library also defines a machine-independent format for representing scientific data.
