@@ -1189,6 +1189,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [Return of JSON for Fortran (rojff)](https://github.com/everythingfunctional/rojff): with an interface inspired by [jsonff](https://gitlab.com/everythingfunctional/jsonff), the data semantics and parser are redesigned to allow for high performance, by Brad Richardson and kmorris
 
+[SDF_FORTRAN](https://github.com/Warwick-Plasma/SDF_FORTRAN): library for accessing files in the SDF (self-descibing file) format, by Keith Bennett et al.
+
 [serialbox](https://github.com/GridTools/serialbox): data serialization library and tools for C/C++ and Fortran, from GridTools
 
 [stl-fortran](https://github.com/jacobwilliams/stl-fortran): Fortran STL (stereolithography) File I/O, by Jacob Williams
