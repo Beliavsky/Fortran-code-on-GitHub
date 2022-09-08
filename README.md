@@ -1555,6 +1555,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [python-fortran](https://github.com/pnavaro/python-fortran): Python-Fortran bindings examples, by Pierre Navaro
 
+[python_from_fortran](https://github.com/halungge/python_from_fortran): examples of calling Python from Fortran using CFFI or [Forpy](https://github.com/ylikx/forpy), by halungge
+
 [statamod](https://github.com/ajshephard/statamod): provides read/write access for Stata datasets from within Fortran, by Andrew Shephard
 
 [Tcl/Tk 8.6 for Fortran 2018](https://github.com/interkosmos/fortran-tcl86): ISO_C_BINDING interface library for interoperability with Tcl/Tk 8.6, by interkosmos, allowing the user to embed Tcl into Fortran, create Tcl extensions in Fortran (with Tcl Stubs), access (a subset of) the Tcl/Tk C API from Fortran, use Tcl as an evaluatable configuration file format, and add graphical user interfaces to Fortran programs.
