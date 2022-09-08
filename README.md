@@ -1456,6 +1456,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [f03gl](https://github.com/dcesari/f03gl): project is derived from the pioneering work of Anthony Stone and Aleksandar Donev for creating a complete Fortran interface to the OpenGL library along with GLU and GLUT libraries using the F2003 ISO_C_BINDING intrinsic module, by dcesari
 
+[fortran-gdlib](https://github.com/johandweber/fortran-gdlib): Fortran binding for the [GD graphics library](https://libgd.github.io/), by Johann Andreas Weber
+
 [fortran-sdl2](https://github.com/interkosmos/fortran-sdl2): collection of ISO C binding interfaces to Simple DirectMedia Layer 2.0 (SDL 2.0), for 2D and 3D game programming in Fortran, by interkosmos
 
 [FortGL](https://github.com/lewisfish/FortGL): 3D software rendering in pure Fortran, by lewisfish
