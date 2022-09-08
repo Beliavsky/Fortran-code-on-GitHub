@@ -1224,6 +1224,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [NASTRAN-95](https://github.com/nasa/NASTRAN-95): NASA Structural Analysis System, a finite element analysis program (FEA) completed in the early 1970's
 
+[OpenRadioss](https://github.com/OpenRadioss/OpenRadioss): industry-proven analysis solution that helps users evaluate and optimize product performance for highly nonlinear problems under dynamic loadings. For more than 30 years, organizations have used Altair Radioss to streamline and optimize the digital design process, replace costly physical tests with quick and efficient simulation, and speed up design optimization iterations.
+
 [ParaFEM](https://github.com/ParaFEM/ParaFEM): open source parallel finite element analysis library that is documented by the text book "Programming the Finite Element Method"
 
 [ParallelFEM-Fortran](https://github.com/chennachaos/PFEMFort): Parallel programming for Finite Element Analysis using Fortran and PETSc, by chennachaos. This code includes several parallel implementations for the Lapalace equation and linear elasticity in 2D and 3D. 
