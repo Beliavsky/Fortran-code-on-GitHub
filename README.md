@@ -1823,6 +1823,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [Fortran FLANN binding](https://github.com/ivan-pi/fortran-flann): Fortran bindings to the FLANN library for performing fast approximate nearest neighbor searches in high dimensional spaces, by ivan-pi
 
+[fortran-ml-bridge](https://github.com/Cambridge-ICCS/fortran-ml-bridge): code and examples on directly calling Tensorflow / Pytorch / Keras ML models from Fortran, by Athena Elafrou et al.
+
 [fortran-NeuralNetwork](https://github.com/Jonas-Finkler/fortran-NeuralNetwork): Simple implementation of a neural network, implemented in Fortran, by Jonas-Finkler
 
 [Fortran-Torch-Adapter](https://github.com/luc99hen/FTA): integrates a deep learning model into a Fortran environment, by luc99hen
