@@ -2697,6 +2697,8 @@ and Andrea Rau.
 
 [Spatial Locally Weighted Regression](https://github.com/XiaosuTong/Spaloess): enhancements to the loess implementation that comes with base R, by XiaosuTong. Most of computation in FORTRAN are kept as same in loess function except the distance calculation.
 
+[statislib](https://github.com/Jim-215-Fisher/statislib): library for statistical distributions, by Jim-215-Fisher. The library includes various distributions' random number generators, probability density function or probability mass function, and cumulative distribution function.
+
 [statTools](https://github.com/AstroFloyd/statTools): command-line tools for simple statistics, by AstroFloyd
 
 [STooDs](https://github.com/STooDs-tools/STooDs): framework to build and estimate probabilistic models for data varying in space, time or other dimensions, by Ben Renard
