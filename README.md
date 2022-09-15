@@ -2655,6 +2655,8 @@ and Andrea Rau.
 
 [Functional Single Index Model (FSIM)](https://github.com/sbaek306/FSIM): codes for simulations and real data analysis, which appears in the manscript entitled, "Functional Single Index Model" by Jiang, F., Baek, S., Cao, J., and Ma, Y.
 
+[get_moments](https://github.com/danieljprice/get_moments): maximum entropy based reconstruction of a function from its moments, by Daniel Price
+
 [gslib2.0: Geostatistical Software Library](https://github.com/exepulveda/gslib2.0): aims to create a modern version of the original GSLIB source code, by exepulveda
 
 [inference](https://github.com/tloredo/inference): Python modules for statistical inference, including the Parametric Inference Engine (PIE), with underlying Fortran code, by Tom Loredo
