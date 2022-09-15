@@ -2059,6 +2059,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [nonlin](https://github.com/jchristopherson/nonlin): solves systems of nonlinear equations, by jchristopherson
 
+[Open source Fortran Simulated Annealing Module (OpenFSAM)](https://github.com/nfherrin/OpenFSAM): module that can be generally assigned to solve a simulated annealing optimization problem, by Nicholas Herring. A user can easily add this module to any existing modern Fortran program since the module is self contained and sufficiently abstracted.
+
 [osqp-fortran](https://github.com/osqp/osqp-fortran): Fortran wrapper for OSQP: the Operator Splitting QP Solver
 
 [Particle Swarm Optimization (PSO) code in Fortran 95](https://github.com/zaman13/Particle-Swarm-Optimization-Fortran-95): general code that can be used with any fitness function, by Mohammad Asif Zaman
