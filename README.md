@@ -1163,6 +1163,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [json-fortran](https://github.com/jonathanschilling/json-fortran): KISS Fortran routines to write (multi-dimensional) data as JSON, by Jonathan Schilling
 
+[nmlinput.f90](https://github.com/loicreynier/nmlinput.f90): helper routines to use namelists as input files, by Loïc Reynier
+
 [Object-oriented Fortran 2018 HDF5 interface](https://github.com/fccf/hdf5_interface): very simple single-file/module access to HDF5, by fccf. More advanced object-oriented Fortran HDF5 access is also available but not compatible with HDF5 1.10 like this program.
 
 [HDF5 wrapper](https://github.com/mpickem/hdf5_wrapper): minimalistic hdf5 wrapper for Fortran90/95, by Matthias Pickem
