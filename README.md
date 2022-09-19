@@ -1996,6 +1996,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [ODEPACK](https://github.com/cfinch/odepack): re-packaging of the ODEPACK differential equation library, with improved HTML documentation, by cfinch
 
+[odepack](https://github.com/Nicholaswogan/odepack): Modern Fortran interface by Nick Wogan for the LSODA and LSODAR routines in ODEPACK, which is for solving ordinary differential equation initial value problems. This repository contains a modified version of ODEPACK which is threadsafe.
+
 [rksuite](https://github.com/jacobwilliams/rksuite): Runge-Kutta methods for the numerical solution of the initial value problem for a first order system of ordinary differential equations
 
 [rkf45](https://github.com/zoziha/rkf45): Fehlberg fourth-fifth order Runge-Kutta method, adapted by zoziha from the code at Netlib
