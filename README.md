@@ -565,6 +565,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [qContainers](https://github.com/darmar-lt/qcontainers): container library for Fortran language. It enables one to store any internal Fortran data type and any derived data type to the container. It implements containers for key/value pairs: tree table and hash table, and containers for objects: list and vector.
 
+[smart-pointers](https://github.com/sourceryinstitute/smart-pointers): tracks references to program resources and automates the freeing of those resources if and only if the reference count drops to zero, by Damian Rouson et al. Most commonly, the reference is a pointer and the resource is memory.
+
 [VectorClass](https://github.com/thchang/VectorClass): Fortran 2003 dynamic memory array that functions similarly (but not identically) to the C++ Vector class, by Tyler Chang
 
 ## Computational Fluid Dynamics
