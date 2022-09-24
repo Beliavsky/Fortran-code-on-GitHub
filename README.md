@@ -181,6 +181,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [pymoog](https://github.com/MingjieJian/pymoog): Python 3 wrapper for running the LTE spectrum synthesis part of the Fortran code [MOOG](https://www.as.utexas.edu/~chris/moog.html) by Chris Sneden
 
+[python-fsps](https://github.com/dfm/python-fsps): Python bindings to Charlie Conroy's Flexible Stellar Population Synthesis (FSPS) Fortran code
+
 [RADMC-3D Version 2.0](https://github.com/dullemond/radmc3d-2.0): computes the observational appearance of an astrophysical object on the sky of the observer, by dullemond. It solves the non-local radiative transfer problem of dusty media, including thermal radiative transport and scattering.
 
 [radtrancode](https://github.com/nemesiscode/radtrancode): radiative transfer calculations and retrievals, originally written in Oxford University.
