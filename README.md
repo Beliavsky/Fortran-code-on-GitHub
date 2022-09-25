@@ -1155,6 +1155,9 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [Fortran Data Compression](https://github.com/SokolAK/Fortran-Data-Compression): sample programs demonstrating the ability to compress/decompress data on the fly when writing to or reading from a file in Fortran using named pipes (FIFOs), by SokolAK
 
+[io_utilities](https://github.com/arjenmarkus/io_utilities): modules to help with input and output, by Arjen Markus: <b>cmdparse</b> parser for minimalistic commands (keyword and zero or more arguments), <b>keyvars</b> read in INI-files and fill in the values of the variables automatically, can also save the data in an INI-file, 
+<b>progressbar</b> present a progress bar on the screen (supports different styles)
+
 [json-fortran-benchmarks](https://github.com/jacobwilliams/json-fortran-benchmarks): benchmarks for JSON Fortran parsers, by jacobwilliams. Also comparison to Python. Discussed [here](https://fortran-lang.discourse.group/t/a-new-json-library/2197/11)
 
 [Fortran-YAML](https://github.com/BoldingBruggeman/fortran-yaml): lightweight YAML parser written in object-oriented Fortran, by jombr et al.
