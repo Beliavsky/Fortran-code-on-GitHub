@@ -2837,6 +2837,8 @@ Milan Curcic and Sebastian Ehlert
 
 [Fortran Unit Test Framework (FortUTF)](https://github.com/artemis-beta/FortUTF): unit test framework written purely in Fortran to be compatible with as many projects as possible, by Kristian Zarębski
 
+[Fortran Unit Testing Objects (Fortuno)](https://github.com/aradi/fortuno): flexible and extensible Fortran unit testing framework for testing serial, MPI-parallelized and coarray-parallelized applications, by Bálint Aradi
+
 [FUnit](https://github.com/andreypudov/funit): lightweight library for writing, administering, and running unit tests in Fortran, by Andrey Pudov. It is an instance of the xUnit architecture and provides Fortran programmers a basic testing functionality with a flexible variety of user interfaces.
 
 [FyTest — Instant Fortran unit testing](https://github.com/aradi/fytest): lightweight unit testing framework for Fortran, by Bálint Aradi. Thanks to its header-only design, it can be easily bundled with any Fortran project without creating extra dependencies. 
