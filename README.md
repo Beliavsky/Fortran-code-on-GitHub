@@ -1669,6 +1669,8 @@ generalized eigenvalue problems, from NLAFET
 
 [LUSOL](https://github.com/Rioghasarig/trlu): maintains LU factors of a square or rectangular sparse matrix. This repository provides LUSOL source code and a Matlab interface.
 
+[madrigal](https://github.com/octoflar/madrigal): matrix derivative tests for forward and reverse mode AD, by R. Quast
+
 [M_blas](https://github.com/urbanjost/M_blas): Fortran BLAS library implemented as a free-format module, by urbanjost
 
 [Minimum Split Checkerboard Decomposition (MSCBDECOMP)](https://github.com/CaptainSifff/mscbdecomp): obtain sparse representations of the matrix exponential, by CaptainSifffl. Reference: Minimal Split Checkerboard Method for Exponentiating Sparse Matrices and Its Applications in Quantum Statistical Mechanics, by Che-Rung Lee, SIAM J. Sci. Comput. 35-2 (2013), pp. C143-C171, https://doi.org/10.1137/110838716
