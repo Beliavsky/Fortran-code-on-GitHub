@@ -2666,6 +2666,8 @@ and Andrea Rau.
 
 [ferre](https://github.com/callendeprieto/ferre): matches models to data, taking a set of observations and identifying the model parameters that best reproduce the data, in a chi-squared sense, by callendeprieto and holtzmanjon
 
+[fitpack](https://github.com/perazz/fitpack): modern Fortran translation by Federico Perini of the [FITPACK](http://www.netlib.org/dierckx) package for curve and surface fitting by Paul Dierckx
+
 [Fortran](https://github.com/nevillejackson/Fortran): programs and subroutine libraries useful in statistical analysis and quantitative genetics. Some are by Neville Jackson and others are collected from the public domain.
 
 [fortran-gmm-EM](https://github.com/Jonas-Finkler/fortran-gmm-EM): extremely efficient implementation of the expectation maximization (EM) algorithm for Gaussian mixtures in Fortran, by Jonas-Finkler
