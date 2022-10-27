@@ -847,8 +847,9 @@ engine, by montagdude and Geoff Sokoll
 
 [GSFLOW](https://github.com/rniswon/gsflow_v2): coupled Groundwater and Surface-water FLOW model based on the integration of the USGS Precipitation-Runoff Modeling System (PRMS-V) and the USGS Modular Groundwater Flow Model (MODFLOW-2005 and MODFLOW-NWT), by Steve Regan et al.
 
-[Halfspace deformation (hdef)](https://github.com/mherman09/Hdef): forward calculation of displacements, strains, and stresses in an elastic half-space. The sources are fault
-slip models, using the solutions derived in Okada (1992) and in Meade (2007).
+[GSW-Fortran](https://github.com/TEOS-10/GSW-Fortran): Gibbs-SeaWater Oceanographic Toolbox in Fortran, by Glenn Hyland et al.
+
+[Halfspace deformation (hdef)](https://github.com/mherman09/Hdef): forward calculation of displacements, strains, and stresses in an elastic half-space. The sources are fault slip models, using the solutions derived in Okada (1992) and in Meade (2007).
 
 [Harmonized Emissions Component (HEMCO)](https://github.com/geoschem/HEMCO): computing (atmospheric) emissions from different sources, regions, and species on a user-defined grid, from geoschem. It can combine, overlay, and update a set of data inventories ('base emissions') and scale factors, as specified by the user through the HEMCO configuration file.
 
