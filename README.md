@@ -2781,7 +2781,7 @@ Milan Curcic and Sebastian Ehlert
 
 [stringmod](https://github.com/tcanich/stringmod): Fortran 2008 module by Tom Canich providing string manipulation functions: strtok, ntoken, to_upper, to_lower, rev
 
-[stringParseMods](https://github.com/stewmasterj/stringParseMods): routines for easy string parsing and for geometric domains, by stewmasterj
+[stringParseMods](https://github.com/stewmasterj/stringParseMods): routines for easy string parsing and for geometric domains, by Ross J. Stewart
 
 ## Time Series
 [ACFbyFFT](https://github.com/lingtikong/ACFbyFFT): evaluates the auto(cross)-correlation of data in one or more columns of a file, by using the fftw 3.1.2 libraries, by lingtikong
