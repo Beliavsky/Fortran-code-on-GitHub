@@ -2611,7 +2611,7 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [randomField](https://github.com/cottereau/randomField): generation of random fields with prescribed first-order marginal distribution and correlation structure over structured grids or non-structured point arrays, by cottereau
 
-[rng_fortran](https://github.com/jannisteunissen/rng_fortran): generates random integers, uniform, normal, and Poisson variates, and random points on a circle or sphere, by jannisteunissen
+[rng_fortran](https://github.com/jannisteunissen/rng_fortran): generates random integers, uniform, normal, and Poisson variates, and random points on a circle or sphere, using the xoroshiro128plus generator, by jannisteunissen
 
 [xoshiro-fortran](https://github.com/DSCF-1224/xoshiro-fortran): implementation of xoshiro/xoroshiro in Fortran 2008, by DSCF-1224
 
