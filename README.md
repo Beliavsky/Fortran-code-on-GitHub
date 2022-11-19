@@ -807,6 +807,8 @@ engine, by montagdude and Geoff Sokoll
 
 [European Regional Seas Ecosystem Model (ERSEM)](https://github.com/pmlmodelling/ersem): marine ecosystem model that describes the biogeochemical cycling of carbon, nitrogen, phosphorus, silicon, oxygen and iron through pelagic and benthic ecosystems.
 
+[fastscapelib-fortran](https://github.com/fastscape-lem/fastscapelib-fortran): Fortran (+ Python bindings) library of efficient algorithms for landscape evolution modeling, by Benoit Bovy et al.
+
 [fd3d_tsn_pt](https://github.com/fgallovic/fd3d_tsn_pt): earthquake dynamic source inversion by parallel tempering, by fgallovic and valelu
 
 [FE-Project](https://github.com/ywkawai/FE-Project): library for dynamical cores of atmosphere and ocean models with discontinuous Galerkin finite element method, by ywkawai
