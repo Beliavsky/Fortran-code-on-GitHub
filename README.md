@@ -1680,7 +1680,7 @@ generalized eigenvalue problems, from NLAFET
 
 [LUSOL](https://github.com/Rioghasarig/trlu): maintains LU factors of a square or rectangular sparse matrix. This repository provides LUSOL source code and a Matlab interface.
 
-[madrigal](https://github.com/octoflar/madrigal): matrix derivative tests for forward and reverse mode AD, by R. Quast
+[madrigal](https://github.com/octoflar/madrigal): matrix derivative tests for forward and reverse mode automatic differentiation, by R. Quast
 
 [M_blas](https://github.com/urbanjost/M_blas): Fortran BLAS library implemented as a free-format module, by urbanjost
 
