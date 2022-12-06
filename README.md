@@ -421,6 +421,8 @@ simulating and forecasting meteorological phenomena.
 
 [fazang](https://github.com/yizhang-yiz/fazang): library for reverse-mode automatic differentiation, inspired by Stan/Math library, by Yi Zhang
 
+[fortran2018-conditional-memory](https://github.com/kevinmatthes/fortran2018-conditional-memory): library for the conditional allocation and deallocation of allocatable objects of Fortran intrinsic types, by Kevin Matthes 
+
 [Fortran Debug Utilities](https://github.com/plevold/fortran-debug-utils): collection of some utilities useful for debugging code, by Pål Levold
 
 [fortran-git](https://github.com/interkosmos/fortran-git): Fortran 2008 ISO C binding interfaces to [libgit2](https://github.com/libgit2/libgit2), by interkosmos
