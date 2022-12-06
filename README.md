@@ -1514,6 +1514,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [M_pixel](https://github.com/urbanjost/M_pixel): creates pixel images with a vector-oriented graphics library that emulates a subset of the [M_draw](https://github.com/urbanjost/M_draw) vector graphics library, by urbanjost. It is supplemented with additional modules that read and write GIF files, including animated GIFs.
 
+[M_slices](https://github.com/urbanjost/M_slices): basic slice plot module based on M_draw(3f), by urbanjost. A 3-d surface is plotted by plotting slices through the volume which are parallel to the x-y plane. 
+
 [ogpf](https://github.com/kookma/ogpf): Object-Based Interface to GnuPlot from Fortran, by kookma
 
 [PG2PLplot](https://github.com/AstroFloyd/PG2PLplot): facilitate the transition from Fortran code linked against [PGPlot](https://sites.astro.caltech.edu/~tjp/pgplot/) to linking it against [PLplot](http://plplot.sourceforge.net/), which is open source and maintained. Currently, many PGPlot routines are included, but the code is by no means exhaustive.
