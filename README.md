@@ -527,6 +527,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 ## Containers and Generic Programming
 [ClassicalDataStructuresF95](https://github.com/truongd8593/ClassicalDataStructuresF95): classical data structures such as the singly linked list and stack, by truongd and Sesshōmaru
 
+[collections](https://github.com/jchristopherson/collections): set of types supporting collections in Fortran, by Jason Christopherson. Currently, the library contains a generic, dynamically sizable list and a generic linked-list type.
+
 [fdict](https://github.com/zerothi/fdict): native Fortran 90 dictionary with hash tables for retaining any data-type in a Python-like dictionary, by Nick Papior
 
 [fhash](https://github.com/LKedward/fhash): hash table with support for generic keys and values, by Laurence Kedward
