@@ -2600,6 +2600,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [STB](https://github.com/MRedies/STB): Simple Tight-binding, by MRedies
 
+[TBmodels](https://github.com/aamaricci/TBmodels): collection of non-interacting Tight Binding models, often used as a basis for interacting problem calculations, by Adriano Amaricci
+
 [Tight-binding parameter FITting package (TBFIT) for Slater-Koster method](https://github.com/Infant83/TBFIT): program for numerical tight-binding parameter fitting mainly based on Slater-Koster scheme and tight-binding calculations for the electronic band structures of given atomic and electronic configurations with a simple input interfaces, by Hyun-Jung Kim. Basically TBFIT fits Slater-Koster parameters including scaling factors to your target first-principles band structure.
 
 [VALENCE](https://github.com/VALENCE-software/VALENCE): Massively Parallel Implementation of Variational Subspace Valence Bond, by Graham D. Fletcher et al.
