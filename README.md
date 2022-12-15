@@ -1412,6 +1412,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [fuuid4](https://github.com/PlasmaFAIR/fuuid4): generates random (version 4) Universally Unique Identifiers (UUIDs). Fuuid4 can either wrap the libuuid generator, or use the bundled Mersenne Twister psuedo-random number generator (PRNG) to generate UUIDs itself.
 
+[fwalk](https://github.com/freevryheid/fwalk): Fortran bindings by Andre Smit for [libcwalk](https://github.com/likle/cwalk), a lightweight C path manipulation library for Unix and Windows
+
 [general-purpose-fortran](https://github.com/urbanjost/general-purpose-fortran): non-numeric tasks such as command-line parsing, string functions, date-and-time manipulation and display, interfacing to the C POSIX system routines, by urbanjost
 
 [hwloc-fortran](https://github.com/scivision/hwloc-fortran): simple Fortran binding for HWLOC to get CPU count, with fallback to alternative methods, from scivision. Provides Fortran module hwloc_ifc with integer(int32) function get_cpu_count().
