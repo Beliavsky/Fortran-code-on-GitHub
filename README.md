@@ -2395,6 +2395,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [IrisFDTD-Academic](https://github.com/IrisFDTD/IrisFDTD-Academic): implements the Finite-Difference Time-Domain (FDTD) method. It is a "toy version" of the [IrisFDTD](https://github.com/IrisFDTD/IrisFDTD) program, a Maxwell’s equations solver in the field of computational electrodynamics for photonics and nanotechnology, by Sergio G Rodrigo.
 
+[LibForQ](https://github.com/jonasmaziero/LibForQ): performs several numerical tasks one frequently needs when working in quantum information science, such as trace, partial trace, and partial transpose; entanglement, discord, and coherence quantifiers; Pauli group (PG), Generalized Gell Mann Matrices (GGMM), and Bloch vector and correlation matrix with GGMM, by Jonas Maziero
+
 [kmos](https://github.com/mhoffman/kmos): kMC on steroids: A vigorous attempt to make lattice kinetic Monte Carlo modelling easier, by mhoffman et al.
 
 [Koko Optical Design Software (KODS)](https://github.com/dinosauria123/Koko): raytracing software for the design and analysis of optical imaging and illumination systems. Koko has evolved from the optics design program KDP-2 that was made open-source by its original developer James E. Klein.
