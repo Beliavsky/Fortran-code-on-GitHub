@@ -791,7 +791,9 @@ engine, by montagdude and Geoff Sokoll
 
 [Data Interpolating Empirical Orthogonal Functions (DINEOF)](https://github.com/aida-alvera/DINEOF): EOF-based method to fill in missing data from geophysical fields, such as clouds in sea surface temperature. For more information on how DINEOF works, please refer to Alvera-Azcarate et al (2005) and Beckers and Rixen (2003).
 
-[Data-Interpolating Variational Analysis (DIVA)](https://github.com/gher-ulg/DIVA): spatial interpolation of data (analysis) in an optimal way, comparable to optimal interpolation (OI), by Sylvain Watelet et al. In comparison to OI, it takes into account coastlines, sub-basins and advection. 
+[Data-Interpolating Variational Analysis (DIVA)](https://github.com/gher-ulg/DIVA): spatial interpolation of data (analysis) in an optimal way, comparable to optimal interpolation (OI), by Sylvain Watelet et al. In comparison to OI, it takes into account coastlines, sub-basins and advection.
+
+[D-Claw](https://github.com/geoflows/D-Claw): numerical software for modeling granular-fluid flows. It is built on top of Clawpack (clawpack.org), and is an extension and generalization of the shallow-water code GeoClaw (geoclaw.org), which includes algorithms for general shallow earth-surface flows.
 
 [defmod-swpc](https://github.com/Chunfang/defmod-swpc): fault rupture (defmod) and wave propagation (swpc), by Chunfang
 
