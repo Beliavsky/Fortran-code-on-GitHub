@@ -1105,6 +1105,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [FException](https://github.com/csbrady-warwick/FException): provide an easy but flexible mechanism for handling errors in Fortran, from csbrady-warwick. FException does not try to implement C++/Python style exceptions but has its own approach that is a mixture of classical exceptions with propagating error codes
 
+[Fortran-Assertion-Module](https://github.com/alecksandr26/Fortran-Assertion-Module): simple module which adds an assertion function, by alecksandr26. It works by enabling -cpp the c preprocesor directives in the Fortran compiler.
+
 [Fortran Error Handler](https://github.com/samharrison7/fortran-error-handler): universal and comprehensive solution for applications requiring functional and robust error handling, utilising the power of modern object-oriented Fortran, by Sam Harrison and KellerV
 
 [Fortran Error Handling](https://github.com/SINTEF/fortran-error-handling): makes error handling easier by providing a type, error_t, to indicate if a procedure invocation has failed, from SINTEF. Errors can be handled gracefully and context can be added while returning up the call stack. It is also possible to programmatically identify and handle certain types or errors without terminating the application. It generate stacktraces along with any error when combined with the [Fortran Stacktrace](https://github.com/SINTEF/fortran-stacktrace) library, which enables generation of stacktraces for Fortran by wrapping the C++ library [backward-cpp](https://github.com/bombela/backward-cpp).
