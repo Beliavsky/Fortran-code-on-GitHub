@@ -949,6 +949,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [PyGeopack](https://github.com/mattkjames7/PyGeopack): Wrapper for the [geopack-08](https://geo.phys.spbu.ru/~tsyganenko/Geopack-2008.html) Fortran code used for the Tsyganenko magnetic field models
 
+[pygtide](https://github.com/hydrogeoscience/pygtide): Python module that wraps around [ETERNA PREDICT 3.4](http://igets.u-strasbg.fr/soft_and_tool.php) which is compiled from Fortran into an executable using f2py. The original ETERNA PREDICT 3.3 was written by H.-G. Wenzel in a mix of Fortran 77 and 90.
+
 [pyOM2](https://github.com/ceden/pyOM2): ocean circulation model with Fortran and Python front end, by ceden
 
 [PyRaysum](https://github.com/paudetseis/PyRaysum):g enerates sets of ray-theoretical seismograms for an incident plane wave (teleseismic approximation) for models consisting of a stack of layers with planar but nonparallel (dipping) interfaces, allowing the possibility of anisotropy in the layers. Incident P and S waves are supported.
