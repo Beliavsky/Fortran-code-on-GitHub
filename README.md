@@ -693,6 +693,8 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [phasta](https://github.com/PHASTA/phasta): Parallel Hierarchic Adaptive Stabilized Transient Analysis of compressible and incompressible Navier Stokes equations
 
+[Propeller Panel Method (PROPAN)](https://github.com/joaomrbaltazar/PROPAN): panel code for the calculation of steady and unsteady potential flow around foils, open and ducted propellers, and wind and marine current turbines. PROPAN was developed by MARETEC (Marine and Environmental Technology Research Centre) at Instituto Superior Técnico (IST), which belongs to Lisbon University.
+
 [ransfoil](https://github.com/sdhzhs/ransfoil): console to simulate airflow around an airfoil based on RANS approach
 
 [Rayleigh - dynamo in spherical geometry](https://github.com/geodynamics/Rayleigh): 3-D convection code designed for the study of dynamo behavior in spherical geometry. It evolves the incompressible and anelastic MHD equations in spherical geometry using a pseudo-spectral approach. 
