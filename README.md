@@ -2779,6 +2779,8 @@ Milan Curcic and Sebastian Ehlert
 
 [fortran-pcre2](https://github.com/interkosmos/fortran-pcre2): Fortran 2018 ISO_C_BINDING interfaces to Perl-compatible Regular Expressions 2 (PCRE2), by interkosmos
 
+[fortran-regex](https://github.com/perazz/fortran-regex): port by Federico Perini of the [tiny-regex-c](https://github.com/kokke/tiny-regex-c) library for regular expressions. It is based on the original C implementation, but the API is modelled in Fortran style, which is similar to the intrinsic index function.
+
 [fortran-strings](https://github.com/eengl/fortran-strings): library and module which contains functions for common string manipulations, by eengl
 
 [Fortran-String-to-Real](https://github.com/Carltoffel/Fortran-String-to-Real): converts strings to reals without using an internal read, by Carltoffel
