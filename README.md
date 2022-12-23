@@ -2719,7 +2719,9 @@ and Andrea Rau.
 
 [fsklearn](https://github.com/zhoutengye/fsklearn): simple module for machine learning in Fortran using scikit-learn, by Zhouteng Ye. The module can be used to do training and prediction in Fortran, the training part uses scikit-learn library by calling Python from Fortran, and the prediction part, as it may be called frequently by a Fortran code, is written in Fortran 2003.
 
-[Functional Single Index Model (FSIM)](https://github.com/sbaek306/FSIM): codes for simulations and real data analysis, which appears in the manscript entitled, "Functional Single Index Model" by Jiang, F., Baek, S., Cao, J., and Ma, Y.
+[fstats](https://github.com/jchristopherson/fstats): modern statistical library containing routines for computing basic statistical properties, hypothesis testing, regression, special functions, and even experimental design, by Jason Christopherson
+
+[Functional Single Index Model (FSIM)](https://github.com/sbaek306/FSIM): codes for simulations and real data analysis, which appears in the manuscript entitled, "Functional Single Index Model" by Jiang, F., Baek, S., Cao, J., and Ma, Y.
 
 [get_moments](https://github.com/danieljprice/get_moments): maximum entropy based reconstruction of a function from its moments, by Daniel Price
 
