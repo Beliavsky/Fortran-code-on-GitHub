@@ -1706,13 +1706,15 @@ generalized eigenvalue problems, from NLAFET
 
 [M_blas](https://github.com/urbanjost/M_blas): Fortran BLAS library implemented as a free-format module, by urbanjost
 
+[mfi](https://github.com/14NGiestas/mfi): modern Fortran Interfaces to BLAS and LAPACK, by 14NGiestas
+
 [Minimum Split Checkerboard Decomposition (MSCBDECOMP)](https://github.com/CaptainSifff/mscbdecomp): obtain sparse representations of the matrix exponential, by CaptainSifffl. Reference: Minimal Split Checkerboard Method for Exponentiating Sparse Matrices and Its Applications in Quantum Statistical Mechanics, by Che-Rung Lee, SIAM J. Sci. Comput. 35-2 (2013), pp. C143-C171, https://doi.org/10.1137/110838716
 
 [M_LA](https://github.com/urbanjost/M_LA): small collection of routines primarily associated with linear algebra, by urbanjost
 
-[mfi](https://github.com/14NGiestas/mfi): modern Fortran Interfaces to BLAS and LAPACK, by 14NGiestas
-
 [minila](https://github.com/ghbrown/minila): lightweight, standalone set of common linear algebraic operations for vectors and matrices, by Gabriel Brown
+
+[minres](https://github.com/willdickson/minres): implementation of MINRES by Will Dickson based on the original Fortran 90 code by Chris Paige, Sou-Cheng Choi, and Michael Saunders, which solves sparse symmetric systems Ax = b
 
 [moa-fortran](https://github.com/wyphan/moa-fortran): Mathematics of Arrays library for modern Fortran, by Wileam Y. Phan
 
