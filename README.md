@@ -2427,6 +2427,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [MDCM](https://github.com/MMunibas/MDCM): Machine learning code to fit Minimal Distributed Charge Models, by Mike Devereux et al.
 
+[Neural-Network-Quantum-States](https://github.com/acbbullock/Neural-Network-Quantum-States): machine learning demonstration of neural network quantum states, by acbbullock
+
 [Numerical Electromagnics Code (NEC2)](https://github.com/yeti01/nec2): UNIX version of NEC2 Antenna Modeler adapted for use with modern computers.
 
 [octopus](https://github.com/octopus/octopus): ab initio virtual experimentation on electron/ion dynamics in external electromagnetic fields of arbitrary intensity, shape and frequency in a hopefully ever increasing range of system types, by M. A. L. Marques et al.
