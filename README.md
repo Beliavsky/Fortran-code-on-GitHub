@@ -1559,6 +1559,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fckit](https://github.com/ecmwf/fckit): Fortran toolkit for interoperating Fortran with C/C++, from ecmwf
 
+[fcppstring](https://github.com/willdickson/fcppstring): Fortran wrapper for C++ strings, by Will Dickson
+
 [flibcpp](https://github.com/swig-fortran/flibcpp): uses SWIG-Fortran to expose useful functionality from the C++ standard library to Fortran 2003 application developers. It generates self-contained Fortran modules with native proxy classes and functions which wrap the C++ standard library.
 
 [flibhpc](https://github.com/swig-fortran/flibhpc): uses SWIG-Fortran to generate Fortran-2003 wrappers to common high performance computing (HPC) libraries. It can be used as a support library for other libraries that want to generate MPI-friendly Fortran wrappers to their code, or used by application developers who want to adapt Fortran CUDA/OpenACC code to their C++ kernels.
