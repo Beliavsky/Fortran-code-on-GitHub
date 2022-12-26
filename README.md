@@ -396,6 +396,8 @@ simulating and forecasting meteorological phenomena.
 
 [speedy.f90](https://github.com/samhatfield/speedy.f90): intermediate complexity atmospheric general circulation model written in modern Fortran, by Sam Hatfield and Leo Saffin It is based on [SPEEDY](http://users.ictp.it/~kucharsk/speedy-net.html), developed by Fred Kucharski, Franco Molteni and Martin P. King.
 
+[SPEEDY-ML](https://github.com/Arcomano1234/SPEEDY-ML): combines the atmospheric general circulation model (AGCM) SPEEDY with a reservoir computing-based machine learning algorithm for weather prediction and climate simulations, by Troy Arcomano.
+
 [urban Dutch Atmospheric Large Eddy Simulation (u-dales)](https://github.com/uDALES/u-dales): large-eddy simulation (LES) model for urban environments. LES is an approach to turbulence modelling used in computational fluid dynamics to simulate turbulent flows over a wide range of spatial and temporal scales.
 
 [Unified Forecast System (UFS) weather model](https://github.com/ufs-community/ufs-weather-model): weather model is used in several of the UFS applications, including the medium-range weather application and the short-range weather application.
