@@ -2883,6 +2883,8 @@ Milan Curcic and Sebastian Ehlert
 
 [RADCAL](https://github.com/firemodels/radcal): library of subroutines for calculating radiative properties of gaseous species and soot, from firemodels. It computes the spectral properties of the radiation participating species at discrete values of the spectrum (expressed either in wavenumber or in wavelength) and temperature, and returns two alternative mean absorption coefficients for each spectral band. 
 
+[sodium](https://github.com/freevryheid/sodium): Fortran bindings by Andre Smit for [libsodium](https://github.com/jedisct1/libsodium), a C crypto library
+
 [strengthcalc](https://github.com/piotrbajdek/strengthcalc): strengthcalc employs mathematical formulae from Mayhew et al. (1992) and Wathen (1994) to estimate the maximum weight one can lift in a single repetition of a physical exercise (known as 1RM: one repetition maximum), by Piotr Bajdek
 
 ## Unit Testing
