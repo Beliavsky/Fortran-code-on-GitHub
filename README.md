@@ -1948,6 +1948,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [Jacobi Theta functions for Fortran](https://github.com/fremling/jacobi-theta-function-fortran): by Mikael Fremling
 
+[library](https://github.com/alexander-mead/library): code for array operations, numerical differentiation and integration, mathematical and physical constants, FFTs, interpolation, optimization, ODEs, finding roots, random number generation, sorting, statistics, strings, and other topics, by Alexander Mead
+
 [Library of Numerical Analysis - Moscow State University](https://github.com/VadimAnIsaev/Library-of-Numerical-Analysis-MSU): Translation of subroutines into modern Fortran (Fortran90 or higher) from Fortran 66. Original website: http://num-anal.srcc.msu.ru/lib_na/cat/cat0.htm
 
 [lookup_table_fortran](https://github.com/jannisteunissen/lookup_table_fortran): module for linear lookup tables, by jannisteunissen. Supports multiple columns and various ways to read values from the table 
