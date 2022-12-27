@@ -9,6 +9,7 @@
 * [Computational Chemistry](#computational-chemistry)
 * [Computational Fluid Dynamics](#computational-fluid-dynamics)
 * [Containers and Generic Programming](#containers-and-generic-programming)
+* [Cryptography](#cryptography)
 * [Dates and Times](#dates-and-times)
 * [Earth Science](#earth-science)
 * [Economics](#economics)
@@ -729,6 +730,11 @@ engine, by montagdude and Geoff Sokoll
 
 [WiRE-LES2](https://github.com/moulin1024/WiRE-LES2): large-eddy simulation code written in CUDA Fortran for simulating atmospheric boundary layer flows, by Mou Lin and Tristan Revaz
 
+## Cryptography
+[Frypto](https://github.com/ffadrique/Frypto): cryptographic library by Fran Martinez Fadrique
+
+[sodium](https://github.com/freevryheid/sodium): Fortran bindings by Andre Smit for [libsodium](https://github.com/jedisct1/libsodium), a C crypto library
+
 ## Dates and Times
 [datetime-fortran](https://github.com/milancurcic/datetime-fortran): time and date manipulation facilities, by milancurcic
 
@@ -1409,8 +1415,6 @@ present simple ways to locate and correct those errors without the use of any de
 [fson](https://github.com/josephalevin/fson): Fortran 95 JSON Parser, by josephalevin
 
 [ftime](https://github.com/wcdawn/ftime): basic timing routines in Fortran 2003, by William C. Dawn
-
-[Frypto](https://github.com/ffadrique/Frypto): cryptographic library by Fran Martinez Fadrique
 
 [functional-fortran](https://github.com/wavebitscientific/functional-fortran): library for functional programming in modern Fortran
 
@@ -2882,8 +2886,6 @@ Milan Curcic and Sebastian Ehlert
 [DistTab](https://github.com/NickAbel/DistTab): library being developed for use with combustion codes that use spray flame lookup tables, by NickAbel
 
 [RADCAL](https://github.com/firemodels/radcal): library of subroutines for calculating radiative properties of gaseous species and soot, from firemodels. It computes the spectral properties of the radiation participating species at discrete values of the spectrum (expressed either in wavenumber or in wavelength) and temperature, and returns two alternative mean absorption coefficients for each spectral band. 
-
-[sodium](https://github.com/freevryheid/sodium): Fortran bindings by Andre Smit for [libsodium](https://github.com/jedisct1/libsodium), a C crypto library
 
 [strengthcalc](https://github.com/piotrbajdek/strengthcalc): strengthcalc employs mathematical formulae from Mayhew et al. (1992) and Wathen (1994) to estimate the maximum weight one can lift in a single repetition of a physical exercise (known as 1RM: one repetition maximum), by Piotr Bajdek
 
