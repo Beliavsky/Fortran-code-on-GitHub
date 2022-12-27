@@ -733,7 +733,7 @@ engine, by montagdude and Geoff Sokoll
 ## Cryptography
 [Frypto](https://github.com/ffadrique/Frypto): cryptographic library by Fran Martinez Fadrique
 
-[sodium](https://github.com/freevryheid/sodium): Fortran bindings by Andre Smit for [libsodium](https://github.com/jedisct1/libsodium), a C crypto library
+[sodium](https://github.com/freevryheid/sodium): Fortran bindings by Andre Smit for [libsodium](https://github.com/jedisct1/libsodium), a C library for encryption, decryption, signatures, password hashing, etc.
 
 ## Dates and Times
 [datetime-fortran](https://github.com/milancurcic/datetime-fortran): time and date manipulation facilities, by milancurcic
