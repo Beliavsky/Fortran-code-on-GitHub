@@ -424,6 +424,8 @@ simulating and forecasting meteorological phenomena.
 
 [fazang](https://github.com/yizhang-yiz/fazang): library for reverse-mode automatic differentiation, inspired by Stan/Math library, by Yi Zhang
 
+[flower](https://github.com/urbanjost/flower): converts free-format Fortran code to all lowercase or all uppercase, by urbanjost. In each case comments and quoted text are left as-is.
+
 [fortran2018-conditional-memory](https://github.com/kevinmatthes/fortran2018-conditional-memory): library for the conditional allocation and deallocation of allocatable objects of Fortran intrinsic types, by Kevin Matthes 
 
 [Fortran Debug Utilities](https://github.com/plevold/fortran-debug-utils): collection of some utilities useful for debugging code, by Pål Levold
