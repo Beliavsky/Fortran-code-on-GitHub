@@ -1530,6 +1530,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [M_calcomp](https://github.com/urbanjost/M_calcomp): old graphics library used in conjunction with M_draw for work with old codes, by urbanjost. The CALCOMP library is a simple set of FORTRAN callable graphic routines that allows users to quickly construct plots.
 
+[M_color](https://github.com/urbanjost/M_color): convert between RGB color values and other common color models, by urbanjost
+
 [M_draw - low level vector graphics library](https://github.com/urbanjost/M_draw): base graphics library intended for use with Fortran although largely written in C. It is based on the public domain VOGLE graphics library. It allows for creating vector-based graphics with a variety of output devices.
 
 [M_escape](https://github.com/urbanjost/M_escape): using in-band signaling wih ANSI control (escape) sequences to control terminal color from Fortran, by urbanjost and brocolis
