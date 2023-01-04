@@ -1477,6 +1477,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [progressbar](https://github.com/giambagiamba/progressbar): simple C library for drawing a progress bar on a memory mapped log file, designed to introduce as little overhead as possible, by G-Lorenz and giambagiamba. It is compatible with C++ and Fortran.
 
+[QDUtilLib](https://github.com/lauvergn/QDUtilLib): modules for numerical parameters, strings, reading and write matrices, and linear algebra, by lauvergn
+
 [Quantities for Fortran (quaff)](https://github.com/everythingfunctional/quaff): makes math with units more convenient, by Brad Richardson et al. This library provides all the functionality necessary to almost treat quantities with units associated with them as though they were just intrinsic real values
 
 [reference-counter](https://github.com/sourceryinstitute/reference-counter): object-oriented, extensible reference-counting utility for Fortran, by Damian Rouson et al.
