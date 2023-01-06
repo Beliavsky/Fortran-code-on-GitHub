@@ -1266,6 +1266,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [HypFEM](https://github.com/md861/HypFEM): enriched finite element solution space based numerical solver for initial-boundary value problems in hyperbolic linear PDEs, by md861
 
+[metis-fpm](https://github.com/gnikit/metis-fpm): Fortran API and a source repackaging by gnikit of [METIS](https://github.com/KarypisLab/METIS), a set of serial programs for partitioning graphs, partitioning finite element meshes, and producing fill reducing orderings for sparse matrices, from KarypisLab
+
 [MYSTRAN](https://github.com/dr-bill-c/MYSTRAN): general purpose finite element analysis computer program for structures that can be modeled as linear (i.e. displacements, forces and stresses proportional to applied load), by dr-bill-c et al.
 
 [NASTRAN-95](https://github.com/nasa/NASTRAN-95): NASA Structural Analysis System, a finite element analysis program (FEA) completed in the early 1970's
