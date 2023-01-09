@@ -1722,6 +1722,8 @@ generalized eigenvalue problems, from NLAFET
 
 [madrigal](https://github.com/octoflar/madrigal): matrix derivative tests for forward and reverse mode automatic differentiation, by R. Quast
 
+[Matrix Equations PACKage (MEPACK)](https://github.com/mpimd-csc/mepack): library for the solution of dense Sylvester-like matrix equations, by Martin Köhler. Martin Köhler
+
 [M_blas](https://github.com/urbanjost/M_blas): Fortran BLAS library implemented as a free-format module, by urbanjost
 
 [mfi](https://github.com/14NGiestas/mfi): modern Fortran Interfaces to BLAS and LAPACK, by 14NGiestas
