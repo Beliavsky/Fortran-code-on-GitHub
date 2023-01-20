@@ -1895,7 +1895,7 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [fortran-NeuralNetwork](https://github.com/Jonas-Finkler/fortran-NeuralNetwork): Simple implementation of a neural network, implemented in Fortran, by Jonas-Finkler
 
-[fortran-tf-lib](https://github.com/Cambridge-ICCS/fortran-tf-lib): code and examples on directly calling Tensorflow / Pytorch / Keras ML models from Fortran, from Cambridge-ICCS.
+[fortran-tf-lib](https://github.com/Cambridge-ICCS/fortran-tf-lib): code and examples on directly calling Tensorflow / Pytorch / Keras ML models from Fortran, from Cambridge-ICCS
 
 [Fortran-Torch-Adapter](https://github.com/luc99hen/FTA): integrates a deep learning model into a Fortran environment, by luc99hen
 
