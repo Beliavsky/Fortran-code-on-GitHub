@@ -1163,7 +1163,7 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [FFTPack](https://github.com/keurfonluu/FFTPack): easily usable package of functions using wrapping the Fortran 77 FFTPack library, by keurfonluu
 
-[fftw3_wrapper](https://github.com/kuanchihwang/fftw3_wrapper): Fortran wrapper library around around the [FFTW](https://www.fftw.org/) C library that tries to mimic the Matlab and NumPy interfaces, by Kuan-Chih Wang
+[fftw3_wrapper](https://github.com/kuanchihwang/fftw3_wrapper): Fortran wrapper library around the [FFTW](https://www.fftw.org/) C library that tries to mimic the Matlab and NumPy interfaces, by Kuan-Chih Wang
 
 [modern_fftpack](https://github.com/jlokimlin/modern_fftpack): Fortran 2008 library of fast Fourier transforms -- an object-oriented modernization of NCAR's FFTPACK5.1., by jlokimlin
 
