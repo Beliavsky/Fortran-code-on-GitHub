@@ -2866,7 +2866,7 @@ Milan Curcic and Sebastian Ehlert
 
 [EnKF_analysis](https://github.com/geirev/EnKF_analysis): EnKF (Ensemble Kalman Filter) analysis routines in Fortran 90, by Geir Evensen. Stochastic and SQRT formulations with subspace inversion. There is a related [book](https://enkf.nersc.no/).
 
-[FortranCWT](https://github.com/WangYun1995/FortranCWT): fast implementation of the Continuous Wavelet Transform of the 1D signals, by FortranCWT
+[FortranCWT](https://github.com/WangYun1995/FortranCWT): fast implementation of the Continuous Wavelet Transform of the 1D signals, by WangYun1995
 
 [fortsa](https://github.com/zoziha/fortsa): univariate time series analysis and ARIMA modeling package, by zoziha
 
