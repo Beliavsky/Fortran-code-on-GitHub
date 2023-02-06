@@ -412,6 +412,8 @@ simulating and forecasting meteorological phenomena.
 
 [adjac](https://github.com/pv/adjac): automatic differentiation for generating sparse Jacobians, using Fortran 95 and operator overloading, by Pauli Virtanen
 
+[Audito](https://github.com/Michel-Heinz/Audito): automatic differentiation tool for Fortran, by Michel V. Heinz. The mathematical operators have been overloaded to work with the newly defined types, which include not only the function value, but also the gradient, Hessian and Laplacian.
+
 [autodiff](https://github.com/sgeard/autodiff): automatic differentiation for up to 4th derivatives, by Simon Geard
 
 [Auto-Diff](https://github.com/zoziha/Auto-Diff): implementation in Modern Fortran of backward mode automatic differentiation, by zoziha
