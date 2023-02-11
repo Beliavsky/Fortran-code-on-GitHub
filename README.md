@@ -2045,6 +2045,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [INTEGRAL](https://github.com/jchristopherson/integral): routines for the integration of functions of various types, by jchristopherson. Additionally, the INTEGRAL library provides routines for the integration of systems of ordinary differential equations (ODEs).
 
+[IntegralALL](https://github.com/neutrinomuon/IntegralALL): integrate arrays and functions numerically using Gauss-Legendre Quadrature, Simpson's rule, the trapezoidal rule, and other methods, by Jean Gomes. The Python package pyintegralall calls the Fortran code. 
+
 [kronrod](https://github.com/jacobwilliams/kronrod): generates [Gauss-Kronrod](https://en.wikipedia.org/wiki/Gauss%E2%80%93Kronrod_quadrature_formula) coefficients, by Jacob Williams
 
 [modern quadpack](https://github.com/nshaffer/modern_quadpack): provides QUADPACK as a module with explicit interfaces to the user-level routines and names for magic constants, by nshaffer
