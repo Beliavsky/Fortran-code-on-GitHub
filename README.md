@@ -1358,6 +1358,8 @@ present simple ways to locate and correct those errors without the use of any de
 ## General Purpose
 [Algorithms](https://github.com/andreypudov/algorithms): The Laboratory of Algorithms, by Andrey Pudov.
 
+[argparse-f](https://github.com/0382/argparse-f): Modern Fortran command line parser, implemented with OOP, by 0382 and zoziha
+
 [argv-fortran](https://github.com/jacobwilliams/argv-fortran): a better get_command_argument for Fortran that returns the argument in an allocatable character string, by Jacob Williams
 
 [AwesomeFortranLibraries](https://github.com/SourangshuGhosh/AwesomeFortranLibraries): modules for numerics, file I/O, and other topics by Sourangshu Ghosh for use in more complex codes
