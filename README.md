@@ -1129,7 +1129,7 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [FException](https://github.com/csbrady-warwick/FException): provide an easy but flexible mechanism for handling errors in Fortran, from csbrady-warwick. FException does not try to implement C++/Python style exceptions but has its own approach that is a mixture of classical exceptions with propagating error codes
 
-[Fortran-Assertion-Module](https://github.com/alecksandr26/Fortran-Assertion-Module): simple module which adds an assertion function, by alecksandr26. It works by enabling -cpp the c preprocesor directives in the Fortran compiler.
+[assert-fortran](https://github.com/alecksandr26/assert-fortran): simple module which adds an assertion function, by alecksandr26. It works by enabling -cpp the c preprocesor directives in the Fortran compiler.
 
 [Fortran Error Handler](https://github.com/samharrison7/fortran-error-handler): universal and comprehensive solution for applications requiring functional and robust error handling, utilising the power of modern object-oriented Fortran, by Sam Harrison and KellerV
 
