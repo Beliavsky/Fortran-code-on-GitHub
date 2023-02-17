@@ -474,6 +474,8 @@ simulating and forecasting meteorological phenomena.
 
 [chemfiles.f03](https://github.com/chemfiles/chemfiles.f03): Fortran 2003 binding to the [chemfiles](https://github.com/chemfiles/chemfiles) library, by Guillaume Fraux et al.
 
+[Chemistry discovery engine (CDE)](https://github.com/ScottHabershon/cde): implements several different calculation types associated with chemical reaction-path analysis, by Joe Gilkes and Scott Habershon
+
 [ClassyMC](https://github.com/mrnucleation/ClassyMC): General Purpose Object Oriented Molecular Monte Carlo code. Classy is designed to be used for Metropolis Monte Carlo and other similar sampling methods in molecular simulations.
 
 [CoarseAIR](https://github.com/simoneventuri/CoarseAIR): Fortran 2008 Code for State-to-State and Coarse-Grained Quasi-Classical Trajectory (QCT) Method. Reference: S Venturi - "Machine Learning and Uncertainty Quantification Framework for Predictive Ab Initio Hypersonics" - Ph.D. Thesis, University of Illinois at Urbana-Champaign (2021)
