@@ -2469,6 +2469,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [Neural-Network-Quantum-States](https://github.com/acbbullock/Neural-Network-Quantum-States): machine learning demonstration of neural network quantum states, by acbbullock
 
+[NuHamil-public](https://github.com/Takayuki-Miyagi/NuHamil-public): matrix elements of NN+3N interactions based on chiral effective field theory, by Takayuki Miyagi
+
 [Numerical Electromagnics Code (NEC2)](https://github.com/yeti01/nec2): UNIX version of NEC2 Antenna Modeler adapted for use with modern computers.
 
 [octopus](https://github.com/octopus/octopus): ab initio virtual experimentation on electron/ion dynamics in external electromagnetic fields of arbitrary intensity, shape and frequency in a hopefully ever increasing range of system types, by M. A. L. Marques et al.
