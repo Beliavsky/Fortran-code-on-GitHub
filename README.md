@@ -1362,7 +1362,7 @@ present simple ways to locate and correct those errors without the use of any de
 ## General Purpose
 [Algorithms](https://github.com/andreypudov/algorithms): The Laboratory of Algorithms, by Andrey Pudov.
 
-[apps](https://github.com/urbanjost/apps): utility programs to evaluate FORTRAN77-like mathematical expressions in line mode, prints specified columns of a file, split Fortran source file into individual files, find the pathname of commands and optionally perform commands on them, change case of free-format Fortran file or remove comments, issue Unix-like commands, compute checksums of files, and do other things, by urbanjost
+[apps](https://github.com/urbanjost/apps): utility programs to evaluate FORTRAN77-like mathematical expressions in line mode, print specified columns of a file, split Fortran source file into individual files, find the pathname of commands and optionally perform commands on them, change case of free-format Fortran file or remove comments, issue Unix-like commands, compute checksums of files, and do other things, by urbanjost
 
 [argparse-f](https://github.com/0382/argparse-f): Modern Fortran command line parser, implemented with OOP, by 0382 and zoziha
 
