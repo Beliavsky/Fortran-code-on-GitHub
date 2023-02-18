@@ -436,8 +436,6 @@ simulating and forecasting meteorological phenomena.
 
 [Fortran-RefCount](https://github.com/LadaF/Fortran-RefCount): simple reference counting for Fortran
 
-[f90split](https://github.com/urbanjost/f90split): splits free source form Fortran code into multiple files, one module or procedure per file, by Michel Olagnon, adapted by urbanjost for use with the Fortran Package Manager. Contained procedures are stored within their parent procedure
-
 [libfde](https://github.com/Zorkator/libfde): Fortran Development Extensions (library), by Zorkator
 
 [prep](https://github.com/urbanjost/prep): streamlined pre-processor primarily designed for use with Fortran, by urbanjost. It does not support procedural macros but does support variable substitution and reusable free-format text blocks which allows for basic templating as well as easy construction of multi-line CHARACTER variables; and is quite capable of supporting traditional conditional compilation.
@@ -447,8 +445,6 @@ simulating and forecasting meteorological phenomena.
 [symengine.f90](https://github.com/symengine/symengine.f90): Fortran wrappers by Rikard Nordgren and Ondřej Čertík of SymEngine, a fast symbolic manipulation library, written in C++
 
 [to_f90](https://github.com/jbdv-no/to_f90): Alan Miller's tool for converting Fortran 77 code to free-form Fortran 90 code, from jbdv-no
-
-[xpand](https://github.com/urbanjost/xpand): expands tabs in files. removes trailing white space, and optionally removes multiple blank lines, by urbanjost. It is primarily intended for use on systems without access to the Unix command expand(1).
 
 ## Compiler Tests
 [AdHoc](https://github.com/rouson/bug-reports): archives ad hoc tests for modern Fortran compilers used by Sourcery Institute, Sourcery, Inc., their collaborators, sponsors, and clients. These tests emphasize support for the Fortran 2003 and 2008 standards along with features proposed for Fortran 2015 in technical specification TS 29113 Further Interoperability with C and the draft technical specification TS 18508 Additional Parallel Features in Fortran.
