@@ -1396,6 +1396,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [forbear](https://github.com/szaghi/forbear): progress bar environment by szaghi and jhykes
 
+[forclust](https://github.com/gha3mi/forclust): manage and control a Linux system, such as adjusting the settings of the CPU and other components, by Seyed Ali Ghasemi
+
 [Fortran General Library (FGL)](https://github.com/mobius-eng/FGL): code for bitstrings, exception handling, hash tables, lists, logging, queues, strings, sorting, JSON parsing, and other topics, from mobius-eng
 
 [Fortran IFS and Arpege Toolkit (FIAT)](https://github.com/ecmwf-ifs/fiat): collection of selected Fortran utility libraries, extracted from the IFS/Arpege model, including drhook for tracing, gstats for timing, parkind to choose precision, mpl for MPI communication, mpi_serial for MPI dummy symbols compiled into static library, and other routines
