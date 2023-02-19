@@ -1280,7 +1280,9 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [ParaFEM](https://github.com/ParaFEM/ParaFEM): open source parallel finite element analysis library that is documented by the text book "Programming the Finite Element Method"
 
-[ParallelFEM-Fortran](https://github.com/chennachaos/PFEMFort): Parallel programming for Finite Element Analysis using Fortran and PETSc, by chennachaos. This code includes several parallel implementations for the Lapalace equation and linear elasticity in 2D and 3D. 
+[ParallelFEM-Fortran](https://github.com/chennachaos/PFEMFort): Parallel programming for Finite Element Analysis using Fortran and PETSc, by chennachaos. This code includes several parallel implementations for the Lapalace equation and linear elasticity in 2D and 3D.
+
+[ParMETIS for fpm](https://github.com/gnikit/parmetis-fpm): Fortran API and a source repackaging by gnikit of [ParMETIS](https://github.com/KarypisLab/ParMETIS), an MPI-based library for partitioning graphs, serial programs for partitioning graphs, partitioning finite element meshes, and producing fill reducing orderings for sparse matrices, from KarypisLab
 
 [PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran
 
