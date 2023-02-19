@@ -2597,6 +2597,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [hfsolver](https://github.com/certik/hfsolver): Hartree Fock solver by certik
 
+[HoneyTools](https://github.com/QcmPlab/HoneyTools) modules by Gabriele Bellomia to easily deal with nontrivial honeycomb structures in real-space: generate the coordinates, compute all the neighbor-shells, get direct access to logical masks for nearest and next-nearest neighbors (nth-order can be easily computed from the shell table), hence readily build tight-binding hamiltonians, or any other lattice quantity requiring real-space geometrical information.
+
 [Humble Interface for Vasp outputEditing (HIVE4-tools)](https://github.com/DannyVanpoucke/HIVE4-tools): Post-processing tool-set for ab-intio calculations obtained with [VASP](https://www.vasp.at/), by Danny Vanpoucke
 
 [Interacting Quantum Impurity Solver Toolkit (iQIST)](https://github.com/huangli712/iQIST): package for studying strongly correlated electron systems, by huangli712 et al. It contains several hybridization expansion continuous-time quantum Monte Carlo impurity solvers and some auxiliary scripts.
