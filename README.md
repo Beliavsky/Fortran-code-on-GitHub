@@ -1288,6 +1288,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [simple Discrete Element Method (sDEM)](https://github.com/GongZheng-Justin/sDEM): simple parallel DEM code by Zheng Gong, with the following features: MPI parallelization by means of 2D Domain Decomposition, the ability to handle particles with different diameters, both linear and non-linear contact force models, and NBS-Munjiza (Non Binary Search - Munjiza) contact search algorithm
 
+[tensor-algebra](https://github.com/CfKu/tensor-algebra):sSome frequently required methods for the implementation of problems in the field of continuum mechanics, e.g. tensor algebra, by CfKu. These methods are usually needed and used to implement user subroutines in finite element software written in Fortran.
+
 ## Fortran Books and Tutorials
 [coarray-tutorial](https://github.com/tkoenig1/coarray-tutorial): short tutorial using gfortran, ifort, or NAG Fortran, by tkoenig1
 
