@@ -898,6 +898,8 @@ recorded by a sparse regional seismograph network.
 
 [Implicit Earth system Model of Intermediate Complexity (I-EMIC)](https://github.com/nlesc-smcm/i-emic): parallel Earth system model that allows the use of large-scale dynamical systems techniques, by Erik Mulder et al. The term 'implicit' refers to this model's main design feature: all model equations and constraints are solved simultaneously.
 
+[insol](https://github.com/alex-robinson/insol): calculates paleo and future daily insolation at the top of the atmosphere, by Alexander Robinson
+
 [Isca](https://github.com/ExeClim/Isca): framework for the idealized modelling of the global circulation of planetary atmospheres at varying levels of complexity and realism, from the University of Exeter. The framework is an outgrowth of models from GFDL designed for Earth's atmosphere, but it may readily be extended into other planetary regimes.
 
 [Ice Shelf/Ocean Fluid and Thermodynamics (ISOFT)](https://github.com/cmacmackin/isoft): object-oriented, extensible framework with which to model glacial flow using modern Fortran, by Chris MacMackin. Though developed for ice shelves, it could in principle be modified to simulated grounded ice dynamics as well.
