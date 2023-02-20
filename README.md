@@ -2932,6 +2932,8 @@ Milan Curcic and Sebastian Ehlert
 
 [DAGLIB](https://github.com/jacobwilliams/daglib): modern Fortran module for creating and manipulating directed acyclic graphs (DAGs), by Jacob Williams and Damian Rouson. It includes a toposort feature, and also the ability to generate files in the GraphViz "dot" notation.
 
+[dwnominate](https://github.com/wmay/dwnominate): provides a simplified R interface by Will May to the DW-NOMINATE roll call scaling program, based on Fortran code of Keith Poole. DW-NOMINATE (Dynamic Weighted NOMINAl Three-step Estimation) estimates dynamic models of legislator ideology using roll call votes, and can efficiently estimate static ideology models across multiple legislative sessions.
+
 [fds](https://github.com/firemodels/fds): Fire Dynamics Simulator (FDS) is a large-eddy simulation (LES) code for low-speed flows, from firemodels, with an emphasis on smoke and heat transport from fires.
 
 [Fortran---CGAL-polyhedra](https://github.com/LadaF/Fortran---CGAL-polyhedra): bindings to the CGAL library to query to find whether a point is inside of a polyhedron and their distance, by Vladimír Fuka
