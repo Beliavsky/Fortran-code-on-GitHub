@@ -359,6 +359,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [Gridded Meteorological Ensemble Tool (GMET)](https://github.com/NCAR/GMET): software for created gridded meteorological datasets for precipitation and temperature, by Andy Newman. The current applications have been at a daily timestep, yielding daily total precipitation, mean temperature and temperature range.
 
+[GVTD-X](https://github.com/tomonori-93/GVTD-X): implements numerical method to retrieve tangential and radial wind components in atmospheric vortices from single-Doppler radar observations, which is named from pronounciation of a abbreviation "GVTD-HeCs" (Generalized Velocity Track Display with the Helmholtz-decomposition-based Closure assumption). By Satoki Tsujino.
+
 [Himawari_HSD_Reader](https://github.com/simonrp84/Himawari_HSD_Reader): reader for data from Japan's [Himawari satellite](https://en.wikipedia.org/wiki/Himawari_8), by Simon Proud. This utility reads 'raw' HSD format data and can convert it into more friendly formats such as NetCDF4.
 
 [icar](https://github.com/NCAR/icar): Intermediate Complexity Atmospheric Research Model (ICAR), from NCAR, a simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses
