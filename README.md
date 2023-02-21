@@ -1958,6 +1958,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [faiNumber-Fortran](https://github.com/kevinhng86/faiNumber-Fortran): fast, flexible, and secure numerical library for Fortran with fast number parsing as one of its features
 
+[fastconv](https://github.com/gronki/fastconv): simple library for 1D and 2D convolutions, by Dominik Gronkiewicz
+
 [fastmath](https://github.com/perazz/fastmath): library for fast, approximate math functions: exp, log, 1/sqrt, by Federico Perini. These functions provide fast, approximate evaluations of the exponential, logarithm and normalization functions in 64-bit precision.
 
 [fctables](https://github.com/mfontanaar/fctables): computes FC-Gram tables, by Mauro Fontana and sabian2008, using the MPFUN2020 library for arbitrary precision floating point arithmetic. The algorithm is described in the paper [Fourier continuation method for incompressible fluids with boundaries](https://www.sciencedirect.com/science/article/abs/pii/S0010465520302265?via%3Dihub)
