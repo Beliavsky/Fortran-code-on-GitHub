@@ -69,6 +69,8 @@
 ## Astronomy and Astrophysics
 [ALBUS_ionosphere](https://github.com/twillis449/ALBUS_ionosphere): determines the ionosphere total electron content (TEC) over any location on the Earth as a function of location and time, by Tony Willis. It then uses the TEC and a model of the Earth's magnetic field to compute the ionosphere's effect on the Faraday Rotion Measure (RM) observed for an astronomical radio source. The ionosphere's contribution to the RM can then be removed. 
 
+[aquila astrophotography package](https://github.com/gronki/aquila): small LRGB astrophotography reduction and processing package, by Dominik Gronkiewicz. The package consists of the programs aqstack for stacking and reduction of monochromatic CCD images and aqlrgb for compositing images from many filters into one color picture.
+
 [ARTEMIS-P](https://github.com/maserlib/ARTEMIS-P): Anisotropic Ray Tracer for Electromagnetism in Magnetospheres, Ionospheres and Solar wind, including Polarisation, by Baptiste Cecconi and C. Baskevitch
 
 [astro-api](https://github.com/FrankThomasTveter/astro-api): makes the astronomical calculations for yr.no, by Frank Thomas Tveter et al. The astro-api software uses the JPL ephemeride tables and the SOFA astronomical library, along with algorithms for quick and precise searches, to provide astronomical data on demand, such as sun/moon rise/set, twilight, polar day/night, moon phase, eclipse, solstice times.
