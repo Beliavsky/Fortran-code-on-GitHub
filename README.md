@@ -117,6 +117,8 @@
 
 [fastSHT](https://github.com/liuhao-cn/fastSHT): code associated with the paper [Accelerating spherical harmonic transforms for a large number of sky maps](https://arxiv.org/abs/2208.10154), by Chi Tian, Siyu Li, and Hao Liu
 
+[FluxConserving](https://github.com/neutrinomuon/FluxConserving): Fortran code to compute the flux-density conservation, with a Python interface, by Jean Gomes
+
 [fortran-astrodynamics](https://github.com/Yuricst/fortran-astrodynamics): astrodynamics routines by Yuricst
 
 [Fortran-Astrodynamics-Toolkit](https://github.com/jacobwilliams/Fortran-Astrodynamics-Toolkit): aims to be a comprehensive library, written in modern Fortran (Fortran 2003/2008), of all the standard orbital mechanics algorithms, by Jacob Williams
