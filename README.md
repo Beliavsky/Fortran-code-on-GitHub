@@ -550,11 +550,13 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [fh_table](https://github.com/dbartilson/fh_table): modern Fortran hash functions and hash tables, by dbartilson
 
+[flist](https://github.com/jacobwilliams/flist): modern Fortran linked lists using unlimited polymorphic derived types, by Jacob Williams
+
 [FMacro](https://github.com/hsnyder/FMacro): template preprocessor for Fortran, by Harris Snyder. Aims to address Fortran's lack of support for generic programming with a simple preprocessor, modeled after some of the language committee's early ideas for a template language feature, to be included in a future Fortran standard.
 
-[Fortran Implementation of Abstract Types (FIAT)](https://github.com/Fortran-FOSS-Programmers/FIAT): aims to implement various common data structures in Fortran, by Chris MacMackin and gitter-badger. These will be implemented in a generic manner using a container type. This was originally developed in [PolyCon](https://github.com/cmacmackin/PolyCon) but has since been folded into FIAT, with some improvements.
+[Fortran Elements Library](https://github.com/gronki/fortran-elements): list, dictionary, shared pointer, and error handler, by Dominik Gronkiewicz
 
-[flist](https://github.com/jacobwilliams/flist): modern Fortran linked lists using unlimited polymorphic derived types, by Jacob Williams
+[Fortran Implementation of Abstract Types (FIAT)](https://github.com/Fortran-FOSS-Programmers/FIAT): aims to implement various common data structures in Fortran, by Chris MacMackin and gitter-badger. These will be implemented in a generic manner using a container type. This was originally developed in [PolyCon](https://github.com/cmacmackin/PolyCon) but has since been folded into FIAT, with some improvements.
 
 [Fortran-Linked-List](https://github.com/ChetanKarwa/Fortran-Linked-List): linked list module for stdlib of fortran-lang, by ChetanKarwa
 
