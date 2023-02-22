@@ -178,7 +178,7 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 
 [phantom](https://github.com/danieljprice/phantom): 3D Smoothed Particle Hydrodynamics and Magnetohydrodynamics code for astrophysics, by Daniel Price and others
 
-[PhotochemPy](https://github.com/Nicholaswogan/PhotochemPy): photochemical model of rocky planet's atmospheres, by Nicholaswogan. Given inputs, like the stellar UV flux, the atmospheric temperature structure, etc., this code will find the steady-state chemical composition of an atmosphere, or evolve atmospheres through time.
+[PhotochemPy](https://github.com/Nicholaswogan/PhotochemPy): photochemical model of rocky planet's atmospheres, by Nicholaswogan. Given inputs, like the stellar UV flux, the atmospheric temperature structure, etc., this code will find the steady-state chemical composition of an atmosphere, or evolve atmospheres through time. [Photochem](https://github.com/Nicholaswogan/photochem) is a rewrite in modern Fortran.
 
 [PIERNIK](https://github.com/piernik-dev/piernik): grid-based MHD code using conservative numerical schemes: relaxing TVD scheme (Pen et al., 2003; Trac & Pen, 2003) and the recently implemented HLLD approximate Riemann MHD solver (Miyoshi & Kusano, 2005) combined with the Dedner et al. (2002) divergence cleaning algorithm. 
 
