@@ -2414,10 +2414,11 @@ Ioannis Nompelis
 
 [Bose-Einstein_Condensates](https://github.com/brito-leonardo/Bose-Einstein_Condensates): solve Bose-Einstein condensates problems and related algebraic problems in quantum mechanics, with Fortran 90 and Python 3 languages, by brito-leonardo
 
-[Cartesian-coordinate Oblique-boundary Particles and Thermals In Cell (COPTIC)](https://github.com/ihutch/COPTIC):  moves particles in three dimensions of space and time (6
-phase-space dimensions) and simultaneously calculates the self-consistent electrostatic potential in the presence of a neutralizing species governed by a thermal Boltzmann factor, or of a second particle species, by ihutch and chaako
+[Cartesian-coordinate Oblique-boundary Particles and Thermals In Cell (COPTIC)](https://github.com/ihutch/COPTIC):  moves particles in three dimensions of space and time (6 phase-space dimensions) and simultaneously calculates the self-consistent electrostatic potential in the presence of a neutralizing species governed by a thermal Boltzmann factor, or of a second particle species, by ihutch and chaako
 
 [CDMFT-LANC-ED](https://github.com/QcmPlab/CDMFT-LANC-ED): Lanczos based solver for the Cluster Dynamical Mean-Field Theory using the N_up:N_dw implementation, from QcmPlab
+
+[codata](https://github.com/MilanSkocic/codata): provides the codata constants 2010, 2014 and 2018, by Milan Skocic. The raw codata from http://physics.nist.gov/constants are parsed line by line where the columns name, value, uncertainty and unit are formatted to be conform to Fortran double precision. [pycodata](https://github.com/MilanSkocic/pycodata) is a Python wrapper.
 
 [Computational Environment for Nuclear Structure (CENS)](https://github.com/ManyBodyPhysics/CENS): many-body codes developed by Morten Hjorth-Jensen and collaborators
 
