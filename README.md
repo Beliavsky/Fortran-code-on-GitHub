@@ -752,6 +752,8 @@ engine, by montagdude and Geoff Sokoll
 [sodium](https://github.com/freevryheid/sodium): Fortran bindings by Andre Smit for [libsodium](https://github.com/jedisct1/libsodium), a C library for encryption, decryption, signatures, password hashing, etc.
 
 ## Dates and Times
+[datetime](https://github.com/patti-favaron/datetime): library for simple, time-zone-independent date and time management, by Patrizia Favaron
+
 [datetime-fortran](https://github.com/milancurcic/datetime-fortran): time and date manipulation facilities, by milancurcic
 
 [m_time](https://github.com/urbanjost/M_time): displays dates in a variety of formats and performs basic date and time computation, by urbanjost
