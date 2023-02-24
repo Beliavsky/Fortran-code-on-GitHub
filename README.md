@@ -1637,6 +1637,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fpydemo](https://github.com/banskt/fpydemo): demonstration of packaging a command line tool written in Python and Fortran, by Saikat Banerjee. The minimum working example has native Fortran codes compile to a shared library with F2PY, Lapack routines, and uses mpi4py for MPI parallelization.
 
+[java-f90-jni-dll](https://github.com/johnvanderton/java-f90-jni-dll): demonstrates calling a Fortran dynamic link library (DLL) from Java bean by using JNI/JNA, by John Van Derton
+
 [MatlabAPI](https://github.com/robince/MatlabAPI): Fortran 95 Matlab API
 
 [MatlabFortran](https://github.com/aledinola/MatlabFortran): easily export data from Matlab to Fortran and back, by Alessandro Di Nola
