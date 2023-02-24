@@ -1120,6 +1120,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [openfast](https://github.com/OpenFAST/openfast): NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes
 
+[pyAVL](https://github.com/joanibal/pyAVL): stripped down version of Mark Drela and Harold Youngren's famous [AVL](https://web.mit.edu/drela/Public/web/avl/) code for the aerodynamic and flight-dynamic analysis of rigid aircraft of arbitrary configuration, wrapped in Python with f2py by Josh Anibal. This allows one to more easily conduct large parameter sweeps in AVL or to include AVL into a larger model.
+
 [Reference OpenSource Controller (ROSCO) for wind turbine applications](https://github.com/NREL/ROSCO#nrels-reference-opensource-controller-rosco-for-wind-turbine-applications): modular and fully adaptable baseline wind turbine controller to the scientific community, from NREL. Because of the open character and modular set-up, scientists are able to collaborate and contribute in making continuous improvements to the code.
 
 [Wind Energy with Integrated Servo-control (WEIS)](https://github.com/WISDEM/WEIS): performs multifidelity co-design of wind turbines, from WISDEM. WEIS is a framework that combines multiple NREL-developed tools to enable design optimization of floating offshore wind turbines.
