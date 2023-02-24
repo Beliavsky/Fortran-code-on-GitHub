@@ -1832,6 +1832,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [GPMaterials](https://github.com/felipefr/gpmaterials): implements a rich set of finite element formulations for finite strain hyperelasticity, damage, multi-scale solid mechanics in both continuum and discrete level (truss-like network of fibres), by Felipe Figueredo Rocha
 
+[GraSPH](https://github.com/edoyango/GraSPH): Smoothed-particle Hydrodynamics (SPH) program originally intended for simulations of bulk granular material as well as fluids, by Edward Yang. Src_CAF contains code intended to run multi-core configuration enabled with the Coarray Fortran 2008 features, and src_GPU contains code intended to run on a CUDA-enabled GPU.
+
 [Hard-fit-by-minimization](https://github.com/LaszloSToth/Hard-fit-by-minimization): efficient program to fit a stress-strain curve by the empirical function derived from crystal plasticity, by LaszloSToth
 
 [hyplas](https://github.com/mestradam/hyplas): finite element program for implicit small and large strain analysis of hyperelastic and elasto-plastic two-dimensional and axisymmetric solids, from the book [Computational Methods for Plasticity: Theory and Applications](https://www.wiley.com/legacy/wileychi/desouzaneto/)
