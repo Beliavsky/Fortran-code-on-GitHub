@@ -2719,6 +2719,8 @@ effect of the mutual electron-phonon drag on the transport coefficients listed a
 
 [M_random](https://github.com/urbanjost/M_random): module of pseudo random procedures, by urbanjost
 
+[normal-deviates](https://github.com/patti-favaron/normal-deviates): generates normal univariate and multivariate deviates, by Patrizia Favaron, using an improved Ziggurat method by Jurgen A. Doornik and the Cholesky decomposition
+
 [pseudo_RNG_modules](https://github.com/pointedsphere/pseudo_RNG_modules): pseudo-random number generator modules in Fortran, with option to compile as Python modules and some basic randomness tests in Python, from pointedsphere
 
 [randomField](https://github.com/cottereau/randomField): generation of random fields with prescribed first-order marginal distribution and correlation structure over structured grids or non-structured point arrays, by cottereau
