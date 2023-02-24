@@ -1325,8 +1325,6 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [FORTRAN-Topics](https://github.com/Koushikphy/FORTRAN-Topics): codes to demonstrate Modern Fortran features, and codes for numerics and I/O, by Koushikphy 
 
-[Intro-to-Fortran](https://github.com/coolernato/Intro-to-Fortran): materials for an [online course](https://www.imperial.ac.uk/study/pg/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/intro-to-fortran/) by Chris Cooling
-
 [Introduction to Fortran Debugging](https://github.com/aperezhortal/fortran_debugging_introduction): reviews the most common types of errors and
 present simple ways to locate and correct those errors without the use of any debugging applications, by Andres Perez Hortal. The common errors are illustrated using simple Fortran applications where the simple debugging techniques are applied.
 
@@ -1343,6 +1341,8 @@ present simple ways to locate and correct those errors without the use of any de
 [modern_fortran_book](https://github.com/jonaslindemann/modern_fortran_book): files to build the site [Modern Fortran in Science and Technology](https://modern-fortran-in-science-and-technology.readthedocs.io), by jonaslindemann
 
 [OOP-Fortran-Examples](https://github.com/cmacmackin/OOP-Fortran-Examples): examples of using the object-oriented features in Fortran, taken from a presentation by Chris MacMackin at [RSECon 2019](https://rseconuk2019.sched.com/)
+
+[RCDS-introduction-to-fortran](https://github.com/ImperialCollegeLondon/RCDS-introduction-to-fortran): introductory course delivered by Chris Cooling at the Imperial College London Graduate School.
 
 [rocket-science](https://github.com/everythingfunctional/rocket-science): case study in modernizing legacy Fortran software, by Damian Rouson et al. This repository contains a modern mini-application for simulating solid rocket motors using an object-oriented, functional programming style in Fortran 2018, a legacy motor simulator demonstrating the solution of the same governing equations using a procedural programming style in Fortran 77/90, and a refurbished motor simulator demonstrating one modernization path for making the legacy solver object-oriented but without the radical redesign that affords the above purely functional programming style.
 
