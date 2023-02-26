@@ -533,6 +533,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [QCxMS](https://github.com/qcxms/QCxMS): quantum chemical (QC) based program that enables users to calculate mass spectra (MS) using Born-Oppenheimer Molecular Dynamics (MD), by Jeroen Koopman and Sebastian Ehlert. It is the successor of the QCEIMS program, in which the EI part is exchanged to x (x=EI, CID) to account for the greater general applicability of the program. [Plot Mass Spectra (PlotMS)](https://github.com/qcxms/PlotMS) is an associated plotting program.
 
+[QMC=Chem](https://github.com/TREX-CoE/qmcchem2): Reference: [Quantum Monte Carlo for large chemical systems: Implementing efficient strategies for petascale platforms and beyond](https://onlinelibrary.wiley.com/doi/10.1002/jcc.23216), by Anthony Scemama , Michel Caffarel, Emmanuel Osere.t and William Jalby (2013), Journal of Computational Chemistry, 34:11(938--951)
+
 [structure analysis on the command line (struca)](https://github.com/hokru/struca): simple tool to help compare structures and compute trajectory data on the command line, by Holger Kruse
 
 [taurus_vap](https://github.com/project-taurus/taurus_vap): solves the variation after particle-number projection equations for real general Bogoliubov quasi-particle states represented in a spherical harmonic oscillator basis, from project-taurus
