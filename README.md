@@ -409,6 +409,8 @@ simulating and forecasting meteorological phenomena.
 
 [SPEEDY-ML](https://github.com/Arcomano1234/SPEEDY-ML): combines the atmospheric general circulation model (AGCM) SPEEDY with a reservoir computing-based machine learning algorithm for weather prediction and climate simulations, by Troy Arcomano.
 
+[UCLALES-SALSA](https://github.com/UCLALES-SALSA/UCLALES-SALSA): large-eddy model coupled with a detailed sectional microphysics module for aerosol, clouds and precipitation, by Juha Tonttila et al.
+
 [urban Dutch Atmospheric Large Eddy Simulation (u-dales)](https://github.com/uDALES/u-dales): large-eddy simulation (LES) model for urban environments. LES is an approach to turbulence modelling used in computational fluid dynamics to simulate turbulent flows over a wide range of spatial and temporal scales.
 
 [Unified Forecast System (UFS) weather model](https://github.com/ufs-community/ufs-weather-model): weather model is used in several of the UFS applications, including the medium-range weather application and the short-range weather application.
