@@ -1755,6 +1755,8 @@ generalized eigenvalue problems, from NLAFET
 
 [JACSD](https://github.com/venovako/JACSD): utilities for the Jacobi-type (G/H)SVD algorithms and beyond, plus a Cosine-Sine Decomposition tester, by Vedran Novaković. Associated projects [here](https://github.com/venovako)
 
+[JKogb](https://github.com/venovako/JKogb): software supplement for the paper [Kogbetliantz-type algorithm for the hyperbolic SVD](https://link.springer.com/article/10.1007/s11075-021-01197-4), by Vedran Novaković & Sanja Singer, Numerical Algorithms volume 90, pages 523–561 (2022)
+
 [lapack](https://github.com/Reference-LAPACK/lapack): subroutines for solving the most commonly occurring problems in numerical linear algebra
 
 [LAPACK_Examples](https://github.com/numericalalgorithmsgroup/LAPACK_Examples): example programs showing how to call LAPACK driver and computational routines (Fortran double precision), from numericalalgorithmsgroup
