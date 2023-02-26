@@ -1307,7 +1307,7 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 ## Fortran Books and Tutorials
 [coarray-tutorial](https://github.com/tkoenig1/coarray-tutorial): short tutorial using gfortran, ifort, or NAG Fortran, by tkoenig1
 
-[Computational_Techniques](https://github.com/jaqg/Computational_Techniques): Computational Techniques and Numerical Calculations course of the Erasmus Mundus [Theoretical Chemistry and Computational Modelling Master's program](https://www.emtccm.org/)
+[Computational_Techniques](https://github.com/jaqg/Computational_Techniques): Computational Techniques and Numerical Calculations course of the Erasmus Mundus [Theoretical Chemistry and Computational Modelling Master's program](https://www.emtccm.org/). Part 1 introduces Fortran, and later parts discuss numerical methods.
 
 [compute-course-public](https://github.com/jonaslindemann/compute-course-public): course material for the [COMPUTE course - Scientific Program in Python and Fortran](https://www.compute.lu.se/courses/upcoming-courses/course/article/scientific-computing-with-python-and-fortran/) by Jonas Lindemann
 
