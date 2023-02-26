@@ -339,6 +339,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [FMS](https://github.com/NOAA-GFDL/FMS): Flexible Modeling System (FMS), from NOAA-GFDL, is a software environment that supports the efficient development, construction, execution, and scientific interpretation of atmospheric, oceanic, and climate system models
 
+[fst-tools](https://github.com/ECCC-ASTD-MRD/fst-tools): tools to manipulate [RPN standard files](https://web.unbc.ca/~funnel0/fst2grib/resources/fstd.pdf), from Meteorological Research Informatics Services of Canada
+
 [gcm](https://github.com/pqnelson/gcm): Toy General Circulation Model in Literate Fortran, by pqnelson
 
 [Global ECMWF Fire Forecast (GEFF) model (geff)](https://github.com/ecmwf-projects/geff): calculates fire danger indices from atmospheric inputs. It implements the Fire Weather Index, the National Fire Danger Rating System and the McArthur ratings in one single infrastructure.
