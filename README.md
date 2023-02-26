@@ -969,6 +969,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [Passive and Active Microwave TRANsfer (PAMTRA)](https://github.com/igmk/pamtra): Python/Fortran 90 package to solve the passive and active microwave radiative transfer in a plan parallel horizontally homogeneous atmosphere with hydrometeors, by Davide Ori et al.
 
+[Pecube_D](https://github.com/willi-kappler/Pecube_D): version of [Pecube](https://esdynamics.geo.uni-tuebingen.de/wiki/index.php/modeling/50-pecube-table-of-contents) 3D thermal model that tracks exhumed sample cooling histories and calculated predicted cooling ages, by Todd Ehlers et al. It also allows for the simulation of topographic evolution and is (optionally) coupled with the CASCADE surface process model.
+
 [plantFEM](https://github.com/kazulagi/plantFEM): plant/farming simulator based on Finite Element Method, which targets crops in fields, from kazulagi. This software provides multi-physical simulations of agriculture for canopies, plants, and organs for farmers, breeders, and agronomists.
 
 [Plasti](https://github.com/geodynamics/plasti): 2-D ALE (Arbitrary Lagrangian Eulerian) code by Sean Willett and Chris Fuller. [Reference](https://pubs.geoscienceworld.org/gsa/geology/article-abstract/34/2/65/129453/Formation-of-forearc-basins-and-their-influence-on):  Fuller, C.W., Willett, S.D. and Brandon, M.T., 2006. Formation of forearc basins and their influence on subduction zone earthquakes. Geology, 34: 65-68.
