@@ -901,8 +901,7 @@ engine, by montagdude and Geoff Sokoll
 
 [HOS-ocean](https://github.com/LHEEA/HOS-ocean): High-Order Spectral method for oceanic simulations, by gducrozet and Gjacquenot
 
-[hypoellipse](https://github.com/INGV/hypoellipse): determines hypocenters and magnitudes of near regional earthquakes and the ellipsoids that enclose the 68-percent confidence volumes of the computed hypocenters. HYPOELLIPSE was developed to meet the needs of U.S. Geological Survey (USGS) scientists studying crustal and sub-crustal earthquakes
-recorded by a sparse regional seismograph network. 
+[hypoellipse](https://github.com/INGV/hypoellipse): determines hypocenters and magnitudes of near regional earthquakes and the ellipsoids that enclose the 68-percent confidence volumes of the computed hypocenters. HYPOELLIPSE was developed to meet the needs of U.S. Geological Survey (USGS) scientists studying crustal and sub-crustal earthquakes recorded by a sparse regional seismograph network. 
 
 [IBMlib](https://github.com/IBMlib/IBMlib): individual-based modelling framework able to assess marine habitat connectivity. Eggs/larvae/juvenile/adults may be modelled in order to analyze recruitment impact of marine protected areas.
 
@@ -951,6 +950,8 @@ recorded by a sparse regional seismograph network.
 [MOHID - Water Modelling System](https://github.com/Mohid-Water-Modelling-System/Mohid): modular finite volumes water-modelling system written in Fortran 95 using an Object-oriented programming philosophy, integrating diverse mathematical models and supporting graphical user interfaces that manage all the pre- and post-processing
 
 [MOM6](https://github.com/NOAA-GFDL/MOM6): Modular Ocean Model, from NOAA-GFDL
+
+[Multicomponent Aerosol FORmation (mafor)](https://github.com/mafor2/mafor): Lagrangian type sectional aerosol box model which includes gas phase and aqueous phase chemistry in addition to aerosol dynamics. The model simultaneously solves the time evolution of both the particle number and the mass concentrations of aerosol components in each size section.
 
 [NanoFASE](https://github.com/NERC-CEH/nanofase): multimedia spatiotemporal model of nanomaterial fate, speciation and bio-uptake, by Sam Harrison and slofts
 
