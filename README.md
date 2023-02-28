@@ -117,6 +117,8 @@
 
 [fastSHT](https://github.com/liuhao-cn/fastSHT): code associated with the paper [Accelerating spherical harmonic transforms for a large number of sky maps](https://arxiv.org/abs/2208.10154), by Chi Tian, Siyu Li, and Hao Liu
 
+[FEMlimb-Astrophysics](https://github.com/laya2020/FEMlimb-Astrophysics): algorithm described in the paper [Measuring limb darkening of stars in high-magnification microlensing events by the Finite Element Method](https://academic.oup.com/mnras/article-abstract/494/1/584/5809367), by L. Golchin and S. Rahvar, Monthly Notices of the Royal Astronomical Society (2020)
+
 [FluxConserving](https://github.com/neutrinomuon/FluxConserving): Fortran code to compute the flux-density conservation, with a Python interface, by Jean Gomes
 
 [fortran-astrodynamics](https://github.com/Yuricst/fortran-astrodynamics): astrodynamics routines by Yuricst
