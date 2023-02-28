@@ -1222,6 +1222,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [json-fortran-benchmarks](https://github.com/jacobwilliams/json-fortran-benchmarks): benchmarks for JSON Fortran parsers, by jacobwilliams. Also comparison to Python. Discussed [here](https://fortran-lang.discourse.group/t/a-new-json-library/2197/11)
 
+[fortran-messagepack](https://github.com/Sinfaen/fortran-messagepack): prototype library for [MessagePack](https://msgpack.org/index.html) (an efficient binary serialization format) support in Fortran, by Kelly Schultz
+
 [Fortran-YAML](https://github.com/BoldingBruggeman/fortran-yaml): lightweight YAML parser written in object-oriented Fortran, by jombr et al.
 
 [fortran-yaml-cpp](https://github.com/Nicholaswogan/fortran-yaml-cpp): YAML parser for Fortran matching the YAML 1.2 spec, by Nick Wogan. This package uses the C++ package yaml-cpp to parse yaml documents and then stores the data in Fortran derived types created by fortran-yaml.
