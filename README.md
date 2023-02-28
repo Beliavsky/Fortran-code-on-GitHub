@@ -1332,6 +1332,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [FortranCourse](https://github.com/pvthinker/FortranCourse): short course with each concept illustrated by a Fortran program, by Guillaume Roullet
 
+[fortran_examples](https://github.com/ECCC-ASTD-MRD/fortran_examples): examples using advanced features of Fortran, by Philippe Carphin, Samuel Gilbert, and Michel Valin
+
 [Fortran-MOOC](https://github.com/gjbex/Fortran-MOOC): reading material, source code, and software stack for the PRACE MOOC on "Fortran for scientific programming", by Geert Jan Bex et al.
 
 [fortran-submodule](https://github.com/scivision/fortran-submodule): Examples of modern Fortran 2008 submodule, using Meson or CMake, from scivision. Fortran submodules allow easy switching in and out of features and extremely fast recompilation of large programs perhaps 100 times or more faster.
