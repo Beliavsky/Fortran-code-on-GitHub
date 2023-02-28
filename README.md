@@ -2449,7 +2449,7 @@ Ioannis Nompelis
 ## Physics
 [Acceleration by Laser and Dynamics of charged particles (ALaDyn)](https://github.com/ALaDyn/ALaDyn): particle-in-cell code firstly described in ALaDyn: A High-Accuracy PIC code for the Maxwell-Vlasov Equations by C. Benedetti et al., published on IEEE Transactions on Plasma Science, 36 4, 1790-1798 (2008) and then again in the update Charge preserving high order PIC schemes by P. Londrillo et al., published on Nucl. Instrum. Meth. A, 620 1, 28-35 (2010).
 
-[Accurate Biot-Savart routines with Correct Asymptotic Behaviour (abscab-fortran)](https://github.com/jonathanschilling/abscab-fortran): compute the magnetic field and the magnetic vector potential of filamentary current carriers in the form of a circular loop and straight segments, by Jonathan Schilling. Arbitrary geometries of conductors can be approximated by a polygon along its contour and the connecting segments between the polygon vertices are modeled by straight segments.
+[Accurate Biot-Savart routines with Correct Asymptotic Behaviour (abscab-fortran)](https://github.com/jonathanschilling/abscab-fortran): computes the magnetic field and the magnetic vector potential of filamentary current carriers in the form of a circular loop and straight segments, by Jonathan Schilling. Arbitrary geometries of conductors can be approximated by a polygon along its contour and the connecting segments between the polygon vertices are modeled by straight segments.
 
 [Bose-Einstein_Condensates](https://github.com/brito-leonardo/Bose-Einstein_Condensates): solve Bose-Einstein condensates problems and related algebraic problems in quantum mechanics, with Fortran 90 and Python 3 languages, by brito-leonardo
 
