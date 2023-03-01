@@ -1110,6 +1110,9 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [ce-fortran](https://github.com/fabiankindermann/ce-fortran/): program and compiler Database that accompanies the book "Introduction to Computational Economics using Fortran" (2018), by Fehr and Kindermann
 
+[DeadlyDebtCrises](https://github.com/gabrielgggg/DeadlyDebtCrises): code and data appendix for [Deadly Debt Crises: COVID-19 in Emerging Markets](https://www.minneapolisfed.org/research/staff-reports/deadly-debt-crises-covid-19-in-emerging-markets),
+accepted for publication by The Review of Economic Studies, by Cristina Arellano, Yan Bai, and Gabriel Mihalache
+
 [defaultModel](https://github.com/gabrielgggg/defaultModel): Fortran+OpenMP implementation of the canonical sovereign default model with long-term debt, by Gabriel Mihalache. Solved with discrete choice methods. The [MaturityExtension](https://github.com/gabrielgggg/MaturityExtension) repo is associated with the paper [Sovereign default resolution through maturity extension](https://www.sciencedirect.com/science/article/abs/pii/S0022199620300453), Journal of International Economics (2020).
 
 [firingcosts_petit2021](https://github.com/borjapetit/firingcosts_petit2021): replication package for the working paper [Aggregate effects of firing costs with endogenous firm productivity growth (2021)](https://borjapetit.github.io/files/papers/petit_firing.pdf) by Borja Petit. The codes use OpenMP for parallelization and GNUplot to generate the graphs. 
