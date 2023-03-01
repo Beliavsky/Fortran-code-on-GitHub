@@ -1761,8 +1761,9 @@ TSPACK is a curve-fitting package based on exponential tension splines with auto
 
 [fortran_lsp](https://github.com/ivan-pi/fortran_lsp): Fortran routines from "Solving Least Squares Problems" by C. Lawson and R. Hanson, with improved interfaces, from ivan-pi
 
-[GEVP-PDHGEQZ](https://github.com/NLAFET/GEVP-PDHGEQZ): parallel ScaLAPACK-style package of routines for solving nonsymmetric real
-generalized eigenvalue problems, from NLAFET
+[GEVP-PDHGEQZ](https://github.com/NLAFET/GEVP-PDHGEQZ): parallel ScaLAPACK-style package of routines for solving nonsymmetric real generalized eigenvalue problems, from NLAFET
+
+[insitu_array](https://github.com/PaulStryck/insitu_array): in-place array transpose for Fortran, by Paul Stryck. Module uses a 1D array for storage and mimics differently shaped views to the same underlying data via pointer reassignment. 
 
 [JACSD](https://github.com/venovako/JACSD): utilities for the Jacobi-type (G/H)SVD algorithms and beyond, plus a Cosine-Sine Decomposition tester, by Vedran Novaković. Associated projects [here](https://github.com/venovako)
 
