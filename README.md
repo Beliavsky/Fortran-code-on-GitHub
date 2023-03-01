@@ -613,6 +613,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [AMR-LBM-OpenMP-2D](https://github.com/AbbasHub/AMR-LBM-OpenMP-2D): Adaptive Mesh Refinement (AMR) technique utilized with the Lattice-Boltzmann Method (LBM) for numerical simulation of multiphase flows, by AbbasHub. OpenMP is used for parallelization of the code on share-memory machines.
 
+[C81-Interface](https://github.com/cibinjoseph/C81-Interface): parses and creates C81 formatted airfoil tables, by Cibin Joseph
+
 [CaNS](https://github.com/p-costa/CaNS): fast, massively-parallel direct numerical simulations (DNS) of canonical flows, by p-costa and nscapin
 
 [cemfDEM](https://github.com/hamidrezanorouzi/cemfDEM): code corresponding to the book [Coupled CFD-DEM Modeling: Formulation, Implementation and Application to Multiphase Flows](https://www.wiley.com/en-us/Coupled+CFD+DEM+Modeling%3A+Formulation%2C+Implementation+and+Application+to+Multiphase+Flows-p-9781119005292) by Hamid Reza Norouzi et al.
