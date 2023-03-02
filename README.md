@@ -2481,12 +2481,13 @@ Ioannis Nompelis
 
 [DSLEAP](https://github.com/Jonathan271828/DSLEAP): algorithms for determining lattice oscillations. [Reference](https://arxiv.org/abs/2101.06099): "Anharmonic lattice dynamics in large thermodynamic ensembles with machine-learning force fields: the breakdown of the phonon quasiparticle picture in CsPbBr3", by Jonathan Lahnsteiner and Menno Bokdam
 
-[electron-phonon Boltzmann transport (elphbolt)](https://github.com/nakib/elphbolt): Fortran 2018 code for solving the coupled electron and phonon Boltzmann transport equations (BTEs), by nakib. Using ab initio electron-phonon and phonon-phonon interactions and a fully wave vector and electron band/phonon branch resolved formulation of the BTEs, elphbolt can calculate the phonon and electronic thermal conductivities; electronic conductivity; phonon and electronic contributions to the thermopower; and
-effect of the mutual electron-phonon drag on the transport coefficients listed above.
+[electron-phonon Boltzmann transport (elphbolt)](https://github.com/nakib/elphbolt): Fortran 2018 code for solving the coupled electron and phonon Boltzmann transport equations (BTEs), by nakib. Using ab initio electron-phonon and phonon-phonon interactions and a fully wave vector and electron band/phonon branch resolved formulation of the BTEs, elphbolt can calculate the phonon and electronic thermal conductivities; electronic conductivity; phonon and electronic contributions to the thermopower; and effect of the mutual electron-phonon drag on the transport coefficients listed above.
 
 [ElectroStatic Vlasov-Maxwell (ESVM)](https://github.com/michaeltouati/ESVM): 1D-1V Vlasov-Maxwell Fortran code parallelized using OpenMP and developed for an educational purpose as well as for testing linear finite volume numerical advection schemes such as the donor cell, the Lax-Wendroff, the beam warming or the Fromm method and non-linear ones such as the minmod, the superbee, the Van Leer, the MUSCL1 or the MUSCL2 method, by michaeltouati and nzeal
 
 [ElVibRot-TnumTana](https://github.com/lauvergn/ElVibRot-TnumTana): general quantum dynamics code by lauvergn using curvilinear coordinates and a numerical kinetic energy operator to compute (i) Vibrational levels, intensities for floppy molecular system (ii) Wave-packet propagation with or without time dependent Hamiltonian (iii) Quantum gate and optimal control.
+
+[EMUstack](https://github.com/bjornsturmberg/EMUstack): simulation package for calculating light propagation through multi-layered stacks of dispersive, lossy, nanostructured, optical media, by Bjorn Sturmberg. It implements a generalised scattering matrix method, which extends the physical intuition of thin film optics to complex structures.
 
 [Esfahan Spin Simulation package (ESpinS)](https://github.com/nafiserb/ESpinS): Package for classical Monte-Carlo simulation of spin systems, by nafiserb. In ESpinS, the spin model hamiltonian of a spin system can be defined through the Heisenberg exchange, bi-quadratic, Dzyaloshinskii-Moriya, and single-ion interactions.
 
