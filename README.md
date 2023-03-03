@@ -1008,6 +1008,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran, from stfc
 
+[pycathy_wrapper](https://github.com/BenjMy/pycathy_wrapper): Python wrapper for the CATHY (V1, and plant model version) Fortran code allowing mesh creation, forward and inverse modeling, and simple output visualization of CATHY simulations. Associated paper: Camporese, M., Paniconi, C., Putti, M., Orlandini, S., 2010. [Surface-subsurface flow modeling with path-based runoff routing, boundary condition-based coupling, and assimilation of multisource observation data.](https://github.com/BenjMy/pycathy_wrapper).Water Resources Research 46.
+
 [PyGeopack](https://github.com/mattkjames7/PyGeopack): Wrapper for the [geopack-08](https://geo.phys.spbu.ru/~tsyganenko/Geopack-2008.html) Fortran code used for the Tsyganenko magnetic field models
 
 [pygtide](https://github.com/hydrogeoscience/pygtide): Python module that wraps around [ETERNA PREDICT 3.4](http://igets.u-strasbg.fr/soft_and_tool.php) which is compiled from Fortran into an executable using f2py. The original ETERNA PREDICT 3.3 was written by H.-G. Wenzel in a mix of Fortran 77 and 90.
