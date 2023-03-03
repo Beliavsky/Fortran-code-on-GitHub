@@ -965,6 +965,8 @@ engine, by montagdude and Geoff Sokoll
 
 [Multicomponent Aerosol FORmation (mafor)](https://github.com/mafor2/mafor): Lagrangian type sectional aerosol box model which includes gas phase and aqueous phase chemistry in addition to aerosol dynamics. The model simultaneously solves the time evolution of both the particle number and the mass concentrations of aerosol components in each size section.
 
+[Multi-Physics Problem (MPP)](https://github.com/MPP-LSM/MPP): solves biophysics problems relevant to global land surface models (LSMs). Associated paper: Bisht, G., Riley, W. J., Hammond, G. E., and Lorenzetti, D. M., [Development and evaluation of a variably saturated flow model in the global E3SM Land Model (ELM) version 1.0](https://gmd.copernicus.org/articles/11/4085/2018/), Geosci. Model Dev., 11, 4085-4102, 2018
+
 [NanoFASE](https://github.com/NERC-CEH/nanofase): multimedia spatiotemporal model of nanomaterial fate, speciation and bio-uptake, by Sam Harrison and slofts
 
 [NEMO-examples](https://github.com/NEMO-ocean/NEMO-examples): simple configurations to study specific oceanic physical processes and be used as a tool for training
