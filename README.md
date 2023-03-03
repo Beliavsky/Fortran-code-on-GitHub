@@ -2154,7 +2154,7 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [odepack](https://github.com/Nicholaswogan/odepack): Modern Fortran interface by Nick Wogan for the LSODA and LSODAR routines in ODEPACK, which is for solving ordinary differential equation initial value problems. This repository contains a modified version of ODEPACK which is threadsafe.
 
-[RKAdaptiveMethods](https://github.com/kayejlli/RKAdaptiveMethods): implements adaptive Runge-Kutta methods rk54Sharp, rk54Dormand, rk65Dormand, rk87Dormand, rk87EnrightVerner, rk108Feagin, rk109Legendre, rk1210Feagin, rk1211Peter, rk1412Long, and rk1412Feagin and tests them on the Pleiades problem, a 7 body 2-dimensional gravitational system, by kayejlli
+[RKAdaptiveMethods](https://github.com/kayejlli/RKAdaptiveMethods): implements adaptive Runge-Kutta methods rk54Sharp, rk54Dormand, rk65Dormand, rk87Dormand, rk87EnrightVerner, rk108Feagin, rk109Legendre, rk1210Feagin, rk1211Peter, rk1412Long, and rk1412Feagin and tests them on the Pleiades problem, a 7 body 2-dimensional gravitational system, by kayejlli. Can be called by Python via f2py or by a Fortran main program.
 
 [rksuite](https://github.com/jacobwilliams/rksuite): Runge-Kutta methods for the numerical solution of the initial value problem for a first order system of ordinary differential equations
 
