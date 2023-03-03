@@ -1162,6 +1162,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [Reference OpenSource Controller (ROSCO) for wind turbine applications](https://github.com/NREL/ROSCO#nrels-reference-opensource-controller-rosco-for-wind-turbine-applications): modular and fully adaptable baseline wind turbine controller to the scientific community, from NREL. Because of the open character and modular set-up, scientists are able to collaborate and contribute in making continuous improvements to the code.
 
+[THOR](https://github.com/NCSU-NCSG/THOR): discrete ordinates radiation transport code using the AHOT-C method on unstructured meshes (can be generated using Gmsh and converted using OpenMeshConverter) and multigroup XS (can be generated using OpenMC and converted using OpenXSConverter), by Nicholas Herring et al.
+
 [Wind Energy with Integrated Servo-control (WEIS)](https://github.com/WISDEM/WEIS): performs multifidelity co-design of wind turbines, from WISDEM. WEIS is a framework that combines multiple NREL-developed tools to enable design optimization of floating offshore wind turbines.
 
 ## Error Handling
