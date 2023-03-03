@@ -307,6 +307,8 @@ Luis Harvey Triana Vega
 
 [hole2](https://github.com/osmart/hole2): analysis and visualisation of the pore dimensions of the holes through molecular structures of ion channels, by Oliver Smart et al.
 
+[ktz-phasediag](https://github.com/mgirardis/ktz-phasediag): generates phase diagram for the KTz Neuron. Code written for the paper Girardi-Schappo M, Bortolotto GS, Stenzinger RV, Gonsalves JJ, Tragtenberg MHR (2017) [Phase diagrams and dynamics of a computationally efficient map-based neuron model](https://github.com/mgirardis/ktz-phasediag). PLoS ONE 12(3): e0174621.
+
 [lungsim (Aether)](https://github.com/LungNoodle/lungsim): pulmonary simulation library
 
 [Motility Analysis of T-Cell Histories in Activation (MATCHA)](https://github.com/BerkeleyLab/matcha): designs virtual T cells that move like biological T cells, from  BerkeleyLab and Northern New Mexico College. The virtual T cells will match the speed and turning angle distributions of biological cells.
