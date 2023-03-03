@@ -2248,7 +2248,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 [pdfo](https://github.com/pdfo/pdfo): Powell's Derivative-Free Optimization solvers is a cross-platform package
 providing interfaces for using the late M. J. D. Powell's derivative-free optimization solvers, including UOBYQA, NEWUOA, BOBYQA, LINCOA, and COBYLA.
 
-[pdfo_ref](https://github.com/zequipe/pdfo_ref): reference implementation of Powell's derivative-free optimization solvers, namely COBYLA, UOBYQA, NEWUOA, BOBYQA, and LINCOA, by Zhang Zaikun and Tom M. Ragonneau. The goal is to implement these solvers in modern languages --- first modern Fortran (F2003 or later), and then MATLAB, Python, and probably Julia and R. It will be a faithful implementation, in the sense that the new code will be mathematically equivalent to Powell’s, except for the bug fixing and improvements that we make intentionally.
+[prima](https://github.com/libprima/prima): Reference Implementation for Powell's methods with Modernization and Amelioration, by Zhang Zaikun
+and Tom M. Ragonneau PRIMA implements of Powell's derivative-free optimization methods, namely COBYLA, UOBYQA, NEWUOA, BOBYQA, and LINCOA.
 
 [PowellOpt](https://github.com/jacobwilliams/PowellOpt): collection of derivative-free optimization algorithms by M.J.D. Powell. 
 
