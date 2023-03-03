@@ -305,6 +305,8 @@ Luis Harvey Triana Vega
 
 [GENeralized-Ensemble SImulation System (GENESIS)](https://github.com/genesis-release-r-ccs/genesis-2.0): molecular dynamics and modeling software for bimolecular systems such as proteins, lipids, nucleic acids, glycans, and their complexes. Main site is [here](https://www.r-ccs.riken.jp/labs/cbrt/).
 
+[hole2](https://github.com/osmart/hole2): analysis and visualisation of the pore dimensions of the holes through molecular structures of ion channels, by Oliver Smart et al.
+
 [lungsim (Aether)](https://github.com/LungNoodle/lungsim): pulmonary simulation library
 
 [Motility Analysis of T-Cell Histories in Activation (MATCHA)](https://github.com/BerkeleyLab/matcha): designs virtual T cells that move like biological T cells, from  BerkeleyLab and Northern New Mexico College. The virtual T cells will match the speed and turning angle distributions of biological cells.
