@@ -724,6 +724,8 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [Propeller Panel Method (PROPAN)](https://github.com/joaomrbaltazar/PROPAN): panel code for the calculation of steady and unsteady potential flow around foils, open and ducted propellers, and wind and marine current turbines. PROPAN was developed by MARETEC (Marine and Environmental Technology Research Centre) at Instituto Superior Técnico (IST), which belongs to Lisbon University.
 
+[ps3d](https://github.com/matt-frey/ps3d): pseudo-spectral code for turbulent flows in 3D, associated with the paper [The stability of inviscid Beltrami flow between parallel free-slip impermeable boundaries](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/stability-of-inviscid-beltrami-flow-between-parallel-freeslip-impermeable-boundaries/B34AC971DD2262386BB10E9E76E7646C), by David Dritschel and Matthias Frey, Journal of Fluid Mechanics (2023)
+
 [ransfoil](https://github.com/sdhzhs/ransfoil): console to simulate airflow around an airfoil based on RANS approach
 
 [Rayleigh - dynamo in spherical geometry](https://github.com/geodynamics/Rayleigh): 3-D convection code designed for the study of dynamo behavior in spherical geometry. It evolves the incompressible and anelastic MHD equations in spherical geometry using a pseudo-spectral approach. 
