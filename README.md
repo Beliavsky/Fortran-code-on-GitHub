@@ -869,6 +869,8 @@ engine, by montagdude and Geoff Sokoll
 
 [EddyPro](https://github.com/LI-COR/eddypro-engine): processes eddy covariance data, by LI‑COR Biosciences. It computes fluxes of water vapor (evapotranspiration), carbon dioxide, methane, other trace gases, and energy with the Eddy Covariance method.
 
+[EQdyna](https://github.com/dunyuliu/EQdyna): parallel finite element software to simulate earthquake spontaneous dynamic rupture, seismic wave propagation and high frequency deterministic ground motions, by Dunyu Liu. It focuses on simulating earthquakes on geometrically complex fault systems with other heterogeneities in mind.
+
 [European Regional Seas Ecosystem Model (ERSEM)](https://github.com/pmlmodelling/ersem): marine ecosystem model that describes the biogeochemical cycling of carbon, nitrogen, phosphorus, silicon, oxygen and iron through pelagic and benthic ecosystems.
 
 [fastscapelib-fortran](https://github.com/fastscape-lem/fastscapelib-fortran): Fortran (+ Python bindings) library of efficient algorithms for landscape evolution modeling, by Benoit Bovy et al.
