@@ -145,8 +145,7 @@
 
 [legolas](https://github.com/n-claes/legolas): modern tool for MHD spectroscopy, by n-claes
 
-[libTheSky](https://github.com/MarcvdSluys/libTheSky): computes the positions and other properties of celestial bodies (Moon, planets, comets, asteroids, stars), events (e.g. 
-lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFloyd. It forms the core of the software that is used to create the Dutch popular-astronomy website http://hemel.waarnemen.com.
+[libTheSky](https://github.com/MarcvdSluys/libTheSky): computes the positions and other properties of celestial bodies (Moon, planets, comets, asteroids, stars), events (e.g. lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFloyd. It forms the core of the software that is used to create the Dutch popular-astronomy website http://hemel.waarnemen.com.
 
 [MAESTRO](https://github.com/AMReX-Astro/MAESTRO): solves the equations of low Mach number hydrodynamics for stratified atmospheres/stars with a general equation of state, from AMReX-Astro
 
@@ -161,6 +160,8 @@ lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFlo
 [Modules for Experiments in Stellar Astrophysics (MESA)](https://github.com/MESAHub/mesa): allow users to run experiments in stellar evolution. Stellar evolution calculations (i.e., stellar evolution tracks and detailed information about the evolution of internal and global properties) are a basic tool that enable a broad range of research in astrophysics. 
 
 [msg](https://github.com/rhdtownsend/msg): Multidimensional Spectral Grids -- project for evaluating radiant properties of stellar atmospheres by rhdtownsend
+
+[NASA Ames Mars Global Climate Model (AmesGCM)](https://github.com/nasa/AmesGCM): simulates the atmosphere and climate of the planet Mars using an external finite volume dynamical core to predict the global atmospheric state given various planetary parameters and physical parameters.
 
 [NASA Ames Legacy Mars Global Climate Model](https://github.com/nasa/legacy-mars-global-climate-model): uses a modified version of the ARIES/GEOS dynamical core coupled with a set of Mars physics packages to simulate the martian climate. 
 
