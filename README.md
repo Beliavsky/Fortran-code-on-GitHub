@@ -2691,6 +2691,8 @@ Ioannis Nompelis
 
 [FLOSIC2020](https://github.com/FLOSIC/PublicRelease_2020): performs self-interaction corrected (SIC) density functional approximation calculations, by Duyen Nguyen et al. Fermi Löwdin orbital implementation of Perdew-Zunger SIC scheme is used in the software.
 
+[gfn0](https://github.com/pprcht/gfn0): stand-alone implementation of the GFN0-xTB method, described in preprint [A Robust Non-Self-Consistent Tight-Binding Quantum Chemistry Method for large Molecules](https://chemrxiv.org/engage/chemrxiv/article-details/60c742abbdbb890c7ba3851a) (2019), by Philipp Pracht, Eike Caldeweyher, Sebastian Ehlert, and Stefan Grimme 
+
 [H2-PolarizabilityMatrixElements](https://github.com/ankit7540/H2-PolarizabilityMatrixElements): Fortran and Python code associated with paper "Polarizability tensor invariants of H2, HD, and D2", by Raj, A., Hamaguchi, H., and Witek, H. A., Journal of Chemical Physics 148, 104308 (2018)
 
 [HANDE](https://github.com/hande-qmc/hande): efficient, highly parallel code for stochastic quantum chemistry. It can be used both as a standalone program or (optionally) as a library from an existing quantum chemistry code.
