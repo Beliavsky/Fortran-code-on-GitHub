@@ -619,6 +619,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [AerOpt](https://github.com/DrBenEvans/AerOpt): aerodynamic optimisation code based on control node parameterisation, by Ben Evans et al.
 
+[afivo-streamer](https://github.com/MD-CWI/afivo-streamer): code for fluid simulations of streamer discharges, from Multiscale Dynamics - CWI. It is based on the [afivo](https://github.com/MD-CWI/afivo) framework, which provides adaptive mesh refinement (AMR) and a multigrid solver for Poisson's equation.
+
 [AMR-LBM-OpenMP-2D](https://github.com/AbbasHub/AMR-LBM-OpenMP-2D): Adaptive Mesh Refinement (AMR) technique utilized with the Lattice-Boltzmann Method (LBM) for numerical simulation of multiphase flows, by AbbasHub. OpenMP is used for parallelization of the code on share-memory machines.
 
 [C81-Interface](https://github.com/cibinjoseph/C81-Interface): parses and creates C81 formatted airfoil tables, by Cibin Joseph
