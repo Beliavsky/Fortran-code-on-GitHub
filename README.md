@@ -532,6 +532,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [Modular computation tool chain library (mctc-lib)](https://github.com/grimme-lab/mctc-lib): common tool chain to use molecular structure data in various applications, from grimme-lab. This library provides a unified way to perform operations on molecular structure data, like reading and writing to common geometry file formats.
 
+[MolAlignLib](https://github.com/qcuaeh/molalignlib): Fortran and Python library based on random rotations and quasi-local RMSD minimizations to align rigid molecules and clusters. Associated paper: M. Vasquez-Perez, L. A. Zarate-Hernandez, C. Z. Gomez-Castro, U. A. Nolasco-Hernandez. [A Practical Algorithm to Solve the Near-Congruence Problem for Rigid Molecules and Clusters](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01187), Journal of Chemical Information and Modeling (2023)
+
 [mstore](https://github.com/grimme-lab/mstore): molecular structure store for testing, from grimme-lab
 
 [numsa](https://github.com/grimme-lab/numsa): solvent accessible surface area calculation, from grimme-lab
