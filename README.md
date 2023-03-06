@@ -2414,6 +2414,8 @@ Ioannis Nompelis
 
 [Numerical Analysis Problems and Solutions](https://github.com/Papelbon/numerical-anal): codes to solve boundary value problems and the time-dependent (time-independent) heat equation over a one dimensional region, by Pavel Kureichyk
 
+[pdecheb](https://github.com/ivan-pi/pdecheb): Chebyshev polynomial software for elliptic-parabolic Systems of PDEs, by Ivan Pribec
+
 [pigasus](https://github.com/ratnania/pigasus): generic Python package for solving (system of) Partial Differential Equations, by Ahmed Ratnani. Its core is written in Fortran. The aim of Pigasus is to discretize spatial differential operators, which makes it easier to write different time schemes thanks to the oriented object aspect of Python.
 
 [PoisFFT](https://github.com/LadaF/PoisFFT): solves the Poisson equation on a uniform Cartesian grid using the Fast Fourier Transform, by Vladimír Fuka and Javier Alejandro Acevedo Barroso. It calls the library FFTW3 and (if MPI is used) also PFFT.
