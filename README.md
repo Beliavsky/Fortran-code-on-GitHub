@@ -1739,6 +1739,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fortran-rbf](https://github.com/dongli/fortran-rbf): implementation of radial basis functions (RBF), by dongli
 
+[interpolation](https://github.com/furstj/interpolation): Matlab/Octave-like interpolation functions such as linear and PCHIP (Piecewise Cubic Hermite Interpolating Polynomial), by Jiří Fürst
+
 [lagrange_interpolator](https://github.com/jlokimlin/lagrange_interpolator): OOP library for 1 and 2-dimensional Lagrange interpolation, by Jon Lo Kim Lin
 
 [Mean-preserving interpolation (mp-interp)](https://github.com/pjbartlein/mp-interp): implements four approaches for mean-preserving interpolation as might be applied, for example, to the interpolation of pseudo-daily values from monthly means, that when averaged, reproduce those monthly means, by Pat Bartlein
@@ -1747,9 +1749,7 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [PCHIP](https://github.com/jacobwilliams/PCHIP): piecewise cubic Hermite interpolation of data, by Jacob Williams. It features software to produce a monotone and "visually pleasing" interpolant to monotone data.
 
-[pytspack](https://github.com/noaa-oar-arl/pytspack): Python wrapper by Barry Baker and Zachary Moon of Robert J. Renka's [TSPACK](http://www.netlib.no/netlib/toms/716), a curve-fitting package based on exponential tension splines with automatic selection of tension factors
-
-TSPACK is a curve-fitting package based on exponential tension splines with automatic selection of tension factors.
+[pytspack](https://github.com/noaa-oar-arl/pytspack): Python wrapper by Barry Baker and Zachary Moon of Robert J. Renka's [TSPACK](http://www.netlib.no/netlib/toms/716), a curve-fitting package based on exponential tension splines with automatic selection of tension factors. TSPACK is a curve-fitting package based on exponential tension splines with automatic selection of tension factors.
 
 [regridpack](https://github.com/jacobwilliams/regridpack): routines for interpolating values between one-, two-, three-, and four-dimensional arrays defined on uniform or nonuniform orthogonal grids, from Jacob Williams
 
