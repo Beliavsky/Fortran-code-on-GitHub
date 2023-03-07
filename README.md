@@ -994,6 +994,8 @@ engine, by montagdude and Geoff Sokoll
 
 [omuse](https://github.com/omuse-geoscience/omuse): Oceanographic MUltipurpose Software Environment is a package to conduct numerical experiments in oceanography and other Earth sciences.
 
+[Open-source geomagneToSphere prOpagation tool (OTSO)](https://github.com/NLarsen15/OTSO): geophysics tool used to compute the trajectories of cosmic rays within the Earth's magnetosphere, by Nicholas Larsen. These computations are used to determine physical values, such as cut-off rigidities and asymptotic cones for locations on the Earth, that are needed by the cosmic ray research community.
+
 [Open-source Seismic Wave Propagation Code (OpenSWPC)](https://github.com/tktmyd/OpenSWPC): simulates seismic wave propagation by solving equations of motion with constitutive equations of elastic/viscoelastic medium by finite difference method (FDM) under message passing interface (MPI) environment in 3D and 2D (P-SV or SH) media, by Takuto Maeda.
 This package also provides a set of tools for visualizing/converting simulation output.
 
