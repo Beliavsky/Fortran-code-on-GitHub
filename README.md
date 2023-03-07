@@ -2841,6 +2841,8 @@ Ioannis Nompelis
 [trimon](https://github.com/rabieomar92/trimon): 3D Monte Carlo Code for TRIGA Mk-II Reactor Core Calculation, by rabieomar92
 
 ## Sorting
+[Fortran-Code-Snippits](https://github.com/Aussie-Pete/Fortran-Code-Snippits): codes for sorting and searching, including the Boyer–Moore string-search algorithm, by Peter Kelly
+
 [Fortran-parallel-sort](https://github.com/cphyc/Fortran-parallel-sort): Fortran library to perform parallel sorts, by cphyc and OCsteve
 
 [fortran-search-and-sort](https://github.com/jacobwilliams/fortran-search-and-sort): Searching and sorting with modern Fortran, by Jacob Williams
