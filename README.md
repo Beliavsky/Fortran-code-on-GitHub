@@ -2311,6 +2311,8 @@ and Tom M. Ragonneau PRIMA implements of Powell's derivative-free optimization m
 [VTMOP: Solver for Blackbox Multiobjective Optimization Problems](https://github.com/vtopt/VTMOP): package containing a robust, portable solver and a flexible framework for solving MOPs, by Tyler Chang and Layne Watson. Designed for for efficiency and scalability to an arbitrary number of objectives, VTMOP attempts to generate uniformly spaced points on a (possibly nonconvex) Pareto front with minimal cost function evaluations.
 
 ## Parallel Programming
+[ACM40640-PH504](https://github.com/ICHEC-learn/ACM40640-PH504): Introduction to HPC and Parallel Programming Module, by Buket Benek Gursoy et al.
+
 [Advanced MPI and parallel I/O](https://github.com/csc-training/advanced-mpi): Exercise material and model answers for the CSC course [Advanced MPI and parallel I/O](https://events.prace-ri.eu/event/1224/), by Jussi Enkovaara and Cristian-Vasile Achim
 
 [Advanced Parallel Programming](https://github.com/csc-training/advanced-parallel-prog): exercise material and model answers for a CSC course. Other CSC courses are [Elements of high-performance computing](https://github.com/csc-training/elements-of-hpc) and [Parallel Programming with MPI](https://github.com/csc-training/mpi-introduction) and [CSC Summer School in High-Performance Computing 2022](https://github.com/csc-training/summerschool).
