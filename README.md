@@ -2567,6 +2567,8 @@ Ioannis Nompelis
 
 [Generalized Spallation Model and Event Generator](https://github.com/lanl/generalized-spallation-model): composed of several sub-models, consisting primarily of the Standard and Modified Dubna Cascade Models (DCM), a Coalescence model, Preequilibrium model, and the GEM2 (Generalized Evaporation Model), being used for simulating compound Evaporation and fission, from Los Alamos National Laboratory.
 
+[Green-Tea-](https://github.com/marcopala/Green-Tea-): Green's functions quantum transport solver based on ab-initio physical models, associated with paper [Unit cell restricted Bloch functions basis for first-principle transport models: Theory and application](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.045410), by M. G. Pala, P. Giannozzi, and D. Esseni Phys. Rev. B 102, 2020
+
 [Guided_Missile_Simulation](https://github.com/bgin/Guided_Missile_Simulation): Air-to-Air Missile Simulation written in modern Fortran, by bgin
 
 [IrisFDTD-Academic](https://github.com/IrisFDTD/IrisFDTD-Academic): implements the Finite-Difference Time-Domain (FDTD) method. It is a "toy version" of the [IrisFDTD](https://github.com/IrisFDTD/IrisFDTD) program, a Maxwell’s equations solver in the field of computational electrodynamics for photonics and nanotechnology, by Sergio G Rodrigo.
