@@ -2189,6 +2189,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [dop853](https://github.com/jacobwilliams/dop853): modern Fortran (2003/2008) implementation of Hairer's DOP853 ODE solver, by Jacob Williams. The original FORTRAN 77 code has been extensively refactored, and is now object-oriented and thread-safe, with an easy-to-use class interface. DOP853 is an explicit Runge-Kutta method of order 8(5,3) due to Dormand & Prince (with stepsize control and dense output).
 
+[dvode](https://github.com/jacobwilliams/dvode): Modern Fortran Edition of the [DVODE](https://computing.llnl.gov/projects/odepack) ODE Solver, by Jacob Williams
+
 [FATODE](https://github.com/ComputationalScienceLaboratory/FATODE): set of integrators to solve ordinary differential system y'=f(t,y) with capabilities of direct and adjoint sensitivity analysis, from ComputationalScienceLaboratory
 
 [Fortran Library for numerical INTegration of differential equations (FLINT)](https://github.com/princemahajan/FLINT): modern object-oriented fortran library that provides four adaptive step-size explicit Runge-Kutta (ERK) methods of order 5, 6, 8, and 9 along with dense-output and multiple event-detection support for each of the methods, by Bharat Mahajan. The code is written such that any other ERK method can be implemented by including its coefficients with minimum changes required in the code. 
