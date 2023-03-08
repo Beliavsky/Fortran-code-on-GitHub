@@ -115,6 +115,8 @@
 
 [exotrending](https://github.com/oscaribv/exotrending): fast and easy-to-use light curve detrending software for exoplanets, from oscaribv
 
+[FastQSL](https://github.com/el2718/FastQSL): code associated with Zhang, P., Chen, J., Liu, R. and Wang, C., [FastQSL: A Fast Computation Method for Quasi-separatrix Layers](https://iopscience.iop.org/article/10.3847/1538-4357/ac8d61). The Astrophysical Journal, 2022, 937, 26
+
 [fastSHT](https://github.com/liuhao-cn/fastSHT): code associated with the paper [Accelerating spherical harmonic transforms for a large number of sky maps](https://arxiv.org/abs/2208.10154), by Chi Tian, Siyu Li, and Hao Liu
 
 [FEMlimb-Astrophysics](https://github.com/laya2020/FEMlimb-Astrophysics): algorithm described in the paper [Measuring limb darkening of stars in high-magnification microlensing events by the Finite Element Method](https://academic.oup.com/mnras/article-abstract/494/1/584/5809367), by L. Golchin and S. Rahvar, Monthly Notices of the Royal Astronomical Society (2020)
