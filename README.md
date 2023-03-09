@@ -1994,6 +1994,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [Reactive_PB_NN_MD](https://github.com/jmcdaniel43/Reactive_PB_NN_MD): reactive molecular dynamics code based on PB-NN potentials, in which neural networks are utilized in the off-diagonal elements of the Hamiltonian to mediate the chemical reactions, by Sam Delmerico et al. This code uses a custom update algorithm to calculate PME forces for the diabatic states in the Hamiltonian matrix.
 
+[Relativistic and Electromagnetic Molecular Dynamics Simulation for Nanoscale Phenomena](https://github.com/Mtanaka77/Relativistic_Molecular_Dynamics_Simulation): associated paper: M. Tanaka and M. Murakami, [Relativistic and electromagnetic molecular dynamics simulations for a carbon-gold nanotube accelerator](https://www.sciencedirect.com/science/article/abs/pii/S0010465519300906), Computer Physics Communications, 241, 56-63 (2019)
+
 [RXMD](https://github.com/USCCACS/RXMD): simulates large-scale Reactive Force Field molecular dynamics (MD) simulations on from commodity laptops to high-end supercomputing platforms, from USCCACS. rxmd has been used in a various class of material studies, such as shock-induced chemical reactions, stress corrosion cracking, underwater bubble collapse, fracture of self-healing ceramics and oxidation of nanoparticles.
 
 [Structure_factor_FFT](https://github.com/jmcdaniel43/Structure_factor_FFT): computes structure factors using the particle mesh Ewald approach, by Jesse Gatten McDaniel. Either the electron density structure factor can be computed for X-ray scattering (uses form factors), or the total charge density can be computed (uses input force field charges) to evaluate sum rules
