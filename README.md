@@ -2810,6 +2810,8 @@ Ioannis Nompelis
 
 [Without Empty STates (WEST)](https://github.com/west-code-development/West): massively parallel software for large scale electronic structure calculations within many-body perturbation theory, by Marco Govoni et al.
 
+[x2dhf](https://github.com/susilehtola/x2dhf): finds virtually exact solutions of the Hartree-Fock and density functional theory equations for diatomic molecules and atoms, by Susi Lehtola and Jacek Kobus The lowest energy eigenstates of a given irreducible representation and spin can be obtained.
+
 [Yet Another Many-Body cOde (YAMBO)](https://github.com/yambo-code/yambo): implements Many-Body Perturbation Theory (MBPT) methods (such as GW and BSE) and Time-Dependent Density Functional Theory (TDDFT), which allows for accurate prediction of fundamental properties as band gaps of semiconductors, band alignments, defect quasi-particle energies, optics and out-of-equilibrium properties of materials, by Davide Sangalli et al.
 
 [Zen](https://github.com/huangli712/Zen): modern DFT + DMFT (namely, density functional theory plus dynamical mean-field theory) computation framework, by huangli712
