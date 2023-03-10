@@ -336,6 +336,8 @@ Luis Harvey Triana Vega
 [asgs](https://github.com/StormSurgeLive/asgs): the ADCIRC Surge Guidance System (ASGS), from 
 StormSurgeLive, provides software infrastructure for automating ADCIRC for real time or operational deployments, as well as a variety of tools for pre- and post-processing ADCIRC data.
 
+[Automatic Lidar and Ceilometer Processing Framework (ALCF)](https://github.com/alcf-lidar/alcf): tool for processing of automatic lidar and ceilometer (ALC) data and intercomparison with atmospheric models such as general circulation models (GCMs), numerical weather prediction models (NWP) and reanalyses with a lidar simulator using the COPS instrument simulator framework running offline on model output
+
 [C_ClWxSim](https://github.com/RosesHaveThorns/C_ClWxSim): very simplistic weather and climate simulator for worldbuilding, from RosesHaveThorns
 
 [Cloud Layers Unified By Binormals (clubb_release)](https://github.com/larson-group/clubb_release): single-column atmospheric model, with associated preprint [CLUBB-SILHS: A parameterization of subgrid variability in the atmosphere](https://arxiv.org/pdf/1711.03675.pdf), by Vincent E. Larson
