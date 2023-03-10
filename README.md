@@ -2802,6 +2802,8 @@ Ioannis Nompelis
 
 [SPHF](https://github.com/cffischer/SPHF): B-spline version of a Hartree-Fock program, by Charlotte Fischer
 
+[spinProjection](https://github.com/hphratchian/spinProjection): carries out spin-projection for unrestricted Hartree-Fock theory, by Hrant P. Hratchian
+
 [STB](https://github.com/MRedies/STB): Simple Tight-binding, by MRedies
 
 [TBmodels](https://github.com/aamaricci/TBmodels): collection of non-interacting Tight Binding models, often used as a basis for interacting problem calculations, by Adriano Amaricci
