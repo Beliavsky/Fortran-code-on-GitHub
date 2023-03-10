@@ -320,7 +320,7 @@ Luis Harvey Triana Vega
 
 [MycoplasmaGenitalium](https://github.com/ccsb-scripps/MycoplasmaGenitalium): modelling of Mycoplasma genitalium based on the WC computational model, by Ludovic Autin and Martina Maritan
 
-[RBC3D](https://github.com/comp-physics/RBC3D): spectral boundary integral solver for cell-scale blood flow. Associated paper: Bryngelson, S. H., Guéniat, F., & Freund, J. B. (2019). [Irregular dynamics of cellular blood flow in a model microvessel](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.012203). Physical Review E, 100, 012203.
+[RBC3D](https://github.com/comp-physics/RBC3D): spectral boundary integral solver for cell-scale blood flow. Associated paper: Bryngelson, S. H., Guéniat, F., & Freund, J. B. (2019), [Irregular dynamics of cellular blood flow in a model microvessel](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.012203), Physical Review E, 100, 012203.
 
 [Reproductive Simulation Library (reprosim)](https://github.com/VirtualPregnancy/reprosim): placenta and uterus simulation libraries by Monika Byrne et al.
 
