@@ -2625,6 +2625,8 @@ Ioannis Nompelis
 
 [Scalable Ab-initio Light–Matter simulator for Optics and Nanoscience (SALMON)](https://github.com/SALMON-TDDFT/SALMON2): software based on first-principles time-dependent density functional theory to describe optical responses and electron dynamics in matters induced by light electromagnetic fields, by Shunsuke Yamada et al.
 
+[semba-fdtd](https://github.com/salvaugres/semba-fdtd): parallel Finite-Difference Time-Domain (FDTD) simulator. An associated paper is Miguel Ruiz Cabello, Maksims Abalenkovs, Luis Diaz Angulo, Clemente Cobos Sanchez, Franco Moglie, Salvador Gonzalez Garcia, [Performance of parallel FDTD method for shared- and distributed-memory architectures: Application to bioelectromagnetics](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238115), PLOS ONE 15(9): e0238115, 2020 https://doi.org/10.1371/journal.pone.0238115
+
 [Semi-Lagrangian Library (SeLaLib)](https://github.com/selalib/selalib): modular library for kinetic and gyrokinetic simulations of plasmas in fusion energy devices
 
 [SENSMG](https://github.com/jafavorite/SENSMG): Sensitivities of Neutron Reaction Rates, Reaction-Rate Ratios, Leakage, keff, and α Using PARTISN, by jafavorite
