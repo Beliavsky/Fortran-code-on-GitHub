@@ -2802,7 +2802,7 @@ Ioannis Nompelis
 
 [SPHF](https://github.com/cffischer/SPHF): B-spline version of a Hartree-Fock program, by Charlotte Fischer
 
-[spinProjection](https://github.com/hphratchian/spinProjection): carries out spin-projection for unrestricted Hartree-Fock theory, by Hrant P. Hratchian
+[spinProjection](https://github.com/hphratchian/spinProjection): carries out spin-projection for unrestricted Hartree-Fock theory, by Hrant P. Hratchian. Other codes are [spinContaminationChecker](https://github.com/hphratchian/spinContaminationChecker) to carry out spin contamination checks, analysis, and related models and [nio](https://github.com/hphratchian/nio) for Natural Ionization Orbital analysis
 
 [STB](https://github.com/MRedies/STB): Simple Tight-binding, by MRedies
 
