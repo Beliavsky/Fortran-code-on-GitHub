@@ -926,6 +926,9 @@ engine, by montagdude and Geoff Sokoll
 
 [GSW-Fortran](https://github.com/TEOS-10/GSW-Fortran): Gibbs-SeaWater Oceanographic Toolbox in Fortran, by Glenn Hyland et al.
 
+[gufm1-webservice](https://github.com/martinrehfeld/gufm1-webservice): four centuries of geomagnetic secular variation from historical records.
+This Fortran-backed webservice by Martin Rehfeld provides an interface to the [gufm1](https://royalsocietypublishing.org/doi/10.1098/rsta.2000.0569) model as published by Andrew Jackson, Art R. T. Jonkers and Matthew R. Walker.
+
 [Halfspace deformation (hdef)](https://github.com/mherman09/Hdef): forward calculation of displacements, strains, and stresses in an elastic half-space. The sources are fault slip models, using the solutions derived in Okada (1992) and in Meade (2007).
 
 [Harmonized Emissions Component (HEMCO)](https://github.com/geoschem/HEMCO): computing (atmospheric) emissions from different sources, regions, and species on a user-defined grid, from geoschem. It can combine, overlay, and update a set of data inventories ('base emissions') and scale factors, as specified by the user through the HEMCO configuration file.
