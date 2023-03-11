@@ -2669,6 +2669,8 @@ Ioannis Nompelis
 
 [T-matrix for Electromagnetic Radiation with Multiple Scatterers (TERMS)](https://github.com/nano-optics/terms): simulates the near-field and far-field optical properties of collections of particles, by Dmitri Schebarchov et al. TERMS solves rigorously the Maxwell equations via the superposition T-matrix method, where incident and scattered fields are decomposed into a basis of multipolar electric and magnetic spherical waves.
 
+[Treecode-Accelerated Boundary Integral Poisson-Boltzmann (TABI-PB) solver](https://github.com/gengwh/TABI-PB): employs a well-conditioned boundary integral formulation for the electrostatic potential and its normal derivative on the molecular surface. Associated paper: J. Chen and W. Geng, [On preconditioning the treecode-accelerated boundary integral (TABI) Poisson-Boltzmann solver](https://www.sciencedirect.com/science/article/pii/S0021999118304728), J. Comput. Phys., 373, 750-762 (2018).
+
 [turbogap](https://github.com/mcaroba/turbogap): efficiently and accurately builds many-body atomic descriptors and carry out other related computations employed in machine-learning approaches to atomistic modeling, such as to run molecular dynamics simulations, by mcaroba
 
 [Uppsala Atomistic Spin Dynamics software (UppASD)](https://github.com/UppASD/UppASD): simulation suite to study magnetization dynamics by means of the atomistic version of the Landau-Lifshitz-Gilbert (LLG) equation, by Anders Bergman et al. Related book: [Atomistic Spin Dynamics: Foundations and Applications](https://global.oup.com/academic/product/atomistic-spin-dynamics-9780198788669?cc=us&lang=en&)
