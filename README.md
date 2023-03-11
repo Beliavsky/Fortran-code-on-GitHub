@@ -559,6 +559,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [QMC=Chem](https://github.com/TREX-CoE/qmcchem2): Reference: [Quantum Monte Carlo for large chemical systems: Implementing efficient strategies for petascale platforms and beyond](https://onlinelibrary.wiley.com/doi/10.1002/jcc.23216), by Anthony Scemama , Michel Caffarel, Emmanuel Osere.t and William Jalby (2013), Journal of Computational Chemistry, 34:11(938--951)
 
+[string-amber](https://github.com/kzinovjev/string-amber): adaptive string method implementation in sander (AmberTools 22.3). Associated paper: [Adaptive Finite Temperature String Method in Collective Variables](https://pubs.acs.org/doi/10.1021/acs.jpca.7b10842), by Kirill Zinovjev and Iñaki Tuñón, J. Phys. Chem. A 2017, 121, 51, 9764–9772 (2017).
+
 [structure analysis on the command line (struca)](https://github.com/hokru/struca): simple tool to help compare structures and compute trajectory data on the command line, by Holger Kruse
 
 [taurus_vap](https://github.com/project-taurus/taurus_vap): solves the variation after particle-number projection equations for real general Bogoliubov quasi-particle states represented in a spherical harmonic oscillator basis, from project-taurus
