@@ -2973,6 +2973,8 @@ and Andrea Rau.
 
 [ParaMonte](https://github.com/cdslaborg/paramonte): Plain Powerful Parallel Monte Carlo and MCMC Library for Python, MATLAB, Fortran, C++, C, from cdslaborg
 
+[peaks](https://github.com/jchristopherson/peaks): peak detection library meant to locate peaks and valleys in a signal, by Jason Christopherson. This library works on both smooth data and on noisy data where other routines, especially those that rely upon derivatives, have difficulties.
+
 [PolyChordLite](https://github.com/PolyChord/PolyChordLite): public version of PolyChord, next generation data technology which has the ability to more fully explore a complex, challenging data landscape
 
 [pygslib](https://github.com/opengeostat/pygslib): GSLIB (Geostatistical Software LIBrary) Fortran code wrapped into python
