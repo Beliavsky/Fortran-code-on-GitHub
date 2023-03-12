@@ -1092,6 +1092,8 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [seismo-fortran](https://github.com/anowacki/seismo-fortran): utility modules for dealing with generally-anisotropic elastic constants and other geophysics problems, by Andy Nowacki
 
+[seismo_tools](https://github.com/avillasenorh/seismo_tools): utilities for working with seismological data formats, seismic catalogs, and other common tasks such as calculating distances, computing arrival times, displaying seismograms, etc., by Antonio Villaseñor
+
 [SealEveL EquatioN solver (SELEN)](https://github.com/geodynamics/selen): numerical solution of the Sea Level Equation (SLE) for a spherical, layered, rotating Earth with viscoelastic rheology, by Eric Heien et al.
 
 [SEM2DPACK](https://github.com/jpampuero/sem2dpack): spectral element method for 2D wave propagation and fracture dynamics, with emphasis on computational seismology and earthquake source dynamics, from jpampuero et al.
