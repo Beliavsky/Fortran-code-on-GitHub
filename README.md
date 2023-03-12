@@ -132,6 +132,8 @@ SPICE/HeRALD
 
 [Fortran-Astrodynamics-Toolkit](https://github.com/jacobwilliams/Fortran-Astrodynamics-Toolkit): aims to be a comprehensive library, written in modern Fortran (Fortran 2003/2008), of all the standard orbital mechanics algorithms, by Jacob Williams
 
+[GaiaHub](https://github.com/AndresdPM/GaiaHub): Python/Fortran tool that computes proper motions combining data from Gaia and the Hubble Space Telescope, associated with paper [GaiaHub: A Method for Combining Data from the Gaia and Hubble Space Telescopes to Derive Improved Proper Motions for Faint Stars](https://ui.adsabs.harvard.edu/abs/2022ApJ...933...76D/abstract), by del Pino, Andrés et al., The Astrophysical Journal, Volume 933, Issue 1, id.76, 18 pp. (2022)
+
 [galacticus](https://github.com/galacticusorg/galacticus): semi-analytic model of galaxy formation - a powerful toolkit for modeling the physics of how galaxies form
 
 [GYRE Stellar Oscillation Code](https://github.com/rhdtownsend/gyre): Given an input stellar model, GYRE calculates the eigenfrequencies and eigenfunctions for the normal oscillation modes of the model, by rhdtownsend et al. These data can be put to a variety of uses; the most common is to compare them against observed oscillation frequencies of a star, allowing constraints on the star's fundamental parameters (mass, radius, etc.) to be established — the discipline of asteroseismology.
