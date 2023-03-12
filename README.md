@@ -2788,6 +2788,8 @@ Ioannis Nompelis
 
 [Optados](https://github.com/optados-developers/optados): calculates core-electron and low-loss electron energy loss spectra (EELS) and optical spectra along with total-, projected- and joint-density of electronic states (DOS) from single-particle eigenenergies and dipole transition coefficients.
 
+[Orthogonalized Linear Combination of Atomic Orbitals (olcao)](https://github.com/UMKC-CPG/olcao): all-electron density functional theory (DFT) based method that uses local atomic orbitals in the basis expansion, associated with book [Electronic Structure Methods for Complex Materials: The orthogonalized linear combination of atomic orbitals](https://academic.oup.com/book/34699), by Wai-Yim Ching, Paul Rulis, Oxford University Press (2012)
+
 [peacemaker](https://github.com/awvwgk/peacemaker): quantum cluster equilibrium theory for applying statistical mechanics to quantum-chemically optimized clusters, forked by Sebastian Ehlert
 
 [periodic-NBO](https://github.com/jrschmidt2/periodic-NBO): This projection code is capable of representing any plane-wave bands output by VASP into any user specified Gaussian type orbital basis set. Such an AO representation is required for the subsequent NBO analysis. The code is set up to then output all information necessary for periodic NBO analysis using the code of JRS and BDD.
