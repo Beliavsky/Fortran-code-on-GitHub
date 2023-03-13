@@ -2528,6 +2528,8 @@ Ioannis Nompelis
 
 [KORC](https://github.com/ORNL-Fusion/KORC): Kinetic Orbit Runaway Code, from ORNL-Fusion
 
+[New Hampshire Dispersion relation Solver (NHDS)](https://github.com/danielver02/NHDS): solves the linear hot-plasma dispersion relation based on the Vlasov-Maxwell set of equations, by Daniel Verscharen
+
 [Onion-Skin Modeling + EIRENE + DIVIMP for edge analysis (OEDGE)](https://github.com/ORNL-Fusion/OEDGE): OEDGE/DIVIMP/LIM plasma edge simulation codes for fusion reactor applications, from ORNL-Fusion
 
 [Quasilinear Electromagnetic Oscillations (QLEO)](https://github.com/pastfalk/QLEO): code based on the quasilinear kinetic equation which self-consistently describes how a given velocity distribution function of a homogeneous gyrotropic plasma evolves in time in the presence of an unstable spectrum of parallel propagating, electromagnetic linear eigenmodes, by Patrick Astfalk. The implemented formalism is based on the quasilinear kinetic equations given in, e.g., 'Methods in Nonlinear Plasma Theory' by R. C. Davidson (1972).
