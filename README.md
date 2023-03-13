@@ -945,8 +945,7 @@ engine, by montagdude and Geoff Sokoll
 
 [GSW-Fortran](https://github.com/TEOS-10/GSW-Fortran): Gibbs-SeaWater Oceanographic Toolbox in Fortran, by Glenn Hyland et al.
 
-[gufm1-webservice](https://github.com/martinrehfeld/gufm1-webservice): four centuries of geomagnetic secular variation from historical records.
-This Fortran-backed webservice by Martin Rehfeld provides an interface to the [gufm1](https://royalsocietypublishing.org/doi/10.1098/rsta.2000.0569) model as published by Andrew Jackson, Art R. T. Jonkers and Matthew R. Walker.
+[gufm1-webservice](https://github.com/martinrehfeld/gufm1-webservice): four centuries of geomagnetic secular variation from historical records. This Fortran-backed webservice by Martin Rehfeld provides an interface to the [gufm1](https://royalsocietypublishing.org/doi/10.1098/rsta.2000.0569) model as published by Andrew Jackson, Art R. T. Jonkers and Matthew R. Walker.
 
 [Halfspace deformation (hdef)](https://github.com/mherman09/Hdef): forward calculation of displacements, strains, and stresses in an elastic half-space. The sources are fault slip models, using the solutions derived in Okada (1992) and in Meade (2007).
 
@@ -955,6 +954,8 @@ This Fortran-backed webservice by Martin Rehfeld provides an interface to the [g
 [Heavy](https://github.com/jkennedy-usgs/heavy): calculates the change in gravity caused by the change in groundwater storage as predicted by a [MODFLOW](https://github.com/MODFLOW-USGS/modflow6) groundwater-flow model, by Jeff Kennedy. Gravity change is calculated relative to the initial time step at user-specified locations (e.g., measurement locations).
 
 [HOS-ocean](https://github.com/LHEEA/HOS-ocean): High-Order Spectral method for oceanic simulations, by gducrozet and Gjacquenot
+
+[HYbrid Coordinate Ocean Model (HYCOM)](https://github.com/HYCOM/HYCOM-src): data-assimilative hybrid isopycnal-sigma-pressure (generalized) coordinate ocean model, with objectives of three-dimensional depiction of the ocean state at fine resolution in real time, provision of boundary conditions for coastal and regional models, and provision of oceanic boundary conditions for a global coupled ocean-atmosphere prediction model
 
 [hypoellipse](https://github.com/INGV/hypoellipse): determines hypocenters and magnitudes of near regional earthquakes and the ellipsoids that enclose the 68-percent confidence volumes of the computed hypocenters. HYPOELLIPSE was developed to meet the needs of U.S. Geological Survey (USGS) scientists studying crustal and sub-crustal earthquakes recorded by a sparse regional seismograph network. 
 
