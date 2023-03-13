@@ -325,6 +325,9 @@ Luis Harvey Triana Vega
 
 [MycoplasmaGenitalium](https://github.com/ccsb-scripps/MycoplasmaGenitalium): modelling of Mycoplasma genitalium based on the WC computational model, by Ludovic Autin and Martina Maritan
 
+[QMCube (ren-qm3)](https://github.com/sergio-marti/ren-qm3): suite written in Python, calling Fortran codes, initially focused
+on multiscale QM/MM simulations of biological systems, but open enough to address other kinds of problems. Associated paper: [QMCube (QM3): An all-purpose suite for multiscale QM/MM calculations](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.26465), by Sergio Martí, J. Comput. Chem. 2021, 42, 447-457
+
 [RBC3D](https://github.com/comp-physics/RBC3D): spectral boundary integral solver for cell-scale blood flow. Associated paper: Bryngelson, S. H., Guéniat, F., & Freund, J. B. (2019), [Irregular dynamics of cellular blood flow in a model microvessel](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.012203), Physical Review E, 100, 012203.
 
 [Reproductive Simulation Library (reprosim)](https://github.com/VirtualPregnancy/reprosim): placenta and uterus simulation libraries by Monika Byrne et al.
