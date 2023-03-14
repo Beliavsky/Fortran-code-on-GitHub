@@ -809,6 +809,8 @@ engine, by montagdude and Geoff Sokoll
 
 [m_time](https://github.com/urbanjost/M_time): displays dates in a variety of formats and performs basic date and time computation, by urbanjost
 
+[time-f](https://github.com/0382/time-f): wraps time.h of the C standard library, by 0382
+
 ## Earth Science
 [1D3CSEM](https://github.com/elifo/1D3CSEM): one-dimensional (1D) three-component (3C) spectral element modeling (SEM) of seismic wave propagation in nonlinear media with pore-pressure effects, by Elif Oral, extending a code by Elise Delavaud
 
