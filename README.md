@@ -944,6 +944,8 @@ engine, by montagdude and Geoff Sokoll
 
 [GrowClust](https://github.com/dttrugman/GrowClust): program for the relative relocation of earthquake hypocenters based on waveform cross-correlation data, by dttrugman and sean0921
 
+[GROWTH-23](https://github.com/josefern/GROWTH-23): integrated code for inversion of complete Bouguer gravity anomaly or temporal gravity changes, by Jose Fernandez
+
 [GSFLOW](https://github.com/rniswon/gsflow_v2): coupled Groundwater and Surface-water FLOW model based on the integration of the USGS Precipitation-Runoff Modeling System (PRMS-V) and the USGS Modular Groundwater Flow Model (MODFLOW-2005 and MODFLOW-NWT), by Steve Regan et al.
 
 [GSW-Fortran](https://github.com/TEOS-10/GSW-Fortran): Gibbs-SeaWater Oceanographic Toolbox in Fortran, by Glenn Hyland et al.
