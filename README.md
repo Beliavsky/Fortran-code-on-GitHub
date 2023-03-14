@@ -946,6 +946,8 @@ engine, by montagdude and Geoff Sokoll
 
 [GROWTH-23](https://github.com/josefern/GROWTH-23): integrated code for inversion of complete Bouguer gravity anomaly or temporal gravity changes, by Jose Fernandez
 
+[GROWTH_3.0](https://github.com/josefern/GROWTH_3.0_software): 3-D gravity inversion tool based on exploration of model possibilities. Associated paper: Camacho, A.G. and Fernandez, J. (2019). [Modeling 3D free-geometry volumetric sources associated to geological and anthropogenic hazards from space and terrestrial geodetic data](https://www.mdpi.com/2072-4292/11/17/2042). Remote Sens., 11(17), 2042    
+
 [GSFLOW](https://github.com/rniswon/gsflow_v2): coupled Groundwater and Surface-water FLOW model based on the integration of the USGS Precipitation-Runoff Modeling System (PRMS-V) and the USGS Modular Groundwater Flow Model (MODFLOW-2005 and MODFLOW-NWT), by Steve Regan et al.
 
 [GSW-Fortran](https://github.com/TEOS-10/GSW-Fortran): Gibbs-SeaWater Oceanographic Toolbox in Fortran, by Glenn Hyland et al.
