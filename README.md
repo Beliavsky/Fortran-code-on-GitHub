@@ -2575,6 +2575,8 @@ Ioannis Nompelis
 
 [DielectricKit](https://github.com/wu2meng3/DielectricKit): high-performance computing toolkit to calculate and visualize polarizability and dielectric response function within the random-phase approximation, by Meng Wu.
 
+[Driver-Database](https://github.com/QcmPlab/Driver-Database): collection of programs that solve problems using libraries from QcmPlab, including Dmft_ED for Exact Diagonalization based DMFT method, SlaveSpins for the Slave Spins method, and Lattice_ED for programs implementing lattice Exact Diagonalization
+
 [Dr. Probe command-line tools (drprobe_clt)](https://github.com/ju-bar/drprobe_clt): CELSLC is a program to calculate object transmission functions to be used as phase gratings in a multislice algorithm for electron diffraction calculations. MSA is a program to calculate the diffraction of beam of probing electrons through a crystal. MSA is a program to calculate the diffraction of beam of probing electrons through a crystal.
 
 [DSLEAP](https://github.com/Jonathan271828/DSLEAP): algorithms for determining lattice oscillations. [Reference](https://arxiv.org/abs/2101.06099): "Anharmonic lattice dynamics in large thermodynamic ensembles with machine-learning force fields: the breakdown of the phonon quasiparticle picture in CsPbBr3", by Jonathan Lahnsteiner and Menno Bokdam
