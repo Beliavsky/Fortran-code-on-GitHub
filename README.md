@@ -2437,6 +2437,8 @@ Ioannis Nompelis
 
 [mpifx](https://github.com/dftbplus/mpifx): provides modern Fortran (Fortran 2003) wrappers around routines of the MPI library to make their use as simple as possible, from dftbplus. Currently several data distribution routines are covered.
 
+[nbody-ifx-do-concurrent](https://github.com/sarojadhikari/nbody-ifx-do-concurrent): N-body Fortran code port to test ifx (Intel Fortran) GPU offload of `do concurrent`, by Saroj Adhikari
+
 [NVIDIA OpenACC Course Sources and Labs](https://github.com/NVIDIA-OpenACC-Course/nvidia-openacc-course-sources): contains sources related to the lectures and labs for the [NVIDIA OpenACC course](https://developer.nvidia.com/openacc-courses).
 
 [OpenCoarrays](https://github.com/sourceryinstitute/OpenCoarrays): parallel application binary interface for Fortran 2018 compilers, from sourceryinstitute
