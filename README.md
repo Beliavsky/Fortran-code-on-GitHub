@@ -650,6 +650,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [AMR-LBM-OpenMP-2D](https://github.com/AbbasHub/AMR-LBM-OpenMP-2D): Adaptive Mesh Refinement (AMR) technique utilized with the Lattice-Boltzmann Method (LBM) for numerical simulation of multiphase flows, by AbbasHub. OpenMP is used for parallelization of the code on share-memory machines.
 
+[asimov-ccs](https://github.com/asimovpp/asimov-ccs): CFD and combustion code designed to scale to large numbers of cores. It follows a "separation of concerns' design that separates interfaces from implementations, and physics from parallelisation.
+
 [C81-Interface](https://github.com/cibinjoseph/C81-Interface): parses and creates C81 formatted airfoil tables, by Cibin Joseph
 
 [CaNS](https://github.com/p-costa/CaNS): fast, massively-parallel direct numerical simulations (DNS) of canonical flows, by p-costa and nscapin
