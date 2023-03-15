@@ -2043,6 +2043,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 ## Neural Networks and Machine Learning
 [autofit](https://github.com/Auto-Mech/autofit): fit permutationally invariant polynomials (PIPs), by Auto-Mech
 
+[fastGPT](https://github.com/certik/fastGPT): fast GPT-2 inference, by Ondřej Čertík, described in a post [FastGPT: Faster than PyTorch in 300 Lines of Fortran](https://ondrejcertik.com/blog/2023/03/fastgpt-faster-than-pytorch-in-300-lines-of-fortran/)
+
 [FKB](https://github.com/scientific-computing/FKB): two-way deep learning bridge between Keras and Fortran, from scientific-computing
 
 [fnn](https://github.com/cerea-daml/fnn): implements simple, sequential neural networks, by CEREA DA-ML team. Once a network is constructed, the forward operator is available with apply_forward and can be applied both in training and inference mode. 
