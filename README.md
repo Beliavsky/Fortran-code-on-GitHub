@@ -1434,7 +1434,7 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [Fortran-MOOC](https://github.com/gjbex/Fortran-MOOC): reading material, source code, and software stack for the PRACE MOOC on "Fortran for scientific programming", by Geert Jan Bex et al.
 
-[fortran_oop_as_a_second_language](https://github.com/acenet-arc/fortran_oop_as_a_second_language): Software-Carpentry-style workshop teaching object-oriented features of Fortran, from acenet-arc
+[fortran_oop_as_a_second_language](https://github.com/acenet-arc/fortran_oop_as_a_second_language): Software-Carpentry-style workshop teaching object-oriented features of Fortran, from acenet-arc. Also [Ftn-sample-code](https://github.com/acenet-arc/Ftn-sample-code), example code for a Fortran workshop
 
 [fortran-submodule](https://github.com/scivision/fortran-submodule): Examples of modern Fortran 2008 submodule, using Meson or CMake, from scivision. Fortran submodules allow easy switching in and out of features and extremely fast recompilation of large programs perhaps 100 times or more faster.
 
