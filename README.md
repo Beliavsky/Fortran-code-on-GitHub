@@ -2404,6 +2404,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Examples from OpenMP Application Programming Interface](https://github.com/OpenMP/Examples/tree/v5.0.1): examples from [OpenMP Application Programming Interface](https://www.openmp.org/wp-content/uploads/openmp-examples-5-0-1.pdf) in Fortran, C, and C++
 
+[ExaTENSOR](https://github.com/ORNL-QCI/ExaTENSOR): basic numerical tensor algebra library for distributed HPC systems equipped with multicore CPU and NVIDIA (or AMD) GPU, by Dmitry I. Lyakh. The hierarchical task-based parallel runtime of ExaTENSOR is based on the virtual tensor algebra processor architecture, i.e. a software processor specialized to numerical tensor algebra workloads on heterogeneous HPC systems (multicore/KNL, NVIDIA or AMD GPU).
+
 [f77_zmq](https://github.com/zeromq/f77_zmq): Fortran 77 binding library for ZeroMQ, an open-source universal messaging library, by Anthony Scemama et al.
 
 [first-timer](https://github.com/p-costa/first-timer): simple timing routines to be used in codes which use MPI and possibly CUDA/OpenACC using NVTX markers, by Pedro Costa
