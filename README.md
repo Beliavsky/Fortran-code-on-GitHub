@@ -670,6 +670,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [Channel3d](https://github.com/GongZheng-Justin/Channel3d): efficient second- /fourth-order finite-difference direct numerical simulation (DNS) solver with versatile viscous treatments, also with the ability to handle different boundary conditions, by GongZheng-Justin
 
+[CMPLXFOIL](https://github.com/mdolab/CMPLXFOIL): version of Mark Drela's [XFOIL](https://web.mit.edu/drela/Public/web/xfoil/) code for the design and analysis of subsonic isolated airfoils with the GUI features removed and gradient computation implemented with the [complex-step method](https://mdolab.engin.umich.edu/wiki/guide-complex-step-derivative-approximation), from mdolab
+
 [CloverLeaf_ref](https://github.com/UK-MAC/CloverLeaf_ref): solves the compressible Euler equations on a Cartesian grid, using an explicit, second-order accurate method, from UK-MAC. Each cell stores three values: energy, density, and pressure. 
 
 [code_saturne](https://github.com/code-saturne/code_saturne): CFD software handling either incompressible or expandable flows with or without heat transfer and turbulence
