@@ -2907,7 +2907,7 @@ Ioannis Nompelis
 
 [rng_fortran](https://github.com/jannisteunissen/rng_fortran): generates random integers, uniform, normal, and Poisson variates, and random points on a circle or sphere, using the xoroshiro128plus generator, by Jannis Teunissen
 
-[stdnormal](https://github.com/SomajitDey/stdnormal): fast generation of an array of standard normal variates using a (modified) Box-Muller transform, by SomajitDey
+[approx_stdnormal](https://github.com/SomajitDey/approx_stdnormal): fast generation of an array of standard normal variates using a (modified) Box-Muller transform, by SomajitDey
 
 [xoshiro-fortran](https://github.com/DSCF-1224/xoshiro-fortran): implementation of xoshiro/xoroshiro in Fortran 2008, by DSCF-1224
 
