@@ -1432,7 +1432,7 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [fortran_examples](https://github.com/ECCC-ASTD-MRD/fortran_examples): examples using advanced features of Fortran, by Philippe Carphin, Samuel Gilbert, and Michel Valin
 
-[Fortran-MOOC](https://github.com/gjbex/Fortran-MOOC): reading material, source code, and software stack for the PRACE MOOC on "Fortran for scientific programming", by Geert Jan Bex et al.
+[Fortran-MOOC](https://github.com/gjbex/Fortran-MOOC): reading material, source code, and software stack for the PRACE MOOC on [Fortran for scientific programming](https://www.futurelearn.com/courses/fortran-for-scientific-computing), by Geert Jan Bex et al.
 
 [fortran_oop_as_a_second_language](https://github.com/acenet-arc/fortran_oop_as_a_second_language): Software-Carpentry-style workshop teaching object-oriented features of Fortran, from acenet-arc. Also [Ftn-sample-code](https://github.com/acenet-arc/Ftn-sample-code), example code for a Fortran workshop
 
