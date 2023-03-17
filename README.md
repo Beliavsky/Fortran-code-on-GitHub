@@ -707,6 +707,9 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [fluxo](https://github.com/project-fluxo/fluxo): solves linear and nonlinear advection diffusion equations, for example the compressible Navier-Stokes equations, the resistive magneto-hydrodynamic equations and others
 
+[Fortran Environment for Numerics (FEN)](https://github.com/fradevita/FEN): environment for performing numerical simulations, including a finite difference solver for the incompressible Navier-Stokes equations, fast direct solver for the solution of the Poisson equation, volume of Fluid solver (MTHINC) for multiphase simulations, 
+direct forcing immersed boundary method for simulation of flow around solid objects, and computational parallelism by MPI, by Francesco De Vita
+
 [Fortran LBM](https://github.com/samieeme/Fortran-LBM-MSc-2013): Lattice Boltzmann solver for fluid flows, by Mehdi Samiee
 
 [fosolvers](https://github.com/mianzhi/fosolvers): suite of free and open source solvers, created with the goals of solving practical engineering problems and being easy to hack, by mianzhi
