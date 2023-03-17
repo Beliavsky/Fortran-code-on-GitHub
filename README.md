@@ -1729,6 +1729,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [dynload-julia](https://github.com/brocolis/dynload-julia): dynamically load Julia from Fortran, by brocolis
 
+[examples](https://github.com/PatNichols/examples): examples of Fortran and C++ interaction, by Pat Nichols
+
 [F2Py Sockets](https://github.com/b-fg/f2py-sockets): example of how to use sockets to transfer data from Fortran to Python and viceversa, by Bernat Font
 
 [f2py-with-derived-types](https://github.com/Nicholaswogan/f2py-with-derived-types): demonstrates how to use f2py with Fortran derived types with type-bound procedures, by Nick Wogan
