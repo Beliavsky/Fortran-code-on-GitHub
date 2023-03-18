@@ -572,6 +572,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [structure analysis on the command line (struca)](https://github.com/hokru/struca): simple tool to help compare structures and compute trajectory data on the command line, by Holger Kruse
 
+[Surface Assessment via Grid Evaluation (SuAVE)](https://github.com/SuAVE-Software/source_v2.0): accounts for the effect of curvature in the calculations of structural properties of chemical interfaces regardless of the chemical composition, asymmetry, and level of atom coarseness, by Denys E. S. Santos et al. It employs differential geometry techniques, enabling the representation of chemical surfaces as fully differentiable.  
+
 [taurus_vap](https://github.com/project-taurus/taurus_vap): solves the variation after particle-number projection equations for real general Bogoliubov quasi-particle states represented in a spherical harmonic oscillator basis, from project-taurus
 
 [THERMOCHIMICA](https://github.com/ORNL-CEES/thermochimica): computational library for chemical thermodynamics. It determines a unique combination of phases and their compositions for a prescribed chemical composition, temperature and pressure, from ORNL-CEES.
