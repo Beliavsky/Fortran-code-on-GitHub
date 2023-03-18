@@ -1245,6 +1245,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 ## Error Handling
 [assert](https://github.com/sourceryinstitute/assert): simple assertion utility taking advantage of the Fortran 2018 standard's introduction of variable stop codes and error termination inside pure procedures, by Damian Rouson
 
+[assert-fortran](https://github.com/alecksandr26/assert-fortran): simple module which adds an assertion function, by alecksandr26. It works by enabling -cpp the c preprocesor directives in the Fortran compiler.
+
 [erloff](https://github.com/everythingfunctional/erloff): errors and logging for Fortran, by Brad Richardson. The basic usage is that a procedure can have intent(out) message and/or error list arguments, or as a component of its return value.
 
 [errorfx](https://github.com/aradi/errorfx): simple library for demonstrating exception like error handling strategy in Fortran, by Bálint Aradi. It provides an error handling mechanism which is robust, convenient, and PURE.
@@ -1254,8 +1256,6 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 [ferror](https://github.com/jchristopherson/ferror): library to assist with error handling in Fortran projects
 
 [FException](https://github.com/csbrady-warwick/FException): provide an easy but flexible mechanism for handling errors in Fortran, from csbrady-warwick. FException does not try to implement C++/Python style exceptions but has its own approach that is a mixture of classical exceptions with propagating error codes
-
-[assert-fortran](https://github.com/alecksandr26/assert-fortran): simple module which adds an assertion function, by alecksandr26. It works by enabling -cpp the c preprocesor directives in the Fortran compiler.
 
 [Fortran Error Handler](https://github.com/samharrison7/fortran-error-handler): universal and comprehensive solution for applications requiring functional and robust error handling, utilising the power of modern object-oriented Fortran, by Sam Harrison and KellerV
 
