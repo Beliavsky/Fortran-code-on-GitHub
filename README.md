@@ -3092,6 +3092,8 @@ Milan Curcic and Sebastian Ehlert
 
 [M_match](https://github.com/urbanjost/M_match): basic implementation in Fortran of a subset of regular expressions as described in "Software Tools" by Kernighan and Plauger, 1976.
 
+[M_overload](https://github.com/urbanjost/M_overload): overloads of standard operators and intrinsic procedures, including // to concatenate any two intrinsic types into a stringby urbanjost, a format operator to convert a variable to a string, `int` and `real` for string and logical arguments, `merge` for strings of different lengths, == and /= for logical variables, by urbanjost
+
 [M_regex](https://github.com/urbanjost/M_regex): Fortran interface by urbanjost to the POSIX 1003.2 regular expression library using ISO_C_BINDING
 
 [mod_pcreposix](https://github.com/tranqv/mod_pcreposix): module for working (in Unix) with the Perl compatible regular expressions, by tranqv
