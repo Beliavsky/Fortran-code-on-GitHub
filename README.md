@@ -540,6 +540,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [HFB](https://github.com/knappf/HFB): Hartree-Fock-Bogolyubov code for (hyper)nuclear structure calculations (version by P. Vesely)
 
+[hibridon](https://github.com/hibridon/hibridon): solves the close-coupled equations which occur in the quantum treatment of inelastic atomic and molecular collisions. Gas-phase scattering, photodissociation, collisions of atoms and/or molecules with flat surfaces, and bound states of weakly-bound complexes can be treated.
+
 [HICOLM: Multi-Methods for Molecules and Condensed Systems](https://github.com/flavianowilliams/HICOLM): molecular modelling of condensed systems. Reference: F. W. Fernandes, HICOLM: High-Performance Platform of Physical Simulations by Using Low Computational Cost Methods. doi: 10.22456/2175-2745.92486.
 
 [International Association for the Properties of Water and Steam (iapws)](https://github.com/MilanSkocic/iapws): library providing the formulas for computing light and heavy water properties, by Milan Skocic, with interfaces to C and (in [pyiapws](https://github.com/MilanSkocic/pyiapws)) Python
