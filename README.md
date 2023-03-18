@@ -1249,7 +1249,7 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [errorfx](https://github.com/aradi/errorfx): simple library for demonstrating exception like error handling strategy in Fortran, by Bálint Aradi. It provides an error handling mechanism which is robust, convenient, and PURE.
 
-[errstat](https://github.com/degawa/errstat): error status and message handling library for Modern Fortran, by Tomohiro Degawa
+[errstat](https://github.com/degawa/errstat): error status and message handling library for Modern Fortran, by Tomohiro Degawa. Also [fassert](https://github.com/degawa/fassert), a simple assertion library
 
 [ferror](https://github.com/jchristopherson/ferror): library to assist with error handling in Fortran projects
 
