@@ -564,6 +564,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [pmflib](https://github.com/kulhanek/pmflib): toolkit for Free Energy Calculations, by kulhanek
 
+[pydock3](https://github.com/docking-org/pydock3): Python package wrapping the [DOCK](https://dock.compbio.ucsf.edu/Overview_of_DOCK/index.htm) Fortran program that provides tools to help standardize and automate the computational methods employed in molecular docking. Docking is the identification of the low-energy binding modes of a small molecule, or ligand, within the active site of a macromolecule, or receptor, whose structure is known.
+
 [Python-Fortran-Fluids (PyForFluids)](https://github.com/fedebenelli/PyForFluids): Python package focused in the calculation of Fluid properties based on Equations of State (EoS), by Federico E. Benelli et al. It provides a simple interface to work from Python but also exploits the high performance Fortran code for the more heavy calculations.
 
 [QCxMS](https://github.com/qcxms/QCxMS): quantum chemical (QC) based program that enables users to calculate mass spectra (MS) using Born-Oppenheimer Molecular Dynamics (MD), by Jeroen Koopman and Sebastian Ehlert. It is the successor of the QCEIMS program, in which the EI part is exchanged to x (x=EI, CID) to account for the greater general applicability of the program. [Plot Mass Spectra (PlotMS)](https://github.com/qcxms/PlotMS) is an associated plotting program.
