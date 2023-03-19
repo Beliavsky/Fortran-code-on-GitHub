@@ -1610,8 +1610,6 @@ present simple ways to locate and correct those errors without the use of any de
 
 [M_CLI2](https://github.com/urbanjost/M_CLI2): cracks the command line when given a prototype string that looks very much like an invocation of the program, by urbanjost. A call to get_args(3f) or one of its variants is then made for each parameter name to set the variables appropriately in the program.
 
-[M_hashkeys](https://github.com/urbanjost/M_hashkeys): collection of hash key generator modules, by urbanjost
-
 [M_history](https://github.com/urbanjost/M_history): input line history editor, by urbanjost
 
 [M_kracken95](https://github.com/urbanjost/M_kracken95): Fortran 95 version of the kracken(3f) procedure (and related routines) for command line parsing, by urbanjost
