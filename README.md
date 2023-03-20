@@ -2646,6 +2646,8 @@ Ioannis Nompelis
 
 [fmm3dbie](https://github.com/fastalgorithms/fmm3dbie): FMM-accelerated boundary integral equation solvers that currently support high-order triangulation of smooth surfaces, from fastalgorithms
 
+[fortran_udunits2](https://github.com/mfvalin/fortran_udunits2): interface by mfvalin to the [libudunits2](https://www.unidata.ucar.edu/software/udunits/) C library from Unidata that provides for arithmetic manipulation of units and for conversion of numeric values between compatible units
+
 [FourPhonon](https://github.com/FourPhonon/FourPhonon): extension module to ShengBTE for computing four-phonon scattering rates and thermal conductivity, by Zherui Han et al.
 
 [fresco](https://github.com/I-Thompson/fresco): scattering code for coupled-channels calculations, by I-Thompson. [Frescox](https://github.com/LLNL/Frescox) is an updated version.
