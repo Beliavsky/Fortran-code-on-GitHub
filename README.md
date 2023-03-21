@@ -548,6 +548,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [Kinetic Monte Carlo of Systems (kmcos)](https://github.com/kmcos/kmcos): lattice based kinetic Monte Carlo with a Python front-end and Fortran back-end, by Max Hoffmann et al.
 
+[Kinetic PreProcessor (KPP)](https://github.com/KineticPreProcessor/KPP): tool that assists the computer simulation of chemical kinetic systems, by Adrian Sandu et al. Also [KPP-AR-boxmodel](https://github.com/KineticPreProcessor/KPP-AR-boxmodel), a box-model for a KPP-generated chemistry mechanism using the auto-reduce feature to speed up computation
+
 [linemake](https://github.com/vmplacco/linemake): atomic and molecular line list generator, by Chris Sneden et al. Rather than a replacement for a number of well-established atomic and molecular spectral databases, linemake aims to be a lightweight, easy-to-use tool to generate formatted and curated lists suitable for spectral synthesis work.
 
 [MobCal-MPI](https://github.com/HopkinsLaboratory/MobCal-MPI): parallelization of the commonly used MobCal suite to calculate ion mobilities and collision cross sections, by Christian Ieritano and Scott Hopkins
