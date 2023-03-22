@@ -1902,6 +1902,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [LinAlgf90](https://github.com/Takayuki-Miyagi/LinAlgf90): modern Fortran wrappers for the eigenvalue functionality of Lapack, by Takayuki Miyagi
 
+[linalg_fortran](https://github.com/Euler-37/linalg_fortran): interface to Lapack procedures that invert matrices, compute determinants, compute eigenvalues and eigenvectors of symmetric or Hermitian matrices, and compute U*A*U.T, by Euler-37
+
 [LSQR](https://github.com/jacobwilliams/LSQR): Fortran 2008 edition of [LSQR](https://web.stanford.edu/group/SOL/software/lsqr/), a conjugate-gradient type method for solving sparse linear equations and sparse least-squares problems, by Jacob Williams.
 
 [LUSOL](https://github.com/Rioghasarig/trlu): maintains LU factors of a square or rectangular sparse matrix. This repository provides LUSOL source code and a Matlab interface.
