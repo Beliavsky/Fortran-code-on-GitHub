@@ -1578,6 +1578,9 @@ present simple ways to locate and correct those errors without the use of any de
 
 [FortranUtilities](https://github.com/ecasglez/FortranUtilities): functions for strings, numbers, precision, statistics and files, by Emilio Castro
 
+[fortran_utilities](https://github.com/lewisfish/fortran_utilities): procedures to add colour to output via ANSI colour codes, create a progress bar,
+turn variables into strings, and print the time, by Lewis McMillan
+
 [fortran-utils](https://github.com/certik/fortran-utils): Various utilities for Fortran programs, including types, constants, sorting, saving/loading 2D arrays, meshes, cubic splines, saving/loading PPM images, Lapack interface, HDF5 interface, special functions, and optimization, by Ondrej Certik et al.
 
 [fortran-zlib](https://github.com/interkosmos/fortran-zlib): collection of Fortran 2018 ISO_C_BINDING interfaces to selected zlib functions, by interkosmos. Zlib is a lossless data-compression library.
