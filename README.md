@@ -1082,6 +1082,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [PRIDE-PPPAR](https://github.com/PrideLab/PRIDE-PPPAR): GPS PPP ambiguity resolution from PrideLab. Reference: Geng, J., Chen, X., Pan, Y., Mao, S., Li, C., Zhou, J., Zhang, K. (2019b) PRIDE PPP‑AR: an open‑source software for GPS PPP ambiguity resolution. GPS Solutions 23:91 doi:10.1007/s10291-019-0888-1.
 
+[psi3d](https://github.com/SI3DL/psi3d): semi-implicit 3D hydrodynamic model parallelized for computation across CPU threads using OpenMP, by Sergio Valbuena et al. Technical details regarding governing equations and numerical schemes are in the paper [A Semi-Implicit, Three-Dimensional Model for Estuarine Circulation](https://pubs.usgs.gov/of/2006/1004/pdf/ofr2006-1004.pdf) by Peter E. Smith.
+
 [PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran, from stfc
 
 [pycathy_wrapper](https://github.com/BenjMy/pycathy_wrapper): Python wrapper for the CATHY (V1, and plant model version) Fortran code allowing mesh creation, forward and inverse modeling, and simple output visualization of CATHY simulations. Associated paper: Camporese, M., Paniconi, C., Putti, M., Orlandini, S., 2010. [Surface-subsurface flow modeling with path-based runoff routing, boundary condition-based coupling, and assimilation of multisource observation data.](https://github.com/BenjMy/pycathy_wrapper).Water Resources Research 46.
