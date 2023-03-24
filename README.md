@@ -2613,6 +2613,8 @@ Ioannis Nompelis
 
 [Accurate Biot-Savart routines with Correct Asymptotic Behaviour (abscab-fortran)](https://github.com/jonathanschilling/abscab-fortran): computes the magnetic field and the magnetic vector potential of filamentary current carriers in the form of a circular loop and straight segments, by Jonathan Schilling. Arbitrary geometries of conductors can be approximated by a polygon along its contour and the connecting segments between the polygon vertices are modeled by straight segments.
 
+[BDpack](https://github.com/amir-saadat/BDpack): GPU-enabled Brownian dynamics package for simulation of polymeric solutions, by Amir Saadat. An associated paper is [Computationally efficient algorithms for incorporation of hydrodynamic and excluded volume interactions in Brownian dynamics simulations: A comparative study of the Krylov subspace and Chebyshev based techniques](https://pubmed.ncbi.nlm.nih.gov/24832302/), A. Saadat and B. Khomami, J. Chem. Phys., 140, 184903 (2014).
+
 [Bose-Einstein_Condensates](https://github.com/brito-leonardo/Bose-Einstein_Condensates): solve Bose-Einstein condensates problems and related algebraic problems in quantum mechanics, with Fortran 90 and Python 3 languages, by brito-leonardo
 
 [Cartesian-coordinate Oblique-boundary Particles and Thermals In Cell (COPTIC)](https://github.com/ihutch/COPTIC):  moves particles in three dimensions of space and time (6 phase-space dimensions) and simultaneously calculates the self-consistent electrostatic potential in the presence of a neutralizing species governed by a thermal Boltzmann factor, or of a second particle species, by ihutch and chaako
