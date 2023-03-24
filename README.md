@@ -2008,6 +2008,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [mef90](https://github.com/bourdin/mef90): reference implementation of the variational approach to fracture, as described in several papers, by Blaise Bourdin
 
+[MulSKIPS](https://github.com/MulSKIPS/MulSKIPS): Kinetic Monte Carlo super-Lattice code designed to simulate with atomic resolution the kinetics of processes (e.g., PVD, CVD, laser annealing) involving elements, alloys and compounds characterized by the sp3 bond symmetry. An associated paper is G. Calogero et al., [Multiscale modeling of ultrafast melting phenomena](https://www.nature.com/articles/s41524-022-00720-y), npj Computational Materials 8, 36 (2022)
+
 [Nonlinear MetaMaterial MPI Solver (NM^3)](https://github.com/wonnie87/NMCube): codes and example files used in paper, "High-Performance Large-Scale Simulation of Multi-stable Metastructures", by M. Hwang, C. Scalo, and A. F. Arrieta, to be published.
 
 [Polymer Self-Consistent Field Theory (PSCF)](https://github.com/dmorse/pscf): numerically solves the polymer self-consistent field theory (SCFT) for spatially periodic structures formed by block copolymer melts and mixtures of block copolymers with linear homopolymers and/or small molecule solvents, by David Morse et al.
