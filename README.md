@@ -1160,6 +1160,8 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 [SPHERA](https://github.com/AndreaAmicarelliRSE/SPHERA): Lagrangian Computational Fluid Dynamics (LCFD) - Smoothed Particle Hydrodynamics (SPH) research code by 
 Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landslides for the safety of hydroelectric plants, electrical substations and electricity pylons.
 
+[Surface Wave Multipathing (swmp)](https://github.com/JuergHauser/swmp): surface wave multipathing ray tracing code, associated with paper Hauser, J., Sambridge, M. and Rawlinson, N. (2008). [Multiarrival wavefront tracking and its applications](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008GC002069). Geochem. Geophys. Geosyst., 9(11), Q11001
+
 [SurfTomo](https://github.com/caiweicaiwei/SurfTomo): direct inversion of surface wave dispersion data, by caiweicaiwei
 
 [SUTRASET](https://github.com/SUTRASET/SUTRASET): extended USGS SUTRA 2.2 considering seepage(S), evaporation(E) and tide(T)
