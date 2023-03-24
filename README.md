@@ -1197,6 +1197,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [VolcGases](https://github.com/Nicholaswogan/VolcGases): Python wrapper to a Fortran program that calculates the gases produced by a volcano, by Nick Wogan. [Reference](https://iopscience.iop.org/article/10.3847/PSJ/abb99e/meta): "Abundant Atmospheric Methane from Volcanism on Terrestrial Planets Is Unlikely and Strengthens the Case for Methane as a Biosignature", by Nicholas Wogan, Joshua Krissansen-Totton, and David C. Catling, Published 2020 October 29, The Planetary Science Journal, Volume 1, Number 3
 
+[VolumeLibrary](https://github.com/FMSC-Measurements/VolumeLibrary): National Volume Estimator Library ([NVEL](https://www.fs.usda.gov/forestmanagement/products/measurement/volume/nvel/index.php)) is a collection of the standing tree volume estimators used by the U.S. Forest Service
+
 [VVM](https://github.com/chienmingwu/VVM): Vector Vorticity equation cloud-resolving Model
 
 [Waiwera](https://github.com/waiwera/waiwera): parallel geothermal flow simulator that numerical simulates high-temperature subsurface flows, including robust phase changes. Reference: Croucher, A.E., O'Sullivan, M.J., O'Sullivan, J.P, Yeh, A., Burnell, J. and Kissling, W. (2020). "Waiwera: A parallel open-source geothermal flow simulator". Computers and Geosciences 141, https://doi.org/10.1016/j.cageo.2020.104529.
