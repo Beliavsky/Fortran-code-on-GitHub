@@ -1924,7 +1924,7 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [Minimum Split Checkerboard Decomposition (MSCBDECOMP)](https://github.com/CaptainSifff/mscbdecomp): obtain sparse representations of the matrix exponential, by CaptainSifffl. Reference: Minimal Split Checkerboard Method for Exponentiating Sparse Matrices and Its Applications in Quantum Statistical Mechanics, by Che-Rung Lee, SIAM J. Sci. Comput. 35-2 (2013), pp. C143-C171, https://doi.org/10.1137/110838716
 
-[M_LA](https://github.com/urbanjost/M_LA): small collection of routines primarily associated with linear algebra, by urbanjost
+[M_LA](https://github.com/urbanjost/M_LA): small collection of linear algebra routines, including reshaping an array, creating a [magic square](https://en.wikipedia.org/wiki/Magic_square) array, and computing the determinant and inverse of a matrix, by urbanjost
 
 [minila](https://github.com/ghbrown/minila): lightweight, standalone set of common linear algebraic operations for vectors and matrices, by Gabriel Brown
 
