@@ -494,6 +494,8 @@ simulating and forecasting meteorological phenomena.
 
 [fortran-compiler-tests](https://github.com/nncarlson/fortran-compiler-tests): collection of Fortran compiler bug examples and tests, by nncarlson
 
+[Fortran Tests](https://github.com/lanl/fortran-tests): set of tests for Modern Fortran, by Galen M. Shipman
+
 [infnan](https://github.com/zaikunzhang/infnan): functions for checking Inf/NaN, Zaikun Zhang. They should work even if the compilers are invoked with aggressive optimization flags such as `gfortran -Ofast`.
 
 [paranoia](https://github.com/urbanjost/paranoia): tests floating-point arithmetic in a Fortran programming environment, by urbanjost. This is a version of the netlib PARANOIA Fortran programs converted to procedures. They can be embedded into programs such that one can verify the behavior of the options selected to execute a program, or the simple test program can be used to experiment with various compiler selections.
