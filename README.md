@@ -1426,6 +1426,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [metis-fpm](https://github.com/gnikit/metis-fpm): Fortran API and a source repackaging by gnikit of [METIS](https://github.com/KarypisLab/METIS), a set of serial programs for partitioning graphs, partitioning finite element meshes, and producing fill reducing orderings for sparse matrices, from KarypisLab
 
+[MultiFEBE](https://github.com/mmc-siani-es/MultiFEBE): associated with paper [MultiFEBE: A multi-domain finite element–boundary element solver for linear mixed-dimensional mechanical problems](https://www.sciencedirect.com/science/article/pii/S2352711022001832), by D.R. Bordón, G.M. Álamo, L.A. Padrón, J.J. Aznárez, O. Maeso, SoftwareX 20, 101265, 2022
+
 [MYSTRAN](https://github.com/dr-bill-c/MYSTRAN): general purpose finite element analysis computer program for structures that can be modeled as linear (i.e. displacements, forces and stresses proportional to applied load), by dr-bill-c et al.
 
 [NASTRAN-95](https://github.com/nasa/NASTRAN-95): NASA Structural Analysis System, a finite element analysis program (FEA) completed in the early 1970's
