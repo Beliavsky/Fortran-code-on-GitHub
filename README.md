@@ -564,6 +564,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [mstore](https://github.com/grimme-lab/mstore): molecular structure store for testing, from grimme-lab
 
+[multi-crystal indexing data processing suite in macromolecucar crystallography (MCDPS)](https://github.com/gengzhi-ihep/multi-lattice-indexing): associated with paper Zhou, Q., Gao, Z.Q., Dong, Z., Jiang, Y.M., She,Z., Geng, Z.& Dong, Y.H.(2021). [A reference-based multi-lattice indexing method integrating prior information correction and iterative refinement in protein crystallography](https://scripts.iucr.org/cgi-bin/paper?S2053273321003521). Acta Cryst. A77
+
 [numsa](https://github.com/grimme-lab/numsa): solvent accessible surface area calculation, from grimme-lab
 
 [PICLas](https://github.com/piclas-framework/piclas): parallel, three-dimensional PIC-DSMC solver developed cooperatively by the Institute of Space Systems, Institute of Aerodynamics and Gas Dynamics at the University of Stuttgart and the spin-off boltzplatz. PICLas is a flexible particle-based plasma simulation suite.
