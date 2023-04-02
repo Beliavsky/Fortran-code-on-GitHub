@@ -174,6 +174,8 @@ SPICE/HeRALD
 
 [NASA Ames Legacy Mars Global Climate Model](https://github.com/nasa/legacy-mars-global-climate-model): uses a modified version of the ARIES/GEOS dynamical core coupled with a set of Mars physics packages to simulate the martian climate. 
 
+[Nbody6++GPU - Beijing version](https://github.com/nbody6ppgpu/Nbody6PPGPU-beijing): N-body star cluster simulation code, by Rainer Spurzem and team. It is an offspring of Sverre Aarseth's direct N-body [codes](http://www.sverre.com/).
+
 [NEAT](https://github.com/rwesson/NEAT): calculates chemical abundances in photoionised nebulae, by Roger Wesson et al. It can propagate uncertainties and compensate for measurement biases affecting weak lines.
 
 [NormalModes](https://github.com/js1019/NormalModes): applies a combination of several highly parallel algorithms to compute the planetary interior normal modes, by js1019
