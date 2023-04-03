@@ -394,6 +394,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [GVTD-X](https://github.com/tomonori-93/GVTD-X): implements numerical method to retrieve tangential and radial wind components in atmospheric vortices from single-Doppler radar observations, which is named from pronounciation of a abbreviation "GVTD-HeCs" (Generalized Velocity Track Display with the Helmholtz-decomposition-based Closure assumption). By Satoki Tsujino.
 
+[Hail Trajectory Clustering](https://github.com/adams-selin/trajectory_clustering): groups three-dimensional hail trajectories into similar clusters. Associated with paper Adams-Selin, R., 2023: A three-dimensional trajectory clustering technique. Monthly Weather Review
+
 [Himawari_HSD_Reader](https://github.com/simonrp84/Himawari_HSD_Reader): reader for data from Japan's [Himawari satellite](https://en.wikipedia.org/wiki/Himawari_8), by Simon Proud. This utility reads 'raw' HSD format data and can convert it into more friendly formats such as NetCDF4.
 
 [icar](https://github.com/NCAR/icar): Intermediate Complexity Atmospheric Research Model (ICAR), from NCAR, a simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses
