@@ -1617,6 +1617,8 @@ turn variables into strings, and print the time, by Lewis McMillan
 
 [funx](https://github.com/tranqv/funx): Unix commands from Fortran via calls to C, by tranqv
 
+[Futilities: unsorted Fortran utility modules](https://github.com/eatdust/futilities): codes for multidimensional spline interpolation and integration, successive over-relaxation solution of partial differential equations, a First In First Out memory buffer, a basic Message Passing Interface (MPI) queue scheduler, shuffle array indices, flatten a multidimensional array into 1D and revert the operation, and other topics, by Chris Ringeval
+
 [Futility](https://github.com/CASL/Futility): utilities for definition of kinds for intrinsic numeric data types, a unit test harness, definitions for some basic extensions to the Fortran language, geometry definitions and intersection routines, file wrapper functions, parallel wrapper functions, math utilities, a lightweight profiling interface, and other miscellaneous routines, from CASL
 
 [futility](https://github.com/cmacmackin/futility): collection of modern Fortran utilities, including some numerical subroutines and a module for simplified input and output of arrays, by Chris MacMackin
