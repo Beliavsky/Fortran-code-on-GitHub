@@ -2063,6 +2063,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [OpenMeshConverter](https://github.com/nfherrin/OpenMeshConverter): open source utility to convert various publicly available mesh formats, by Nicholas Herring. It takes a version 4 Gmsh file (tested with version 4.1) and converts it to the THOR mesh format, and there are plans to extend this converter to intake other versions of Gmsh and exodus.
 
+[overkit-fortran](https://github.com/majosm/overkit-fortran): overset grid assembly and remapping toolkit, by Matt Smith. Overset meshes are a method for representing complex geometry in computational fluid dynamics and other types of PDE-based simulations. There is a parallel C++ [version](https://github.com/majosm/overkit).
+
 [pyhyp](https://github.com/mdolab/pyhyp): uses hyperbolic volume mesh marching schemes to extrude structured surface meshes into volume meshes, by mdolab. pyHyp is used as a preprocessing step in the geometry and mesh-creation process prior to an optimization.
 
 [shabaka](https://github.com/omhafez/shabaka): command-line tool that reads segmented images and generates watertight surface meshes (or b-reps) of the objects of interest, by omhafez. Surface meshes can be piped into mesh generation tools for scientific computing, 3D printing programs, or visualization software.
