@@ -226,6 +226,8 @@ SPICE/HeRALD
 
 [starsmasher](https://github.com/jalombar/starsmasher): smoothed particle hydrodynamics code for smashing stars (and planets), by jalombar
 
+[stochastic-parker](https://github.com/xiaocanli/stochastic-parker): solves the Parker’s transport equation (and its extensions) using the stochastic method. Associated paper: [Modeling Electron Acceleration and Transport in the Early Impulsive Phase of the 2017 September 10th Solar Flare](https://iopscience.iop.org/article/10.3847/1538-4357/ac6efe), by Xiaocan Li, Fan Guo, Bin Chen, and Chengcai Shen, and Lindsay Glesener, The Astrophysical Journal Jun 2022
+
 [SWMF](https://github.com/MSTEM-QUDA/SWMF): Space Weather Modeling Framework is a software framework that provides a common operating environment for the various modeling components included. Each of the components models particular aspects of space weather (sun, heliosphere, magnetosphere, etc) and the various commands allow you to control how those models run and interact with each other.
 
 [UCLCHEM](https://github.com/uclchem/UCLCHEM): gas-grain chemical code for Astrochemistry
