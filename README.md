@@ -2388,6 +2388,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [minuit](https://github.com/ramos/minuit): Fortran 77 library for function minimization and error Analysis by F. James
 
+[mknapsack](https://github.com/jmyrberg/mknapsack): algorithms for solving knapsack problems with Python, calling Fortran code from the book [Knapsack problems: algorithms and computer implementations](https://dl.acm.org/doi/book/10.5555/98124) (1990), by Silvano Martello and Paolo Toth
+
 [nlopt-f](https://github.com/awvwgk/nlopt-wrap): Fortran bindings for the NLopt library, by awvwgk. While the NLopt library supports Fortran by using implicit interface calling conventions, those are not type-safe. 
 
 [nonlin](https://github.com/jchristopherson/nonlin): solves systems of nonlinear equations, by jchristopherson
