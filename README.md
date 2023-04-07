@@ -2952,6 +2952,8 @@ Ioannis Nompelis
 
 [STB](https://github.com/MRedies/STB): Simple Tight-binding, by MRedies
 
+[superdyson](https://github.com/MBI-Theory/superdyson): property evaluation for general configuration interaction (CI) expansions, from MBI-Theory. All the quantum chemistry data are taken from GAMESS-US.
+
 [TBmodels](https://github.com/aamaricci/TBmodels): collection of non-interacting Tight Binding models, often used as a basis for interacting problem calculations, by Adriano Amaricci
 
 [Tight-binding parameter FITting package (TBFIT) for Slater-Koster method](https://github.com/Infant83/TBFIT): program for numerical tight-binding parameter fitting mainly based on Slater-Koster scheme and tight-binding calculations for the electronic band structures of given atomic and electronic configurations with a simple input interfaces, by Hyun-Jung Kim. Basically TBFIT fits Slater-Koster parameters including scaling factors to your target first-principles band structure.
