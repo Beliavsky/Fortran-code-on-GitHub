@@ -2751,6 +2751,8 @@ Ioannis Nompelis
 
 [Parabolic two-band model Analyzer for Nonlinear electron Dynamics in Attosecond phenomena (PANDA)](https://github.com/shunsuke-sato/two_band_model): calculates electron dynamics and light-matter interactions, by Shunsuke A. Sato. It is based on a parabolic two-band model for electron structure and dynamics.
 
+[PArticles and RAdiation MOnitor (Paramo)](https://github.com/altjerue/paramo): solves the Fokker-Planck equation and calculates synchrotron and inverse Compton emission, by Jesus M Rueda-Becerril
+
 [Phase Monte Carlo radiation transport (pMC)](https://github.com/lewisfish/pMC/): code by Lewis McMillan for paper [Imaging in thick samples, a phased Monte Carlo radiation transfer algorithm](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-26/issue-09/096004/Imaging-in-thick-samples-a-phased-Monte-Carlo-radiation-transfer/10.1117/1.JBO.26.9.096004.full)
 
 [Physical optics propagation through synchrotron radiation beamlines (PHASE)](https://github.com/flechsig/phase): tool for the optical design of synchrotron radiation beamlines, by Uwe Flechsig. It is based on analytic expressions for nonlinear transformation of beam coordinates across optical elements. Documented [here](https://www.helmholtz-berlin.de/forschung/oe/wi/undulators/arbeitsgebiete/phase_en.html)
