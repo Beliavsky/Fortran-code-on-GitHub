@@ -3107,6 +3107,8 @@ and Andrea Rau.
 
 [pygslib](https://github.com/opengeostat/pygslib): GSLIB (Geostatistical Software LIBrary) Fortran code wrapped into python
 
+[quantregpy](https://github.com/quantregpy/quantregpy): code for quantile regression by Roger Koenker with a Python interface
+
 [RegressionPooledDilution](https://github.com/mswarasi/RegressionPooledDilution): R and FORTRAN programs associated with the article, “Group testing regression models with dilution submodels”, by mswarasi
 
 [Regression via Nonsmooth Optimization](https://github.com/SnTa2019/Regression-via-Nonsmooth-Optimization): optimization based regression algorithms introduced by Sona Taheri and co-authors
