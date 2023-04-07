@@ -1533,6 +1533,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [SDL77](https://github.com/interkosmos/sdl77): C library for game programming in FORTRAN 77 that provides some glue code to access the software renderer of SDL 1.2, by interkosmos
 
+[TREK7](https://github.com/larsbrinkhoff/trek7): Star Trek simulation game written by Donald M. Ecclestone in the early 70ties for the PDP-10. The game was ported to VAX computers running VMS in 1978 by the author with the help of Dan Gahlinger.
+
 ## General Purpose
 [Algorithms](https://github.com/andreypudov/algorithms): The Laboratory of Algorithms, by Andrey Pudov.
 
