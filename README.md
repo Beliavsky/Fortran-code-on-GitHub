@@ -2241,6 +2241,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [Numerical methods in Fortran](https://github.com/mrtkp9993/Numerical-Methods-in-Fortran): numerical analysis and statistics algorithms, by Murat Koptur 
 
+[OEIS-Search-GCD-reduced](https://github.com/HugoPfoertner/OEIS-Search-GCD-reduced): extended search in the On-Line Encyclopedia of Integer Sequences (OEIS) with GCD reduction and data variants, by Hugo Pfoertner
+
 [polylogarithm](https://github.com/Expander/polylogarithm): C, C++ and Fortran implementations of various polylogarithms, including the real and complex dilogarithm, trilogarithm, and standard Clausen functions, by Alexander Voigt. The implementations have been fully tested against the literature and many other implementations and are highly optimized for fast numerical evaluation.
 
 [polyroots-fortran](https://github.com/jacobwilliams/polyroots-fortran): modern Fortran library for finding the roots of polynomials, by Jacob Williams
