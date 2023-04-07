@@ -965,6 +965,8 @@ engine, by montagdude and Geoff Sokoll
 
 [gemini3d](https://github.com/gemini3d/gemini3d): ionospheric fluid electrodynamic model
 
+[Genetic-Algorithm-for-Causeway-Modification](https://github.com/stevenmeyersusf/Genetic-Algorithm-for-Causeway-Modification): prototypes a genetic algorithm (GA) coupled to a numerical estuarine circulation model of Old Tampa Bay, FL (OTB), by Steven D. Meyers and Mark E. Luther. The GA is designed to generate modifications (cut-throughs) of causeways in OTB and rank them based on their impact on modeled hydrodynamic flushing.
+
 [General Ocean Turbulence Model](https://github.com/gotm-model/code): one-dimensional water column model for marine and limnological applications. It is coupled to a choice of traditional as well as state-of-the-art parameterisations for vertical turbulent mixing.
 
 [geoclaw](https://github.com/clawpack/geoclaw): specialized version of some Clawpack and AMRClaw routines that have been modified to work well for certain geophysical flow problems. Currently the focus is on 2d depth-averaged shallow water equations for flow over varying topography.
