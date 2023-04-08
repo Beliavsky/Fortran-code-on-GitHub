@@ -2370,6 +2370,8 @@ Real (handling real constants, convert to string with format); Non-number (handl
 
 [lbfgs](https://github.com/jmbr/lbfgs): L-BFGS Software for Large-scale Unconstrained Optimization by Jorge Nocedal
 
+[lbfgsb](https://github.com/jacobwilliams/lbfgsb): limited memory code for solving bound constrained optimization problems, by Jorge Nocedal and Jose Luis Morales 
+
 [L-BFGS-B](https://github.com/jonathanschilling/L-BFGS-B): limited-memory quasi-Newton code for bound-constrained optimization, i.e., for problems where the only constraints are of the form l <= x <= u. It is intended for problems in which information on the Hessian matrix is difficult to obtain, or for large dense problems.
 
 [L-BFGS-B](https://github.com/scivision/L-BFGS-B): code for L-BFGS-B, modernized by scivision
