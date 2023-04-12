@@ -3228,6 +3228,8 @@ Milan Curcic and Sebastian Ehlert
 
 [SLICOT System Identification Toolbox](https://github.com/SLICOT/SLICOT-SystemIdentification): includes SLICOT-based MATLAB and Fortran tools for linear and Wiener-type, time-invariant discrete-time multivariable systems. Subspace-based approaches MOESP - Multivariable Output-Error state SPace identification, N4SID - Numerical algorithms for Subspace State Space System IDentification, and their combination, are used to identify linear systems, and to initialize the parameters of the linear part of a Wiener system. See also [SLICOT Basic Systems and Control Toolbox](https://github.com/SLICOT/SLICOT-BasicControl) and [SLICOT Library](https://github.com/SLICOT/SLICOT-Reference).
 
+[spectrum](https://github.com/jchristopherson/spectrum): library containing signal analysis routines with a focus towards spectral routines, by Jason Christopherson
+
 [tidybench](https://github.com/sweichwald/tidybench): TIme series DiscoverY has four algorithms for causal structure learning for time series: SLARAC (Subsampled Linear Auto-Regression Absolute Coefficients), QRBS (Quantiles of Ridge regressed Bootstrap Samples), LASAR (LASso Auto-Regression), and SELVAR (Selective auto-regressive model), by sweichwald
 
 [Timeslab](https://github.com/Beliavsky/Timeslab): Fortran 77 time series package by H. Joseph Newton to accompany his book "Timeslab: A Time Series Analysis Laboratory" (1988)
