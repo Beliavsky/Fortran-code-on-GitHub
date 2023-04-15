@@ -1337,6 +1337,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [fftw3_wrapper](https://github.com/kuanchihwang/fftw3_wrapper): Fortran wrapper library around the [FFTW](https://www.fftw.org/) C library that tries to mimic the Matlab and NumPy interfaces, by Kuan-Chih Wang
 
+[kissfft-f](https://github.com/zoziha/kissfft-f): wrapper by zozhia for [KISS FFT](https://github.com/mborgerding/kissfft), a mixed-radix Fast Fourier Transform in C
+
 [modern_fftpack](https://github.com/jlokimlin/modern_fftpack): Fortran 2008 library of fast Fourier transforms -- an object-oriented modernization of NCAR's FFTPACK5.1., by jlokimlin
 
 [fstpack](https://github.com/thkrz/fstpack): library of Fast Stockwell transforms, including CUDA support, by Thomas Kreuzer
