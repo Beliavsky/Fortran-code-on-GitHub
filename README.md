@@ -138,6 +138,8 @@ SPICE/HeRALD
 
 [GYRE Stellar Oscillation Code](https://github.com/rhdtownsend/gyre): Given an input stellar model, GYRE calculates the eigenfrequencies and eigenfunctions for the normal oscillation modes of the model, by rhdtownsend et al. These data can be put to a variety of uses; the most common is to compare them against observed oscillation frequencies of a star, allowing constraints on the star's fundamental parameters (mass, radius, etc.) to be established — the discipline of asteroseismology.
 
+[halo](https://github.com/jacobwilliams/halo): orbit solver that can be used to generate long-duration Earth-Moon halo orbits in the ephemeris model. Reference: J. Williams et al., [Targeting Cislunar Near Rectilinear Halo Orbits for Human Space Exploration](https://www.researchgate.net/publication/322526659_Targeting_Cislunar_Near_Rectilinear_Halo_Orbits_for_Human_Space_Exploration), 27th AAS/AIAA Space Flight Mechanics Meeting, 2017
+
 [hazel2](https://github.com/aasensio/hazel2): synthesis and inversion of Stokes profiles caused by the joint action of atomic level polarization and the Hanle and Zeeman effects, by aasensio
 
 [High-Altitude to Space Transport Estimator (HASTE)](https://github.com/wtdailey/HASTE): high fidelity Monte Carlo code written in modern Fortran for estimating the radiation field seen by a space-based detector from a point source in or above the atmosphere, by wtdailey. The HASTE code includes models for many of the special features of this air-to-space transport problem that are not modeled, or only partially modeled, in other transport codes. 
