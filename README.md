@@ -754,6 +754,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [interpolate-fields](https://github.com/p-costa/interpolate-fields): interpolates DNS data to a new grid using linear interpolation, by Pedro Costa. It can run and store the interpolated data in a massively-parallel setting using MPI I/O. For now, it assumes two regular Cartesian grids with the file format of CaNS.
 
+[Inverse-gas-dynamic-tables-and-codes](https://github.com/anillals/Inverse-gas-dynamic-tables-and-codes): programs and input data files for finding the Mach number through inverses of supersonic area ratio, subsonic area ratio, and Prandtl-Meyer angle, by anillals
+
 [KatzPlotkin](https://github.com/cibinjoseph/KatzPlotkin): Fortran programs provided by Joseph Katz and Allen Plotkin in their book [Low-Speed Aerodynamics](https://www.amazon.com/Low-Speed-Aerodynamics-Second-Cambridge-Aerospace/dp/0521665523)
 
 [LBcuda](https://github.com/copmat/LBcuda): CUDA Fortran code to solve Lattice Boltzmann equations of a multi-component flow interacting with rigid spherical particles, by Fabio Bonaccorso et al.
