@@ -1499,6 +1499,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [FORTRAN-Topics](https://github.com/Koushikphy/FORTRAN-Topics): codes to demonstrate Modern Fortran features, and codes for numerics and I/O, by Koushikphy 
 
+[fortran-tuto](https://github.com/HamzaM3/fortran-tuto): code of the Fortran [video tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8&ab_channel=DerekBanas) by Derek Banas
+
 [Introduction to Fortran Debugging](https://github.com/aperezhortal/fortran_debugging_introduction): reviews the most common types of errors and
 present simple ways to locate and correct those errors without the use of any debugging applications, by Andres Perez Hortal. The common errors are illustrated using simple Fortran applications where the simple debugging techniques are applied.
 
