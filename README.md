@@ -659,6 +659,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [PolyCon](https://github.com/cmacmackin/PolyCon): abstract container derived type which can be used as a sort of unlimited polymorphic entity whose contents are retrievable with type-guards, by Chris MacMackin. Different subclasses are created in order to hold different data-types.
 
+[repot](https://github.com/degawa/repot): abstract data types designed for the repository pattern for reading configuration files in Fortran, by Tomohiro Degawa. The repository pattern is a design pattern that makes an object persistent in a repository and reconstructs it from the repository. [Repot_examples](https://github.com/degawa/repot_examples) has practical usage examples.
+
 [qContainers](https://github.com/darmar-lt/qcontainers): container library for Fortran language. It enables one to store any internal Fortran data type and any derived data type to the container. It implements containers for key/value pairs: tree table and hash table, and containers for objects: list and vector.
 
 [smart-pointers](https://github.com/sourceryinstitute/smart-pointers): tracks references to program resources and automates the freeing of those resources if and only if the reference count drops to zero, by Damian Rouson et al. Most commonly, the reference is a pointer and the resource is memory.
