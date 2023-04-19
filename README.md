@@ -3185,7 +3185,8 @@ Milan Curcic and Sebastian Ehlert
 
 [fortran-strings](https://github.com/eengl/fortran-strings): library and module which contains functions for common string manipulations, by eengl
 
-[Fortran-String-to-Real](https://github.com/Carltoffel/Fortran-String-to-Real): converts strings to reals without using an internal read, by Carltoffel
+[Fortran-String-to-Real](https://github.com/Carltoffel/Fortran-String-to-Real): converts strings to reals without using an internal read, by Carltoffel. [Fortran-String-to-Num](https://github.com/jalvesz/Fortran-String-to-Num) is a fork by jalvesz that aims for further improvements on the ASCII to numerical data conversion.
+
 
 [Fregex](https://github.com/14NGiestas/fregex): Perl Compatible Regular Expressions (PCRE) wrapper for Fortran by Ian Giestas Pauli
 
