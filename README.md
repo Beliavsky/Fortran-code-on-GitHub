@@ -168,6 +168,8 @@ SPICE/HeRALD
 
 [Microphysics](https://github.com/starkiller-astro/Microphysics): collection of astrophysical microphysics routines for stellar explosions, by Michael Zingale et al.
 
+[Mini-chem](https://github.com/ELeeAstro/mini_chem): kinetic chemistry network solver primarily for gas giant atmospheric modelling, pared down from the large chemical networks, associated with paper [A mini-chemical scheme with net reactions for 3D general circulation models II. 3D thermochemical modelling of WASP-39b and HD 189733b](https://www.aanda.org/articles/aa/abs/2023/04/aa45473-22/aa45473-22.html), by Elspeth K. H. Lee, Shang-Min Tsai, Mark Hammond, and Xianyu Tan, Volume 672 (2023)  Astronomy&Astrophysics, 672 (2023) A110
+
 [Modules for Experiments in Stellar Astrophysics (MESA)](https://github.com/MESAHub/mesa): allow users to run experiments in stellar evolution. Stellar evolution calculations (i.e., stellar evolution tracks and detailed information about the evolution of internal and global properties) are a basic tool that enable a broad range of research in astrophysics. 
 
 [msg](https://github.com/rhdtownsend/msg): Multidimensional Spectral Grids -- project for evaluating radiant properties of stellar atmospheres by rhdtownsend
