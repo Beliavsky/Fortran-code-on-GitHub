@@ -1759,6 +1759,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [M_escape](https://github.com/urbanjost/M_escape): using in-band signaling wih ANSI control (escape) sequences to control terminal color from Fortran, by urbanjost and brocolis
 
+[M_fixedform](https://github.com/urbanjost/M_fixedform): simplifies creating a TUI (Terminal User Interface) with Ncurses from Fortran, by urbanjost. It facilitates creating simple forms in terminal windows.
+
 [M_ncurses](https://github.com/urbanjost/M_ncurses): module that allows use of the C Ncurses library for controlling and formatting terminal displays, by urbanjost
 
 [M_pixel](https://github.com/urbanjost/M_pixel): creates pixel images with a vector-oriented graphics library that emulates a subset of the [M_draw](https://github.com/urbanjost/M_draw) vector graphics library, by urbanjost. It is supplemented with additional modules that read and write GIF files, including animated GIFs.
