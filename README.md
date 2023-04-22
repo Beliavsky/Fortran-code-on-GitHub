@@ -2143,6 +2143,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [fnn](https://github.com/cerea-daml/fnn): implements simple, sequential neural networks, by CEREA DA-ML team. Once a network is constructed, the forward operator is available with apply_forward and can be applied both in training and inference mode. 
 
+[forncnn](https://github.com/mizu-bai/forncnn): experimental Fortran binding for [ncnn](https://github.com/Tencent/ncnn) c_api, by mizu-bai. Ncnn is a high-performance neural network inference framework optimized for the mobile platform.
+
 [FortLearner](https://github.com/NaoMatch/FortLearner): linear regression, logistic regression, stochastic gradient descent, decision trees, ensemble trees, boosting trees, and dimension reduction, by NaoMatch
 
 [fortnet](https://github.com/vanderhe/fortnet): using atom-centered symmetry functions to characterize local atomic environments, Fortnet provides easy access to the Behler-Parrinello-Neural-Network architecture to predict atomic or global properties of a physical system, featuring powerful but optional MPI parallelism, by vanderhe
