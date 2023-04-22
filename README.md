@@ -746,6 +746,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [freeCappuccino](https://github.com/nikola-m/freeCappuccino): three-dimensional fully unstructured finite volume code for Computational Fluid Dynamics which comes in serial and parallel version, by nikola-m. FreeCappuccino is also a Fortran library for manipulation of discrete tensor fields, defined over polyhedral meshes.
 
+[fvortex](https://github.com/slitvinov/fvortex): implements vortex method, with applications to Elliptic Lamb–Oseen vortex and Melander, McWilliams, and Zabusky vortex, by Sergey Litvinov
+
 [Geophysical High-Order Suite for Turbulence (GHOST)](https://github.com/pmininni/GHOST): accurate and highly scalable pseudospectral code that solves a variety of PDEs often encountered in studies of turbulent flows. It is mainly developed by Pablo Mininni and Duane Rosenberg, with contributions from many users.
 
 [HORSES3D High-Order (DG) Spectral Element Solver](https://github.com/loganoz/horses3d): multiphysics environment where the compressible Navier-Stokes equations, the incompressible Navier–Stokes equations, the Cahn–Hilliard equation and entropy–stable variants are solved. Arbitrary high–order, p–anisotropic discretisations are used, including static and dynamic p–adaptation methods (feature-based and truncation error-based).
