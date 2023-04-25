@@ -1051,6 +1051,8 @@ engine, by montagdude and Geoff Sokoll
 
 [MANDIFORE_modeling](https://github.com/MortonArb-ForestEcology/MANDIFORE_modeling): Forestry x climate scenarios for NSF-funded MANDIFORE project, by Christy Rollinson and Lucien Fitzpatrick
 
+[MAIZSIM](https://github.com/USDA-ARS-ACSL/MAIZSIM): mechanistic model of maize growth, development and yield, written in C++ (crop) and Fortran (soil). The model is interfaced with [2DSOIL](https://data.nal.usda.gov/dataset/2dsoil-version-03), a two dimensional simulator of soil water and heat movement, and solute transport. 
+
 [Maptran 3D](https://github.com/geospace-code/maptran3d): Modern Fortran 3D coordinate conversions for geospace ecef enu eci, from geospace-code.  Similar to Python PyMap3D and Matlab Matmap3d.
 
 [MCDisp](https://github.com/xin2zhang/MCDisp): surface wave dispersion curve inversion using Monte Carlo sampling. The 1d modal approximation code used to compute dispersion curves is from [Computer Programs in Seismology](http://www.eas.slu.edu/eqc/eqccps.html). This package by xin2zhang provides a Python interface for the original Fortran code. 
