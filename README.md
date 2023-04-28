@@ -342,6 +342,8 @@ on multiscale QM/MM simulations of biological systems, but open enough to addres
 
 [Reproductive Simulation Library (reprosim)](https://github.com/VirtualPregnancy/reprosim): placenta and uterus simulation libraries by Monika Byrne et al.
 
+[songbird-evo-model-FORTRAN](https://github.com/Kaw-Han/songbird-evo-model-FORTRAN): models evolution in a genetically simple population of songbirds, by Kaw-Han
+
 [svFSI](https://github.com/SimVascular/svFSI): multi-physics finite element solver for patient-specific blood flow simulation including fluid-structure interaction and cardiac electrophysiology, by Vijay Vedula et al.
 
 [siQ-ChIP: sans spike-in Quantitative ChIP-seq](https://github.com/BradleyDickson/siQ-ChIP): small package of bash and Fortran codes used to quantify ChIP-seq data without requiring "spike-ins" to be added to the ChIP-seq protocol. Associated with [paper](https://www.jbc.org/article/S0021-9258(17)50412-3/fulltext) J Biol Chem. 2020 Nov 20;295(47):15826-15837. "A physical basis for quantitative ChIP-sequencing" by Bradley M Dickson, Rochelle L Tiedemann, Alison A Chomiak, Evan M Cornett, Robert M Vaughan, and Scott B Rothbart
