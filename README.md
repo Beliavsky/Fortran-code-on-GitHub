@@ -2594,7 +2594,7 @@ Ioannis Nompelis
 
 [forestclaw](https://github.com/ForestClaw/forestclaw): parallel, multi-block adaptive finite volume code for solving PDEs on a hierarchy of logically Cartesian meshes
 
-[lpm-v2](https://github.com/pbosler/lpm-v2): Lagrangian Particle Methods for PDEs. Associated paper: P. Bosler, J. Kent, R. Krasny, and C. Jablonowski. [A Lagrangian particle method with remeshing for tracer transport on the sphere](https://www.sciencedirect.com/science/article/pii/S002199911730253X) Journal of Computational Physics, Volume 340, (2017), Pages 639-654
+[lpm-v2](https://github.com/pbosler/lpm-v2): Lagrangian Particle Methods for PDEs. Associated paper: P. Bosler, J. Kent, R. Krasny, and C. Jablonowski. [A Lagrangian particle method with remeshing for tracer transport on the sphere](https://www.sciencedirect.com/science/article/pii/S002199911730253X), Journal of Computational Physics, Volume 340, (2017), Pages 639-654
 
 [MORFEUS](https://github.com/sourceryinstitute/MORFEUS-Source): framework for the solution of partial differential equations (PDEs) written in modern Fortran, from sourceryinstitute. It is object oriented and attempts to provide useful abstractions for the solution of PDEs that are easy to use and performant.
 
