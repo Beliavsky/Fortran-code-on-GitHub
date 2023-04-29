@@ -1214,6 +1214,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [Tenstream](https://github.com/tenstream/tenstream): approximately solves the radiative transfer equation in 3D and computes irradiance and heating rates from optical properties
 
+[Theriak-Domino](https://github.com/Theriak-Domino/theriak-domino): calculate and plot thermodynamic functions, equilibrium assemblages and rock-specific equilibrium assemblage diagrams, by Christian de Capitani
+
 [Tomofast-x v.1.6](https://github.com/TOMOFAST/Tomofast-x): parallel inversion platform to run single domain or joint inversion (gravity and magnetic data), by V. Ogarko, J. Giraud, R. Martin and M. Jessell. It can use local weighting of gradient regularization function, global and local petrophysical constraints (Gaussian mixture model and multiple disjoint bound constraints).
 
 [Topo](https://github.com/NCAR/Topo): NCAR global model topography generation software for unstructured grids
