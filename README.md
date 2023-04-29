@@ -360,6 +360,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [C_ClWxSim](https://github.com/RosesHaveThorns/C_ClWxSim): very simplistic weather and climate simulator for worldbuilding, from RosesHaveThorns
 
+[Cloud-J](https://github.com/geoschem/Cloud-J): multi-scattering eight-stream radiative transfer model for solar radiation based on [Fast-J](https://www.ess.uci.edu/group/prather/scholar_software), originally developed by Michael J. Prather (UCI)
+
 [Cloud Layers Unified By Binormals (clubb_release)](https://github.com/larson-group/clubb_release): single-column atmospheric model, with associated preprint [CLUBB-SILHS: A parameterization of subgrid variability in the atmosphere](https://arxiv.org/pdf/1711.03675.pdf), by Vincent E. Larson
 
 [convert_mpas](https://github.com/mgduda/convert_mpas): general conversion utility for MPAS-Atmosphere output files, by Michael Duda and David Ahijevych
