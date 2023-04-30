@@ -2882,6 +2882,8 @@ Ioannis Nompelis
 
 [cct3](https://github.com/piecuch-group/cct3): plugin to [PSI4](https://psicode.org/) capable of executing a number of closed- and open-shell coupled-cluster (CC) calculations with up to triply excited (T3) clusters, by J. Emiliano Deustua et al.
 
+[Cornell-Holland Ab-initio Materials Package (CHAMP)](https://github.com/QMC-Cornell/CHAMP): quantum Monte Carlo suite of programs for electronic structure calculations on a variety of systems (atoms, molecules, clusters, solids and nanostructures) principally by Cyrus Umrigar, Claudia Filippi, Julien Toulouse et al.
+
 [cp2k](https://github.com/cp2k/cp2k): quantum chemistry and solid state physics software package that can perform atomistic simulations of solid state, liquid, molecular, periodic, material, crystal, and biological systems
 
 [ddX](https://github.com/ACoM-Computational-Mathematics/ddX): package for continuum solvation models based on the domain decomposition paradigm. It contains a common interface for the three different methods ddCOSMO, ddPCM and ddLPB for the numerical solution to the COSMO, PCM and LPB solvation models, by mnottoli et al.
