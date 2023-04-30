@@ -983,6 +983,8 @@ engine, by montagdude and Geoff Sokoll
 
 [FUNWAVE-TVD](https://github.com/fengyanshi/FUNWAVE-TVD): Total Variation Diminishing (TVD) version of the fully nonlinear Boussinesq wave model (FUNWAVE) developed by Shi et al. (2012), by fengyanshi
 
+[fwin](https://github.com/tktmyd/fwin): module for reading seismic waveform data in [WIN](https://wwweic.eri.u-tokyo.ac.jp/WIN/) and WIN32 formats, by Takuto Maeda
+
 [GCHP](https://github.com/geoschem/GCHP): global 3-D model of atmospheric chemistry driven by meteorological input from the Goddard Earth Observing System (GEOS) of the NASA Global Modeling and Assimilation Office, from geoschem
 
 [gemini3d](https://github.com/gemini3d/gemini3d): ionospheric fluid electrodynamic model
