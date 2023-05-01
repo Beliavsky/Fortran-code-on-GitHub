@@ -965,6 +965,8 @@ engine, by montagdude and Geoff Sokoll
 
 [European Regional Seas Ecosystem Model (ERSEM)](https://github.com/pmlmodelling/ersem): marine ecosystem model that describes the biogeochemical cycling of carbon, nitrogen, phosphorus, silicon, oxygen and iron through pelagic and benthic ecosystems.
 
+[Fast Shallow Landslide Assessment Model (fslam)](https://github.com/EnGeoModels/fslam): applies the infinite slope theory at regional scale to identify potentially unstable areas, by Marcel Hürlimann and Vicente Medina, part of the SMuCPhy (Slope mass-wasting under climate change) project
+
 [fastscapelib-fortran](https://github.com/fastscape-lem/fastscapelib-fortran): Fortran (+ Python bindings) library of efficient algorithms for landscape evolution modeling, by Benoit Bovy et al.
 
 [fd3d_tsn_pt](https://github.com/fgallovic/fd3d_tsn_pt): earthquake dynamic source inversion by parallel tempering, by fgallovic and valelu
