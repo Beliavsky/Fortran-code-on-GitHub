@@ -613,6 +613,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 [UniMoVib](https://github.com/zorkzou/UniMoVib): unified interface for molecular harmonic vibrational frequency calculations, by zorkzou and smutao
 
 ## Containers and Generic Programming
+[any](https://github.com/degawa/any): user-defined type for mimicking procedures that can return different types, by Tomohiro Degawa
+
 [array_range](https://github.com/degawa/array_range): provides user-defined types array_range{1|2|3}d_type to improve the manipulation of bounds of Fortran arrays, by Tomohiro Degawa
 
 [ClassicalDataStructuresF95](https://github.com/truongd8593/ClassicalDataStructuresF95): classical data structures such as the singly linked list and stack, by truongd and Sesshōmaru
