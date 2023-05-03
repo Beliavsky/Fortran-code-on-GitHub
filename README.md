@@ -3131,6 +3131,9 @@ and Andrea Rau.
 
 [fitpack](https://github.com/perazz/fitpack): modern Fortran translation by Federico Perini of the [FITPACK](http://www.netlib.org/dierckx) package for curve and surface fitting by Paul Dierckx
 
+[Fitter_MC](https://github.com/ndd21/Fitter_MC): general-purpose bootstrap Monte Carlo utility for fitting a model to a set of (x,y,err_y) data and obtaining both fitted parameter
+values with error bars and properties expressed in terms of those parameters with error bars, by Neil Drummond
+
 [Fortran](https://github.com/nevillejackson/Fortran): programs and subroutine libraries useful in statistical analysis and quantitative genetics. Some are by Neville Jackson and others are collected from the public domain.
 
 [fortran-gmm-EM](https://github.com/Jonas-Finkler/fortran-gmm-EM): extremely efficient implementation of the expectation maximization (EM) algorithm for Gaussian mixtures in Fortran, by Jonas-Finkler
