@@ -3041,6 +3041,8 @@ Ioannis Nompelis
 [Zen](https://github.com/huangli712/Zen): modern DFT + DMFT (namely, density functional theory plus dynamical mean-field theory) computation framework, by huangli712
 
 ## Random Number Generation
+[approx_stdnormal](https://github.com/SomajitDey/approx_stdnormal): fast generation of an array of standard normal variates using a (modified) Box-Muller transform, by SomajitDey
+
 [FortRAND](https://github.com/llamm-de/fortrand): lightweight random sampling library written in modern Fortran, by Lukas Lamm. It provides a simple interface to the build in Fortran pseudo-random number generator for the generation of uniformly distributed random numbers. In addition, it also provides algorithms for sampling numbers from various other distributions.
 
 [fortran-splitmix64](https://github.com/DSCF-1224/fortran-splitmix64): [splitmix64 RNG](https://rosettacode.org/wiki/Pseudo-random_numbers/Splitmix64) in Fortran 2008, by DSCF-1224
@@ -3059,9 +3061,9 @@ Ioannis Nompelis
 
 [randomField](https://github.com/cottereau/randomField): generation of random fields with prescribed first-order marginal distribution and correlation structure over structured grids or non-structured point arrays, by cottereau
 
-[rng_fortran](https://github.com/jannisteunissen/rng_fortran): generates random integers, uniform, normal, and Poisson variates, and random points on a circle or sphere, using the xoroshiro128plus generator, by Jannis Teunissen
+[rngff](https://github.com/Archaeologic-Inc/rngff): unified abstract interface for an object-oriented random number generator and a collection of implementations using various algorithms, by Brad Richardson
 
-[approx_stdnormal](https://github.com/SomajitDey/approx_stdnormal): fast generation of an array of standard normal variates using a (modified) Box-Muller transform, by SomajitDey
+[rng_fortran](https://github.com/jannisteunissen/rng_fortran): generates random integers, uniform, normal, and Poisson variates, and random points on a circle or sphere, using the xoroshiro128plus generator, by Jannis Teunissen
 
 [xoshiro-fortran](https://github.com/DSCF-1224/xoshiro-fortran): implementation of xoshiro/xoroshiro in Fortran 2008, by DSCF-1224
 
