@@ -3116,8 +3116,7 @@ Ioannis Nompelis
 
 [bayesR](https://github.com/syntheke/bayesR): Bayesian hierarchical model for complex trait analysis, associated with [paper](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004969) "Simultaneous Discovery, Estimation and Prediction Analysis of Complex Traits Using a Bayesian Mixture Model", by Gerhard Moser et al.
 
-[BayesRCO](https://github.com/fmollandin/BayesRCO): complex trait prediction with Bayesian hierarchical models using genome-wide genetic variation grouped into potentially overlapping annotation categories based on prior biological information (e.g., functional annotations, candidate gene lists, known causal variants), by Fanny Mollandin
-and Andrea Rau.
+[BayesRCO](https://github.com/fmollandin/BayesRCO): complex trait prediction with Bayesian hierarchical models using genome-wide genetic variation grouped into potentially overlapping annotation categories based on prior biological information (e.g., functional annotations, candidate gene lists, known causal variants), by Fanny Mollandin and Andrea Rau.
 
 [BMSL](https://github.com/benRenard/BMSL): mathematical and statistical libraries, geared toward environmental / hydrological applications, by Ben Renard. 
 
@@ -3135,8 +3134,7 @@ and Andrea Rau.
 
 [fitpack](https://github.com/perazz/fitpack): modern Fortran translation by Federico Perini of the [FITPACK](http://www.netlib.org/dierckx) package for curve and surface fitting by Paul Dierckx
 
-[Fitter_MC](https://github.com/ndd21/Fitter_MC): general-purpose bootstrap Monte Carlo utility for fitting a model to a set of (x,y,err_y) data and obtaining both fitted parameter
-values with error bars and properties expressed in terms of those parameters with error bars, by Neil Drummond
+[Fitter_MC](https://github.com/ndd21/Fitter_MC): general-purpose bootstrap Monte Carlo utility for fitting a model to a set of (x,y,err_y) data and obtaining both fitted parameter values with error bars and properties expressed in terms of those parameters with error bars, by Neil Drummond
 
 [Fortran](https://github.com/nevillejackson/Fortran): programs and subroutine libraries useful in statistical analysis and quantitative genetics. Some are by Neville Jackson and others are collected from the public domain.
 
@@ -3173,6 +3171,8 @@ values with error bars and properties expressed in terms of those parameters wit
 [Multi-Reader Multi-Case Analysis of Variance: MRMCaov](https://github.com/brian-j-smith/MRMCaov):  R package with underlying Fortran code for statistical comparison of diagnostic tests - such as those based on medical imaging - for which ratings have been obtained from multiple readers and on multiple cases, by Brian J. Smith
 
 [Multivariate Data Analysis Software in Fortran (and C)](https://mda-sw.github.io/) by Fionn Murtagh 
+
+[nested_fit](https://github.com/martinit18/nested_fit): analysis based on the Bayesian statistics for the computation of, for a given set of data and chosen model, the complete probability distribution for each parameter and the Bayesian evidence. It is written in Fortran with some Python complementary routines for visualizing the output results and for doing automatic analyses of series of data. Associated paper: M. Trassinelli, [The Nested_fit Data Analysis Program](https://www.mdpi.com/2504-3900/33/1/14), Proceedings 33, 14 (2019)
 
 [npregfast](https://github.com/sestelo/npregfast): R package with Fortran code for obtaining nonparametric estimates of regression models with or without factor-by-curve interactions using local polynomial kernel smoothers or splines, by Marta Sestelo
 
