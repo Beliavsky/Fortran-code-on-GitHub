@@ -963,6 +963,8 @@ engine, by montagdude and Geoff Sokoll
 
 [EddyPro](https://github.com/LI-COR/eddypro-engine): processes eddy covariance data, by LI‑COR Biosciences. It computes fluxes of water vapor (evapotranspiration), carbon dioxide, methane, other trace gases, and energy with the Eddy Covariance method.
 
+[Eulerian Level set Model of FIRE Spread (ELMFIRE)](https://github.com/lautenberger/elmfire): operational wildland fire spread model, by Chris Lautenberger et al. Some of its common applications include forecasting spread of fires in real time, reconstructing spread of historical fires, quantifying landscape-scale potential fire behavior potential, and estimating annual burn probability and fire severity
+
 [Environmental Fluid Dynamics Code (EFDC+)](https://github.com/dsi-llc/EFDCPlus): multifunctional surface water modeling engine that includes hydrodynamic, sediment-contaminant, and eutrophication components designed to simulate aquatic systems in one, two, and three dimensions
 
 [exascale Subsurface Transport Over Multiple Phases (eSTOMP-WR)](https://github.com/pnnl/eSTOMP-WR): highly scalable (parallel), general-purpose tool for simulating subsurface flow and reactive transport in variably saturated geologic media, from Pacific Northwest National Laboratory (PNNL)
