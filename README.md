@@ -1548,6 +1548,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [M_intrinsics](https://github.com/urbanjost/M_intrinsics): man(1) pages for the standard Fortran intrinsics, with a secondary goal of providing a tested working example program for each intrinsic
 
+[Modern-Fortran](https://github.com/WVUHPC/Modern-Fortran): materials for a 4-day [workshop](https://wvuhpc.github.io/Modern-Fortran/) covering Fortran and models of scientific parallel programming: OpenMP, OpenACC, CUDA Fortran and MPI, from WVU Research Computing
+
 [modern-fortran](https://github.com/dvalters/modern-fortran): notes and code from the Fortran Modernisation workshop, by dvalters
 
 [modern_fortran_book](https://github.com/jonaslindemann/modern_fortran_book): files to build the site [Modern Fortran in Science and Technology](https://modern-fortran-in-science-and-technology.readthedocs.io), by jonaslindemann
