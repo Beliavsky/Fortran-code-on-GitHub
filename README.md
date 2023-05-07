@@ -580,6 +580,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [MolAlignLib](https://github.com/qcuaeh/molalignlib): Fortran and Python library based on random rotations and quasi-local RMSD minimizations to align rigid molecules and clusters. Associated paper: M. Vasquez-Perez, L. A. Zarate-Hernandez, C. Z. Gomez-Castro, U. A. Nolasco-Hernandez. [A Practical Algorithm to Solve the Near-Congruence Problem for Rigid Molecules and Clusters](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01187), Journal of Chemical Information and Modeling (2023)
 
+[molecular-tools](https://github.com/jcerezochem/molecular-tools): modules that undertake a number of basic molecular modelling / computational chemistry analysis and manipulations, such as structure file reading and writing (including pdb, gro, g96, xyz), and parsing output files from programs as Gaussian (fchk and log) and Molpro retrieving informations such as geometry, frequencies, normal modes, Hessian, Gradient, molecular orbital coefficients, etc., by Javier Cerezo
+
 [mstore](https://github.com/grimme-lab/mstore): molecular structure store for testing, from grimme-lab
 
 [multi-crystal indexing data processing suite in macromolecular crystallography (MCDPS)](https://github.com/gengzhi-ihep/multi-lattice-indexing): associated with paper Zhou, Q., Gao, Z.Q., Dong, Z., Jiang, Y.M., She,Z., Geng, Z.& Dong, Y.H.(2021). [A reference-based multi-lattice indexing method integrating prior information correction and iterative refinement in protein crystallography](https://scripts.iucr.org/cgi-bin/paper?S2053273321003521). Acta Cryst. A77
