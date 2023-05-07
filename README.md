@@ -733,6 +733,8 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [euler2D-kfvs-Fortran2003](https://github.com/truongd8593/euler2D-kfvs-Fortran2003): compressible Euler equations solver using kinetic flux vector splitting (KFVS) scheme, by truongd8593
 
+[Exact_Riemann_Solver](https://github.com/bgiacoma/Exact_Riemann_Solver): code associated with [The exact solution of the Riemann problem in relativistic magnetohydrodynamics](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/exact-solution-of-the-riemann-problem-in-relativistic-magnetohydrodynamics/96301C50DDB8E673859CF715B0813F3B), by B. Giacomazzo and L. Rezzolla, Journal of Fluid Mechanics 562, 223 (2006)
+
 [FEST-3D](https://github.com/FEST3D/FEST-3D): solves Navier-Stokes equations on a structured grid using state of the art finite-volume numerical methods. It is a modular, multiblock finite-volume code developed to solve compressible flow problems encountered in the field of aerodynamics.
 
 [flexi](https://github.com/flexi-framework/flexi): High-Order Unstructured Discontinuous Galerkin Fluid Dynamics Solver
