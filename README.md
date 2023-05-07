@@ -3352,6 +3352,8 @@ Milan Curcic and Sebastian Ehlert
 
 [FyTest — Instant Fortran unit testing](https://github.com/aradi/fytest): lightweight unit testing framework for Fortran, by Bálint Aradi. Thanks to its header-only design, it can be easily bundled with any Fortran project without creating extra dependencies. 
 
+[M_framework](https://github.com/urbanjost/M_framework): aggregate of Fortran modules useful for creating terminal messages, comparing expected values to results, writing logfiles and playback journals and performing unit tests for Fortran, by urbanjost
+
 [par-funnel](https://github.com/degawa/par-funnel): unit test parameterizer using namelist, by Tomohiro Degawa. Par-funnel is not a unit test framework but is intended to be used with other unit test frameworks.
 
 [pFUnit](https://github.com/Goddard-Fortran-Ecosystem/pFUnit): unit testing framework enabling JUnit-like testing of serial and MPI-parallel software written in Fortran, from Goddard-Fortran-Ecosystem. Limited support for OpenMP is also provided in the form of managing exceptions in a thread-safe manner.
