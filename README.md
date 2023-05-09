@@ -501,6 +501,8 @@ simulating and forecasting meteorological phenomena.
 
 [libfde](https://github.com/Zorkator/libfde): Fortran Development Extensions (library), by Zorkator
 
+[m_ad](https://github.com/octoflar/m_ad): collection of matrix derivative tests for forward and reverse mode algorithmic differentiation, by R. Quast. Associated paper: Giles, M. (2008) [Collected matrix derivative results for forward and reverse mode algorithmic differentiation](https://link.springer.com/chapter/10.1007/978-3-540-68942-3_4), Advances in Automatic Differentiation pp 35–44
+
 [prep](https://github.com/urbanjost/prep): streamlined pre-processor primarily designed for use with Fortran, by urbanjost. It does not support procedural macros but does support variable substitution and reusable free-format text blocks which allows for basic templating as well as easy construction of multi-line CHARACTER variables; and is quite capable of supporting traditional conditional compilation.
 
 [progRESS+repORT (progrep}](https://github.com/SomajitDey/progrep): utility to show live progress, status and stats of a running simulation or any compute job that executes a given number of iterations, by SomajitDey. Progrep can report for both serial (single-core) and parallel (multi-core/multi-node - e.g. OpenMP/MPI) jobs.
