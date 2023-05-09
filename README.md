@@ -923,6 +923,8 @@ engine, by montagdude and Geoff Sokoll
 
 [CLM-Microbe](https://github.com/email-clm/CLM-Microbe): modeling work within the Ecological Modeling and Integration Laboratory at SDSU. One publication is [Substrate and environmental controls on microbial assimilation of soil organic carbon: a framework for Earth system models](https://onlinelibrary.wiley.com/doi/10.1111/ele.12254).
 
+[ClusterIn](https://github.com/tolenius/ClusterIn): add-on for aerosol microphysics models for explicitly simulating the dynamics of particle formation from vapors. Associated paper: [Role of gas–molecular cluster–aerosol dynamics in atmospheric new-particle formation](https://www.nature.com/articles/s41598-022-14525-y), by Tinja Olenius & Pontus Roldin, Scientific Reports volume 12, Article number: 10135 (2022).
+
 [Community Data Models for Earth Prediction Systems (CDEPS)](https://github.com/ESCOMP/CDEPS): NUOPC-compliant data components along with ESMF-based share code that enables new capabilities in selectively removing feedbacks in coupled model systems
 
 [Community Ice Sheet Model (CISM)](https://github.com/ESCOMP/CISM): land ice model designed to be used as part of an Earth-system model or as a stand-alone model
