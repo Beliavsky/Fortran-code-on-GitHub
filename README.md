@@ -2308,8 +2308,6 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [NumDiff](https://github.com/jacobwilliams/NumDiff): modern Fortran numerical differentiation library, by Jacob Williams
 
-[Numerical_Methods](https://github.com/Dario-Maglio/Numerical_Methods): numerical methods with specific applications to classical, statistical and quantum physics, including root-finding, minimization and integration, diagonalizing NxN matrices, methods for ordinary, stochastic and partial differential equations, Monte Carlo simulations and pseudo-random number generators, and path integral and quantum systems simulations, by Dario Maglio
-
 [Numeric Library for Modern Fortran](https://github.com/degawa/fortran-numeric): scope: Integer (handling integer constants, digits, convert to string with format);  Real (handling real constants, convert to string with format); Non-number (handling quiet nan and positive/negative inf as constants, check whether an array of floating-point numbers has at least one quiet nan, positive/negative inf value), by Tomohiro Degawa
 
 [NumFort](https://github.com/AnthonyKalaitzis/NumFort): numerical library for FORTRAN that includes quadpack, lapack, PLplot and Matplotlib source code, by Anthony Kalaitzis and Curtis Abell. It enables the use of handy mathematical macros such as linspace.
@@ -2317,6 +2315,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 [NumLib](https://github.com/ebrooker/NumLib): Numerical Library: Demonstration of various numerical methods/recipes, by ebrooker
 
 [NumericalHUB](https://github.com/jahrWork/NumericalHUB): set of modern Fortran numerical libraries covering: zeroes of Systems of Equations, Lagrange Interpolation, Finite Differences, Cauchy Problems, Boundary Value Problems, and Initial Boundary Value Problems, associated with book [How to learn Applied Mathematics through modern FORTRAN](https://www.amazon.com/Applied-Mathematics-through-modern-FORTRAN/dp/B0851LN6HT) 
+
+[Numerical_Methods](https://github.com/Dario-Maglio/Numerical_Methods): numerical methods with specific applications to classical, statistical and quantum physics, including root-finding, minimization and integration, diagonalizing NxN matrices, methods for ordinary, stochastic and partial differential equations, Monte Carlo simulations and pseudo-random number generators, and path integral and quantum systems simulations, by Dario Maglio
 
 [Numerical_Methods](https://github.com/brito-leonardo/Numerical_Methods): useful numerical methods applied to simple problems, which are a starting point to solving physical problems, implemented in Fortran 90 and Python 3, by brito-leonardo
 
