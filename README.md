@@ -2308,8 +2308,9 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [NumDiff](https://github.com/jacobwilliams/NumDiff): modern Fortran numerical differentiation library, by Jacob Williams
 
-[Numeric Library for Modern Fortran](https://github.com/degawa/fortran-numeric): scope: Integer (handling integer constants, digits, convert to string with format); 
-Real (handling real constants, convert to string with format); Non-number (handling quiet nan and positive/negative inf as constants, check whether an array of floating-point numbers has at least one quiet nan, positive/negative inf value), by Tomohiro Degawa
+[Numerical_Methods](https://github.com/Dario-Maglio/Numerical_Methods): numerical methods with specific applications to classical, statistical and quantum physics, including root-finding, minimization and integration, diagonalizing NxN matrices, methods for ordinary, stochastic and partial differential equations, Monte Carlo simulations and pseudo-random number generators, and path integral and quantum systems simulations, by Dario Maglio
+
+[Numeric Library for Modern Fortran](https://github.com/degawa/fortran-numeric): scope: Integer (handling integer constants, digits, convert to string with format);  Real (handling real constants, convert to string with format); Non-number (handling quiet nan and positive/negative inf as constants, check whether an array of floating-point numbers has at least one quiet nan, positive/negative inf value), by Tomohiro Degawa
 
 [NumFort](https://github.com/AnthonyKalaitzis/NumFort): numerical library for FORTRAN that includes quadpack, lapack, PLplot and Matplotlib source code, by Anthony Kalaitzis and Curtis Abell. It enables the use of handy mathematical macros such as linspace.
 
