@@ -105,8 +105,7 @@
 
 [DAOPHOT-MCMC](https://github.com/skterry/daophot_mcmc): modified version of the subroutine NSTAR.F which implements a Markov chain Monte Carlo (MCMC) routine for fitting highly blended stellar positions and fluxes, by Sean Terry. This code is installed and implemented within the overall DAOPHOT-II structure. 
 
-[DarkLim](https://github.com/spice-herald/DarkLim): statistical tools for calculating dark matter exclusion limits and sensitivity estimates, from 
-SPICE/HeRALD
+[DarkLim](https://github.com/spice-herald/DarkLim): statistical tools for calculating dark matter exclusion limits and sensitivity estimates, from SPICE/HeRALD
 
 [Discrete Element Model Body (DEMBody)](https://github.com/Bin-Cheng-THU/DEMBody): software for Granular Dynamics Simulation for Planetary Science and Geophysics, by Bin Cheng. It incorporates classical granular dynamics simulations and N-body self-gravity calculation. 
 
@@ -139,6 +138,8 @@ SPICE/HeRALD
 [GaiaHub](https://github.com/AndresdPM/GaiaHub): Python/Fortran tool that computes proper motions combining data from Gaia and the Hubble Space Telescope, associated with paper [GaiaHub: A Method for Combining Data from the Gaia and Hubble Space Telescopes to Derive Improved Proper Motions for Faint Stars](https://ui.adsabs.harvard.edu/abs/2022ApJ...933...76D/abstract), by del Pino, Andrés et al., The Astrophysical Journal, Volume 933, Issue 1, id.76, 18 pp. (2022)
 
 [galacticus](https://github.com/galacticusorg/galacticus): semi-analytic model of galaxy formation - a powerful toolkit for modeling the physics of how galaxies form
+
+[GR1D](https://github.com/evanoconnor/GR1D): general relativistic, spherically symmetry, neutrino transport code for stellar collapse. Associated paper: [An Open-Source Neutrino Radiation Hydrodynamics Code for Core-Collapse Supernovae](https://iopscience.iop.org/article/10.1088/0067-0049/219/2/24), by Evan O'Connor, Astrophysical Journal Supplement Series, Volume 219, Number 2 (2015)
 
 [GYRE Stellar Oscillation Code](https://github.com/rhdtownsend/gyre): Given an input stellar model, GYRE calculates the eigenfrequencies and eigenfunctions for the normal oscillation modes of the model, by rhdtownsend et al. These data can be put to a variety of uses; the most common is to compare them against observed oscillation frequencies of a star, allowing constraints on the star's fundamental parameters (mass, radius, etc.) to be established — the discipline of asteroseismology.
 
