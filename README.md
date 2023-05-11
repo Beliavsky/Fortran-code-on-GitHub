@@ -2928,6 +2928,8 @@ Ioannis Nompelis
 
 [cp2k](https://github.com/cp2k/cp2k): quantum chemistry and solid state physics software package that can perform atomistic simulations of solid state, liquid, molecular, periodic, material, crystal, and biological systems
 
+[DAMQT](https://github.com/anmolecule/DAMQT): cross platform GUI-enabled package for fast and efficient analysis of molecular electron density, electrostatic potential, molecular orbitals and much more, by Jaime Fernández Rico et al.
+
 [ddX](https://github.com/ACoM-Computational-Mathematics/ddX): package for continuum solvation models based on the domain decomposition paradigm. It contains a common interface for the three different methods ddCOSMO, ddPCM and ddLPB for the numerical solution to the COSMO, PCM and LPB solvation models, by mnottoli et al.
 
 [dftbplus](https://github.com/dftbplus/dftbplus): DFTB+ general package for performing fast atomistic simulations
