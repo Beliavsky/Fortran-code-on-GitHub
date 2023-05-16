@@ -1983,7 +1983,7 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [expokit](https://github.com/rasmusgo/expokit): matrix exponential package
 
-[FLAPWxHZ](https://github.com/venovako/FLAPWxHZ): Hari-Zimmermann complex generalized hyperbolic SVD and EVD. Associated paper: [The LAPW Method with Eigendecomposition Based on the Hari--Zimmermann Generalized Hyperbolic SVD](https://epubs.siam.org/doi/10.1137/19M1277813), by Sanja Singer, Edoardo Di Napoli, Vedran Novaković, and Gayatri Čaklović, SIAM Journal on Scientific ComputingVol. 42, Iss. 5 (2020)
+[FLAPWxHZ](https://github.com/venovako/FLAPWxHZ): Hari-Zimmermann complex generalized hyperbolic SVD and EVD. Associated paper: [The LAPW Method with Eigendecomposition Based on the Hari--Zimmermann Generalized Hyperbolic SVD](https://epubs.siam.org/doi/10.1137/19M1277813), by Sanja Singer, Edoardo Di Napoli, Vedran Novaković, and Gayatri Čaklović, SIAM Journal on Scientific Computing, Vol. 42, Iss. 5 (2020)
 
 [FlexiBLAS](https://github.com/mpimd-csc/flexiblas): wrapper library that enables the exchange of the BLAS (Basic Linear Algebra System) and LAPACK (Linear Algebra PACKage) implementation used in an executable without recompiling or re-linking it, by Martin Köhler and Jens Saak
 
