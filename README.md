@@ -2395,6 +2395,9 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [dde_solver](https://github.com/WarrenWeckesser/dde_solver): update by Warren Weckesser of Shampine and Thompson's DDE_SOLVER, a Fortran library for delay differential equations
 
+[diffeq](https://github.com/jchristopherson/diffeq): library providing an object-oriented approach to solving ordinary differential equations, by Jason Christopherson. Available ODE solvers are 4th Order Runge-Kutta and Adams-Bashforth-Moulton (fixed step) and Dormand-Prince Runge-Kutta 5th/4th Order
+and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
+
 [dop853](https://github.com/jacobwilliams/dop853): modern Fortran (2003/2008) implementation of Hairer's DOP853 ODE solver, by Jacob Williams. The original FORTRAN 77 code has been extensively refactored, and is now object-oriented and thread-safe, with an easy-to-use class interface. DOP853 is an explicit Runge-Kutta method of order 8(5,3) due to Dormand & Prince (with stepsize control and dense output).
 
 [dvode](https://github.com/jacobwilliams/dvode): Modern Fortran Edition of the [DVODE](https://computing.llnl.gov/projects/odepack) ODE Solver, by Jacob Williams
