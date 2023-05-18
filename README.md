@@ -1671,6 +1671,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [Fortran pathlib](https://github.com/scivision/fortran-pathlib): Filesystem path manipulation utilities for standard Fortran, from scivision. Inspired by Python pathlib and C++17 filesystem.
 
+[fortran-sigwatch](https://github.com/scivision/fortran-sigwatch): library of routines to provide simple signal watching for Fortran programs, originally by Norman Gray, modified by Michael Hirsch. This allows a minimal level of control of a running program from outside it, for example to tell it to checkpoint itself on receipt of a signal.
+
 [fortran-sleep](https://github.com/scivision/fortran-sleep): OS/compiler-independent "sleep" Fortran subroutine that calls c_sleep, from scivision
 
 [fortran-sqlite3](https://github.com/interkosmos/fortran-sqlite3): Fortran 2018 interface bindings to SQLite 3, by interkosmos
@@ -1679,8 +1681,7 @@ present simple ways to locate and correct those errors without the use of any de
 
 [FortranUtilities](https://github.com/ecasglez/FortranUtilities): functions for strings, numbers, precision, statistics and files, by Emilio Castro
 
-[fortran_utilities](https://github.com/lewisfish/fortran_utilities): procedures to add colour to output via ANSI colour codes, create a progress bar,
-turn variables into strings, and print the time, by Lewis McMillan
+[fortran_utilities](https://github.com/lewisfish/fortran_utilities): procedures to add colour to output via ANSI colour codes, create a progress bar, turn variables into strings, and print the time, by Lewis McMillan
 
 [fortran-utils](https://github.com/certik/fortran-utils): Various utilities for Fortran programs, including types, constants, sorting, saving/loading 2D arrays, meshes, cubic splines, saving/loading PPM images, Lapack interface, HDF5 interface, special functions, and optimization, by Ondrej Certik et al.
 
