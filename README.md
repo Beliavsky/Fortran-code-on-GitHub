@@ -2913,6 +2913,8 @@ Ioannis Nompelis
 
 [thermopack](https://github.com/SINTEF/thermopack): thermodynamic model library for fluid properties and PVT calculations, from SINTEF
 
+[TimeDependentSchrodingerHydrogen](https://github.com/afrapic/TimeDependentSchrodingerHydrogen): solves the Time Dependent Schrodinger equation for hydrogen encapsulated in fullerene interacting with a laser field, by Ana Laura Frapiccini
+
 [TIme-dependent Transport and Angular momentum of Nanostructures (TITAN)](https://github.com/filipesmg/TITAN): calculates the electric and spin excitations for bulk and thin films, by JRSuckert and filipesmg. It can describe Ferromagnetic Resonance (FMR) experiments and intrinsic Spin and Orbital Momentum Hall Effects (including Anomalous and Planar Hall effects), for example.
 
 [T-matrix for Electromagnetic Radiation with Multiple Scatterers (TERMS)](https://github.com/nano-optics/terms): simulates the near-field and far-field optical properties of collections of particles, by Dmitri Schebarchov et al. TERMS solves rigorously the Maxwell equations via the superposition T-matrix method, where incident and scattered fields are decomposed into a basis of multipolar electric and magnetic spherical waves.
