@@ -2765,6 +2765,8 @@ Ioannis Nompelis
 
 [CDMFT-LANC-ED](https://github.com/QcmPlab/CDMFT-LANC-ED): Lanczos based solver for the Cluster Dynamical Mean-Field Theory using the N_up:N_dw implementation, from QcmPlab
 
+[chunkmatc](https://github.com/zgimbutas/chunkmatc): high order layer potential evaluation library in R^2, solving the Laplace and Helmholtz equations, by Zydrunas Gimbutas 
+
 [codata](https://github.com/MilanSkocic/codata): provides the codata constants 2010, 2014 and 2018, by Milan Skocic. The raw codata from http://physics.nist.gov/constants are parsed line by line where the columns name, value, uncertainty and unit are formatted to be conform to Fortran double precision. [pycodata](https://github.com/MilanSkocic/pycodata) is a Python wrapper.
 
 [Computational Environment for Nuclear Structure (CENS)](https://github.com/ManyBodyPhysics/CENS): many-body codes developed by Morten Hjorth-Jensen and collaborators
