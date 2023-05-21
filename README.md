@@ -2907,6 +2907,8 @@ Ioannis Nompelis
 
 [tbcode](https://github.com/srigas/tbcode): simulate the effects of impurities embedded in or adsorbed on superconducting hosts, by srigas
 
+[TemkinPoetParallel](https://github.com/afrapic/TemkinPoetParallel): solves the scattering problem (electron-Hydrogen atom) in the Temkin-Poet model using MPI, by Ana Laura Frapiccini
+
 [Themis](https://github.com/colombarifm/themis): statistical mechanics software designed to obtain the association thermodynamics of two structures (ions, molecules, crystals, nanoparticles, etc), by colombarifm. It generates a configurational partition function by systematically sampling the phase space using discrete grids to perform translations and rotations of one structure around another.
 
 [thermopack](https://github.com/SINTEF/thermopack): thermodynamic model library for fluid properties and PVT calculations, from SINTEF
