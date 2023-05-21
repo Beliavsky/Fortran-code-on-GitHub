@@ -2887,6 +2887,8 @@ Ioannis Nompelis
 
 [SENSMG](https://github.com/jafavorite/SENSMG): Sensitivities of Neutron Reaction Rates, Reaction-Rate Ratios, Leakage, keff, and α Using PARTISN, by jafavorite
 
+[shadow3](https://github.com/oasys-kit/shadow3): ray tracing code for modeling optical systems, targeted to synchrotron radiation beamlines, with unique features for designing X-ray optical systems. Associated paper: M. Sanchez del Rio, N. Canestrari, F. Jiang and F. Cerrina [SHADOW3: a new version of the synchrotron X-ray optics modelling package](https://pubmed.ncbi.nlm.nih.gov/21862849/), Journal of Synchrotron Radiation Volume 18, Part 5 (2011)
+
 [ShengBTE](https://github.com/wxmwy/ShengBTE): solver for the Boltzmann transport equation for phonons, by Wu Li et al.
 
 [signedMCRT](https://github.com/lewisfish/signedMCRT): use of signed distance fields in Monte Carlo Radiative Transfer, by Lewis McMillan. This allows modelling of smooth surfaces without the need to use triangle or similar meshes.
