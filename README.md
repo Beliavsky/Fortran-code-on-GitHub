@@ -2022,6 +2022,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [linalg_fortran](https://github.com/Euler-37/linalg_fortran): interface to Lapack procedures that invert matrices, compute determinants, compute eigenvalues and eigenvectors of symmetric or Hermitian matrices, and compute U*A*U.T, by Euler-37
 
+[linear_system_solvers](https://github.com/M-Badri/linear_system_solvers): wrappers by M-Badri for libraries solving systems of linear equations, including [Lis: Library of Iterative Solvers for Linear Systems](https://www.ssisc.org/lis/index.en.html)
+
 [LSQR](https://github.com/jacobwilliams/LSQR): Fortran 2008 edition of [LSQR](https://web.stanford.edu/group/SOL/software/lsqr/), a conjugate-gradient type method for solving sparse linear equations and sparse least-squares problems, by Jacob Williams.
 
 [LUSOL](https://github.com/Rioghasarig/trlu): maintains LU factors of a square or rectangular sparse matrix. This repository provides LUSOL source code and a Matlab interface.
