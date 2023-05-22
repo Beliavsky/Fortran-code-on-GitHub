@@ -2306,6 +2306,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [monolis_utils](https://github.com/nqomorita/monolis_utils): utilities for monolithic library of numerical simulation, by Naoki Morita. There are modules for I/O, data processing, algebraic computations, memory allocation and release, MPI, tabular data, bounding boxes, Kd-trees, and hashing.
 
+[mpfun90](https://github.com/APN-Pucky/mpfun90): software by David H. Bailey that permits a new or existing Fortran 90 program to utilize multiple-precision arithmetic, or in other words a level of numeric precision that ranges from 50 digits to hundreds or thousands of digits if required. A more recent version is MPFUN2020.
+
 [MPFUN2020](https://github.com/jacobwilliams/MPFUN2020): thread-safe arbitrary precision package that enables one to perform floating-point computations (real and complex) to arbitrarily high numeric precision, by making only relatively minor changes to existing Fortran-90 programs (mostly changes to type statements), by David H. Bailey. All basic arithmetic operations and transcendental functions are supported, together with several special functions. FPM package by Jacob Williams [here](https://github.com/jacobwilliams/mpfun2020-var1)
 
 [Modern Fortran Utilities (ModForUtils)](https://github.com/rweed/ModForUtils): variety of tasks including computing binomial coefficients, factorials, routines for checking for NaN and Infinity floating point exceptions, root finders, random number utils and array sorters, and findloc, by Richard Weed. Future releases will expand on these utilities and add interpolation routines and other utilities.
