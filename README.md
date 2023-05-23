@@ -2172,6 +2172,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 ## Molecular Dynamics
 [ABIN](https://github.com/PHOTOX/ABIN): performs ab initio molecular dynamics, by Daniel Hollas et al. It was designed specifically to deal with quantum nuclear effects.
 
+[AUTOSURF-v1.3](https://github.com/autosurf/AUTOSURF-v1.3): suite of codes for the automated construction of potential energy surfaces (PES) for van der Waals systems. The fitting algorithms implemented in the code are based on the L-IMLS methodology, and have many advanced features such as options for data-point placement, flexibility to include gradients in the fit, iterative refinement, and symmetry recognition. 
+
 [dl-poly](https://github.com/ccp5UK/dl-poly): general-purpose classical molecular dynamics (MD) simulation software developed at Daresbury Laboratory since 1992. Over the years has been transformed from a replicated memory code to a distributed memory one. 
 
 [EmDee](https://github.com/atoms-ufrj/EmDee): platform to test simulation methods that involve the mechanics of many atoms, such as different thermostats and barostats, hybrid Monte Carlo algorithms, etc, from atoms-ufrj
