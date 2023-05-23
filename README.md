@@ -3439,6 +3439,8 @@ Milan Curcic and Sebastian Ehlert
 
 [fortran-machine](https://github.com/mapmeld/fortran-machine): MVC web stack written in Fortran 90, by Nick Doiron et al.
 
+[http-client](https://github.com/fortran-lang/http-client): HTTP client library, by Rajkumar Dongre and Milan Curcic
+
 ## XML
 [fox](https://github.com/andreww/fox): XML library by andreww et al.
 
