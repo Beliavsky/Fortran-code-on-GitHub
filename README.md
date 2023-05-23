@@ -1077,6 +1077,8 @@ engine, by montagdude and Geoff Sokoll
 
 [insol](https://github.com/alex-robinson/insol): calculates paleo and future daily insolation at the top of the atmosphere, by Alexander Robinson
 
+[ioapi-3.2](https://github.com/cjcoats/ioapi-3.2): provides Fortran and C APIs for environmental model data access together with related utility routines and tools for analysis and manipulation of data stored by way of that API, by cjcoats
+
 [Isca](https://github.com/ExeClim/Isca): framework for the idealized modelling of the global circulation of planetary atmospheres at varying levels of complexity and realism, from the University of Exeter. The framework is an outgrowth of models from GFDL designed for Earth's atmosphere, but it may readily be extended into other planetary regimes.
 
 [Ice Shelf/Ocean Fluid and Thermodynamics (ISOFT)](https://github.com/cmacmackin/isoft): object-oriented, extensible framework with which to model glacial flow using modern Fortran, by Chris MacMackin. Though developed for ice shelves, it could in principle be modified to simulated grounded ice dynamics as well.
