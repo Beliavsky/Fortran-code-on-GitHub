@@ -320,6 +320,9 @@ Luis Harvey Triana Vega
 
 [CardiacFEM](https://github.com/Levrero/CardiacFEM): cardiac electro-mechanics solver based on ParaFEM, by Levrero
 
+[CAMI-Gz-Effects-Model-CGEM-](https://github.com/AAM-631/CAMI-Gz-Effects-Model-CGEM-): resource flow-based model of symptom induction and recovery from Gz accelerations in aeronauts. Associated report: [Cerebral Blood Flow Based Computer
+Modeling of Gz-Induced Effects](https://pubmed.ncbi.nlm.nih.gov/37069756/), by Kyle Copeland and James E. Whinnery, Civil Aerospace Medical Institute (CAMI) (2023)
+
 [COVID-testbias](https://github.com/dkhaz/COVID-testbias): Understanding the Bias between the Number of Confirmed Cases and Actual Number of Infections in the COVID-19 Pandemic, by dkhaz and xingangchen
 
 [ECOSYS](https://github.com/jinyun1tang/ECOSYS): code for terrestrial ecosystem biogeochemistry, by Robert Grant. A related project is [EcoSim](https://github.com/jinyun1tang/EcoSIM).
