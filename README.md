@@ -3227,6 +3227,8 @@ Ioannis Nompelis
 
 [get_moments](https://github.com/danieljprice/get_moments): maximum entropy based reconstruction of a function from its moments, by Daniel Price
 
+[Grid Projected Kernel Density Estimation (gpkde)](https://github.com/upc-ghs/gpkde): performs Grid Projected Kernel Density Estimation (GPKDE) of a discrete dataset in one, two or three dimensional domains and is parallelized with the OpenMP library, from upc-ghs. It works as a standalone program by reading an input simulation file, which configures the loading of a source file with data points and additional parameters for defining the reconstruction grid and the optimization for bandwidth selection.
+
 [gslib2.0: Geostatistical Software Library](https://github.com/exepulveda/gslib2.0): aims to create a modern version of the original GSLIB source code, by exepulveda
 
 [inference](https://github.com/tloredo/inference): Python modules for statistical inference, including the Parametric Inference Engine (PIE), with underlying Fortran code, by Tom Loredo
