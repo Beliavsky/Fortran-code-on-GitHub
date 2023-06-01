@@ -1948,6 +1948,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fortran-rbf](https://github.com/dongli/fortran-rbf): implementation of radial basis functions (RBF), by dongli
 
+[interpolation2d3d](https://github.com/arjenmarkus/interpolation2d3d): interpolation in two and three dimensions, by Arjen Markus. The packages srfpak, sphpak, qshep2d and qpshep3d implement an object-oriented interface to the interpolation packages by Robert Renka.
+
 [interpolation](https://github.com/furstj/interpolation): Matlab/Octave-like interpolation functions such as linear and PCHIP (Piecewise Cubic Hermite Interpolating Polynomial), by Jiří Fürst
 
 [lagrange_interpolator](https://github.com/jlokimlin/lagrange_interpolator): OOP library for 1 and 2-dimensional Lagrange interpolation, by Jon Lo Kim Lin
