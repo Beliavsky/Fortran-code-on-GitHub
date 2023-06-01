@@ -2297,6 +2297,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [fortran-bessels](https://github.com/perazz/fortran-bessels): Fortran port (stub) of the Bessels.jl repository, by Federico Perini et al.
 
+[fortran-numerical-methods](https://github.com/c4rlosr4ul/fortran-numerical-methods): implements methods for solving ordinary differential equations, numerical interpolation, finding roots of equations, and other topics, by Carlos Raúl
+
 [ForTrilinos](https://github.com/trilinos/ForTrilinos): provides Fortran interfaces for the following capabilities of the C++ [Trilinos](https://trilinos.github.io/) library: Parameter lists and XML parsers (through Teuchos); Distributed linear algebra object including sparse graphs, sparse matrices, and dense vectors (through Tpetra); Linear solvers and preconditioners (through Stratimikos, Ifpack2, Belos, MueLu); and Eigen solvers (through Anasazi).
 
 [FURY](https://github.com/szaghi/FURY): Fortran Units (environment) for Reliable phYsical math, by Stefano Zaghi 
