@@ -2665,6 +2665,8 @@ Ioannis Nompelis
 [ur-parallel-programming](https://github.com/sueskind/ur-parallel-programming): notes and cheatsheets on the course Parallel Programming in Fortran at the University of Regensburg, covering Fortran in general, MPI, and OpenMP, by Jonas Süskind
 
 ## Partial Differential Equations
+[cedar](https://github.com/cedar-framework/cedar): robust, variational multigrid library implementing Black Box Multigrid (BoxMG) on large scale parallel systems, by David Moulton, Luke N. Olson and Andrew Reisner
+
 [coral](https://github.com/BenMql/coral): spectral PDEs solver for the plane-layer geometry, written in modern Fortran and highly scalable, by BenMql. The name comes from the initial motivation, which was Convection in Rapidly rotating Layers (even though the code has now a much more general scope).
 
 [ElliFEM](https://github.com/md861/ElliFEM): numerically solves the elliptic family of linear partial differential equations. Examples include the Poisson and Helmholtz equations. Reference: M. Drolia, et al. Enriched finite elements for initial-value problem of transverse electromagnetic waves in time domain. Computers & Structures, 182, 354-367, 2017.
