@@ -1818,6 +1818,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fplot](https://github.com/jchristopherson/fplot): provides a convenient interface for plotting with Gnuplot, by jchristopherson
 
+[ftk](https://github.com/arjenmarkus/ftk): provides a straightforward means to build graphical user-interfaces in Fortran based on Tcl/Tk, by Arjen Markus. In its current state it is proof of concept, not a full-fledged library.
+
 [graffer](https://github.com/jtappin/graffer): interactive tool for generating plots of data and/or functions, by James Tappin. The original graffer was an IDL program. This version provides most of the same functionality in a Fortran program using gtk-fortran and plplot for the GUI and plotting respectively. To display functions gdl (gnudatalanguage) or IDL is required.
 
 [gtk-fortran](https://github.com/vmagnin/gtk-fortran): cross-platform library to build Graphical User Interfaces (GUI), by Vincent Magnin et al. Gtk-fortran is a partial GTK / Fortran binding 100% written in Fortran, thanks to the ISO_C_BINDING module for interoperability between C and Fortran. [gtk-fortran-extra](https://github.com/vmagnin/gtk-fortran-extra) has extra examples under an MIT license
