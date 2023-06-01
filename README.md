@@ -3140,6 +3140,8 @@ Ioannis Nompelis
 
 [normal-deviates](https://github.com/patti-favaron/normal-deviates): generates normal univariate and multivariate deviates, by Patrizia Favaron, using an improved Ziggurat method by Jurgen A. Doornik and the Cholesky decomposition
 
+[pointsets](https://github.com/arjenmarkus/pointsets): modules to construct points in N-dimensional space, such as methods to visit grid points in N-dimensional space, generate points in N-dimensional space based on Latin hypercube samping, generate regularly spaced and pseudo-random points in N-dimensional space, generate quasi-random points in Euclidean N-dimensional space, unit circle, disk, sphere or ball, and return an array of integers in a random order, by Arjen Markus
+
 [pseudo_RNG_modules](https://github.com/pointedsphere/pseudo_RNG_modules): pseudo-random number generator modules in Fortran, with option to compile as Python modules and some basic randomness tests in Python, from pointedsphere
 
 [randomField](https://github.com/cottereau/randomField): generation of random fields with prescribed first-order marginal distribution and correlation structure over structured grids or non-structured point arrays, by cottereau
