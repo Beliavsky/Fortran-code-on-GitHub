@@ -289,6 +289,8 @@
 
 [LINPACK](https://github.com/zaniyah/LINPACK): original (1000x1000 double precision) LINPACK benchmark, with bugfixes, by zaniyah
 
+[matmul](https://github.com/certik/matmul): matrix multiplication benchmark by Ondřej Čertík
+
 [Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks): micro benchmark comparison of Julia against other languages, including Fortran, from JuliaLang
 
 [NetworkDynamicsBenchmarks](https://github.com/PIK-ICoNe/NetworkDynamicsBenchmarks): scripts for benchmarking dynamical systems on networks, from paper "NetworkDynamics.jl -- Composing and simulating complex networks in Julia", by Michael Lindner et al.
