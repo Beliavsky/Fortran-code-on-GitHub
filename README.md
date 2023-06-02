@@ -2077,6 +2077,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [PaScaL_TDMA](https://github.com/MPMC-Lab/PaScaL_TDMA): efficient and scalable computational procedure to solve many tridiagonal systems in multi-dimensional partial differential equations, from MPMC-Lab
 
+[pfapack-sys-rs](https://github.com/Duumbo/pfapack-sys-rs): Rust bindings by Dimitri Bonanni-Surprenant to the Fortran library [pfapack](https://michaelwimmer.org/downloads.html), a library by Michael Wimmer for numerically computing the Pfaffian of a real or complex skew-symmetric matrix
+
 [PROPACK](https://github.com/poulson/PROPACK): set of functions for computing the singular value decomposition of large and sparse or structured matrices  
 
 [PSBLAS3](https://github.com/sfilippone/psblas3): Parallel Sparse Basic Linear Algebra Subroutines, from sfilippone
