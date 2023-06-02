@@ -2547,6 +2547,8 @@ and Tom M. Ragonneau PRIMA implements of Powell's derivative-free optimization m
 
 [pso](https://github.com/Konrad1991/pso): particle swarm optimization in Fortran, by Konrad1991
 
+[PyDQED](https://github.com/ReactionMechanismGenerator/PyDQED): Python wrapper for the DQED Fortran code that solves bounded and constrained least squares and nonlinear equations, by Richard Hanson and Fred Krogh, updated to Fortran 90 by John Burkardt
+
 [PYthon OPTimization Framework (pyOpt)](https://github.com/madebr/pyOpt): object-oriented framework for formulating and solving nonlinear constrained optimization problems, calling Fortran codes
 
 [qnstop](https://github.com/vtopt/qnstop): suite of serial and parallel Fortran 95/2003 codes for deterministic global optimization and stochastic optimization by Layne Watson. 
