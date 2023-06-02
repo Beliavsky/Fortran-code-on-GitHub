@@ -1867,6 +1867,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [arrayfire-fortran](https://github.com/arrayfire/arrayfire-fortran): Fortran wrapper for ArrayFire, a general purpose GPU library.
 
+[arrow-fortran](https://github.com/ludnic/arrow-fortran): automatic bindings by Ludovico Nicotina and Vincent Magnin to the C API for the arrow project. [Arrow](https://arrow.apache.org/) is a language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware like CPUs and GPUs. 
+
 [call_py_fort](https://github.com/nbren12/call_py_fort): call Python from Fortran, by Noah D. Brenowitz. Operates by pushing Fortran arrays into a global python dictionary, calling Python functions with this dictionary as input, and then reading NumPy arrays from this dictionary back into Fortran.
 
 [cuda_demo](https://github.com/Panadestein/cuda_demo): minimal working example (MWE) demonstrating how to use CUDA with Fortran using the ISO_C_BINDING module, using gfortran and g++, by Ramón L. Panadés-Barrueta 
