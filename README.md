@@ -293,6 +293,8 @@
 
 [Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks): micro benchmark comparison of Julia against other languages, including Fortran, from JuliaLang
 
+[miniApps-for-hpc](https://github.com/vlkale/miniApps-for-hpc): set of small codes representative of larger application programs run on supercomputers, by Vivek Kale. The reason that these codes were developed was to experiment with performance optimizations done on larger application programs.
+
 [NetworkDynamicsBenchmarks](https://github.com/PIK-ICoNe/NetworkDynamicsBenchmarks): scripts for benchmarking dynamical systems on networks, from paper "NetworkDynamics.jl -- Composing and simulating complex networks in Julia", by Michael Lindner et al.
 
 [nwchem-tce-triples-kernels](https://github.com/jeffhammond/nwchem-tce-triples-kernels): NWChem TCE CCSD(T) loop-driven kernels for performance optimization experiments, by jeffhammond
