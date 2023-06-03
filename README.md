@@ -1814,6 +1814,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [FortGL](https://github.com/lewisfish/FortGL): 3D software rendering in pure Fortran, by lewisfish
 
+[fortran-grace](https://github.com/interkosmos/fortran-grace): collection of Fortran 2018 interfaces to the scientific plotting tool [Grace](https://plasma-gate.weizmann.ac.il/Grace/)/XmGrace, by interkosmos. This library covers the FORTRAN 77 and the C API of Grace. This library covers the FORTRAN 77 and the C API of Grace.
+
 [fortran-motif](https://github.com/interkosmos/fortran-motif): collection of ISO C binding interfaces to X/Motif, to create graphical user interfaces for Unix in Fortran 2008, by interkosmos. The library includes selected bindings to Xlib, Xt, Xm, and the XmHTML widget to render HTML 3.2 inside a Motif widget (optional).
 
 [Fortran Terminal (fortty)](https://github.com/awvwgk/fortty): create colorful terminal applications in Fortran, by Sebastian Ehlert
