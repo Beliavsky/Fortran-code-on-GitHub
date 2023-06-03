@@ -1440,6 +1440,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [Fortran-OpenPMD-File-Writers](https://github.com/UCLA-Plasma-Simulation-Group/Fortran-OpenPMD-File-Writers): writes in parallel 2D/3D mesh field data and particle data into HDF5 files using the OpenPMD standard, by Frank S. Tsung et al.
 
+[H5_Assist](https://github.com/EcohydrologyTeam/H5_Assist): HDF5 interface libraries for Fortran, Java, and C#, by EcohydrologyTeam
+
 [IO Fortran Library](https://github.com/acbbullock/IO-Fortran-Library): module providing high level routines for doing internal and external IO, by Austin C. Bullock. In particular, the module provides a handful of generic interfaces for performing string-based and array-based IO that are useful for recording program data, reading data into programs, and for writing formatted logs and output. 
 
 [io_utilities](https://github.com/arjenmarkus/io_utilities): modules to help with input and output, by Arjen Markus: <b>cmdparse</b> parser for minimalistic commands (keyword and zero or more arguments), <b>keyvars</b> read in INI-files and fill in the values of the variables automatically, can also save the data in an INI-file, 
