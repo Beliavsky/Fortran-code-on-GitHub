@@ -928,6 +928,8 @@ engine, by montagdude and Geoff Sokoll
 
 [Calypso](https://github.com/geodynamics/calypso): performs magnetohydrodynamics (MHD) simulation in a rotating spherical shell, modeled as Boussinesq fluid driven by thermal or compositional buoyancy, by Hiro Matsui
 
+[caneill-et-al-JPO-nemo-transition-zone](https://github.com/rcaneill/caneill-et-al-JPO-nemo-transition-zone): code associated with paper Caneill, R., Roquet, F., Madec, G., and Nycander, J. (2022). [The polar transition from alpha to beta regions set by a surface buoyancy flux inversion.](https://journals.ametsoc.org/configurable/content/journals$002fphoc$002f52$002f8$002fJPO-D-21-0295.1.xml?t:ac=journals%24002fphoc%24002f52%24002f8%24002fJPO-D-21-0295.1.xml), Journal of Physical Oceanography.
+
 [Catchment-based Macro-scale Floodplain (CaMa-Flood)](https://github.com/global-hydrodynamics/CaMa-Flood_v4): simulates the hydrodynamics in continental-scale rivers, from global-hydrodynamic. The entire river networks of the world are discretized to the hydrological units named unit-catchments for achieving efficient flow computation at the global scale.
 
 [CDFTOOLS](https://github.com/meom-group/CDFTOOLS): analysis and diagnostics on NEMO ocean model output, from meom-group
