@@ -352,6 +352,8 @@ Modeling of Gz-Induced Effects](https://pubmed.ncbi.nlm.nih.gov/37069756/), by K
 
 [MycoplasmaGenitalium](https://github.com/ccsb-scripps/MycoplasmaGenitalium): modelling of Mycoplasma genitalium based on the WC computational model, by Ludovic Autin and Martina Maritan
 
+[ParizPLOS2021](https://github.com/ITNG/ParizPLOS2021): code associated with paper Pariz A, Fischer I, Valizadeh A, Mirasso C (2021) [Transmission delays and frequency detuning can regulate information flow between brain regions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008129). PLoS Comput Biol 17(4)
+
 [Parse](https://github.com/stevewhitten/Parse): predicts protein regions that are disordered, and which subset of those can undergo phase separation. Associated paper: Paiz, E.A., Allen, J.H., Correia, J.J., Fitzkee, N.C., Hough, L.E., Whitten, S.T. [Beta turn propensity and a model polymer scaling exponent identify intrinsically disordered phase-separating proteins](https://www.jbc.org/article/S0021-9258(21)01149-2/fulltext) J. Biol. Chem. 297, 101343 (2021).
 
 [QMCube (ren-qm3)](https://github.com/sergio-marti/ren-qm3): suite written in Python, calling Fortran codes, initially focused
