@@ -393,6 +393,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [CTSM](https://github.com/ESCOMP/CTSM): Community Terrestrial Systems Model (includes the Community Land Model of CESM), from ESCOMP
 
+[dinsol-v1.0-linux](https://github.com/Emerson-D-Oliveira/dinsol-v1.0-linux): simulates the incoming solar radiation at the top of the atmosphere following the Milankovitch cycles theory, by Emerson Damasceno Oliveira. The tool is ideal for preparing the boundary conditions of climate models, beyond being a helpful tool for educational purposes.
+
 [dwarf-p-cloudsc](https://github.com/ecmwf-ifs/dwarf-p-cloudsc): standalone mini-app of the ECMWF cloud microphysics parameterization, by Michael Lange, Willem Deconinck, and Balthasar Reuter
 
 [E3SM](https://github.com/E3SM-Project/E3SM): Energy Exascale Earth System Model source code, by E3SM-Project 
