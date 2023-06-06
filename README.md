@@ -475,6 +475,8 @@ simulating and forecasting meteorological phenomena.
 
 [SPEEDY-ML](https://github.com/Arcomano1234/SPEEDY-ML): combines the atmospheric general circulation model (AGCM) SPEEDY with a reservoir computing-based machine learning algorithm for weather prediction and climate simulations, by Troy Arcomano.
 
+[tcane_fortran](https://github.com/eabarnes1010/tcane_fortran): evaluate pre-trained artificial neural networks to estimate consensus hurricane intensity and track errors, as well as the associated uncertainties of the network predictions. Associated paper: Barnes, Elizabeth A., Randal J. Barnes and Nicolas Gordillo, 2021: [Adding Uncertainty to Neural Network Regression Tasks in the Geosciences](https://arxiv.org/abs/2109.07250)
+
 [UCLALES-SALSA](https://github.com/UCLALES-SALSA/UCLALES-SALSA): large-eddy model coupled with a detailed sectional microphysics module for aerosol, clouds and precipitation, by Juha Tonttila et al.
 
 [urban Dutch Atmospheric Large Eddy Simulation (u-dales)](https://github.com/uDALES/u-dales): large-eddy simulation (LES) model for urban environments. LES is an approach to turbulence modelling used in computational fluid dynamics to simulate turbulent flows over a wide range of spatial and temporal scales.
