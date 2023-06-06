@@ -662,6 +662,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [fh_table](https://github.com/dbartilson/fh_table): modern Fortran hash functions and hash tables, by dbartilson
 
+[flinkedlist](https://github.com/sakamoti/flinkedlist): object-oriented library providing an simple linked list, with the ability to sort elements with a user-defined function, apply a user-defined function in each node, and a convenience method to aid print debugging by automatically displaying variables of built-in types and providing a dedicated display function for user-defined types, by Yuichiro Sakamoto
+
 [flist](https://github.com/jacobwilliams/flist): modern Fortran linked lists using unlimited polymorphic derived types, by Jacob Williams
 
 [FMacro](https://github.com/hsnyder/FMacro): template preprocessor for Fortran, by Harris Snyder. Aims to address Fortran's lack of support for generic programming with a simple preprocessor, modeled after some of the language committee's early ideas for a template language feature, to be included in a future Fortran standard.
