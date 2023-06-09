@@ -385,6 +385,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [C_ClWxSim](https://github.com/RosesHaveThorns/C_ClWxSim): very simplistic weather and climate simulator for worldbuilding, from RosesHaveThorns
 
+[Climate Modelling and Diagnostics Toolkit (climt)](https://github.com/CliMT/climt): Python based library which provides a modular and intuitive approach to writing numerical models of the climate system. climt provides state-of-the art components and an easy-to-use interface to allow writing research quality models without modifying the underlying Fortran code.
+
 [Cloud-J](https://github.com/geoschem/Cloud-J): multi-scattering eight-stream radiative transfer model for solar radiation based on [Fast-J](https://www.ess.uci.edu/group/prather/scholar_software), originally developed by Michael J. Prather (UCI)
 
 [Cloud Layers Unified By Binormals (clubb_release)](https://github.com/larson-group/clubb_release): single-column atmospheric model, with associated preprint [CLUBB-SILHS: A parameterization of subgrid variability in the atmosphere](https://arxiv.org/pdf/1711.03675.pdf), by Vincent E. Larson
