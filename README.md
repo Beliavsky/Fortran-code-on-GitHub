@@ -275,6 +275,8 @@
 
 [fortran-math-tests](https://github.com/lyuwen/fortran-math-tests): test programs for Fortran math libraries, by L. Fu
 
+[fortran-speed](https://github.com/alex-robinson/fortran-speed): compares speed of looping over individual arrays of variables with multiple dimensions to looping over arrays of derived types, where e.g., the last dimension is contained within the derived type, by Alex Robinson
+
 [Himeno Benchmark in Modern Fortran](https://github.com/degawa/Himeno-Benchmark-in-Modern-Fortran): [Himeno benchmark](https://i.riken.jp/en/supercom/documents/himenobmt/) to evaluate performance of incompressible fluid analysis code, written in Modern Fortran style, achieving almost the same execution performance as the original version, by Tomohiro Degawa. In this program, global variables are eliminated, and some variable names and subroutine names are refactored.
 
 [hpc-medley](https://github.com/moutai/hpc-medley): two publicly available hpc benchmarks: NPB (NAS) and the HPL part of the HPCC challenge. It is used to determine the performance of clustered computing resources.
