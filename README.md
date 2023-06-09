@@ -1404,6 +1404,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [Fortran Parser](https://github.com/jacopo-chevallard/FortranParser): parser of mathematical expressions by hennink and Jacopo Chevallard, based on Roland Schmehl's [fparser](http://fparser.sourceforge.net/)
 
+[hp](https://github.com/sgeard/hp): rpn calclulator with a maximum stack size of 5, by sgeard It has full support for real and complex numbers and will calculate summary statistics for a set of reals of real pairs.
+
 [M_calculator](https://github.com/urbanjost/M_calculator): parse Fortran-like double precision scalar expressions, by urbanjost
 
 [M_matrix](https://github.com/urbanjost/M_matrix): Fortran callable version of old matlab-like interface, by urbanjost
