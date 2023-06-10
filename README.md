@@ -3201,6 +3201,8 @@ Ioannis Nompelis
 
 [rng_fortran](https://github.com/jannisteunissen/rng_fortran): generates random integers, uniform, normal, and Poisson variates, and random points on a circle or sphere, using the xoroshiro128plus generator, by Jannis Teunissen
 
+[sobseq](https://github.com/DaanVanVugt/sobseq): generates points in Sobol series, in a continuous or strided (2^n) manner, by Daan van Vugt and Koen Beljaars. The Sobol sequence is a low-discrepancy sequence that can be used for more efficient (Quasi-)Monte-Carlo integration.
+
 [xoshiro-fortran](https://github.com/DSCF-1224/xoshiro-fortran): implementation of xoshiro/xoroshiro in Fortran 2008, by DSCF-1224
 
 ## Reactor Physics
