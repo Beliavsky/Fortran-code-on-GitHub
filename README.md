@@ -934,6 +934,8 @@ engine, by montagdude and Geoff Sokoll
 
 [axitra](https://github.com/coutanto/axitra): numerical modelling of seismic wave propagation in 3D with flat layer models, associated with the following [paper](https://academic.oup.com/gji/article/128/3/676/675790): F. Cotton and Coutant O., 1997, Dynamic stress variations due to shear faults in a plane-layered medium, GEOPHYSICAL JOURNAL INTERNATIONAL,Vol 128, 676-688
 
+[beamforming](https://github.com/jdassink/beamforming): seismo-acoustic array processing routines, by Jelle Assink. An associated paper is [Fast Frequency‐Wavenumber Analysis and Fisher Signal Detection in Real‐Time Infrasonic Array Data Processing](https://academic.oup.com/gji/article/26/1-4/279/587029) (1971), by Smart, E. and Flinn, E. A., Geophysical Journal of the Royal Astronomical Society, 26: 279-284.
+
 [Bergen Layered Ocean Model (BLOM)](https://github.com/NorESMhub/BLOM): ocean component of the Norwegian Earth System Model. Includes the ocean biogeochemistry model iHAMOCC.
 
 [Biome Ecological strategy simulator (BiomeESS)](https://github.com/wengensheng/BiomeESS): model in which vegetation is represented as plant functional types sampled from high dimensional spaces of combined plant traits that can consistently coexist in plant individuals. Reference: Weng, E., Dybzinski, R., Farrior, C. E., and Pacala, S. W.: "Competition alters predicted forest carbon cycle responses to nitrogen availability and elevated CO2: simulations using an explicitly competitive, game-theoretic vegetation demographic model", Biogeosciences, 16, 4577–4599, https://doi.org/10.5194/bg-16-4577-2019, 2019.
