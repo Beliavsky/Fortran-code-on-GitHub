@@ -2931,6 +2931,8 @@ Ioannis Nompelis
 
 [MDCM](https://github.com/MMunibas/MDCM): Machine learning code to fit Minimal Distributed Charge Models, by Mike Devereux et al.
 
+[MolForge](https://github.com/LunghiGroup/MolForge): suite of codes using MPI for the simulation of quantum spin dynamics at the atomistic level, by Alessandro Lunghi. The codes iare developed to readily interface with electronic structure codes and make it possible to predict spin decoherence and spin-phonon relaxation fully ab initio.
+
 [Neural-Network-Quantum-States](https://github.com/acbbullock/Neural-Network-Quantum-States): machine learning demonstration of neural network quantum states, by acbbullock
 
 [NuHamil-public](https://github.com/Takayuki-Miyagi/NuHamil-public): matrix elements of NN+3N interactions based on chiral effective field theory, by Takayuki Miyagi
