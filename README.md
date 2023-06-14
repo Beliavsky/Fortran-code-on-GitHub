@@ -920,6 +920,8 @@ engine, by montagdude and Geoff Sokoll
 
 [aerobulk](https://github.com/brodeau/aerobulk): gathers state-of-the-art aerodynamic bulk formulae algorithms used to compute turbulent air-sea fluxes of momentum, heat and freshwater, by brodeau and einola
 
+[AmplitudeSourceLocation](https://github.com/mogiso/AmplitudeSourceLocation): package containing the Amplitude Source Location method using depth-dependent 1-D velocity structure and 3-D attenuation structure, relative source location method using seismic amplitudes, and relative source location method using arrival times of seismic waves. Associated paper: Ogiso, M. and K. Yomogida (2021), [Estimation of Relative source locations from seismic amplitude: application to earthquakes and tremors at Meakandake volcano, eastern Hokkaido, Japan](https://earth-planets-space.springeropen.com/articles/10.1186/s40623-021-01366-8), Earth, Planets and Space, 73:29
+
 [A-New-BellHope](https://github.com/A-New-BellHope/bellhop): mirror of the original Fortran BELLHOP/BELLHOP3D underwater acoustics simulators, with numerical properties and robustness improved and bugs fixed. These changes were made in support of the multithreaded C++/CUDA version of BELLHOP/BELLHOP3D: bellhopcxx/bellhopcuda
 
 [Anura3D_OpenSource](https://github.com/Anura3D/Anura3D_OpenSource): numerical modelling of large deformations and soil–water–structure interaction using the material point method (MPM)
