@@ -2295,6 +2295,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [Inference-Engine](https://github.com/BerkeleyLab/inference-engine): software library by Damian Rouson et al. for researching ways to efficiently propagate inputs through deep, feed-forward neural networks exported from Python by the companion package nexport
 
+[KohonenF03](https://github.com/khaors/KohonenF03): library for Self-Organizing Maps, by Oscar Garcia-Cabrejo. Self-Organizing Maps or Kohonen Maps are powerful computational tools to cluster multivariate data using a topology preservation approach
+
 [MlFortran](https://github.com/Etdescamps/MlFortran): library designed for the writing and the development of Complex System models, by Etienne Descamps. It is written in a modern object-oriented Fortran 2008 and has a C and C++ interface. Its aim is to ease the development of complex models in lower level language such as C/C++ and Fortran by providing structures and algorithms that can be found in higher level programming language such as Matlab or Python/SciPy.
 
 [mlxanes](https://github.com/tneth/mlxanes): machine learning x-ray absorption near edge structure: An OpenMP parallelised multivariate linear regression Fortran program for predicting XANES spectra from an xyz file, by tneth
