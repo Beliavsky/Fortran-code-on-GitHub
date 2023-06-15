@@ -1229,6 +1229,8 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [relax](https://github.com/geodynamics/relax): implements a semi-analytic Fourier-domain solver and equivalent body forces to compute quasi-static relaxation of stress perturbation, from geodynamics
 
+[rotunno83](https://github.com/eshort0401/rotunno83): Python and Fortran scripts by Ewan Short for solving the differential equations in Rotunno's 1983 paper [On the Linear Theory of the Land and Sea Breeze](https://journals.ametsoc.org/view/journals/atsc/40/8/1520-0469_1983_040_1999_otltot_2_0_co_2.xml)
+
 [Routing Application for Parallel computatIon of Discharge (RAPID)](https://github.com/c-h-david/rapid): river network routing model, by Cedric H. David et al. Given surface and groundwater inflow to rivers, this model can compute flow and volume of water everywhere in river networks made out of many thousands of reaches.
 
 [rsl](https://github.com/Guymer/rsl): maps the effects of rising sea levels on Great Britain, by Guymer
