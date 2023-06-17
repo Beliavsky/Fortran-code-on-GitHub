@@ -224,6 +224,8 @@
 
 [riaf-sed](https://github.com/rsnemmen/riaf-sed): computes spectral energy distributions of radiatively inefficient accretion flows (RIAFs) around black holes, by rsnemmen
 
+[shark](https://github.com/ulebreui/shark): code associated with [Protostellar collapse simulations in spherical geometry with dust coagulation and fragmentation](https://academic.oup.com/mnras/article-abstract/518/3/3326/6815728) (2023), by Ugo Lebreuilly, Valentin Vallucci-Goy, Vincent Guillet, Maxime Lombart, and Pierre Marchand, Monthly Notices of the Royal Astronomical Society, Volume 518, Issue 3, Pages 3326–3343
+
 [SMERCURY-T](https://github.com/SMKreyche/SMERCURY-T): upgrade of the SMERCURY orbital integrator that includes modules to enable the solar tidal spin torque as well as the general relativistic force, by Steven M. Kreyche
 
 [spacepy](https://github.com/spacepy/spacepy): Space Science library for Python, calling Fortran code - contains superposed epoch classes, drift shell tracing, access to magnetic field models, streamline tracing, bootstrap confidence limits, time and coordinate conversions, etc.
