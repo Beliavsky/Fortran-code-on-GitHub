@@ -2507,7 +2507,7 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [rkf45](https://github.com/zoziha/rkf45): Fehlberg fourth-fifth order Runge-Kutta method, adapted by zoziha from the code at Netlib
 
-[runge-kutta-fortran](https://github.com/jacobwilliams/runge-kutta-fortran): Fixed and variable-step Runge-Kutta solvers in Modern Fortran, by Jacob Williams
+[rklib](https://github.com/jacobwilliams/rklib): Fixed and variable-step Runge-Kutta solvers in Modern Fortran, by Jacob Williams
 
 [stiff3](https://github.com/ivan-pi/stiff3): subprogram for solving stiff autonomous systems of ordinary differential equations (ODE's) using a semi-implicit Runge-Kutta method with three steps (SIRK3), by Ivan Pribec and Sebastian Ehlert. The stiff3 source code was originally published in the following book: Villadsen, J., & Michelsen, M. L. (1978). [Solution of differential equation models by polynomial approximation](http://www.gbv.de/dms/ilmenau/toc/011270667.PDF). Prentice-Hall, Inc.
 
