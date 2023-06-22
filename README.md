@@ -1741,6 +1741,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [fortran-zlib](https://github.com/interkosmos/fortran-zlib): collection of Fortran 2018 ISO_C_BINDING interfaces to selected zlib functions, by interkosmos. Zlib is a lossless data-compression library.
 
+[fortime](https://github.com/gha3mi/fortime): provides a timer object for measuring elapsed time, by gha3mi. It includes procedures for starting and stopping the timer, as well as calculating and printing the elapsed time in seconds.
+
 [ForUtils](https://github.com/cmbant/forutils): Fortran 2008 utility functions and reusable classes, by cmbant
 
 [fparser](https://github.com/TREX-CoE/fparser): modern Fortran-based input file parser, from TREX-CoE. It uses a modified libfdf library.
