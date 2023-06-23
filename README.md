@@ -2430,6 +2430,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [QD](https://github.com/highprecision/QD): double-double and quad-double package for Fortran and C++, by Michael Orlitzky and X. Sherry Li
 
+[rational_number](https://github.com/art-rasa/rational_number): procedures for rational numbers, such as arithmetic operations, conversion to and from real variables, and conversion to a string, by art-rasa
+
 [roots-fortran](https://github.com/jacobwilliams/roots-fortran): library for finding the roots of continuous scalar functions of a single real variable, by Jacob Wiliams
 
 [rpn-calc-fortran](https://github.com/scivision/rpn-calc-fortran): Fortran 2018 Reverse Polish Notation (RPN) calculator from scivision. Over 100 functions not in standard Fortran
