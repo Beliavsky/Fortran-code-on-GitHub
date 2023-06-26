@@ -2542,6 +2542,8 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [fmin](https://github.com/jacobwilliams/fmin): derivative-free 1D function minimizer in modern Fortran, by Jacob Williams
 
+[fOptimize](https://github.com/volpatto/fOptimize): 1-D optimization methods of Bisection, Golden Ratio, Newton, and Secant, and N-D methods of Gradient (Cauchy), Newton, Self-scaling Davidon--Fletcher--Powell (DFP), Self-scaling Broyden--Fletcher--Goldfarb--Shanno (BFGS), Self-scaling Broyden family (DFP+BFGS), Box Method (Direct coordinate search), and Hooke & Jeeves, by Diego Volpatto
+
 [FortranFilterSLP](https://github.com/ERGO-Code/FortranFilterSLP): for a particular class of non-convex nonlinear programming problems, this implementation of FilterSLP by jajhall uses sequential linear programming to find a (local) optimal solution.
 
 [GALAHAD](https://github.com/ralna/GALAHAD): library of modern Fortran modules for nonlinear optimization
