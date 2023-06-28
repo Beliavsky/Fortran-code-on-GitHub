@@ -3502,6 +3502,8 @@ Milan Curcic and Sebastian Ehlert
 ## Unit Testing
 [f90tw](https://github.com/loudove/f90tw): provides Fortran wrappers for a limited subset of the Boost and Google test frameworks functionality, by loudove. At the same time, it offers a rather simple mechanism for setting up and managing test suites in Fortran projects. 
 
+[fort_test](https://github.com/archermarx/fort_test): very lightweight testing framework that supports basic assertions and running of test sets, by Thomas Marks
+
 [fortran-testanything](https://github.com/dennisdjensen/fortran-testanything): test library supporting the Test Anything Protocol (TAP) inspired by Perl's Test::More module, by dennisdjensen
 
 [fortran_test_helper](https://github.com/jchristopherson/fortran_test_helper): library to provide assistance to testing, by Jason Christopherson
