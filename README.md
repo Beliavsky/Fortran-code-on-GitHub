@@ -1532,6 +1532,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [table-for-fortran](https://github.com/aschneeberger/table-for-fortran): table for Fortran working in a similar way as for Astropy or pandas, by aschneeberger. Currently reads and writes csv.
 
+[TinyTOML](https://github.com/archermarx/TinyTOML): small, single-file TOML parser, by Thomas Marks
+
 [toml-f](https://github.com/toml-f/toml-f): TOML parser implementation for data serialization and deserialization in Fortran. [jonquil](https://github.com/toml-f/jonquil) provides a compatibility layer to enable TOML Fortran using libraries to consume JSON as well as allow JSON consuming libraries to try out TOML.
 
 [Unidata NetCDF Fortran Library](https://github.com/Unidata/netcdf-fortran): The Unidata network Common Data Form (netCDF) is an interface for scientific data access and a set of freely-distributed software libraries that provide an implementation of the interface. The netCDF library also defines a machine-independent format for representing scientific data.
