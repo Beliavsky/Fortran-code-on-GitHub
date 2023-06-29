@@ -1456,6 +1456,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [easy-netcdf](https://github.com/onepieceze/easy-netcdf): OOP Interface to the [netcdf Fortran library](https://github.com/Unidata/netcdf-fortran), by onepieceze
 
+[EasyNC](https://github.com/Roadelse/EasyNC): encapsulation for Fortran netcdf I/O with different data type, dimension, struct data, etc., by Roadelse
+
 [fcore](https://github.com/jchristopherson/fcore): string handling and i/o routines, by jchristopherson
 
 [FiNeR](https://github.com/szaghi/FiNeR): IO of INI (config) files for modern (2003+) Fortran projects, by szaghi and kostyfisik
