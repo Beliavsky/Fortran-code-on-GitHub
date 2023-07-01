@@ -2653,6 +2653,8 @@ and Tom M. Ragonneau PRIMA implements of Powell's derivative-free optimization m
 
 [Atomic_Subroutines--How_the_Parallel_Codes_may_look_like--Part_1](https://github.com/MichaelSiehl/Atomic_Subroutines--How_the_Parallel_Codes_may_look_like--Part_1): Fortran 2008 coarray programming with unordered execution segments (user-defined ordering). First in a series of articles by MichaelSiehl
 
+[cafut](https://github.com/renatomatz/cafut): provides a simple, object-oriented unit testing framework meant for applications using Coarray Fortran, by Renato Zimmermann
+
 [clfortran](https://github.com/cass-support/clfortran): Fortran interface to Khronos OpenCL API, from cass-support
 
 [Coarray Collectives](https://github.com/nncarlson/coarray-collectives): module aims to provide various collective parallel procedures for Fortran coarray programs, by Neil Carlson. These are in addition to the several intrinsic collectives introduced in Fortran 2018. Currently the module provides a single procedure, co_sum_scan which computes a prefix sum across all images, similar to MPI_Scan.
