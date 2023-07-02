@@ -2366,6 +2366,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [FMPFR](https://github.com/tkoenig1/FMPFR): Fortran binding to the [GNU MPFR Library multi-precision library](https://www.mpfr.org/), by Thomas Koenig
 
+[fordiff](https://github.com/gha3mi/fordiff): numerical differentiation using the complex step method or finite differences, by gha3mi
+
 [forlab](https://github.com/zoziha/forlab): module that provides a lot of functions for scientific computing mostly inspired by Matlab and Python's module NumPy, by zoziha
 
 [forSISL](https://github.com/rweed/forSISL): Modern Fortran interfaces to the [SINTEF Spline Library (SISL)](https://github.com/SINTEF-Geometry/SISL), by Richard Weed
