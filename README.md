@@ -3208,6 +3208,8 @@ Ioannis Nompelis
 
 [Tight-binding parameter FITting package (TBFIT) for Slater-Koster method](https://github.com/Infant83/TBFIT): program for numerical tight-binding parameter fitting mainly based on Slater-Koster scheme and tight-binding calculations for the electronic band structures of given atomic and electronic configurations with a simple input interfaces, by Hyun-Jung Kim. Basically TBFIT fits Slater-Koster parameters including scaling factors to your target first-principles band structure.
 
+[turborvb](https://github.com/sissaschool/turborvb): package for ab initio Quantum Monte Carlo (QMC) simulations of both molecular and bulk electronic systems, originally developed by Sandro Sorella and Michele Casula
+
 [VALENCE](https://github.com/VALENCE-software/VALENCE): Massively Parallel Implementation of Variational Subspace Valence Bond, by Graham D. Fletcher et al.
 
 [wannier90](https://github.com/wannier-developers/wannier90): Maximally-Localised Generalised Wannier Functions Code
