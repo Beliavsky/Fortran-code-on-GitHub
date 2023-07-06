@@ -459,6 +459,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [NCEPLIBS G2](https://github.com/NOAA-EMC/NCEPLIBS-g2): Utilities for coding/decoding GRIB2 messages, by Hang Lei et al. This library contains Fortran 90 decoder/encoder routines for GRIB edition 2, as well as indexing/searching utility routines.
 
+[prepbufr_decoder](https://github.com/ShawnMurdzek-NOAA/prepbufr_decoder): decode prepBUFR files to CSVs and encode CSVs to prepBUFR files, by Shawn Murdzek. BUFR (Binary Universal Form for the Representation of meteorological data) is Table Driven Data Representation Forms approved by the World Meteorological Organization (WMO) for operational use since 1988. 
+
 [prodsim](https://github.com/ARPA-SIMC/prodsim): collection of shell scripts and Fortran programs based on libsim, by Davide Cesari and ddales3. It is designed for processing raw numerical weather prediction (NWP) model output data and perform physically-based operations in order to obtain postprocessed data
 
 [pytdlpack](https://github.com/eengl/pytdlpack): Python interface for reading and writing TDLPACK data, by eengl
