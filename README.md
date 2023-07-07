@@ -534,6 +534,8 @@ simulating and forecasting meteorological phenomena.
 
 [prep](https://github.com/urbanjost/prep): streamlined pre-processor primarily designed for use with Fortran, by urbanjost. It does not support procedural macros but does support variable substitution and reusable free-format text blocks which allows for basic templating as well as easy construction of multi-line CHARACTER variables; and is quite capable of supporting traditional conditional compilation.
 
+[progress-bar](https://github.com/zoziha/progress-bar): simple progress bar module that is typically used to display the time integration process, by zoziha
+
 [progRESS+repORT (progrep}](https://github.com/SomajitDey/progrep): utility to show live progress, status and stats of a running simulation or any compute job that executes a given number of iterations, by SomajitDey. Progrep can report for both serial (single-core) and parallel (multi-core/multi-node - e.g. OpenMP/MPI) jobs.
 
 [symengine.f90](https://github.com/symengine/symengine.f90): Fortran wrappers by Rikard Nordgren and Ondřej Čertík of SymEngine, a fast symbolic manipulation library, written in C++
