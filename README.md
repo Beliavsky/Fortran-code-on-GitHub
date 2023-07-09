@@ -3426,7 +3426,6 @@ Milan Curcic and Sebastian Ehlert
 
 [Fortran-String-to-Real](https://github.com/Carltoffel/Fortran-String-to-Real): converts strings to reals without using an internal read, by Carltoffel. [Fortran-String-to-Num](https://github.com/jalvesz/Fortran-String-to-Num) is a fork by jalvesz that aims for further improvements on the ASCII to numerical data conversion.
 
-
 [Fregex](https://github.com/14NGiestas/fregex): Perl Compatible Regular Expressions (PCRE) wrapper for Fortran by Ian Giestas Pauli
 
 [fString](https://github.com/dpettas/fString): contains methods to add strings to values or split the context of a string of more than one substrings or even extract specific values using the pattern method, by Dionisis Pettas. The main idea comes from Python and how uses its strings.
@@ -3458,6 +3457,8 @@ Milan Curcic and Sebastian Ehlert
 [stringmod](https://github.com/tcanich/stringmod): Fortran 2008 module by Tom Canich providing string manipulation functions: strtok, ntoken, to_upper, to_lower, rev
 
 [stringParseMods](https://github.com/stewmasterj/stringParseMods): routines for easy string parsing and for geometric domains, by Ross J. Stewart
+
+[strith](https://github.com/degawa/strith): converts a variable representing a long integer into a string by performing arithmetic operations on numbers in strings, by Tomohiro Degawa
 
 ## Time Series
 [ACFbyFFT](https://github.com/lingtikong/ACFbyFFT): evaluates the auto(cross)-correlation of data in one or more columns of a file, by using the fftw 3.1.2 libraries, by lingtikong
