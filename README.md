@@ -1992,6 +1992,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [NPY for Fortran](https://github.com/MRedies/NPY-for-Fortran): allows saving numerical Fortran arrays in Numpy's .npy or .npz format, by MRedies
 
+[pmem_fortran_interface](https://github.com/adrianjhpc/pmem_fortran_interface): interface by Adrian Jackson to the [libpmem](https://github.com/pmem/pmdk) library from the PMDK set of libraries. The aim is to allow persistent memory to be programmed directly from Fortran, rather than requiring every Fortran code developer to create their own interface or C/C++ code to exploit this functionality.
+
 [popen-fortran](https://github.com/jacobwilliams/popen-fortran): module for popen() by Jacob Williams, which executes a command specified by a string argument, creates a pipe between the calling program and the executed command, and returns a pointer to a stream that can be used to either read from or write to the pipe.
 
 [python-fortran](https://github.com/pnavaro/python-fortran): Python-Fortran bindings examples, by Pierre Navaro
