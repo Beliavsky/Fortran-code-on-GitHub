@@ -2621,8 +2621,7 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 [pdfo](https://github.com/pdfo/pdfo): Powell's Derivative-Free Optimization solvers is a cross-platform package
 providing interfaces for using the late M. J. D. Powell's derivative-free optimization solvers, including UOBYQA, NEWUOA, BOBYQA, LINCOA, and COBYLA.
 
-[prima](https://github.com/libprima/prima): Reference Implementation for Powell's methods with Modernization and Amelioration, by Zhang Zaikun
-and Tom M. Ragonneau PRIMA implements of Powell's derivative-free optimization methods, namely COBYLA, UOBYQA, NEWUOA, BOBYQA, and LINCOA.
+[prima](https://github.com/libprima/prima): Reference Implementation for Powell's methods with Modernization and Amelioration, by Zhang Zaikun and Tom M. Ragonneau. PRIMA implements of Powell's derivative-free optimization methods, namely COBYLA, UOBYQA, NEWUOA, BOBYQA, and LINCOA.
 
 [PowellOpt](https://github.com/jacobwilliams/PowellOpt): collection of derivative-free optimization algorithms by M.J.D. Powell. 
 
@@ -2637,6 +2636,8 @@ and Tom M. Ragonneau PRIMA implements of Powell's derivative-free optimization m
 [quadprog](https://github.com/pedro-ricardo/quadprog): quadratic programming routine based on R Package sources, by Pedro Ricardo C. Souza. Changed to have a Matlab like interface and usage examples in C and Fortran.
 
 [RALFit](https://github.com/ralna/RALFit): non-linear least squares solver that is primarily developed by the Numerical Analysis group at STFC Rutherford Appleton Laboratory. 
+
+[rrelaxiv](https://github.com/josherrickson/rrelaxiv): R interface for [RELAX-IV](https://www.mit.edu/~dimitrib/RELAX4_doc.pdf) minimum cost flow solver in FORTRAN by Dimitri P. Bertsekas and Paul Tseng
 
 [scipydirect](https://github.com/andim/scipydirect): Python wrapper to the DIRECT global optimization algorithm with scipy.optimize compatible call syntax, by andim et al.
 
