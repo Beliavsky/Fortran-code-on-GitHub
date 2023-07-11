@@ -3189,6 +3189,8 @@ Ioannis Nompelis
 
 [qe-gpu](https://github.com/fspiga/qe-gpu): GPU-accelerated Quantum ESPRESSO using CUDA Fortran, by Filippo Spiga
 
+[qfitlib](https://github.com/cstein/qfitlib): API intended to be used to fit partial atomic charges to a molecular electrostatic potential (MEP or molecular ESP) that is evaluated on a grid, by Casper Steinmann et al. The charges can be determined using constraints on the total charge and the total permanent dipole moment.
+
 [QuantumModelLib](https://github.com/lauvergn/QuantumModelLib): enables one to use potentials extracted from the literature, by David Lauvergnat et al. It has the following features: one or several degrees of freedom; one or several electronic states; for each electronic state, the energy, gradient and hessian can be obtained in the diabatic or adiabatic representations
 
 [Quantum Package 2.2](https://github.com/QuantumPackage/qp2): programming environment for quantum chemistry specially designed for wave function methods. Its main goal is the development of determinant-driven selected configuration interaction (sCI) methods and multi-reference second-order perturbation theory (PT2).
