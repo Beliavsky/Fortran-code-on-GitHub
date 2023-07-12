@@ -1271,6 +1271,8 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [Semi-implicit Cross-scale Hydroscience Integrated System Model (SCHISM)](https://github.com/schism-dev/schism): community-supported modeling system based on unstructured grids and designed for the seamless simulation of 3D baroclinic circulation across creek-lake-river-estuary-shelf-ocean scales.
 
+[SIBERIA](https://github.com/csdms-contrib/siberia): simulates the evolution of landscapes under the action of runoff and erosion over long times scales. An associated publication is Hancock, G.R.; Gibson, Abraham; Wells, T.; 2021. [Hillslope erosion in a grassland environment: Calibration and evaluation of the SIBERIA landscape evolution model](https://onlinelibrary.wiley.com/doi/10.1002/esp.5060). Earth Surface Processes and Landforms, 46, 728–743
+
 [Structure for Unifying Multiple Modeling Alternatives (SUMMA)](https://github.com/CH-Earth/summa): hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques, by Martyn P. Clark et al.
 
 [Super-Fast INundation of CoastS (SFINCS)](https://github.com/Deltares/SFINCS): reduced-complexity model designed for super-fast modelling of compound flooding events in a dynamic way, from Deltares
