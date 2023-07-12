@@ -2863,6 +2863,8 @@ Ioannis Nompelis
 
 [Guiding-center ORbit Integration with Local Linearization Approach (GORILLA)](https://github.com/itpplasma/GORILLA): computes guiding-center orbits for charged particles of given mass, charge and energy in toroidal fusion devices with three-dimensional field geometry. This guiding-center orbit code is designed to be used in scientific plasma physics simulations in the field of magnetic confinement fusion.
 
+[I2MEX: ideal 2-d Magnetohydrodynamic Equilibrium on Xplasma](https://github.com/PrincetonUniversity/i2mex): by providing a standard equilibrium representation, allows stability codes to obtain metric information from a variety of equilibrium sources. These include GEQDSK (EFIT format), INP1/inp1.cdf (CHEASE), eqdsk.cdf (JSOLVER) as well as TRANSP run data stored on local file system or in the MDSPlus tree.
+
 [KORC](https://github.com/ORNL-Fusion/KORC): Kinetic Orbit Runaway Code, from ORNL-Fusion
 
 [New Hampshire Dispersion relation Solver (NHDS)](https://github.com/danielver02/NHDS): solves the linear hot-plasma dispersion relation based on the Vlasov-Maxwell set of equations, by Daniel Verscharen
