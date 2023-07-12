@@ -1194,6 +1194,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [PaleoCalAdjust](https://github.com/pjbartlein/PaleoCalAdjust): accompanies this paper: Bartlein, P. J. and Shafer, S. L.: Paleo calendar-effect adjustments in time-slice and transient climate-model simulations (PaleoCalAdjust v1.0): impact and strategies for data analysis, Geosci. Model Dev., https://doi.org/10.5194/gmd-12-3889-2019, 2019.
 
+[Parameterization for Unified Microphysics Across Scales (PUMAS)](https://github.com/ESCOMP/PUMAS): code for most versions of the Morrison-Gettleman (MG) microphysics as well as the version which includes a unified ice closure and is now called PUMAS. Associated publication: Gettelman, A., H. Morrison, K. Thayer‐Calder, and C. M. Zarzycki. 2019. [The Impact of Rimed Ice Hydrometeors on Global and Regional Climate](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018MS001488). Journal of Advances in Modeling Earth Systems.
+
 [Passive and Active Microwave TRANsfer (PAMTRA)](https://github.com/igmk/pamtra): Python/Fortran 90 package to solve the passive and active microwave radiative transfer in a plan parallel horizontally homogeneous atmosphere with hydrometeors, by Davide Ori et al.
 
 [Pecube_D](https://github.com/willi-kappler/Pecube_D): version of [Pecube](https://esdynamics.geo.uni-tuebingen.de/wiki/index.php/modeling/50-pecube-table-of-contents) 3D thermal model that tracks exhumed sample cooling histories and calculated predicted cooling ages, by Todd Ehlers et al. It also allows for the simulation of topographic evolution and is (optionally) coupled with the CASCADE surface process model.
