@@ -2374,6 +2374,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [faiNumber-Fortran](https://github.com/kevinhng86/faiNumber-Fortran): fast, flexible, and secure numerical library for Fortran with fast number parsing as one of its features
 
+[Fast Bessel Transform](https://github.com/UCLA-TMD/Ogata): performing fast Bessel transforms of Transverse Momentum Distributions using Ogata quadrature, by John Terry et al.
+
 [fastconv](https://github.com/gronki/fastconv): simple library for 1D and 2D convolutions, by Dominik Gronkiewicz
 
 [fastmath](https://github.com/perazz/fastmath): library for fast, approximate math functions: exp, log, 1/sqrt, by Federico Perini. These functions provide fast, approximate evaluations of the exponential, logarithm and normalization functions in 64-bit precision.
