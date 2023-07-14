@@ -2302,6 +2302,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [RXMD](https://github.com/USCCACS/RXMD): simulates large-scale Reactive Force Field molecular dynamics (MD) simulations on from commodity laptops to high-end supercomputing platforms, from USCCACS. rxmd has been used in a various class of material studies, such as shock-induced chemical reactions, stress corrosion cracking, underwater bubble collapse, fracture of self-healing ceramics and oxidation of nanoparticles.
 
+[SIS](https://github.com/Hori-Lab/SIS): coarse-grained molecular dynamics simulation with the Single-Interaction-Site RNA model, by Naoto Hori et al.
+
 [Structure_factor_FFT](https://github.com/jmcdaniel43/Structure_factor_FFT): computes structure factors using the particle mesh Ewald approach, by Jesse Gatten McDaniel. Either the electron density structure factor can be computed for X-ray scattering (uses form factors), or the total charge density can be computed (uses input force field charges) to evaluate sum rules
 
 ## Neural Networks and Machine Learning
