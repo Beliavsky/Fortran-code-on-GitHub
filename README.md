@@ -2357,6 +2357,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [pytorch-fortran](https://github.com/alexeedm/pytorch-fortran): provides Fortran HPC codes with a simple way to use Pytorch deep learning framework, so that Fortran developers can take advantage of rich and optimized Torch ecosystem from within their existing codes.
 
+[rwkv.f90](https://github.com/FortAI-Hub/rwkv.f90): port by Matteo Grella and Marco Nicola of RWKV-LM, an open-source large language model initially developed in Python. RWKV is an RNN with Transformer-level LLM performance, which can also be directly trained like a GPT transformer
+
 [roseNNa](https://github.com/comp-physics/roseNNa): fast, portable, and minimally-intrusive library for neural network inference, by Ajay Bati and Spencer Bryngelson. The library is optimized Fortran and outperforms PyTorch (by a factor between 2 and 5x) for the relatively small neural networks used in physics applications, like CFD.
 
 [Tangent-linear and adjoint test of a neural network (nn_tl_ad)](https://github.com/samhatfield/nn_tl_ad): fully-connected neural network implemented in Fortran, along with its "tangent-linear" and "adjoint" versions (i.e. the Jacobian and transpose of the Jacobian), by Sam Hatfield. It also includes standard tests for the consistency of these.
