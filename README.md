@@ -2406,7 +2406,9 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [ForTrilinos](https://github.com/trilinos/ForTrilinos): provides Fortran interfaces for the following capabilities of the C++ [Trilinos](https://trilinos.github.io/) library: Parameter lists and XML parsers (through Teuchos); Distributed linear algebra object including sparse graphs, sparse matrices, and dense vectors (through Tpetra); Linear solvers and preconditioners (through Stratimikos, Ifpack2, Belos, MueLu); and Eigen solvers (through Anasazi).
 
-[FURY](https://github.com/szaghi/FURY): Fortran Units (environment) for Reliable phYsical math, by Stefano Zaghi 
+[FURY](https://github.com/szaghi/FURY): Fortran Units (environment) for Reliable phYsical math, by Stefano Zaghi
+
+[GaussJacobiQuad](https://github.com/HaoZeke/GaussJacobiQuad): routines for the Gauss-Jacobi Quadrature, by Rohit Goswami and Ondřej Čertík
 
 [GetRootsF](https://github.com/physicsfan/GetRootsF): routines for finding the roots of linear/non-linear equations, with or without derivative information, by Andrew Senchuk
 
