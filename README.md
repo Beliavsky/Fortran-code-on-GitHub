@@ -1686,6 +1686,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [mastermind](https://github.com/fortran-gaming/mastermind): classic MasterMind game in modern Fortran 2008, from fortran-gaming
 
+[Rhythm-Game-Fortran](https://github.com/SomeUnusualGames/Rhythm-Game-Fortran): Rhythm Game using [raylib.f90](https://github.com/xeenypl/raylib.f90), by SomeUnusualGames
+
 [rubik](https://github.com/JeffIrwin/rubik): Rubik's cube command line interface game, by Jeff Irwin
 
 [SDL77](https://github.com/interkosmos/sdl77): C library for game programming in FORTRAN 77 that provides some glue code to access the software renderer of SDL 1.2, by interkosmos
