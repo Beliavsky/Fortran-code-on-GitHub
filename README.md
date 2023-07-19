@@ -3593,6 +3593,8 @@ Milan Curcic and Sebastian Ehlert
 
 [fortran-machine](https://github.com/mapmeld/fortran-machine): MVC web stack written in Fortran 90, by Nick Doiron et al.
 
+[github-org-analyzer](https://github.com/rajkumardongre/github-org-analyzer): procedures to analyze GitHub organizations and retrieve valuable information about their repositories, by Rajkumar Dongre. By leveraging the power of the http-client package, this analyzer fetches data from the GitHub API to generate insightful reports.
+
 [http-client](https://github.com/fortran-lang/http-client): HTTP client library, by Rajkumar Dongre and Milan Curcic
 
 ## XML
