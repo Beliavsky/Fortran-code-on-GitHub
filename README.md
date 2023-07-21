@@ -1386,6 +1386,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [CCFatiguePlatform](https://github.com/EPFL-ENAC/CCFatiguePlatform): web application to faciltate manipulation and harmonized storage of composite materials testing datasets, from EPFL-ENAC
 
+[Deformation Monitoring Package (DMPACK)](https://github.com/dabamos/dmpack): package for sensor control and automated time series processing in geodesy and geotechnics, consisting of a library libdmpack and additional programs based on it which serve as a reference implementation of solutions to various problems in deformation monitoring, by Philipp Engel
+
 [DynamicStiffness](https://github.com/jbcSmc/DynamicStiffness): calculate the harmonic response of plane frame structures, by jbcSmc
 
 [F2A](https://github.com/yang7857854/F2A): aero-hydro-servo-elastic tool developed based on AQWA by Yang Yang, a postdoctoral research associate in Liverpool John Moores University for performing fully coupled analysis of floating offshore wind turbines (FOWT)
