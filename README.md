@@ -1548,6 +1548,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [Return of JSON for Fortran (rojff)](https://github.com/everythingfunctional/rojff): with an interface inspired by [jsonff](https://gitlab.com/everythingfunctional/jsonff), the data semantics and parser are redesigned to allow for high performance, by Brad Richardson and kmorris
 
+[rsfio](https://github.com/pkgpl/rsfio): [RSF file](https://reproducibility.org/wiki/Guide_to_RSF_file_format) input/output module, by Wansoo Ha, independent from [Madagascar](https://reproducibility.org/wiki/Main_Page). It can be used to read and write integer and single precision real and complex data in up to 9 dimensions, with a separate header text file.
+
 [SDF_FORTRAN](https://github.com/Warwick-Plasma/SDF_FORTRAN): library for accessing files in the SDF (self-descibing file) format, by Keith Bennett et al.
 
 [serialbox](https://github.com/GridTools/serialbox): data serialization library and tools for C/C++ and Fortran, from GridTools
