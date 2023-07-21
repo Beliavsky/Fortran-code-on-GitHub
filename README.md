@@ -3084,6 +3084,8 @@ Ioannis Nompelis
 
 [turbogap](https://github.com/mcaroba/turbogap): efficiently and accurately builds many-body atomic descriptors and carry out other related computations employed in machine-learning approaches to atomistic modeling, such as to run molecular dynamics simulations, by mcaroba
 
+[unrestricted_hartree_fock](https://github.com/xiaobo-23/unrestricted_hartree_fock): unrestricted Hartree-Fock solutions to the Hubbard model at finite-temperature in a grand canonical ensemble, by xiaobo-23
+
 [Uppsala Atomistic Spin Dynamics software (UppASD)](https://github.com/UppASD/UppASD): simulation suite to study magnetization dynamics by means of the atomistic version of the Landau-Lifshitz-Gilbert (LLG) equation, by Anders Bergman et al. Related book: [Atomistic Spin Dynamics: Foundations and Applications](https://global.oup.com/academic/product/atomistic-spin-dynamics-9780198788669?cc=us&lang=en&)
 
 [VASPBERRY](https://github.com/Infant83/VASPBERRY): Berry curvature and Chern number calculations with the output (WAVECAR) of VASP code, by Hyun-Jung Kim. VASPBERRY is written for the post-processing purpose of the VASP outputs, i.e., WAVECAR the Bloch wavefunction information.
