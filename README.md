@@ -1554,6 +1554,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [stl-fortran](https://github.com/jacobwilliams/stl-fortran): Fortran STL (stereolithography) File I/O, by Jacob Williams
 
+[SUIO](https://github.com/pkgpl/SUIO): library for input/output of SU files, by Wansoo Ha, independent from the [Seismic Unix](https://wiki.seismic-unix.org/start) package
+
 [table-for-fortran](https://github.com/aschneeberger/table-for-fortran): table for Fortran working in a similar way as for Astropy or pandas, by aschneeberger. Currently reads and writes csv.
 
 [TinyTOML](https://github.com/archermarx/TinyTOML): small, single-file TOML parser, by Thomas Marks
