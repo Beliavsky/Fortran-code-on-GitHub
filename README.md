@@ -2936,6 +2936,8 @@ Ioannis Nompelis
 
 [DASH](https://github.com/ccdc-opensource/dash): versatile and interactive package for solving crystal structures from powder diffraction data, by Jason Christopher Cole et al. DASH solves structures by simulated annealing of structural models to indexed diffraction data and features a helpful wizard to guide the user through the entire structure solution process.
 
+[DFermion](https://github.com/huangli712/DFermion): implements a dual fermion framework for general lattice model, together with the [iQIST](https://github.com/huangli712/iqist) package, by Li Huang
+
 [dftatom: Routines for Radial Integration of Dirac, Schrödinger, and Poisson Equations](https://github.com/certik/dftatom): implements accurate and efficient radial Schrödinger and Dirac shooting-method solvers. Detailed description of methods, convergence and implementation is in the following article: Ondřej Čertík, John E. Pask, Jiří Vackář, dftatom: A robust and general Schrödinger and Dirac solver for atomic structure calculations, Computer Physics Communications, Volume 184, Issue 7, July 2013, Pages 1777-1791, ISSN 0010-4655, 10.1016/j.cpc.2013.02.014. Preprint: arXiv:1209.1752.
 
 [DielectricKit](https://github.com/wu2meng3/DielectricKit): high-performance computing toolkit to calculate and visualize polarizability and dielectric response function within the random-phase approximation, by Meng Wu.
