@@ -3149,6 +3149,8 @@ Ioannis Nompelis
 
 [feff10](https://github.com/times-software/feff10): ab initio multiple-scattering code for calculations of excitation spectra and electronic structure, from times-software. It is based on a real space Green's function approach that includes a screened core-hole, inelastic losses and self-energy shifts, and Debye-Waller factors.
 
+[Finite Element Solvers for Atomic Structure Calculations (featom)](https://github.com/atomic-solvers/featom): library implementing accurate and efficient radial Schrödinger and Dirac finite element solvers, by Ondřej Čertík, Rohit Goswam, and Isuru Fernando The formulation admits general potentials and meshes: uniform, exponential, or other.
+
 [Full-potential Linearized Augmented Plane Wave code (FLEUR)](https://github.com/JuDFTteam/FLEUR): FLAPW (full-potential linearized augmented planewave) code, based on density-functional theory, from JuDFTteam. The FLAPW-Method is an all-electron method which within density functional theory is universally applicable to all atoms of the periodic table and to systems with compact as well as open structures.
 
 [fold2Bloch](https://github.com/rubel75/fold2Bloch-Wien2k): unfolding of first-principle electronic band structure obtained with WIEN2k DFT-(L)APW code, by Anton Bokhanchuk et al.
