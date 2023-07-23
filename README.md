@@ -2218,7 +2218,7 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [Finite Element Polycrystal Plasticity (FEPX)](https://github.com/acmelab-ua/FEPX): parallel finite element-based elasto-viscoplastic framework for use in modeling large deformations of polycrystalline aggregates, from acmelab-ua
 
-[gbXstallography](https://github.com/gr20cmu/gbXstallography): programs used to compute and plot distributions of grain boundary properties, by Gregory S. Rohrer et al. More information is [here](http://mimp.materials.cmu.edu/rohrer/gbXstallography/)
+[gbXstallography](https://github.com/gr20cmu/gbXstallography): programs used to compute and plot distributions of grain boundary properties, by Gregory S. Rohrer et al. More information is [here](http://mimp.materials.cmu.edu/rohrer/gbXstallography/).
 
 [GPMaterials](https://github.com/felipefr/gpmaterials): implements a rich set of finite element formulations for finite strain hyperelasticity, damage, multi-scale solid mechanics in both continuum and discrete level (truss-like network of fibres), by Felipe Figueredo Rocha
 
