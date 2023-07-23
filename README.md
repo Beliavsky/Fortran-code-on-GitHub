@@ -661,7 +661,7 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [UniMoVib](https://github.com/zorkzou/UniMoVib): unified interface for molecular harmonic vibrational frequency calculations, by zorkzou and smutao
 
-[YA_EoS](https://github.com/fedebenelli/yaeos): thermodynamic equations of state library with both automatic and anallytical derivation capabilities, by Federico E. Benelli
+[YA_EoS](https://github.com/fedebenelli/yaeos): thermodynamic equations of state library with both automatic and analytical derivation capabilities, by Federico E. Benelli
 
 ## Containers and Generic Programming
 [any](https://github.com/degawa/any): user-defined type for mimicking procedures that can return different types, by Tomohiro Degawa
