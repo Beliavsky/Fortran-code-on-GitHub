@@ -2218,6 +2218,8 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [Finite Element Polycrystal Plasticity (FEPX)](https://github.com/acmelab-ua/FEPX): parallel finite element-based elasto-viscoplastic framework for use in modeling large deformations of polycrystalline aggregates, from acmelab-ua
 
+[gbXstallography](https://github.com/gr20cmu/gbXstallography): programs used to compute and plot distributions of grain boundary properties, by Gregory S. Rohrer et al. More information is [here](http://mimp.materials.cmu.edu/rohrer/gbXstallography/)
+
 [GPMaterials](https://github.com/felipefr/gpmaterials): implements a rich set of finite element formulations for finite strain hyperelasticity, damage, multi-scale solid mechanics in both continuum and discrete level (truss-like network of fibres), by Felipe Figueredo Rocha
 
 [GraSPH](https://github.com/edoyango/GraSPH): Smoothed-particle Hydrodynamics (SPH) program originally intended for simulations of bulk granular material as well as fluids, by Edward Yang. Src_CAF contains code intended to run multi-core configuration enabled with the Coarray Fortran 2008 features, and src_GPU contains code intended to run on a CUDA-enabled GPU.
