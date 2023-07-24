@@ -2098,6 +2098,9 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [FlexiBLAS](https://github.com/mpimd-csc/flexiblas): wrapper library that enables the exchange of the BLAS (Basic Linear Algebra System) and LAPACK (Linear Algebra PACKage) implementation used in an executable without recompiling or re-linking it, by Martin Köhler and Jens Saak
 
+[ForBLAS](https://github.com/gha3mi/forblas): compile the BLAS and their drivers using the Fortran Package Manager, by Seyed Ali Ghasemi. [ForLAPACK](ForLAPACK) does so for LAPACK. [ForSVD](https://github.com/gha3mi/forsvd) provides functions and subroutines for calculating the singular value decomposition (SVD) of a matrix, calling LAPACK. [ForEig](https://github.com/gha3mi/foreig) calculates eigenvalues and eigenvectors using LAPACK or MKL. [ForPCA](https://github.com/gha3mi/forpca): does principal component analysis (PCA).
+[pinverse](https://github.com/gha3mi/pinverse) calculating the pseudoinverse of a matrix using singular value decomposition.
+
 [fortran_csr](https://github.com/cometscome/fortran_csr): library to construct and multiply a matrix in compressed sparse row (CSR) format, by Yuki Nagai
 
 [Fortran_Davidson](https://github.com/NLESC-JCER/Fortran_Davidson): Modern Fortran implementation of the Davidson diagonalization algorithms, from NLESC-JCER
