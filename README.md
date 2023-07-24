@@ -3542,6 +3542,8 @@ Milan Curcic and Sebastian Ehlert
 
 [Timeslab](https://github.com/Beliavsky/Timeslab): Fortran 77 time series package by H. Joseph Newton to accompany his book "Timeslab: A Time Series Analysis Laboratory" (1988)
 
+[Time-Weighted Dynamic Time Warping (twdtw)](https://github.com/vwmaus/twdtw): R package with Fortran code for quantifying time series similarity, applicable to multi-dimensional time series of various resolutions. Associated paper: Maus, V., Camara, G., Appel, M., & Pebesma, E. (2019). [dtwSat: Time-Weighted Dynamic Time Warping for Satellite Image Time Series Analysis in R](https://www.jstatsoft.org/article/view/v088i05). Journal of Statistical Software, 88(5), 1-31.
+
 [Tisean](https://github.com/gazeek/Tisean): analysis of time series with methods based on the theory of nonlinear deterministic dynamical systems, or chaos theory, by Rainer Hegger et al.
 
 [TOMS Algorithm 675](https://github.com/ivan-pi/TOMS-Algorithm-675): subroutines for computing the square root covariance filter and square root information filter in dense or Hessenberg forms, by ivan-pi
