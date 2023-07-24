@@ -2043,6 +2043,9 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [interpolation](https://github.com/furstj/interpolation): Matlab/Octave-like interpolation functions such as linear and PCHIP (Piecewise Cubic Hermite Interpolating Polynomial), by Jiří Fürst
 
+[kernelyze-base](https://github.com/kernelyze/kernelyze-base): computes low-rank approximations of two-variable functions ("kernels").
+For many practically useful two-variable functions ("sign-regular kernels"), KernelyzeBase can compute new approximations which numerically achieve the smallest possible worst-case error among all rank-n approximations.
+
 [lagrange_interpolator](https://github.com/jlokimlin/lagrange_interpolator): OOP library for 1 and 2-dimensional Lagrange interpolation, by Jon Lo Kim Lin
 
 [Mean-preserving interpolation (mp-interp)](https://github.com/pjbartlein/mp-interp): implements four approaches for mean-preserving interpolation as might be applied, for example, to the interpolation of pseudo-daily values from monthly means, that when averaged, reproduce those monthly means, by Pat Bartlein
