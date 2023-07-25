@@ -3371,6 +3371,8 @@ Ioannis Nompelis
 
 [cdaSQR](https://github.com/KarimOualkacha/cdaSQR): generalized coordinate descent (GCD) algorithm for computing the solution path of the penalized quantile regression, by KarimOualkacha
 
+[CohensdpLibrary](https://github.com/dcousin3/CohensdpLibrary): R package with Fortran code to compute the Cohen d_p and its confidence intervals in any experimental design, by Denis Cousineau
+
 [curvefit](https://github.com/jchristopherson/curvefit): library for fitting functions to sets of data, by jchristopherson
 
 [ecgmm_fortran](https://github.com/minzastro/ecgmm_fortran): Error-Corrected Gaussian Mixture Model algorithm, by Alexey Mints. Based on the paper Hao, J., Koester, B. P., Mckay, T. a., Rykoff, E. S., Rozo, E., Evrard, A., Annis, J., et al. (2009). [Precision Measurements of the Cluster Red Sequence Using an Error-Corrected Gaussian Mixture Model](https://iopscience.iop.org/article/10.1088/0004-637X/702/1/745). The Astrophysical Journal, 702(1), 745–758.
