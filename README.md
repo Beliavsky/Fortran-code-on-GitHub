@@ -3419,6 +3419,8 @@ Ioannis Nompelis
 
 [Missing Value Imputation](https://github.com/SnTa2019/Missing-Value-Imputation): code for [Imputation via Clusterwise Linear Regression](http://napsu.karmitsa.fi/iviaclr/) by Napsu Karmitsa
 
+[Monitor](https://github.com/Hirlam/Monitor): the verification package in HARMONIE is designed to be a self-contained stand alone package dealing with pre-extracted model and observational data. The package calculates several standard verification scores.
+
 [MultiNest](https://github.com/rjw57/MultiNest): Bayesian inference tool which calculates the evidence and explores the parameter space which may contain multiple posterior modes and pronounced (curving) degeneracies in moderately high dimensions, by Farhan Feroz and Mike Hobson 
 
 [Multi-Reader Multi-Case Analysis of Variance: MRMCaov](https://github.com/brian-j-smith/MRMCaov):  R package with underlying Fortran code for statistical comparison of diagnostic tests - such as those based on medical imaging - for which ratings have been obtained from multiple readers and on multiple cases, by Brian J. Smith
