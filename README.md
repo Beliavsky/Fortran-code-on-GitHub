@@ -580,6 +580,8 @@ simulating and forecasting meteorological phenomena.
 
 [CoarseAIR](https://github.com/simoneventuri/CoarseAIR): Fortran 2008 Code for State-to-State and Coarse-Grained Quasi-Classical Trajectory (QCT) Method. Reference: S Venturi - "Machine Learning and Uncertainty Quantification Framework for Predictive Ab Initio Hypersonics" - Ph.D. Thesis, University of Illinois at Urbana-Champaign (2021)
 
+[cofimaker](https://github.com/skoerbel/cofimaker): command-line tool for manipulating atomic coordinate files, by skoerbel
+
 [crest](https://github.com/grimme-lab/crest): Conformer-Rotamer Ensemble Sampling Tool based on the xtb Semiempirical Extended Tight-Binding Program Package, from grimme-lab
 
 [critic2](https://github.com/aoterodelaroza/critic2): manipulation and analysis of structural and chemical information in molecules and periodic solids, by aoterodelaroza et al.
