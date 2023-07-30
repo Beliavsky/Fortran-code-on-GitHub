@@ -720,6 +720,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [LinkedList](https://github.com/degawa/LinkedList): doubly linked list for Fortran 2003, by Tomohiro Degawa. The list is based on object-oriented programming, so the list can treat all types Fortran supports, including integer, real, character and derived types by using the unlimited polymorphism feature.
 
+[list](https://github.com/grofz/list): easy-to-use implementation of Python-like lists, with methods append(), clear(), copy(), count(), extend(), insert(), pop(), remove(), reverse(), sort(), by Zdenek Grof
+
 [M_anything](https://github.com/urbanjost/M_anything): use polymorphism to allow promoting, casting and molding intrinsic types, by urbanjost
 
 [maps](https://github.com/degawa/maps): wrapper by Tomohiro Degawa for [stdlib_hashmaps](https://stdlib.fortran-lang.org/page/specs/stdlib_hashmaps.html) that simplifies adding a key-value mapping and getting the value mapped to a key
