@@ -2110,6 +2110,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 [ForBLAS](https://github.com/gha3mi/forblas): compile the BLAS and their drivers using the Fortran Package Manager, by Seyed Ali Ghasemi. [ForLAPACK](ForLAPACK) does so for LAPACK. [ForSVD](https://github.com/gha3mi/forsvd) provides functions and subroutines for calculating the singular value decomposition (SVD) of a matrix, calling LAPACK. [ForEig](https://github.com/gha3mi/foreig) calculates eigenvalues and eigenvectors using LAPACK or MKL. [ForPCA](https://github.com/gha3mi/forpca) does principal component analysis (PCA).
 [Pinverse](https://github.com/gha3mi/pinverse) calculates the pseudoinverse of a matrix using singular value decomposition.
 
+[formatmul](https://github.com/gha3mi/formatmul): library that overloads the matmul function to enable efficient matrix multiplication with coarrays, by Seyed Ali Ghasemi
+
 [fortran_csr](https://github.com/cometscome/fortran_csr): library to construct and multiply a matrix in compressed sparse row (CSR) format, by Yuki Nagai
 
 [Fortran_Davidson](https://github.com/NLESC-JCER/Fortran_Davidson): Modern Fortran implementation of the Davidson diagonalization algorithms, from NLESC-JCER
