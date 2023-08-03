@@ -2911,6 +2911,8 @@ Ioannis Nompelis
 
 [I2MEX: ideal 2-d Magnetohydrodynamic Equilibrium on Xplasma](https://github.com/PrincetonUniversity/i2mex): by providing a standard equilibrium representation, allows stability codes to obtain metric information from a variety of equilibrium sources. These include GEQDSK (EFIT format), INP1/inp1.cdf (CHEASE), eqdsk.cdf (JSOLVER) as well as TRANSP run data stored on local file system or in the MDSPlus tree.
 
+[KiNetic Orbit-averaging SOlver for Stellarators (KNOSOS)](https://github.com/joseluisvelasco/KNOSOS): calculates neoclassical transport in low-collisionality plasmas of three-dimensional magnetic confinement devices by solving the radially local drift-kinetic and quasineutrality equations, by José Luis Velasco. It relies on orbit-averaging to solve the drift-kinetic equation very fast. 
+
 [KORC](https://github.com/ORNL-Fusion/KORC): Kinetic Orbit Runaway Code, from ORNL-Fusion
 
 [New Hampshire Dispersion relation Solver (NHDS)](https://github.com/danielver02/NHDS): solves the linear hot-plasma dispersion relation based on the Vlasov-Maxwell set of equations, by Daniel Verscharen
