@@ -518,6 +518,8 @@ simulating and forecasting meteorological phenomena.
 
 [exceptions](https://github.com/arjenmarkus/exceptions): experiment with exceptions in Fortran via a simple preprocessing step, by Arjen Markus
 
+[f2f90](https://github.com/btrettel/f2f90): utility to convert FORTRAN 77 fixed source form to Fortran 90 free source form, by Michael Metcalf, Peter A. Rochford, and Ben Trettel
+
 [fazang](https://github.com/yizhang-yiz/fazang): library for reverse-mode automatic differentiation, inspired by Stan/Math library, by Yi Zhang
 
 [ffixed2free](https://github.com/MeteoSwiss/ffixed2free): converts FORTRAN fixed-format source code (FORTRAN 77 style) to free-format source code (Fortran 90 style), by Pirmin Kaufmann and Martin Schraner. Ffixed2free does not require the fixed-format code to be restricted to the FORTRAN 77 standard.
