@@ -85,8 +85,7 @@
 
 [Automatic Line Fitting Algorithm (ALFA)](https://github.com/rwesson/ALFA): identifies and fits hundreds of lines in emission line spectra in just a few seconds. It does this using a genetic algorithm to optimise the line parameters, by Roger Wesson
 
-[BI-spectra and Non-Gaussianity Operator (BINGO)](https://github.com/dkhaz/bingo): numerically evaluates the scalar bi-spectrum and the non-Gaussianity parameter fNL in single field inflationary models involving the canonical scalar field, by dkhaz. The code is based on the Maldacena formalism to evaluate the bi-spectrum.  
-[pycalc11](https://github.com/aelanman/pycalc11): Python interface by Adam Lanman for running the CALC delay modeling tool, written in Fortran, by providing parameters as astropy objects. CALC aims to compute VLBI baseline delays to picosecond precision by incorporating general relativistic deflection from the Sun, Earth, and other planets, solid Earth and ocean tide loading, and atmospheric contributions 
+[BI-spectra and Non-Gaussianity Operator (BINGO)](https://github.com/dkhaz/bingo): numerically evaluates the scalar bi-spectrum and the non-Gaussianity parameter fNL in single field inflationary models involving the canonical scalar field, by dkhaz. The code is based on the Maldacena formalism to evaluate the bi-spectrum. 
 
 [CAMB](https://github.com/cmbant/CAMB): code for Anisotropies in the Microwave Background, by cmbant
 
@@ -213,6 +212,8 @@
 [Planetary Code Collection](https://github.com/nschorgh/Planetary-Code-Collection): Thermal and Ice Evolution Models for Planetary Surfaces, by Norbert Schorghofer
 
 [POT3D: High Performance Potential Field Solver](https://github.com/predsci/POT3D): computes potential field solutions to approximate the solar coronal magnetic field using observed photospheric magnetic fields as a boundary condition. A version of POT3D that includes GPU-acceleration with both MPI+OpenACC and MPI+OpenMP was released as part of the Standard Performance Evaluation Corporation's (SPEC) beta version of the SPEChpc(TM) 2021 benchmark suites.
+
+[pycalc11](https://github.com/aelanman/pycalc11): Python interface by Adam Lanman for running the CALC delay modeling tool, written in Fortran, by providing parameters as astropy objects. CALC aims to compute VLBI baseline delays to picosecond precision by incorporating general relativistic deflection from the Sun, Earth, and other planets, solid Earth and ocean tide loading, and atmospheric contributions
 
 [pymoog](https://github.com/MingjieJian/pymoog): Python 3 wrapper for running the LTE spectrum synthesis part of the Fortran code [MOOG](https://www.as.utexas.edu/~chris/moog.html) by Chris Sneden
 
