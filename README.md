@@ -2256,6 +2256,9 @@ atomic systems, and convert from and to various file formats, by pierrehirel et 
 
 [Polymer Self-Consistent Field Theory (PSCF)](https://github.com/dmorse/pscf): numerically solves the polymer self-consistent field theory (SCFT) for spatially periodic structures formed by block copolymer melts and mixtures of block copolymers with linear homopolymers and/or small molecule solvents, by David Morse et al.
 
+[RuSseL3D](https://github.com/cjrevelas/RuSseL3D): applies the Finite Element Method to run three-dimensional calculations on heterogeneous polymer systems, based on Self-Consistent Field Theory (SCFT), by Constantinos J. Revelas et al. It can address homopolymer melts in contact with solid surfaces and provide with
+useful results regarding the thermodynamics and the structural properties of the system. 
+
 [SISSO](https://github.com/rouyang2017/SISSO): data-driven method combining symbolic regression and compressed sensing toward accurate & interpretable models, by rouyang2017
 
 [sulfur-magma](https://github.com/charlesll/sulfur-magma): predicts of sulfur redox state in magmatic liquids, by Roberto Moretti and Charles Le Losq. Associated paper: Moretti, R., & Ottonello, G. (2003). A polymeric approach to the sulfide capacity of silicate slags and melts. Metallurgical and Materials Transactions B, 34(4), 399–410. doi.org/10.1007/s11663-003-0066-1
