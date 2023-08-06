@@ -2484,6 +2484,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [NumDiff](https://github.com/jacobwilliams/NumDiff): modern Fortran numerical differentiation library, by Jacob Williams
 
+[Numerical-Methods](https://github.com/Manan-Rawat/Numerical-Methods): codes for course in numerical methods, including linear equations, finding roots, eigenvalue problems, interpolation and approximation, numerical integration and differentiation, random numbers, and Monte Carlo, by Manan Rawat and H. M. Antia. Codes from Antia's book are [here](https://www.tifr.res.in/~antia/nmse3.html).
+
 [Numeric Library for Modern Fortran](https://github.com/degawa/fortran-numeric): scope: Integer (handling integer constants, digits, convert to string with format);  Real (handling real constants, convert to string with format); Non-number (handling quiet nan and positive/negative inf as constants, check whether an array of floating-point numbers has at least one quiet nan, positive/negative inf value), by Tomohiro Degawa
 
 [NumFort](https://github.com/AnthonyKalaitzis/NumFort): numerical library for FORTRAN that includes quadpack, lapack, PLplot and Matplotlib source code, by Anthony Kalaitzis and Curtis Abell. It enables the use of handy mathematical macros such as linspace.
