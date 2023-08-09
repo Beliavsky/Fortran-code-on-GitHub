@@ -3030,6 +3030,8 @@ Ioannis Nompelis
 
 [LibForQ](https://github.com/jonasmaziero/LibForQ): performs several numerical tasks one frequently needs when working in quantum information science, such as trace, partial trace, and partial transpose; entanglement, discord, and coherence quantifiers; Pauli group (PG), Generalized Gell Mann Matrices (GGMM), and Bloch vector and correlation matrix with GGMM, by Jonas Maziero
 
+[libmbd](https://github.com/libmbd/libmbd): implements the many-body dispersion (MBD) method in several programming languages and frameworks. The Fortran implementation is the reference, most advanced implementation, with support for analytical gradients and distributed parallelism, and additional functionality beyond the MBD method itself. 
+
 [libnegf](https://github.com/libnegf/libnegf): calculates Equilibrium and Non Equilibrium Green's Function in open systems and related quantities, within an efficient sparse iterative scheme. Associated paper: [Non-equilibrium Green's functions in density functional tight binding: method and applications](https://iopscience.iop.org/article/10.1088/1367-2630/10/6/065022/meta), by A Pecchia, G Penazzi, L Salvucci and A Di Carlo, 2008 New J. Phys. 10 065022
 
 [Los Alamos Crystal Cut (LCC)](https://github.com/lanl/LCC): simple crystal builder, an easy-to-use and easy-to-develop code to make crystal solid/shape and slabs from a crystal lattice, by Christian Negre
