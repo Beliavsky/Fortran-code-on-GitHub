@@ -3498,8 +3498,7 @@ Ioannis Nompelis
 [XA_GRM](https://github.com/mommy003/XA_GRM): estimates the genomic relationship matrix (GRM) in combined population using ancestry-specific allele frequency and ancestry-specific genetic architecture. Associated paper: Momin, M. M., Shin, J., Lee, S., Truong, B., Benyamin, B., & Lee, S. H. (2021). [A novel method for an unbiased estimate of cross-ancestry genetic correlation using individual-level data](https://www.nature.com/articles/s41467-023-36281-x). Nature communications, 2023. 14(722).
 
 ## Strings
-[fortran202x_split](https://github.com/milancurcic/fortran202x_split): Fortran implementation of the Fortran 202X split intrinsic subroutine, by 
-Milan Curcic and Sebastian Ehlert
+[fortran202x_split](https://github.com/milancurcic/fortran202x_split): Fortran implementation of the Fortran 202X split intrinsic subroutine, by Milan Curcic and Sebastian Ehlert
 
 [fortran_pcre](https://github.com/ZedThree/fortran_pcre): Fortran wrapper around the C PCRE regular expression library
 
@@ -3510,6 +3509,8 @@ Milan Curcic and Sebastian Ehlert
 [fortran-strings](https://github.com/eengl/fortran-strings): library and module which contains functions for common string manipulations, by eengl
 
 [Fortran-String-to-Real](https://github.com/Carltoffel/Fortran-String-to-Real): converts strings to reals without using an internal read, by Carltoffel. [Fortran-String-to-Num](https://github.com/jalvesz/Fortran-String-to-Num) is a fork by jalvesz that aims for further improvements on the ASCII to numerical data conversion.
+
+[fortran_wrapper_for_regex_functions](https://github.com/borderite/fortran_wrapper_for_regex_functions): call POSIX regex functions, such as regcomp, regexec, regerror, and regfree, in the C libraries, by borderite
 
 [Fregex](https://github.com/14NGiestas/fregex): Perl Compatible Regular Expressions (PCRE) wrapper for Fortran by Ian Giestas Pauli
 
