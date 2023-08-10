@@ -2310,7 +2310,9 @@ useful results regarding the thermodynamics and the structural properties of the
 ## Molecular Dynamics
 [ABIN](https://github.com/PHOTOX/ABIN): performs ab initio molecular dynamics, by Daniel Hollas et al. It was designed specifically to deal with quantum nuclear effects.
 
-[AUTOSURF-v1.3](https://github.com/autosurf/AUTOSURF-v1.3): suite of codes for the automated construction of potential energy surfaces (PES) for van der Waals systems. The fitting algorithms implemented in the code are based on the L-IMLS methodology, and have many advanced features such as options for data-point placement, flexibility to include gradients in the fit, iterative refinement, and symmetry recognition. 
+[AUTOSURF-v1.3](https://github.com/autosurf/AUTOSURF-v1.3): suite of codes for the automated construction of potential energy surfaces (PES) for van der Waals systems. The fitting algorithms implemented in the code are based on the L-IMLS methodology, and have many advanced features such as options for data-point placement, flexibility to include gradients in the fit, iterative refinement, and symmetry recognition.
+
+[Caracal](https://github.com/Trebonius91/Caracal): enables a wide variety of molecular dynamics applications. Associated paper: [Caracal: A Versatile Ring Polymer Molecular Dynamics Simulation Package](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00568), by Julien Steffen, J. Chem. Theory Comput. 2023
 
 [DeePMD-kit-Fortran-Cpp-interface](https://github.com/robinzyb/DeePMD-kit-Fortran-Cpp-interface): Fortran interface by Yongbin Zhuang and Futaki Haduki to [DeePMD-kit](https://github.com/deepmodeling/deepmd-kit), a package written in Python and C++, designed to minimize the effort required to build deep learning-based model of interatomic potential energy and force field and to perform molecular dynamics (MD).
 
