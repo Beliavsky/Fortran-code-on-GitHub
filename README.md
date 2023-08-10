@@ -1959,6 +1959,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [call_py_fort](https://github.com/nbren12/call_py_fort): call Python from Fortran, by Noah D. Brenowitz. Operates by pushing Fortran arrays into a global python dictionary, calling Python functions with this dictionary as input, and then reading NumPy arrays from this dictionary back into Fortran.
 
+[call-rust-from-fortran](https://github.com/LucaCiucci/call-rust-from-fortran): shows how to call Rust from Fortran, by Luca Ciucci
+
 [cuda_demo](https://github.com/Panadestein/cuda_demo): minimal working example (MWE) demonstrating how to use CUDA with Fortran using the ISO_C_BINDING module, using gfortran and g++, by Ramón L. Panadés-Barrueta 
 
 [dopey](https://github.com/lanl/dopey): library for passing Fortran dope vectors to C++, from Los Alamos National Laboratory
