@@ -1701,6 +1701,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [fortranchessprogram](https://github.com/arbolis/fortranchessprogram): chess program where the user enters moves in notation such as e2-e4 and the board is displayed as text
 
+[fortran-raylib](https://github.com/interkosmos/fortran-raylib): interface bindings to raylib 4.5, for 2-D and 3-D game programming, by interkosmos
+
 [life](https://github.com/JeffIrwin/life): Conway's game of life, by Jeff Irwin
 
 [mastermind](https://github.com/fortran-gaming/mastermind): classic MasterMind game in modern Fortran 2008, from fortran-gaming
