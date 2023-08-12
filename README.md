@@ -902,6 +902,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [shyfem](https://github.com/SHYFEM-model/shyfem): System of HydrodYnamic Finite Element Modules
 
+[SIMS_MHT](https://github.com/rafaelgabler/SIMS_MHT): numerical simulation of multibody suspensions of magnetic particles using Langevin and Stokesian Dynamics,  optimized for magnetic hyperthermia simulations. Associated paper: [The influence of hydrodynamic effects on the complex susceptibility response of magnetic fluids undergoing oscillatory fields: New insights for magnetic hyperthermia], by Guimaraes, A. B. ; Cunha, F. R., and Gontijo, R. G., Physics of Fluids, v. 32, p. 012008-012008-17, 2020.
+
 [Smoothed Particle Hydrodynamics（SPH)](https://github.com/zoziha/SPH): uses code from the book [Smooth Particle hydrodynamics - A Meshfree Particle Method](https://www.worldscientific.com/worldscibooks/10.1142/5340) as a starting point, by zoziha
 
 [SNaC](https://github.com/p-costa/SNaC): multi-block solver for massively parallel direct numerical simulations (DNS) of fluid flows, by p-costa and 
