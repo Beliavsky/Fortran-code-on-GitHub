@@ -3338,7 +3338,7 @@ Ioannis Nompelis
 
 [randomField](https://github.com/cottereau/randomField): generation of random fields with prescribed first-order marginal distribution and correlation structure over structured grids or non-structured point arrays, by cottereau
 
-[ranlux](https://github.com/kulhanek/ranlux): random number generator described in the paper ]RANLUX: A Fortran implementation of the high-quality pseudorandom number generator of Lüscher](https://www.sciencedirect.com/science/article/abs/pii/001046559490233X), by F. James, Computer Physics Communications, Volume 79, Issue 1 (1994). A Fortran 90 version by Alan Miller is [here](https://jblevins.org/mirror/amiller/luxury.f90).
+[ranlux](https://github.com/kulhanek/ranlux): random number generator described in the paper [RANLUX: A Fortran implementation of the high-quality pseudorandom number generator of Lüscher](https://www.sciencedirect.com/science/article/abs/pii/001046559490233X), by F. James, Computer Physics Communications, Volume 79, Issue 1 (1994). A Fortran 90 version by Alan Miller is [here](https://jblevins.org/mirror/amiller/luxury.f90).
 
 [rngff](https://github.com/Archaeologic-Inc/rngff): unified abstract interface for an object-oriented random number generator and a collection of implementations using various algorithms, by Brad Richardson
 
