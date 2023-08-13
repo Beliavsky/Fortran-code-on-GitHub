@@ -337,6 +337,8 @@ Modeling of Gz-Induced Effects](https://pubmed.ncbi.nlm.nih.gov/37069756/), by K
 
 [COVID-testbias](https://github.com/dkhaz/COVID-testbias): Understanding the Bias between the Number of Confirmed Cases and Actual Number of Infections in the COVID-19 Pandemic, by dkhaz and xingangchen
 
+[dynSIS](https://github.com/wcota/dynSIS): code for paper ]Optimized Gillespie algorithms for the simulation of Markovian epidemic processes on large and heterogeneous networks](https://www.sciencedirect.com/science/article/abs/pii/S0010465517301893), by Wesley Cota and Silvio C. Ferreira, Computer Physics Communications v. 219 (2017) pp 303-312
+
 [ECOSYS](https://github.com/jinyun1tang/ECOSYS): code for terrestrial ecosystem biogeochemistry, by Robert Grant. A related project is [EcoSim](https://github.com/jinyun1tang/EcoSIM).
 
 [EpiDetector](https://github.com/pecanka/epidetector): identifies epistasis (i.e., gene-to-gene interactions) in a genome-wide analysis setting, by Jakub Pecanka. EpiDetector implements several flavors of a two-stage testing approach. The underlying methodology is described in this [paper](https://academic.oup.com/biostatistics/article/18/3/477/2970370?) and [book chapter](https://link.springer.com/protocol/10.1007/978-1-0716-0947-7_6).
