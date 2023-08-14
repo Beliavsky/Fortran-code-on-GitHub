@@ -1912,6 +1912,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fortran-motif](https://github.com/interkosmos/fortran-motif): collection of ISO C binding interfaces to X/Motif, to create graphical user interfaces for Unix in Fortran 2008, by interkosmos. The library includes selected bindings to Xlib, Xt, Xm, and the XmHTML widget to render HTML 3.2 inside a Motif widget (optional).
 
+[fortran_stb_image](https://github.com/lewisfish/fortran_stb_image): bindings by Lewis McMillan for [stb_image](https://github.com/nothings/stb) and stb_image_write, for reading, loading, and processing images
+
 [Fortran Terminal (fortty)](https://github.com/awvwgk/fortty): create colorful terminal applications in Fortran, by Sebastian Ehlert
 
 [fortran-xlib](https://github.com/interkosmos/fortran-xlib): collection of ISO C binding interfaces to Xlib for Fortran 2003, by interkosmos. Currently, only a subset of Xlib is implemented. In order to work with XPM files, interfaces to libxpm are included.
