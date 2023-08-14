@@ -1160,7 +1160,7 @@ engine, by montagdude and Geoff Sokoll
 
 [LISF](https://github.com/NASA-LIS/LISF): The Land Information System (LIS) from NASA-LIS is a software framework for high performance terrestrial hydrology modeling and data assimilation developed with the goal of integrating satellite and ground-based observational data products and advanced modeling techniques to produce optimal fields of land surface states and fluxes.
 
-[LTRANS_microplastics](https://github.com/lsuocean/LTRANS_microplastics): code associated with paper J.-H. Liang et al., (2021). [Including the Effects of Subsurface Currents on Buoyant Particles in Lagrangian Particle Tracking Models: Model Development and its Application to the Study of Riverborne Plastics over the Louisiana/Texas Shelf](https://www.sciencedirect.com/science/article/abs/pii/S1463500321001323). Ocean Modelling.
+[LTRANS_microplastics](https://github.com/lsuocean/LTRANS_microplastics): code associated with paper J.-H. Liang et al., [Including the Effects of Subsurface Currents on Buoyant Particles in Lagrangian Particle Tracking Models: Model Development and its Application to the Study of Riverborne Plastics over the Louisiana/Texas Shelf](https://www.sciencedirect.com/science/article/abs/pii/S1463500321001323). Ocean Modelling (2021).
 
 [MAIZSIM](https://github.com/USDA-ARS-ACSL/MAIZSIM): mechanistic model of maize growth, development and yield, written in C++ (crop) and Fortran (soil). The model is interfaced with [2DSOIL](https://data.nal.usda.gov/dataset/2dsoil-version-03), a two dimensional simulator of soil water and heat movement, and solute transport. 
 
