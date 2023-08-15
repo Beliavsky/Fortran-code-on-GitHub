@@ -1122,7 +1122,7 @@ engine, by montagdude and Geoff Sokoll
 
 [Harmonized Emissions Component (HEMCO)](https://github.com/geoschem/HEMCO): computing (atmospheric) emissions from different sources, regions, and species on a user-defined grid, from geoschem. It can combine, overlay, and update a set of data inventories ('base emissions') and scale factors, as specified by the user through the HEMCO configuration file.
 
-[hashwrap](https://github.com/mikehagerty/hashwrap): Python wrapper by Mike Hagerty of HASHv1.2 Fortran library. An associated paper is Hardebeck, Jeanne L. and Peter M. Shearer, [Using S/P Amplitude Ratios to Constrain the Focal Mechanisms of Small Earthquakes](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/93/6/2434/120968/Using-S-P-Amplitude-Ratios-to-Constrain-the-Focal), Bulletin of the Seismological Society of America, 93, 2434-2444, (2003).
+[hashwrap](https://github.com/mikehagerty/hashwrap): Python wrapper by Mike Hagerty of [HASHv1.2 Fortran library](https://www.usgs.gov/node/279393). An associated paper is Hardebeck, Jeanne L. and Peter M. Shearer, [Using S/P Amplitude Ratios to Constrain the Focal Mechanisms of Small Earthquakes](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/93/6/2434/120968/Using-S-P-Amplitude-Ratios-to-Constrain-the-Focal), Bulletin of the Seismological Society of America, 93, 2434-2444, (2003).
 
 [HAZ](https://github.com/abrahamson/HAZ): Probabilistic Seismic Hazard Analysis, by Norm Abrahamson
 
