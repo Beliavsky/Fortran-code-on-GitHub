@@ -249,7 +249,7 @@
 
 [SWMF](https://github.com/MSTEM-QUDA/SWMF): Space Weather Modeling Framework is a software framework that provides a common operating environment for the various modeling components included. Each of the components models particular aspects of space weather (sun, heliosphere, magnetosphere, etc) and the various commands allow you to control how those models run and interact with each other.
 
-[Toolkit for High-ORder Neutrino Radiation Hydrodynamics (thornado)](https://github.com/endeve/thornado): numerical solution methods with applications to relativistic astrophysical systems such as core-collapse supernovae and binary neutron star mergers, by Eirik Endeve et al.
+[Toolkit for High-ORder Neutrino Radiation Hydrodynamics (thornado)](https://github.com/endeve/thornado): neutrino radiation-hydrodynamics code aiming to simulate core-collapse supernovae using discontinuous Galerkin methods, by Eirik Endeve et al.
 
 [UCLCHEM](https://github.com/uclchem/UCLCHEM): gas-grain chemical code for Astrochemistry
 
