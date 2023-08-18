@@ -1146,6 +1146,8 @@ engine, by montagdude and Geoff Sokoll
 
 [insol](https://github.com/alex-robinson/insol): calculates paleo and future daily insolation at the top of the atmosphere, by Alexander Robinson
 
+[International Geomagnetic Reference Field (igrf)](https://github.com/space-physics/igrf): standard mathematical description of the Earth's main magnetic field, used widely in studies of the Earth's deep interior, crust, ionosphere, and magnetosphere, callable from Python and Matlab 
+
 [ioapi-3.2](https://github.com/cjcoats/ioapi-3.2): provides Fortran and C APIs for environmental model data access together with related utility routines and tools for analysis and manipulation of data stored by way of that API, by cjcoats
 
 [Isca](https://github.com/ExeClim/Isca): framework for the idealized modelling of the global circulation of planetary atmospheres at varying levels of complexity and realism, from the University of Exeter. The framework is an outgrowth of models from GFDL designed for Earth's atmosphere, but it may readily be extended into other planetary regimes.
