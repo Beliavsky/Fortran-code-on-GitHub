@@ -2021,7 +2021,7 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [Fortran Language Compatibility Layer (FLCL)](https://github.com/kokkos/kokkos-fortran-interop): API for Fortran to C and C to Fortran multi-dimensional array interoperability, part of the Kokkos C++ Performance Portability Programming EcoSystem
 
-[fortran-lua53](https://github.com/interkosmos/fortran-lua53): Fortran 2008 interface bindings to Lua 5.3, from interkosmos
+[fortran-lua54](https://github.com/interkosmos/fortran-lua54): Fortran 2008 interface bindings to Lua 5.4, from interkosmos. There is also [fortran-lua53](https://github.com/interkosmos/fortran-lua53).
 
 [Fortran-RInside](https://github.com/ivan-pi/Fortran-RInside): demonstration of Fortran interface to Rinside, for calling R from Fortran, by ivan-pi
 
