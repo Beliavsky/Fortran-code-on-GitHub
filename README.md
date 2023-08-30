@@ -2658,6 +2658,8 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [FortranFilterSLP](https://github.com/ERGO-Code/FortranFilterSLP): for a particular class of non-convex nonlinear programming problems, this implementation of FilterSLP by jajhall uses sequential linear programming to find a (local) optimal solution.
 
+[gadfit](https://github.com/raullaasner/gadfit): global nonlinear curve fitting, based on a modified Levenberg-Marquardt algorithm, by Raul Laasner. Global fitting refers to fitting many datasets simultaneously with some parameters shared among the datasets. The fitting procedure is very fast and accurate thanks to the use of automatic differentiation.
+
 [GALAHAD](https://github.com/ralna/GALAHAD): library of modern Fortran modules for nonlinear optimization
 
 [Generalized PROgram for OPTimization (GPROPT)](https://github.com/iarlopes/GPROPT): generic tool to minimize a user-defined objective function, by Igor A. R. Lopes. Several classical methods are implemented along with a genetic algorithm.
