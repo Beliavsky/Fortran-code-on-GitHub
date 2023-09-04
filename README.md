@@ -624,6 +624,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [International Association for the Properties of Water and Steam (iapws)](https://github.com/MilanSkocic/iapws): library providing the formulas for computing light and heavy water properties, by Milan Skocic, with interfaces to C and (in [pyiapws](https://github.com/MilanSkocic/pyiapws)) Python
 
+[kanon](https://github.com/aslozada/kanon): program to compute chirality indices and assess molecular symmetry, by Asdrubal Lozada-Blanco
+
 [Kinetic Monte Carlo of Systems (kmcos)](https://github.com/kmcos/kmcos): lattice based kinetic Monte Carlo with a Python front-end and Fortran back-end, by Max Hoffmann et al.
 
 [Kinetic PreProcessor (KPP)](https://github.com/KineticPreProcessor/KPP): tool that assists the computer simulation of chemical kinetic systems, by Adrian Sandu et al. Also [KPP-AR-boxmodel](https://github.com/KineticPreProcessor/KPP-AR-boxmodel), a box-model for a KPP-generated chemistry mechanism using the auto-reduce feature to speed up computation
