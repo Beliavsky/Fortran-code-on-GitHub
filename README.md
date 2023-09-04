@@ -2789,6 +2789,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [CUDA Fortran: Fortran programming on GPU](https://github.com/Koushikphy/Intro-to-CUDA-Fortran): a complete introduction for beginners by Koushik Naskar
 
+[cuf23-tutorial](https://github.com/rouson/cuf23-tutorial): coarray Fortran tutorial with three standalone parallel programs: an unsteady 2D heat equation solver, a simple "Hello, world!" program, and an asynchronous "Hello, world!" program, by Damian Rouson
+
 [dmr](https://github.com/giacrossi/dmr):  Fortran 2008 library for mimicking OpenMP device memory routines in Fortran, by Giacomo Rossi
 
 [Elements of high-performance computing](https://github.com/csc-training/elements-of-hpc): general level introduction to high-performance computing, from csc-training
