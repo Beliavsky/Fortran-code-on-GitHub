@@ -1421,6 +1421,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [Deformation Monitoring Package (DMPACK)](https://github.com/dabamos/dmpack): package for sensor control and automated time series processing in geodesy and geotechnics, consisting of a library libdmpack and additional programs based on it which serve as a reference implementation of solutions to various problems in deformation monitoring, by Philipp Engel
 
+[DigiTWind](https://github.com/UMaine-W2/DigiTWind): advancement of digital-twin for floating offshore wind turbine applications, by Yuksel-Rudy et al. It is related to the [OpenFAST](https://github.com/OpenFAST/openfast) project
+
 [DynamicStiffness](https://github.com/jbcSmc/DynamicStiffness): calculate the harmonic response of plane frame structures, by jbcSmc
 
 [F2A](https://github.com/yang7857854/F2A): aero-hydro-servo-elastic tool developed based on AQWA by Yang Yang, a postdoctoral research associate in Liverpool John Moores University for performing fully coupled analysis of floating offshore wind turbines (FOWT)
