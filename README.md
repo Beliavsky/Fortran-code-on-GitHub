@@ -2625,7 +2625,7 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [generic_rk](https://github.com/cbcoutinho/generic_rk): modularize solvers for ordinary differential equations (ODEs) in Fortran, by cbcoutinho
 
-[n-dimensional-scalar](https://github.com/murdock-aubry/n-dimensional-scalar): computes a basis of the solution space of n^th order scalar equations, time-independent of the magnitude and complexity of the coefficient functions, associated with preprint [The Levin approach to the numerical calculation of phase functions](https://arxiv.org/abs/2308.03288), by Murdock Aubry and James Bremer
+[n-dimensional-scalar](https://github.com/murdock-aubry/n-dimensional-scalar): computes a basis of the solution space of n^th order scalar equations, time-independent of the magnitude and complexity of the coefficient functions, associated with preprint [The Levin approach to the numerical calculation of phase functions](https://arxiv.org/abs/2308.03288) (2023), by Murdock Aubry and James Bremer
 
 [ODEPACK](https://github.com/jacobwilliams/odepack): collection of solvers for the initial value problem for ordinary differential equation systems
 
