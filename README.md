@@ -2323,6 +2323,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [local_mesh_refinement](https://github.com/PhiPsi-Software/local_mesh_refinement): performs local refinement of XFEM-enriched 3D hexahedral elements, from PhiPsi-Software. Given the original mesh (*.elem and *.node files) and a file (*.ennd) that describes enriched nodes, this program generates the refined mesh (output.elem and output.ndoe).
 
+[meshf](https://github.com/ofgn/meshf): 2D Delaunay triangulation, by ofgn. Future plans include implementing Delaunay refinement, constrained Delaunay, 3D Delaunay, and structured mesh capabilities.
+
 [MPI-AMRVAC](https://github.com/amrvac/amrvac): parallel adaptive mesh refinement framework aimed at solving (primarily hyperbolic) partial differential equations by a number of different numerical schemes. The emphasis is on (near) conservation laws and on shock-dominated problems in particular.
 
 [OpenMeshConverter](https://github.com/nfherrin/OpenMeshConverter): open source utility to convert various publicly available mesh formats, by Nicholas Herring. It takes a version 4 Gmsh file (tested with version 4.1) and converts it to the THOR mesh format, and there are plans to extend this converter to intake other versions of Gmsh and exodus.
