@@ -2311,7 +2311,7 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [fishman](https://github.com/dongli/fishman): generate Spherical Centroidal Voronoi Tessellation (SCVT) mesh for using in geophysical modeling, by dongli
 
-[geompack](https://github.com/jchristopherson/geompack): modernization by Jason Christopherson of the [GEOMPACK](https://www.sciencedirect.com/science/article/abs/pii/0961355291900364) library by Barry Joe for computing Delaunay triangulations
+[geompack](https://github.com/jchristopherson/geompack): modernization by Jason Christopherson of the [GEOMPACK](https://www.sciencedirect.com/science/article/abs/pii/0961355291900364) Fortran 77 library by Barry Joe for computing Delaunay triangulations
 
 [gmsh-fpm](https://github.com/gnikit/gmsh-fpm): provides access to the Fortran F2018 API of Gmsh, examples of how to use the Fortran API, and a Fortran compiled executable for Gmsh itself, by gnikit
 
