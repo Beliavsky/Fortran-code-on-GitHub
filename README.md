@@ -2067,6 +2067,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [Tcl/Tk 8.6 for Fortran 2018](https://github.com/interkosmos/fortran-tcl86): ISO_C_BINDING interface library for interoperability with Tcl/Tk 8.6, by interkosmos, allowing the user to embed Tcl into Fortran, create Tcl extensions in Fortran (with Tcl Stubs), access (a subset of) the Tcl/Tk C API from Fortran, use Tcl as an evaluatable configuration file format, and add graphical user interfaces to Fortran programs.
 
+[uint-fortran](https://github.com/ShinobuAmasaki/uint-fortran): unsigned integer, 16 or 32 bit, that is interoperable with C, by Shinobu Amasaki
+
 ## Interpolation
 [akima](https://github.com/andrewning/akima): 1-Dimensional Akima spline implementation with derivatives not only of the function, but also with respect to the original data points, by andrewnin. An Akima spline is a polynomial spline method that avoids overshooting issues common with many other splines (e.g., cubic splines), resulting in a more natural curve. 
 
