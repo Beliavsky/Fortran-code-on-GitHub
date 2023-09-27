@@ -2041,6 +2041,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [java-f90-jni-dll](https://github.com/johnvanderton/java-f90-jni-dll): demonstrates calling a Fortran dynamic link library (DLL) from Java bean by using JNI/JNA, by John Van Derton
 
+[libpq-fortran](https://github.com/ShinobuAmasaki/libpq-fortran): interface by ShinobuAmasaki to the PostgreSQL [libpq C Library](https://www.postgresql.org/docs/current/libpq.html)
+
 [Linking-f90-C-C-and-CUDA](https://github.com/CarvFS/Linking-f90-C-C-and-CUDA): Initial steps for calling C, C++ and CUDA from Fortran using the iso_c_binding, by Felipe_SC
 
 [MatlabAPI](https://github.com/robince/MatlabAPI): Fortran 95 Matlab API
