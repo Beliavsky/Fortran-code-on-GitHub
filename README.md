@@ -2175,6 +2175,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [LIBXSMM](https://github.com/hfp/libxsmm): library for specialized dense and sparse matrix operations as well as for deep learning primitives such as small convolutions, from hfp
 
+[LightKrylov](https://github.com/nekStab/LightKrylov): provides a simple set of Krylov-based techniques to study the spectral properties of the exponential propagator. Associated paper: R. S. Frantz, J.-Ch. Loiseau, and J.-Ch. Robinet. [Krylov methods for large-scale dynamical systems: applications in fluid dynamics.](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/75/3/030802/1156502/Krylov-Methods-for-Large-Scale-Dynamical-Systems?redirectedFrom=fulltext) Appl. Mech. Rev., 2023.
+
 [linalg](https://github.com/jchristopherson/linalg): linear algebra library that provides a user-friendly interface to several BLAS and LAPACK routines, by jchristopherson
 
 [LinAlgf90](https://github.com/Takayuki-Miyagi/LinAlgf90): modern Fortran wrappers for the eigenvalue functionality of Lapack, by Takayuki Miyagi
