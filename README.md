@@ -2468,6 +2468,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [fastmath](https://github.com/perazz/fastmath): library for fast, approximate math functions: exp, log, 1/sqrt, by Federico Perini. These functions provide fast, approximate evaluations of the exponential, logarithm and normalization functions in 64-bit precision.
 
+[fast_math](https://github.com/jalvesz/fast_math): collection of functions for fast number crunching, including a fast and precise sum and dot_product for 1D arrays, a reciprocal square root, the logarithm, and trigonometric functions, by jalvesz
+
 [fctables](https://github.com/mfontanaar/fctables): computes FC-Gram tables, by Mauro Fontana and sabian2008, using the MPFUN2020 library for arbitrary precision floating point arithmetic. The algorithm is described in the paper [Fourier continuation method for incompressible fluids with boundaries](https://www.sciencedirect.com/science/article/abs/pii/S0010465520302265?via%3Dihub)
 
 [fgsl](https://github.com/reinh-bader/fgsl): Fortran interface to the GNU Scientific Library, by reinh-bader
