@@ -2409,7 +2409,7 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [fortran-NeuralNetwork](https://github.com/Jonas-Finkler/fortran-NeuralNetwork): Simple implementation of a neural network, implemented in Fortran, by Jonas-Finkler
 
-[fortran-pytorch-lib](https://github.com/Cambridge-ICCS/fortran-pytorch-lib): code and examples on directly calling Pytorch ML models from Fortran, from Cambridge-ICCS
+[FTorch](https://github.com/Cambridge-ICCS/FTorch): code and examples on directly calling Pytorch ML models from Fortran, from Cambridge-ICCS
 
 [fortran-tf-lib](https://github.com/Cambridge-ICCS/fortran-tf-lib): code and examples on directly calling Tensorflow / Pytorch / Keras ML models from Fortran, from Cambridge-ICCS
 
