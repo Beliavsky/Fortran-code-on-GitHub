@@ -1642,8 +1642,6 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [ParMETIS for fpm](https://github.com/gnikit/parmetis-fpm): Fortran API and a source repackaging by gnikit of [ParMETIS](https://github.com/KarypisLab/ParMETIS), an MPI-based library for partitioning graphs, serial programs for partitioning graphs, partitioning finite element meshes, and producing fill reducing orderings for sparse matrices, from KarypisLab
 
-[PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler for Finite Difference/Volume/Element Earth-system models in Fortran
-
 [simple Discrete Element Method (sDEM)](https://github.com/GongZheng-Justin/sDEM): simple parallel DEM code by Zheng Gong, with the following features: MPI parallelization by means of 2D Domain Decomposition, the ability to handle particles with different diameters, both linear and non-linear contact force models, and NBS-Munjiza (Non Binary Search - Munjiza) contact search algorithm
 
 [tensor-algebra](https://github.com/CfKu/tensor-algebra): some frequently required methods for the implementation of problems in the field of continuum mechanics, e.g. tensor algebra, by CfKu. These methods are usually needed and used to implement user subroutines in finite element software written in Fortran.
