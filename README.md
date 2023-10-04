@@ -330,6 +330,8 @@ Luis Harvey Triana Vega
 
 [angio](https://github.com/phydev/angio): 3D phase-field modelling for tumor angiogenesis, by phydev. Associated with [paper](https://www.nature.com/articles/s41598-018-27034-8) M. Moreira-Soares, R. Coimbra, L. Rebelo, J. Carvalho & R. D. M. Travasso. Angiogenic Factors produced by Hypoxic Cells are a leading driver of Anastomoses in Sprouting Angiogenesis–a computational study. Scientific Reports 8, 8726 (2018)
 
+[Asexual Penna model](https://github.com/jben-estrada/asexual-penna-model): implementation of a biological aging model, as introduced in the paper by Thadeu Penna, [A Bit-String Model for Biological Aging](https://link.springer.com/article/10.1007/BF02180147), Journal of Statistical Physics 78 (1995)
+
 [BrainTumors](https://github.com/veneciachm/BrainTumors): time and space evolution of a brain tumor in 3D using the reaction-diffusion equation and finite differences to solve it numerically, by veneciachm
 
 [CardiacFEM](https://github.com/Levrero/CardiacFEM): cardiac electro-mechanics solver based on ParaFEM, by Levrero
