@@ -3116,6 +3116,8 @@ Ioannis Nompelis
 
 [MDCM](https://github.com/MMunibas/MDCM): Machine learning code to fit Minimal Distributed Charge Models, by Mike Devereux et al.
 
+[Methods-in-Computational-Physics](https://github.com/sureshparekh/Methods-in-Computational-Physics): codes for various methods used in computational physics, such as Monte Carlo, Verlet Algorithm, and Euler and Runge-Kutta algorithms for ordinary differential equations, by Suresh Parekh
+
 [MolForge](https://github.com/LunghiGroup/MolForge): suite of codes using MPI for the simulation of quantum spin dynamics at the atomistic level, by Alessandro Lunghi. The codes iare developed to readily interface with electronic structure codes and make it possible to predict spin decoherence and spin-phonon relaxation fully ab initio.
 
 [Neural-Network-Quantum-States](https://github.com/acbbullock/Neural-Network-Quantum-States): machine learning demonstration of neural network quantum states, by acbbullock
