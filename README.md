@@ -1898,6 +1898,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 [ZstdFortranLib](https://github.com/zbeekman/ZstdFortranLib): implements missing functionality such as error handling, strings manipulation, system/environment interface & testing utilities, by zbeekman
 
 ## Graphics, Plotting, and User Interfaces
+[7-Fortran-plots](https://github.com/Shahid718/7-Fortran-plots): demonstrates the usage of 7 [DISLIN](https://www.dislin.de/) routines for data plotting, creating line graphs, color and contour plots, and surface, bar, and pie charts, by Shahid718
+
 [accis](https://github.com/ihutch/accis): plotting and graphics library by Ian Hutchinson. Related project: [PLOTTRACES](https://github.com/ihutch/PLOTTRACES)
 
 [button](https://github.com/nicocardiel/button): library to use graphical buttons with PGPLOT, by Nicolás Cardiel
