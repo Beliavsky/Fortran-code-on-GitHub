@@ -2605,6 +2605,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [FORbID](https://github.com/giacrossi/FORbID): object-oriented Fortran 2008 library for numerical integration of definite integrals, by Giacomo Rossi and Stefano Zaghi
 
+[GGQ](https://github.com/JamesCBremerJr/GGQ): package for constructing generalized Chebyshev and generalized Gaussian quadrature rules for collections of univariate and bivariate functions, by James Bremer
+
 [INTEGRAL](https://github.com/jchristopherson/integral): routines for the integration of functions of various types, by jchristopherson. Additionally, the INTEGRAL library provides routines for the integration of systems of ordinary differential equations (ODEs).
 
 [IntegralALL](https://github.com/neutrinomuon/IntegralALL): integrate arrays and functions numerically using Gauss-Legendre Quadrature, Simpson's rule, the trapezoidal rule, and other methods, by Jean Gomes. The Python package pyintegralall calls the Fortran code. 
