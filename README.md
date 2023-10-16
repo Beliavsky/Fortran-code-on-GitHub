@@ -2462,6 +2462,9 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [afnl](https://github.com/ramos/afnl): Fortran 90 numerical library with modules for numerical types, constants, error handling, integration, optimization, linear algebra, sorting and search, special functions, statistics, polynomials, root-finding, Fourier transforms, and dates and times, by Alberto Ramos
 
+[BesselEval](https://github.com/JamesCBremerJr/BesselEval): rapidly evaluates of Bessel functions J_nu and Y_nu of the first and seconds kinds of nonnegative real orders and positive real arguments, based on precomputed expansions, with the algorithm described in a preprint, [An algorithm for the numerical evaluation of Bessel function real orders and
+ arguments](https://arxiv.org/abs/1705.07820), by James Bremer
+
 [Bessel-Hankel](https://github.com/TcheL/Bessel-Hankel): examples of the Hankel transformation and calculations of Bessel functions of the 1st kind and 2nd kind, their derivatives of the 1st order and 2nd order, and their zeros, by Tche Liu
 
 [compare](https://github.com/tcanich/compare): module to aid in comparison of real or complex numbers, by Tom Canich and Magnus Hagdorn. The module specifies a tolerance when making the comparisons to determine equality or inequality.
