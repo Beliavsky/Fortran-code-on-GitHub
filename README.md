@@ -2401,6 +2401,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [fastGPT](https://github.com/certik/fastGPT): fast GPT-2 inference, by Ondřej Čertík, described in a post [FastGPT: Faster than PyTorch in 300 Lines of Fortran](https://ondrejcertik.com/blog/2023/03/fastgpt-faster-than-pytorch-in-300-lines-of-fortran/)
 
+[ferrite](https://github.com/rbitr/ferrite): code for simple, lightweight transformers, such as a [Sentence Transformer](https://www.sbert.net/index.html), by Andrew Marble
+
 [FKB](https://github.com/scientific-computing/FKB): two-way deep learning bridge between Keras and Fortran, from scientific-computing
 
 [fnn](https://github.com/cerea-daml/fnn): implements simple, sequential neural networks, by CEREA DA-ML team. Once a network is constructed, the forward operator is available with apply_forward and can be applied both in training and inference mode. 
