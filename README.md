@@ -1591,6 +1591,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [SDF_FORTRAN](https://github.com/Warwick-Plasma/SDF_FORTRAN): library for accessing files in the SDF (self-descibing file) format, by Keith Bennett et al.
 
+[Self-Baked-Fortran-NetCDF-Library](https://github.com/han190/Self-Baked-Fortran-NetCDF-Library): light-weight NetCDF C Library wrapper and an intermediate interface, by Han Tang. The major difference between this library and most of the other implementations (for example nc4fortran) is that this library is built on top of NetCDF C library directly.
+
 [serialbox](https://github.com/GridTools/serialbox): data serialization library and tools for C/C++ and Fortran, from GridTools
 
 [stl-fortran](https://github.com/jacobwilliams/stl-fortran): Fortran STL (stereolithography) File I/O, by Jacob Williams
