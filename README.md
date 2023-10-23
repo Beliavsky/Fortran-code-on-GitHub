@@ -1916,6 +1916,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [f03gl](https://github.com/dcesari/f03gl): project is derived from the pioneering work of Anthony Stone and Aleksandar Donev for creating a complete Fortran interface to the OpenGL library along with GLU and GLUT libraries using the F2003 ISO_C_BINDING intrinsic module, by dcesari
 
+[ForColormap](https://github.com/vmagnin/forcolormap): small colormap library independent of any graphical toolkit, by Vincent Magnin. It just converts a real value to RGB values, that can be used with any toolkit offering bitmap drawing.
+
 [forcurses](https://github.com/joshjkk/forcurses): ncurses wrapper by Joshua Kinder. Ncurses is a programming library that provides an API (Application Programming Interface) for building text-based user interfaces in a terminal. 
 
 [fortran2018-asymptote](https://github.com/kevinmatthes/fortran2018-asymptote): generate drawings using the [Asymptote Vector Graphics Language](https://asymptote.sourceforge.io/), by Kevin Matthes
