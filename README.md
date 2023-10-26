@@ -1525,6 +1525,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [flexout](https://github.com/BoldingBruggeman/flexout): Fortran-based flexible output manager with support for NetCDF and text formats, by Jorn Bruggeman et al.
 
+[flibcsv](https://github.com/freevryheid/flibcsv): bindings by Andre Smit to [libcsv](https://github.com/rgamble/libcsv), a fast and flexible CSV library written in pure ANSI C that can read and write CSV data
+
 [Fortran Data Compression](https://github.com/SokolAK/Fortran-Data-Compression): sample programs demonstrating the ability to compress/decompress data on the fly when writing to or reading from a file in Fortran using named pipes (FIFOs), by SokolAK
 
 [Fortran 90 General I/O Interface (F90GIO)](https://github.com/cd10kfsu/F90GIO): provides I/O interface for NetCDF, HDF4, HDF5 reading and writing, by Cheng Da
