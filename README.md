@@ -2481,6 +2481,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [DATAPLOT](https://github.com/usnistgov/dataplot): powerful and flexible program for performing scientific, engineering, statistical, mathematical, and graphical analysis, from usnistgov
 
+[ellipFor](https://github.com/seantrim/ellipFor): evaluates Legendre elliptic integrals and Jacobi elliptic functions for generalized input parameters, by Sean Trim
+
 [faiNumber-Fortran](https://github.com/kevinhng86/faiNumber-Fortran): fast, flexible, and secure numerical library for Fortran with fast number parsing as one of its features
 
 [Fast Bessel Transform](https://github.com/UCLA-TMD/Ogata): performing fast Bessel transforms of Transverse Momentum Distributions using Ogata quadrature, by John Terry et al.
