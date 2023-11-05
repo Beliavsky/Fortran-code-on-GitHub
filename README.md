@@ -908,7 +908,7 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [ps3d](https://github.com/matt-frey/ps3d): pseudo-spectral code for turbulent flows in 3D, associated with the paper [The stability of inviscid Beltrami flow between parallel free-slip impermeable boundaries](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/stability-of-inviscid-beltrami-flow-between-parallel-freeslip-impermeable-boundaries/B34AC971DD2262386BB10E9E76E7646C), by David Dritschel and Matthias Frey, Journal of Fluid Mechanics (2023)
 
-[pyAVL](https://github.com/joanibal/pyAVL): stripped-down version by Josh Anibal of Mark Drela and Harold Youngren's famous AVL code wrapped in python with f2py. This allows one to more easily conduct large parameter sweeps in AVL or to include AVL into a larger model.
+[pyAVL](https://github.com/joanibal/pyAVL): stripped-down version by Josh Anibal of Mark Drela and Harold Youngren's famous Athena Vortex Lattice (AVL) code wrapped in python with f2py. This allows one to more easily conduct large parameter sweeps in AVL or to include AVL into a larger model.
 
 [ransfoil](https://github.com/sdhzhs/ransfoil): console to simulate airflow around an airfoil based on RANS approach
 
