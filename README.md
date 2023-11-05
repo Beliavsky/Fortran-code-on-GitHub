@@ -3736,6 +3736,8 @@ Ioannis Nompelis
 
 [Fortran Unit Testing Objects (Fortuno)](https://github.com/aradi/fortuno): flexible and extensible Fortran unit testing framework for testing serial, MPI-parallelized and coarray-parallelized applications, by Bálint Aradi
 
+[ftest](https://github.com/ladislavmeri/ftest): minimalistic unit testing, by Ladislav Méri
+
 [FUnit](https://github.com/andreypudov/funit): lightweight library for writing, administering, and running unit tests in Fortran, by Andrey Pudov. It is an instance of the xUnit architecture and provides Fortran programmers a basic testing functionality with a flexible variety of user interfaces.
 
 [FyTest — Instant Fortran unit testing](https://github.com/aradi/fytest): lightweight unit testing framework for Fortran, by Bálint Aradi. Thanks to its header-only design, it can be easily bundled with any Fortran project without creating extra dependencies. 
