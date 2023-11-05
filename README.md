@@ -3409,6 +3409,8 @@ Ioannis Nompelis
 
 [FortRAND](https://github.com/llamm-de/fortrand): lightweight random sampling library written in modern Fortran, by Lukas Lamm. It provides a simple interface to the build in Fortran pseudo-random number generator for the generation of uniformly distributed random numbers. In addition, it also provides algorithms for sampling numbers from various other distributions.
 
+[fortran_rng](https://github.com/VinceNeede/fortran_rng): implements the xoshiro256, SplitMix64, and pcg32 random number generators, by Vincenzo Bisogno
+
 [fortran-splitmix64](https://github.com/DSCF-1224/fortran-splitmix64): [splitmix64 RNG](https://rosettacode.org/wiki/Pseudo-random_numbers/Splitmix64) in Fortran 2008, by DSCF-1224
 
 [fortran-xorshift-64-star](https://github.com/Jonas-Finkler/fortran-xorshift-64-star): xorshift64* random number generator for uniform and normal variates, by Jonas-Finkler
