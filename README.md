@@ -751,6 +751,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [qContainers](https://github.com/darmar-lt/qcontainers): container library for Fortran language. It enables one to store any internal Fortran data type and any derived data type to the container. It implements containers for key/value pairs: tree table and hash table, and containers for objects: list and vector.
 
+[rearrayfx](https://github.com/aradi/rearrayfx): demonstrates a reallocatable array structure with overprovision at re-allocation in order to decrease the number of reallocations, by Bálint Aradi
+
 [slinked-list](https://github.com/zoziha/slinked-list): simple generic singly linked list module for in-memory storage of small amounts of data, by zoziha
 
 [smart-pointers](https://github.com/sourceryinstitute/smart-pointers): tracks references to program resources and automates the freeing of those resources if and only if the reference count drops to zero, by Damian Rouson et al. Most commonly, the reference is a pointer and the resource is memory.
