@@ -3628,7 +3628,7 @@ Ioannis Nompelis
 
 [fString](https://github.com/dpettas/fString): contains methods to add strings to values or split the context of a string of more than one substrings or even extract specific values using the pattern method, by Dionisis Pettas. The main idea comes from Python and how uses its strings.
 
-[fsys](https://github.com/jchristopherson/fsys): library by Jason Christopherson containing system operations and supporting types: `string`, similar to the `iso_varying_string`, but with a few differences and a few additional operations, and `string_builder`, a type that allows concatenating strings while minimizing memory reallocation operations, that behaves similarily to the .NET StringBuilder class
+[fsys](https://github.com/jchristopherson/fsys): library by Jason Christopherson containing system operations and supporting types: `string`, similar to the `iso_varying_string`, but with a few differences and a few additional operations, and `string_builder`, a type that allows concatenating strings while minimizing memory reallocation operations, that behaves similarily to the .NET `StringBuilder` class
 
 [iso_varying_string](https://github.com/everythingfunctional/iso_varying_string): implementation of the ISO_VARYING_STRING module as defined in the ISO standard, by Brad Richardson
 
