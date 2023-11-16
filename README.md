@@ -1754,6 +1754,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [TREK7](https://github.com/larsbrinkhoff/trek7): Star Trek simulation game written by Donald M. Ecclestone in the early 70ties for the PDP-10. The game was ported to VAX computers running VMS in 1978 by the author with the help of Dan Gahlinger.
 
+[wumpus](https://github.com/YeonJu/wumpus): [Hunt the Wumpus](https://en.wikipedia.org/wiki/Hunt_the_Wumpus) game in Fortran, LISP, Prolog, and Literate-Java, by Yeon Ju
+
 ## General Purpose
 [Algorithms](https://github.com/andreypudov/algorithms): The Laboratory of Algorithms, by Andrey Pudov.
 
