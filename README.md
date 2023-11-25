@@ -2206,6 +2206,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [LightKrylov](https://github.com/nekStab/LightKrylov): provides a simple set of Krylov-based techniques to study the spectral properties of the exponential propagator. Associated paper: R. S. Frantz, J.-Ch. Loiseau, and J.-Ch. Robinet. [Krylov methods for large-scale dynamical systems: applications in fluid dynamics.](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/75/3/030802/1156502/Krylov-Methods-for-Large-Scale-Dynamical-Systems?redirectedFrom=fulltext) Appl. Mech. Rev., 2023.
 
+[Lin_Alg](https://github.com/Quentin-Marecat/Lin_Alg): pedagogical codes for Cholesky, QR, and Hessenberg decompositions, Gram-Schmidt orthonormalization, matrix inversion, RQ process diagonalization + shift method, Jacobi diagonalization, iterative power diagonalization + shift method, eigenvectors using iterative method, and A.x = b solution with residual improvement, by Quentin Marecat
+
 [linalg](https://github.com/jchristopherson/linalg): linear algebra library that provides a user-friendly interface to several BLAS and LAPACK routines, by jchristopherson
 
 [LinAlgf90](https://github.com/Takayuki-Miyagi/LinAlgf90): modern Fortran wrappers for the eigenvalue functionality of Lapack, by Takayuki Miyagi
