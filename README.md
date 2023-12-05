@@ -141,6 +141,8 @@
 
 [galacticus](https://github.com/galacticusorg/galacticus): semi-analytic model of galaxy formation - a powerful toolkit for modeling the physics of how galaxies form
 
+[GALAXEV-fortran](https://github.com/gbruzual/GALAXEV-fortran): Galaxy Spectral Evolution Library, by G. Bruzual and S. Charlot
+
 [GR1D](https://github.com/evanoconnor/GR1D): general relativistic, spherically symmetry, neutrino transport code for stellar collapse. Associated paper: [An Open-Source Neutrino Radiation Hydrodynamics Code for Core-Collapse Supernovae](https://iopscience.iop.org/article/10.1088/0067-0049/219/2/24), by Evan O'Connor, Astrophysical Journal Supplement Series, Volume 219, Number 2 (2015)
 
 [GYRE Stellar Oscillation Code](https://github.com/rhdtownsend/gyre): Given an input stellar model, GYRE calculates the eigenfrequencies and eigenfunctions for the normal oscillation modes of the model, by rhdtownsend et al. These data can be put to a variety of uses; the most common is to compare them against observed oscillation frequencies of a star, allowing constraints on the star's fundamental parameters (mass, radius, etc.) to be established — the discipline of asteroseismology.
