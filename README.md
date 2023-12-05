@@ -151,8 +151,6 @@
 
 [hazel2](https://github.com/aasensio/hazel2): synthesis and inversion of Stokes profiles caused by the joint action of atomic level polarization and the Hanle and Zeeman effects, by aasensio
 
-[High-Altitude to Space Transport Estimator (HASTE)](https://github.com/wtdailey/HASTE): high fidelity Monte Carlo code written in modern Fortran for estimating the radiation field seen by a space-based detector from a point source in or above the atmosphere, by wtdailey. The HASTE code includes models for many of the special features of this air-to-space transport problem that are not modeled, or only partially modeled, in other transport codes. 
-
 [HMcode](https://github.com/alexander-mead/HMcode): augmented halo model for accurate non-linear matter power spectrum calculations, by Alexander Mead and Tilman Troester.
 
 [IMage COMbination (IMCOM)](https://github.com/barnabytprowe/imcom): software associated with [Optimal Linear Image Combination](https://iopscience.iop.org/article/10.1088/0004-637X/741/1/46), by Barnaby Rowe, Barnaby, Christopher and Jason Rhodes, The Astrophysical Journal, Volume 741, Issue 1, (2011).
