@@ -583,8 +583,6 @@ simulating and forecasting meteorological phenomena.
 
 [test_compiler](https://github.com/zaikunzhang/test_compiler): tests the applicability of Fortran compilers in a project that develops optimization solvers, by Zhang Zaikun
 
-[test_nvfortran_20_11](https://github.com/vyu16/test_nvfortran_20_11): source code test.f90 by vyu16 attempts to call getitem, defined in dummy_module.f90, incorrectly. Both ifort and gfortran are able to catch it at compile time. However, nvfortran compiles the code and seems to just ignore the call at run time.
-
 ## Computational Chemistry
 [Aerosol Inorganic-Organic Mixtures Functional groups Activity Coefficients (AIOMFAC)](https://github.com/andizuend/AIOMFAC): thermodynamic group-contribution model to describe non-ideal mixing in liquid solutions
 
