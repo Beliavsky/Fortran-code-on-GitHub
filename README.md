@@ -103,6 +103,8 @@
 
 [CUMC3D-Ver1.28](https://github.com/leon-astrophy/CUMC3D-Ver1.28): parallel code for high-energy astrophysical simulations, by Ho Sang (Leon) Chan et al. It includes basic MHD solvers and models for simulating accretion discs around supermassive black holes.
 
+[cufQUMC](https://github.com/sideguchi/cufQUMC): CUDA Fortran version of QU-fitting with replica exchange MCMC method (parallel tempering), with a Python interface, by Shinsuke Ideguchi
+
 [DAOPHOT-MCMC](https://github.com/skterry/daophot_mcmc): modified version of the subroutine NSTAR.F which implements a Markov chain Monte Carlo (MCMC) routine for fitting highly blended stellar positions and fluxes, by Sean Terry. This code is installed and implemented within the overall DAOPHOT-II structure. 
 
 [DarkLim](https://github.com/spice-herald/DarkLim): statistical tools for calculating dark matter exclusion limits and sensitivity estimates, from SPICE/HeRALD
