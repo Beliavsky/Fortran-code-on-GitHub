@@ -2144,6 +2144,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [sprint](https://github.com/dongli/sprint): Spherical Remapping and Interpolation library, from dongli
 
+[stripy](https://github.com/underworldcode/stripy): Python interface from underworldcode to TRIPACK and STRIPACK Fortran code for (constrained) triangulation in Cartesian coordinates and on a sphere. Stripy is an object-oriented package and includes routines from SRFPACK and SSRFPACK for interpolation (nearest neighbor, linear and hermite cubic) and to evaluate derivatives.
+
 [WenOOF](https://github.com/Fortran-FOSS-Programmers/WenOOF): Weighted Essentially Non-Oscillatory (WENO) interpolation, from Fortran-FOSS-Programmers
 
 ## Linear Algebra
