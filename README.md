@@ -881,6 +881,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [Multi-component Flow Code (MFC)](https://github.com/MFlowCode/MFC): parallel simulation software for multi-component, multi-phase, and bubbly flows, by Spencer Bryngelson et al.
 
+[Navier_Stokes_Spectral_Method](https://github.com/Minard-Jules/Navier_Stokes_Spectral_Method): Navier Stokes simulation using the spectral method, visualized with [gtk-fortran](https://github.com/vmagnin/gtk-fortran), by Jules Minard
+
 [Nek5000](https://github.com/Nek5000/Nek5000): fast and scalable high-order solver for computational fluid dynamics.  Applications span a wide range of fields, including fluid flow, thermal convection, combustion and magnetohydrodynamics.
 
 [NekIBM](https://github.com/YunchaoYang/NekIBM): implementation of Immersed Boundary Method for for exascale simulation of multiphase flow based on the Spectral Element Method Nek5000/CMTnek code, by Yunchao Yang
