@@ -3636,7 +3636,7 @@ Ioannis Nompelis
 
 [fortran-regex](https://github.com/perazz/fortran-regex): port by Federico Perini of the [tiny-regex-c](https://github.com/kokke/tiny-regex-c) library for regular expressions. It is based on the original C implementation, but the API is modelled in Fortran style, which is similar to the intrinsic index function.
 
-[fortran-shlex](https://github.com/perazz/fortran-shlex): port by Federico Perini of Python's [shlex](https://docs.python.org/3/library/shlex.html) shell-like lexer. The interface comes with two functions, `split` which parses a command-like string and returns an array of allocatable character strings; and `shlex` that perform the same, but return a list of `type(shlex_token)` tokens.
+[fortran-shlex](https://github.com/perazz/fortran-shlex): port by Federico Perini of Python's [shlex](https://docs.python.org/3/library/shlex.html) shell-like lexer. The interface comes with two functions, `split` which parses a command-like string and returns an array of allocatable character strings; and `shlex` that performs the same, but returns a list of `type(shlex_token)` tokens.
 
 [fortran-strings](https://github.com/eengl/fortran-strings): library and module which contains functions for common string manipulations, by eengl
 
