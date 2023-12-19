@@ -692,6 +692,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [collections](https://github.com/jchristopherson/collections): set of types supporting collections in Fortran, by Jason Christopherson. Currently, the library contains a generic, dynamically sizable list and a generic linked-list type.
 
+[enhanced-allocatables](https://github.com/PierUgit/enhanced-allocatables): proposal to extend allocatable arrays to be dynamically reallocatable/resizable, with an implementation that calls C++, by PierUgit
+
 [Fortran_competitive_library](https://github.com/osada-yum/Fortran_competitive_library): library for solving [AtCoder](https://atcoder.jp/) problems, implementing a binary indexed tree, hash table, linked list, tuples, and merge and selection sort
 
 [enumul](https://github.com/degawa/enumul): incomplete typed enumerator emulator for Fortran, by Tomohiro Degawa
