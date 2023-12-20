@@ -1918,6 +1918,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [stdlib](https://github.com/fortran-lang/stdlib): utilities, algorithms, and mathematics codes for a Fortran Standard Library, by fortran-lang
 
+[timer](https://github.com/zoziha/timer): module to get the number of seconds between two timestamps, by zoziha
+
 [TimerClass](https://github.com/DannyVanpoucke/TimerClass): object-oriented Fortran 2003 timer class, by Danny Vanpoucke
 
 [UniShellect](https://github.com/Lateralus138/UniShellect): parses a JSON config file and loads a highly customizable menu of shells, interpreters, files, commands and possible arguments into any command line interface, by Lateralus138. This is inspired by the "hyper-shellect" plug-in for the "Hyper" terminal.
