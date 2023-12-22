@@ -3634,7 +3634,7 @@ Ioannis Nompelis
 ## Strings
 [enclose](https://github.com/degawa/enclose): procedures for enclosing a string in brackets, by Tomohiro Degawa
 
-[forgex](https://github.com/ShinobuAmasaki/forgex): regular expression engine using a deterministic finite automaton ([DFA](https://en.wikipedia.org/wiki/Deterministic_finite_automaton)) approach, by Shinobu Amasaki
+[forgex](https://github.com/ShinobuAmasaki/forgex): regular expression engine using a deterministic finite automaton ([DFA](https://en.wikipedia.org/wiki/Deterministic_finite_automaton)) approach, by Shinobu Amasaki. It provides `.in.` and `.match.` operators to detect if a pattern is contained in or exactly matches a string.
 
 [FortCharConv](https://github.com/Niranama/FortCharConv): converts character strings to numbers, by Niranama. The conversions between string and floating-point (real) number are based on various binary-decimal conversion algorithms including Dragonbox, Ryu, Schubfach, Clinger and Eisel-Lemire.
 
