@@ -3634,6 +3634,8 @@ Ioannis Nompelis
 ## Strings
 [enclose](https://github.com/degawa/enclose): procedures for enclosing a string in brackets, by Tomohiro Degawa
 
+[forgex](https://github.com/ShinobuAmasaki/forgex): regular expression engine using a deterministic finite automaton ([DFA](https://en.wikipedia.org/wiki/Deterministic_finite_automaton)) approach, by Shinobu Amasaki
+
 [FortCharConv](https://github.com/Niranama/FortCharConv): converts character strings to numbers, by Niranama. The conversions between string and floating-point (real) number are based on various binary-decimal conversion algorithms including Dragonbox, Ryu, Schubfach, Clinger and Eisel-Lemire.
 
 [fortran202x_split](https://github.com/milancurcic/fortran202x_split): Fortran implementation of the Fortran 202X split intrinsic subroutine, by Milan Curcic and Sebastian Ehlert
