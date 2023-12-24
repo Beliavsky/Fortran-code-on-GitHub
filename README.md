@@ -2584,8 +2584,6 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [NAFPack](https://github.com/Minard-Jules/NAFPack): numerical analysis package, offering a comprehensive set of algorithms for diverse numerical computations, by Jules Minard. These computations include Fast Fourier Transform, linear system solving, and eigenvalue/eigenvector calculations.
 
-[naglib - NAG Routine Replacements](https://github.com/ricardoyanez/naglib): replacements for some NAG Library routines root-finding, quadrature, sine and cosine transforms, solving ODEs, interpolation, random number generation, and special functions, by Ricardo Yanez
-
 [Naval Surface Warfare Center (NSWC) Mathematical Library](https://github.com/jacobwilliams/nswc): collection of Fortran 77 routines specializing in numerical mathematics.  Subroutines are available in the following areas: elementary operations, geometry, special functions, polynomials, vectors, matrices, large dense systems of linear equations, banded matrices, sparse matrices, eigenvalues and eigenvectors, L1 solution of linear equations, least-squares solution of linear equations, optimization, transforms, approximation of functions, curve fitting, surface fitting, manifold fitting, numerical integration, integral equations, ordinary differential equations, partial differential equations, and random number generation.
 
 [NITSOL](https://github.com/cmacmackin/nitsol): Newton-iterative solution of large-scale nonlinear systems, by Homer F. Walker
