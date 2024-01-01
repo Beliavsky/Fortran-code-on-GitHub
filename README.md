@@ -2183,6 +2183,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [Eigenvalue SoLvers for Petaflop-Applications (ELPA)](https://github.com/marekandreas/elpa): scalable eigensolver for dense, symmetric (Hermitian) matrices
 
+[eigensolvers based on unitary core transformations (eiscor)](https://github.com/eiscor/eiscor): subroutines for accurately and efficiently solving matrix eigenvalue problems using essentially 2x2 unitary matrices. An associated paper is Jared L. Aurentz, Thomas Mach, Raf Vandebril, and David S. Watkins. [Fast and stable unitary QR algorithm](https://etna.math.kent.edu/volumes/2011-2020/vol44/abstract.php?vol=44&pages=327-341). Electronic Transactions on Numerical Analysis. Vol. 44, pp. 327-341. 2015.
+
 [expokit](https://github.com/rasmusgo/expokit): matrix exponential package
 
 [FLAPWxHZ](https://github.com/venovako/FLAPWxHZ): Hari-Zimmermann complex generalized hyperbolic SVD and EVD. Associated paper: [The LAPW Method with Eigendecomposition Based on the Hari--Zimmermann Generalized Hyperbolic SVD](https://epubs.siam.org/doi/10.1137/19M1277813), by Sanja Singer, Edoardo Di Napoli, Vedran Novaković, and Gayatri Čaklović, SIAM Journal on Scientific Computing, Vol. 42, Iss. 5 (2020)
