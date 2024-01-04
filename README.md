@@ -3436,6 +3436,8 @@ Ioannis Nompelis
 ## Random Number Generation
 [approx_stdnormal](https://github.com/SomajitDey/approx_stdnormal): fast generation of an array of standard normal variates using a (modified) Box-Muller transform, by SomajitDey
 
+[Knuth-FLRNG](https://github.com/marcoxa/Knuth-FLRNG): Fibonacci Lagged integer and double precisio RNGs from Section 3.6 of Volume 2 of TAOCP (Semi-numerical Algorithms); slightly reformatted and changed by Marco Antoniotti from the versions downloadable from the [code section of TAOCP site](https://www-cs-faculty.stanford.edu/~knuth/programs.html#rng)
+
 [FortRAND](https://github.com/llamm-de/fortrand): lightweight random sampling library written in modern Fortran, by Lukas Lamm. It provides a simple interface to the build in Fortran pseudo-random number generator for the generation of uniformly distributed random numbers. In addition, it also provides algorithms for sampling numbers from various other distributions.
 
 [fortran_rng](https://github.com/VinceNeede/fortran_rng): implements the xoshiro256, SplitMix64, and pcg32 random number generators, by Vincenzo Bisogno
