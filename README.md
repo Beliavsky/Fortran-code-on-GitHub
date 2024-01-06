@@ -3619,6 +3619,8 @@ Ioannis Nompelis
 
 [statislib](https://github.com/Jim-215-Fisher/statislib): library for statistical distributions, by Jim-215-Fisher. The library includes various distributions' random number generators, probability density function or probability mass function, and cumulative distribution function.
 
+[StatLib](https://github.com/jacobwilliams/StatLib): codes from the journal Applied Statistics, mostly in Fortran 77 or earlier standards. Alan Miller's translations of some of them Fortran 90 are [here](https://jblevins.org/mirror/amiller/#apstat).
+
 [statTools](https://github.com/AstroFloyd/statTools): command-line tools for simple statistics, by AstroFloyd
 
 [STooDs](https://github.com/STooDs-tools/STooDs): framework to build and estimate probabilistic models for data varying in space, time or other dimensions, by Ben Renard
