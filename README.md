@@ -2636,6 +2636,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [SLATEC](https://github.com/MehdiChinoune/SLATEC): comprehensive software library containing over 1400 general purpose mathematical and statistical routines, translated to modern Fortran by Mehdi Chinoune
 
+[specfun](https://github.com/jacobwilliams/specfun): modernization by Jacob Williams of [specfun.f](https://github.com/scipy/scipy/blob/main/scipy/special/specfun/specfun.f) from SciPy from the book [Computation of Special Functions](https://www.amazon.com/Computation-Special-Functions-Shanjie-Zhang/dp/0471119636), by Shanjie Zhang and Jianming Jin, Wiley (1996).
+
 [specfunc-fullerton](https://github.com/arjenmarkus/specfunc-fullerton): library for evaluating special mathematical function, based on the [fn](http://www.netlib.org/fn/index.html) library of Wayne Fullerton, modernised by Arjen Markus. It has Airy functions, modified Bessel functions, beta functions, exponential and logarithmic integrals, gamma functions, inverse cosine and cosine hyperbolic integrals, miscellaneous functions, and Pochhammer symbols
 
 [special_functions](https://github.com/ameli/special_functions): Cython and Python API for some Fortran and C libraries of special functions, by Siavash Ameli
