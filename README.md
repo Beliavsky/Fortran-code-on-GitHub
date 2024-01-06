@@ -3156,6 +3156,8 @@ Ioannis Nompelis
 
 [libnegf](https://github.com/libnegf/libnegf): calculates Equilibrium and Non Equilibrium Green's Function in open systems and related quantities, within an efficient sparse iterative scheme. Associated paper: [Non-equilibrium Green's functions in density functional tight binding: method and applications](https://iopscience.iop.org/article/10.1088/1367-2630/10/6/065022/meta), by A Pecchia, G Penazzi, L Salvucci and A Di Carlo, 2008 New J. Phys. 10 065022
 
+[libTNSP](https://github.com/Shaojun-Dong/libTNSP): code for paper [TNSPackage: A Fortran2003 library designed for tensor network state methods](https://www.sciencedirect.com/science/article/abs/pii/S001046551830078X), by Shaojun Dong et al., Computer Physics Communications, Volume 228, July 2018, Pages 163-177
+
 [Los Alamos Crystal Cut (LCC)](https://github.com/lanl/LCC): simple crystal builder, an easy-to-use and easy-to-develop code to make crystal solid/shape and slabs from a crystal lattice, by Christian Negre
 
 [kmos](https://github.com/mhoffman/kmos): kMC on steroids: A vigorous attempt to make lattice kinetic Monte Carlo modelling easier, by mhoffman et al.
