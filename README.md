@@ -712,6 +712,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [FMacro](https://github.com/hsnyder/FMacro): template preprocessor for Fortran, by Harris Snyder. Aims to address Fortran's lack of support for generic programming with a simple preprocessor, modeled after some of the language committee's early ideas for a template language feature, to be included in a future Fortran standard.
 
+[fortran-dictionary](https://github.com/keksipurkki/fortran-dictionary): implementation of a hashmap aka dictionary, by Elias Toivanen
+
 [Fortran Elements Library](https://github.com/gronki/fortran-elements): list, dictionary, shared pointer, and error handler, by Dominik Gronkiewicz
 
 [Fortran Implementation of Abstract Types (FIAT)](https://github.com/Fortran-FOSS-Programmers/FIAT): aims to implement various common data structures in Fortran, by Chris MacMackin and gitter-badger. These will be implemented in a generic manner using a container type. This was originally developed in [PolyCon](https://github.com/cmacmackin/PolyCon) but has since been folded into FIAT, with some improvements.
