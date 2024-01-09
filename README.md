@@ -2514,6 +2514,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [Bessel-Hankel](https://github.com/TcheL/Bessel-Hankel): examples of the Hankel transformation and calculations of Bessel functions of the 1st kind and 2nd kind, their derivatives of the 1st order and 2nd order, and their zeros, by Tche Liu
 
+[chebpak](https://github.com/saridut/chebpak): routines for Chebyshev polynomials, derivatve matrices, and interpolation, by Sarit Dutta
+
 [compare](https://github.com/tcanich/compare): module to aid in comparison of real or complex numbers, by Tom Canich and Magnus Hagdorn. The module specifies a tolerance when making the comparisons to determine equality or inequality.
 
 [DATAPLOT](https://github.com/usnistgov/dataplot): powerful and flexible program for performing scientific, engineering, statistical, mathematical, and graphical analysis, from usnistgov
