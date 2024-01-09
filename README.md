@@ -2214,6 +2214,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [JKogb](https://github.com/venovako/JKogb): software supplement for the paper [Kogbetliantz-type algorithm for the hyperbolic SVD](https://link.springer.com/article/10.1007/s11075-021-01197-4), by Vedran Novaković & Sanja Singer, Numerical Algorithms volume 90, pages 523–561 (2022)
 
+[keksipurkki-demos-qr](https://github.com/keksipurkki/keksipurkki-demos-qr): implicit QR method, by Elias Toivanen
+
 [lapack](https://github.com/Reference-LAPACK/lapack): subroutines for solving the most commonly occurring problems in numerical linear algebra
 
 [LAPACK_Examples](https://github.com/numericalalgorithmsgroup/LAPACK_Examples): example programs showing how to call LAPACK driver and computational routines (Fortran double precision), from numericalalgorithmsgroup
