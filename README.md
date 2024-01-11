@@ -2195,7 +2195,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [FlexiBLAS](https://github.com/mpimd-csc/flexiblas): wrapper library that enables the exchange of the BLAS (Basic Linear Algebra System) and LAPACK (Linear Algebra PACKage) implementation used in an executable without recompiling or re-linking it, by Martin Köhler and Jens Saak
 
-[ForBLAS](https://github.com/gha3mi/forblas): compile the BLAS and their drivers using the Fortran Package Manager, by Seyed Ali Ghasemi. [ForLAPACK](ForLAPACK) does so for LAPACK. [ForSVD](https://github.com/gha3mi/forsvd) provides functions and subroutines for calculating the singular value decomposition (SVD) of a matrix, calling LAPACK. [ForEig](https://github.com/gha3mi/foreig) calculates eigenvalues and eigenvectors using LAPACK or MKL. [ForPCA](https://github.com/gha3mi/forpca) does principal component analysis (PCA).
+[ForBLAS](https://github.com/gha3mi/forblas): compile the BLAS and their drivers using the Fortran Package Manager, by Seyed Ali Ghasemi. [ForLAPACK](ForLAPACK) does so for LAPACK. 
+[ForSVD](https://github.com/gha3mi/forsvd) provides functions and subroutines for calculating the singular value decomposition (SVD) of a matrix, calling LAPACK. [ForEig](https://github.com/gha3mi/foreig) calculates eigenvalues and eigenvectors using LAPACK or MKL. [ForPCA](https://github.com/gha3mi/forpca) does principal component analysis (PCA).
 [Pinverse](https://github.com/gha3mi/pinverse) calculates the pseudoinverse of a matrix using singular value decomposition.
 
 [formatmul](https://github.com/gha3mi/formatmul): library that overloads the matmul function to enable efficient matrix multiplication with coarrays, by Seyed Ali Ghasemi
@@ -2203,6 +2204,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 [fortran_csr](https://github.com/cometscome/fortran_csr): library to construct and multiply a matrix in compressed sparse row (CSR) format, by Yuki Nagai
 
 [Fortran_Davidson](https://github.com/NLESC-JCER/Fortran_Davidson): Modern Fortran implementation of the Davidson diagonalization algorithms, from NLESC-JCER
+
+[fortran-lapack](https://github.com/perazz/fortran-lapack): modern Fortran implementation of the Reference-LAPACK library, by Federico Perini. The reference Fortran 77 library is automatically downloaded from its master repository, and processed to create Modern Fortran modules with full explicit typing features.
 
 [fortran_lsp](https://github.com/ivan-pi/fortran_lsp): Fortran routines from "Solving Least Squares Problems" by C. Lawson and R. Hanson, with improved interfaces, from ivan-pi
 
