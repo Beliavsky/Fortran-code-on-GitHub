@@ -317,6 +317,8 @@ by ShinobuAmasaki.
 
 [pi_examples](https://github.com/UCL-RITS/pi_examples): calculate pi using numerical integration of `1/(1+x**2)`, using Fortran with do concurrent, MPI, OpenMP, OpenACC, and other languages, by Owain Kenway et al.
 
+[plb2](https://github.com/attractivechaos/plb2): nqueen,	matmul,	sudoku, and	bedcov benchmarks in Fortran, C, Lisp, Go, Java, JavaScript, Julia, Python, Rust, and other languages
+
 [Python Performance](https://github.com/scivision/python-performance): performance benchmarks of Python, Numpy, etc. vs. other languages such as Matlab, Julia, Fortran, from scivision
 
 [raytracer](https://github.com/edin/raytracer): raytracer benchmark in dozens of languages, by edin. Associated with paper M. Moreira-Soares, R. Coimbra, L. Rebelo, J. Carvalho & R. D. M. Travasso. "Angiogenic Factors produced by Hypoxic Cells are a leading driver of Anastomoses in Sprouting Angiogenesis–a computational study". Scientific Reports 8, 8726 (2018)
