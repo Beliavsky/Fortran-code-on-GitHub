@@ -1898,6 +1898,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [M_readline](https://github.com/urbanjost/M_readline): interface to the commonly available C procedure readline(3c). to provide a familiar command history interface for interactive programs, by urbanjost
 
+[M_sets](https://github.com/urbanjost/M_sets): basic set functions reminiscent of those in Matlab: `union`, `unique`, `intersect`, `setdiff`, `ismember`, `setxor`, by urbanjost
+
 [M_stopwatch](https://github.com/urbanjost/M_stopwatch): package for measuring cpu and wall clock execution time by urbanjost, based on [StopWatch](https://math.nist.gov/StopWatch/). It supports the wall clock, CPU clock, and a breakdown of the CPU clock into user and system times.
 
 [paramcard](https://github.com/tueda/paramcard): command-line parameter input made simple, by Takahiro Ueda
