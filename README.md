@@ -1163,6 +1163,8 @@ engine, by montagdude and Geoff Sokoll
 
 [hypoellipse](https://github.com/INGV/hypoellipse): determines hypocenters and magnitudes of near regional earthquakes and the ellipsoids that enclose the 68-percent confidence volumes of the computed hypocenters. HYPOELLIPSE was developed to meet the needs of U.S. Geological Survey (USGS) scientists studying crustal and sub-crustal earthquakes recorded by a sparse regional seismograph network. 
 
+[HypoTremorMCMC](https://github.com/akuhara/HypoTremorMCMC): associated preprint: [Locating tectonic tremors with uncertainty estimates: Time- and amplitude-difference optimization, wave propagation-based quality control, and Bayesian inversion](https://eartharxiv.org/repository/view/5256/)(2023) by Takeshi Akuhara et al.
+
 [IBMlib](https://github.com/IBMlib/IBMlib): individual-based modelling framework able to assess marine habitat connectivity. Eggs/larvae/juvenile/adults may be modelled in order to analyze recruitment impact of marine protected areas.
 
 [ICM_Hydro](https://github.com/CPRA-MP/ICM_Hydro): code corresponding to paper "Ecohydrology component of Louisiana’s 2012 Coastal Master Plan: mass-balance compartment model"
