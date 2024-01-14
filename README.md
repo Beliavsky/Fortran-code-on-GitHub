@@ -2114,6 +2114,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [python_from_fortran](https://github.com/halungge/python_from_fortran): examples of calling Python from Fortran using CFFI or [Forpy](https://github.com/ylikx/forpy), by halungge
 
+[sockets-in-Fortran](https://github.com/ph-preux/sockets-in-Fortran): demonstration of a Fortran code communicating through a socket with a a C code that acts as a client in a socket based server/client communication, by Philippe Preux
+
 [statamod](https://github.com/ajshephard/statamod): provides read/write access for Stata datasets from within Fortran, by Andrew Shephard
 
 [sysexits-f18](https://github.com/kevinmatthes/sysexits-f18): Fortran 2018 version of the [sysexits.h](https://man.freebsd.org/cgi/man.cgi?query=sysexits&manpath=FreeBSD+4.3-RELEASE) codes, by Kevin Matthes
