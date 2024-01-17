@@ -2537,7 +2537,7 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [DATAPLOT](https://github.com/usnistgov/dataplot): powerful and flexible program for performing scientific, engineering, statistical, mathematical, and graphical analysis, from usnistgov
 
-[dfsaneacc](https://github.com/cran/dfsaneacc): R package with underlying Fortran code implementing the algorithm in [Secant Acceleration of Sequential Residual Methods for Solving Large-Scale Nonlinear Systems of Equations](https://epubs.siam.org/doi/10.1137/20M1388024), by Ernesto G. Birgin and J. M. MartÍnez, SIAM Journal on Numerical AnalysisVol. 60, Iss. 6 (2022)
+[dfsaneacc](https://github.com/cran/dfsaneacc): R package with underlying Fortran code implementing the algorithm in [Secant Acceleration of Sequential Residual Methods for Solving Large-Scale Nonlinear Systems of Equations](https://epubs.siam.org/doi/10.1137/20M1388024), by Ernesto G. Birgin and J. M. MartÍnez, SIAM Journal on Numerical Analysis, Vol. 60, Iss. 6 (2022)
 
 [ellipFor](https://github.com/seantrim/ellipFor): evaluates Legendre elliptic integrals and Jacobi elliptic functions for generalized input parameters, by Sean Trim
 
