@@ -2209,6 +2209,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 [ForSVD](https://github.com/gha3mi/forsvd) provides functions and subroutines for calculating the singular value decomposition (SVD) of a matrix, calling LAPACK. [ForEig](https://github.com/gha3mi/foreig) calculates eigenvalues and eigenvectors using LAPACK or MKL. [ForPCA](https://github.com/gha3mi/forpca) does principal component analysis (PCA).
 [Pinverse](https://github.com/gha3mi/pinverse) calculates the pseudoinverse of a matrix using singular value decomposition.
 
+[fordot](https://github.com/gha3mi/fordot): overloads the dot_product function to enable efficient dot product with/without coarrays, by Seyed Ali Ghasemi
+
 [formatmul](https://github.com/gha3mi/formatmul): library that overloads the matmul function to enable efficient matrix multiplication with coarrays, by Seyed Ali Ghasemi
 
 [fortran_csr](https://github.com/cometscome/fortran_csr): library to construct and multiply a matrix in compressed sparse row (CSR) format, by Yuki Nagai
