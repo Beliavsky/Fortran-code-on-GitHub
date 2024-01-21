@@ -2096,6 +2096,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [Linking-f90-C-C-and-CUDA](https://github.com/CarvFS/Linking-f90-C-C-and-CUDA): Initial steps for calling C, C++ and CUDA from Fortran using the iso_c_binding, by Felipe_SC
 
+[Mariadb_connector_fortran](https://github.com/v-h-giang/Mariadb_connector_fortran): wrapper library for Mariadb-connector/C, by Vu Hoang Giang. It can be used to connect to Mairadb, MySQL, and Oracle databases.
+
 [MatlabAPI](https://github.com/robince/MatlabAPI): Fortran 95 Matlab API
 
 [MatlabFortran](https://github.com/aledinola/MatlabFortran): easily export data from Matlab to Fortran and back, by Alessandro Di Nola
