@@ -3109,8 +3109,6 @@ Ioannis Nompelis
 
 [Computational Environment for Nuclear Structure (CENS)](https://github.com/ManyBodyPhysics/CENS): many-body codes developed by Morten Hjorth-Jensen and collaborators
 
-[computational_physics](https://github.com/alexbaekey/computational_physics): computational physics projects by alexbaekey
-
 [CRYSTAL](https://github.com/srio/CRYSTAL): code for crystal diffraction in X-ray Oriented Programs (XOP) (perfect, bent, mosaic crystals in Bragg and Laue geometries), associated with paper [Simulation of X-ray diffraction profiles for bent anisotropic crystals](https://scripts.iucr.org/cgi-bin/paper?S1600576715002782), by M. Sanchez del Rio, N. Perez-Bocanegra, X. Shi, V. Honkimäki and L. Zhang, Journal of Applied Crystallography (2015). 48, 477-491
 
 [d3q and thermal2](https://github.com/anharmonic/d3q): d3q computes fully ab-initio the anharmonic third-order dynamical matrix and the three-body force constants, and thermal2 manipulates 2-body and 3-body force constants to study vibrational properties of materials.
