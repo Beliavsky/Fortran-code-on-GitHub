@@ -2619,8 +2619,6 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [Nonlinear Equation Solver with Modern Fortran (nlesolver-fortran)](https://github.com/jacobwilliams/nlesolver-fortran): basic Newton-Raphson type nonlinear equation solver for dense systems with m functions of n input variables, by Jacob Williams. Uses LAPACK routines (dgesv or dgels) to solve the linear system.
 
-[NR_util](https://github.com/lguez/NR_util): Fortran 2003 library by Lionel Guez containing basic mathematical constants and basic procedures for numerical tasks. NR_util originates from the "utility routines" of Numerical Recipes in Fortran 90 (Press et al., 1996, Cambridge University Press, appendix C1), version 2.10a, contained in files nrtype.f90 and nrutil.f90. These files of Numerical Recipes were put in the public domain by Press et al.
-
 [NumDiff](https://github.com/jacobwilliams/NumDiff): modern Fortran numerical differentiation library, by Jacob Williams
 
 [Numerical-Methods](https://github.com/Manan-Rawat/Numerical-Methods): codes for course in numerical methods, including linear equations, finding roots, eigenvalue problems, interpolation and approximation, numerical integration and differentiation, random numbers, and Monte Carlo, by Manan Rawat and H. M. Antia. Codes from Antia's book are [here](https://www.tifr.res.in/~antia/nmse3.html) and archived [here](https://github.com/Beliavsky/antia_numerical_methods).
