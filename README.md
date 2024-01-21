@@ -1945,7 +1945,7 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [button](https://github.com/nicocardiel/button): library to use graphical buttons with PGPLOT, by Nicolás Cardiel
 
-[cairo-fortran](https://github.com/brocolis/cairo-fortran): libcairo bindings for Fortran from the gtk-fortran project available as a separate fpm package, by Carlos Une
+[cairo-fortran](https://github.com/vmagnin/cairo-fortran): libcairo bindings for Fortran from the gtk-fortran project available as a separate fpm package, by Carlos Une
 
 [CHART_COUPE](https://github.com/meom-group/CHART_COUPE): Fortran plotting package base on NCL libraries, tuned for geophysical numerical model output, from meom-group
 
