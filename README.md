@@ -3462,8 +3462,6 @@ Ioannis Nompelis
 
 [Yet Another Many-Body cOde (YAMBO)](https://github.com/yambo-code/yambo): implements Many-Body Perturbation Theory (MBPT) methods (such as GW and BSE) and Time-Dependent Density Functional Theory (TDDFT), which allows for accurate prediction of fundamental properties as band gaps of semiconductors, band alignments, defect quasi-particle energies, optics and out-of-equilibrium properties of materials, by Davide Sangalli et al.
 
-[Zen](https://github.com/huangli712/Zen): modern DFT + DMFT (namely, density functional theory plus dynamical mean-field theory) computation framework, by huangli712
-
 ## Random Number Generation
 [approx_stdnormal](https://github.com/SomajitDey/approx_stdnormal): fast generation of an array of standard normal variates using a (modified) Box-Muller transform, by SomajitDey
 
