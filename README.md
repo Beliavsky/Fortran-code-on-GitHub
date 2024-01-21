@@ -2265,8 +2265,6 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [M_blas](https://github.com/urbanjost/M_blas): Fortran BLAS library implemented as a free-format module, by urbanjost
 
-[MClib](https://github.com/Tretyak0ID/MClib): library for matrix computations, including the LU decomposition of general and banded matrices, and matrix multiplication for banded or triangular matrices, and reading and writing matrices, by Ilya Tretyak
-
 [mfi](https://github.com/14NGiestas/mfi): modern Fortran Interfaces to BLAS and LAPACK, by 14NGiestas
 
 [Minimum Split Checkerboard Decomposition (MSCBDECOMP)](https://github.com/CaptainSifff/mscbdecomp): obtain sparse representations of the matrix exponential, by CaptainSifffl. Reference: Minimal Split Checkerboard Method for Exponentiating Sparse Matrices and Its Applications in Quantum Statistical Mechanics, by Che-Rung Lee, SIAM J. Sci. Comput. 35-2 (2013), pp. C143-C171, https://doi.org/10.1137/110838716
