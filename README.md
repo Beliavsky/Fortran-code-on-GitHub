@@ -1155,7 +1155,7 @@ engine, by montagdude and Geoff Sokoll
 
 [hbi](https://github.com/sozawa94/hbi): multi-dimensional earthquake cycle simulation code based on Boundary Element Method with H-matrices, associated with the paper by So Ozawa, Akihiro Ida, Tetsuya Hoshino, Ryosuke Ando (2023), [Large-scale earthquake sequence simulations of 3D geometrically complex faults using the boundary element method accelerated by lattice H-matrices](https://academic.oup.com/gji/article-abstract/232/3/1471/6750234), Geophysical Journal International,232 (3), 1471-1481
 
-[Heavy](https://github.com/jkennedy-usgs/heavy): calculates the change in gravity caused by the change in groundwater storage as predicted by a [MODFLOW](https://github.com/MODFLOW-USGS/modflow6) groundwater-flow model, by Jeff Kennedy. Gravity change is calculated relative to the initial time step at user-specified locations (e.g., measurement locations).
+[Heavy-review](https://github.com/jkennedy-usgs/heavy-review): calculates the change in gravity caused by the change in groundwater storage as predicted by a [MODFLOW](https://github.com/MODFLOW-USGS/modflow6) groundwater-flow model, by Jeff Kennedy. Gravity change is calculated relative to the initial time step at user-specified locations (e.g., measurement locations).
 
 [HOS-ocean](https://github.com/LHEEA/HOS-ocean): High-Order Spectral method for oceanic simulations, by gducrozet and Gjacquenot
 
