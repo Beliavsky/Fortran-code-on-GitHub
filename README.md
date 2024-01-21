@@ -1957,9 +1957,7 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fdata2pyplot](https://github.com/GasinAn/fdata2pyplot): simple module for passing Fortran output to a Python script to later use Matplotlib to make a figure, by Jiachen An
 
-[ForColormap](https://github.com/vmagnin/forcolormap): small colormap library independent of any graphical toolkit, by Vincent Magnin. It just converts a real value to RGB values, that can be used with any toolkit offering bitmap drawing.
-
-[forcurses](https://github.com/joshjkk/forcurses): ncurses wrapper by Joshua Kinder. Ncurses is a programming library that provides an API (Application Programming Interface) for building text-based user interfaces in a terminal.
+[ForColormap](https://github.com/vmagnin/forcolormap): small colormap library independent of any graphical toolkit, by Vincent Magnin. It just converts a real value to RGB values, that can be used with any toolkit offering bitmap drawing..
 
 [forimage](https://github.com/gha3mi/forimage): library for working with image files ([PNM format](https://en.wikipedia.org/wiki/Netpbm)) and managing colors effectively, by by Seyed Ali Ghasemi
 
