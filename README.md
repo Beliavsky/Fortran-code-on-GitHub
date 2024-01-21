@@ -3604,8 +3604,6 @@ Ioannis Nompelis
 
 [MCMC f90 library](https://github.com/mjlaine/mcmcf90): do Markov chain Monte Carlo simulation from a posterior distribution of unknown model parameters defined by a likelihood function and prior, by mjlaine
 
-[measurements](https://github.com/jchristopherson/measurements): routines supporting calculations related to measurement activities, in the following areas: statistics, linear regression, data smoothing, filtering, Fourier transforms, peak detection, interpolation, differentiation, and integration, by jchristopherson
-
 [Missing Value Imputation](https://github.com/SnTa2019/Missing-Value-Imputation): code for [Imputation via Clusterwise Linear Regression](http://napsu.karmitsa.fi/iviaclr/) by Napsu Karmitsa
 
 [Monitor](https://github.com/Hirlam/Monitor): the verification package in HARMONIE is designed to be a self-contained stand alone package dealing with pre-extracted model and observational data. The package calculates several standard verification scores.
