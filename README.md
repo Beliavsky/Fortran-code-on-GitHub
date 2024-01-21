@@ -115,7 +115,7 @@
 
 [DUMSES-hybrid](https://github.com/marcjoos-cea/dumses-hybrid): 3D MPI/OpenMP & MPI/OpenACC Eulerian second-order Godunov (magneto)hydrodynamic simulation code in cartesian, spherical and cylindrical coordinates, by Marc Joos
 
-[DYnamics, Age and Metallicity Indicators Tracing Evolution (DYNAMITE)](https://github.com/dynamics-of-stellar-systems/dynamite_release): Schwarzschild- and stellar-population modelling of stellar systems
+[DYnamics, Age and Metallicity Indicators Tracing Evolution (DYNAMITE)](https://github.com/dynamics-of-stellar-systems/dynamite): Schwarzschild- and stellar-population modelling of stellar systems
 
 [ECLIPSE](https://github.com/CosmoTool/ECLIPSE): code for [paper](https://iopscience.iop.org/article/10.1088/1475-7516/2021/07/034) "ECLIPSE: a fast Quadratic Maximum Likelihood estimator for CMB intensity and polarization power spectra" (2021), by J.D. Bilbao-Ahedo et al.
 
