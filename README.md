@@ -3175,7 +3175,7 @@ Ioannis Nompelis
 
 [IrisFDTD-Academic](https://github.com/IrisFDTD/IrisFDTD-Academic): implements the Finite-Difference Time-Domain (FDTD) method. It is a "toy version" of the [IrisFDTD](https://github.com/IrisFDTD/IrisFDTD) program, a Maxwell’s equations solver in the field of computational electrodynamics for photonics and nanotechnology, by Sergio G Rodrigo.
 
-[LibForQ](https://github.com/jonasmaziero/LibForQ): performs several numerical tasks one frequently needs when working in quantum information science, such as trace, partial trace, and partial transpose; entanglement, discord, and coherence quantifiers; Pauli group (PG), Generalized Gell Mann Matrices (GGMM), and Bloch vector and correlation matrix with GGMM, by Jonas Maziero
+[LibForQ-v1](https://github.com/jonasmaziero/LibForQ-v1): performs several numerical tasks one frequently needs when working in quantum information science, such as trace, partial trace, and partial transpose; entanglement, discord, and coherence quantifiers; Pauli group (PG), Generalized Gell Mann Matrices (GGMM), and Bloch vector and correlation matrix with GGMM, by Jonas Maziero
 
 [libmbd](https://github.com/libmbd/libmbd): implements the many-body dispersion (MBD) method in several programming languages and frameworks. The Fortran implementation is the reference, most advanced implementation, with support for analytical gradients and distributed parallelism, and additional functionality beyond the MBD method itself. 
 
