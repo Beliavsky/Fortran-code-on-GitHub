@@ -107,9 +107,7 @@
 
 [DAOPHOT-MCMC](https://github.com/skterry/daophot_mcmc): modified version of the subroutine NSTAR.F which implements a Markov chain Monte Carlo (MCMC) routine for fitting highly blended stellar positions and fluxes, by Sean Terry. This code is installed and implemented within the overall DAOPHOT-II structure. 
 
-[DarkLim](https://github.com/spice-herald/DarkLim): statistical tools for calculating dark matter exclusion limits and sensitivity estimates, from SPICE/HeRALD
-
-[Discrete Element Model Body (DEMBody)](https://github.com/Bin-Cheng-THU/DEMBody): software for Granular Dynamics Simulation for Planetary Science and Geophysics, by Bin Cheng. It incorporates classical granular dynamics simulations and N-body self-gravity calculation. 
+[DarkLim](https://github.com/spice-herald/DarkLim): statistical tools for calculating dark matter exclusion limits and sensitivity estimates, from SPICE/HeRALD 
 
 [dStar](https://github.com/nworbde/dStar): computing neutron star structure and evolution, by Edward Brown et al.
 
