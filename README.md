@@ -1708,8 +1708,6 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [FortranTip](https://github.com/Beliavsky/FortranTip): short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip), by Beliavsky et al.
 
-[FORTRAN-Topics](https://github.com/Koushikphy/FORTRAN-Topics): codes to demonstrate Modern Fortran features, and codes for numerics and I/O, by Koushikphy 
-
 [fortran-tuto](https://github.com/HamzaM3/fortran-tuto): code of the Fortran [video tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8&ab_channel=DerekBanas) by Derek Banas
 
 [Introduction to Fortran Debugging](https://github.com/aperezhortal/fortran_debugging_introduction): reviews the most common types of errors and
