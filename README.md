@@ -2313,6 +2313,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [Sparse Parallel Robust Algorithm Library (SPRAL)](https://github.com/ralna/spral): library for sparse linear algebra and associated algorithms. It is primarily developed by the Numerical Analysis group at STFC Rutherford Appleton Laboratory.
 
+[Spectrum-Revealing CUR (SR-CUR)](https://github.com/Rioghasarig/sr-cur): tool for the low rank CUR decomposition of sparse matrices, by Onyebuchi Ekenta. SR-CUR implements a novel CUR decomposition method that allows it to scale to larger matrices and produce more accurate factorizations than previous methods.
+
 [SpLLT](https://github.com/NLAFET/SpLLT): sparse direct solver for computing the solution of symmetric positive definite linear systems, from NLAFET. The factorization phase, which is the most computationally intensive part, is based on a task-based Cholesky algorithm and the parallel code is implemented using a runtime system. 
 
 [STCollection](https://github.com/oamarques/STCollection): contains matrices that have been used for testing LAPACK's symmetric tridiagonal eigensolvers and bidiagonal SVD algorithms. The collection includes symmetric tridiagonal matrices and (upper) bidiagonal matrices. The original set of matrices in the collection has been described in Marques, Demmel, Voemel, and Parlett, [A Testing Infrastructure for Symmetric Tridiagonal Eigensolvers](https://people.eecs.berkeley.edu/~demmel/Demmel_pubs_07_11_final/J82_Alg880_Testing_Infrastructure_for_LAPACK.pdf), ACM TOMS, 35:2008. 
