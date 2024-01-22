@@ -3718,7 +3718,7 @@ Ioannis Nompelis
 
 [fortress](https://github.com/eph/fortress): tools for Bayesian estimation of time series models, by eph
 
-[Gaussian Mixture ARMA-GARCH](https://github.com/saveriocolla90/Gaussian-Mixture-ARMA-GARCH): implements a Gaussian Mixture ARMA-GARCH model to fit a generic time series with zero mean and gaussian distributed standard deviations, by saveriocolla90
+[Fortran90-Gaussian-Mixture-ARMA-GARCH](https://github.com/saveriocolla90/Gaussian-Mixture-ARMA-GARCH): implements a Gaussian Mixture ARMA-GARCH model to fit a generic time series with zero mean and gaussian distributed standard deviations, by saveriocolla90
 
 [KFAS: R Package for Exponential Family State Space Models](https://github.com/helske/KFAS): provides tools for modelling exponential family state space models such as structural time series, ARIMA models, generalized linear models and generalized linear mixed models, by Jouni Helske et al., with underlying Fortran 95 code
 
