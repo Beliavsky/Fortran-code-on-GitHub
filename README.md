@@ -2257,8 +2257,6 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [LSQR](https://github.com/jacobwilliams/LSQR): Fortran 2008 edition of [LSQR](https://web.stanford.edu/group/SOL/software/lsqr/), a conjugate-gradient type method for solving sparse linear equations and sparse least-squares problems, by Jacob Williams.
 
-[LUSOL](https://github.com/Rioghasarig/trlu): maintains LU factors of a square or rectangular sparse matrix. This repository provides LUSOL source code and a Matlab interface.
-
 [madrigal](https://github.com/octoflar/madrigal): matrix derivative tests for forward and reverse mode automatic differentiation, by R. Quast
 
 [Matrix Equations PACKage (MEPACK)](https://github.com/mpimd-csc/mepack): library for the solution of dense Sylvester-like matrix equations, by Martin Köhler. Martin Köhler
