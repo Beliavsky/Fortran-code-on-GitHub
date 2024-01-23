@@ -3580,6 +3580,8 @@ Ioannis Nompelis
 
 [inference](https://github.com/tloredo/inference): Python modules for statistical inference, including the Parametric Inference Engine (PIE), with underlying Fortran code, by Tom Loredo
 
+[islasso](https://github.com/cran/islasso): R package with underlying Fortran code applying the induced smoothing (IS) idea to lasso regularization models to allow estimation and inference on the model coefficients (currently hypothesis testing only), by Gianluca Sottile. Linear, logistic, Poisson and gamma regressions with several link functions are implemented.
+
 [KronLinInv](https://github.com/inverseproblem/KronLinInv): Kronecker-product-based linear inversion of geophysical (or other kinds of) data under Gaussian and separability assumptions. The code computes the posterior mean model and the posterior covariance matrix (or subsets of it) in an efficient manner (parallel algorithm) taking into account 3-D correlations both in the model parameters and in the observed data.
 
 [libdierckx](https://github.com/DaanVanVugt/libdierckx): collection of FORTRAN programs for curve and surface fitting with splines and tensor product splines. Features included are automatic knot selection, error smoothing and data reduction.
