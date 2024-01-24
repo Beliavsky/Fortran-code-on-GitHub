@@ -3659,6 +3659,8 @@ Ioannis Nompelis
 
 [fortran202x_split](https://github.com/milancurcic/fortran202x_split): Fortran implementation of the Fortran 202X split intrinsic subroutine, by Milan Curcic and Sebastian Ehlert
 
+[fortran-ascii](https://github.com/ivan-pi/fortran-ascii): functions which operate on ASCII characters, by Ivan Pribec, aiming to reproduce the functionality found in <ctype.h> header of the C standard library or std.ascii namespace from the D runtime library.
+
 [fortran_pcre](https://github.com/ZedThree/fortran_pcre): Fortran wrapper around the C PCRE regular expression library
 
 [fortran-pcre2](https://github.com/interkosmos/fortran-pcre2): Fortran 2018 ISO_C_BINDING interfaces to Perl-compatible Regular Expressions 2 (PCRE2), by interkosmos
