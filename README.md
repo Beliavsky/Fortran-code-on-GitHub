@@ -2916,11 +2916,11 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Framework for Extensible Asynchronous Task Scheduling (FEATS)](https://github.com/sourceryinstitute/FEATS): project to develop a parallel Fortran 2018 asynchronous, task-scheduling framework for use in a range of applications, from sourceryinstitute
 
-[galaxy-brain](https://github.com/jeffhammond/galaxy-brain): MPI Fortran type inference, by Jeff Hammond
-
 [GPU programming with OpenMP offloading](https://github.com/csc-training/openmp-offload): exercises and other material for [course](https://events.prace-ri.eu/event/1273/), by Jussi Enkovaara et al.
 
 [gpu-tips](https://github.com/dappelha/gpu-tips): Fortran examples of CUDA and directives tips and tricks for IBM Power + Nvidia Systems, by dappelha
+
+[havaita](https://github.com/jeffhammond/havaita): MPI Fortran type inference -- shows how to write a modern Fortran interface to MPI which infers arguments that are already contained in the Fortran type itself, such as element type and count, and renders optional arguments when context is sufficient, by Jeff Hammond
 
 [Hybrid CPU programming with OpenMP and MPI](https://github.com/csc-training/hybrid-openmp-mpi): exercise material and model answers for the [CSC course](https://events.prace-ri.eu/event/1225/), by Jussi Enkovaara and Martti Louhivuori
 
