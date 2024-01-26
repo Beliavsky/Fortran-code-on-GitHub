@@ -1262,6 +1262,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [Perple_X](https://github.com/jadconnolly/Perple_X): programs for calculating phase diagrams, manipulating thermodynamic data, and modeling equilibrium phase fractionation and reactive transport, by James A. D. Connolly
 
+[PICO_Fortran](https://github.com/dmr-dj/PICO_Fortran): implementation by Didier M. Roche of the Potsdam Ice-shelf Cavity mOdel from the paper [Antarctic sub-shelf melt rates via PICO](https://tc.copernicus.org/articles/12/1969/2018/), by Ronja Reese et al., (2018).
+
 [pizza](https://github.com/magic-sph/pizza): high-performance numerical code for quasi-geostrophic and non-rotating convection in a 2-D annulus geometry, by Thomas Gastine et al. pizza solves for the Navier-Stokes equation including Coriolis force coupled with a temperature equation and/or an equation for the chemical composition under the Boussinesq approximation.
 
 [plantFEM](https://github.com/kazulagi/plantFEM): plant/farming simulator based on Finite Element Method, which targets crops in fields, from kazulagi. This software provides multi-physical simulations of agriculture for canopies, plants, and organs for farmers, breeders, and agronomists.
