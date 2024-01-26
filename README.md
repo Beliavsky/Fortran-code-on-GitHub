@@ -621,6 +621,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [gibbs2](https://github.com/aoterodelaroza/gibbs2): calculates pressure and temperature dependent thermodynamic properties of solids from ab initio results, by aoterodelaroza
 
+[GWMlib](https://github.com/dmr-dj/GWMlib): Generic Water isotope Modelling Librarym, by Didier M. Roche
+
 [HFB](https://github.com/knappf/HFB): Hartree-Fock-Bogolyubov code for (hyper)nuclear structure calculations (version by P. Vesely)
 
 [hibridon](https://github.com/hibridon/hibridon): solves the close-coupled equations which occur in the quantum treatment of inelastic atomic and molecular collisions. Gas-phase scattering, photodissociation, collisions of atoms and/or molecules with flat surfaces, and bound states of weakly-bound complexes can be treated.
