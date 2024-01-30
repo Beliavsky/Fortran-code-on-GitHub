@@ -2088,6 +2088,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fpydemo](https://github.com/banskt/fpydemo): demonstration of packaging a command line tool written in Python and Fortran, by Saikat Banerjee. The minimum working example has native Fortran codes compile to a shared library with F2PY, Lapack routines, and uses mpi4py for MPI parallelization.
 
+[hwinfo-fortran](https://github.com/ShinobuAmasaki/hwinfo-fortran): provides access to hardware information using OS APIs for Unix-like operating systems, by Shinobu Amasaki
+
 [interfacing_fortran_from_python](https://github.com/ofmla/interfacing_fortran_from_python): training course -- interfacing Fortran and Python: using cffi, ctypes and Cython, by Oscar Mojica. It focuses on the explicit C interface route, that is, coding explicit C interface in Fortran and calling that with Python libraries.
 
 [java-f90-jni-dll](https://github.com/johnvanderton/java-f90-jni-dll): demonstrates calling a Fortran dynamic link library (DLL) from Java bean by using JNI/JNA, by John Van Derton
