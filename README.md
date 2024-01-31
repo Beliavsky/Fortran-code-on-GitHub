@@ -2114,6 +2114,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [popen-fortran](https://github.com/jacobwilliams/popen-fortran): module for popen() by Jacob Williams, which executes a command specified by a string argument, creates a pipe between the calling program and the executed command, and returns a pointer to a stream that can be used to either read from or write to the pipe.
 
+[PythonFortran](https://github.com/tkotani/PythonFortran): simple example for Python calling Fortran codes in MPI, by Takao Kotani. The main program, which calls Fortran subroutines, is in Python invoking MPI by [mpi4py](https://mpi4py.readthedocs.io/en/stable/).
+
 [python-fortran](https://github.com/pnavaro/python-fortran): Python-Fortran bindings examples, by Pierre Navaro
 
 [python_from_fortran](https://github.com/halungge/python_from_fortran): examples of calling Python from Fortran using CFFI or [Forpy](https://github.com/ylikx/forpy), by halungge
