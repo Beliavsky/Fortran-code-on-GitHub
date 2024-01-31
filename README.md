@@ -2015,6 +2015,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [plplot-windows-bin](https://github.com/arjenmarkus/plplot-windows-bin): provides a binary distribution for PLplot on Windows, even if only ad hoc and limited to Fortran, by Arjen Markus. There are examples of calling PLplot from Fortran.
 
+[pltFor](https://github.com/DamienMinenna/pltFor): Fortran-Python interface library to plot figures directly in Fortran, by Damien Minenna
+
 [PyFerret](https://github.com/NOAA-PMEL/PyFerret): Ferret is an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets, from NOAA/PMEL. It runs on recent Unix and Mac systems, using X windows for display. PyFerret, introduced in 2012, is a Python module wrapping Ferret.
 
 [pnmio](https://github.com/JeffIrwin/pnmio): I/O routines for portable anymap image files (.pbm, .pgm, .ppm), by Jeff Irwin. Currently only output routines are provided. 
