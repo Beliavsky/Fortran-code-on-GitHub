@@ -2060,6 +2060,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [flibhpc](https://github.com/swig-fortran/flibhpc): uses SWIG-Fortran to generate Fortran-2003 wrappers to common high performance computing (HPC) libraries. It can be used as a support library for other libraries that want to generate MPI-friendly Fortran wrappers to their code, or used by application developers who want to adapt Fortran CUDA/OpenACC code to their C++ kernels.
 
+[fodbc](https://github.com/rbarrel/fodbc): interface to Open Database Connectivity ([ODBC](https://en.wikipedia.org/wiki/Open_Database_Connectivity)), by RainBarrel
+
 [fortran-cython-examples](https://github.com/Nicholaswogan/fortran-cython-examples): examples for how to wrap Fortran with Cython, by Nick Wogan
 
 [fortran-in-python](https://github.com/HugoMVale/fortran-in-python): examples of how to build and call Fortran modules in Python using ctypes and f2py, by HugoMVale
