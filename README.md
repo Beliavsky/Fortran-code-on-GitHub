@@ -1712,7 +1712,7 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [fortran-tuto](https://github.com/HamzaM3/fortran-tuto): code of the Fortran [video tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8&ab_channel=DerekBanas) by Derek Banas
 
-[githubactions_intro](https://github.com/ofmla/githubactions_intro): introduce Github Actions as a tool for lightweight automation of scientific data workflows, with examples in Python and Fortran using gnuplot, by Oscar Mojica
+[githubactions_intro](https://github.com/ofmla/githubactions_intro): introduces Github Actions as a tool for lightweight automation of scientific data workflows, with examples in Python and Fortran using gnuplot, by Oscar Mojica
 
 [Introduction to Fortran Debugging](https://github.com/aperezhortal/fortran_debugging_introduction): reviews the most common types of errors and
 present simple ways to locate and correct those errors without the use of any debugging applications, by Andres Perez Hortal. The common errors are illustrated using simple Fortran applications where the simple debugging techniques are applied.
