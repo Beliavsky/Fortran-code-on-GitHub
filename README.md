@@ -940,6 +940,8 @@ nscapin
 
 [Supersonic TuRbulEnt Accelerated navier stokes Solver (STREAMS)](https://github.com/matteobernardini/STREAmS): performs Direct Numerical Simulations of compressible turbulent flows in Cartesian geometry solving the unsteady, fully compressible Navier-Stokes equations for a perfect gas, by matteobernardini et al. Currently, three canonical wall-bounded flows can be simulated: compressible turbulent channel flow, compressible zero-pressure-gradient turbulent boundary layer, and supersonic oblique shock-wave/turbulent boundary-layer interaction.
 
+[Synthetic Eddy Method (SEM)](https://github.com/blackcata/SEM): code associated with paper [Extended synthetic eddy method to generate inflow data for turbulent thermal boundary layer](https://www.sciencedirect.com/science/article/abs/pii/S0017931018332289), by Geunwoo Oh et al., International Journal of Heat and Mass Transfer, 2019. A related project is [Synthetic-Eddies](https://github.com/Niceno/Synthetic-Eddies) by Bojan Niceno.
+
 [Turbulent Flows (T-Flows)](https://github.com/DelNov/T-Flows): computational fluid dynamics program originally developed at Delft University of Technology, the Netherlands. It features second order accurate, unstructured, cell-centered, finite volume discretization of incompressible Navier-Stokes equations with heat transfer and species transport. It is written in Fortran 90 and uses Message Passing Interface (MPI) for parallel execution.
 
 [tlab](https://github.com/turbulencia/tlab): Tools to simulate and analyze turbulent flows in 2D and 3D configurations, from turbulencia. The numerical schemes are based on compact finite differences with structured meshes, where grid stretching allowed. Time advancement in based on Runge-Kutta schemes.
