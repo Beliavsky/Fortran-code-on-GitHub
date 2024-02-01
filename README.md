@@ -3291,6 +3291,8 @@ Ioannis Nompelis
 
 [TemkinPoetParallel](https://github.com/afrapic/TemkinPoetParallel): solves the scattering problem (electron-Hydrogen atom) in the Temkin-Poet model using MPI, by Ana Laura Frapiccini
 
+[Temperature Dependent Effective Potentials (TDEP)](https://github.com/tdep-developers/tdep): tools to build accurate model Hamiltonians for finite temperature lattice dynamics from first principles, associated with a [paper](https://joss.theoj.org/papers/10.21105/joss.06150) by Florian Knoop et al. in the Journal of Open Source Software
+
 [Themis](https://github.com/colombarifm/themis): statistical mechanics software designed to obtain the association thermodynamics of two structures (ions, molecules, crystals, nanoparticles, etc), by colombarifm. It generates a configurational partition function by systematically sampling the phase space using discrete grids to perform translations and rotations of one structure around another.
 
 [thermopack](https://github.com/SINTEF/thermopack): thermodynamic model library for fluid properties and PVT calculations, from SINTEF
