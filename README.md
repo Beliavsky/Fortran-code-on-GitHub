@@ -1392,6 +1392,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [Tracmass](https://github.com/TRACMASS/Tracmass): Lagrangian trajectory code for ocean and atmospheric general circulation models, by Aitor Aldama and Kristofer Döös. The code makes it possible to estimate water paths, Lagrangian stream functions (barotropic, overturning, etc.), exchange times, etc.
 
+[Tropospheric ultraviolet-extended ([TUV-x])](https://github.com/NCAR/tuv-x): photolysis rate calculator from NCAR. Associated paper: Madronich, Sasha, and Siri Flocke (1999), [The role of solar radiation in atmospheric chemistry](https://link.springer.com/chapter/10.1007/978-3-540-69044-3_1), in Handbook of Environmental Chemistry, edited by P. Boule, pp. 1-26, Springer-Verlag.
+
 [trnfsp3n](https://github.com/Geo-Linux-Calculations/trnfsp3n): Fortran 77 code for transforming GPS orbit files in SP3 format between different realizations of ITRF's, from Geo-Linux-Calculations
 
 [TSMP](https://github.com/HPSCTerrSys/TSMP): Terrestrial System Modeling Platform (TSMP or TerrSysMP, https://www.terrsysmp.org) is a scale-consistent, highly modular, massively parallel regional Earth system model, from HPSCTerrSys
