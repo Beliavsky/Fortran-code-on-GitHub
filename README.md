@@ -3037,6 +3037,8 @@ Ioannis Nompelis
 ## Particle Physics
 [APFEL: A Parton Distribution Function Evolution Library](https://github.com/scarrazza/apfel): performs DGLAP evolution up to NNLO in QCD and to NLO in QED, both with pole and MSbar masses. The coupled DGLAP QCD+QED evolution equations are solved in x-space by means of higher order interpolations and Runge-Kutta techniques.
 
+[bmad-ecosystem](https://github.com/bmad-sim/bmad-ecosystem): library for the simulation of charged particles and X-rays in accelerators and storage rings, by David Sagan et al.
+
 [Cosmic ray and HadROnic interactiOn MOnte-carlo frontend (chromo)](https://github.com/impy-project/chromo): generic user interface to popular event generators used in cosmic ray and high-energy particle physics, from impy-project
 
 [Cyclone](https://github.com/BruceMilton/Cyclone): cyclotron orbit code by Bruce F. Milton. It calculates orbits using both magnetic and electric field maps and is therefore useful for central region design.
