@@ -1568,6 +1568,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [Fortran-OpenPMD-File-Writers](https://github.com/UCLA-Plasma-Simulation-Group/Fortran-OpenPMD-File-Writers): writes in parallel 2D/3D mesh field data and particle data into HDF5 files using the OpenPMD standard, by Frank S. Tsung et al.
 
+[fortran-sperr](https://github.com/ofmla/fortran-sperr): interface bindings by Oscar Mojica to [SPERR](https://github.com/NCAR/SPERR) a lossy scientific (floating-point) data compressor in C and C++ that produces one of the best rate-distortion curves
+
 [Fortran-YAML](https://github.com/BoldingBruggeman/fortran-yaml): lightweight YAML parser written in object-oriented Fortran, by jombr et al.
 
 [fortran-yaml-cpp](https://github.com/Nicholaswogan/fortran-yaml-cpp): YAML parser for Fortran matching the YAML 1.2 spec, by Nick Wogan. This package uses the C++ package yaml-cpp to parse yaml documents and then stores the data in Fortran derived types created by fortran-yaml.
