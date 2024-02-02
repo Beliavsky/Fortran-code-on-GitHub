@@ -1173,6 +1173,8 @@ engine, by montagdude and Geoff Sokoll
 
 [ICM_Hydro](https://github.com/CPRA-MP/ICM_Hydro): code corresponding to paper "Ecohydrology component of Louisiana’s 2012 Coastal Master Plan: mass-balance compartment model"
 
+[IF-77 Air-to-Ground Propagation Model (Gierhart-Johnson)](https://github.com/NTIA/if77-gierhart-johnson): propagation model from the Federal Aviation Administration applicable to air/ground, air/air, ground/satellite, and air/satellite paths. It can also be used for ground/ground paths that are line-of-sight or smooth earth.
+
 [illumina](https://github.com/aubema/illumina): Monte Carlo based radiative transfer model aimed to simulate the artificial light at night propagation into the environment, by Alexandre Simoneau et al. The model typically uses satellite data and locally acquired data as inputs.
 
 [IMEX_SfloW2D](https://github.com/demichie/IMEX_SfloW2D): models shallow water granular flows over digital elevation models (DEMs) of natural terrain, with the friction forces described by the Voellmy-Salm rheology, by Mattia de' Michieli Vitturi. The system is described by an hyperbolic system of partial differential equations with relaxation and source terms.
