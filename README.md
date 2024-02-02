@@ -3108,6 +3108,8 @@ Ioannis Nompelis
 
 [RAYS](https://github.com/ORNL-Fusion/RAYS): plasma ray tracing code from ORNL-Fusion. The primary objective is to provide a starting point for discussion of what a modern ray tracing code, built on a green-field site might look like.
 
+[Reactive Multifluid and Kinetic Transport in 1D (ReMKiT1D)](https://github.com/ukaea/ReMKiT1D): framework for building 1D multi-fluid models of the tokamak Scrape-Off Layer with support for kinetic electron effects and collisional-radiative modelling, by Stefan Mijin and Alfie Adhemar
+
 [SCENE](https://github.com/PlasmaFAIR/SCENE): tokamak equilibrium solver which can generate equilibria in a variety of file formats, from PlasmaFAIR
 
 [stella](https://github.com/stellaGK/stella): solves the gyrokinetic-Poisson system of equations in the local limit using an operator-split, implicit-explicit numerical scheme, by Denis St-Onge et al. It is capable of evolving electrostatic fluctuations with fully kinetic electrons and an arbitrary number of ion species in general magnetic geometry, including stellarators.
