@@ -2078,6 +2078,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fortran-in-python](https://github.com/HugoMVale/fortran-in-python): examples of how to build and call Fortran modules in Python using ctypes and f2py, by HugoMVale
 
+[FortranInterop](https://github.com/Vereyon/FortranInterop): documentation and example code on how to make Fortran interoperate with the .NET framework, covering callbacks, strings and mixed mode assemblies, by Christ Akkermans, with links to three blog posts.
+
 [Fortran-Lua-hook library (flook)](https://github.com/ElectronicStructureLibrary/flook): allows abstraction of input files to be pure Lua files to enable configuration of internal variables through an embedded Lua interpreter. Any valid Lua script can be executed from within any fortran application at points where the application creates Lua channels. Its main usage is the ability to change run-time variables at run-time in order to optimize, or even change, the execution path of the parent program.
 
 [forpy](https://github.com/ylikx/forpy): use Python in Fortran and vice versa
