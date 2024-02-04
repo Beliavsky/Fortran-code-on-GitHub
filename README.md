@@ -2277,7 +2277,7 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [linear_system_solvers](https://github.com/M-Badri/linear_system_solvers): wrappers by M-Badri for libraries solving systems of linear equations, including [Lis: Library of Iterative Solvers for Linear Systems](https://www.ssisc.org/lis/index.en.html)
 
-[LSMR](https://github.com/jacobwilliams/LSMR): code for sparse equations and least squares, originally by David Fong, Michael Saunders, updated by Jacob Williams
+[LSMR](https://github.com/jacobwilliams/LSMR): code for sparse equations and least squares, originally by David Fong and Michael Saunders, updated by Jacob Williams
 
 [LSQR](https://github.com/jacobwilliams/LSQR): Fortran 2008 edition of [LSQR](https://web.stanford.edu/group/SOL/software/lsqr/), a conjugate-gradient type method for solving sparse linear equations and sparse least-squares problems, by Jacob Williams.
 
