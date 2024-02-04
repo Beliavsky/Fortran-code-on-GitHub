@@ -2978,7 +2978,7 @@ Ioannis Nompelis
 
 [NVIDIA OpenACC Course Sources and Labs](https://github.com/NVIDIA-OpenACC-Course/nvidia-openacc-course-sources): contains sources related to the lectures and labs for the [NVIDIA OpenACC course](https://developer.nvidia.com/openacc-courses).
 
-[OpenACC Official Training Materials](https://github.com/OpenACC/openacc-training-materials): training materials by Jeff Larkin et al., covering profiling, OpenACC directives, GPU programming, data management, and loop optimizations, with code exampls in Fortran, C, and C++
+[OpenACC Official Training Materials](https://github.com/OpenACC/openacc-training-materials): training materials by Jeff Larkin et al., covering profiling, OpenACC directives, GPU programming, data management, and loop optimizations, with code examples in Fortran, C, and C++. The [OpenACC Porting and Portability Guide](https://github.com/OpenACC/openacc-best-practices-guide) contains a proposed workflow when refactoring an existing application to use OpenACC, with xamples provided in C/C++ and Fortran.
 
 [OpenCoarrays](https://github.com/sourceryinstitute/OpenCoarrays): parallel application binary interface for Fortran 2018 compilers, from sourceryinstitute
 
