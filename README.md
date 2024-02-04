@@ -3749,7 +3749,7 @@ Ioannis Nompelis
 
 [strith](https://github.com/degawa/strith): converts a variable representing a long integer into a string by performing arithmetic operations on numbers in strings, by Tomohiro Degawa
 
-[utf8-f](https://github.com/St-Maxwell/utf8-f): UTF-8 manipulation, by St-Maxwell. The underlying data in a utf8_string object is a deferred-length string of character(len=:, kind=c_char) type.
+[utf8-f](https://github.com/St-Maxwell/utf8-f): UTF-8 manipulation, by St-Maxwell. The underlying data in a utf8_string object is a deferred-length string of `character(len=:, kind=c_char)` type.
 
 ## Time Series
 [ACFbyFFT](https://github.com/lingtikong/ACFbyFFT): evaluates the auto(cross)-correlation of data in one or more columns of a file, by using the fftw 3.1.2 libraries, by lingtikong
