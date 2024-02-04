@@ -621,7 +621,7 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [gibbs2](https://github.com/aoterodelaroza/gibbs2): calculates pressure and temperature dependent thermodynamic properties of solids from ab initio results, by aoterodelaroza
 
-[GWMlib](https://github.com/dmr-dj/GWMlib): Generic Water isotope Modelling Librarym, by Didier M. Roche
+[GWMlib](https://github.com/dmr-dj/GWMlib): Generic Water isotope Modelling Library, by Didier M. Roche
 
 [HFB](https://github.com/knappf/HFB): Hartree-Fock-Bogolyubov code for (hyper)nuclear structure calculations (version by P. Vesely)
 
