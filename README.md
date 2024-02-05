@@ -903,6 +903,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [NTUSTCFDLAB](https://github.com/HSUAN221/NTUSTCFDLAB): code for 3D flow using projection method with FVM, by HSUAN221. Navier Stokes equations are solved for velocity and pressure fields. 
 
+[nuwtun](https://github.com/cpraveen/nuwtun): adjoint code for 1-D and 2-D Euler equations are developed using automatic differentiation tool [Tapenade](http://tapenade.inria.fr:8080/tapenade/index.jsp), by cpraveen. A piecemeal approach is used in which the subroutines in the flow solver are differentiated individually and used in an adjoint iterative solver.
+
 [OFF](https://github.com/szaghi/OFF): solve, numerically, the Navier-Stokes equations of fluid dynamics by means of Finite Volume technique, by szaghi and giacrossi 
 
 [OpenMHD](https://github.com/zenitani/OpenMHD): one/two-dimensional magnetohydrodynamic (MHD) codes, by zenitani
