@@ -917,6 +917,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [phasta](https://github.com/PHASTA/phasta): Parallel Hierarchic Adaptive Stabilized Transient Analysis of compressible and incompressible Navier Stokes equations
 
+[preCICE fortran-module](https://github.com/precice/fortran-module): interface to [preCICE](https://precice.org/), an open-source coupling library for partitioned multi-physics simulations, including, but not restricted to fluid-structure interaction and conjugate heat transfer simulations
+
 [Propeller Panel Method (PROPAN)](https://github.com/joaomrbaltazar/PROPAN): panel code for the calculation of steady and unsteady potential flow around foils, open and ducted propellers, and wind and marine current turbines. PROPAN was developed by MARETEC (Marine and Environmental Technology Research Centre) at Instituto Superior Técnico (IST), which belongs to Lisbon University.
 
 [ps3d](https://github.com/matt-frey/ps3d): pseudo-spectral code for turbulent flows in 3D, associated with the paper [The stability of inviscid Beltrami flow between parallel free-slip impermeable boundaries](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/stability-of-inviscid-beltrami-flow-between-parallel-freeslip-impermeable-boundaries/B34AC971DD2262386BB10E9E76E7646C), by David Dritschel and Matthias Frey, Journal of Fluid Mechanics (2023)
