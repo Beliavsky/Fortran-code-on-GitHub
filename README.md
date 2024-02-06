@@ -3099,6 +3099,8 @@ Ioannis Nompelis
 
 [aorsa3d](https://github.com/ORNL-Fusion/aorsa3d): solves for the wave electric field and heating in a 3-D stellerator plasma heated by radio frequency waves using an all orders spectral algorithm, by Naoto Tsujii and David L. Green
 
+[Arbitrary Linear Plasma Solver (ALPS)](https://github.com/danielver02/ALPS): parallelised numerical code that solves the Vlasov-Maxwell dispersion relation in hot (even relativistic) magnetised plasma, associated with paper [ALPS: the Arbitrary Linear Plasma Solver](https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/alps-the-arbitrary-linear-plasma-solver/B05A3FFAA8875A37A1BDB128DEB58EA1) by Verscharen, D., Klein, K. G., Chandran, B. D. G., Stevens, M. L., Salem, C. S., and Bale, S. D.: , J. Plasma Phys. (2018)
+
 [EDIPIC-2D](https://github.com/PrincetonUniversity/EDIPIC-2D): 2D version of [EDIPIC](https://github.com/PrincetonUniversity/EDIPIC), a particle-in-cell code developed for low temperature plasma applications, by Dmytro Sydorenko et al..
 
 [Flexible Optimized Coils Using Space curves (FOCUS)](https://github.com/PrincetonUniversity/FOCUS): nonlinear optimization code for designing 3D coils. Its sibling, FAMUS, can be use to design permanent magnets.
