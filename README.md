@@ -411,6 +411,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [Automatic Lidar and Ceilometer Processing Framework (ALCF)](https://github.com/alcf-lidar/alcf): tool for processing of automatic lidar and ceilometer (ALC) data and intercomparison with atmospheric models such as general circulation models (GCMs), numerical weather prediction models (NWP) and reanalyses with a lidar simulator using the COPS instrument simulator framework running offline on model output
 
+[CAPE](https://github.com/KlemensBarfus/CAPE): calculates Convectively Available Potential Energy (CAPE), which describes the instabilily of the atmosphere and provides an approximation of updraft strength within a thunderstorm, by Klemens Barfus
+
 [C_ClWxSim](https://github.com/RosesHaveThorns/C_ClWxSim): very simplistic weather and climate simulator for worldbuilding, from RosesHaveThorns
 
 [Climate Modelling and Diagnostics Toolkit (climt)](https://github.com/CliMT/climt): Python based library which provides a modular and intuitive approach to writing numerical models of the climate system. climt provides state-of-the art components and an easy-to-use interface to allow writing research quality models without modifying the underlying Fortran code.
