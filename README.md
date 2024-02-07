@@ -2535,6 +2535,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [mlxanes](https://github.com/tneth/mlxanes): machine learning x-ray absorption near edge structure: An OpenMP parallelised multivariate linear regression Fortran program for predicting XANES spectra from an xyz file, by tneth
 
+[nerofort](https://github.com/rae-ra/nerofort): implements a convolutional neural network (CNN), by Rares Polenciuc, inspired by the instructions provided in [Python and Machine Learning](https://pythonandml.github.io/dlbook/content/intro.html)
+
 [neural-fortran](https://github.com/modern-fortran/neural-fortran): parallel neural net microframework, from modern-fortran
 
 [Neural Network](https://github.com/anjohan/neuralnetwork): simple, fully connected, dense, deep neural network, implemented in modern Fortran and parallelised using coarrays, by anjohan
