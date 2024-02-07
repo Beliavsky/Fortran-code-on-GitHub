@@ -160,6 +160,8 @@ by ShinobuAmasaki.
 
 [Just Another Vehicle for Estimating Lags In Nuclei (JAVELIN)](https://github.com/nye17/javelin): version of the SPEAR algorithm written in Python to provide more flexibility in both functionality and visualization. One can use JAVELIN to model quasar variability using different covariance functions (Zu et al. 2013), and measure emission line lags using either spectroscopic light cruves (Zu et al. 2011) or photometric light curves (Zu et al. 2016).
 
+[K2_Fortran_Modules](https://github.com/rootware/K2_Fortran_Modules): modules for space weather modelling by Shah Saad Alam, associated with paper [Simulation of radiation belt wave-particle interactions in an MHD-particle framework](https://www.frontiersin.org/articles/10.3389/fspas.2023.1239160/full), by Anthony A. Chan et al., Front. Astron. Space Sci. (2023)
+
 [kcarta_gen](https://github.com/sergio66/kcarta_gen): fast, accurate, easy-to-use pseudo-monochromatic radiative transfer code, by sergio66
 
 [KiloNova Explosion Code (kNEC)](https://github.com/StevenWu1999/KNEC): simulates hydrodynamical evolution of BNS merger ejecta and the corresponding kilonova emission, by Zhenyu Wu. It is based on the SNEC code by Morozova et al., which is a Lagrangian radiation-hydrodynamics code for core-collapse supernova explosion.
