@@ -3292,6 +3292,8 @@ Ioannis Nompelis
 
 [PyHub](https://github.com/Quentin-Marecat/PyHub): easy-to-use, hybrid Python/Fortran package to solve efficiently the Fermi-Hubbard Model, by Quentin Marecat
 
+[qdyn](https://github.com/PHOTOX/qdyn): program for N-dimensional numerical quantum propagation on a grid, by Jiri Janos, Jiri Suchan, and Petr Slavicek
+
 [Quantum Annealing Machine Emulator](https://github.com/camsenec/qa-emulator): quantum annealing simulation on SpinGlass model using Path Integral Monte Carlo method, by Tomoya Tanaka
 
 [raytracer_3D](https://github.com/ceden/raytracer_3D): simulates the radiative energy transfer equation for internal gravity waves in 6 dimensions, by ceden
