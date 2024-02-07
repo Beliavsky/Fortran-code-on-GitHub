@@ -793,6 +793,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [asimov-ccs](https://github.com/asimovpp/asimov-ccs): CFD and combustion code designed to scale to large numbers of cores. It follows a "separation of concerns' design that separates interfaces from implementations, and physics from parallelisation.
 
+[astr](https://github.com/astr-code/astr): high-order finite-difference flow solver for compressible turbulence research, by Jian Fang et al.
+
 [Broadcast](https://github.com/onera/Broadcast): discretises the compressible Navier-Stokes equations and then extracts the linearised N-derivative operators through Algorithmic Differentiation (AD), providing a toolbox for laminar flow dynamics. Associated paper: [BROADCAST: A high-order compressible CFD toolbox for stability and sensitivity using Algorithmic Differentiation](https://www.sciencedirect.com/science/article/abs/pii/S0010465522002764), by Arthur Poulain et al., Computer Physics Communications, Volume 283, 2023, 108557.
 
 [C81-Interface](https://github.com/cibinjoseph/C81-Interface): parses and creates C81 formatted airfoil tables, by Cibin Joseph
