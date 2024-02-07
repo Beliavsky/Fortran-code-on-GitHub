@@ -764,6 +764,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [M_hashkeys](https://github.com/urbanjost/M_hashkeys): collection of hash key generator modules, by urbanjost
 
+[Multidimensional Array Containers (MAC)](https://github.com/irukoa/MAC): library to create and manipulate arrays of any rank, by Álvaro R. Puente-Uriona, meant to serve as a building block for codes that expand on "rank-agnostic" programming
+
 [multidim_loop_iterator](https://github.com/grofz/multidim_loop_iterator): versatile iterator for multi-dimensional loops with customizable lower bounds, upper bounds, and strides for each dimension, by Zdenek Grof. It simplifies the process of iterating over multi-dimensional arrays by abstracting the complexities of nested loops.
 
 [PolyCon](https://github.com/cmacmackin/PolyCon): abstract container derived type which can be used as a sort of unlimited polymorphic entity whose contents are retrievable with type-guards, by Chris MacMackin. Different subclasses are created in order to hold different data-types.
