@@ -992,6 +992,8 @@ engine, by montagdude and Geoff Sokoll
 
 [Adjoint-state Traveltime Tomography (ATT_training)](https://github.com/MIGG-NTU/ATT_training): adjoint-state traveltime tomography (ATT) in the Cartesian coordinates. The details of the algorithm can be found at Tong, P. (2021). Adjoint-state traveltime tomography: Eikonal equation-based methods and application to the Anza area in southern California. Journal of Geophysical Research: Solid Earth, 126, e2021JB021818. https://doi.org/10.1029/2021JB021818.
 
+[Advanced Lake Biogeochemistry Model (ALBM)](https://github.com/tanzeli1982/ALBM): one-dimensional process-based lake biogeochemistry model that was developed by Zeli Tan to predict the response of lake thermal and carbon dynamics and water quality to environmental changes (Tan et al., 2015, 2017, 2018)
+
 [aerobulk](https://github.com/brodeau/aerobulk): gathers state-of-the-art aerodynamic bulk formulae algorithms used to compute turbulent air-sea fluxes of momentum, heat and freshwater, by brodeau and einola
 
 [AGNI](https://github.com/nichollsh/AGNI): 1D radiative-convective model for the atmospheres of hot terrestrial planets, in Fortran and Julia, by Harrison Nicholls
