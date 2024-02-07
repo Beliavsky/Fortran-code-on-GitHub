@@ -224,6 +224,8 @@ by ShinobuAmasaki.
 
 [python-fsps](https://github.com/dfm/python-fsps): Python bindings to Charlie Conroy's Flexible Stellar Population Synthesis (FSPS) Fortran code
 
+[radbelt](https://github.com/jacobwilliams/radbelt): AE-8/AP-8 Van Allen belt model, describing the differential or integral, omnidirectional fluxes of electrons (AE-8) and protons (AP-8) in the inner and outer radiation belts, by Jacob Williams
+
 [RADMC-3D Version 2.0](https://github.com/dullemond/radmc3d-2.0): computes the observational appearance of an astrophysical object on the sky of the observer, by dullemond. It solves the non-local radiative transfer problem of dusty media, including thermal radiative transport and scattering.
 
 [radtrancode](https://github.com/nemesiscode/radtrancode): radiative transfer calculations and retrievals, originally written in Oxford University.
