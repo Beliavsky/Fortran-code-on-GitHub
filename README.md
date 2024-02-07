@@ -3324,6 +3324,8 @@ Ioannis Nompelis
 
 [Spherical-Coordinate Implicit Derivatives time-dependent Schroedinger equation (SCID-TDSE)](https://github.com/MBI-Theory/scid-tdse): numerical solution of TDSE for a one-electron atom subject to a laser field, by Serguei Patchkovskii. TDSE is solved in spherical coordinates, with the laser field treated in the velocity-gauge dipole approximation.
 
+[Solid state Task Constructor (SsTC)](https://github.com/irukoa/SsTC): high-perfomance computing oriented library to create integration and sampling tasks in the BZ of a crystal for k-dependent functions, by Álvaro R. Puente-Uriona
+
 [streamer_1d](https://github.com/jannisteunissen/streamer_1d): 1D discharge simulations with a particle-in-cell or fluid model, by Jannis Teunissen
 
 [Symplectic Integration Methods for Particle Loss Estimation (SIMPLE)](https://github.com/itpplasma/SIMPLE): computes statistical losses of guiding-center orbits for particles of given mass, charge and energy from the volume of 3D magnetic configurations, by Christopher Albert et al. Orbits are traced via a symplectic integrator that guarantees conservation of invariants of motion within fixed bounds over long integration periods. 
