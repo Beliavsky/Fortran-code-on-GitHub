@@ -620,6 +620,8 @@ simulating and forecasting meteorological phenomena.
 
 [Flexible Atomic Code (fac)](https://github.com/flexible-atomic-code/fac): software packge for the calculation of various atomic processes, by Ming Feng Gu
 
+[fenvelopes](https://github.com/ipqa-research/fenvelopes): calculate phases boundaries of multicomponent systems using Equations of State, currently supporting PT envelopes and PX envelopes with partial three-phase-behaviour, by Federico E. Benelli
+
 [Fermi-orbital descriptor Monte-Carlo (fodMC)](https://github.com/pyflosic/fodMC): generator for Fermi-orbital descriptor (FOD) positions
 to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) method, described in paper [Interpretation and automatic generation of Fermi-orbital descriptors](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.26062), S. Schwalbe, K. Trepte, et al., Journal of Computational Chemistry, vol. 40, pp. 2843-2857, 2019    
 
