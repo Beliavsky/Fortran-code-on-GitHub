@@ -62,6 +62,8 @@
 
 [TapTempo Fortran](https://github.com/vmagnin/TapTempo-Fortran): command line taptempo written in modern Fortran, by Vincent Magnin. Listen to a song and hit enter key with style and you'll get the corresponding number of beats per minute (BPM). 
 
+[Tonbandfetzen](https://github.com/janberges/Tonbandfetzen): collection of command-line tools to compose music based on audio fragments generated from plain text input, by Jan Berges
+
 [uzura3](https://github.com/cure-honey/uzura3): mpeg audio layer 3 encoder written in Fortran 90/95 (mp3 encoder), by cure-honey. There is also [uzura1_fpm](https://github.com/cure-honey/uzura1_fpm) that works with the Fortran Package Manager.
 
 [XenakisFreeStochasticMusicFortran](https://github.com/ThemosTsikas/XenakisFreeStochasticMusicFortran): working versions of a Xenakis FORTRAN program (Xenakis 1971 Formalized Music p 149)
