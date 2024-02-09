@@ -3242,6 +3242,8 @@ Ioannis Nompelis
 
 [Guided_Missile_Simulation](https://github.com/bgin/Guided_Missile_Simulation): Air-to-Air Missile Simulation written in modern Fortran, by bgin
 
+[honeycombinations](https://github.com/janberges/honeycombinations): simulates adsorbate structures on graphene via tight binding and Monte Carlo, by Jan Berges
+
 [inverse-obstacle-scattering2d](https://github.com/flatironinstitute/inverse-obstacle-scattering2d): solves inverse obstacle scattering problems to recover the shape of the obstacle for sound soft, sound hard, and penetrable objects, by Manas Rachh and Travis Askham
 
 [IrisFDTD-Academic](https://github.com/IrisFDTD/IrisFDTD-Academic): implements the Finite-Difference Time-Domain (FDTD) method. It is a "toy version" of the [IrisFDTD](https://github.com/IrisFDTD/IrisFDTD) program, a Maxwell’s equations solver in the field of computational electrodynamics for photonics and nanotechnology, by Sergio G Rodrigo.
