@@ -3196,6 +3196,8 @@ Ioannis Nompelis
 
 [DSLEAP](https://github.com/Jonathan271828/DSLEAP): algorithms for determining lattice oscillations. [Reference](https://arxiv.org/abs/2101.06099): "Anharmonic lattice dynamics in large thermodynamic ensembles with machine-learning force fields: the breakdown of the phonon quasiparticle picture in CsPbBr3", by Jonathan Lahnsteiner and Menno Bokdam
 
+[ebmb](https://github.com/janberges/ebmb): solve multiband Eliashberg equations of superconductivity, by Jan Berges
+
 [EDRIXS](https://github.com/NSLS-II/edrixs): simulates RIXS spectra based on exact diagonalization (ED) for strongly correlated materials. Associated paper: [EDRIXS: An open source toolkit for simulating spectra of resonant inelastic x-ray scattering](https://www.sciencedirect.com/science/article/abs/pii/S0010465519301353), Y.L. Wang, G. Fabbris, M.P.M. Dean and G. Kotliar, Computer Physics Communications, 243, 151 (2019),
 
 [electron-phonon Boltzmann transport (elphbolt)](https://github.com/nakib/elphbolt): Fortran 2018 code for solving the coupled electron and phonon Boltzmann transport equations (BTEs), by nakib. Using ab initio electron-phonon and phonon-phonon interactions and a fully wave vector and electron band/phonon branch resolved formulation of the BTEs, elphbolt can calculate the phonon and electronic thermal conductivities; electronic conductivity; phonon and electronic contributions to the thermopower; and effect of the mutual electron-phonon drag on the transport coefficients listed above.
