@@ -3431,6 +3431,8 @@ Ioannis Nompelis
 
 [HANDE](https://github.com/hande-qmc/hande): efficient, highly parallel code for stochastic quantum chemistry. It can be used both as a standalone program or (optionally) as a library from an existing quantum chemistry code.
 
+[hartree-fock](https://github.com/lukaswittmann/hartree-fock): simple implementation of the Hartree-Fock algorithm, by Lukas Wittmann. STO-nG basis sets are used, which are generated from Slater exponents given in the input file.
+
 [Hefei Order-N Packages for Ab initio Simulations (HONPAS)](https://github.com/xmqin/HONPAS): ab-initio electronic structure calculation software package for linear scaling first-principles density functional theory (DFT) calculations of large-scale systems with standard norm-conserving pseudopotentials and numerical atomic orbitals (NAOs) under the periodic boundary conditions, by xmqin
 
 [hfsolver](https://github.com/certik/hfsolver): Hartree Fock solver by certik
