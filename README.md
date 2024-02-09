@@ -3162,6 +3162,8 @@ Ioannis Nompelis
 
 [BDpack](https://github.com/amir-saadat/BDpack): GPU-enabled Brownian dynamics package for simulation of polymeric solutions, by Amir Saadat. An associated paper is [Computationally efficient algorithms for incorporation of hydrodynamic and excluded volume interactions in Brownian dynamics simulations: A comparative study of the Krylov subspace and Chebyshev based techniques](https://pubmed.ncbi.nlm.nih.gov/24832302/), A. Saadat and B. Khomami, J. Chem. Phys., 140, 184903 (2014).
 
+[Biased-versus-unbiased-codes](https://github.com/jvrglr/Biased-versus-unbiased-codes): Python and Fortran codes used to generate plots in J. Aguilar, J.J. Ramasco, and R. Toral [Biased versus unbiased numerical methods for stochastic simulations: application to contagion processes](https://arxiv.org/abs/2305.02902)
+
 [Bose-Einstein_Condensates](https://github.com/brito-leonardo/Bose-Einstein_Condensates): solve Bose-Einstein condensates problems and related algebraic problems in quantum mechanics, with Fortran 90 and Python 3 languages, by brito-leonardo
 
 [Cartesian-coordinate Oblique-boundary Particles and Thermals In Cell (COPTIC)](https://github.com/ihutch/COPTIC):  moves particles in three dimensions of space and time (6 phase-space dimensions) and simultaneously calculates the self-consistent electrostatic potential in the presence of a neutralizing species governed by a thermal Boltzmann factor, or of a second particle species, by ihutch and chaako
