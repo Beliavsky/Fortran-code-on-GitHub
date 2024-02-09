@@ -3473,6 +3473,8 @@ Ioannis Nompelis
 
 [omm-bundle](https://github.com/ElectronicStructureLibrary/omm-bundle): library implementing the orbital minimization method for solving the Kohn-Sham equation as a generalized eigenvalue problem, by Fabiano Corsetti et al.
 
+[openLOWDIN](https://github.com/efposadac/openLOWDIN): quantum chemistry code designed to perform calculations on multi-species systems using the MultiComponent Molecular Orbital method. Associated paper: R. Flores-Moreno et al., [LOWDIN: The any particle molecular orbital code](https://onlinelibrary.wiley.com/doi/10.1002/qua.24500). Int. J. Quantum Chem. (2014).
+
 [OpenMolcas](https://github.com/Molcas/OpenMolcas): quantum chemistry software package developed by scientists and intended to be used by scientists. It includes programs to apply many different electronic structure methods to chemical systems, but its key feature is the multiconfigurational approach, with methods like CASSCF and CASPT2.
 
 [Optados](https://github.com/optados-developers/optados): calculates core-electron and low-loss electron energy loss spectra (EELS) and optical spectra along with total-, projected- and joint-density of electronic states (DOS) from single-particle eigenenergies and dipole transition coefficients.
