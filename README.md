@@ -3381,6 +3381,8 @@ Ioannis Nompelis
 
 [cct3](https://github.com/piecuch-group/cct3): plugin to [PSI4](https://psicode.org/) capable of executing a number of closed- and open-shell coupled-cluster (CC) calculations with up to triply excited (T3) clusters, by J. Emiliano Deustua et al.
 
+[CONQUEST](https://github.com/OrderN/CONQUEST-release): density functional theory (DFT) code designed for large-scale calculations, with excellent parallelisation, by David Bowler et al. It gives a consistent, exact diagonalisation approach for systems from 1 to 10,000+ atoms, and brings the possibility of linear scaling calculations on over 1,000,000 atoms.
+
 [Cornell-Holland Ab-initio Materials Package (CHAMP)](https://github.com/QMC-Cornell/CHAMP): quantum Monte Carlo suite of programs for electronic structure calculations on a variety of systems (atoms, molecules, clusters, solids and nanostructures) principally by Cyrus Umrigar, Claudia Filippi, Julien Toulouse et al.
 
 [cp2k](https://github.com/cp2k/cp2k): quantum chemistry and solid state physics software package that can perform atomistic simulations of solid state, liquid, molecular, periodic, material, crystal, and biological systems
