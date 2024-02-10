@@ -3582,6 +3582,8 @@ Ioannis Nompelis
 
 [rngff](https://github.com/Archaeologic-Inc/rngff): unified abstract interface for an object-oriented random number generator and a collection of implementations using various algorithms, by Brad Richardson
 
+[rng](https://github.com/JeffIrwin/rng): module for Mersenne twister (MT) pseudo-random number generation, by Jeff Irwin
+
 [rng_fortran](https://github.com/jannisteunissen/rng_fortran): generates random integers, uniform, normal, and Poisson variates, and random points on a circle or sphere, using the xoroshiro128plus generator, by Jannis Teunissen
 
 [sobseq](https://github.com/DaanVanVugt/sobseq): generates points in Sobol series, in a continuous or strided (2^n) manner, by Daan van Vugt and Koen Beljaars. The Sobol sequence is a low-discrepancy sequence that can be used for more efficient (Quasi-)Monte-Carlo integration.
