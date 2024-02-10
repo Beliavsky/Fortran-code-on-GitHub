@@ -3671,6 +3671,8 @@ Ioannis Nompelis
 
 [Functional Single Index Model (FSIM)](https://github.com/sbaek306/FSIM): codes for simulations and real data analysis, which appears in the manuscript entitled, "Functional Single Index Model" by Jiang, F., Baek, S., Cao, J., and Ma, Y.
 
+[gcvspline](https://github.com/charlesll/gcvspline): Python wrapper by Charles Le Losq of Fortran code from the paper [A Fortran package for generalized, cross-validatory spline smoothing and differentiation](https://www.sciencedirect.com/science/article/abs/pii/0141119586900987), by Herman J. Woltring, Advances in Engineering Software (1986). There is also Alan Miller's update of the [TOMS 642 code](https://dl.acm.org/doi/abs/10.1145/6497.214322) of M. F. Hutchinson to fit a cubic spline to noisy data using generalized cross-validation.
+
 [get_moments](https://github.com/danieljprice/get_moments): maximum entropy based reconstruction of a function from its moments, by Daniel Price
 
 [Grid Projected Kernel Density Estimation (gpkde)](https://github.com/upc-ghs/gpkde): performs Grid Projected Kernel Density Estimation (GPKDE) of a discrete dataset in one, two or three dimensional domains and is parallelized with the OpenMP library, from upc-ghs. It works as a standalone program by reading an input simulation file, which configures the loading of a source file with data points and additional parameters for defining the reconstruction grid and the optimization for bandwidth selection.
