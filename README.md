@@ -194,6 +194,8 @@ by ShinobuAmasaki.
 
 [NASA Ames Legacy Mars Global Climate Model](https://github.com/nasa/legacy-mars-global-climate-model): uses a modified version of the ARIES/GEOS dynamical core coupled with a set of Mars physics packages to simulate the martian climate. 
 
+[Naval Observatory Vector Astrometry Software (NOVAS)](https://github.com/jacobwilliams/NOVAS): integrated package of routines for computing various commonly needed quantities in positional astronomy, refactored by Jacob Williams. The package can provide, in one or two subroutine or function calls, the instantaneous coordinates of any star or planet in a variety of coordinate systems.
+
 [Nbody6++GPU - Beijing version](https://github.com/nbody6ppgpu/Nbody6PPGPU-beijing): N-body star cluster simulation code, by Rainer Spurzem and team. It is an offspring of Sverre Aarseth's direct N-body [codes](http://www.sverre.com/).
 
 [NEAT](https://github.com/rwesson/NEAT): calculates chemical abundances in photoionised nebulae, by Roger Wesson et al. It can propagate uncertainties and compensate for measurement biases affecting weak lines.
