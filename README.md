@@ -887,6 +887,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [Inverse-gas-dynamic-tables-and-codes](https://github.com/anillals/Inverse-gas-dynamic-tables-and-codes): programs and input data files for finding the Mach number through inverses of supersonic area ratio, subsonic area ratio, and Prandtl-Meyer angle, by anillals
 
+[jCODE](https://github.com/jessecaps/jCODE): high-performance multiphase/multi-physics flow solver from the Jesse Capecelatro research group. The code is capable of solving the multi-component compressible Navier-Stokes equations on structured curvilinear meshes using a class of high-order energy-stable finite difference operators. 
+
 [KatzPlotkin](https://github.com/cibinjoseph/KatzPlotkin): Fortran programs provided by Joseph Katz and Allen Plotkin in their book [Low-Speed Aerodynamics](https://www.amazon.com/Low-Speed-Aerodynamics-Second-Cambridge-Aerospace/dp/0521665523)
 
 [LBcuda](https://github.com/copmat/LBcuda): CUDA Fortran code to solve Lattice Boltzmann equations of a multi-component flow interacting with rigid spherical particles, by Fabio Bonaccorso et al.
