@@ -2220,6 +2220,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [stripy](https://github.com/underworldcode/stripy): Python interface from underworldcode to TRIPACK and STRIPACK Fortran code for (constrained) triangulation in Cartesian coordinates and on a sphere. Stripy is an object-oriented package and includes routines from SRFPACK and SSRFPACK for interpolation (nearest neighbor, linear and hermite cubic) and to evaluate derivatives.
 
+[ttcross](https://github.com/savostyanov/ttcross): cross interpolation of high-dimensional arrays in tensor train format. An associated preprint is [Parallel cross interpolation for high-precision calculation of high-dimensional integrals](https://arxiv.org/abs/1903.11554) (2019), by Sergey Dolgov and Dmitry Savostyanov.
+
 [WenOOF](https://github.com/Fortran-FOSS-Programmers/WenOOF): Weighted Essentially Non-Oscillatory (WENO) interpolation, from Fortran-FOSS-Programmers
 
 ## Linear Algebra
