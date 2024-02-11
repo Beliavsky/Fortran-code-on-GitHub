@@ -3555,6 +3555,8 @@ Ioannis Nompelis
 
 [wannier90](https://github.com/wannier-developers/wannier90): Maximally-Localised Generalised Wannier Functions Code
 
+[WannInt](https://github.com/irukoa/WannInt): library of utilities for Wannier interpolation, meant to serve as a building block for codes that compute the resolution of quantum mechanical operators in the Brillouin zone of a crystal, by Álvaro R. Puente-Uriona
+
 [WFNSYM](https://github.com/abelcarreras/WFNSYM): calculates continuous symmetry measures (CSM) of the electronic wave function of molecules, by Abel Carreras and ‪Efrem Bernuz
 
 [Without Empty STates (WEST)](https://github.com/west-code-development/West): massively parallel software for large scale electronic structure calculations within many-body perturbation theory, by Marco Govoni et al.
