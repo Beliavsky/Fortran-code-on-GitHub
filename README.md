@@ -3312,6 +3312,8 @@ Ioannis Nompelis
 
 [qdyn](https://github.com/PHOTOX/qdyn): program for N-dimensional numerical quantum propagation on a grid, by Jiri Janos, Jiri Suchan, and Petr Slavicek
 
+[qmllib](https://github.com/qmlcode/qmllib): Python/Fortran toolkit for representation of molecules and solids for machine learning of properties of molecules and solids, by Anders Steen Christensen and Jimmy C. Kromann.
+
 [Quantum Annealing Machine Emulator](https://github.com/camsenec/qa-emulator): quantum annealing simulation on SpinGlass model using Path Integral Monte Carlo method, by Tomoya Tanaka
 
 [raytracer_3D](https://github.com/ceden/raytracer_3D): simulates the radiative energy transfer equation for internal gravity waves in 6 dimensions, by ceden
