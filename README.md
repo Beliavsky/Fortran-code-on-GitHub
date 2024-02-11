@@ -3547,6 +3547,8 @@ Ioannis Nompelis
 
 [VALENCE](https://github.com/VALENCE-software/VALENCE): Massively Parallel Implementation of Variational Subspace Valence Bond, by Graham D. Fletcher et al.
 
+[VASP4CLINT](https://github.com/Trebonius91/VASP4CLINT): Python and Fortran utility scripts and programs for [VASP](https://www.vasp.at/) calculations of (liquid or solid) interface systems, by Julien Steffen
+
 [wannier90](https://github.com/wannier-developers/wannier90): Maximally-Localised Generalised Wannier Functions Code
 
 [WFNSYM](https://github.com/abelcarreras/WFNSYM): calculates continuous symmetry measures (CSM) of the electronic wave function of molecules, by Abel Carreras and ‪Efrem Bernuz
