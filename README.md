@@ -1672,6 +1672,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [SUIO](https://github.com/pkgpl/SUIO): library for input/output of SU files, by Wansoo Ha, independent from the [Seismic Unix](https://wiki.seismic-unix.org/start) package
 
+[sz3_simple_example](https://github.com/ofmla/sz3_simple_example): bindings by Oscar Mojica for the [SZ3 lossy compression library](https://github.com/szcompressor/SZ3), allowing seamless integration of SZ3 compression capabilities into Fortran projects
+
 [table-for-fortran](https://github.com/aschneeberger/table-for-fortran): table for Fortran working in a similar way as for Astropy or pandas, by aschneeberger. Currently reads and writes csv.
 
 [TinyTOML](https://github.com/archermarx/TinyTOML): small, single-file TOML parser, by Thomas Marks
