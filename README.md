@@ -1685,6 +1685,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 [yaFyaml](https://github.com/Goddard-Fortran-Ecosystem/yaFyaml): Fortran-based YAML parser, from Goddard-Fortran-Ecosystem. The rationale for this one is simply to be compatible with the containers in gFTL
 
 ## Finite Elements
+[CalculiX](https://github.com/Dhondtguido/CalculiX): 3D structural finite element program by Guido Dhondt and Klaus Wittig
+
 [calliope](https://github.com/mfeproject/calliope): project by N. N. Carlson to create general 1D, 2D, and 3D GWMFE reference codes, implemented in modern object-oriented Fortran, that will replace the original archaic Fortran 77 codes in [legacy-gwmfe](https://github.com/mfeproject/legacy-gwmfe), associated with paper N. N. Carlson and K. Miller, [Design and Application of a Gradient-Weighted Moving Finite Element Code II: in Two Dimensions](https://epubs.siam.org/doi/10.1137/S1064827594269561), SIAM J. Sci. Comput., 19(3), 766-798 (1998)
 
 [CEOS](https://github.com/josemthiesen/CEOS): non linear finite element code by josemthiesen and BrunoKlahr
