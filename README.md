@@ -399,6 +399,8 @@ on multiscale QM/MM simulations of biological systems, but open enough to addres
 
 [Reproductive Simulation Library (reprosim)](https://github.com/VirtualPregnancy/reprosim): placenta and uterus simulation libraries by Monika Byrne et al.
 
+[sequoia_notR](https://github.com/JiscaH/sequoia_notR): stand-alone equivalent to the R package [sequoia](https://cran.r-project.org/web/packages/sequoia/index.html), associated with paper [Pedigree reconstruction from SNP data: parentage assignment, sibship clustering and beyond](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12665), by Jisca Huisman, Molecular Ecology Resources (2017). A related project is [sequoiaExtra](https://github.com/JiscaH/sequoiaExtra), a collection of R functions and Fortran programs loosely associated with R package sequoia and/or for general population genetics purposes.
+
 [songbird-evo-model-FORTRAN](https://github.com/Kaw-Han/songbird-evo-model-FORTRAN): models evolution in a genetically simple population of songbirds, by Kaw-Han
 
 [SPECIES](https://github.com/jipingw/SPECIES): R package for species number estimation with underlying Fortran code, by Ji-Ping Wang
