@@ -3034,6 +3034,8 @@ Ioannis Nompelis
 
 [NVIDIA OpenACC Course Sources and Labs](https://github.com/NVIDIA-OpenACC-Course/nvidia-openacc-course-sources): contains sources related to the lectures and labs for the [NVIDIA OpenACC course](https://developer.nvidia.com/openacc-courses).
 
+[OpenACC Fortran Memory Library (OAFML)](https://github.com/szaghi/OAFML): eases handling OpenACC memory offloading on devices (GPU), in Fortran 2003+ with OpenACC directives standard compliant, by Francesco Salvadore et al. 
+
 [OpenACC Official Training Materials](https://github.com/OpenACC/openacc-training-materials): training materials by Jeff Larkin et al., covering profiling, OpenACC directives, GPU programming, data management, and loop optimizations, with code examples in Fortran, C, and C++. The [OpenACC Porting and Portability Guide](https://github.com/OpenACC/openacc-best-practices-guide) contains a proposed workflow when refactoring an existing application to use OpenACC, with examples provided in C, C++ and Fortran.
 
 [OpenCoarrays](https://github.com/sourceryinstitute/OpenCoarrays): parallel application binary interface for Fortran 2018 compilers, from sourceryinstitute
