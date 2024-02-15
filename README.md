@@ -2705,6 +2705,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [Numeric Library for Modern Fortran](https://github.com/degawa/fortran-numeric): scope: Integer (handling integer constants, digits, convert to string with format);  Real (handling real constants, convert to string with format); Non-number (handling quiet nan and positive/negative inf as constants, check whether an array of floating-point numbers has at least one quiet nan, positive/negative inf value), by Tomohiro Degawa
 
+[Numeric Modern Fortran (numfor)](https://github.com/numericfor/numfor): has submodules <b>Utils</b> with basic, non-specific, functionality used in many scientific programs, <b>Array_utils</b> with basic functionality to work with arrays, including generation of grids, search of elements and sorting, <b>Interpolate</b> with routines to perform interpolation, fitting of data, and some work on polynomials, and <b>Integrate</b> with routines to perform integration of real and complex functions, and of sampled data.
+
 [NumFort](https://github.com/AnthonyKalaitzis/NumFort): numerical library for FORTRAN that includes quadpack, lapack, PLplot and Matplotlib source code, by Anthony Kalaitzis and Curtis Abell. It enables the use of handy mathematical macros such as linspace.
 
 [NumLib](https://github.com/ebrooker/NumLib): Numerical Library: Demonstration of various numerical methods/recipes, by ebrooker
