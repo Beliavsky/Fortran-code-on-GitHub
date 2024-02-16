@@ -2269,6 +2269,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [DBCSR](https://github.com/cp2k/dbcsr): Distributed Block Compressed Sparse Row matrix library, by cp2k
 
+[diaglib](https://github.com/Molecolab-Pisa/diaglib): library of matrix-free iterative algorithms to compute a few eigenvalues and eigenvectors of large matrices, by Ivan Gianni et al. The available algorithms are locally optimal block preconditioned conjugate gradient and [Davidson-Liu](https://gqcg-res.github.io/knowdes/the-davidson-liu-diagonalization-method.html).
+
 [Eigensolver_gpu](https://github.com/NVIDIA/Eigensolver_gpu): generalized eigensolver for symmetric/hermetian-definite eigenproblems with functionality similar to the DSYGVD/X or ZHEGVD/X functions available within LAPACK/MAGMA, by Josh Romero et al. This solver has less dependencies on CPU computation than comparable implementations within MAGMA, which may be of benefit to systems with limited CPU resources or to users without access to high-performing CPU LAPACK libraries.
 
 [Eigenvalue SoLvers for Petaflop-Applications (ELPA)](https://github.com/marekandreas/elpa): scalable eigensolver for dense, symmetric (Hermitian) matrices
