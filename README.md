@@ -151,6 +151,8 @@
 
 [hazel2](https://github.com/aasensio/hazel2): synthesis and inversion of Stokes profiles caused by the joint action of atomic level polarization and the Hanle and Zeeman effects, by aasensio
 
+[High-performance Flux Transport (HipFT)](https://github.com/predsci/HipFT): computational core of the upcoming Open-source Flux Transport (OFT) software suite, from Predictive Science. OFT is a complete system for generating full-Sun magnetograms through acquiring & processing observational data, generating realistic convective flows, and running the flux transport model.
+
 [HMcode](https://github.com/alexander-mead/HMcode): augmented halo model for accurate non-linear matter power spectrum calculations, by Alexander Mead and Tilman Troester.
 
 [IMage COMbination (IMCOM)](https://github.com/barnabytprowe/imcom): software associated with [Optimal Linear Image Combination](https://iopscience.iop.org/article/10.1088/0004-637X/741/1/46), by Barnaby Rowe, Barnaby, Christopher and Jason Rhodes, The Astrophysical Journal, Volume 741, Issue 1, (2011).
