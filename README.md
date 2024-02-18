@@ -3392,7 +3392,7 @@ Ioannis Nompelis
 
 [Spherical-Coordinate Implicit Derivatives time-dependent Schroedinger equation (SCID-TDSE)](https://github.com/MBI-Theory/scid-tdse): numerical solution of TDSE for a one-electron atom subject to a laser field, by Serguei Patchkovskii. TDSE is solved in spherical coordinates, with the laser field treated in the velocity-gauge dipole approximation.
 
-[Solid state Task Constructor (SsTC)](https://github.com/irukoa/SsTC): high-perfomance computing oriented library to create integration and sampling tasks in the BZ of a crystal for k-dependent functions, by Álvaro R. Puente-Uriona
+[Solid state Task Constructor (SsTC)](https://github.com/irukoa/SsTC): high-perfomance computing oriented library to create integration and sampling tasks in the BZ of a crystal for k-dependent functions, by Álvaro R. Puente-Uriona. [SsTC_driver](https://github.com/irukoa/SsTC_driver) is backend for SsTC.
 
 [streamer_1d](https://github.com/jannisteunissen/streamer_1d): 1D discharge simulations with a particle-in-cell or fluid model, by Jannis Teunissen
 
