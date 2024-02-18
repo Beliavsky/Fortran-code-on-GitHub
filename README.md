@@ -313,6 +313,8 @@ by ShinobuAmasaki.
 
 [LINPACK](https://github.com/zaniyah/LINPACK): original (1000x1000 double precision) LINPACK benchmark, with bugfixes, by zaniyah
 
+[llvm-test-suite](https://github.com/llvm/llvm-test-suite/): LLVM test-suite repository
+
 [matmul](https://github.com/certik/matmul): matrix multiplication benchmark by Ondřej Čertík
 
 [Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks): micro benchmark comparison of Julia against other languages, including Fortran, from JuliaLang
