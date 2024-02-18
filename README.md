@@ -2780,7 +2780,7 @@ useful results regarding the thermodynamics and the structural properties of the
 [Warton Legacy](https://github.com/daoudclarke/wartonlegacy): RSA code scrambling and unscrambling, code generating via robust prime construction, code breaking and secret sharing, by Robert Warton. Routines in number theory and algebraic numbers exist both within programs and separately.
 
 ## Numerical Integration (Quadrature)
-[F90-Extrapolation-Integration](https://github.com/irukoa/F90-Extrapolation-Integration): implements the extrapolation method on 1-, 2- and 3-dimensional scalar or vector integrals, by Álvaro R. Puente-Uriona. It specializes in providing an adaptive method, based on extrapolation over the trapezium method, to obtain increasingly accurate values for, depending only on the number of sample points in which the integrand is evaluated.
+[F90-Extrapolation-Integration](https://github.com/irukoa/F90-Extrapolation-Integration): implements the Richardson extrapolation method on 1-, 2- and 3-dimensional scalar or vector integrals, by Álvaro R. Puente-Uriona. It specializes in providing an adaptive method, based on extrapolation over the trapezium method, to obtain increasingly accurate values for, depending only on the number of sample points in which the integrand is evaluated. A related project is [Extrapolation_Integration](https://github.com/irukoa/Extrapolation_Integration).
 
 [FORbID](https://github.com/giacrossi/FORbID): object-oriented Fortran 2008 library for numerical integration of definite integrals, by Giacomo Rossi and Stefano Zaghi
 
