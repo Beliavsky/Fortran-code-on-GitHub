@@ -2541,6 +2541,8 @@ useful results regarding the thermodynamics and the structural properties of the
 [Structure_factor_FFT](https://github.com/jmcdaniel43/Structure_factor_FFT): computes structure factors using the particle mesh Ewald approach, by Jesse Gatten McDaniel. Either the electron density structure factor can be computed for X-ray scattering (uses form factors), or the total charge density can be computed (uses input force field charges) to evaluate sum rules
 
 ## Neural Networks and Machine Learning
+[Adaptive Training for High Efficiency Neural Network Applications (ATHENA)](https://github.com/nedtaylor/athena): library for developing and handling neural networks (with a focus on convolutional neural networks), by Ned Taylor
+
 [ANN-Fortran](https://github.com/Box-Tools/ANN-Fortran): Fortran-C interface from Box-Tools for using [ANN](http://www.cs.umd.edu/~mount/ANN/), a C++ library for both exact and approximate nearest neighbor searching in spaces of various dimensions, by David M. Mount and Sunil Arya
 
 [autofit](https://github.com/Auto-Mech/autofit): fit permutationally invariant polynomials (PIPs), by Auto-Mech
