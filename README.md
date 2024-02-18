@@ -1877,6 +1877,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [Fortran General Library (FGL)](https://github.com/mobius-eng/FGL): code for bitstrings, exception handling, hash tables, lists, logging, queues, strings, sorting, JSON parsing, and other topics, from mobius-eng
 
+[fortran-kdtree](https://github.com/dongli/fortran-kdtree): implementation of KD-Tree searching by dongli. KD-Tree is a standard data structure for indexing data, especially in 3D space.
+
 [Fortran IFS and Arpege Toolkit (FIAT)](https://github.com/ecmwf-ifs/fiat): collection of selected Fortran utility libraries, extracted from the IFS/Arpege model, including drhook for tracing, gstats for timing, parkind to choose precision, mpl for MPI communication, mpi_serial for MPI dummy symbols compiled into static library, and other routines
 
 [Fortran Input Parser](https://github.com/nextnano/FortranInputParser): typical application is the reading in of input parameters (input file) and material parameters (database) from two text files for e.g. a scientific code
