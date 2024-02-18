@@ -291,6 +291,8 @@ by ShinobuAmasaki.
 
 [Compiler-benchmark-suites](https://github.com/quepas/Compiler-benchmark-suites): list of benchmark suites (and some loose kernels) in C and Fortran used in the research related to compilers, program performance, scientific computations etc.
 
+[compiler-test-suite](https://github.com/fujitsu/compiler-test-suite): test suite for C/C++/Fortran compilers developed by Fujitsu
+
 [cumsum_benchmark](https://github.com/ivan-pi/cumsum_benchmark): benchmarks for the cumulative sum of an array, in Fortran, C++, Matlab, and Python, using various methods
 
 [fortran-math-tests](https://github.com/lyuwen/fortran-math-tests): test programs for Fortran math libraries, by L. Fu
