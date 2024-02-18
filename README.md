@@ -1612,6 +1612,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [FiNeR](https://github.com/szaghi/FiNeR): IO of INI (config) files for modern (2003+) Fortran projects, by szaghi and kostyfisik
 
+[Fortran IO Netcdf Assembly (FIONA)](https://github.com/dongli/fiona): encapsulates netCDF library for easy use, by Li Dong et al.
+
 [flexout](https://github.com/BoldingBruggeman/flexout): Fortran-based flexible output manager with support for NetCDF and text formats, by Jorn Bruggeman et al.
 
 [flibcsv](https://github.com/freevryheid/flibcsv): bindings by Andre Smit to [libcsv](https://github.com/rgamble/libcsv), a fast and flexible CSV library written in pure ANSI C that can read and write CSV data
