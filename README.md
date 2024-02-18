@@ -1058,6 +1058,8 @@ engine, by montagdude and Geoff Sokoll
 
 [CFMIP (Cloud Feedbacks Model Intercomparison Project) Observation Simulator Package (COSP)](https://github.com/CFMIP/COSPv2.0): takes the models representation of the atmosphere and simulates the retrievals for several passive (ISCCP, MISR and MODIS) and active (CloudSat (radar) and CALIPSO (lidar)) sensors
 
+[cgfd-lab](https://github.com/dongli/cgfd-lab): demonstrations for teaching computational geophysical fluid dynamics, by dongli. Has code for classic or practical advection schemes: FTCS, Upwind, Beam-Warming, Lax-Wendroff, Fromm, Leap-frog, Crank-Nicolson, TSPAS, MPDATA, WENO, FFSL, Semi-Lagrangian.
+
 [Chemistry Across Multiple Phases: CAMP](https://github.com/open-atmos/camp): multi-phase chemistry treatment for atmospheric models. Reference: M. Dawson, C. Guzman, J. H. Curtis, M. Acosta, S. Zhu, D. Dabdub, A. Conley, M. West, N. Riemer, and O. Jorba (2021), Chemistry Across Multiple Phases (CAMP) version 1.0: An Integrated multi-phase chemistry model, in preparation
 
 [CICE Consortium sea-ice model](https://github.com/CICE-Consortium/CICE): computationally efficient model for simulating the growth, melting, and movement of polar sea ice
