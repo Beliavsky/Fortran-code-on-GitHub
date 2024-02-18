@@ -734,6 +734,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [FMacro](https://github.com/hsnyder/FMacro): template preprocessor for Fortran, by Harris Snyder. Aims to address Fortran's lack of support for generic programming with a simple preprocessor, modeled after some of the language committee's early ideas for a template language feature, to be included in a future Fortran standard.
 
+[fortran-container](https://github.com/dongli/fortran-container): resizable array, hash table, and linked list, by Li Dong et al.
+
 [fortran-dictionary](https://github.com/keksipurkki/fortran-dictionary): implementation of a hashmap aka dictionary, by Elias Toivanen
 
 [Fortran Elements Library](https://github.com/gronki/fortran-elements): list, dictionary, shared pointer, and error handler, by Dominik Gronkiewicz
