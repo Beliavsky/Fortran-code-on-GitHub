@@ -1178,6 +1178,8 @@ engine, by montagdude and Geoff Sokoll
 
 [gravmod3d](https://github.com/ofmla/gravmod3d): 3D forward modeling of bodies discretized by rectangular prisms with parabolic density contrast, an implementation by Oscar Mojica of the three-dimensional gravity modeling with parabolic density contrast presented in the paper [3-D forward gravity modeling of basement interfaces above which the density contrast varies continuously with depth](https://www.sciencedirect.com/science/article/abs/pii/S0098300401000802) by V. Chakravarthi et al., Computers & Geosciences (2002)
 
+[Grid-point Multiple-Conservation dynamical cORE (GMCORE)](https://github.com/LASG-GAMIL/GMCORE): dynamical core for solving geophysical fluid equations on the sphere with conservative finite difference methods, by Li Dong and Jianghao Li 
+
 [GR4-StateSpace](https://github.com/hydroGR/GR4-StateSpace): state-space version of a lumped rainfall-runoff model. Associated paper: Santos, L., Thirel, G., and Perrin, C., (2018), [Continuous state-space representation of a bucket-type rainfall-runoff model: a case study with the GR4 model using state-space GR4 (version 1.0)](https://gmd.copernicus.org/articles/11/1591/2018/), Geosci. Model Dev., 11, 1591-1605
 
 [GrowClust](https://github.com/dttrugman/GrowClust): program for the relative relocation of earthquake hypocenters based on waveform cross-correlation data, by dttrugman and sean0921
