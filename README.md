@@ -1727,6 +1727,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [FrontISTR](https://github.com/FrontISTR/FrontISTR): Large-Scale Parallel FEM Program for Nonlinear Structural Analysis, by Naoki Morita et al.
 
+[hp3d](https://github.com/Oden-EAG/hp3d): scalable MPI/OpenMP hp-adaptive finite element software library for complex multiphysics applications, by Stefan Henneking et al.
+
 [HypFEM](https://github.com/md861/HypFEM): enriched finite element solution space based numerical solver for initial-boundary value problems in hyperbolic linear PDEs, by md861
 
 [metis-fpm](https://github.com/gnikit/metis-fpm): Fortran API and a source repackaging by gnikit of [METIS](https://github.com/KarypisLab/METIS), a set of serial programs for partitioning graphs, partitioning finite element meshes, and producing fill reducing orderings for sparse matrices, from KarypisLab
