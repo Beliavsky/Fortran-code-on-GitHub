@@ -1893,7 +1893,7 @@ present simple ways to locate and correct those errors without the use of any de
 
 [forbear](https://github.com/szaghi/forbear): progress bar environment by szaghi and jhykes
 
-[forclust](https://github.com/gha3mi/forclust): manage and control a Linux system, such as adjusting the settings of the CPU and other components, by Seyed Ali Ghasemi
+[ForClust](https://github.com/gha3mi/forclust): manage and control a Linux system, such as adjusting the settings of the CPU and other components, by Seyed Ali Ghasemi
 
 [Fortran General Library (FGL)](https://github.com/mobius-eng/FGL): code for bitstrings, exception handling, hash tables, lists, logging, queues, strings, sorting, JSON parsing, and other topics, from mobius-eng
 
@@ -1931,7 +1931,7 @@ present simple ways to locate and correct those errors without the use of any de
 
 [fortran-zlib](https://github.com/interkosmos/fortran-zlib): collection of Fortran 2018 ISO_C_BINDING interfaces to selected zlib functions, by interkosmos. Zlib is a lossless data-compression library.
 
-[fortime](https://github.com/gha3mi/fortime): provides a timer object for measuring elapsed time, by gha3mi. It includes procedures for starting and stopping the timer, as well as calculating and printing the elapsed time in seconds.
+[ForTime](https://github.com/gha3mi/fortime): provides a timer object for measuring elapsed time, by Seyed Ali Ghasemi. It includes procedures for starting and stopping the timer, as well as calculating and printing the elapsed time in seconds.
 
 [ForUtils](https://github.com/cmbant/forutils): Fortran 2008 utility functions and reusable classes, by cmbant
 
@@ -2043,7 +2043,7 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [ForColormap](https://github.com/vmagnin/forcolormap): small colormap library independent of any graphical toolkit, by Vincent Magnin. It just converts a real value to RGB values, that can be used with any toolkit offering bitmap drawing..
 
-[forimage](https://github.com/gha3mi/forimage): library for working with image files ([PNM format](https://en.wikipedia.org/wiki/Netpbm)) and managing colors effectively, by by Seyed Ali Ghasemi
+[ForImage](https://github.com/gha3mi/forimage): library for working with image files ([PNM format](https://en.wikipedia.org/wiki/Netpbm)) and managing colors effectively, by by Seyed Ali Ghasemi
 
 [fortran2018-asymptote](https://github.com/kevinmatthes/fortran2018-asymptote): generate drawings using the [Asymptote Vector Graphics Language](https://asymptote.sourceforge.io/), by Kevin Matthes
 
@@ -2309,11 +2309,11 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [ForBLAS](https://github.com/gha3mi/forblas): compile the BLAS and their drivers using the Fortran Package Manager, by Seyed Ali Ghasemi. [ForLAPACK](ForLAPACK) does so for LAPACK. 
 [ForSVD](https://github.com/gha3mi/forsvd) provides functions and subroutines for calculating the singular value decomposition (SVD) of a matrix, calling LAPACK. [ForEig](https://github.com/gha3mi/foreig) calculates eigenvalues and eigenvectors using LAPACK or MKL. [ForPCA](https://github.com/gha3mi/forpca) does principal component analysis (PCA).
-[Pinverse](https://github.com/gha3mi/pinverse) calculates the pseudoinverse of a matrix using singular value decomposition.
+[ForInv](https://github.com/gha3mi/forinv) calculates the inverse and pseudoinverse of a matrix.
 
-[fordot](https://github.com/gha3mi/fordot): overloads the dot_product function to enable efficient dot product with/without coarrays, by Seyed Ali Ghasemi
+[ForDot](https://github.com/gha3mi/fordot): overloads the dot_product function to enable efficient dot product with/without coarrays, by Seyed Ali Ghasemi
 
-[formatmul](https://github.com/gha3mi/formatmul): library that overloads the matmul function to enable efficient matrix multiplication with coarrays, by Seyed Ali Ghasemi
+[ForMatMul](https://github.com/gha3mi/formatmul): library that overloads the matmul function to enable efficient matrix multiplication with coarrays, by Seyed Ali Ghasemi
 
 [fortran_csr](https://github.com/cometscome/fortran_csr): library to construct and multiply a matrix in compressed sparse row (CSR) format, by Yuki Nagai
 
@@ -2671,13 +2671,13 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [FMPFR](https://github.com/tkoenig1/FMPFR): Fortran binding to the [GNU MPFR Library multi-precision library](https://www.mpfr.org/), by Thomas Koenig
 
-[fordiff](https://github.com/gha3mi/fordiff): numerical differentiation using the complex step method or finite differences, by gha3mi
+[ForDiff](https://github.com/gha3mi/fordiff): numerical differentiation using the complex step method or finite differences, by Seyed Ali Ghasemi
 
 [forlab](https://github.com/zoziha/forlab): module that provides a lot of functions for scientific computing mostly inspired by Matlab and Python's module NumPy, by zoziha
 
 [forSISL](https://github.com/rweed/forSISL): Modern Fortran interfaces to the [SINTEF Spline Library (SISL)](https://github.com/SINTEF-Geometry/SISL), by Richard Weed
 
-[forsolver](https://github.com/gha3mi/forsolver): solves linear and nonlinear equations, by Seyed Ali Ghasemi. For nonlinear equations the available methods are newton, newton-modified, newton-quasi-fd, newton-quasi-fd-modified, newton-quasi-cs, and newton-quasi-cs-modified, where "fd" and "cs" stand for the finite difference and complex step methods.
+[ForSolver](https://github.com/gha3mi/forsolver): solves linear and nonlinear equations, by Seyed Ali Ghasemi. For nonlinear equations the available methods are newton, newton-modified, newton-quasi-fd, newton-quasi-fd-modified, newton-quasi-cs, and newton-quasi-cs-modified, where "fd" and "cs" stand for the finite difference and complex step methods.
 
 [fortran-bessels](https://github.com/perazz/fortran-bessels): Fortran port (stub) of the Bessels.jl repository, by Federico Perini et al.
 
@@ -3961,7 +3961,7 @@ Ioannis Nompelis
 
 [f90tw](https://github.com/loudove/f90tw): provides Fortran wrappers for a limited subset of the Boost and Google test frameworks functionality, by loudove. At the same time, it offers a rather simple mechanism for setting up and managing test suites in Fortran projects. 
 
-[fordebug](https://github.com/gha3mi/fordebug): library designed for debugging Fortran code, especially within pure procedures, by Seyed Ali Ghasemi
+[ForDebug](https://github.com/gha3mi/fordebug): library designed for debugging Fortran code, especially within pure procedures, by Seyed Ali Ghasemi
 
 [fort_test](https://github.com/archermarx/fort_test): very lightweight testing framework that supports basic assertions and running of test sets, by Thomas Marks
 
