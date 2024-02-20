@@ -1245,6 +1245,8 @@ engine, by montagdude and Geoff Sokoll
 
 [Isca](https://github.com/ExeClim/Isca): framework for the idealized modelling of the global circulation of planetary atmospheres at varying levels of complexity and realism, from the University of Exeter. The framework is an outgrowth of models from GFDL designed for Earth's atmosphere, but it may readily be extended into other planetary regimes.
 
+[isostasy](https://github.com/palma-ice/isostasy): stand-alone model of regional glacial isostatic adjustment, by Alex Robinson and Jan Swierczek-Jereczek
+
 [Ice Shelf/Ocean Fluid and Thermodynamics (ISOFT)](https://github.com/cmacmackin/isoft): object-oriented, extensible framework with which to model glacial flow using modern Fortran, by Chris MacMackin. Though developed for ice shelves, it could in principle be modified to simulated grounded ice dynamics as well.
 
 [JAGURS](https://github.com/jagurs-admin/jagurs): tsunami simulation code solving linear/nonlinear long-wave/Boussinesq equations with/without effects of elastic deformation of the Earth due to tsunami load and vertical profile of seawater density stratification. This code was parallelized by using OpenMP and MPI.
