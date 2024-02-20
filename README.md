@@ -3410,6 +3410,8 @@ Ioannis Nompelis
 
 [Symplectic Integration Methods for Particle Loss Estimation (SIMPLE)](https://github.com/itpplasma/SIMPLE): computes statistical losses of guiding-center orbits for particles of given mass, charge and energy from the volume of 3D magnetic configurations, by Christopher Albert et al. Orbits are traced via a symplectic integrator that guarantees conservation of invariants of motion within fixed bounds over long integration periods. 
 
+[TALYS](https://github.com/arjankoning1/talys): code associated with paper [TALYS: modeling of nuclear reactions](https://link.springer.com/article/10.1140/epja/s10050-023-01034-3), by Arjan Koning, Stephane Hilaire and Stephane Goriely, European Journal of Physics A59 (2023)
+
 [tbcode](https://github.com/srigas/tbcode): simulate the effects of impurities embedded in or adsorbed on superconducting hosts, by srigas
 
 [TemkinPoetParallel](https://github.com/afrapic/TemkinPoetParallel): solves the scattering problem (electron-Hydrogen atom) in the Temkin-Poet model using MPI, by Ana Laura Frapiccini
