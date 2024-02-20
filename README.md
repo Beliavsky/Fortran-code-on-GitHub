@@ -2913,6 +2913,8 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [LMBM](https://github.com/wilmerhenao/LMBM): Limited Memory Bundle Method for general, possible nonconvex, nonsmooth (nondifferentiable) large-scale minimization, by Napsu Karmitsa. Her [site](http://napsu.karmitsa.fi/) has other codes for nonsmooth optimization, clustering, regression, and imputation
 
+[MJDP_software](https://github.com/ralna/MJDP_software): Fortran 77 optimization codes by M. J. D. Powell -- bobyqa, cobyla, lincoa, newuoa, tolmin, and uobyqa. The modernized reference implementation is [PRIMA](https://github.com/libprima/prima).
+
 [Minimization](https://github.com/BramvandePut/Minimization): numerical minimization of n-dimensional mathematical functions, by BramvandePut
 
 [minimize](https://github.com/ryokbys/minimize): minimization routines such as steepest descent, conjugate gradient, and quasi-Newton methods with line search method such as quadratic interpolation and golden section, by ryokbys
