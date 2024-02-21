@@ -396,6 +396,8 @@ Modeling of Gz-Induced Effects](https://pubmed.ncbi.nlm.nih.gov/37069756/), by K
 
 [Parse](https://github.com/stevewhitten/Parse): predicts protein regions that are disordered, and which subset of those can undergo phase separation. Associated paper: Paiz, E.A., Allen, J.H., Correia, J.J., Fitzkee, N.C., Hough, L.E., Whitten, S.T. [Beta turn propensity and a model polymer scaling exponent identify intrinsically disordered phase-separating proteins](https://www.jbc.org/article/S0021-9258(21)01149-2/fulltext) J. Biol. Chem. 297, 101343 (2021).
 
+[PLOSCB2022](https://github.com/mholla/PLOSCB2022): code associated with [Orchestrated neuronal migration and cortical folding: A computational and experimental study](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010190), by Shuolun Wang et al., PLOS Computational Biology (2022)
+
 [QMCube (ren-qm3)](https://github.com/sergio-marti/ren-qm3): suite written in Python, calling Fortran codes, initially focused
 on multiscale QM/MM simulations of biological systems, but open enough to address other kinds of problems. Associated paper: [QMCube (QM3): An all-purpose suite for multiscale QM/MM calculations](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.26465), by Sergio Martí, J. Comput. Chem. 2021, 42, 447-457
 
