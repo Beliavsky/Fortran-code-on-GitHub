@@ -2391,6 +2391,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [MPI_GEVP](https://github.com/sims-code/MPI_GEVP): Fortran 90+ program for solving the generalized eigenvalue problem on distributed computers, by sims-code
 
+[nnls](https://github.com/cuamll/nnls): non-negative least squares (NNLS) solver calling BLAS and LAPACK, by cuamll
+
 [NTPoly](https://github.com/william-dawson/ntpoly): massively parallel library for computing the functions of sparse matrices, by william-dawson
 
 [OpenBLAS](https://github.com/xianyi/OpenBLAS): optimized BLAS library based on GotoBLAS2 1.13 BSD version, by xianyi
