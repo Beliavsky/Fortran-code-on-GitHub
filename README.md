@@ -2417,8 +2417,6 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [Sherman-Morrison](https://github.com/TREX-CoE/Sherman-Morrison): matrix-inversion algorithms based on the paper of P. Maponi, "The solution of linear systems by using the Sherman–Morrison formula", doi:10.1016/j.laa.2006.07.007, from TREX-CoE
 
-[Small Fortran Solvers (SFS)](https://github.com/Niceno/SFS): linear equation solvers, including preconditioned conjugagate gradient, by Bojan Niceno, adapted from [Numerical Analysis: Mathematics of Scientific Computing](https://web.ma.utexas.edu/CNA/NA3/), by David Kincaid & Ward Cheney, using OpenACC to access GPUs
-
 [sparse-fortran](https://github.com/scivision/sparse-fortran): sparse array examples using MUMPS, Scalapack, BLACS, PARDISO with CMake and Meson, from SciVision
 
 [Sparse Iterative parallel linear solver](https://github.com/tueboesen/Sparse-iterative-parallel-linear-solver): developed in Fortran/OpenMP by Tue Bosen, and designed with focus on speed especially in parallel. The code uses a block-splitting of the linear system without any overlap. It is intended to be used on matrices which have already been reordered using a reverse Cuthill-Mckee reordering.
@@ -2440,6 +2438,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 [tt-fort](https://github.com/oseledets/tt-fort): Fortran computing core of the TT-Toolbox. It also includes two slightly customized libraries for doing fast local solvers in eigenvalue and dynamical problems.
 
 [vanhuffel](https://github.com/ivan-pi/vanhuffel): partial total least squares routines from Sabine Van Huffel
+
+[Visual-Fortran-Solvers](https://github.com/Niceno/Visual-Fortran-Solvers): linear equation solvers, including preconditioned conjugagate gradient, by Bojan Niceno, adapted from [Numerical Analysis: Mathematics of Scientific Computing](https://web.ma.utexas.edu/CNA/NA3/), by David Kincaid & Ward Cheney, using OpenACC to access GPUs
 
 ## Materials Science
 [Atom/Molecule/Material Software Kit (atomsk)](https://github.com/pierrehirel/atomsk): command-line program meant to manipulate
