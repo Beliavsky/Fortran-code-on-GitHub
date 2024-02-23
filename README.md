@@ -1102,6 +1102,8 @@ engine, by montagdude and Geoff Sokoll
 
 [CoastalApp](https://github.com/noaa-ocs-modeling/CoastalApp): modeling framework for coastal applications and regional forecasts, from NOAA's Office of Coast Survey. It consists of coupled modeling components that link the atmospheric, ocean and terrestrial realms under one common framework.
 
+[Community Atmosphere Biosphere Land Exchange model (CABLE)](https://github.com/CABLE-LSM/CABLE): land surface model, used to calculate the fluxes of momentum, energy, water and carbon between the land surface and the atmosphere and to model the major biogeochemical cycles of the land ecosystem, by Claire Carouge et al.
+
 [Community Data Models for Earth Prediction Systems (CDEPS)](https://github.com/ESCOMP/CDEPS): NUOPC-compliant data components along with ESMF-based share code that enables new capabilities in selectively removing feedbacks in coupled model systems
 
 [Community Ice Sheet Model (CISM)](https://github.com/ESCOMP/CISM): land ice model designed to be used as part of an Earth-system model or as a stand-alone model
