@@ -10,6 +10,7 @@
 * [Computational Fluid Dynamics](#computational-fluid-dynamics)
 * [Containers and Generic Programming](#containers-and-generic-programming)
 * [Cryptography](#cryptography)
+* [Databases](#databases)
 * [Dates and Times](#dates-and-times)
 * [Earth Science](#earth-science)
 * [Economics](#economics)
@@ -21,7 +22,7 @@
 * [Finite Elements](#finite-elements)
 * [Fortran Books and Tutorials](#fortran-books-and-tutorials)
 * [Games](#games)
-* [Graphics, plotting and user interfaces](#graphics-plotting-and-user-interfaces)
+* [Graphics, Plotting and User Interfaces](#graphics-plotting-and-user-interfaces)
 * [General Purpose](#general-purpose)
 * [Interoperability](#interoperability)
 * [Interpolation](#interpolation)
@@ -1012,6 +1013,21 @@ engine, by montagdude and Geoff Sokoll
 
 [sodium](https://github.com/freevryheid/sodium): Fortran bindings by Andre Smit for [libsodium](https://github.com/jedisct1/libsodium), a C library for encryption, decryption, signatures, password hashing, etc.
 
+## Databases
+[fortran-mongo](https://github.com/dongli/fortran-mongo): MongoDB binding library for Fortran, by dongli
+
+[fortran-tcdb](https://github.com/interkosmos/fortran-tcdb): Fortran 2008 interface bindings to Tokyo Cabinet, by interkosmos
+
+[fortran-sqlite3](https://github.com/interkosmos/fortran-sqlite3): Fortran 2018 interface bindings to SQLite 3, by interkosmos
+
+[fpq](https://github.com/freevryheid/fpq): modules with PostgreSQL (libpq) Fortran bindings, by Andre Smit
+
+[libpq-fortran](https://github.com/ShinobuAmasaki/libpq-fortran): interface by ShinobuAmasaki to the PostgreSQL [libpq C Library](https://www.postgresql.org/docs/current/libpq.html)
+
+[Mariadb_connector_fortran](https://github.com/v-h-giang/Mariadb_connector_fortran): wrapper library for MariaDB-connector/C, by Vu Hoang Giang. It can be used to connect to MariaDB, MySQL, and Oracle databases.
+
+[SQLite for Fortran (sqliteff)](https://github.com/everythingfunctional/sqliteff): thin wrapper around the SQLite library, by Brad Richardson. The sqliteff_* functions are effectively identical to the sqlite3_* functions that would be called from C, but with Fortran intrinsics and types.
+
 ## Dates and Times
 [datetime](https://github.com/patti-favaron/datetime): library for simple, time-zone-independent date and time management, by Patrizia Favaron
 
@@ -1913,8 +1929,6 @@ present simple ways to locate and correct those errors without the use of any de
 
 [Fortran-Library](https://github.com/YifanShenSZ/Fortran-Library): Code for geometry transformations, nonlinear optimization, Fourier transforms, clustering, statistics, mathematics, linear algebra, strings, and chemistry
 
-[fortran-mongo](https://github.com/dongli/fortran-mongo): MongoDB binding library for Fortran, by dongli
-
 [fortran_notes](https://github.com/zmiimz/fortran_notes): containers and advanced data structures, hash functions, and design patterns
 
 [FortranPatterns](https://github.com/farhanjk/FortranPatterns): Implementation of popular design patterns in Fortran, by Farhan J. Khan and zmiimz. This is intended to facilitate the community using Fortran for computationally expensive tasks. The main philosophy here is to make these patterns available for improving the reusability and efficiency of the code.
@@ -1924,8 +1938,6 @@ present simple ways to locate and correct those errors without the use of any de
 [fortran-sigwatch](https://github.com/scivision/fortran-sigwatch): library of routines to provide simple signal watching for Fortran programs, originally by Norman Gray, modified by Michael Hirsch. This allows a minimal level of control of a running program from outside it, for example to tell it to checkpoint itself on receipt of a signal.
 
 [fortran-sleep](https://github.com/scivision/fortran-sleep): OS/compiler-independent "sleep" Fortran subroutine that calls c_sleep, from scivision
-
-[fortran-sqlite3](https://github.com/interkosmos/fortran-sqlite3): Fortran 2018 interface bindings to SQLite 3, by interkosmos
 
 [Fortran User Defined Exceptions Handler (ForEx)](https://github.com/victorsndvg/ForEx): Fortran 2003 project taking advantage of the C preprocessor capabilities in order to emulate exception handling, by victorsndvg
 
@@ -2013,8 +2025,6 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 [Scientific Fortran Tools (SciFT)](https://github.com/nfaguirrec/scift): provides a wide range of mathematical routines such as random number generators, special functions, and high-level classes to manipulate strings, files parsing, matrices, grid-based numerical functions, data structures (lists, vectors, maps, graphs), and molecules, by Nestor F. Aguirre. It uses the Intel Math Kernel Library and has been tested with the Intel Fortran compiler.
 
 [sourcery](https://github.com/sourceryinstitute/sourcery): utilities such as array functions, assertions, emulated intrinsic functions: findloc, emulated collective subroutines: co_sum, co_broadcast, user-defined collective subroutines: co_all, string functions, and classes for parallel data partitioning and gathering and the (Co-)Object pattern abstract parent, by Damian Rouson and Brad Richardson
-
-[SQLite for Fortran (sqliteff)](https://github.com/everythingfunctional/sqliteff): thin wrapper around the SQLite library, by Brad Richardson. The sqliteff_* functions are effectively identical to the sqlite3_* functions that would be called from C, but with Fortran intrinsics and types.
 
 [stdlib](https://github.com/fortran-lang/stdlib): utilities, algorithms, and mathematics codes for a Fortran Standard Library, from fortran-lang. Has codes for sorting, statistics, strings, hashing, probability distributions, random number generation, numerical integration, and other numerical methods.
 
@@ -2178,11 +2188,11 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [Fortran-RInside](https://github.com/ivan-pi/Fortran-RInside): demonstration of Fortran interface to Rinside, for calling R from Fortran, by ivan-pi
 
+[fortran-tcl86](https://github.com/interkosmos/fortran-tcl86): ISO_C_BINDING interface library for interoperability with Tcl/Tk 8.6, by interkosmos, allowing the user to embed Tcl into Fortran, create Tcl extensions in Fortran (with Tcl Stubs), access (a subset of) the Tcl/Tk C API from Fortran, use Tcl as an evaluatable configuration file format, and add graphical user interfaces to Fortran programs.
+
 [fortran-unix](https://github.com/interkosmos/fortran-unix): Fortran 2008 ISO C binding interfaces to selected POSIX and SysV types, functions, and routines on 64-bit Unix-like operating systems, by interkosmos
 
 [Fortran Unsigned Wrapper (funsignedwrapper)](https://github.com/johandweber/funsignedwrapper): module with functions for accessing unsigned variables in standard Fortran 2008, by Johann Andreas Weber
-
-[fpq](https://github.com/freevryheid/fpq): modules with postgreSQL (libpq) Fortran bindings, by Andre Smit
 
 [fpydemo](https://github.com/banskt/fpydemo): demonstration of packaging a command line tool written in Python and Fortran, by Saikat Banerjee. The minimum working example has native Fortran codes compile to a shared library with F2PY, Lapack routines, and uses mpi4py for MPI parallelization.
 
@@ -2192,11 +2202,7 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [java-f90-jni-dll](https://github.com/johnvanderton/java-f90-jni-dll): demonstrates calling a Fortran dynamic link library (DLL) from Java bean by using JNI/JNA, by John Van Derton
 
-[libpq-fortran](https://github.com/ShinobuAmasaki/libpq-fortran): interface by ShinobuAmasaki to the PostgreSQL [libpq C Library](https://www.postgresql.org/docs/current/libpq.html)
-
 [Linking-f90-C-C-and-CUDA](https://github.com/CarvFS/Linking-f90-C-C-and-CUDA): Initial steps for calling C, C++ and CUDA from Fortran using the iso_c_binding, by Felipe_SC
-
-[Mariadb_connector_fortran](https://github.com/v-h-giang/Mariadb_connector_fortran): wrapper library for Mariadb-connector/C, by Vu Hoang Giang. It can be used to connect to Mairadb, MySQL, and Oracle databases.
 
 [MatlabAPI](https://github.com/robince/MatlabAPI): Fortran 95 Matlab API
 
@@ -2223,8 +2229,6 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 [statamod](https://github.com/ajshephard/statamod): provides read/write access for Stata datasets from within Fortran, by Andrew Shephard
 
 [sysexits-f18](https://github.com/kevinmatthes/sysexits-f18): Fortran 2018 version of the [sysexits.h](https://man.freebsd.org/cgi/man.cgi?query=sysexits&manpath=FreeBSD+4.3-RELEASE) codes, by Kevin Matthes
-
-[Tcl/Tk 8.6 for Fortran 2018](https://github.com/interkosmos/fortran-tcl86): ISO_C_BINDING interface library for interoperability with Tcl/Tk 8.6, by interkosmos, allowing the user to embed Tcl into Fortran, create Tcl extensions in Fortran (with Tcl Stubs), access (a subset of) the Tcl/Tk C API from Fortran, use Tcl as an evaluatable configuration file format, and add graphical user interfaces to Fortran programs.
 
 [uint-fortran](https://github.com/ShinobuAmasaki/uint-fortran): unsigned integer, 16 or 32 bit, that is interoperable with C, by Shinobu Amasaki
 
