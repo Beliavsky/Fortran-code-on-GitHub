@@ -3909,6 +3909,8 @@ Ioannis Nompelis
 
 [EnKF_analysis](https://github.com/geirev/EnKF_analysis): EnKF (Ensemble Kalman Filter) analysis routines in Fortran 90, by Geir Evensen. Stochastic and SQRT formulations with subspace inversion. There is a related [book](https://enkf.nersc.no/).
 
+[Exponentes-de-Lyapunov](https://github.com/Cygnus000/Exponentes-de-Lyapunov): code by Cygnus000 for the algorithm of the paper [Lyapunov Characteristic Exponents for smooth dynamical systems and for hamiltonian systems; a method for computing all of them.](https://link.springer.com/article/10.1007/BF02128236), by Giancarlo Benettin et al., Meccanica (1980)
+
 [FortranCWT](https://github.com/WangYun1995/FortranCWT): fast implementation of the Continuous Wavelet Transform of the 1D signals, by WangYun1995
 
 [fortsa](https://github.com/zoziha/fortsa): univariate time series analysis and ARIMA modeling package, by zoziha
