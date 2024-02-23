@@ -3362,7 +3362,9 @@ Ioannis Nompelis
 
 [Methods-in-Computational-Physics](https://github.com/sureshparekh/Methods-in-Computational-Physics): codes for various methods used in computational physics, such as Monte Carlo, Verlet Algorithm, and Euler and Runge-Kutta algorithms for ordinary differential equations, by Suresh Parekh
 
-[MolForge](https://github.com/LunghiGroup/MolForge): suite of codes using MPI for the simulation of quantum spin dynamics at the atomistic level, by Alessandro Lunghi. The codes iare developed to readily interface with electronic structure codes and make it possible to predict spin decoherence and spin-phonon relaxation fully ab initio.
+[MolForge](https://github.com/LunghiGroup/MolForge): suite of codes using MPI for the simulation of quantum spin dynamics at the atomistic level, by Alessandro Lunghi. The codes are developed to readily interface with electronic structure codes and make it possible to predict spin decoherence and spin-phonon relaxation fully ab initio.
+
+[MP_tools](https://github.com/jkulda/MP_tools): fast generation of elastic and inelastic neutron and X-ray diffuse scattering intensity maps by non-uniform FFT, by Jiri Kulda
 
 [NDO](https://github.com/Shaojun-Dong/NDO): code by Shaojun Dong to make computing Neural Density Operators (NDO) for quantum tomography straightforward, simple and fast
 
