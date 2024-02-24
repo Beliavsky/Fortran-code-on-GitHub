@@ -2588,6 +2588,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [SIS](https://github.com/Hori-Lab/SIS): coarse-grained molecular dynamics simulation with the Single-Interaction-Site RNA model, by Naoto Hori et al.
 
+[Strain_CGMD](https://github.com/ieebon/Strain_CGMD): nonlinear bending motion of single walled carbon nanotubes (SWCNT) calculated by molecular dynamics simulation has been depicted using coarse grained molecular dynamics (CGMD), which is modeled as a simple beads system, by Heeyuen Koh et al.
+
 [Structure_factor_FFT](https://github.com/jmcdaniel43/Structure_factor_FFT): computes structure factors using the particle mesh Ewald approach, by Jesse Gatten McDaniel. Either the electron density structure factor can be computed for X-ray scattering (uses form factors), or the total charge density can be computed (uses input force field charges) to evaluate sum rules
 
 ## Neural Networks and Machine Learning
