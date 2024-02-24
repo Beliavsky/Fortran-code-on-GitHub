@@ -812,6 +812,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [adflow](https://github.com/mdolab/adflow): flow solver developed by the MDO Lab at the University of Michigan. It solves the compressible Euler, laminar Navier–Stokes and Reynolds-averaged Navier–Stokes equations using structured multi-block and overset meshes.
 
+[Advanced Finite Difference flow solver with Multiple Resolution and Phase-Field implementations (AFiD-MuRPhFi)](https://github.com/chowland/AFiD-MuRPhFi): highly parallel application for simulating canonical flows in a channel domain, by Chris Howland
+
 [AerOpt](https://github.com/DrBenEvans/AerOpt): aerodynamic optimisation code based on control node parameterisation, by Ben Evans et al.
 
 [afivo-streamer](https://github.com/MD-CWI/afivo-streamer): code for fluid simulations of streamer discharges, from Multiscale Dynamics - CWI. It is based on the [afivo](https://github.com/MD-CWI/afivo) framework, which provides adaptive mesh refinement (AMR) and a multigrid solver for Poisson's equation.
