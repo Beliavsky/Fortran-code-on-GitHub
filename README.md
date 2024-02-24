@@ -2028,6 +2028,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [Scientific Fortran Tools (SciFT)](https://github.com/nfaguirrec/scift): provides a wide range of mathematical routines such as random number generators, special functions, and high-level classes to manipulate strings, files parsing, matrices, grid-based numerical functions, data structures (lists, vectors, maps, graphs), and molecules, by Nestor F. Aguirre. It uses the Intel Math Kernel Library and has been tested with the Intel Fortran compiler.
 
+[SM3-Fortran](https://github.com/zoziha/SM3-Fortran): library with a Fortran interface SM3 by zoziha of GmSSL and its usage examples. The SM3 password hashing algorithm is a hash algorithm similar to SHA-256, which belongs to the Chinese national standard. 
+
 [sourcery](https://github.com/sourceryinstitute/sourcery): utilities such as array functions, assertions, emulated intrinsic functions: findloc, emulated collective subroutines: co_sum, co_broadcast, user-defined collective subroutines: co_all, string functions, and classes for parallel data partitioning and gathering and the (Co-)Object pattern abstract parent, by Damian Rouson and Brad Richardson
 
 [stdlib](https://github.com/fortran-lang/stdlib): utilities, algorithms, and mathematics codes for a Fortran Standard Library, from fortran-lang. Has codes for sorting, statistics, strings, hashing, probability distributions, random number generation, numerical integration, and other numerical methods.
