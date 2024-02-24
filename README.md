@@ -3059,6 +3059,8 @@ diagonally preconditioned conjugate gradient
 
 [Fortran Coarray and MPI Examples](https://github.com/scivision/fortran-coarray-mpi-examples) from scivision
 
+[Fortran UNified Device Acceleration Library (FUNDAL)](https://github.com/szaghi/FUNDAL): seamlessly unifies OpenACC and OpenMP runtime routines calling in order to minimize end-user's effort in developing device-offloaded applications, by Francesco Salvadore et al.
+
 [Framework for Extensible Asynchronous Task Scheduling (FEATS)](https://github.com/sourceryinstitute/FEATS): project to develop a parallel Fortran 2018 asynchronous, task-scheduling framework for use in a range of applications, from sourceryinstitute
 
 [GPU programming with OpenMP offloading](https://github.com/csc-training/openmp-offload): exercises and other material for [course](https://events.prace-ri.eu/event/1273/), by Jussi Enkovaara et al.
