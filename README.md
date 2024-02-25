@@ -1678,6 +1678,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [H5_Assist](https://github.com/EcohydrologyTeam/H5_Assist): HDF5 interface libraries for Fortran, Java, and C#, by EcohydrologyTeam
 
+[HDF5 Fortran Wrapper](https://github.com/richardfoltyn/hdf5-fortran-wrapper): small wrapper implementing a simple interface to store and load high-dimensional arrays in Fortran, by Richard Foltyn. It is easier to use than the low-level API provided by the official HDF5 library.
+
 [High Performance Parallel Data Interface to HDF5 (h5part)](https://github.com/zoziha/h5part): interface to the structured HDF5 data format that stores multiple time-step data for particle simulation scenarios and can be used for ParaView / VisIt visualization, by zoziha
 
 [IO Fortran Library](https://github.com/acbbullock/IO-Fortran-Library): module providing high level routines for doing internal and external IO, by Austin C. Bullock. In particular, the module provides a handful of generic interfaces for performing string-based and array-based IO that are useful for recording program data, reading data into programs, and for writing formatted logs and output. 
