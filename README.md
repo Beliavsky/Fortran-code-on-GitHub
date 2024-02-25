@@ -2244,6 +2244,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [sysexits-f18](https://github.com/kevinmatthes/sysexits-f18): Fortran 2018 version of the [sysexits.h](https://man.freebsd.org/cgi/man.cgi?query=sysexits&manpath=FreeBSD+4.3-RELEASE) codes, by Kevin Matthes
 
+[tcp-client-server](https://github.com/modern-fortran/tcp-client-server): minimal TCP client and server in Fortran, used to teach interoperability with C. Companion code for Chapter 11 of [Modern Fortran: Building Efficient Parallel Applications](https://www.manning.com/books/modern-fortran), by Milan Curcic.
+
 [uint-fortran](https://github.com/ShinobuAmasaki/uint-fortran): unsigned integer, 16 or 32 bit, that is interoperable with C, by Shinobu Amasaki
 
 ## Interpolation
