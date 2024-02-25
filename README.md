@@ -1931,6 +1931,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [ForClust](https://github.com/gha3mi/forclust): manage and control a Linux system, such as adjusting the settings of the CPU and other components, by Seyed Ali Ghasemi
 
+[Fortran-corelib](https://github.com/richardfoltyn/fortran-corelib): string type, argument parser, logging, linked list, timedelta type, filesystem handling, and other basic functionality, by Richard Foltyn
+
 [Fortran General Library (FGL)](https://github.com/mobius-eng/FGL): code for bitstrings, exception handling, hash tables, lists, logging, queues, strings, sorting, JSON parsing, and other topics, from mobius-eng
 
 [fortran-kdtree](https://github.com/dongli/fortran-kdtree): implementation of KD-Tree searching by dongli. KD-Tree is a standard data structure for indexing data, especially in 3D space.
