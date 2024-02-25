@@ -1403,6 +1403,8 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [REAL](https://github.com/Dal-mzhang/REAL): Rapid Earthquake Association and Location, by Dal-mzhang
 
+[Regulated Ecosystem Model (REcoM)](https://github.com/RECOM-Regulated-Ecosystem-Model/REcoM): water column biogeochemistry and ecosystem model which incorporates cycles of carbon and nutrients (nitrogen, iron, and silicon) with varying intracellular stoichiometry in phytoplankton, zooplankton and detritus, from the Alfred Wegener Institute
+
 [ReosProject](https://github.com/vcloarec/ReosProject): tools for hydrological and hydraulic analysis
 
 [Ring current Atmosphere interactions Model with Self Consistent magnetic field (B) (RAM-SCB)](https://github.com/lanl/RAM-SCB): combines a kinetic model of ring current plasma with a three dimensional force-balanced model of the terrestrial magnetic field, from lanl. The kinetic portion, RAM, solves the kinetic equation to yield the bounce-averaged distribution function as a function of azimuth, radial distance, energy and pitch angle for three ion species (H+, He+, and O+) and, optionally, electrons.
