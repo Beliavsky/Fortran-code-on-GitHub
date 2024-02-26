@@ -538,6 +538,8 @@ simulating and forecasting meteorological phenomena.
 
 [tcane_fortran](https://github.com/eabarnes1010/tcane_fortran): evaluate pre-trained artificial neural networks to estimate consensus hurricane intensity and track errors, as well as the associated uncertainties of the network predictions. Associated paper: Barnes, Elizabeth A., Randal J. Barnes and Nicolas Gordillo, 2021: [Adding Uncertainty to Neural Network Regression Tasks in the Geosciences](https://arxiv.org/abs/2109.07250)
 
+[TorchClim](https://github.com/dudek313/torchclim): framework that allows the introduction of ML/AI models that were trained using PyTorch into a climate model (aka GCM), by dudek313 and ktrapeznikov. It facilitates a fast turnover of the train-test-run workflow allowing for quick development of ML/AI-based parametrizations into parallel and distributed environments.
+
 [UCLALES-SALSA](https://github.com/UCLALES-SALSA/UCLALES-SALSA): large-eddy model coupled with a detailed sectional microphysics module for aerosol, clouds and precipitation, by Juha Tonttila et al.
 
 [urban Dutch Atmospheric Large Eddy Simulation (u-dales)](https://github.com/uDALES/u-dales): large-eddy simulation (LES) model for urban environments. LES is an approach to turbulence modelling used in computational fluid dynamics to simulate turbulent flows over a wide range of spatial and temporal scales.
