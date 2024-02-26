@@ -3503,6 +3503,8 @@ Ioannis Nompelis
 
 [A Fortran Electronic Structure Programme (AFESP)](https://github.com/brianz98/A-Fortran-Electronic-Structure-Programme): project based on the [Crawford Group's C++ Programming Tutorial in Chemistry](https://github.com/CrawfordGroup/ProgrammingProjects), but written in Fortran, by Kirk Pearce et al. The end goal of this project will be performing HF, MP2, CCSD, and CCSD(T), as per the original tutorial, but with additional support for multicore processors (modern CPUs, GPUs).
 
+[amdkiit](https://github.com/AMDKIIT/amdkiit): density functional theory program package based on plane-wave basis sets for performing ab initio molecular dynamics at higher rungs of density functionals, by Paramita Ghosh et al.
+
 [Atoms and Molecules with Quantum Monte Carlo (Amolqc)](https://github.com/luechow-group/Amolqc): electronic structure calculations with quantum Monte Carlo (QMC), from Lüchow Group. The code features strong multideterminant and optimization capabilities.
 
 [atomistica](https://github.com/Atomistica/atomistica): library of interatomic potentials, including empirical potentials and non-orthogonal tight-binding. It is designed to be plugged into different simulation environments.
