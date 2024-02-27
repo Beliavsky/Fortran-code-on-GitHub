@@ -3539,6 +3539,8 @@ Ioannis Nompelis
 
 [EDIpack](https://github.com/QcmPlab/EDIpack): Lanczos-based solver for generic quantum impurity models exploiting distributed memory MPI parallelisation, from QcmPlab. Related is [EDlattice](https://github.com/QcmPlab/EDlattice), a parallel Exact Diagonalization algorithm for interacting electrons on a lattice.
 
+[EDMFTF](https://github.com/ru-ccmt/EDMFTF): code for DFT+Embedded Dynamical Mean Field Theory. An associated paper is [Dynamical mean-field theory within the full-potential methods: Electronic structure of CeIrIn5, CeCoIn5, and CeRhIn5](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.81.195107), by Kristjan Haule et al., Phys. Rev. B (2010).
+
 [ELectronic Structure Infrastructure (elsi)](https://github.com/ElectronicStructureLibrary/elsi-interface): provides and enhances scalable, open-source software library solutions for electronic structure calculations in materials science, condensed matter physics, chemistry, and many other fields. ELSI focuses on methods that solve or circumvent eigenvalue problems in electronic structure theory. The ELSI infrastructure should also be useful for other challenging eigenvalue problems.
 
 [EMPM_MPI](https://github.com/knappf/EMPM_MPI): codes for TDA, 2 and 3 -phonon diagonalization of nuclear Hamiltonian within Equation-of-motion Phonon Method, by knappf
