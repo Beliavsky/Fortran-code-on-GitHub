@@ -418,6 +418,8 @@ on multiscale QM/MM simulations of biological systems, but open enough to addres
 
 [svFSI](https://github.com/SimVascular/svFSI): multi-physics finite element solver for patient-specific blood flow simulation including fluid-structure interaction and cardiac electrophysiology, by Vijay Vedula et al.
 
+[System for Processing Image Data from Electron microscopy and Related fields (SPIDER)](https://github.com/spider-em/SPIDER): image processing system for electron microscopy, especially useful for single-particle reconstruction, by Joachim Frank et al.
+
 [siQ-ChIP: sans spike-in Quantitative ChIP-seq](https://github.com/BradleyDickson/siQ-ChIP): small package of bash and Fortran codes used to quantify ChIP-seq data without requiring "spike-ins" to be added to the ChIP-seq protocol. Associated with [paper](https://www.jbc.org/article/S0021-9258(17)50412-3/fulltext) J Biol Chem. 2020 Nov 20;295(47):15826-15837. "A physical basis for quantitative ChIP-sequencing" by Bradley M Dickson, Rochelle L Tiedemann, Alison A Chomiak, Evan M Cornett, Robert M Vaughan, and Scott B Rothbart
 
 [umat_cartilage](https://github.com/shayansss/umat_cartilage): subroutines for a multiphasic and fibril-reinforced model of articular cartilage, by shayansss
