@@ -1562,6 +1562,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [F2A](https://github.com/yang7857854/F2A): aero-hydro-servo-elastic tool developed based on AQWA by Yang Yang, a postdoctoral research associate in Liverpool John Moores University for performing fully coupled analysis of floating offshore wind turbines (FOWT)
 
+[friction](https://github.com/jchristopherson/friction): routines for calculating the frictional response of contacting bodies, using the Coulomb, Lu-Gre, Maxwell, Generalized Maxwell Slip, Stribeck, and Modified Stribeck models, by Jason Christopherson
+
 [Generator's high-current bus ducts](https://github.com/sarajcev/generator-bus-duct): computation of current distributions, power losses, and magnetic fields of the high-current, shielded generator bus ducts, by Petar Sarajcev
 
 [MPM3D-F90](https://github.com/xzhang66/MPM3D-F90): simplified Fortran 90 version of MPM3D that serves as the companion open source code for the book X Zhang, Z Chen, Y Liu. [The Material Point Method - A Continuum-Based Particle Method for Extreme Loading Cases](https://www.elsevier.com/books/the-material-point-method/zhang/978-0-12-407716-4). Academic Press, 2016
