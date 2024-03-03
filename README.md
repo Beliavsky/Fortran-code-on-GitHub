@@ -2789,6 +2789,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [NumFort](https://github.com/AnthonyKalaitzis/NumFort): numerical library for FORTRAN that includes quadpack, lapack, PLplot and Matplotlib source code, by Anthony Kalaitzis and Curtis Abell. It enables the use of handy mathematical macros such as linspace.
 
+[numfort](https://github.com/richardfoltyn/numfort): library implementing a subset of NumPy and SciPy, by Richard Foltyn. Has modules for creating grids, numerical integration, interpolation, optimization, finding roots, and regression.
+
 [NumLib](https://github.com/ebrooker/NumLib): Numerical Library: Demonstration of various numerical methods/recipes, by ebrooker
 
 [NumericalHUB](https://github.com/jahrWork/NumericalHUB): set of modern Fortran numerical libraries covering: zeroes of Systems of Equations, Lagrange Interpolation, Finite Differences, Cauchy Problems, Boundary Value Problems, and Initial Boundary Value Problems, associated with book [How to learn Applied Mathematics through modern FORTRAN](https://www.amazon.com/Applied-Mathematics-through-modern-FORTRAN/dp/B0851LN6HT) 
