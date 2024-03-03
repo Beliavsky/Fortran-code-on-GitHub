@@ -191,7 +191,7 @@ by ShinobuAmasaki.
 
 [Modules for Experiments in Stellar Astrophysics (MESA)](https://github.com/MESAHub/mesa): allow users to run experiments in stellar evolution. Stellar evolution calculations (i.e., stellar evolution tracks and detailed information about the evolution of internal and global properties) are a basic tool that enable a broad range of research in astrophysics. 
 
-[Multi-channel Image Reconstruction, Image Analysis, and Display (MIRIAD)}(https://github.com/astroumd/miriad): radio interferometry data-reduction package, designed for taking raw data through to the image analysis stage, by Bob Sault et al.
+[Multi-channel Image Reconstruction, Image Analysis, and Display (MIRIAD)](https://github.com/astroumd/miriad): radio interferometry data-reduction package, designed for taking raw data through to the image analysis stage, by Bob Sault et al.
 
 [msg](https://github.com/rhdtownsend/msg): Multidimensional Spectral Grids -- project for evaluating radiant properties of stellar atmospheres by rhdtownsend
 
