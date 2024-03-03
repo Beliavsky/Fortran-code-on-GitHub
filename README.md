@@ -316,8 +316,6 @@ by ShinobuAmasaki.
 
 [LINPACK](https://github.com/zaniyah/LINPACK): original (1000x1000 double precision) LINPACK benchmark, with bugfixes, by zaniyah
 
-[llvm-test-suite](https://github.com/llvm/llvm-test-suite/): LLVM test-suite repository
-
 [matmul](https://github.com/certik/matmul): matrix multiplication benchmark by Ondřej Čertík
 
 [Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks): micro benchmark comparison of Julia against other languages, including Fortran, from JuliaLang
@@ -613,6 +611,8 @@ simulating and forecasting meteorological phenomena.
 [fortran-wringer-tests](https://github.com/klausler/fortran-wringer-tests): collection of non-portable Fortran usage, standard-conformant or otherwise, by Peter Klausler, accumulated during the development of the f18 Fortran compiler (also known as "LLVM Flang")
 
 [infnan](https://github.com/zaikunzhang/infnan): functions for checking Inf/NaN, Zaikun Zhang. They should work even if the compilers are invoked with aggressive optimization flags such as `gfortran -Ofast`.
+
+[llvm-test-suite](https://github.com/llvm/llvm-test-suite/): LLVM test-suite repository
 
 [reproducers](https://github.com/HPC-Bugs/reproducers): place to submit information necessary for reproducing bugs encountered at HPC centers, by Brad Richardson and Katherine Rasmussen. The intent is that in concert with submitting a bug report to a vendor or open source project the information is also submitted here so that other HPC centers can confirm the bug, and point users to the information.
 
