@@ -2807,7 +2807,7 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [OEIS-Search-GCD-reduced](https://github.com/HugoPfoertner/OEIS-Search-GCD-reduced): extended search in the On-Line Encyclopedia of Integer Sequences (OEIS) with GCD reduction and data variants, by Hugo Pfoertner
 
-[Pade_approximants](https://github.com/JohanSchott/Pade_approximants): perform analytical continuation using Pade approximants, in Python and Fortran, by Johan Schött. Also [NNLS_NNT_MEM](https://github.com/JohanSchott/NNLS_NNT_MEM), which does analytical continuations using non-negative least squares, non-negative Tikhonov, or the maximum entropy method
+[Pade_approximants](https://github.com/JohanSchott/Pade_approximants): perform analytical continuation using Pade approximants, in Python and Fortran, by Johan Schott. Also [NNLS_NNT_MEM](https://github.com/JohanSchott/NNLS_NNT_MEM), which does analytical continuations using non-negative least squares, non-negative Tikhonov, or the maximum entropy method
 
 [polylogarithm](https://github.com/Expander/polylogarithm): C, C++ and Fortran implementations of various polylogarithms, including the real and complex dilogarithm, trilogarithm, and standard Clausen functions, by Alexander Voigt. The implementations have been fully tested against the literature and many other implementations and are highly optimized for fast numerical evaluation.
 
