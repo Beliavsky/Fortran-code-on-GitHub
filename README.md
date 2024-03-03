@@ -3092,8 +3092,7 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [focal](https://github.com/LKedward/focal): modern Fortran abstraction layer for OpenCL, by Laurence Kedward
 
-[FortranOpenACC](https://github.com/Niceno/FortranOpenACC): combine Fortran with [OpenACC](https://www.openacc.org/), by Bojan Niceno, implementing a sparse-matrix vector product, vector-vector dot product, and
-diagonally preconditioned conjugate gradient
+[FortranOpenACC](https://github.com/Niceno/FortranOpenACC): combine Fortran with [OpenACC](https://www.openacc.org/), by Bojan Niceno, implementing a sparse-matrix vector product, vector-vector dot product, and diagonally preconditioned conjugate gradient
 
 [Fortran Coarray and MPI Examples](https://github.com/scivision/fortran-coarray-mpi-examples) from scivision
 
