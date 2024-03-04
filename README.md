@@ -3711,8 +3711,6 @@ Ioannis Nompelis
 
 [M_random](https://github.com/urbanjost/M_random): module of pseudo random procedures, by urbanjost
 
-[mod_rndgen](https://github.com/wcota/mod_rndgen): module for the [KISS](https://en.wikipedia.org/wiki/KISS_(algorithm)) random number generator that allows the use of multiple independent random number generators at the same time, by Wesley Cota
-
 [normal-deviates](https://github.com/patti-favaron/normal-deviates): generates normal univariate and multivariate deviates, by Patrizia Favaron, using an improved Ziggurat method by Jurgen A. Doornik and the Cholesky decomposition
 
 [pointsets](https://github.com/arjenmarkus/pointsets): modules to construct points in N-dimensional space, such as methods to visit grid points in N-dimensional space, generate points in N-dimensional space based on Latin hypercube samping, generate regularly spaced and pseudo-random points in N-dimensional space, generate quasi-random points in Euclidean N-dimensional space, unit circle, disk, sphere or ball, and return an array of integers in a random order, by Arjen Markus
@@ -3724,6 +3722,8 @@ Ioannis Nompelis
 [rngff](https://github.com/Archaeologic-Inc/rngff): unified abstract interface for an object-oriented random number generator and a collection of implementations using various algorithms, by Brad Richardson
 
 [rfng](https://github.com/JeffIrwin/rfng): module for Mersenne twister (MT) pseudo-random number generation, by Jeff Irwin
+
+[rndgen-fortran](https://github.com/wcota/rndgen-fortran): module for the [KISS](https://en.wikipedia.org/wiki/KISS_(algorithm)) random number generator that allows the use of multiple independent random number generators at the same time, by Wesley Cota, based on a code by Thomas Vojta
 
 [rng_fortran](https://github.com/jannisteunissen/rng_fortran): generates random integers, uniform, normal, and Poisson variates, and random points on a circle or sphere, using the xoroshiro128plus generator, by Jannis Teunissen
 
