@@ -3723,7 +3723,7 @@ Ioannis Nompelis
 
 [rfng](https://github.com/JeffIrwin/rfng): module for Mersenne twister (MT) pseudo-random number generation, by Jeff Irwin
 
-[rndgen-fortran](https://github.com/wcota/rndgen-fortran): module for the [KISS](https://en.wikipedia.org/wiki/KISS_(algorithm)) random number generator that allows the use of multiple independent random number generators at the same time, by Wesley Cota, based on a code by Thomas Vojta
+[rndgen-fortran](https://github.com/wcota/rndgen-fortran): module for the [KISS](https://en.wikipedia.org/wiki/KISS_(algorithm)) random number generator that allows the use of multiple independent random number generators at the same time, by Wesley Cota, based on a code by Thomas Vojta. Module `rndgenPL_mod`, adapted from code by Silvio C. Ferreira, extends the generator to an integer power-law distribution.
 
 [rng_fortran](https://github.com/jannisteunissen/rng_fortran): generates random integers, uniform, normal, and Poisson variates, and random points on a circle or sphere, using the xoroshiro128plus generator, by Jannis Teunissen
 
