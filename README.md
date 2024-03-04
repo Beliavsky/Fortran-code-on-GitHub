@@ -936,7 +936,7 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [MGLC](https://github.com/cheryli/MGLC): multi-GPU parallel implementation of LBM(Lattice Boltzmann Method), using OpenACC to accelerate codes on single GPU and MPI for inter-GPU communication
 
-[Multi-component Flow Code (MFC)](https://github.com/MFlowCode/MFC): parallel simulation software for multi-component, multi-phase, and bubbly flows, by Spencer Bryngelson et al.
+[Multi-component Flow Code (MFC)](https://github.com/MFlowCode/MFC): parallel simulation software for multi-component, multi-phase, and bubbly flows, by Spencer Bryngelson et al. [MicroFC](https://github.com/MFlowCode/MicroFC) is a mini-app for Baer-Nunziato-like models, interface capturing schemes, finite-volume WENO reconstruction, HLLC Riemann solvers, and large-scale OpenACC offloading of (multi-component) compressible fluid dynamics
 
 [Multi Grid Large Eddy Turbulence (mglet-base)](https://github.com/kmturbulenz/mglet-base): incompressible Navier-Stokes flow solver, a subset of the commercial product MGLET from [KM Turbulenz GmbH](https://km-turbulenz.de/)
 
