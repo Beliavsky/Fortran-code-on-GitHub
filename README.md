@@ -488,6 +488,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [Himawari_HSD_Reader](https://github.com/simonrp84/Himawari_HSD_Reader): reader for data from Japan's [Himawari satellite](https://en.wikipedia.org/wiki/Himawari_8), by Simon Proud. This utility reads 'raw' HSD format data and can convert it into more friendly formats such as NetCDF4.
 
+[Hurricane Analysis and Forecast System (HAFS)](https://github.com/hafs-community/HAFS): Unified Forecast System (UFS) hurricane application, an FV3 (Finite­ Volume Cubed-Sphere Dynamical Core) based multi-scale model and data assimilation system capable of providing tropical cyclone (TC, including hurricane and typhoon) analyses and forecasts of the inner core structure
+
 [icar](https://github.com/NCAR/icar): Intermediate Complexity Atmospheric Research Model (ICAR), from NCAR, a simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses
 
 [libsim](https://github.com/ARPA-SIMC/libsim): libraries from ARPA-SIMC include a general purpose ''base'' library with modules for handling character variables, csv files, command-line arguments, physical constants, date and time computations, georeferenced coordinates, growable arrays and list structures of any type and other. Another set of libraries is specific to Meteorology and Earth Science and allows to work with gridded and sparse georeferenced data, perform interpolations, statistical processing in time, data quality control, thermodynamic computations.
