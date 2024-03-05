@@ -2416,6 +2416,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 
 [madrigal](https://github.com/octoflar/madrigal): matrix derivative tests for forward and reverse mode automatic differentiation, by R. Quast
 
+[MARIA-Fortran](https://github.com/sbudzinskiy/MARIA-Fortran): library for working with low-rank matrices and tensors: truncated SVD, truncated SVD with sketching, adaptive cross approximation with rook pivoting, cross approximation based on the maximum-volume principle, cross approximation based on the maximum-projective-volume principle, elements of Riemannian geometry of fixed-rank matrices, and tensor-train SVD, by Stanislav Budzinskiy
+
 [Matrix Equations PACKage (MEPACK)](https://github.com/mpimd-csc/mepack): library for the solution of dense Sylvester-like matrix equations, by Martin Köhler. Martin Köhler
 
 [M_blas](https://github.com/urbanjost/M_blas): Fortran BLAS library implemented as a free-format module, by urbanjost
