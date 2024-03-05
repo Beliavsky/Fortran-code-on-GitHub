@@ -3104,6 +3104,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Framework for Extensible Asynchronous Task Scheduling (FEATS)](https://github.com/sourceryinstitute/FEATS): project to develop a parallel Fortran 2018 asynchronous, task-scheduling framework for use in a range of applications, from sourceryinstitute
 
+[FUN_parallel_examples](https://github.com/BerkeleyLab/FUN_parallel_examples): examples of parallel programming using coarrays, `do concurrent`, MPI, and OpenMP, by Brad Richardson
+
 [GPU programming with OpenMP offloading](https://github.com/csc-training/openmp-offload): exercises and other material for [course](https://events.prace-ri.eu/event/1273/), by Jussi Enkovaara et al.
 
 [gpu-tips](https://github.com/dappelha/gpu-tips): Fortran examples of CUDA and directives tips and tricks for IBM Power + Nvidia Systems, by dappelha
