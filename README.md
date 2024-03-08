@@ -2134,6 +2134,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [gtk-fortran](https://github.com/vmagnin/gtk-fortran): cross-platform library to build Graphical User Interfaces (GUI), by Vincent Magnin et al. Gtk-fortran is a partial GTK / Fortran binding 100% written in Fortran, thanks to the ISO_C_BINDING module for interoperability between C and Fortran. [gtk-fortran-extra](https://github.com/vmagnin/gtk-fortran-extra) has extra examples under an MIT license
 
+[KVS.fortran](https://github.com/vizlab-kobe/KVS.fortran): interface by Naohisa Sakamoto and Go Tamura to the [Kyoto Visualization System](https://github.com/naohisas/KVS) (KVS) for scientific simulation data sets
+
 [M_attr](https://github.com/urbanjost/M_attr): set terminal text attributes using ANSI escape sequences
 
 [M_calcomp](https://github.com/urbanjost/M_calcomp): old graphics library used in conjunction with M_draw for work with old codes, by urbanjost. The CALCOMP library is a simple set of FORTRAN callable graphic routines that allows users to quickly construct plots.
