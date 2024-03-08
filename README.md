@@ -2455,6 +2455,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 
 [PaScaL_TDMA](https://github.com/MPMC-Lab/PaScaL_TDMA): efficient and scalable computational procedure to solve many tridiagonal systems in multi-dimensional partial differential equations, from MPMC-Lab
 
+[pcgcoarray](https://github.com/jvdp1/pcgcoarray): Coarray Fortran library and programs for running some iterative solvers in parallel, by Jeremie Vandenplas. The iterative solvers currently implemented are Chebyshev, Conjugate Gradient (CG), Preconditioned CG (PCG), and Flexible PCG.
+
 [pfapack-sys-rs](https://github.com/Duumbo/pfapack-sys-rs): Rust bindings by Dimitri Bonanni-Surprenant to the Fortran library [pfapack](https://michaelwimmer.org/downloads.html), a library by Michael Wimmer for numerically computing the Pfaffian of a real or complex skew-symmetric matrix
 
 [PROPACK](https://github.com/poulson/PROPACK): set of functions for computing the singular value decomposition of large and sparse or structured matrices  
