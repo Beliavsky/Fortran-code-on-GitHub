@@ -1308,6 +1308,8 @@ engine, by montagdude and Geoff Sokoll
 
 [LTRANS_microplastics](https://github.com/lsuocean/LTRANS_microplastics): code associated with paper J.-H. Liang et al., [Including the Effects of Subsurface Currents on Buoyant Particles in Lagrangian Particle Tracking Models: Model Development and its Application to the Study of Riverborne Plastics over the Louisiana/Texas Shelf](https://www.sciencedirect.com/science/article/abs/pii/S1463500321001323). Ocean Modelling (2021).
 
+[loam-chart](https://github.com/ysogg/loam-chart): takes in clay and sand percentage and determines soil type based on the soil texture triangle, by ysogg and abusch26. It is an application of the crossing number raycast algorithm.
+
 [MAIZSIM](https://github.com/USDA-ARS-ACSL/MAIZSIM): mechanistic model of maize growth, development and yield, written in C++ (crop) and Fortran (soil). The model is interfaced with [2DSOIL](https://data.nal.usda.gov/dataset/2dsoil-version-03), a two dimensional simulator of soil water and heat movement, and solute transport. 
 
 [MANDIFORE_modeling](https://github.com/MortonArb-ForestEcology/MANDIFORE_modeling): Forestry x climate scenarios for NSF-funded MANDIFORE project, by Christy Rollinson and Lucien Fitzpatrick
