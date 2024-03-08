@@ -3153,6 +3153,8 @@ Ioannis Nompelis
 
 [OpenMP_fortran_codes](https://github.com/kuldeep-tolia/OpenMP_fortran_codes): basic OpenMP codes written in Fortran, by Kuldeep Tolia
 
+[PararealF90](https://github.com/Parallel-in-Time/PararealF90): implementation of [Parareal](https://en.wikipedia.org/wiki/Parareal) by Daniel Ruprecht solving 3D Burger's equation using a forward Euler and a RK3SSP method as coarse and fine integrators. It contains three different implementations of Parareal, one based on MPI, one using OpenMP without pipelining and one using OpenMP with pipelining. All three versions compute the same result, the purpose of the code is to compare different implement strategies with respect to speedup, memory footprint and energy consumption.
+
 [Particle-In-Cell Scalable Application Resource (PICSAR)](https://github.com/ECP-WarpX/picsar): high performance repository intended to help scientists porting their Particle-In-Cell (PIC) codes to the next generation of exascale computers. PICSAR exploits the three levels of parallelism that will be required to achieve good performances on future architectures: distributed memory parallelization (internode), shared memory parallelization (intranode) and vectorization.
 
 [PM-Programming-Language](https://github.com/TimBellerby/PM-Programming-Language): The PM Programming Language, implemented in Fortran 95 by Tim Bellerby, is designed to facilitate the creation of numerical models on parallel systems. It combines concepts of parallelisation and vectorisation into a unified model.
