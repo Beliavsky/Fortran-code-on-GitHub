@@ -42,6 +42,7 @@
 * [Plasma Physics](#plasma-physics)
 * [Random Number Generation](#random-number-generation)
 * [Reactor Physics](#reactor-physics)
+* [Regular Expressions](#regular-expressions)
 * [Quantum Chemistry and Electronic Structure](#Quantum-Chemistry-and-Electronic-Structure)
 * [Sorting](#sorting)
 * [Statistics](#Statistics)
@@ -1019,11 +1020,17 @@ engine, by montagdude and Geoff Sokoll
 [WiRE-LES2](https://github.com/moulin1024/WiRE-LES2): large-eddy simulation code written in CUDA Fortran for simulating atmospheric boundary layer flows, by Mou Lin and Tristan Revaz
 
 ## Cryptography
+[Fortran77-Enigma](https://github.com/barrettotte/Fortran77-Enigma): Enigma machine emulator in FORTRAN 77, by Barrett Otte
+
 [Frypto](https://github.com/ffadrique/Frypto): cryptographic library by Fran Martinez Fadrique
+
+[Lucifer](https://github.com/interkosmos/lucifer): Arthur Sorkin’s variant of the Lucifer block cipher, a direct predecessor of DES, ported from FORTRAN IV to FORTRAN 77
 
 [sodium](https://github.com/freevryheid/sodium): Fortran bindings by Andre Smit for [libsodium](https://github.com/jedisct1/libsodium), a C library for encryption, decryption, signatures, password hashing, etc.
 
 ## Databases
+[fodbc](https://github.com/rbarrel/fodbc): interface to Open Database Connectivity ([ODBC](https://en.wikipedia.org/wiki/Open_Database_Connectivity)), by RainBarrel
+
 [fortran-mongo](https://github.com/dongli/fortran-mongo): MongoDB binding library for Fortran, by dongli
 
 [fortran-tcdb](https://github.com/interkosmos/fortran-tcdb): Fortran 2008 interface bindings to Tokyo Cabinet, by interkosmos
@@ -2199,8 +2206,6 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 [flibcpp](https://github.com/swig-fortran/flibcpp): uses SWIG-Fortran to expose useful functionality from the C++ standard library to Fortran 2003 application developers. It generates self-contained Fortran modules with native proxy classes and functions which wrap the C++ standard library.
 
 [flibhpc](https://github.com/swig-fortran/flibhpc): uses SWIG-Fortran to generate Fortran-2003 wrappers to common high performance computing (HPC) libraries. It can be used as a support library for other libraries that want to generate MPI-friendly Fortran wrappers to their code, or used by application developers who want to adapt Fortran CUDA/OpenACC code to their C++ kernels.
-
-[fodbc](https://github.com/rbarrel/fodbc): interface to Open Database Connectivity ([ODBC](https://en.wikipedia.org/wiki/Open_Database_Connectivity)), by RainBarrel
 
 [fortran-cython-examples](https://github.com/Nicholaswogan/fortran-cython-examples): examples for how to wrap Fortran with Cython, by Nick Wogan
 
@@ -3761,6 +3766,25 @@ Ioannis Nompelis
 
 [trimon](https://github.com/rabieomar92/trimon): 3D Monte Carlo Code for TRIGA Mk-II Reactor Core Calculation, by rabieomar92
 
+## Regular Expressions
+[forgex](https://github.com/ShinobuAmasaki/forgex): regular expression engine using a deterministic finite automaton ([DFA](https://en.wikipedia.org/wiki/Deterministic_finite_automaton)) approach, by Shinobu Amasaki. It provides `.in.` and `.match.` operators to detect if a pattern is contained in or exactly matches a string.
+
+[fortran_pcre](https://github.com/ZedThree/fortran_pcre): Fortran wrapper around the C PCRE regular expression library
+
+[fortran-pcre2](https://github.com/interkosmos/fortran-pcre2): Fortran 2018 ISO_C_BINDING interfaces to Perl-compatible Regular Expressions 2 (PCRE2), by interkosmos
+
+[fortran-regex](https://github.com/perazz/fortran-regex): port by Federico Perini of the [tiny-regex-c](https://github.com/kokke/tiny-regex-c) library for regular expressions. It is based on the original C implementation, but the API is modelled in Fortran style, which is similar to the intrinsic index function.
+
+[fortran_wrapper_for_regex_functions](https://github.com/borderite/fortran_wrapper_for_regex_functions): call POSIX regex functions, such as regcomp, regexec, regerror, and regfree, in the C libraries, by borderite
+
+[Fregex](https://github.com/14NGiestas/fregex): Perl Compatible Regular Expressions (PCRE) wrapper for Fortran by Ian Giestas Pauli
+
+[M_match](https://github.com/urbanjost/M_match): basic implementation in Fortran of a subset of regular expressions as described in "Software Tools" by Kernighan and Plauger, 1976.
+
+[M_regex](https://github.com/urbanjost/M_regex): Fortran interface by urbanjost to the POSIX 1003.2 regular expression library using ISO_C_BINDING
+
+[mod_pcreposix](https://github.com/tranqv/mod_pcreposix): module for working (in Unix) with the Perl compatible regular expressions, by tranqv
+
 ## Sorting
 [Fortran-Code-Snippits](https://github.com/Aussie-Pete/Fortran-Code-Snippits): codes for sorting and searching, including the Boyer–Moore string-search algorithm, by Peter Kelly
 
@@ -3908,29 +3932,17 @@ Ioannis Nompelis
 ## Strings
 [enclose](https://github.com/degawa/enclose): procedures for enclosing a string in brackets, by Tomohiro Degawa
 
-[forgex](https://github.com/ShinobuAmasaki/forgex): regular expression engine using a deterministic finite automaton ([DFA](https://en.wikipedia.org/wiki/Deterministic_finite_automaton)) approach, by Shinobu Amasaki. It provides `.in.` and `.match.` operators to detect if a pattern is contained in or exactly matches a string.
-
 [FortCharConv](https://github.com/Niranama/FortCharConv): converts character strings to numbers, by Niranama. The conversions between string and floating-point (real) number are based on various binary-decimal conversion algorithms including Dragonbox, Ryu, Schubfach, Clinger and Eisel-Lemire.
 
 [fortran202x_split](https://github.com/milancurcic/fortran202x_split): Fortran implementation of the Fortran 202X split intrinsic subroutine, by Milan Curcic and Sebastian Ehlert
 
 [fortran-ascii](https://github.com/ivan-pi/fortran-ascii): functions which operate on ASCII characters, by Ivan Pribec, aiming to reproduce the functionality found in <ctype.h> header of the C standard library or std.ascii namespace from the D runtime library.
 
-[fortran_pcre](https://github.com/ZedThree/fortran_pcre): Fortran wrapper around the C PCRE regular expression library
-
-[fortran-pcre2](https://github.com/interkosmos/fortran-pcre2): Fortran 2018 ISO_C_BINDING interfaces to Perl-compatible Regular Expressions 2 (PCRE2), by interkosmos
-
-[fortran-regex](https://github.com/perazz/fortran-regex): port by Federico Perini of the [tiny-regex-c](https://github.com/kokke/tiny-regex-c) library for regular expressions. It is based on the original C implementation, but the API is modelled in Fortran style, which is similar to the intrinsic index function.
-
 [fortran-shlex](https://github.com/perazz/fortran-shlex): port by Federico Perini of Python's [shlex](https://docs.python.org/3/library/shlex.html) shell-like lexer. The interface comes with two functions, `split` which parses a command-like string and returns an array of allocatable character strings; and `shlex` that performs the same, but returns a list of `type(shlex_token)` tokens.
 
 [fortran-strings](https://github.com/eengl/fortran-strings): library and module which contains functions for common string manipulations, by eengl
 
 [Fortran-String-to-Real](https://github.com/Carltoffel/Fortran-String-to-Real): converts strings to reals without using an internal read, by Carltoffel. [Fortran-String-to-Num](https://github.com/jalvesz/Fortran-String-to-Num) is a fork by jalvesz that aims for further improvements on the ASCII to numerical data conversion.
-
-[fortran_wrapper_for_regex_functions](https://github.com/borderite/fortran_wrapper_for_regex_functions): call POSIX regex functions, such as regcomp, regexec, regerror, and regfree, in the C libraries, by borderite
-
-[Fregex](https://github.com/14NGiestas/fregex): Perl Compatible Regular Expressions (PCRE) wrapper for Fortran by Ian Giestas Pauli
 
 [fString](https://github.com/dpettas/fString): contains methods to add strings to values or split the context of a string of more than one substrings or even extract specific values using the pattern method, by Dionisis Pettas. The main idea comes from Python and how uses its strings.
 
@@ -3940,13 +3952,7 @@ Ioannis Nompelis
 
 [M_io](https://github.com/urbanjost/M_io): collection of procedures that create a simple interface for common I/O tasks not conveniently done with intrinsic I/O procedures, by urbanjost
 
-[M_match](https://github.com/urbanjost/M_match): basic implementation in Fortran of a subset of regular expressions as described in "Software Tools" by Kernighan and Plauger, 1976.
-
 [M_overload](https://github.com/urbanjost/M_overload): overloads of standard operators and intrinsic procedures, including // to concatenate any two intrinsic types into a stringby urbanjost, a format operator to convert a variable to a string, `int` and `real` for string and logical arguments, `merge` for strings of different lengths, == and /= for logical variables, by urbanjost
-
-[M_regex](https://github.com/urbanjost/M_regex): Fortran interface by urbanjost to the POSIX 1003.2 regular expression library using ISO_C_BINDING
-
-[mod_pcreposix](https://github.com/tranqv/mod_pcreposix): module for working (in Unix) with the Perl compatible regular expressions, by tranqv
 
 [M_strings](https://github.com/urbanjost/M_strings): modules for processing strings. Routines for parsing, tokenizing, changing case, substituting new strings for substrings, locating strings with simple wildcard expressions, removing tabs and line terminators and other string manipulations are included
 
