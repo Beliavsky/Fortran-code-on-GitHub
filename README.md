@@ -644,6 +644,8 @@ simulating and forecasting meteorological phenomena.
 
 [Donostia Natural Orbital Functional Software (DoNOFsw)](https://github.com/DoNOF/DoNOFsw): performs computational chemistry calculations based on the Natural Orbital Functional Theory (NOFT), including PNOF5, PNOF6 and PNOF7. Correlation corrections after PNOF calculations can be estimated by second order perturbation theories.
 
+[DSAS](https://github.com/fuxingke0601/DSAS): uses the modified phase-retrieval algorithm to determine the anomalous scattering substructure, by Fu Xingke et al. There is an automated parameters setting method that can automatically solve the optimal algorithm parameters for different SAD data sets
+
 [duo](https://github.com/Trovemaster/Duo): diatomic code for solving a fully coupled rovibronic Schroedinger equation, by Trovemaster
 
 [Dynemol](https://github.com/lgcrego/Dynemol): tools for studying Dynamics of Electrons in Molecules, by Luis G. C. Rego and albertotrj
