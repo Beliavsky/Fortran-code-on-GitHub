@@ -634,6 +634,8 @@ simulating and forecasting meteorological phenomena.
 
 [Chemistry discovery engine (CDE)](https://github.com/ScottHabershon/cde): implements several different calculation types associated with chemical reaction-path analysis, by Joe Gilkes and Scott Habershon
 
+[ciaaw](https://github.com/MilanSkocic/ciaaw): library providing the standard and abridged atomic weights, the isotopic abundance and the isotopes' standard atomic weights, by Milan Skocic. It also provides a API for the C language.
+
 [ClassyMC](https://github.com/mrnucleation/ClassyMC): General Purpose Object Oriented Molecular Monte Carlo code. Classy is designed to be used for Metropolis Monte Carlo and other similar sampling methods in molecular simulations.
 
 [CoarseAIR](https://github.com/simoneventuri/CoarseAIR): Fortran 2008 Code for State-to-State and Coarse-Grained Quasi-Classical Trajectory (QCT) Method. Reference: S Venturi - "Machine Learning and Uncertainty Quantification Framework for Predictive Ab Initio Hypersonics" - Ph.D. Thesis, University of Illinois at Urbana-Champaign (2021)
