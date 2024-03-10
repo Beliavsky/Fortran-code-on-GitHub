@@ -2392,6 +2392,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [GEVP-PDHGEQZ](https://github.com/NLAFET/GEVP-PDHGEQZ): parallel ScaLAPACK-style package of routines for solving nonsymmetric real generalized eigenvalue problems, from NLAFET
 
+[HSSPACK](https://github.com/shengguolsg/HSSPACK): fast algorithms for the symmetric tridiagonal eigenvalue problems, the bidiagonal SVD and the banded DC problems, which are based on the hierarchically semiseparable (HSS) matrix techniques. Associated paper: [An improved divide-and-conquer algorithm for the banded matrices with narrow bandwidths](https://www.sciencedirect.com/science/article/pii/S0898122116301249), by Xiangke Liao et al., Computers & Mathematics with Applications (2016)
+
 [insitu_array](https://github.com/PaulStryck/insitu_array): in-place array transpose for Fortran, by Paul Stryck. Module uses a 1D array for storage and mimics differently shaped views to the same underlying data via pointer reassignment. 
 
 [JACSD](https://github.com/venovako/JACSD): utilities for the Jacobi-type (G/H)SVD algorithms and beyond, plus a Cosine-Sine Decomposition tester, by Vedran Novaković. Associated projects [here](https://github.com/venovako)
