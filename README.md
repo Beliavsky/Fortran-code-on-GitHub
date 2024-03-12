@@ -1587,6 +1587,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [Generator's high-current bus ducts](https://github.com/sarajcev/generator-bus-duct): computation of current distributions, power losses, and magnetic fields of the high-current, shielded generator bus ducts, by Petar Sarajcev
 
+[minimal-dx](https://github.com/dmey/minimal-dx): library for simulating the performance of single air-cooled cooling and heating direct expansion (DX) coils -- i.e. a model for a very simple air-to-air air conditioner (AC) and heat pump (HP). MinimalDX is based on [EnergyPlus](https://energyplus.net/)'s Single-Speed Electric DX Air Cooling Coil and Single-Speed DX Heating Coil Standard Ratings models.
+
 [MPM3D-F90](https://github.com/xzhang66/MPM3D-F90): simplified Fortran 90 version of MPM3D that serves as the companion open source code for the book X Zhang, Z Chen, Y Liu. [The Material Point Method - A Continuum-Based Particle Method for Extreme Loading Cases](https://www.elsevier.com/books/the-material-point-method/zhang/978-0-12-407716-4). Academic Press, 2016
 
 [openfast](https://github.com/OpenFAST/openfast): NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes
