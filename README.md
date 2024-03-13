@@ -1744,6 +1744,8 @@ Two uses are allocating arrays that are potentially bigger the RAM+swap size, an
 
 [nc4fortran](https://github.com/geospace-code/nc4fortran): object-oriented Fortran NetCDF4 interface, by geospace-code
 
+[ncdfutil](https://github.com/geoschem/ncdfutil): routines for netCDF I/O, by Bob Yantosca and Melissa Sulprizio
+
 [neasy-f](https://github.com/PlasmaFAIR/neasy-f): simple wrapper for netCDF-Fortran, from PlasmaFAIR. Rather than attempting to be a feature-complete replacement, neasy-f wraps some common functions together and is opinionated about usage.
 
 [NetCDF95](https://github.com/lguez/NetCDF95): interface to the NetCDF library, by Lionel Guez. Compared to the Fortran 90 NetCDF interface, the NetCDF95 interface is meant to be friendlier and more secure, for example freeing the user from the cumbersome task of handling the error status.
