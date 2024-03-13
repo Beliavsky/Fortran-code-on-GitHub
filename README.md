@@ -1448,6 +1448,8 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [sbetr](https://github.com/BeTR-biogeochemistry-modeling/sbetr): standalone reactive transport libary designed to be integrated into land surface models such as CLM and ALM. Associated paper: Tang, J., Riley, W. J., and Zhu, Q.: [Supporting hierarchical soil biogeochemical modeling: version 2 of the Biogeochemical Transport and Reaction model (BeTR-v2)](https://gmd.copernicus.org/articles/15/1619/2022/), Geosci. Model Dev., 15, 1619–1632
 
+[SCEPTER](https://github.com/cdr-laboratory/SCEPTER): reaction-transport code for simulating carbon dioxide removal through enhanced rock weathering, from Carbon Dioxide Removal Lab
+
 [Seismic and Radar Toolbox (SeidarT)](https://github.com/UMainedynamics/SeidarT): platform for forward modeling mechanical and electromagnetic wave propagation, by Steven P. Bernsen et al. The major objective of the project is to easily and quickly implement isotropic and anisotropic complex geometries and/or velocity structures to develop prior constraints for - not limited too - investigating, estimating, and imaging englacial ice structure, sub-glacial boundary conditions on the sub-regional scale.
 
 [SEIS_FILO](https://github.com/akuhara/SEIS_FILO): SEISmological transdimensional inversion tools for Flat and Isotropic Layered structure in the Ocean, by akuhara
