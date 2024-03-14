@@ -3561,6 +3561,8 @@ Ioannis Nompelis
 
 [amdkiit](https://github.com/AMDKIIT/amdkiit): density functional theory program package based on plane-wave basis sets for performing ab initio molecular dynamics at higher rungs of density functionals, by Paramita Ghosh et al.
 
+[APOST3D](https://github.com/mgimferrer/APOST3D): chemical concepts from wave function analysis. An associated paper is [Overlap populations, bond orders and valences for ‘fuzzy’ atoms](https://www.sciencedirect.com/science/article/abs/pii/S0009261403020220), by I. Mayer and P. Salvador, Chemical Physics Letters (2004).
+
 [Atoms and Molecules with Quantum Monte Carlo (Amolqc)](https://github.com/luechow-group/Amolqc): electronic structure calculations with quantum Monte Carlo (QMC), from Lüchow Group. The code features strong multideterminant and optimization capabilities.
 
 [atomistica](https://github.com/Atomistica/atomistica): library of interatomic potentials, including empirical potentials and non-orthogonal tight-binding. It is designed to be plugged into different simulation environments.
