@@ -95,6 +95,8 @@
 
 [cleanest](https://github.com/nicocardiel/cleanest): semiautomatic removal of cosmic rays in astronomical images, by Nicolás Cardiel and Sergio Pascual
 
+[code-ans-qnm-share](https://github.com/SYLau/code-ans-qnm-share): computes quasi-normal modes of anisotropic neutron stars, by Vincent Lau Shu Yan
+
 [Commander](https://github.com/Cosmoglobe/Commander): optimal Monte-carlo Markov chAiN Driven EstimatoR which implements fast and efficient end-to-end CMB posterior exploration through Gibbs sampling, from Cosmoglobe
 
 [Compact Object Synthesis and Monte Carlo Investigation Code (COSMIC)](https://github.com/COSMIC-PopSynth/COSMIC): rapid binary population synthesis suite with a special purpose of generating realistic compact binary populations. COSMIC can also be used to evolve binaries with BSE in a python environment.
