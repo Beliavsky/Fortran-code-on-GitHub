@@ -3164,8 +3164,7 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [INHDF5](https://github.com/nompelis/INHDF5): various utilities for using the parallel HDF5 library with MPI and Fortran, by Ioannis Nompelis
 
-[INshm](https://github.com/nompelis/INshm): library for accessing chunks of shared memory across process running on a Unix host in Fortran, by 
-Ioannis Nompelis
+[INshm](https://github.com/nompelis/INshm): library for accessing chunks of shared memory across process running on a Unix host in Fortran, by Ioannis Nompelis
 
 [matmul_fortran_tensor_core](https://github.com/samhatfield/matmul_fortran_tensor_core): Example code for calling Tensor Core GEMM from Fortran, by Sam Hatfield
 
@@ -3186,6 +3185,8 @@ Ioannis Nompelis
 [OpenACC Official Training Materials](https://github.com/OpenACC/openacc-training-materials): training materials by Jeff Larkin et al., covering profiling, OpenACC directives, GPU programming, data management, and loop optimizations, with code examples in Fortran, C, and C++. The [OpenACC Porting and Portability Guide](https://github.com/OpenACC/openacc-best-practices-guide) contains a proposed workflow when refactoring an existing application to use OpenACC, with examples provided in C, C++ and Fortran.
 
 [OpenCoarrays](https://github.com/sourceryinstitute/OpenCoarrays): parallel application binary interface for Fortran 2018 compilers, from sourceryinstitute
+
+[OpenMPExamples](https://github.com/WarwickRSE/OpenMPExamples): list of programming assignments using OpenMP and their solutions in C and Fortran, by Heather Ratcliffe and Chris Brady
 
 [OpenMP_fortran_codes](https://github.com/kuldeep-tolia/OpenMP_fortran_codes): basic OpenMP codes written in Fortran, by Kuldeep Tolia
 
