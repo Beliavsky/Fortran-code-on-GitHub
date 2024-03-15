@@ -3166,6 +3166,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [INshm](https://github.com/nompelis/INshm): library for accessing chunks of shared memory across process running on a Unix host in Fortran, by Ioannis Nompelis
 
+[IntroMPI](https://github.com/WarwickRSE/IntroMPI): codes from the [Introduction to MPI](https://warwick.ac.uk/research/rtp/sc/rse/training/intrompi/) course, by by Heather Ratcliffe and Chris Brady
+
 [matmul_fortran_tensor_core](https://github.com/samhatfield/matmul_fortran_tensor_core): Example code for calling Tensor Core GEMM from Fortran, by Sam Hatfield
 
 [miniWeather](https://github.com/mrnorman/miniWeather): mini app simulating weather-like flows for training in parallelizing accelerated HPC architectures, by mrnorman. Currently includes MPI (C, Fortran, and C++), OpenACC Offload (C and Fortran), OpenMP Threading (C and Fortran), OpenMP Offload (C and Fortran), and C++ Portability.
