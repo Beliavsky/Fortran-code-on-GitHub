@@ -2737,8 +2737,7 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [afnl](https://github.com/ramos/afnl): Fortran 90 numerical library with modules for numerical types, constants, error handling, integration, optimization, linear algebra, sorting and search, special functions, statistics, polynomials, root-finding, Fourier transforms, and dates and times, by Alberto Ramos
 
-[BesselEval](https://github.com/JamesCBremerJr/BesselEval): rapidly evaluates of Bessel functions J_nu and Y_nu of the first and seconds kinds of nonnegative real orders and positive real arguments, based on precomputed expansions, with the algorithm described in a preprint, [An algorithm for the numerical evaluation of Bessel function real orders and
- arguments](https://arxiv.org/abs/1705.07820), by James Bremer
+[BesselEval](https://github.com/JamesCBremerJr/BesselEval): rapidly evaluates of Bessel functions J_nu and Y_nu of the first and seconds kinds of nonnegative real orders and positive real arguments, based on precomputed expansions, with the algorithm described in a preprint, [An algorithm for the numerical evaluation of Bessel function real orders and arguments](https://arxiv.org/abs/1705.07820), by James Bremer
 
 [Bessel-Hankel](https://github.com/TcheL/Bessel-Hankel): examples of the Hankel transformation and calculations of Bessel functions of the 1st kind and 2nd kind, their derivatives of the 1st order and 2nd order, and their zeros, by Tche Liu
 
@@ -2823,6 +2822,8 @@ useful results regarding the thermodynamics and the structural properties of the
 [Naval Surface Warfare Center (NSWC) Mathematical Library](https://github.com/jacobwilliams/nswc): collection of Fortran 77 routines specializing in numerical mathematics.  Subroutines are available in the following areas: elementary operations, geometry, special functions, polynomials, vectors, matrices, large dense systems of linear equations, banded matrices, sparse matrices, eigenvalues and eigenvectors, L1 solution of linear equations, least-squares solution of linear equations, optimization, transforms, approximation of functions, curve fitting, surface fitting, manifold fitting, numerical integration, integral equations, ordinary differential equations, partial differential equations, and random number generation.
 
 [NCAR-Classic-Libraries-for-Geophysics](https://github.com/NCAR/NCAR-Classic-Libraries-for-Geophysics): **FFTPACK**: A library of fast Fourier transforms; **FISHPACK**: subprograms for solving separable elliptic partial differential equations (PDEs); **FISHPACK 90**: FISHPACK subprograms with a Fortran 90 interface; **MUDPACK**: Multigrid subprograms for solving separable and non-separable elliptic PDEs; and **SPHEREPACK**: A library for modeling geophysical processes
+
+[Numerical_differentiation](https://github.com/theysy/Numerical_differentiation): numerical differentiation performed using the finite difference method, complex step method, or hyper-Dual numbers, by Seongyong Yoon
 
 [NITSOL](https://github.com/cmacmackin/nitsol): Newton-iterative solution of large-scale nonlinear systems, by Homer F. Walker
 
