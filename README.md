@@ -3390,6 +3390,8 @@ Ioannis Nompelis
 
 [EMUstack](https://github.com/bjornsturmberg/EMUstack): simulation package for calculating light propagation through multi-layered stacks of dispersive, lossy, nanostructured, optical media, by Bjorn Sturmberg. It implements a generalised scattering matrix method, which extends the physical intuition of thin film optics to complex structures.
 
+[Equilipy](https://github.com/ORNL/Equilipy): Python package by Sunyong Kwon and Sam Reevethat with Fortran backend that offers multicomponent multiphase equilibrium calculations based on the CALPHAD (CALculation of PHAse Diagram) approach. With a set of Gibbs energy description (Thermochemical database) and input conditions (Composition, temperature, pressure), equilibrium phase configureation, amount, composition, and thermochemical properties can be obtained.
+
 [Esfahan Spin Simulation package (ESpinS)](https://github.com/nafiserb/ESpinS): Package for classical Monte-Carlo simulation of spin systems, by nafiserb. In ESpinS, the spin model hamiltonian of a spin system can be defined through the Heisenberg exchange, bi-quadratic, Dzyaloshinskii-Moriya, and single-ion interactions.
 
 [Ether](https://github.com/mukkelian/Ether): based on the classical lattice model (Heisenberg, XYZ, etc.), Ether has been developed by Mukesh Kumar Sharma to study the thermodynamics of any crystal system by performing the basic Monte Carlo methods. Metropolis algorithm has been used to equate all the observables
