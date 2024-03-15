@@ -115,6 +115,8 @@
 
 [DarkLim](https://github.com/spice-herald/DarkLim): statistical tools for calculating dark matter exclusion limits and sensitivity estimates, from SPICE/HeRALD 
 
+[D-NEAs](https://github.com/Fenu24/D-NEAs): Asteroid Thermal Inertia Analyzer (ASTERIA) software. An associated paper is [The low surface thermal inertia of the rapidly rotating near-Earth asteroid](https://www.aanda.org/articles/aa/abs/2023/07/aa46160-23), by M. Fenucci et al., Astronomy and Astrophysics (2023)
+
 [dStar](https://github.com/nworbde/dStar): computing neutron star structure and evolution, by Edward Brown et al.
 
 [DUMSES-hybrid](https://github.com/marcjoos-cea/dumses-hybrid): 3D MPI/OpenMP & MPI/OpenACC Eulerian second-order Godunov (magneto)hydrodynamic simulation code in cartesian, spherical and cylindrical coordinates, by Marc Joos
