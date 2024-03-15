@@ -1850,6 +1850,8 @@ Two uses are allocating arrays that are potentially bigger the RAM+swap size, an
 
 [fortran2018-examples](https://github.com/scivision/fortran2018-examples): Fortran 2018 standard examples with broad applications, from SciVision
 
+[Fortran4Researchers](https://github.com/WarwickRSE/Fortran4Researchers): code and slides for a 1-day course [Fortran for Researchers](https://warwick.ac.uk/research/rtp/sc/rse/training/fortran4res/), by by Heather Ratcliffe and Chris Brady
+
 [FortranCourse](https://github.com/pvthinker/FortranCourse): short course with each concept illustrated by a Fortran program, by Guillaume Roullet
 
 [fortran_examples](https://github.com/ECCC-ASTD-MRD/fortran_examples): examples using advanced features of Fortran, by Philippe Carphin, Samuel Gilbert, and Michel Valin
