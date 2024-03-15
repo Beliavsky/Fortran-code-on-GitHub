@@ -3188,7 +3188,7 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [OpenCoarrays](https://github.com/sourceryinstitute/OpenCoarrays): parallel application binary interface for Fortran 2018 compilers, from sourceryinstitute
 
-[OpenMPExamples](https://github.com/WarwickRSE/OpenMPExamples): list of programming assignments using OpenMP and their solutions in C and Fortran, by Heather Ratcliffe and Chris Brady
+[OpenMPExamples](https://github.com/WarwickRSE/OpenMPExamples): list of programming assignments from a course [Parallelism with Open MP](https://warwick.ac.uk/research/rtp/sc/rse/training/openmp) and their solutions in C and Fortran, by Heather Ratcliffe and Chris Brady
 
 [OpenMP_fortran_codes](https://github.com/kuldeep-tolia/OpenMP_fortran_codes): basic OpenMP codes written in Fortran, by Kuldeep Tolia
 
