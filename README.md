@@ -712,7 +712,7 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [Python-Fortran-Fluids (PyForFluids)](https://github.com/fedebenelli/PyForFluids): Python package focused in the calculation of Fluid properties based on Equations of State (EoS), by Federico E. Benelli et al. It provides a simple interface to work from Python but also exploits the high performance Fortran code for the more heavy calculations.
 
-[RocketCEA](https://github.com/sonofeft/RocketCEA): Python wrapper for the the NASA Fortran Chemical Equilibrium with Applications (CEA) code, which calculates chemical equilibrium compositions and properties of complex mixtures. Applications include assigned thermodynamic states, theoretical rocket performance, Chapman-Jouguet detonations, and shock-tube parameters for incident and reflected shocks.
+[RocketCEA](https://github.com/sonofeft/RocketCEA): Python wrapper for the the NASA Fortran [Chemical Equilibrium with Applications](https://www1.grc.nasa.gov/research-and-engineering/ceaweb/) (CEA) code, which calculates chemical equilibrium compositions and properties of complex mixtures. Applications include assigned thermodynamic states, theoretical rocket performance, Chapman-Jouguet detonations, and shock-tube parameters for incident and reflected shocks.
 
 [QCxMS](https://github.com/qcxms/QCxMS): quantum chemical (QC) based program that enables users to calculate mass spectra (MS) using Born-Oppenheimer Molecular Dynamics (MD), by Jeroen Koopman and Sebastian Ehlert. It is the successor of the QCEIMS program, in which the EI part is exchanged to x (x=EI, CID) to account for the greater general applicability of the program. [Plot Mass Spectra (PlotMS)](https://github.com/qcxms/PlotMS) is an associated plotting program.
 
