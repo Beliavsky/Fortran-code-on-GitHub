@@ -2454,6 +2454,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 
 [MARIA-Fortran](https://github.com/sbudzinskiy/MARIA-Fortran): library for working with low-rank matrices and tensors: truncated SVD, truncated SVD with sketching, adaptive cross approximation with rook pivoting, cross approximation based on the maximum-volume principle, cross approximation based on the maximum-projective-volume principle, elements of Riemannian geometry of fixed-rank matrices, and tensor-train SVD, by Stanislav Budzinskiy
 
+[Matran](https://github.com/Beliavsky/Matran): wrapper that implements matrix operations and computes matrix decompositions using Lapack and the Blas, by G. W. Stewart. Although Matran is not based on a formally defined matrix language, it provides the flavor and convenience of coding in matrix oriented systems like Matlab or Octave.
+
 [Matrix Equations PACKage (MEPACK)](https://github.com/mpimd-csc/mepack): library for the solution of dense Sylvester-like matrix equations, by Martin Köhler. Martin Köhler
 
 [M_blas](https://github.com/urbanjost/M_blas): Fortran BLAS library implemented as a free-format module, by urbanjost
