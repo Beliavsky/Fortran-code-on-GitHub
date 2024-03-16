@@ -668,7 +668,6 @@ simulating and forecasting meteorological phenomena.
 
 [Fermi-orbital descriptor Monte-Carlo (fodMC)](https://github.com/pyflosic/fodMC): generator for Fermi-orbital descriptor (FOD) positions
 to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) method, described in paper [Interpretation and automatic generation of Fermi-orbital descriptors](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.26062), S. Schwalbe, K. Trepte, et al., Journal of Computational Chemistry, vol. 40, pp. 2843-2857, 2019    
-
 [FREZCHEM](https://github.com/MarcNeveu/frezchem): includes chloride, bromide, perchlorate, nitrate, sulfate, and bicarbonate-carbonate salts, strong acid chemistry, ferrous and ferric iron chemistry, aluminum and silicon chemistries, ammonia and ammonium chemistries, methane, ethane, and propane chemistries, and gas hydrate chemistry, by Giles Marion. This version includes both temperature and pressure dependencies.
 
 [gibbs2](https://github.com/aoterodelaroza/gibbs2): calculates pressure and temperature dependent thermodynamic properties of solids from ab initio results, by aoterodelaroza
@@ -712,6 +711,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 [pydock3](https://github.com/docking-org/pydock3): Python package wrapping the [DOCK](https://dock.compbio.ucsf.edu/Overview_of_DOCK/index.htm) Fortran program that provides tools to help standardize and automate the computational methods employed in molecular docking. Docking is the identification of the low-energy binding modes of a small molecule, or ligand, within the active site of a macromolecule, or receptor, whose structure is known.
 
 [Python-Fortran-Fluids (PyForFluids)](https://github.com/fedebenelli/PyForFluids): Python package focused in the calculation of Fluid properties based on Equations of State (EoS), by Federico E. Benelli et al. It provides a simple interface to work from Python but also exploits the high performance Fortran code for the more heavy calculations.
+
+[RocketCEA](https://github.com/sonofeft/RocketCEA): Python wrapper for the the NASA Fortran Chemical Equilibrium with Applications (CEA) code, which calculates chemical equilibrium compositions and properties of complex mixtures. Applications include assigned thermodynamic states, theoretical rocket performance, Chapman-Jouguet detonations, and shock-tube parameters for incident and reflected shocks.
 
 [QCxMS](https://github.com/qcxms/QCxMS): quantum chemical (QC) based program that enables users to calculate mass spectra (MS) using Born-Oppenheimer Molecular Dynamics (MD), by Jeroen Koopman and Sebastian Ehlert. It is the successor of the QCEIMS program, in which the EI part is exchanged to x (x=EI, CID) to account for the greater general applicability of the program. [Plot Mass Spectra (PlotMS)](https://github.com/qcxms/PlotMS) is an associated plotting program.
 
