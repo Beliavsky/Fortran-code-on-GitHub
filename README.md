@@ -21,7 +21,7 @@
 * [File I/O](#file-io)
 * [Finite Elements](#finite-elements)
 * [Fortran Books and Tutorials](#fortran-books-and-tutorials)
-* [Games](#games)
+* [Games and Puzzles](#games-and-puzzles)
 * [Graphics, Plotting and User Interfaces](#graphics-plotting-and-user-interfaces)
 * [General Purpose](#general-purpose)
 * [Interoperability](#interoperability)
@@ -1902,7 +1902,7 @@ present simple ways to locate and correct those errors without the use of any de
 
 [Upgrading-to-Fortran90](https://github.com/nickbrady/Upgrading-to-Fortran90): programs from [Upgrading to Fortran 90](https://link.springer.com/book/10.1007/978-1-4612-2562-1) by Cooper Redwine (1995)
 
-## Games
+## Games and Puzzles
 [3Drendering](https://github.com/stewmasterj/3Drendering): 3D engine written to Linux framebuffer, ray-casting, by Ross J. Stewart
 
 [adventure](https://github.com/ghfbsd/adventure): original Fortran version of Adventure by Will Crowther, updated by ghfbsd to work with a modern Fortran compiler
@@ -1930,6 +1930,8 @@ present simple ways to locate and correct those errors without the use of any de
 [rubik](https://github.com/JeffIrwin/rubik): Rubik's cube command line interface game, by Jeff Irwin
 
 [SDL77](https://github.com/interkosmos/sdl77): C library for game programming in FORTRAN 77 that provides some glue code to access the software renderer of SDL 1.2, by interkosmos
+
+[sudoku](https://github.com/vmagnin/sudoku): sudoku generator and solver, by Vincent Magnin
 
 [TREK7](https://github.com/larsbrinkhoff/trek7): Star Trek simulation game written by Donald M. Ecclestone in the early 70ties for the PDP-10. The game was ported to VAX computers running VMS in 1978 by the author with the help of Dan Gahlinger.
 
