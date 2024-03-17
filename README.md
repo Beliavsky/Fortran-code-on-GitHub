@@ -2414,6 +2414,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [fortran_lsp](https://github.com/ivan-pi/fortran_lsp): Fortran routines from "Solving Least Squares Problems" by C. Lawson and R. Hanson, with improved interfaces, from ivan-pi
 
+[FortranMatrix](https://github.com/KNAnagnostop/FortranMatrix): code for matrix multiplication, trace, hermitianization, special matices, Pauli matrices, sorting, as well as more complicated calculations like computing eigenvalues, eigenvectors, determinants, Pfaffians, inverse of a matrix, and tensor products, calling Lapack and BLAS, by Konstantinos Anagnostopoulos
+
 [FSPARSE](https://github.com/jalvesz/FSPARSE): object-oriented API for sparse matrices with some basic kernels and utility functions, such as conversion from dense matrices and matrix-vector products, by jalvesz. Supported sparse matrix types are COordinate Sparse format (COO), Compressed Sparse Row format (CSR), Compressed Sparse Column format (CSC), and [ELLPACK](https://people.math.sc.edu/Burkardt/data/sparse_ellpack/sparse_ellpack.html) (ELL).
 
 [GEVP-PDHGEQZ](https://github.com/NLAFET/GEVP-PDHGEQZ): parallel ScaLAPACK-style package of routines for solving nonsymmetric real generalized eigenvalue problems, from NLAFET
