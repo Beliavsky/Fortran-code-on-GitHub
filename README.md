@@ -3181,7 +3181,7 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [INshm](https://github.com/nompelis/INshm): library for accessing chunks of shared memory across process running on a Unix host in Fortran, by Ioannis Nompelis
 
-[IntroMPI](https://github.com/WarwickRSE/IntroMPI): codes from the [Introduction to MPI](https://warwick.ac.uk/research/rtp/sc/rse/training/intrompi/) course, by by Heather Ratcliffe and Chris Brady
+[IntroMPI](https://github.com/WarwickRSE/IntroMPI): codes from the [Introduction to MPI](https://warwick.ac.uk/research/rtp/sc/rse/training/intrompi/) course, by by Heather Ratcliffe and Chris Brady. A follow-up is [IntermediateMPI-new](https://github.com/WarwickRSE/IntermediateMPI-new), which has the C and Fortran codes discussed in the talks, suggestions for exploring MPI types and Domain Decomposition problems, and scripts for using MPI on cluster systems.
 
 [matmul_fortran_tensor_core](https://github.com/samhatfield/matmul_fortran_tensor_core): Example code for calling Tensor Core GEMM from Fortran, by Sam Hatfield
 
