@@ -2806,6 +2806,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [FURY](https://github.com/szaghi/FURY): Fortran Units (environment) for Reliable phYsical math, by Stefano Zaghi
 
+[gamma_f77](https://github.com/ckormanyos/gamma_f77): implements the real-valued Gamma function in quadruple-precision, by Christopher Kormanyos
+
 [GaussJacobiQuad](https://github.com/HaoZeke/GaussJacobiQuad): routines for the Gauss-Jacobi Quadrature, by Rohit Goswami and Ondřej Čertík
 
 [GetRootsF](https://github.com/physicsfan/GetRootsF): routines for finding the roots of linear/non-linear equations, with or without derivative information, by Andrew Senchuk
