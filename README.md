@@ -3762,6 +3762,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [VASP4CLINT](https://github.com/Trebonius91/VASP4CLINT): Python and Fortran utility scripts and programs for [VASP](https://www.vasp.at/) calculations of (liquid or solid) interface systems, by Julien Steffen
 
+[VASPsol](https://github.com/henniggroup/VASPsol): solvation model for the plane wave density functional theory (DFT) code [VASP](https://www.vasp.at/). An associated paper is [Implicit solvation model for density-functional study of nanocrystal surfaces and reaction pathways](https://pubs.aip.org/aip/jcp/article-abstract/140/8/084106/1003843/Implicit-solvation-model-for-density-functional) by K. Mathew et al., J. Chem. Phys. (2014). A currently developed version, also in Fortran, is [VASPsol++](https://github.com/VASPsol/VASPsol).
+
 [wannier90](https://github.com/wannier-developers/wannier90): Maximally-Localised Generalised Wannier Functions Code
 
 [WannInt](https://github.com/irukoa/WannInt): library of utilities for Wannier interpolation, meant to serve as a building block for codes that compute the resolution of quantum mechanical operators in the Brillouin zone of a crystal, by Álvaro R. Puente-Uriona
