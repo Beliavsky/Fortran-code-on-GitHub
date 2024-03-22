@@ -115,6 +115,8 @@
 
 [DarkLim](https://github.com/spice-herald/DarkLim): statistical tools for calculating dark matter exclusion limits and sensitivity estimates, from SPICE/HeRALD 
 
+[dasilva-invariants](https://github.com/ddasilva/dasilva-invariants): Python package with Fortran code to calculate the adiabiatic invariants K and L* from gridded models of Earth’s magnetic field, by Daniel da Silva and Scot Elkington
+
 [D-NEAs](https://github.com/Fenu24/D-NEAs): Asteroid Thermal Inertia Analyzer (ASTERIA) software. An associated paper is [The low surface thermal inertia of the rapidly rotating near-Earth asteroid](https://www.aanda.org/articles/aa/abs/2023/07/aa46160-23), by M. Fenucci et al., Astronomy and Astrophysics (2023)
 
 [dStar](https://github.com/nworbde/dStar): computing neutron star structure and evolution, by Edward Brown et al.
