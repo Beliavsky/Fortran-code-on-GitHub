@@ -1483,6 +1483,8 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [SIBERIA](https://github.com/csdms-contrib/siberia): simulates the evolution of landscapes under the action of runoff and erosion over long times scales. An associated publication is Hancock, G.R.; Gibson, Abraham; Wells, T.; 2021. [Hillslope erosion in a grassland environment: Calibration and evaluation of the SIBERIA landscape evolution model](https://onlinelibrary.wiley.com/doi/10.1002/esp.5060). Earth Surface Processes and Landforms, 46, 728–743
 
+[MEP-SidersPond](https://github.com/maxEntropyProd/MEP-SidersPond): maximum entropy production (MEP) model to describe microbial biogeochemistry in Siders Pond, MA, associated with paper [Using maximum entropy production to describe microbial biogeochemistry over time and space in a meromictic pond](https://www.frontiersin.org/articles/10.3389/fenvs.2018.00100/full), by Vallino, J.J., and Huber, J.A., Frontiers in Environmental Science (2018). Also [Maximum Entropy Production - Advancing Theory in Biology (MEP-ATB)](https://github.com/maxEntropyProd/MEP-ATB).
+
 [smash](https://github.com/DassHydro-dev/smash): Python library that provides a variety of user-friendly routines for hydrological modeling, including data preprocessing, high-dimensional optimization tools, sensitivity and signatures analysis, all interfaced with an efficient Fortran solver
 
 [Structure for Unifying Multiple Modeling Alternatives (SUMMA)](https://github.com/CH-Earth/summa): hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques, by Martyn P. Clark et al.
