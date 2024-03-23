@@ -3012,6 +3012,8 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [EMSOL](https://github.com/ERGO-Code/EMSOL): primal simplex linear programming solver
 
+[Fortran-Grid-Search](https://github.com/JonBMay/Fortran-Grid-Search): simple serial grid search algorithm, by simple serial grid search algorithm
+
 [Fortran spARse Simulated annEALing library (Farseal)](https://github.com/rbarrel/Farseal): library allowing for simulated annealing computation on enormous datasets by utilizing sparse matrix storage and computation, by RainBarrel, based heavily on the work of Nicholas Herring with [OpenFSAM](https://github.com/nfherrin/OpenFSAM)
 
 [FilterSD](https://github.com/jacobwilliams/FilterSD): Fortran 77 subroutines for solving nonlinear programming problems and linearly constrained problems in continuous optimization
