@@ -2349,6 +2349,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [PCHIP](https://github.com/jacobwilliams/PCHIP): piecewise cubic Hermite interpolation of data, by Jacob Williams. It features software to produce a monotone and "visually pleasing" interpolant to monotone data.
 
+[Piecewise Polynomial Reconstruction (PPR)](https://github.com/dengwirda/PPR): high-order accurate piecewise polynomial reconstruction library, by Darren Engwirda
+
 [pytspack](https://github.com/noaa-oar-arl/pytspack): Python wrapper by Barry Baker and Zachary Moon of Robert J. Renka's [TSPACK](http://www.netlib.no/netlib/toms/716), a curve-fitting package based on exponential tension splines with automatic selection of tension factors. TSPACK is a curve-fitting package based on exponential tension splines with automatic selection of tension factors.
 
 [regridpack](https://github.com/jacobwilliams/regridpack): routines for interpolating values between one-, two-, three-, and four-dimensional arrays defined on uniform or nonuniform orthogonal grids, from Jacob Williams
