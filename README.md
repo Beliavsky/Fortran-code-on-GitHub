@@ -4098,6 +4098,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [tidybench](https://github.com/sweichwald/tidybench): TIme series DiscoverY has four algorithms for causal structure learning for time series: SLARAC (Subsampled Linear Auto-Regression Absolute Coefficients), QRBS (Quantiles of Ridge regressed Bootstrap Samples), LASAR (LASso Auto-Regression), and SELVAR (Selective auto-regressive model), by sweichwald
 
+[timeseries](https://github.com/rhandberg/timeseries): fast, optimized tools for working with times series data, using OpenMP for parallelisation, by Rasmus Handberg. Calculates weighted frequency power spectra of un-evenly sampled data, filter and extracts frequencies.
+
 [Timeslab](https://github.com/Beliavsky/Timeslab): Fortran 77 time series package by H. Joseph Newton to accompany his book "Timeslab: A Time Series Analysis Laboratory" (1988)
 
 [Time-Weighted Dynamic Time Warping (twdtw)](https://github.com/vwmaus/twdtw): R package with Fortran code for quantifying time series similarity, applicable to multi-dimensional time series of various resolutions. Associated paper: Maus, V., Camara, G., Appel, M., & Pebesma, E. (2019). [dtwSat: Time-Weighted Dynamic Time Warping for Satellite Image Time Series Analysis in R](https://www.jstatsoft.org/article/view/v088i05). Journal of Statistical Software, 88(5), 1-31.
