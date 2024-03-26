@@ -3269,6 +3269,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [fortran-weno](https://github.com/dongli/fortran-weno): implements (WENO) weighted essentially non-oscillatory algorithms, by Li Dong and Zhou Lilong
 
+[heatcompact3d](https://github.com/tlestang/heatcompact3d): 3D heat equation solver based on 6th order compact finite differences schemes, by Thibault Lestang
+
 [laplace-2D](https://github.com/TarasKuzyo/laplace-2D): solve Laplace (or Poisson) equation in 2D on a rectangular grid using OpenMP, by Taras Kuzyo
 
 [lpm-v2](https://github.com/pbosler/lpm-v2): Lagrangian Particle Methods for PDEs. Associated paper: P. Bosler, J. Kent, R. Krasny, and C. Jablonowski. [A Lagrangian particle method with remeshing for tracer transport on the sphere](https://www.sciencedirect.com/science/article/pii/S002199911730253X), Journal of Computational Physics, Volume 340, (2017), Pages 639-654
