@@ -2843,6 +2843,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [Jacobi Theta functions for Fortran](https://github.com/fremling/jacobi-theta-function-fortran): by Mikael Fremling
 
+[JFNK-Hookstep](https://github.com/apwillis1/JFNK-Hookstep): Jacobian-Free Newton-Krylov solver with Hookstep-trust-region approach, by Ashley P. Willis. It solves F(x) = 0, where F and x are n-vectors.
+
 [library](https://github.com/alexander-mead/library): code for array operations, numerical differentiation and integration, mathematical and physical constants, FFTs, interpolation, optimization, ODEs, finding roots, random number generation, sorting, statistics, strings, and other topics, by Alexander Mead
 
 [Library of Numerical Analysis - Moscow State University](https://github.com/VadimAnIsaev/Library-of-Numerical-Analysis-MSU): Translation of subroutines into modern Fortran (Fortran90 or higher) from Fortran 66. Original website: http://num-anal.srcc.msu.ru/lib_na/cat/cat0.htm
