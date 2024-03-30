@@ -2781,7 +2781,7 @@ useful results regarding the thermodynamics and the structural properties of the
 [util](https://github.com/tchlux/util): machine learning, optimization, and data science utilities package, by tchlux. [tlux](https://github.com/tchlux/tlux) has code for nonlinear regression and the ball tree algorithm for nearest neighbors
 
 ## Numerical
-[amosf90](https://github.com/Euler-37/amosf90): module for AMOS, a package for Bessel functions of a complex argument and nonnegative order, by Euler-37
+[amosf90](https://github.com/Euler-37/amosf90): module for [AMOS](https://www.netlib.org/amos/), a package for Bessel functions of a complex argument and nonnegative order, by Euler-37
 
 [antia_numerical_methods](https://github.com/Beliavsky/antia_numerical_methods): codes from "Numerical methods for scientists and engineers, 3rd ed." (2012), by H. M. Antia
 
