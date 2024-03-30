@@ -2545,6 +2545,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 
 [sparse-fortran](https://github.com/scivision/sparse-fortran): sparse array examples using MUMPS, Scalapack, BLACS, PARDISO with CMake and Meson, from SciVision
 
+[sparse_fortran](https://github.com/Euler-37/sparse_fortran): derived types for sparse matrices in COO and CSR format with functions for matrix multiplication, by Euler-37
+
 [Sparse Iterative parallel linear solver](https://github.com/tueboesen/Sparse-iterative-parallel-linear-solver): developed in Fortran/OpenMP by Tue Bosen, and designed with focus on speed especially in parallel. The code uses a block-splitting of the linear system without any overlap. It is intended to be used on matrices which have already been reordered using a reverse Cuthill-Mckee reordering.
 
 [SParse matrices in Object-Oriented Fortran (SPOOF)](https://github.com/samharrison7/spoof): modern, object-oriented Fortran library for sparse matrix computations, by Sam Harrison. It largely draws on the SPARSKIT library, adding an object-oriented interface to improve usability.
