@@ -960,6 +960,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [LPPM](https://github.com/pbosler/LPPM): Lagrangian Particle-Panel Method for solving the barotropic vorticity equation and the advection equation on the sphere and in the plane. Associated paper: P. Bosler, L. Wang, R. Krasny, and C. Jablonowski, 2014, [A Lagrangian particle/panel method for the barotropic vorticity equation on a rotating sphere](https://iopscience.iop.org/article/10.1088/0169-5983/46/3/031406), Fluid Dynamics Research, 46 : 031406.
 
+[Multi-order Approach to Calculating High-speed Linear aerodynamics (MachLine)](https://github.com/usuaero/MachLine): modern, unstructured, subsonic/supersonic flow solver currently being developed by the AeroLab. It is a linear panel method based on the Prandtl-Glauert equation.
+
 [MagIC](https://github.com/magic-sph/magic): simulates fluid dynamics in a spherical shell. MagIC solves for the Navier-Stokes equation including Coriolis force, optionally coupled with an induction equation for Magneto-Hydro Dynamics (MHD), a temperature (or entropy) equation and an equation for chemical composition under both the anelastic and the Boussinesq approximations.
 
 [MF-LBM](https://github.com/lanl/MF-LBM): Portable, Scalable and High-performance Lattice Boltzmann Code for DNS of Flow in Porous Media, from LANL
