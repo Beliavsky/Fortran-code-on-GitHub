@@ -960,8 +960,6 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [LPPM](https://github.com/pbosler/LPPM): Lagrangian Particle-Panel Method for solving the barotropic vorticity equation and the advection equation on the sphere and in the plane. Associated paper: P. Bosler, L. Wang, R. Krasny, and C. Jablonowski, 2014, [A Lagrangian particle/panel method for the barotropic vorticity equation on a rotating sphere](https://iopscience.iop.org/article/10.1088/0169-5983/46/3/031406), Fluid Dynamics Research, 46 : 031406.
 
-[Multi-order Approach to Calculating High-speed Linear aerodynamics (MachLine)](https://github.com/usuaero/MachLine): modern, unstructured, subsonic/supersonic flow solver currently being developed by the AeroLab. It is a linear panel method based on the Prandtl-Glauert equation.
-
 [MagIC](https://github.com/magic-sph/magic): simulates fluid dynamics in a spherical shell. MagIC solves for the Navier-Stokes equation including Coriolis force, optionally coupled with an induction equation for Magneto-Hydro Dynamics (MHD), a temperature (or entropy) equation and an equation for chemical composition under both the anelastic and the Boussinesq approximations.
 
 [MF-LBM](https://github.com/lanl/MF-LBM): Portable, Scalable and High-performance Lattice Boltzmann Code for DNS of Flow in Porous Media, from LANL
@@ -971,6 +969,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 [Multi-component Flow Code (MFC)](https://github.com/MFlowCode/MFC): parallel simulation software for multi-component, multi-phase, and bubbly flows, by Spencer Bryngelson et al. [MicroFC](https://github.com/MFlowCode/MicroFC) is a mini-app for Baer-Nunziato-like models, interface capturing schemes, finite-volume WENO reconstruction, HLLC Riemann solvers, and large-scale OpenACC offloading of (multi-component) compressible fluid dynamics
 
 [Multi Grid Large Eddy Turbulence (mglet-base)](https://github.com/kmturbulenz/mglet-base): incompressible Navier-Stokes flow solver, a subset of the commercial product MGLET from [KM Turbulenz GmbH](https://km-turbulenz.de/)
+
+[Multi-order Approach to Calculating High-speed Linear aerodynamics (MachLine)](https://github.com/usuaero/MachLine): modern, unstructured, subsonic/supersonic flow solver currently being developed by the AeroLab. It is a linear panel method based on the Prandtl-Glauert equation. Also [MachUp](https://github.com/usuaero/MachUp), a Numerical Lifting-Line Algorithm
 
 [Navier_Stokes_Spectral_Method](https://github.com/Minard-Jules/Navier_Stokes_Spectral_Method): Navier Stokes simulation using the spectral method, visualized with [gtk-fortran](https://github.com/vmagnin/gtk-fortran), by Jules Minard
 
