@@ -1725,6 +1725,8 @@ Two uses are allocating arrays that are potentially bigger the RAM+swap size, an
 
 [Fortran 90 General I/O Interface (F90GIO)](https://github.com/cd10kfsu/F90GIO): provides I/O interface for NetCDF, HDF4, HDF5 reading and writing, by Cheng Da
 
+[fortran_huffman](https://github.com/Euler-37/fortran_huffman): Huffman code compression, by Euler-37
+
 [fortran-messagepack](https://github.com/Sinfaen/fortran-messagepack): prototype library for [MessagePack](https://msgpack.org/index.html) (an efficient binary serialization format) support in Fortran, by Kelly Schultz
 
 [Fortran-OpenPMD-File-Writers](https://github.com/UCLA-Plasma-Simulation-Group/Fortran-OpenPMD-File-Writers): writes in parallel 2D/3D mesh field data and particle data into HDF5 files using the OpenPMD standard, by Frank S. Tsung et al.
