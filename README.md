@@ -3617,6 +3617,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [thermopack](https://github.com/SINTEF/thermopack): thermodynamic model library for fluid properties and PVT calculations, from SINTEF
 
+[THOx](https://github.com/MarioGomezRamos/THOx): Continuum Discretized Coupled-Channels code for two-body projectiles, with the possibility of including core and target excitations, from the Nuclear Theory Group of the University of Seville
+
 [TimeDependentSchrodingerHydrogen](https://github.com/afrapic/TimeDependentSchrodingerHydrogen): solves the Time Dependent Schrodinger equation for hydrogen encapsulated in fullerene interacting with a laser field, by Ana Laura Frapiccini
 
 [T-matrix for Electromagnetic Radiation with Multiple Scatterers (TERMS)](https://github.com/nano-optics/terms): simulates the near-field and far-field optical properties of collections of particles, by Dmitri Schebarchov et al. TERMS solves rigorously the Maxwell equations via the superposition T-matrix method, where incident and scattered fields are decomposed into a basis of multipolar electric and magnetic spherical waves.
