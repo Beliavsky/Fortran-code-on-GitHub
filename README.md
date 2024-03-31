@@ -680,6 +680,7 @@ simulating and forecasting meteorological phenomena.
 
 [Fermi-orbital descriptor Monte-Carlo (fodMC)](https://github.com/pyflosic/fodMC): generator for Fermi-orbital descriptor (FOD) positions
 to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) method, described in paper [Interpretation and automatic generation of Fermi-orbital descriptors](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.26062), S. Schwalbe, K. Trepte, et al., Journal of Computational Chemistry, vol. 40, pp. 2843-2857, 2019    
+
 [FREZCHEM](https://github.com/MarcNeveu/frezchem): includes chloride, bromide, perchlorate, nitrate, sulfate, and bicarbonate-carbonate salts, strong acid chemistry, ferrous and ferric iron chemistry, aluminum and silicon chemistries, ammonia and ammonium chemistries, methane, ethane, and propane chemistries, and gas hydrate chemistry, by Giles Marion. This version includes both temperature and pressure dependencies.
 
 [forsus](https://github.com/ipqa-research/forsus): provides a simple API to read json files containing pure component information, which can be used in other projects, by José Antonio Scilipoti
@@ -719,6 +720,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 [numsa](https://github.com/grimme-lab/numsa): solvent accessible surface area calculation, from grimme-lab
 
 [PICLas](https://github.com/piclas-framework/piclas): parallel, three-dimensional PIC-DSMC solver developed cooperatively by the Institute of Space Systems, Institute of Aerodynamics and Gas Dynamics at the University of Stuttgart and the spin-off boltzplatz. PICLas is a flexible particle-based plasma simulation suite.
+
+[PGLWrapper](https://github.com/PGLadmin/PGLWrapper): code for Chapters 6-9 of [The Properties of Gases and Liquids, 6th ed.](https://www.mhprofessional.com/the-properties-of-gases-and-liquids-sixth-edition-9781260116342-usa), by J. Richard Elliott et al., focusing on equations of state (EOSs) to correlate and predict thermodynamic properties of pure compounds and mixtures
 
 [pmflib](https://github.com/kulhanek/pmflib): toolkit for Free Energy Calculations, by kulhanek
 
