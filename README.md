@@ -1195,6 +1195,8 @@ engine, by montagdude and Geoff Sokoll
 
 [DSM Kernel Suite](https://github.com/IPGP/DSM-Kernel): calculates 3D finite frequency Fréchet sensitivity kernels (or 3D waveform partial derivatives) for 1D reference Earth models using Direct Solution Method, by Nobuaki Fuji et al. It consists of forward and back propagated strain Green's function calculation in a 2D plane, cross correlations of forward and back propagated wavefields to obtain sensitivity kernels.
 
+[DSMsynTI-mpi](https://github.com/UT-GlobalSeismology/DSMsynTI-mpi): software for computing synthetic seismograms in spherically symmetric, transversely isotropic (TI) media using the Direct Solution Method (DSM), from the [Global Seismology Group of the University of Tokyo](https://utglobalseismology.org/en/member/). An associated paper is [Complete synthetic seismograms up to 2 Hz for transversely isotropic spherically symmetric media](https://academic.oup.com/gji/article/164/2/411/776381), by Kenji Kawai et al., Geophysical Journal International (2006).
+
 [Dynamically Simple Model of Atmospheric Chemical Complexity (DSMACC)](https://github.com/barronh/DSMACC): tropospheric chemistry box model designed to help understand the composition of the troposphere in a flexible and friendly manner. It is written to address a range of problems ranging from calculating the expected concentrations of atmospheric radicals to comparing chemistry schemes.
 
 [Earth_ABL_model](https://github.com/RichardDavy84/Earth_ABL_model): E-epsilon-tau turbulence closure model for the atmospheric boundary layer of Earth, by Einar Orn Olason et al.
