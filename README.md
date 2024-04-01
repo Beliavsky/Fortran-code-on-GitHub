@@ -2556,6 +2556,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 
 [Sherman-Morrison](https://github.com/TREX-CoE/Sherman-Morrison): matrix-inversion algorithms based on the paper of P. Maponi, "The solution of linear systems by using the Sherman–Morrison formula", doi:10.1016/j.laa.2006.07.007, from TREX-CoE
 
+[SOLVERS_BCGSTAB_GMRES](https://github.com/JNSresearcher/SOLVERS_BCGSTAB_GMRES): BiConjugate Gradient STABilization (BiCGSTAB) and Generalized Minimum RESidual (GMRES) methods for solving sparse linear systems, with an application to calculating of three-dimensional fields, by J. Sochor
+
 [sparse-fortran](https://github.com/scivision/sparse-fortran): sparse array examples using MUMPS, Scalapack, BLACS, PARDISO with CMake and Meson, from SciVision
 
 [sparse_fortran](https://github.com/Euler-37/sparse_fortran): derived types for sparse matrices in COO and CSR format with functions for matrix multiplication, by Euler-37
