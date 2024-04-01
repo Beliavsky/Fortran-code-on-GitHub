@@ -3541,6 +3541,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [MolForge](https://github.com/LunghiGroup/MolForge): suite of codes using MPI for the simulation of quantum spin dynamics at the atomistic level, by Alessandro Lunghi. The codes are developed to readily interface with electronic structure codes and make it possible to predict spin decoherence and spin-phonon relaxation fully ab initio.
 
+[molpop-cep](https://github.com/aasensio/molpop-cep): code for the exact solution of radiative transfer problems in multi-level atomic systems, by Andrés Asensio Ramos. The novel contribution of the code is that the radiative transfer equations is analytically integrated so that the final problem is reduced to the solution of a non- linear algebraic system of equations in the level populations.
+
 [MP_tools](https://github.com/jkulda/MP_tools): fast generation of elastic and inelastic neutron and X-ray diffuse scattering intensity maps by non-uniform FFT, by Jiri Kulda
 
 [NDO](https://github.com/Shaojun-Dong/NDO): code by Shaojun Dong to make computing Neural Density Operators (NDO) for quantum tomography straightforward, simple and fast
