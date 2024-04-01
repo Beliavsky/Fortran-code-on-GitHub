@@ -1754,6 +1754,8 @@ Two uses are allocating arrays that are potentially bigger the RAM+swap size, an
 
 [HDF5 Fortran Wrapper](https://github.com/richardfoltyn/hdf5-fortran-wrapper): small wrapper implementing a simple interface to store and load high-dimensional arrays in Fortran, by Richard Foltyn. It is easier to use than the low-level API provided by the official HDF5 library.
 
+[HDF5_utils](https://github.com/jterwin/HDF5_utils): high level interface to HDF5, by Justin Erwin. The library aims to abstract most of the HDF5 types, read/write datasets of multiple types and ranks, read/write full assumed-shape arrays, remove the need to pass dimensions, read/write attributes to file/group/datasets, provide the ability to create groups, aaccess datasets by either absolute or relative path, check if a dataset/object exists, and get rank and size of a dataset, either to check dimensions or to allocate array before reading.
+
 [High Performance Parallel Data Interface to HDF5 (h5part)](https://github.com/zoziha/h5part): interface to the structured HDF5 data format that stores multiple time-step data for particle simulation scenarios and can be used for ParaView / VisIt visualization, by zoziha
 
 [IO Fortran Library](https://github.com/acbbullock/IO-Fortran-Library): module providing high level routines for doing internal and external IO, by Austin C. Bullock. In particular, the module provides a handful of generic interfaces for performing string-based and array-based IO that are useful for recording program data, reading data into programs, and for writing formatted logs and output. 
