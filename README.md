@@ -565,7 +565,7 @@ simulating and forecasting meteorological phenomena.
 
 [Unified Forecast System (UFS) weather model](https://github.com/ufs-community/ufs-weather-model): weather model is used in several of the UFS applications, including the medium-range weather application and the short-range weather application.
 
-[VenusPT-tables](https://github.com/Razumovskyy/VenusPT-tables): atmospheric absorption coefficient calculator: Utilizing [HITRAN](https://hitran.org/) and custom spectroscopy for Venus and Mars radiative transfer studies, by Mikhail Razumovskiy
+[VenusPT-tables](https://github.com/Razumovskyy/VenusPT-tables): atmospheric absorption coefficient calculator: Utilizing [HITRAN](https://hitran.org/) and custom spectroscopy for Venus and Mars radiative transfer studies, by Mikhail Razumovskiy. Also [PrecisionSpec-Analyzer](https://github.com/Razumovskyy/PrecisionSpec-Analyzer), a high-precision tool for atmospheric absorption calculations over narrow spectral ranges, focusing on detailed spectroscopic analysis using HITRAN and HITEMP data with standard and custom line shapes for terrestrial atmospheric studies.
 
 [weather-buoys](https://github.com/modern-fortran/weather-buoys): Processing weather buoy data in parallel, from modern-fortran
 
