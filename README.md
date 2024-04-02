@@ -1615,6 +1615,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 ## Engineering
 [Bonneville Power Administration Interactive Power Flow and Transient Stability Program (bpa-ipf-tsp)](https://github.com/mbheinen/bpa-ipf-tsp): family of programs for doing power flow studies. IPF models the balanced steady-state operation of an electric power network.
 
+[BsaLib](https://github.com/miEsMar/BsaLib): library for the Bispectral Stochastic Analysis of structures under non-Gaussian stationary random actions. An associated paper is [Non-Gaussian buffeting analysis of large structures by means of a Proper Orthogonal Decomposition](https://www.sciencedirect.com/science/article/abs/pii/S0167610523002799), by M. Esposito Marzino and V. Denoël, Journal of Wind Engineering and Industrial Aerodynamics (2023).
+
 [CCFatiguePlatform](https://github.com/EPFL-ENAC/CCFatiguePlatform): web application to faciltate manipulation and harmonized storage of composite materials testing datasets, from EPFL-ENAC
 
 [Deformation Monitoring Package (DMPACK)](https://github.com/dabamos/dmpack): package for sensor control and automated time series processing in geodesy and geotechnics, consisting of a library libdmpack and additional programs based on it which serve as a reference implementation of solutions to various problems in deformation monitoring, by Philipp Engel
