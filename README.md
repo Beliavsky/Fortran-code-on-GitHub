@@ -1754,6 +1754,8 @@ Two uses are allocating arrays that are potentially bigger the RAM+swap size, an
 
 [fortran-yaml-cpp](https://github.com/Nicholaswogan/fortran-yaml-cpp): YAML parser for Fortran matching the YAML 1.2 spec, by Nick Wogan. This package uses the C++ package yaml-cpp to parse yaml documents and then stores the data in Fortran derived types created by fortran-yaml.
 
+[fortran-zstd](https://github.com/interkosmos/fortran-zstd): Fortran 2018 interface bindings to selected [Zstandard](https://facebook.github.io/zstd/) functions, by interkosmos. Zstandard is a fast compression algorithm, providing high compression ratios.
+
 [H5_Assist](https://github.com/EcohydrologyTeam/H5_Assist): HDF5 interface libraries for Fortran, Java, and C#, by EcohydrologyTeam
 
 [HDF5 Fortran Wrapper](https://github.com/richardfoltyn/hdf5-fortran-wrapper): small wrapper implementing a simple interface to store and load high-dimensional arrays in Fortran, by Richard Foltyn. It is easier to use than the low-level API provided by the official HDF5 library.
