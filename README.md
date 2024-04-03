@@ -1512,6 +1512,8 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [Super-Fast INundation of CoastS (SFINCS)](https://github.com/Deltares/SFINCS): reduced-complexity model designed for super-fast modelling of compound flooding events in a dynamic way, from Deltares
 
+[Surface wave Adjoint Travel-time Tomography (SurfATT-iso)](https://github.com/xumi1993/SurfATT-iso): package for surface wave travel-time tomography, which is designed to invert surface wave travel-time data for 2D/3D isotropic or azimuthal anisotropic velocity structures. An associated paper is [Topography-Incorporated Adjoint-State Surface Wave Traveltime Tomography: Method and a Case Study in Hawaii](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JB027454), by Shijie Hao et al., Journal of Geophysical Research: Solid Earth (2024).
+
 [Shear-wave birefringence analysis (SHEBA)](https://github.com/jwookey/sheba): code associated with Wüstefeld, A.; Al-Harrasi, O.; Verdon, J.; Wookey, J. and Kendall, J-M. (2010) "A strategy for automated analysis of passive microseismic data to image seismic anisotropy and fracture characteristics", Geophysical Prospecting, vol 58, 755–773, DOI:10.1111/j.1365-2478.2010.00891.x
 
 [ShellSet](https://github.com/JonBMay/ShellSet): parallel dynamic neotectonic modelling, by Jon B. May, Peter Bird, and Michele M. C. Carafa
