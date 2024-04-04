@@ -515,6 +515,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [Limited-area Version of GAME (L-GAME)](https://github.com/OpenNWP/L-GAME): numerical weather prediction (NWP) model. It is the application of the theory behind [GAME](https://github.com/opennwp/game) to a regional quadrilateral grid.
 
+[LMDZE](https://github.com/lguez/LMDZE): simplified version of the [LMDZ](http://lmdz.lmd.jussieu.fr/) atmospheric general circulation model, by Lionel Guez. It has evolved aiming at clarity and robustness of the source code, taking advantage of modern features of the Fortran language.
+
 [MITgcm](https://github.com/MITgcm/MITgcm): A numerical model designed for study of the atmosphere, ocean, and climate, MITgcm’s (General Circulation Model) flexible non-hydrostatic formulation enables it to efficiently simulate fluid phenomena over a wide range of scales; its adjoint capabilities enable it to be applied to sensitivity questions and to parameter and state estimation problems.
 
 [Model for Prediction Across Scales (MPAS)](https://github.com/MPAS-Dev/MPAS-Model): develops atmosphere, ocean, and other earth-system simulation components for use in climate, regional climate, and weather studies. The primary development partners are the climate modeling group at Los Alamos National Laboratory (COSIM) and the National Center for Atmospheric Research.
