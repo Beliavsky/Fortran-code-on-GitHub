@@ -1013,6 +1013,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [phasta](https://github.com/PHASTA/phasta): Parallel Hierarchic Adaptive Stabilized Transient Analysis of compressible and incompressible Navier Stokes equations
 
+[PixelFlow](https://github.com/nobu-n2002/PixelFlow): deals with incompressible fluids and implements the collocated grid Marker-and-Cell (MAC) method using a regular orthogonal grid. Associated paper: [A novel approach for wall-boundary immersed flow simulation (proposal of modified Navier-Stokes equation)](https://www.jstage.jst.go.jp/article/jfst/18/4/18_2023jfst0034/_article), by Nobuyuki Oshima, Journal of Fluid Science and Technology (2023).
+
 [preCICE fortran-module](https://github.com/precice/fortran-module): interface to [preCICE](https://precice.org/), an open-source coupling library for partitioned multi-physics simulations, including, but not restricted to fluid-structure interaction and conjugate heat transfer simulations
 
 [Propeller Panel Method (PROPAN)](https://github.com/joaomrbaltazar/PROPAN): panel code for the calculation of steady and unsteady potential flow around foils, open and ducted propellers, and wind and marine current turbines. PROPAN was developed by MARETEC (Marine and Environmental Technology Research Centre) at Instituto Superior Técnico (IST), which belongs to Lisbon University.
