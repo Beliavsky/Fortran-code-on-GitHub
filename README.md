@@ -3967,6 +3967,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [BayesRCO](https://github.com/fmollandin/BayesRCO): complex trait prediction with Bayesian hierarchical models using genome-wide genetic variation grouped into potentially overlapping annotation categories based on prior biological information (e.g., functional annotations, candidate gene lists, known causal variants), by Fanny Mollandin and Andrea Rau.
 
+[BFpack](https://github.com/jomulder/BFpack) R package with Fortran code for for flexible Bases factor testing of hypotheses on key parameters in commonly used statistical models in applied research, by Joris Mulder.
+
 [BMSL](https://github.com/benRenard/BMSL): mathematical and statistical libraries, geared toward environmental / hydrological applications, by Ben Renard. 
 
 [Bunch-Gay-Welsch Statistical Estimation (BGW)](https://github.com/cran/bgw): R package with Fortran code that exploits the special structure of statistical estimation problems within a trust-region-based optimization approach to produce an estimation algorithm that is much more effective than the usual practice of using optimization methods and codes originally developed for general optimization. It implements a function that performs maximum likelihood estimation (MLE) for a user-provided model object that computes probabilities (a.k.a. probability densities).
