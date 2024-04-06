@@ -1651,7 +1651,7 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [pyAVL](https://github.com/joanibal/pyAVL): stripped down version of Mark Drela and Harold Youngren's famous [AVL](https://web.mit.edu/drela/Public/web/avl/) code for the aerodynamic and flight-dynamic analysis of rigid aircraft of arbitrary configuration, wrapped in Python with f2py by Josh Anibal. This allows one to more easily conduct large parameter sweeps in AVL or to include AVL into a larger model.
 
-[Reference OpenSource Controller (ROSCO) for wind turbine applications](https://github.com/NREL/ROSCO#nrels-reference-opensource-controller-rosco-for-wind-turbine-applications): modular and fully adaptable baseline wind turbine controller to the scientific community, from NREL. Because of the open character and modular set-up, scientists are able to collaborate and contribute in making continuous improvements to the code.
+[Reference OpenSource Controller (ROSCO) for wind turbine applications](https://github.com/NREL/ROSCO): modular and fully adaptable baseline wind turbine controller to the scientific community, from NREL. Because of the open character and modular set-up, scientists are able to collaborate and contribute in making continuous improvements to the code.
 
 [Radar_ElectroOptical_Simulation](https://github.com/bgin/Radar_ElectroOptical_Simulation): models and simulates the inner workings of Radar systems, Electro-Optical active and passive sources of IR radiation, and missile guidance systems, by Bernard Gingold
 
