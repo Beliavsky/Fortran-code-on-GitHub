@@ -3959,6 +3959,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [asurv](https://github.com/rsnemmen/asurv): suite of statistical methods for the analysis of censored data; i.e. data which are known to lie above or below some limit, by rsnemmen
 
+[Bayesian Correlation Testing (BCT)](https://github.com/jomulder/BCT): code associated with the paper [Bayes factor testing of equality and order constraints on measures of association in social research](https://www.tandfonline.com/doi/full/10.1080/02664763.2021.1992360), by Joris Mulder and John P. T. M. Gelissen, Journal of Applied Statistics (2023)
+
 [Bayesian Inference for Factor Modeling (BayesFM)](https://github.com/cran/BayesFM): R package with a collection of procedures to perform Bayesian analysis on a variety of factor models, calling Fortran 2003 code, by Rémi Piatek. It includes random number generators for uniform and non-uniform distributions.
 
 [Bayesian Modeling (BaM)](https://github.com/BaM-tools/BaM): framework aimed at estimating a model using a Bayesian approach and using it for prediction, with a particular focus on uncertainty quantification, by Ben Renard and Emeline Perret
