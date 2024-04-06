@@ -3597,6 +3597,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Quantum Annealing Machine Emulator](https://github.com/camsenec/qa-emulator): quantum annealing simulation on SpinGlass model using Path Integral Monte Carlo method, by Tomoya Tanaka
 
+[quasielasticbayes](https://github.com/mantidproject/quasielasticbayes): Python wrappers by Rob Applin et al. for Fortran routines that perform Bayesian analysis on quasi-elastic neutron-scattering data, originally by Devinder Sivia
+
 [raytracer_3D](https://github.com/ceden/raytracer_3D): simulates the radiative energy transfer equation for internal gravity waves in 6 dimensions, by ceden
 
 [scadyn](https://github.com/jherrane/scadyn): code for scattering dynamics calculations, which utilizes a volume integral equation solution for the T-matrices of non-spherical scatterers, by Joonas Herranen. The main motivations for the development of this code are the study of grain alignment dynamics in interstellar environments and optical tweezers and traps.
