@@ -3615,8 +3615,6 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [signedMCRT](https://github.com/lewisfish/signedMCRT): use of signed distance fields in Monte Carlo Radiative Transfer, by Lewis McMillan. This allows modelling of smooth surfaces without the need to use triangle or similar meshes.
 
-[Slave Spins](https://github.com/QcmPlab/Slave-Spins): flexible slave spins mean-field code, with support for multi-band structure and inequivalent sites, from QcmPlab. This code uses MPI for faster execution.
-
 [SNAP](https://github.com/lanl/SNAP): proxy application to model the performance of a modern discrete ordinates neutral particle transport application, from LANL
 
 [SPECTRA-PKA](https://github.com/fispact/SPECTRA-PKA): calculates the expected primary knock-on atom (PKA) spectra for a given target nuclide under neutron or charged particle irradiation, by Mark Gilbert and Michael Fleming. NJOY-processed recoil matrices must be provided as the input nuclear data for each nuclide and reaction channel of interest. 
