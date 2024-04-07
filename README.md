@@ -2607,6 +2607,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 [Zolo-SVD](https://github.com/shengguolsg/Zolo-SVD): implements QDWH-PD, QDWH-SVD, and Zolo-SVD algorithms. It uses the [ELPA](https://pure.mpg.de/rest/items/item_2029617/component/file_2030620/content) package to compute the eigendecompositions when computing SVD. A structured QR factorization algorithm is also included, which are modified from Scalapack routines and are usually faster. Associated paper: [A high performance implementation of Zolo-SVD algorithm on distributed memory systems](https://www.sciencedirect.com/science/article/abs/pii/S0167819118301807), by Shengguo Li et al., Parallel Computing (2019).
 
 ## Materials Science
+[Abaqus-Fortran-Subroutine](https://github.com/SpringNuance/Abaqus-Fortran-Subroutine): documentation and examples of Fortran subroutines calling Abaqus, by Nguyen Xuan Binh
+
 [ABAQUS_subroutines](https://github.com/davidmorinNTNU/ABAQUS_subroutines): codes covering some aspects of material mechanics, by David Morin. Each example has a Fortran subroutine, an ABAQUS input file for both Standard and Explicit, a Python post-processing script to extract results from ABAQUS/viewer, a Python script to plot the results, and
 a PDF presentation of the subroutine, the input file structure and the results.
 
