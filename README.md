@@ -1896,7 +1896,7 @@ Two uses are allocating arrays that are potentially bigger the RAM+swap size, an
 [tensor-algebra](https://github.com/CfKu/tensor-algebra): some frequently required methods for the implementation of problems in the field of continuum mechanics, e.g. tensor algebra, by CfKu. These methods are usually needed and used to implement user subroutines in finite element software written in Fortran.
 
 ## Fortran Books and Tutorials
-[coarray-tutorial](https://github.com/tkoenig1/coarray-tutorial): short tutorial using gfortran, ifort, or NAG Fortran, by tkoenig1
+ [coarray-tutorial](https://github.com/tkoenig1/coarray-tutorial): short tutorial using gfortran, ifort, or NAG Fortran, by tkoenig1
 
 [Computational_Techniques](https://github.com/jaqg/Computational_Techniques): Computational Techniques and Numerical Calculations course of the Erasmus Mundus [Theoretical Chemistry and Computational Modelling Master's program](https://www.emtccm.org/). Part 1 introduces Fortran, and later parts discuss numerical methods.
 
@@ -1931,6 +1931,8 @@ Two uses are allocating arrays that are potentially bigger the RAM+swap size, an
 [fortran-tuto](https://github.com/HamzaM3/fortran-tuto): code of the Fortran [video tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8&ab_channel=DerekBanas) by Derek Banas
 
 [githubactions_intro](https://github.com/ofmla/githubactions_intro): introduces Github Actions as a tool for lightweight automation of scientific data workflows, with examples in Python and Fortran using gnuplot, by Oscar Mojica
+
+[Intermediate Modern Fortran](https://github.com/ARCHER2-HPC/archer2-fortran-inter): intermediate course focusing on some of the more recent features which are central to Modern Fortran, by Kevin Stratford. Two main topics are the facilities in Fortran for abstraction and polymorphism provided by classes and interfaces, and the facilities for formal interoperability with ANSI C.
 
 [Introduction to Fortran Debugging](https://github.com/aperezhortal/fortran_debugging_introduction): reviews the most common types of errors and
 present simple ways to locate and correct those errors without the use of any debugging applications, by Andres Perez Hortal. The common errors are illustrated using simple Fortran applications where the simple debugging techniques are applied.
