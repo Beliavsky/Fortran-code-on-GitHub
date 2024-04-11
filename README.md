@@ -3273,6 +3273,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [mpi_examples](https://github.com/maruthinh/mpi_examples): MPI examples: Bcast, Point-to-point communication, Scattering and Gathering 2D and 3D arrays with variable chunk sizes, and MPI Derived data types: MPI_Type_contiguous, MPI_Type_create_subarray, MPI_Type_resized, by maruthinh
 
+[mpifort-io-example](https://github.com/dliptai/mpifort-io-example): example of how to parallel read/write 3D arrays (plus a header) with MPI-IO, by David Liptai
+
 [mpifx](https://github.com/dftbplus/mpifx): provides modern Fortran (Fortran 2003) wrappers around routines of the MPI library to make their use as simple as possible, from dftbplus. Currently several data distribution routines are covered.
 
 [nbody-ifx-do-concurrent](https://github.com/sarojadhikari/nbody-ifx-do-concurrent): N-body Fortran code port to test ifx (Intel Fortran) GPU offload of `do concurrent`, by Saroj Adhikari
