@@ -3289,6 +3289,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [OpenMPExamples](https://github.com/WarwickRSE/OpenMPExamples): list of programming assignments from a course [Parallelism with Open MP](https://warwick.ac.uk/research/rtp/sc/rse/training/openmp) and their solutions in C and Fortran, by Heather Ratcliffe and Chris Brady
 
+[OpenMP for Computational Scientists](https://github.com/UoB-HPC/openmp-for-cs): 6-part course introducing the OpenMP programming model to Fortran programmers, with example codes and slides, by Tom Deakin et al.
+
 [OpenMP_fortran_codes](https://github.com/kuldeep-tolia/OpenMP_fortran_codes): basic OpenMP codes written in Fortran, by Kuldeep Tolia
 
 [PararealF90](https://github.com/Parallel-in-Time/PararealF90): implementation of [Parareal](https://en.wikipedia.org/wiki/Parareal) by Daniel Ruprecht solving 3D Burger's equation using a forward Euler and a RK3SSP method as coarse and fine integrators. It contains three different implementations of Parareal, one based on MPI, one using OpenMP without pipelining and one using OpenMP with pipelining. All three versions compute the same result, the purpose of the code is to compare different implement strategies with respect to speedup, memory footprint and energy consumption.
