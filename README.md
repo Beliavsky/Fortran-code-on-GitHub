@@ -1912,6 +1912,8 @@ Two uses are allocating arrays that are potentially bigger the RAM+swap size, an
 
 [Fortran4Researchers](https://github.com/WarwickRSE/Fortran4Researchers): code and slides for a 1-day course [Fortran for Researchers](https://warwick.ac.uk/research/rtp/sc/rse/training/fortran4res/), by by Heather Ratcliffe and Chris Brady
 
+[fortran-cpp-equivalents](https://github.com/jeffhole/fortran-cpp-equivalents): collection of Modern Fortran and Modern C++ code snippets showing similar structures and processes between them, by Jeff Hole
+
 [FortranCourse](https://github.com/pvthinker/FortranCourse): short course with each concept illustrated by a Fortran program, by Guillaume Roullet
 
 [fortran_examples](https://github.com/ECCC-ASTD-MRD/fortran_examples): examples using advanced features of Fortran, by Philippe Carphin, Samuel Gilbert, and Michel Valin
