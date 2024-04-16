@@ -1163,6 +1163,8 @@ engine, by montagdude and Geoff Sokoll
 
 [ClusterIn](https://github.com/tolenius/ClusterIn): add-on for aerosol microphysics models for explicitly simulating the dynamics of particle formation from vapors. Associated paper: [Role of gas–molecular cluster–aerosol dynamics in atmospheric new-particle formation](https://www.nature.com/articles/s41598-022-14525-y), by Tinja Olenius & Pontus Roldin, Scientific Reports volume 12, Article number: 10135 (2022).
 
+[cms2d](https://github.com/erdc/cms2d): coastal modeling system that couples a wave, circulation, and morphology model together to get better predictions in the near-shore, by Mitchell Brown et al.
+
 [CoastalApp](https://github.com/noaa-ocs-modeling/CoastalApp): modeling framework for coastal applications and regional forecasts, from NOAA's Office of Coast Survey. It consists of coupled modeling components that link the atmospheric, ocean and terrestrial realms under one common framework.
 
 [Community Atmosphere Biosphere Land Exchange model (CABLE)](https://github.com/CABLE-LSM/CABLE): land surface model, used to calculate the fluxes of momentum, energy, water and carbon between the land surface and the atmosphere and to model the major biogeochemical cycles of the land ecosystem, by Claire Carouge et al.
