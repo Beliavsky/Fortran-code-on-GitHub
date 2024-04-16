@@ -1494,6 +1494,8 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [SCEPTER](https://github.com/cdr-laboratory/SCEPTER): reaction-transport code for simulating carbon dioxide removal through enhanced rock weathering, from Carbon Dioxide Removal Lab
 
+[SCSM2.5d](https://github.com/mswonscsm/SCSM2.5d): 2.5D seismic wave modeling program that uses a subdomain Chebyshev spectral finite difference method, by mswonscsm. It can handle various modeling scenarios including viscoacoustic, isotropic viscoelastic, anisotropic viscoelastic (VTI, ORT, and TTI), solid and water free surfaces, and water-solid interfaces.
+
 [Seismic and Radar Toolbox (SeidarT)](https://github.com/UMainedynamics/SeidarT): platform for forward modeling mechanical and electromagnetic wave propagation, by Steven P. Bernsen et al. The major objective of the project is to easily and quickly implement isotropic and anisotropic complex geometries and/or velocity structures to develop prior constraints for - not limited too - investigating, estimating, and imaging englacial ice structure, sub-glacial boundary conditions on the sub-regional scale.
 
 [SEIS_FILO](https://github.com/akuhara/SEIS_FILO): SEISmological transdimensional inversion tools for Flat and Isotropic Layered structure in the Ocean, by akuhara
