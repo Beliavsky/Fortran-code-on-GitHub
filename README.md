@@ -3687,6 +3687,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [w2dynamics](https://github.com/w2dynamics/w2dynamics): continuous-time hybridization-expansion Monte Carlo code for calculating n-particle Green's functions of the Anderson impurity model and within dynamical mean-field theory, by Markus Wallerberger et al.
 
+[X-ray-induced Thermal And Nonthermal Transitions (XTANT-3)](https://github.com/N-Medvedev/XTANT-3): An associated paper is [Electron-phonon coupling in metals at high electronic temperatures](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.064302), by N. Medvedev and I. Milov, Phys. Rev. B. (2020)
+
 ## Quantum Chemistry and Electronic Structure
 [abinit](https://github.com/abinit/abinit): atomic-scale simulation software suite
 
