@@ -374,6 +374,8 @@ Luis Harvey Triana Vega
 [CAMI-Gz-Effects-Model-CGEM-](https://github.com/AAM-631/CAMI-Gz-Effects-Model-CGEM-): resource flow-based model of symptom induction and recovery from Gz accelerations in aeronauts. Associated report: [Cerebral Blood Flow Based Computer
 Modeling of Gz-Induced Effects](https://pubmed.ncbi.nlm.nih.gov/37069756/), by Kyle Copeland and James E. Whinnery, Civil Aerospace Medical Institute (CAMI) (2023)
 
+[Chromatin_Code](https://github.com/achalmahajan1/Chromatin_Code): simulates the genome organization at a resolution of ~100 kbp, along with phase separation of active and silent regions of the genome using first principles. Associated paper: [Euchromatin Activity Enhances Segregation and Compaction of Heterochromatin in the Cell Nucleus](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.041033), by Achal Mahajan et al., Phys. Rev. X (2022)
+
 [COVID-testbias](https://github.com/dkhaz/COVID-testbias): Understanding the Bias between the Number of Confirmed Cases and Actual Number of Infections in the COVID-19 Pandemic, by dkhaz and xingangchen
 
 [covid19-vac-st](https://github.com/wcota/covid19-vac-st): code and data for the paper [Effects of infection fatality ratio and social contact matrices on vaccine prioritization strategies](https://pubs.aip.org/aip/cha/article-abstract/32/9/093102/2835812/Effects-of-infection-fatality-ratio-and-social), by A. Schulenburg, W. Cota, G. S. Costa, and S. C. Ferreira, Chaos. 2022 Sep;32(9):093102
