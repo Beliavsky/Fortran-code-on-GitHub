@@ -2830,11 +2830,13 @@ useful results regarding the thermodynamics and the structural properties of the
 [util](https://github.com/tchlux/util): machine learning, optimization, and data science utilities package, by tchlux. [tlux](https://github.com/tchlux/tlux) has code for nonlinear regression and the ball tree algorithm for nearest neighbors
 
 ## Numerical
+[afnl](https://github.com/ramos/afnl): Fortran 90 numerical library with modules for numerical types, constants, error handling, integration, optimization, linear algebra, sorting and search, special functions, statistics, polynomials, root-finding, Fourier transforms, and dates and times, by Alberto Ramos
+
 [amosf90](https://github.com/Euler-37/amosf90): module for [AMOS](https://www.netlib.org/amos/), a package for Bessel functions of a complex argument and nonnegative order, by Euler-37
 
 [antia_numerical_methods](https://github.com/Beliavsky/antia_numerical_methods): codes from "Numerical methods for scientists and engineers, 3rd ed." (2012), by H. M. Antia
 
-[afnl](https://github.com/ramos/afnl): Fortran 90 numerical library with modules for numerical types, constants, error handling, integration, optimization, linear algebra, sorting and search, special functions, statistics, polynomials, root-finding, Fourier transforms, and dates and times, by Alberto Ramos
+[appell](https://github.com/cran/appell): R package with Fortran code to compute [Appell's F1 hypergeometric function](https://reference.wolfram.com/language/ref/AppellF1.html)
 
 [BesselEval](https://github.com/JamesCBremerJr/BesselEval): rapidly evaluates of Bessel functions J_nu and Y_nu of the first and seconds kinds of nonnegative real orders and positive real arguments, based on precomputed expansions, with the algorithm described in a preprint, [An algorithm for the numerical evaluation of Bessel function real orders and arguments](https://arxiv.org/abs/1705.07820), by James Bremer
 
