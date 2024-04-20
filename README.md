@@ -3800,6 +3800,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [MuST](https://github.com/mstsuite/MuST): Multiple Scattering Theory code for first principles calculations, from mstsuite. Ab initio electronic structure calculation software package, with petascale and beyond computing capability, for the first principles study of quantum phenomena in disordered materials.
 
+[NanoGW](https://github.com/PARSEC-real-space-code/NanoGW): implements a Lanczos-based method to accelerate full-frequency GW calculations. Associated paper: [Optical excitations in organic molecules, clusters, and defects studied by first-principles Green's function methods](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.73.205334), by Murilo L. Tiago and James R. Chelikowsky, Phys. Rev. B (2006).
+
 [NECI](https://github.com/ghb24/NECI_STABLE): implements the Full Configuration Interaction Quantum Monte Carlo (FCIQMC) algorithm, a method based on a stochastic application of the Hamiltonian matrix on a sparse sampling of the wave function. The program utilizes a very powerful parallelization and scales efficiently to more than 24 000 central processing unit cores.
 
 [nonadiabatic statistical theory (NAST) package](https://github.com/svarganov/NAST): predicts kinetics of spin-dependent processes, including intersystem crossings, spin-forbidden reactions, and spin crossovers, by Sergey Varganov. The NAST package can calculate the probabilities and rates of transitions between the electronic states of different spin multiplicities. 
