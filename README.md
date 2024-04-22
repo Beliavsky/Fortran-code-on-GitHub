@@ -290,6 +290,8 @@ by ShinobuAmasaki.
 
 [White Dwarf Evolution Code (WDEC)](https://github.com/kim554/wdec): code associated with paper [WDEC: A Code for Modeling White Dwarf Structure and Pulsations](https://iopscience.iop.org/article/10.3847/1538-3881/aab70e) (2018), by Agnès Bischoff-Kim and Michael H. Montgomery
 
+[WinNet](https://github.com/nuc-astro/WinNet): single zone nuclear reaction network, capable of calculating many different nucleosynthesis processes (i.e., r-process, nup-process, explosive nucleosynthesis, and many more), associated with paper [The Nuclear Reaction Network WinNet](https://iopscience.iop.org/article/10.3847/1538-4365/acf033), by M. Reichert et al., Astrophysical Journal (2023)
+
 [XNet](https://github.com/starkiller-astro/XNet): thermonuclear reaction network for astrophysical applications, using a variety of temporal integration techniques, from starkiller-astro. It is written in portable modern Fortran and makes use of a variety of matrix solving packages to obtain excellent speed (as much as 50% of peak) on as many platforms as possible.
 
 ## Benchmarks
