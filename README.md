@@ -1199,6 +1199,8 @@ engine, by montagdude and Geoff Sokoll
 
 [Data-Interpolating Variational Analysis (DIVA)](https://github.com/gher-ulg/DIVA): spatial interpolation of data (analysis) in an optimal way, comparable to optimal interpolation (OI), by Sylvain Watelet et al. In comparison to OI, it takes into account coastlines, sub-basins and advection.
 
+[DC](https://github.com/ejimeneztejero/DC): code associated with paper [Downward continuation of marine seismic reflection data: an undervalued tool to improve velocity models](https://academic.oup.com/gji/article/230/2/831/6539333), by Clara Estela Jimenez-Tejero et al., Geophysical Journal International (2022)
+
 [DC3D.f90](https://github.com/hydrocoast/DC3D.f90): calculates displacement and its space derivative at an arbitrary point on the surface or inside of the semi-infinite medium due to a point source (DC3D0) or a finite rectangular fault (DC3D) based on the formulation by Okada (1992) [Bull. Seism. Soc. Am., 82, 1018-1040]. Translated to free source form by Takuya Miyashita.
 
 [D-Claw](https://github.com/geoflows/D-Claw): numerical software for modeling granular-fluid flows. It is built on top of Clawpack (clawpack.org), and is an extension and generalization of the shallow-water code GeoClaw (geoclaw.org), which includes algorithms for general shallow earth-surface flows.
