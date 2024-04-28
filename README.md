@@ -1081,11 +1081,13 @@ engine, by montagdude and Geoff Sokoll
 ## Databases
 [fodbc](https://github.com/rbarrel/fodbc): interface to Open Database Connectivity ([ODBC](https://en.wikipedia.org/wiki/Open_Database_Connectivity)), by RainBarrel
 
+[fortran-lmdb](https://github.com/interkosmos/fortran-lmdb): collection of interface bindings by interkosmos by the OpenLDAP [Lightning Memory-Mapped Database](http://www.lmdb.tech/doc/) (LMDB), a B-tree-based database management library modeled loosely on the BerkeleyDB API
+
 [fortran-mongo](https://github.com/dongli/fortran-mongo): MongoDB binding library for Fortran, by dongli
 
-[fortran-tcdb](https://github.com/interkosmos/fortran-tcdb): Fortran 2008 interface bindings to Tokyo Cabinet, by interkosmos
-
 [fortran-sqlite3](https://github.com/interkosmos/fortran-sqlite3): Fortran 2018 interface bindings to SQLite 3, by interkosmos
+
+[fortran-tcdb](https://github.com/interkosmos/fortran-tcdb): Fortran 2008 interface bindings to Tokyo Cabinet, by interkosmos
 
 [fpq](https://github.com/freevryheid/fpq): modules with PostgreSQL (libpq) Fortran bindings, by Andre Smit
 
