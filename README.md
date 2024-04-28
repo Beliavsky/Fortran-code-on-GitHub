@@ -1324,6 +1324,8 @@ engine, by montagdude and Geoff Sokoll
 
 [HYbrid Coordinate Ocean Model (HYCOM)](https://github.com/HYCOM/HYCOM-src): data-assimilative hybrid isopycnal-sigma-pressure (generalized) coordinate ocean model, with objectives of three-dimensional depiction of the ocean state at fine resolution in real time, provision of boundary conditions for coastal and regional models, and provision of oceanic boundary conditions for a global coupled ocean-atmosphere prediction model
 
+[HypoDD](https://github.com/fwaldhauser/HypoDD): program package associated with paper [A Double-Difference Earthquake Location Algorithm: Method and Application to the Northern Hayward Fault, California](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/90/6/1353/120565/A-Double-Difference-Earthquake-Location-Algorithm), by Felix Waldhauser and William L. Ellsworth, Bulletin of the Seismological Society of America (2000)
+
 [hypoellipse](https://github.com/INGV/hypoellipse): determines hypocenters and magnitudes of near regional earthquakes and the ellipsoids that enclose the 68-percent confidence volumes of the computed hypocenters. HYPOELLIPSE was developed to meet the needs of U.S. Geological Survey (USGS) scientists studying crustal and sub-crustal earthquakes recorded by a sparse regional seismograph network. 
 
 [HypoTremorMCMC](https://github.com/akuhara/HypoTremorMCMC): associated preprint: [Locating tectonic tremors with uncertainty estimates: Time- and amplitude-difference optimization, wave propagation-based quality control, and Bayesian inversion](https://eartharxiv.org/repository/view/5256/)(2023) by Takeshi Akuhara et al.
