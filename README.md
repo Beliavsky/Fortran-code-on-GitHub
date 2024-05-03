@@ -2164,6 +2164,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [pFlogger](https://github.com/Goddard-Fortran-Ecosystem/pFlogger): parallel Fortran logger based on the design of the Python logger, from Goddard-Fortran-Ecosystem
 
+[fortran_arithmetic](https://github.com/PhiPsi-Software/fortran_arithmetic): read keywords from an input file, identifies parameter definitions, and performs arithmetic operations to generate a new input file, by Fang Shi. The program was extracted from the finite element code [PhiPsi](https://github.com/PhiPsi-Software/PhiPsi_XFEM_Fortran_Codes_Early_Version).
+
 [progressbar](https://github.com/giambagiamba/progressbar): simple C library for drawing a progress bar on a memory mapped log file, designed to introduce as little overhead as possible, by G-Lorenz and giambagiamba. It is compatible with C++ and Fortran.
 
 [QDUtilLib](https://github.com/lauvergn/QDUtilLib): modules for numerical parameters, strings, reading and write matrices, and linear algebra, by lauvergn
