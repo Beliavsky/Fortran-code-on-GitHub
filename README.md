@@ -1561,6 +1561,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [SUTRASET](https://github.com/SUTRASET/SUTRASET): extended USGS SUTRA 2.2 considering seepage(S), evaporation(E) and tide(T)
 
+[SWAP-SAMUCA](https://github.com/Murilodsv/SWAP-SAMUCA): process-based crop model for simulations of sugarcane growth and water dynamics. Associated paper: [Modelling the trash blanket effect on sugarcane growth and water use](https://www.sciencedirect.com/science/article/abs/pii/S0168169919316217), by Murilo dos Santos Vianna et al., Computers and Electronics in Agriculture (2020).
+
 [SWMM5 +](https://github.com/CIMM-ORG/SWMM5plus): prototype Fortran 2008 engine for the EPA Storm Water Management Model (SWMM), by Gerardo Andrés Riaño Briceño et al.
 
 [SW_VAR_DENS_MODEL](https://github.com/demichie/SW_VAR_DENS_MODEL): model shallow gas-particles flows over digital elevation models (DEMs) of natural terrain, by demichie. The model solves for the conservation equations (mass,momentum,energy) of the mixture, and accounts for sedimentation, erosion, friction and entrainment. 
