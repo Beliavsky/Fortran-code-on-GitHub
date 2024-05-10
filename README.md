@@ -4096,6 +4096,8 @@ Phys. Rev. B (2022)
 
 [npregfast](https://github.com/sestelo/npregfast): R package with Fortran code for obtaining nonparametric estimates of regression models with or without factor-by-curve interactions using local polynomial kernel smoothers or splines, by Marta Sestelo
 
+[odrpack95](https://github.com/HugoMVale/odrpack95): collection of subprograms modernized by HugoMVale for fitting a model to data with bound constraints on the model parameters, designed primarily for instances when the explanatory as well as the response variables have significant errors. An associated paper is [Algorithm 869: ODRPACK95: A weighted orthogonal distance regression code with bound constraints](https://dl.acm.org/doi/abs/10.1145/1268776.1268782), by Jason W. Zwolak et al., ACM Transactions on Mathematical Software (2007).
+
 [Optimal Subset CArdinality Regression models (oscar)](https://github.com/Syksy/oscar): R package with underlying Fortran code by T. D. Laajala
 
 [ParaMonte](https://github.com/cdslaborg/paramonte): Plain Powerful Parallel Monte Carlo and MCMC Library for Python, MATLAB, Fortran, C++, C, from cdslaborg
