@@ -3150,6 +3150,8 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [LMBM](https://github.com/wilmerhenao/LMBM): Limited Memory Bundle Method for general, possible nonconvex, nonsmooth (nondifferentiable) large-scale minimization, by Napsu Karmitsa. Her [site](http://napsu.karmitsa.fi/) has other codes for nonsmooth optimization, clustering, regression, and imputation
 
+[Method of Moving Asymptotes (MMA-in-Fortran)](https://github.com/jeffreyguevaracorzo/MMA-in-Fortran): subroutines by Jeffrey Guevara-Corzo that are adaptations/translations of Matlab code associated with the paper [A class of globally convergent optimization methods based on conservative convex separable approximations](https://epubs.siam.org/doi/abs/10.1137/S1052623499362822?download=true&journalCode=sjope8), by Krister Svanberg, SIAM Journal of Optimization (2002)
+
 [MJDP_software](https://github.com/ralna/MJDP_software): Fortran 77 optimization codes by M. J. D. Powell -- bobyqa, cobyla, lincoa, newuoa, tolmin, and uobyqa. The modernized reference implementation is [PRIMA](https://github.com/libprima/prima).
 
 [Minimization](https://github.com/BramvandePut/Minimization): numerical minimization of n-dimensional mathematical functions, by BramvandePut
