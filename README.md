@@ -3033,7 +3033,7 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [IntegralALL](https://github.com/neutrinomuon/IntegralALL): integrate arrays and functions numerically using Gauss-Legendre Quadrature, Simpson's rule, the trapezoidal rule, and other methods, by Jean Gomes. The Python package pyintegralall calls the Fortran code. 
 
-[integrate_fortran](https://github.com/Euler-37/integrate_fortran): Gauss–Legendre quadrature for 1D and multidimensional integrals, by Euler-37
+[integrate_fortran](https://github.com/Euler-37/integrate_fortran): Gauss-Legendre quadrature for 1D and multidimensional integrals, by Euler-37
 
 [Legendre-Gauss-Lobatto-Quadrature](https://github.com/SpirosZafeiris/Legendre-Gauss-Lobatto-Quadrature): module that calculates the Legendre-Gauss-Lobatto Quadrature as well as a useful set of functions for the Jacobi polynomials, by SpirosZafeiris
 
