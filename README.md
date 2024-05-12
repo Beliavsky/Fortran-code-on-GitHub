@@ -1759,8 +1759,7 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [FiNeR](https://github.com/szaghi/FiNeR): IO of INI (config) files for modern (2003+) Fortran projects, by szaghi and kostyfisik
 
-[fmmap](https://github.com/PierUgit/fmmap): provides some of the features of the C posix or Windows memory mapped files under a simple and unique Fortran interface, by PierUgit.
-Two uses are allocating arrays that are potentially bigger the RAM+swap size, and which are backed in a temporary file (anonymous mapping), and opening existing files or creating new files, and mapping them to an array.
+[fmmap](https://github.com/PierUgit/fmmap): provides some of the features of the C posix or Windows memory mapped files under a simple and unique Fortran interface, by PierUgit. Two uses are allocating arrays that are potentially bigger the RAM+swap size, and which are backed in a temporary file (anonymous mapping), and opening existing files or creating new files, and mapping them to an array.
 
 [fortdb](https://github.com/jpf-x/fortdb): Fortran Database (binary) file definition that allows easy reading and writing of datasets, with Fortran and Python interfaces, by jpf-x
 
