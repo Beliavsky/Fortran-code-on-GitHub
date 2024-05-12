@@ -1917,7 +1917,7 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 [tensor-algebra](https://github.com/CfKu/tensor-algebra): some frequently required methods for the implementation of problems in the field of continuum mechanics, e.g. tensor algebra, by CfKu. These methods are usually needed and used to implement user subroutines in finite element software written in Fortran.
 
 ## Fortran Books and Tutorials
- [coarray-tutorial](https://github.com/tkoenig1/coarray-tutorial): short tutorial using gfortran, ifort, or NAG Fortran, by tkoenig1
+[coarray-tutorial](https://github.com/tkoenig1/coarray-tutorial): short tutorial using gfortran, ifort, or NAG Fortran, by Thomas Koenig
 
 [Computational_Techniques](https://github.com/jaqg/Computational_Techniques): Computational Techniques and Numerical Calculations course of the Erasmus Mundus [Theoretical Chemistry and Computational Modelling Master's program](https://www.emtccm.org/). Part 1 introduces Fortran, and later parts discuss numerical methods.
 
