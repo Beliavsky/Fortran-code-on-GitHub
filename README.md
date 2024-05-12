@@ -2336,6 +2336,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fortran-cython-examples](https://github.com/Nicholaswogan/fortran-cython-examples): examples for how to wrap Fortran with Cython, by Nick Wogan
 
+[fortran-in-go](https://github.com/ryanrocket/fortran-in-go): shows how to compile Fortran code into a shared object with relative memory positioning (-fPIC) and allow Go to dynamically link it at compilation time, by ryanrocket
+
 [fortran-in-python](https://github.com/HugoMVale/fortran-in-python): examples of how to build and call Fortran modules in Python using ctypes and f2py, by HugoMVale
 
 [FortranInterop](https://github.com/Vereyon/FortranInterop): documentation and example code on how to make Fortran interoperate with the .NET framework, covering callbacks, strings and mixed mode assemblies, by Christ Akkermans, with links to three blog posts.
