@@ -3589,8 +3589,7 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [libTNSP](https://github.com/Shaojun-Dong/libTNSP): code for paper [TNSPackage: A Fortran2003 library designed for tensor network state methods](https://www.sciencedirect.com/science/article/abs/pii/S001046551830078X), by Shaojun Dong et al., Computer Physics Communications, Volume 228, July 2018, Pages 163-177
 
-[Linear Response Transport Centre (LinReTraCe)](https://github.com/LinReTraCe/LinReTraCe): package for the simulation of transport properties driven by carriers with finite lifetimes, associated with the paper [Prototypical many-body signatures in transport properties of semiconductors](https://arxiv.org/abs/2112.07604), by Matthias Pickem et al., 
-Phys. Rev. B (2022)
+[Linear Response Transport Centre (LinReTraCe)](https://github.com/LinReTraCe/LinReTraCe): package for the simulation of transport properties driven by carriers with finite lifetimes, associated with the paper [Prototypical many-body signatures in transport properties of semiconductors](https://arxiv.org/abs/2112.07604), by Matthias Pickem et al., Phys. Rev. B (2022)
 
 [Los Alamos Crystal Cut (LCC)](https://github.com/lanl/LCC): simple crystal builder, an easy-to-use and easy-to-develop code to make crystal solid/shape and slabs from a crystal lattice, by Christian Negre
 
