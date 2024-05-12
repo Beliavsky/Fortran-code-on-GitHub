@@ -2647,8 +2647,7 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 [ABAQUS_subroutines](https://github.com/davidmorinNTNU/ABAQUS_subroutines): codes covering some aspects of material mechanics, by David Morin. Each example has a Fortran subroutine, an ABAQUS input file for both Standard and Explicit, a Python post-processing script to extract results from ABAQUS/viewer, a Python script to plot the results, and
 a PDF presentation of the subroutine, the input file structure and the results.
 
-[Atom/Molecule/Material Software Kit (atomsk)](https://github.com/pierrehirel/atomsk): command-line program meant to manipulate
-atomic systems, and convert from and to various file formats, by pierrehirel et al.
+[Atom/Molecule/Material Software Kit (atomsk)](https://github.com/pierrehirel/atomsk): command-line program meant to manipulate atomic systems, and convert from and to various file formats, by pierrehirel et al.
 
 [cdpm2](https://github.com/githubgrasp/cdpm2): related [paper](https://www.sciencedirect.com/science/article/pii/S0020768313002886): Grassl, Peter, Dimitrios Xenos, Ulrika Nyström, Rasmus Rempling, and Kent Gylltoft. "CDPM2: A damage-plasticity approach to modelling the failure of concrete." International Journal of Solids and Structures 50, no. 24 (2013): 3805-3816
 
