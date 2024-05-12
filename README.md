@@ -1078,7 +1078,7 @@ engine, by montagdude and Geoff Sokoll
 
 [Frypto](https://github.com/ffadrique/Frypto): cryptographic library by Fran Martinez Fadrique
 
-[Lucifer](https://github.com/interkosmos/lucifer): Arthur Sorkin’s variant of the Lucifer block cipher, a direct predecessor of DES, ported from FORTRAN IV to FORTRAN 77
+[Lucifer](https://github.com/interkosmos/lucifer): Arthur Sorkin's variant of the Lucifer block cipher, a direct predecessor of DES, ported from FORTRAN IV to FORTRAN 77
 
 [sodium](https://github.com/freevryheid/sodium): Fortran bindings by Andre Smit for [libsodium](https://github.com/jedisct1/libsodium), a C library for encryption, decryption, signatures, password hashing, etc.
 
