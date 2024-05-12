@@ -1931,7 +1931,7 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [fortran2018-examples](https://github.com/scivision/fortran2018-examples): Fortran 2018 standard examples with broad applications, from SciVision
 
-[Fortran4Researchers](https://github.com/WarwickRSE/Fortran4Researchers): code and slides for a 1-day course [Fortran for Researchers](https://warwick.ac.uk/research/rtp/sc/rse/training/fortran4res/), by by Heather Ratcliffe and Chris Brady
+[Fortran4Researchers](https://github.com/WarwickRSE/Fortran4Researchers): code and slides for a 1-day course [Fortran for Researchers](https://warwick.ac.uk/research/rtp/sc/rse/training/fortran4res/), by Heather Ratcliffe and Chris Brady
 
 [fortran-cpp-equivalents](https://github.com/jeffhole/fortran-cpp-equivalents): collection of Modern Fortran and Modern C++ code snippets showing similar structures and processes between them, by Jeff Hole
 
