@@ -1638,6 +1638,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [HANK](https://github.com/ikarib/HANK): replication of the computational algorithm for solving Heterogeneous Agent New Keynesian (HANK) model, by ikarib. The original code was written in Fortran utilizing SparseSuite library and parallelized using MPI on the cluster with 33 CPUs (Intel Xeon CPU E5-2695 v4 @ 2.10GHz) with total runtime of 1.5 hours.
 
+[National Energy Modeling System (NEMS)]: long-term energy-economy modeling system of U.S. energy markets, from the Energy Information Administration. The model is used to project production, imports, exports, conversion, consumption, and prices of energy, subject to user-defined assumptions.
+
 [numx](https://github.com/alpgodev/numx): High-Performance Library for Portfolio Optimization and Risk Analysis, by alpgodev
 
 [trendInflation](https://github.com/elmarmertens/trendInflation): code for trend inflation model of Mertens (2016, REStat, http://dx.doi.org/10.1162/REST_a_00549) and Garnier, Mertens and Nelson (2015, IJCB, http://www.ijcb.org/journal/ijcb15q4a2.htm). The model implemented here is the variant with stochastic volatility in all inflation gaps.
