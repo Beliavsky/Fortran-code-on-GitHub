@@ -1217,6 +1217,8 @@ engine, by montagdude and Geoff Sokoll
 
 [Decision Support System for Agrotechnology Transfer Cropping System Model (dssat-csm-os)](https://github.com/DSSAT/dssat-csm-os): crop simulation models for over 42 crops. The crop simulation models simulate growth, development and yield as a function of the soil-plant-atmosphere dynamics.
 
+[DiallelX](https://github.com/ShiroHirano/DiallelX): approximates Network Cross-Correlation coefficients (NCCs) among multiple continuous records and template waveforms observed at multiple seismic stations, by Shiro Hirano. The results, relatively less accurate but sufficient to find new seismic events, are obtained several-fold faster than a conventional scheme.
+
 [DSM Kernel Suite](https://github.com/IPGP/DSM-Kernel): calculates 3D finite frequency Fréchet sensitivity kernels (or 3D waveform partial derivatives) for 1D reference Earth models using Direct Solution Method, by Nobuaki Fuji et al. It consists of forward and back propagated strain Green's function calculation in a 2D plane, cross correlations of forward and back propagated wavefields to obtain sensitivity kernels.
 
 [DSMsynTI-mpi](https://github.com/UT-GlobalSeismology/DSMsynTI-mpi): software for computing synthetic seismograms in spherically symmetric, transversely isotropic (TI) media using the Direct Solution Method (DSM), from the [Global Seismology Group of the University of Tokyo](https://utglobalseismology.org/en/member/). An associated paper is [Complete synthetic seismograms up to 2 Hz for transversely isotropic spherically symmetric media](https://academic.oup.com/gji/article/164/2/411/776381), by Kenji Kawai et al., Geophysical Journal International (2006).
