@@ -4054,6 +4054,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Ensemble Data Assimilation Modules (EnsDAM)](https://github.com/brankart/ensdam): modules that can be useful to ensemble data assimilation systems, by Jean-Michel Brankart. Includes code to compute and update statisics, locate and interpolate points, and sample from uniform and nonuniform distirubtions.
 
+[fastspline](https://github.com/jamesorr/fastspline): fast smoothing spline routine in Fortran 90 usable in Python, by James Orr. Associated paper: [A fast compact algorithm for cubic spline smoothing](https://www.sciencedirect.com/science/article/abs/pii/S0167947308005045), by Howard L. Weinert, Computational Statistics & Data Analysis (2009).
+
 [ferre](https://github.com/callendeprieto/ferre): matches models to data, taking a set of observations and identifying the model parameters that best reproduce the data, in a chi-squared sense, by callendeprieto and holtzmanjon
 
 [fitpack](https://github.com/perazz/fitpack): modern Fortran translation by Federico Perini of the [FITPACK](http://www.netlib.org/dierckx) package for curve and surface fitting by Paul Dierckx
