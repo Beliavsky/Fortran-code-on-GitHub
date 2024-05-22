@@ -3638,6 +3638,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [octopus](https://github.com/octopus/octopus): ab initio virtual experimentation on electron/ion dynamics in external electromagnetic fields of arbitrary intensity, shape and frequency in a hopefully ever increasing range of system types, by M. A. L. Marques et al.
 
+[OllinSphere-BiB](https://github.com/malcubi/OllinSphere-BiB): solves the Einstein evolution equations in spherical symmetry using a curvilinear version of the BSSN formulation for the 3+1 evolution equations, with different types of matter and different gauge conditions, by Miguel Alcubierre
+
 [OpenCalphad](https://github.com/sundmanbo/opencalphad): thermodynamic software for calculation of multicomponent equilibria, property and phase diagrams and for database development, by Bo Sundman et al. It has a simple command line interface and an Application Software Interface (OCASI) for integration in simulation software. 
 
 [Parabolic two-band model Analyzer for Nonlinear electron Dynamics in Attosecond phenomena (PANDA)](https://github.com/shunsuke-sato/two_band_model): calculates electron dynamics and light-matter interactions, by Shunsuke A. Sato. It is based on a parabolic two-band model for electron structure and dynamics.
