@@ -953,7 +953,7 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [fvortex](https://github.com/slitvinov/fvortex): implements vortex method, with applications to Elliptic Lamb–Oseen vortex and Melander, McWilliams, and Zabusky vortex, by Sergey Litvinov
 
-[GATT_DNS](https://github.com/marlonsmathias/GATT_DNS): Direct Numerical Simulation code for the compressible Navier-Stokes equations, associated with the thesis of Marlon Sproesser Mathias, [Computational study of the hydrodynamic stability of gaps and cavities in a subsonic compressible boundary layer](https://www.teses.usp.br/teses/disponiveis/18/18161/tde-29032022-085318/en.php)
+[GATT_DNS](https://github.com/marlonsmathias/GATT_DNS): Direct Numerical Simulation code for the compressible Navier-Stokes equations, associated with the thesis of Marlon Sproesser Mathias, [Computational study of the hydrodynamic stability of gaps and cavities in a subsonic compressible boundary layer](https://www.teses.usp.br/teses/disponiveis/18/18161/tde-29032022-085318/en.php) (2021)
 
 [Geophysical High-Order Suite for Turbulence (GHOST)](https://github.com/pmininni/GHOST): accurate and highly scalable pseudospectral code that solves a variety of PDEs often encountered in studies of turbulent flows. It is mainly developed by Pablo Mininni and Duane Rosenberg, with contributions from many users.
 
