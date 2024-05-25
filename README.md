@@ -196,6 +196,8 @@ by ShinobuAmasaki.
 
 [mercury](https://github.com/smirik/mercury): N-Body integrator based on Bulirsh-Stoer, Everhart and other methods, originally by John E. Chambers, that can integrate any star system, such as the Solar System
 
+[MHD](https://github.com/JaimanP1/MHD): outputs both binary and vdc data to generate Magnetic Flux ropes in quadrupolar photosphere topologies for Coronal Mass Ejections, by Jaiman Parekh and Satoshi Inoue
+
 [Microphysics](https://github.com/starkiller-astro/Microphysics): collection of astrophysical microphysics routines for stellar explosions, by Michael Zingale et al.
 
 [Mini-chem](https://github.com/ELeeAstro/mini_chem): kinetic chemistry network solver primarily for gas giant atmospheric modelling, pared down from the large chemical networks, associated with paper [A mini-chemical scheme with net reactions for 3D general circulation models II. 3D thermochemical modelling of WASP-39b and HD 189733b](https://www.aanda.org/articles/aa/abs/2023/04/aa45473-22/aa45473-22.html), by Elspeth K. H. Lee, Shang-Min Tsai, Mark Hammond, and Xianyu Tan, Volume 672 (2023)  Astronomy&Astrophysics, 672 (2023) A110
