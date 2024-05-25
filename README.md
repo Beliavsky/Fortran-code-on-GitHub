@@ -3688,11 +3688,13 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [SNAP](https://github.com/lanl/SNAP): proxy application to model the performance of a modern discrete ordinates neutral particle transport application, from LANL
 
+[Solid state Task Constructor (SsTC)](https://github.com/irukoa/SsTC): high-perfomance computing oriented library to create integration and sampling tasks in the BZ of a crystal for k-dependent functions, by Álvaro R. Puente-Uriona. [SsTC_driver](https://github.com/irukoa/SsTC_driver) is a backend for SsTC.
+
 [SPECTRA-PKA](https://github.com/fispact/SPECTRA-PKA): calculates the expected primary knock-on atom (PKA) spectra for a given target nuclide under neutron or charged particle irradiation, by Mark Gilbert and Michael Fleming. NJOY-processed recoil matrices must be provided as the input nuclear data for each nuclide and reaction channel of interest. 
 
 [Spherical-Coordinate Implicit Derivatives time-dependent Schroedinger equation (SCID-TDSE)](https://github.com/MBI-Theory/scid-tdse): numerical solution of TDSE for a one-electron atom subject to a laser field, by Serguei Patchkovskii. TDSE is solved in spherical coordinates, with the laser field treated in the velocity-gauge dipole approximation.
 
-[Solid state Task Constructor (SsTC)](https://github.com/irukoa/SsTC): high-perfomance computing oriented library to create integration and sampling tasks in the BZ of a crystal for k-dependent functions, by Álvaro R. Puente-Uriona. [SsTC_driver](https://github.com/irukoa/SsTC_driver) is a backend for SsTC.
+[SSMF](https://github.com/JosePizarro3/SSMF): code for the Slave-Spin Mean-Field (SSMF) approach, a methodology based on solving the Hubbard-Kanamori model based on tight-bindings to obtain the orbital quasiparticle weights and occupations, by Jose M. Pizarro
 
 [streamer_1d](https://github.com/jannisteunissen/streamer_1d): 1D discharge simulations with a particle-in-cell or fluid model, by Jannis Teunissen
 
