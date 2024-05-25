@@ -3280,6 +3280,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [ExaTENSOR](https://github.com/ORNL-QCI/ExaTENSOR): basic numerical tensor algebra library for distributed HPC systems equipped with multicore CPU and NVIDIA (or AMD) GPU, by Dmitry I. Lyakh. The hierarchical task-based parallel runtime of ExaTENSOR is based on the virtual tensor algebra processor architecture, i.e. a software processor specialized to numerical tensor algebra workloads on heterogeneous HPC systems (multicore/KNL, NVIDIA or AMD GPU).
 
+[f2dace-artifact](https://github.com/spcl/f2dace-artifact): data, visualization plots, and reproduction scripts for the paper "DaFy: Data-Centric Fortran Portability", which presents a workflow that translates Fortran applications into a data-centric representation called SDFG, applies data-flow optimizations in [DaCe](https://spcl.inf.ethz.ch/Research/DAPP/), and compiles the applications to CPU and GPU, by Marcin Copik and alexnick83
+
 [f77_zmq](https://github.com/zeromq/f77_zmq): Fortran 77 binding library for ZeroMQ, an open-source universal messaging library, by Anthony Scemama et al.
 
 [first-timer](https://github.com/p-costa/first-timer): simple timing routines to be used in codes which use MPI and possibly CUDA/OpenACC using NVTX markers, by Pedro Costa
