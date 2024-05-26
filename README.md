@@ -4138,7 +4138,7 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [pygslib](https://github.com/opengeostat/pygslib): GSLIB (Geostatistical Software LIBrary) Fortran code wrapped into python
 
-[quantregpy](https://github.com/quantregpy/quantregpy): code for quantile regression by Roger Koenker with a Python interface
+[quantregpy](https://github.com/quantregpy/quantregpy): code for quantile regression by Roger Koenker with a Python interface. The R package is [here](https://github.com/cran/quantreg)
 
 [RegressionPooledDilution](https://github.com/mswarasi/RegressionPooledDilution): R and FORTRAN programs associated with the article, “Group testing regression models with dilution submodels”, by mswarasi
 
