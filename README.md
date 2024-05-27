@@ -1631,6 +1631,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [Wildland-urban Interface Simulator (WFDS)](https://github.com/ruddymell/wfds9977): extension of NIST's structural Fire Dynamics Simulator (FDS) to fuels that include vegetation. WFDS uses computational fluid dynamics methods to solve the governing equations for buoyant flow, heat transfer, combustion, and the thermal degradation of vegetative fuels.
 
+[WIN2PhaseNet](https://github.com/rintr-suzuki/WIN2PhaseNet): tool to make data for prediction and training of [PhaseNet: A deep-neural-network-based seismic arrival-time picking method](https://academic.oup.com/gji/article/216/1/261/5129142) (Zhu and Beroza, 2019) from WIN/WIN32 format waveform file and pick list
+
 [WRF-Hydro](https://github.com/NCAR/wrf_hydro_nwm_public): community modeling system and framework for hydrologic modeling and model coupling, from NCAR. In 2016 a configuration of WRF-Hydro was implemented as the National Water Model (NWM) for the continental United States.
 
 [WAVEWATCH III (WW3)](https://github.com/NOAA-EMC/WW3): community wave modeling framework that includes the latest scientific advancements in the field of wind-wave modeling and dynamics, from NOAA-EMC. Solves the random phase spectral action density balance equation for wavenumber-direction spectra.
