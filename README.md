@@ -71,6 +71,9 @@
 [XenakisFreeStochasticMusicFortran](https://github.com/ThemosTsikas/XenakisFreeStochasticMusicFortran): working versions of a Xenakis FORTRAN program (Xenakis 1971 Formalized Music p 149)
 
 ## Astronomy and Astrophysics
+
+[1-D-Supernova-shock-radius-evolution](https://github.com/lollocava00/1-D-Supernova-shock-radius-evolution): 1-D version of the [ZEUS 2-D CODE](https://www.astro.princeton.edu/~jstone/zeus.html) which solves hydrodynamic equations is applied to a SuperNova Remnant (SNR), by Lorenzo Cavazzini
+
 [Adaptive Spherical Overdensity Halo Finder (ASOHF)](https://github.com/dvallesp/ASOHF): primarily designed to identify bound dark matter structures (dark matter haloes), as well as their stellar counterparts (galaxies) in the outputs of cosmological simulations. Associated paper: [The halo-finding problem revisited: a deep revision of the ASOHF code](https://www.aanda.org/articles/aa/full_html/2022/08/aa43712-22/aa43712-22.html), by David Vallés-Pérez, Susana Planelles, and Vicent Quilis, Astronomy&Astrophysics, 664 (2022).
 
 [ALBUS_ionosphere](https://github.com/twillis449/ALBUS_ionosphere): determines the ionosphere total electron content (TEC) over any location on the Earth as a function of location and time, by Tony Willis. It then uses the TEC and a model of the Earth's magnetic field to compute the ionosphere's effect on the Faraday Rotion Measure (RM) observed for an astronomical radio source. The ionosphere's contribution to the RM can then be removed. 
