@@ -923,6 +923,8 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [CP3d](https://github.com/GongZheng-Justin/CP3d): code associated with Z. Gong, Z. Wu, C. An, B. Zhang, X. Fu, CP3d: [A comprehensive Euler-Lagrange solver for direct numerical simulation of particle-laden flows](https://journals.scholarsportal.info/details/00104655/v286icomplete/nfp_cacesfdnsopf.xml), Computer Physics Communications, 286 (2023) 108666.
 
+[cruna-toolkit](https://github.com/cruna-toolkit/public): (aero)acoustic solver that can find, reconstruct, or optimize sound sources with impedance boundary conditions, by Lewis Stein and Mathias Lemke. The solver utilizes adjoint-based optimization techniques and includes the full non-linear Euler and Navier-Stokes equations in a finite-difference time-domain approach.
+
 [EOF](https://github.com/parkeryang69/EOF): simulation of electro-osmotic flow by Lattice Boltzmann method, by parkeryang69
 
 [EPIC](https://github.com/matt-frey/epic): Elliptical Parcel-in-Cell model for fluid dynamics, by Matt Frey
