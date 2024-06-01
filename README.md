@@ -3717,6 +3717,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [TALYS](https://github.com/arjankoning1/talys): code associated with paper [TALYS: modeling of nuclear reactions](https://link.springer.com/article/10.1140/epja/s10050-023-01034-3), by Arjan Koning, Stephane Hilaire and Stephane Goriely, European Journal of Physics A59 (2023)
 
+[taurus_mix](https://github.com/project-taurus/taurus_mix): code to perform the configuration mixing of symmetry-projected reference states by solving the Hill-Wheeler-Griffin generalized eigenvalue equation, from project-taurus
+
 [tbcode](https://github.com/srigas/tbcode): simulate the effects of impurities embedded in or adsorbed on superconducting hosts, by srigas
 
 [TemkinPoetParallel](https://github.com/afrapic/TemkinPoetParallel): solves the scattering problem (electron-Hydrogen atom) in the Temkin-Poet model using MPI, by Ana Laura Frapiccini
