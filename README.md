@@ -3836,6 +3836,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Hefei Order-N Packages for Ab initio Simulations (HONPAS)](https://github.com/xmqin/HONPAS): ab-initio electronic structure calculation software package for linear scaling first-principles density functional theory (DFT) calculations of large-scale systems with standard norm-conserving pseudopotentials and numerical atomic orbitals (NAOs) under the periodic boundary conditions, by xmqin
 
+[HF-INTEGRALS](https://github.com/CloudChemScientific/HF-INTEGRALS): integration of Gaussian Type Orbitals (GTO) for Hartree-Fock Calculation, using co-arrays, from CloudChemScientific. The integral package was originally obtained from [NWChem](https://github.com/nwchemgit/nwchem)
+
 [hfsolver](https://github.com/certik/hfsolver): Hartree Fock solver by certik
 
 [HFSzaboOstlund](https://github.com/JorgeG94/HFSzaboOstlund): Hartree-Fock program as shown by Szabo and Ostlund in their book [Modern Quantum Chemistry](https://store.doverpublications.com/0486691861.html)
