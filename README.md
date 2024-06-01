@@ -695,6 +695,8 @@ simulating and forecasting meteorological phenomena.
 
 [EMsoft](https://github.com/EMsoft-org/EMsoft): computation and visualization of scanning electron microscopy diffraction patterns, notably EBSD, ECP, TKD, and EKP, by Marc de Graef et al. In addition, there are programs for TEM defect image contrast, CBED, PED, Laue x-ray diffraction, and a new series of programs for computational polarized light microscopy. [EMsoftOO](https://github.com/EMsoft-org/EMsoftOO) is an object-oriented version under development in Fortran 2018.
 
+[Equilibrate](https://github.com/Nicholaswogan/Equilibrate): chemical equilibrium solver by Nick Wogan which is based on [EasyChem](https://gitlab.com/EliseLei/easychem), which itself is a clone of the NASA CEA tool (described in [Gordon and McBride 1994](https://ntrs.nasa.gov/api/citations/19950013764/downloads/19950013764.pdf))
+
 [ewald-summation](https://github.com/Jonas-Finkler/ewald-summation): efficient and easy-to-use implementation of the Ewald summation method, by Jonas-Finkler
 
 [Flexible Atomic Code (fac)](https://github.com/flexible-atomic-code/fac): software packge for the calculation of various atomic processes, by Ming Feng Gu
