@@ -3749,6 +3749,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [VASPBERRY](https://github.com/Infant83/VASPBERRY): Berry curvature and Chern number calculations with the output (WAVECAR) of VASP code, by Hyun-Jung Kim. VASPBERRY is written for the post-processing purpose of the VASP outputs, i.e., WAVECAR the Bloch wavefunction information.
 
+[vdist-solver-fortran](https://github.com/Nkzono99/vdist-solver-fortran): velocity distribution function solver for Python, calling Fortran, using Liouville's theorem, by Nkzono99
+
 [VicsekSimulation](https://github.com/santinoacco/VicsekSimulation): Fortran & Python based simulation of a self-propelled particles system
 
 [WannierTools](https://github.com/quanshengwu/wannier_tools): package for novel topological materials, by QuanSheng Wu et al.
