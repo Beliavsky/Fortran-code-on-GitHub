@@ -3363,6 +3363,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [OpenMP_fortran_codes](https://github.com/kuldeep-tolia/OpenMP_fortran_codes): basic OpenMP codes written in Fortran, by Kuldeep Tolia
 
+[Parallel Halo Exchange Using Fortran Coarrays](https://github.com/nncarlson/coarray-halo-exchange): code and test cases for investigating Fortran coarray implementations of a parallel halo exchange operation associated with domain decomposition methods for PDE, by Neil Carlson
+
 [PararealF90](https://github.com/Parallel-in-Time/PararealF90): implementation of [Parareal](https://en.wikipedia.org/wiki/Parareal) by Daniel Ruprecht solving 3D Burger's equation using a forward Euler and a RK3SSP method as coarse and fine integrators. It contains three different implementations of Parareal, one based on MPI, one using OpenMP without pipelining and one using OpenMP with pipelining. All three versions compute the same result, the purpose of the code is to compare different implement strategies with respect to speedup, memory footprint and energy consumption.
 
 [Particle-In-Cell Scalable Application Resource (PICSAR)](https://github.com/ECP-WarpX/picsar): high performance repository intended to help scientists porting their Particle-In-Cell (PIC) codes to the next generation of exascale computers. PICSAR exploits the three levels of parallelism that will be required to achieve good performances on future architectures: distributed memory parallelization (internode), shared memory parallelization (intranode) and vectorization.
