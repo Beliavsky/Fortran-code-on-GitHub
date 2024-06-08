@@ -1411,6 +1411,8 @@ engine, by montagdude and Geoff Sokoll
 
 [MCTomo](https://github.com/xin2zhang/MCTomo): 3D Monte Carlo tomography package using reversible jump McMC method and 3D Voronoi tessellation, by Xin Zhang and Andrew Curtis
 
+[Meso-NH](https://github.com/QuentinRodier/Meso-NH): non-hydrostatic mesoscale atmospheric model of the French research community
+
 [MN Earth System Model for Ocean Biogeochemistry (MESMO)](https://github.com/gaia3intc/mesmo): Associated paper: Matsumoto, K., Tokos, K. S., Price, A. R., & Cox, S. J. (2008). [First description of the Minnesota Earth System Model for Ocean biogeochemistry (MESMO 1.0)](https://gmd.copernicus.org/articles/1/1/2008/). Geoscientific Model Development, 1(1), 1–15.
 
 [mesoscale Hydrological Model (mHM)](https://github.com/mhm-ufz/mhm): mHM is based on accepted hydrological conceptualizations and is able to reproduce as accurately as possible not only observed discharge hydrographs at any point within a basin but also the distribution of soil moisture among other state variables and fluxes.
