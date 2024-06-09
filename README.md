@@ -2363,6 +2363,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [flibhpc](https://github.com/swig-fortran/flibhpc): uses SWIG-Fortran to generate Fortran-2003 wrappers to common high performance computing (HPC) libraries. It can be used as a support library for other libraries that want to generate MPI-friendly Fortran wrappers to their code, or used by application developers who want to adapt Fortran CUDA/OpenACC code to their C++ kernels.
 
+[Fortran-C-interoperability](https://github.com/HugoMVale/Fortran-C-interoperability): examples of Fortran interoperation with C, by HugoMVale
+
 [fortran-cython-examples](https://github.com/Nicholaswogan/fortran-cython-examples): examples for how to wrap Fortran with Cython, by Nick Wogan
 
 [fortran-in-go](https://github.com/ryanrocket/fortran-in-go): shows how to compile Fortran code into a shared object with relative memory positioning (-fPIC) and allow Go to dynamically link it at compilation time, by Ryan Wans
