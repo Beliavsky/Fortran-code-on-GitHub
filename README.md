@@ -3477,6 +3477,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [MCFM-RE](https://github.com/lcarpino/MCFM-RE): NNLL resummation for jet-veto cross sections in colour singlet processes, by lcarpino
 
+[proVBFH](https://github.com/alexanderkarlberg/proVBFH): QCD corrections to Vector Boson Fusion (VBF) single and double Higgs production, by Alexander Karlberg and Frédéric Dreyer
+
 [remoll](https://github.com/JeffersonLab/remoll): simulations for the MOLLER Experiment at Jefferson Lab, which proposes to measure the parity-violating asymmetry in electron-electron (Møller) scattering
 
 [simc_gfortran](https://github.com/JeffersonLab/simc_gfortran): standard Hall C Monte Carlo for coincidence reactions, from JeffersonLab
