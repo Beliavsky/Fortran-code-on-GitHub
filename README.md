@@ -4135,7 +4135,7 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [KronLinInv](https://github.com/inverseproblem/KronLinInv): Kronecker-product-based linear inversion of geophysical (or other kinds of) data under Gaussian and separability assumptions. The code computes the posterior mean model and the posterior covariance matrix (or subsets of it) in an efficient manner (parallel algorithm) taking into account 3-D correlations both in the model parameters and in the observed data.
 
-[leaps](https://github.com/cran/leaps): R package performing an exhaustive search for the best subsets of a given set of potential regressors, using a branch-and-bound algorithm, and also performing searches using a number of less time-consuming techniques. It is based on FORTRAN 77 code by Alan Miller owhich is
+[leaps](https://github.com/cran/leaps): R package performing an exhaustive search for the best subsets of a given set of potential regressors, using a branch-and-bound algorithm, and also performing searches using a number of less time-consuming techniques. It is based on FORTRAN 77 code by Alan Miller which is
 described in more detail in his book [Subset Selection in Regression](https://www.routledge.com/Subset-Selection-in-Regression/Miller/p/book/9780367396220). Miller's [site](https://jblevins.org/mirror/amiller/) has Fortran 90 code for subset selection.
 
 [libdierckx](https://github.com/DaanVanVugt/libdierckx): collection of FORTRAN programs for curve and surface fitting with splines and tensor product splines. Features included are automatic knot selection, error smoothing and data reduction.
