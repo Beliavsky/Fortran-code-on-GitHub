@@ -4041,6 +4041,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [fortran-regex](https://github.com/perazz/fortran-regex): port by Federico Perini of the [tiny-regex-c](https://github.com/kokke/tiny-regex-c) library for regular expressions. It is based on the original C implementation, but the API is modelled in Fortran style, which is similar to the intrinsic index function.
 
+[fortran-regex](https://github.com/jeyemhex/fortran-regex): Fortran 2003 implementation of regular expressions, by Edward Higgins
+
 [fortran_wrapper_for_regex_functions](https://github.com/borderite/fortran_wrapper_for_regex_functions): call POSIX regex functions, such as regcomp, regexec, regerror, and regfree, in the C libraries, by borderite
 
 [Fregex](https://github.com/14NGiestas/fregex): Perl Compatible Regular Expressions (PCRE) wrapper for Fortran by Ian Giestas Pauli
