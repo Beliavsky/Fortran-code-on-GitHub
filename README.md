@@ -730,6 +730,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [linemake](https://github.com/vmplacco/linemake): atomic and molecular line list generator, by Chris Sneden et al. Rather than a replacement for a number of well-established atomic and molecular spectral databases, linemake aims to be a lightweight, easy-to-use tool to generate formatted and curated lists suitable for spectral synthesis work.
 
+[local_dielectric_saturation](https://github.com/janneforsman/local_dielectric_saturation): Metropolis Monte-Carlo program to study local dielectric saturation in Restricted Primitive Model electrolytes, by David Ribar and janneforsman. Also [modified_widom](https://github.com/janneforsman/modified_widom) to study the structure and thermodynamics of ionic fluids
+
 [MobCal-MPI](https://github.com/HopkinsLaboratory/MobCal-MPI): parallelization of the commonly used MobCal suite to calculate ion mobilities and collision cross sections, by Christian Ieritano and Scott Hopkins
 
 [Modular computation tool chain library (mctc-lib)](https://github.com/grimme-lab/mctc-lib): common tool chain to use molecular structure data in various applications, from grimme-lab. This library provides a unified way to perform operations on molecular structure data, like reading and writing to common geometry file formats.
