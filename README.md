@@ -4278,6 +4278,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [Fortran90-Gaussian-Mixture-ARMA-GARCH](https://github.com/saveriocolla90/Gaussian-Mixture-ARMA-GARCH): implements a Gaussian Mixture ARMA-GARCH model to fit a generic time series with zero mean and gaussian distributed standard deviations, by saveriocolla90
 
+[midasmlpy](https://github.com/jstriaukas/midasmlpy): Python package with Fortran code implementing estimation and prediction methods for high-dimensional mixed-frequency (MIDAS) time-series and panel data in regression models. An associated paper is [Machine learning time series regressions with an application to nowcasting](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1899933), by Babii, A., Ghysels, E., & Striaukas, J., Journal of Business & Economic Statistics (2022).
+
 [KFAS: R Package for Exponential Family State Space Models](https://github.com/helske/KFAS): provides tools for modelling exponential family state space models such as structural time series, ARIMA models, generalized linear models and generalized linear mixed models, by Jouni Helske et al., with underlying Fortran 95 code
 
 [REDFIT-X](https://github.com/kristinbjorg/REDFIT-X-Cross-spectral-analysis-of-unevenly-spaced-paleoclimate-time-series): cross-spectral analysis of unevenly spaced paleoclimate time series, by kristinbjorg et al.
