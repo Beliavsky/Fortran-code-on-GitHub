@@ -2930,6 +2930,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [Field Abstract Calculus Type Usable and Aesthetic Library (FACTUAL)](https://github.com/cmacmackin/factual): provides abstract types to represent mathematical fields in Fortran, by Chris MacMackin. These are both scalar and vector fields. It also contains (at present) one concrete implementation of these types, using a pseudo-spectral approach and tracking field values at Chebyshev collocation points.
 
+[findiff](https://github.com/PunchesMalone/findiff): finite differencing code for derivative approximation, by PunchesMalone
+
 [FMPFR](https://github.com/tkoenig1/FMPFR): Fortran binding to the [GNU MPFR Library multi-precision library](https://www.mpfr.org/), by Thomas Koenig
 
 [ForDiff](https://github.com/gha3mi/fordiff): numerical differentiation using the complex step method or finite differences, by Seyed Ali Ghasemi
