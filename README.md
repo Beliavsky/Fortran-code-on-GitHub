@@ -3775,6 +3775,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [VicsekSimulation](https://github.com/santinoacco/VicsekSimulation): Fortran & Python based simulation of a self-propelled particles system
 
+[wannchi](https://github.com/ccao/wannchi): calculates susceptibility using Wannier functions, by Chao Cao et al. RPA and self-energy correction is currently under internal tests.
+
 [WannierTools](https://github.com/quanshengwu/wannier_tools): package for novel topological materials, by QuanSheng Wu et al.
 
 [wignerSymbols](https://github.com/joeydumont/wignerSymbols): C++ library to compute the Wigner 3j- and 6j- symbols with Fortran backend, by Joey Dumont et al. A related paper is [Recursive evaluation of 3j and 6j coefficients](https://www.sciencedirect.com/science/article/abs/pii/0010465576900588), by K. Schulten and R.G. Gordon, Computer Physics Communications (1976).
