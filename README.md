@@ -71,7 +71,6 @@
 [XenakisFreeStochasticMusicFortran](https://github.com/ThemosTsikas/XenakisFreeStochasticMusicFortran): working versions of a Xenakis FORTRAN program (Xenakis 1971 Formalized Music p 149)
 
 ## Astronomy and Astrophysics
-
 [1-D-Supernova-shock-radius-evolution](https://github.com/lollocava00/1-D-Supernova-shock-radius-evolution): 1-D version of the [ZEUS 2-D CODE](https://www.astro.princeton.edu/~jstone/zeus.html) which solves hydrodynamic equations is applied to a SuperNova Remnant (SNR), by Lorenzo Cavazzini
 
 [Adaptive Spherical Overdensity Halo Finder (ASOHF)](https://github.com/dvallesp/ASOHF): primarily designed to identify bound dark matter structures (dark matter haloes), as well as their stellar counterparts (galaxies) in the outputs of cosmological simulations. Associated paper: [The halo-finding problem revisited: a deep revision of the ASOHF code](https://www.aanda.org/articles/aa/full_html/2022/08/aa43712-22/aa43712-22.html), by David Vallés-Pérez, Susana Planelles, and Vicent Quilis, Astronomy&Astrophysics, 664 (2022).
@@ -206,6 +205,8 @@ by ShinobuAmasaki.
 [Mini-chem](https://github.com/ELeeAstro/mini_chem): kinetic chemistry network solver primarily for gas giant atmospheric modelling, pared down from the large chemical networks, associated with paper [A mini-chemical scheme with net reactions for 3D general circulation models II. 3D thermochemical modelling of WASP-39b and HD 189733b](https://www.aanda.org/articles/aa/abs/2023/04/aa45473-22/aa45473-22.html), by Elspeth K. H. Lee, Shang-Min Tsai, Mark Hammond, and Xianyu Tan, Volume 672 (2023)  Astronomy&Astrophysics, 672 (2023) A110
 
 [Modules for Experiments in Stellar Astrophysics (MESA)](https://github.com/MESAHub/mesa): allow users to run experiments in stellar evolution. Stellar evolution calculations (i.e., stellar evolution tracks and detailed information about the evolution of internal and global properties) are a basic tool that enable a broad range of research in astrophysics. 
+
+[MGITM](https://github.com/dpawlows/MGITM): 3-D GCM of Mars atmosphere from the surface to 300 km aimed at solving for the dynamics of the upper atmosphere, by dpawlows
 
 [Multi-channel Image Reconstruction, Image Analysis, and Display (MIRIAD)](https://github.com/astroumd/miriad): radio interferometry data-reduction package, designed for taking raw data through to the image analysis stage, by Bob Sault et al.
 
