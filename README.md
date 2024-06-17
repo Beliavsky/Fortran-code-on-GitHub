@@ -3764,6 +3764,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [T-matrix for Electromagnetic Radiation with Multiple Scatterers (TERMS)](https://github.com/nano-optics/terms): simulates the near-field and far-field optical properties of collections of particles, by Dmitri Schebarchov et al. TERMS solves rigorously the Maxwell equations via the superposition T-matrix method, where incident and scattered fields are decomposed into a basis of multipolar electric and magnetic spherical waves.
 
+[TransOpt](https://github.com/yangjio4849/TransOpt): enables VASP users to calculate electrical transport properties (Seebeck coefficients, electrical conductivities, and electronic thermal conductivities) by using the momentum matrix method or the derivative method as adopted in BoltzTrap, by yangjio4849. Also [TTEP](https://github.com/yangjio4849/TTEP), a code for efficient calculation of the thermal transport from the constant electron-phonon coupling approximation
+
 [Treecode-Accelerated Boundary Integral Poisson-Boltzmann (TABI-PB) solver](https://github.com/gengwh/TABI-PB): employs a well-conditioned boundary integral formulation for the electrostatic potential and its normal derivative on the molecular surface. Associated paper: J. Chen and W. Geng, [On preconditioning the treecode-accelerated boundary integral (TABI) Poisson-Boltzmann solver](https://www.sciencedirect.com/science/article/pii/S0021999118304728), J. Comput. Phys., 373, 750-762 (2018).
 
 [turbogap](https://github.com/mcaroba/turbogap): efficiently and accurately builds many-body atomic descriptors and carry out other related computations employed in machine-learning approaches to atomistic modeling, such as to run molecular dynamics simulations, by mcaroba
