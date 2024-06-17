@@ -2708,7 +2708,7 @@ a PDF presentation of the subroutine, the input file structure and the results.
 
 [gbXstallography](https://github.com/gr20cmu/gbXstallography): programs used to compute and plot distributions of grain boundary properties, by Gregory S. Rohrer et al. More information is [here](http://mimp.materials.cmu.edu/rohrer/gbXstallography/).
 
-[General Tool for Electron Emission Calculations (GETELEC)](https://github.com/AndKyr/GETELEC): computational tool for calculating electron emission current and Nottingham effect heat for metallic emitters, associated with paper [A general computational method for electron emission and thermal effects in field emitting nanotips](https://www.sciencedirect.com/science/article/abs/pii/S0927025616305523), by A. Kyritsakis and F. Djurabekova, Computational Materials Science (2017)
+[General Tool for Electron Emission Calculations (GETELEC)](https://github.com/AndKyr/GETELEC): computational tool for calculating electron emission current and Nottingham effect heat for metallic emitters, associated with the paper [A general computational method for electron emission and thermal effects in field emitting nanotips](https://www.sciencedirect.com/science/article/abs/pii/S0927025616305523), by A. Kyritsakis and F. Djurabekova, Computational Materials Science (2017)
 
 [GPMaterials](https://github.com/felipefr/gpmaterials): implements a rich set of finite element formulations for finite strain hyperelasticity, damage, multi-scale solid mechanics in both continuum and discrete level (truss-like network of fibres), by Felipe Figueredo Rocha
 
