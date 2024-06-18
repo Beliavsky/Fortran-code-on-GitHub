@@ -4379,6 +4379,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [FyTest — Instant Fortran unit testing](https://github.com/aradi/fytest): lightweight unit testing framework for Fortran, by Bálint Aradi. Thanks to its header-only design, it can be easily bundled with any Fortran project without creating extra dependencies. 
 
+[julienne](https://github.com/sourceryinstitute/julienne): compiler-portable, unit-testing framework for modern Fortran, including accelerated coarray Fortran software, by Katherine Rasmussen and Damian Rouson
+
 [M_framework](https://github.com/urbanjost/M_framework): aggregate of Fortran modules useful for creating terminal messages, comparing expected values to results, writing logfiles and playback journals and performing unit tests for Fortran, by urbanjost
 
 [par-funnel](https://github.com/degawa/par-funnel): unit test parameterizer using namelist, by Tomohiro Degawa. Par-funnel is not a unit test framework but is intended to be used with other unit test frameworks.
