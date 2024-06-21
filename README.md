@@ -4297,6 +4297,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [KFAS: R Package for Exponential Family State Space Models](https://github.com/helske/KFAS): provides tools for modelling exponential family state space models such as structural time series, ARIMA models, generalized linear models and generalized linear mixed models, by Jouni Helske et al., with underlying Fortran 95 code
 
+[python-bls](https://github.com/dfm/python-bls): Python bindings for the original Fortran implementation of the Box Least Squares (BLS) algorithm from the paper [A box-fitting algorithm in the search for periodic transits](https://www.aanda.org/articles/aa/full/2002/31/aa2422/aa2422.right.html), by G. Kovacs et al., Astronomy & Astrophysics (2002)
+
 [REDFIT-X](https://github.com/kristinbjorg/REDFIT-X-Cross-spectral-analysis-of-unevenly-spaced-paleoclimate-time-series): cross-spectral analysis of unevenly spaced paleoclimate time series, by kristinbjorg et al.
 
 [sacbook](https://github.com/ghfbsd/sacbook): online analysis methods provided in [The Seismic Analysis Code: A Primer and User's Guide](https://www.cambridge.org/us/academic/subjects/earth-and-environmental-science/solid-earth-geophysics/seismic-analysis-code-primer-and-users-guide?format=HB&isbn=9781107045453) by George Helffrich, James Wookey, and Ian Bastow
