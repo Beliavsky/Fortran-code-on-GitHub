@@ -341,6 +341,8 @@ by ShinobuAmasaki.
 
 [LINPACK](https://github.com/zaniyah/LINPACK): original (1000x1000 double precision) LINPACK benchmark, with bugfixes, by zaniyah
 
+[mandelbrot-f](https://github.com/jesper-olsen/mandelbrot-f): Mandelbrot benchmark in Fortran by Jesper Olsen, who also has versions in Rust, Erlang, and Mojo
+
 [matmul](https://github.com/certik/matmul): matrix multiplication benchmark by Ondřej Čertík
 
 [Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks): micro benchmark comparison of Julia against other languages, including Fortran, from JuliaLang
