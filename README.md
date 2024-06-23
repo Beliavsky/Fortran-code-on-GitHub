@@ -4353,8 +4353,6 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 [strengthcalc](https://github.com/piotrbajdek/strengthcalc): strengthcalc employs mathematical formulae from Mayhew et al. (1992) and Wathen (1994) to estimate the maximum weight one can lift in a single repetition of a physical exercise (known as 1RM: one repetition maximum), by Piotr Bajdek
 
 ## Unit Testing
-[ForUnitTest](https://github.com/gha3mi/forunittest): simple, object-oriented unit testing framework, by Seyed Ali Ghasemi.
-
 [f90tw](https://github.com/loudove/f90tw): provides Fortran wrappers for a limited subset of the Boost and Google test frameworks functionality, by loudove. At the same time, it offers a rather simple mechanism for setting up and managing test suites in Fortran projects. 
 
 [ForDebug](https://github.com/gha3mi/fordebug): library designed for debugging Fortran code, especially within pure procedures, by Seyed Ali Ghasemi
@@ -4364,6 +4362,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 [fortran-testanything](https://github.com/dennisdjensen/fortran-testanything): test library supporting the Test Anything Protocol (TAP) inspired by Perl's Test::More module, by dennisdjensen
 
 [fortran_test_helper](https://github.com/jchristopherson/fortran_test_helper): library to provide assistance to testing, by Jason Christopherson
+
+[ForUnitTest](https://github.com/gha3mi/forunittest): simple, object-oriented unit testing framework, by Seyed Ali Ghasemi.
 
 [fortran-unit-test](https://github.com/dongli/fortran-unit-test): unit test library in Fortran to encourage scientific programmer to write tests, by dongli
 
