@@ -2165,6 +2165,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [general-purpose-fortran](https://github.com/urbanjost/general-purpose-fortran): non-numeric tasks such as command-line parsing, string functions, date-and-time manipulation and display, interfacing to the C POSIX system routines, by urbanjost
 
+[HEDTOOLS](https://github.com/sbudaev/HEDTOOLS): set of modelling utilities and tools (implemented as portable modules, not object-oriented) that have general applicability and are used for data conversion, input/output, random number generation and execution logging, by Sergey Budaev
+
 [hwloc-fortran](https://github.com/scivision/hwloc-fortran): simple Fortran binding for HWLOC to get CPU count, with fallback to alternative methods, from scivision. Provides Fortran module hwloc_ifc with integer(int32) function get_cpu_count().
 
 [JAMS](https://github.com/mcuntz/jams_fortran): collection of general Fortran modules offering miscellaneous functions in the categories Computational, Date and Time, Input / Output, Math / Numerics, Screening, Sensitivity Analysis and Optimising / Fitting, and Miscellaneous. Written by Matthias Cuntz, Juliane Mai and Stephan Thober
