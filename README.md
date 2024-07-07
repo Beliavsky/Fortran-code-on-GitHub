@@ -806,6 +806,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [Fortran_competitive_library](https://github.com/osada-yum/Fortran_competitive_library): library for solving [AtCoder](https://atcoder.jp/) problems, implementing a binary indexed tree, hash table, linked list, tuples, and merge and selection sort
 
+[Fortran Library based on Interfaces and Templates (FLIT)](https://github.com/lanl/flit): generic library providing a number of useful functionalities for computational geophysics and beyond, by Kai Gao. These functionalities include several single/multi-dimensional array manipulation functions/subroutines, flexible parameter reading from textual file or command line arguments, signal and image filtering and processing, integral transforms, interpolation, statistical functions, and so on. 
+
 [enumul](https://github.com/degawa/enumul): incomplete typed enumerator emulator for Fortran, by Tomohiro Degawa
 
 [fdict](https://github.com/zerothi/fdict): native Fortran 90 dictionary with hash tables for retaining any data-type in a Python-like dictionary, by Nick Papior
