@@ -2732,7 +2732,7 @@ a PDF presentation of the subroutine, the input file structure and the results.
 
 [LBsoft](https://github.com/copmat/LBsoft): software for soft glassy emulsion simulations, by Fabio Bonaccorso et al.
 
-[Los Alamos Polycrystal code (LApx)]: predicts the mechanical response of crystalline materials subjected to arbitrary quasi-static (i.e., low strain rates) scenarios. LApx uses fast Fourier transform based methods to solve for the stress and strain states at each point within a complex microstructure.
+[Los Alamos Polycrystal code (LApx)](https://github.com/lanl/LApx): predicts the mechanical response of crystalline materials subjected to arbitrary quasi-static (i.e., low strain rates) scenarios. LApx uses fast Fourier transform based methods to solve for the stress and strain states at each point within a complex microstructure.
 
 [mef90](https://github.com/bourdin/mef90): reference implementation of the variational approach to fracture, as described in several papers, by Blaise Bourdin
 
