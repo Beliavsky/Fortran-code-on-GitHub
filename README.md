@@ -4048,6 +4048,9 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 ## Reactor Physics
 [Ground Source Cooled Reactor (GSCR)](https://github.com/lancekim/GSCR): code from Kim, Lance K., Rainer Jungwirth, Guido Renda, Erik Wolfart, and Giacomo G. M. Cojazzi. “Potential Signatures and the Means of Detecting a Hypothetical Ground Source Cooled Nuclear Reactor.” Science & Global Security 24, no. 2 (2016): 92–113.
 
+[iMC}(https://github.com/KAIST-RPTL/IMC): Monte Carlo neutron transport code, currently under development in RP&T lab in KAIST. Some features are continuous and multigroup transport,
+universe-based geometry building, steady-state MC, OTF Doppler broadening, MC-based depletion, Transient with PCQS and DMC, Finite Difference methods (pCMFD, pFMFD, and iDTMC), and Unstructured mesh-based thermomechanics analysis.
+
 [KOMODO](https://github.com/imronuke/KOMODO): nuclear reactor simulator that solves both static and transient neutron diffusion equation for one, two or three dimensional reactor problems in Cartesian geometry, from imronuke. Currently, by default, KOMODO uses Semi-Analytic Nodal Method (SANM) to spatially discretise the neutron diffusion equation.
 
 [MISA-SCD](https://github.com/MISA-SCD/misa-scd): parallel stochastic cluster dynamics simulation software for reactor structural material, by Chendandan
