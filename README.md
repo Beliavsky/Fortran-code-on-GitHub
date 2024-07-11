@@ -3049,7 +3049,7 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [polyroots-fortran](https://github.com/jacobwilliams/polyroots-fortran): modern Fortran library for finding the roots of polynomials, by Jacob Williams
 
-[Precision, Compression, and Stochasticity (PCS)](https://github.com/MartinKarp/pcs): library aimed to enable experimentation with different floating point formats, compression, and introducing randomness/stochasticity in codes based on C++ and Fortran, by Martin Karp and Timofey Mukha. An associated paper is [CPFloat: A C Library for Simulating Low-precision Arithmetic](https://dl.acm.org/doi/10.1145/3585515), by Massimiliano Fasi and Mantas Mikaitis,  
+[Precision, Compression, and Stochasticity (PCS)](https://github.com/MartinKarp/pcs): library to enable experimentation with different floating point formats, compression, and introducing randomness/stochasticity in codes based on C++ and Fortran, by Martin Karp and Timofey Mukha. An associated paper is [CPFloat: A C Library for Simulating Low-precision Arithmetic](https://dl.acm.org/doi/10.1145/3585515), by Massimiliano Fasi and Mantas Mikaitis,  
 ACM Trans. Math. Softw. (2023).
 
 [pypolsys](https://github.com/nennigb/pypolsys): Python wrapper to [POLSYS_PLP](https://dl.acm.org/doi/abs/10.1145/347837.347885) Fortran 90 package from Layne T. Watson, Steven M. Wise, Andrew J. Sommese, August, 1998. POLSYS_PLP is a solver for N complex coefficients polynomial systems of equations in N unknowns by a probability-one, globally convergent homotopy method.
