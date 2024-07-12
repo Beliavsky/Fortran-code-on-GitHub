@@ -3450,6 +3450,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Octree-mg](https://github.com/jannisteunissen/octree-mg): implements parallel geometric multigrid methods on quadtree/octree grids, which can be used to solve elliptic PDEs such as Poissons's equation. Associated paper: [A geometric multigrid library for quadtree/octree AMR grids coupled to MPI-AMRVAC](https://www.sciencedirect.com/science/article/abs/pii/S001046551930253X), by J. Teunissen and R. Keppens, Computer Physics Communications (2019).
 
+[PadeOps](https://github.com/Howland-Lab/PadeOps): ybrid OpenMP/MPI derivative operators using Compact Difference (6th and 10th Order) and Spectral (Fourier and Chebyshev) Methods to solve PDEs, from Howland-Lab
+
 [pdecheb](https://github.com/ivan-pi/pdecheb): Chebyshev polynomial software for elliptic-parabolic Systems of PDEs, by Ivan Pribec
 
 [pigasus](https://github.com/ratnania/pigasus): generic Python package for solving (system of) Partial Differential Equations, by Ahmed Ratnani. Its core is written in Fortran. The aim of Pigasus is to discretize spatial differential operators, which makes it easier to write different time schemes thanks to the oriented object aspect of Python.
