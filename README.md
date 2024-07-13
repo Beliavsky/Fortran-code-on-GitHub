@@ -2951,6 +2951,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [findiff](https://github.com/PunchesMalone/findiff): finite differencing code for derivative approximation, by PunchesMalone
 
+[finite_difference](https://github.com/jlr581/finite_difference): package to calculate the finite difference weighting coefficients for arbitrary sets of points, by Jason Roberts. The method uses a self-contained arbitrary precision library and Taylor series acceleration via hyper-dual numbers.
+
 [FMPFR](https://github.com/tkoenig1/FMPFR): Fortran binding to the [GNU MPFR Library multi-precision library](https://www.mpfr.org/), by Thomas Koenig
 
 [ForDiff](https://github.com/gha3mi/fordiff): numerical differentiation using the complex step method or finite differences, by Seyed Ali Ghasemi
