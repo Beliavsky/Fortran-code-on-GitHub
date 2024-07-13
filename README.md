@@ -1043,6 +1043,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [OpenMHD](https://github.com/zenitani/OpenMHD): one/two-dimensional magnetohydrodynamic (MHD) codes, by zenitani
 
+[osinco3d](https://github.com/jojoledemago/osinco3d): code designed to solve the 3D Navier-Stokes equations for incompressible flow using a high-order finite difference method, using Chorin's projection method. by jojoledemago
+
 [O2-Project](https://github.com/kgpolitis/O2-Project): framework for CFD oriented scientific code development in Modern Fortran, by kgpolitis
 
 [ParaTC](https://github.com/GongZheng-Justin/ParaTC): high order finite difference solver for simulations of turbidity currents with high parallel efficiency, by Zheng Gong
