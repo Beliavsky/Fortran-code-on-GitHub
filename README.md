@@ -4360,6 +4360,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 [wavepack](https://github.com/zoziha/wavepack): computes the wavelet transform of a time series, and significance levels, by zoziha
 
 ## Unclassified
+[betti-decomposition](https://github.com/antonio-leitao/betti-decomposition): Betti Decomposition of simplicial complexes, by António Leitão
+
 [Consolidated Fire and Smoke Transport (CFAST)](https://github.com/firemodels/cfast): two-zone fire model that predicts the thermal environment caused by a fire within a compartmented structure, from firemodels
 
 [DAGLIB](https://github.com/jacobwilliams/daglib): modern Fortran module for creating and manipulating directed acyclic graphs (DAGs), by Jacob Williams and Damian Rouson. It includes a toposort feature, and also the ability to generate files in the GraphViz "dot" notation.
