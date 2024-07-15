@@ -2054,6 +2054,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [fortran-raylib](https://github.com/interkosmos/fortran-raylib): interface bindings to raylib 4.5, for 2-D and 3-D game programming, by interkosmos
 
+[fortran-snake](https://github.com/grofz/fortran-snake): classic "snake" game with several computer-controlled snakes, using [raylib](https://github.com/raysan5/raylib) for graphics, by grofz
+
 [life](https://github.com/JeffIrwin/life): Conway's game of life, by Jeff Irwin
 
 [mastermind](https://github.com/fortran-gaming/mastermind): classic MasterMind game in modern Fortran 2008, from fortran-gaming
