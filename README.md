@@ -903,6 +903,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [astr](https://github.com/astr-code/astr): high-order finite-difference flow solver for compressible turbulence research, by Jian Fang et al.
 
+[BGK2D_GPU](https://github.com/gamati01/BGK2D_GPU): 2D CFD Lattice Boltzmann Method code developed to 1) give an efficient implementation of LBM 2) Exploit mulithreading 3) Assess performance using (different) GPUs, by Giorgio Amati. Also [BGK3D_GPU](https://github.com/gamati01/BGK3D_GPU).
+
 [Broadcast](https://github.com/onera/Broadcast): discretises the compressible Navier-Stokes equations and then extracts the linearised N-derivative operators through Algorithmic Differentiation (AD), providing a toolbox for laminar flow dynamics. Associated paper: [BROADCAST: A high-order compressible CFD toolbox for stability and sensitivity using Algorithmic Differentiation](https://www.sciencedirect.com/science/article/abs/pii/S0010465522002764), by Arthur Poulain et al., Computer Physics Communications, Volume 283, 2023, 108557. 
 
 [C81-Interface](https://github.com/cibinjoseph/C81-Interface): parses and creates C81 formatted airfoil tables, by Cibin Joseph
