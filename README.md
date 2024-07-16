@@ -2533,6 +2533,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [chol-rev](https://github.com/imurray/chol-rev): reverse-mode routine written in FORTRAN 77, modeled after the fast LAPACK Cholesky routine DPOTRF, which uses blocked level-3 BLAS routines
 
+[cosma_fortran_example](https://github.com/moritzleucke/cosma_fortran_example): minimal example of how to call Communication-Optimal-Matrix-Multiplication (COSMA) pxgemm from Fortran, by Moritz Leucke
+
 [cyclic-banded-matrix](https://github.com/mostlyharmlessone/cyclic-banded-matrix): solves cyclic banded matrices, by mostlyharmlessone
 
 [DBCSR](https://github.com/cp2k/dbcsr): Distributed Block Compressed Sparse Row matrix library, by cp2k
