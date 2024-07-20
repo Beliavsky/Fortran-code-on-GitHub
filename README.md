@@ -751,6 +751,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [multi-crystal indexing data processing suite in macromolecular crystallography (MCDPS)](https://github.com/gengzhi-ihep/multi-lattice-indexing): associated with paper Zhou, Q., Gao, Z.Q., Dong, Z., Jiang, Y.M., She,Z., Geng, Z.& Dong, Y.H.(2021). [A reference-based multi-lattice indexing method integrating prior information correction and iterative refinement in protein crystallography](https://scripts.iucr.org/cgi-bin/paper?S2053273321003521). Acta Cryst. A77
 
+[Non-Adiabatic Transfer Rates Calculations (NATRC)](https://github.com/Arthur140/NATRC): calculates non-adiabatic transition rates between two states in molecules, by  Arthur I. Martynov and Alexander S. Belov. Calculations are carried out based on the classical and modified Bixon-Jortner-Plotnikov models.
+
 [nemo_eos](https://github.com/gnurser/nemo_eos): Fortran versions of equation of state of seawater as used by [NEMO](https://github.com/NEMO-ocean), wrapped in Python, by George Nurser
 
 [numsa](https://github.com/grimme-lab/numsa): solvent accessible surface area calculation, from grimme-lab
