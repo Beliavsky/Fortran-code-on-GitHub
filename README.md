@@ -1069,7 +1069,7 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [Rayleigh - dynamo in spherical geometry](https://github.com/geodynamics/Rayleigh): 3-D convection code designed for the study of dynamo behavior in spherical geometry. It evolves the incompressible and anelastic MHD equations in spherical geometry using a pseudo-spectral approach. 
 
-[rbsolve](https://github.com/jhardenberg/rbsolve): code for Rayleigh-Benard (natural convection) problem simulation with Boussinesq approximation. An associated paper is [Generation of Large-Scale Winds in Horizontally Anisotropic Convection](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.134501), by J. von Hardenberg et al., Phys. Rev. Lett. (2015).
+[rbsolve](https://github.com/jhardenberg/rbsolve): code for Rayleigh-Benard (natural convection) problem simulation with Boussinesq approximation. An associated paper is [Generation of Large-Scale Winds in Horizontally Anisotropic Convection](https://arxiv.org/abs/1501.07308), by J. von Hardenberg et al., Phys. Rev. Lett. (2015).
 
 [rdshellmodel](https://github.com/nicholasmr/rdshellmodel): Rathmann and Ditlevsen (2016) helical shell model of turbulence (http://arxiv.org/abs/1602.02553)
 
