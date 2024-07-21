@@ -4037,6 +4037,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [fortran-xorshift-64-star](https://github.com/Jonas-Finkler/fortran-xorshift-64-star): xorshift64* random number generator for uniform and normal variates, by Jonas-Finkler
 
+[Latin Hypercube Sampling (LHS)](https://github.com/NREL/lhs): generates multivariate samples of statistical distributions, from Sandia National Laboratories. Its ability to use either Latin hypercube sampling or pure Monte Carlo sampling with both random and restricted pairing methods has made it an important part of uncertainty analyses in areas ranging from probabilistic risk assessment (PRA) to complex simulation modeling.
+
 [LEcuyer-RNG-Fortran90](https://github.com/p-serna/LEcuyer-RNG-Fortran90): pseudo-random number generator, more precisely, a combined multiple recursive generator (CMRG), MRG32k3a, proposed by L'Ecuyer "Good parameters and implementations for combined multiple recursive random number generators". Operations Research. 1999 Feb;47(1):159-64, by p-serna. This algorithm is well suited for parallel computing as it can initialize many long streams and substreams, with a total period length of 2191 and it passes diehard tests.
 
 [mersenne-twister-fortran](https://github.com/jacobwilliams/mersenne-twister-fortran): Mersenne Twister pseudorandom number generator, by Jacob Williams
