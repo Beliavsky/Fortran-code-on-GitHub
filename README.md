@@ -290,6 +290,8 @@ by ShinobuAmasaki.
 
 [Toolkit for High-ORder Neutrino Radiation Hydrodynamics (thornado)](https://github.com/endeve/thornado): neutrino radiation-hydrodynamics code aiming to simulate core-collapse supernovae using discontinuous Galerkin methods, by Eirik Endeve et al.
 
+[Triple stellar evolution (TSE)](https://github.com/stegmaja/TSE): single stellar evolution and binary interactions are modelled in Python using the binary population synthesis Fortran code [MOBSE](https://mobse-webpage.netlify.app/). An associated paper is [Evolution of massive stellar triples and implications for compact object binary formation](https://academic.oup.com/mnras/article/516/1/1406/6680250), by Jakob Stegmann et al., Monthly Notices of the Royal Astronomical Society (2022).
+
 [UCLCHEM](https://github.com/uclchem/UCLCHEM): gas-grain chemical code for Astrochemistry
 
 [universe-age](https://github.com/shu-yusa/universe-age): calculate the age of the universe for various parameters by integrating Friedmann Equation, by shu-yusa
