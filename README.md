@@ -3539,6 +3539,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [SPheno](https://github.com/JP-Ellis/SPheno): SPheno stands for S(upersymmetric) Pheno(menology). The code, by JP-Ellis, calculates the SUSY spectrum using low energy data and a user supplied high scale model as input.
 
+[USP-JEWEL](https://github.com/leo-barreto/USP-JEWEL): Jet propagation (currently done using an unofficial modification of [JEWEL](https://github.com/leo-barreto/jewel)) in realistic viscous hydrodynamics modeled using vUSPhydro, by Leonardo Barreto de Oliveira Campos
+
 [vbfnlo](https://github.com/vbfnlo/vbfnlo): fully flexible parton level Monte Carlo program for the simulation of vector boson fusion, double and triple vector boson production in hadronic collisions at next-to-leading order in the strong coupling constant
 
 [Whizard-mirror](https://github.com/bijancn/Whizard-mirror): efficient calculation of multi-particle scattering cross sections and simulated event samples. Mirror of [private git](https://gitlab.tp.nt.uni-siegen.de/whizard/public)
