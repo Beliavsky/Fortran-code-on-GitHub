@@ -184,6 +184,8 @@ by ShinobuAmasaki.
 
 [KiloNova Explosion Code (kNEC)](https://github.com/StevenWu1999/KNEC): simulates hydrodynamical evolution of BNS merger ejecta and the corresponding kilonova emission, by Zhenyu Wu. It is based on the SNEC code by Morozova et al., which is a Lagrangian radiation-hydrodynamics code for core-collapse supernova explosion.
 
+[LAPS](https://github.com/chenshihelio/LAPS): UCLA-Pseudo-Spectral is a 3D MPI-parallelized Fourier-transform-based pseudo-spectral Hall-MHD code, with corotating-expanding-box-model implemented, by Chen Shi
+
 [legolas](https://github.com/n-claes/legolas): modern tool for MHD spectroscopy, by n-claes
 
 [libTheSky](https://github.com/MarcvdSluys/libTheSky): computes the positions and other properties of celestial bodies (Moon, planets, comets, asteroids, stars), events (e.g. lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFloyd. It forms the core of the software that is used to create the Dutch popular-astronomy website http://hemel.waarnemen.com.
