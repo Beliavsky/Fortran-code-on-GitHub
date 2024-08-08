@@ -4398,6 +4398,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [Fortran---CGAL-polyhedra](https://github.com/LadaF/Fortran---CGAL-polyhedra): bindings to the CGAL library to query to find whether a point is inside of a polyhedron and their distance, by Vladimír Fuka
 
+[graphstruc](https://github.com/nedtaylor/graphstruc): library that provides an implementation of graph structures in the form of a derived type, by Ned Thaddeus Taylor
+
 [DistTab](https://github.com/NickAbel/DistTab): library being developed for use with combustion codes that use spray flame lookup tables, by NickAbel
 
 [RADCAL](https://github.com/firemodels/radcal): library of subroutines for calculating radiative properties of gaseous species and soot, from firemodels. It computes the spectral properties of the radiation participating species at discrete values of the spectrum (expressed either in wavenumber or in wavelength) and temperature, and returns two alternative mean absorption coefficients for each spectral band. 
