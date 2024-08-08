@@ -1454,6 +1454,8 @@ engine, by montagdude and Geoff Sokoll
 
 [MODFLOW 6: USGS Modular Hydrologic Model](https://github.com/MODFLOW-USGS/modflow6): accurately, reliably, and efficiently simulates groundwater flow. With time, growing interest in surface and groundwater interactions, local refinement with nested and unstructured grids, karst groundwater flow, solute transport, and saltwater intrusion, has led to the development of numerous MODFLOW versions.
 
+[modpath-rw](https://github.com/upc-ghs/modpath-rw): Random Walk Particle Tracking code for solute transport in heterogeneous aquifers, by rodrperezi and dfg1973
+
 [MOHID - Water Modelling System](https://github.com/Mohid-Water-Modelling-System/Mohid): modular finite volumes water-modelling system written in Fortran 95 using an Object-oriented programming philosophy, integrating diverse mathematical models and supporting graphical user interfaces that manage all the pre- and post-processing
 
 [MOM6](https://github.com/NOAA-GFDL/MOM6): Modular Ocean Model, from NOAA-GFDL
