@@ -1155,6 +1155,8 @@ engine, by montagdude and Geoff Sokoll
 ## Earth Science
 [1D3CSEM](https://github.com/elifo/1D3CSEM): one-dimensional (1D) three-component (3C) spectral element modeling (SEM) of seismic wave propagation in nonlinear media with pore-pressure effects, by Elif Oral, extending a code by Elise Delavaud
 
+[3D Magnetic Gradient Tensor Modeling at High Susceptibility (3D-MGTM-HS)](https://github.com/Yonfou/3D-MGTM-HS): code associated with the paper [A FORTRAN Program to Model Magnetic Gradient Tensor at High Susceptibility Using Contraction Integral Equation Method](https://www.mdpi.com/2075-163X/11/10/1129), by Longwei Chen and Fang Ouyang, Minerals (2011)
+
 [Adjoint-state Traveltime Tomography (ATT_training)](https://github.com/MIGG-NTU/ATT_training): adjoint-state traveltime tomography (ATT) in the Cartesian coordinates. The details of the algorithm can be found at Tong, P. (2021). Adjoint-state traveltime tomography: Eikonal equation-based methods and application to the Anza area in southern California. Journal of Geophysical Research: Solid Earth, 126, e2021JB021818. https://doi.org/10.1029/2021JB021818.
 
 [Advanced Lake Biogeochemistry Model (ALBM)](https://github.com/tanzeli1982/ALBM): one-dimensional process-based lake biogeochemistry model that was developed by Zeli Tan to predict the response of lake thermal and carbon dynamics and water quality to environmental changes (Tan et al., 2015, 2017, 2018)
