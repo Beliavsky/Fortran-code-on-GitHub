@@ -1345,6 +1345,8 @@ engine, by montagdude and Geoff Sokoll
 
 [graded](https://github.com/klkuhlm/graded): Python and Fortran programs for evaluating the flow solution to a borehole in a gradent material, associated with the paper [Generalized Solution for Double-Porosity Flow Through a Graded Excavation Damaged Zone](https://link.springer.com/article/10.1007/s11004-024-10143-8), by Kristopher L. Kuhlman, Mathematical Geosciences (2024)
 
+[gravity-modelling-with-polynomial-density](https://github.com/Yonfou/gravity-modelling-with-polynomial-density): 3D Large-scale Gravitational Modelling Based on Tesseroids with a Polynomial Density of Arbitrary Degree in depth, by Fang Ouyang and Longwei Chen
+
 [gravmod3d](https://github.com/ofmla/gravmod3d): 3D forward modeling of bodies discretized by rectangular prisms with parabolic density contrast, an implementation by Oscar Mojica of the three-dimensional gravity modeling with parabolic density contrast presented in the paper [3-D forward gravity modeling of basement interfaces above which the density contrast varies continuously with depth](https://www.sciencedirect.com/science/article/abs/pii/S0098300401000802) by V. Chakravarthi et al., Computers & Geosciences (2002)
 
 [Grid-point Multiple-Conservation dynamical cORE (GMCORE)](https://github.com/LASG-GAMIL/GMCORE): dynamical core for solving geophysical fluid equations on the sphere with conservative finite difference methods, by Li Dong and Jianghao Li 
