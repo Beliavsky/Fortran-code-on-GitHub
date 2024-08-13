@@ -3671,6 +3671,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [fmm3dbie](https://github.com/fastalgorithms/fmm3dbie): FMM-accelerated boundary integral equation solvers that currently support high-order triangulation of smooth surfaces, from fastalgorithms
 
+[fort-fput](https://github.com/NotQuiteAwake/fort-fput): explores the [Fermi–Pasta–Ulam–Tsingou(FPUT) problem](https://en.wikipedia.org/wiki/Fermi%E2%80%93Pasta%E2%80%93Ulam%E2%80%93Tsingou_problem) in chaos theory by simulating a 1D chain with non-linear dynamics with symplectic integrators, by Jimmy Chen
+
 [fortran_udunits2](https://github.com/mfvalin/fortran_udunits2): interface by mfvalin to the [libudunits2](https://www.unidata.ucar.edu/software/udunits/) C library from Unidata that provides for arithmetic manipulation of units and for conversion of numeric values between compatible units
 
 [FourPhonon](https://github.com/FourPhonon/FourPhonon): extension module to ShengBTE for computing four-phonon scattering rates and thermal conductivity, by Zherui Han et al.
