@@ -1281,6 +1281,8 @@ engine, by montagdude and Geoff Sokoll
 
 [EddyPro](https://github.com/LI-COR/eddypro-engine): processes eddy covariance data, by LI‑COR Biosciences. It computes fluxes of water vapor (evapotranspiration), carbon dioxide, methane, other trace gases, and energy with the Eddy Covariance method.
 
+[elfe3D](https://github.com/emsig/elfe3D): 3D forward modelling code that can simulate electric and magnetic field responses from frequency-domain controlled-source electromagnetic setups, associated with the paper [Efficient goal-oriented mesh refinement in 3-D finite-element modelling adapted for controlled source electromagnetic surveys](https://academic.oup.com/gji/article/227/3/1624/6317613), by Paula Rulff et al., Geophysical Journal International (2021)
+
 [Eulerian Level set Model of FIRE Spread (ELMFIRE)](https://github.com/lautenberger/elmfire): operational wildland fire spread model, by Chris Lautenberger et al. Some of its common applications include forecasting spread of fires in real time, reconstructing spread of historical fires, quantifying landscape-scale potential fire behavior potential, and estimating annual burn probability and fire severity
 
 [Environmental Fluid Dynamics Code (EFDC+)](https://github.com/dsi-llc/EFDCPlus): multifunctional surface water modeling engine that includes hydrodynamic, sediment-contaminant, and eutrophication components designed to simulate aquatic systems in one, two, and three dimensions
