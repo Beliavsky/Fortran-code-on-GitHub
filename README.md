@@ -1019,6 +1019,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [MagIC](https://github.com/magic-sph/magic): simulates fluid dynamics in a spherical shell. MagIC solves for the Navier-Stokes equation including Coriolis force, optionally coupled with an induction equation for Magneto-Hydro Dynamics (MHD), a temperature (or entropy) equation and an equation for chemical composition under both the anelastic and the Boussinesq approximations.
 
+[Mapped Legendre Spectral Method Code (MLegS)](https://github.com/UCBCFD/MLegS): code package based on a modernized and parallelized spectral method for vortical (swirling) flow simulations in an unbounded domain. An associated paper is [Linear stability analysis of wake vortices by a spectral method using mapped Legendre functions](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/linear-stability-analysis-of-wake-vortices-by-a-spectral-method-using-mapped-legendre-functions/F0742ACF5E8A1E776381BDF7DAEB27C3), by Sangjoon Lee and Philip S. Marcus, Journal of Fluid Mechanics (2023).
+
 [MF-LBM](https://github.com/lanl/MF-LBM): Portable, Scalable and High-performance Lattice Boltzmann Code for DNS of Flow in Porous Media, from LANL
 
 [MGLC](https://github.com/cheryli/MGLC): multi-GPU parallel implementation of LBM(Lattice Boltzmann Method), using OpenACC to accelerate codes on single GPU and MPI for inter-GPU communication
