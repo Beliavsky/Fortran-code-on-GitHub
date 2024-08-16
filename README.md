@@ -1440,6 +1440,8 @@ engine, by montagdude and Geoff Sokoll
 
 [Luco-Apsel-Chen Generalized Reflection/Transmission coefficients Method (LAC-GRTM)](https://github.com/GKIAN/LAC-GRTM): synthetic seismogram calculation for a multi-layered half-space, by Tche Liu. An associated paper is [Implementation of efficient low-storage techniques for 3-D seismic simulation using the curved grid finite-difference method](https://academic.oup.com/gji/article/234/3/2214/7163215), by Wenqiang Wang et al., Geophysical Journal International (2023).
 
+[LongWave Propagation Code (LWPC)](https://github.com/space-physics/LWPC): code to generate geographical maps of signal availability for coverage analysis, from the Space and Naval Warfare Systems Command. [SuperLWPC](https://github.com/lwpc-gui/SuperLWPC) is a graphical user interface of the code for investigating ionospheric D-region parameters, by Ahmed Ammar.
+
 [MAIZSIM](https://github.com/USDA-ARS-ACSL/MAIZSIM): mechanistic model of maize growth, development and yield, written in C++ (crop) and Fortran (soil). The model is interfaced with [2DSOIL](https://data.nal.usda.gov/dataset/2dsoil-version-03), a two dimensional simulator of soil water and heat movement, and solute transport. 
 
 [MANDIFORE_modeling](https://github.com/MortonArb-ForestEcology/MANDIFORE_modeling): Forestry x climate scenarios for NSF-funded MANDIFORE project, by Christy Rollinson and Lucien Fitzpatrick
