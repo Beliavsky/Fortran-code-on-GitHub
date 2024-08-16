@@ -3992,9 +3992,9 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [periodic-NBO](https://github.com/jrschmidt2/periodic-NBO): This projection code is capable of representing any plane-wave bands output by VASP into any user specified Gaussian type orbital basis set. Such an AO representation is required for the subsequent NBO analysis. The code is set up to then output all information necessary for periodic NBO analysis using the code of JRS and BDD.
 
-[polymer](https://github.com/sohirata/polymer): Gaussian-basis-set ab initio molecular-orbital and density-functional methods for molecules and crystals of one-, two-, or three-dimensional periodicity, by So Hirata
-
 [Plane Wave Density Functional Theory (PWDFT)](https://github.com/ebylaska/PWDFT): PW-DFT development for [NWChemEx](https://www.exascaleproject.org/research-project/nwchemex/), by Eric Bylaska et al.
+
+[polymer](https://github.com/sohirata/polymer): Gaussian-basis-set ab initio molecular-orbital and density-functional methods for molecules and crystals of one-, two-, or three-dimensional periodicity, by So Hirata
 
 [PROGRESS](https://github.com/lanl/qmd-progress): Parallel, Rapid O(N) and Graph-based Recursive Electronic Structure Solver, from lanl
 
