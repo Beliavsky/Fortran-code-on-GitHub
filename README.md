@@ -2742,6 +2742,8 @@ a PDF presentation of the subroutine, the input file structure and the results.
 
 [Atom/Molecule/Material Software Kit (atomsk)](https://github.com/pierrehirel/atomsk): command-line program meant to manipulate atomic systems, and convert from and to various file formats, by pierrehirel et al.
 
+[Boundary Element Software for 3D Linear Elasticity (BESLE_v1.0)](https://github.com/Afgr1087/BESLE_v1.0): software for carrying out 3D simulations of solids under quasi-static, inertial and high-rate boundary conditions for transient analysis, associated with a [paper](https://www.sciencedirect.com/science/article/abs/pii/S0010465521001211) by Andres F. Galvis et al., Computer Physics Communications (2021)
+
 [cdpm2](https://github.com/githubgrasp/cdpm2): related [paper](https://www.sciencedirect.com/science/article/pii/S0020768313002886): Grassl, Peter, Dimitrios Xenos, Ulrika Nyström, Rasmus Rempling, and Kent Gylltoft. "CDPM2: A damage-plasticity approach to modelling the failure of concrete." International Journal of Solids and Structures 50, no. 24 (2013): 3805-3816
 
 [DiffuseCode](https://github.com/tproffen/DiffuseCode): suite of programs to simulate disordered and nanomaterials, by tproffen et al.
