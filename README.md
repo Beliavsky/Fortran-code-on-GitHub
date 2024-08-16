@@ -414,6 +414,8 @@ Modeling of Gz-Induced Effects](https://pubmed.ncbi.nlm.nih.gov/37069756/), by K
 
 [GENeralized-Ensemble SImulation System (GENESIS)](https://github.com/genesis-release-r-ccs/genesis-2.0): molecular dynamics and modeling software for bimolecular systems such as proteins, lipids, nucleic acids, glycans, and their complexes. Main site is [here](https://www.r-ccs.riken.jp/labs/cbrt/).
 
+[GR-Eye](https://github.com/fbraeu90/GR-Eye): 3D Homogenized Constrained Mixture Model for Eye Growth and Remodeling - A Model of Staphyloma Formation, implemented as an Abaqus UMAT, by Fabian A. Braeu
+
 [hole2](https://github.com/osmart/hole2): analysis and visualisation of the pore dimensions of the holes through molecular structures of ion channels, by Oliver Smart et al.
 
 [Illustrate](https://github.com/ccsb-scripps/Illustrate): biomolecular illustration tool. Associated paper: Goodsell, D.S., Autin, L, Olson, A.J.,Goodsell, D. S., Autin, L., & Olson, A. J. (2019). [*Illustrate*: Software for biomolecular illustration](https://www.cell.com/structure/fulltext/S0969-2126(19)30282-5). *Structure*, 27(11), 1716-1720.e1.
