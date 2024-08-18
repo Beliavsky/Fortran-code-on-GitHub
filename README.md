@@ -1490,6 +1490,8 @@ engine, by montagdude and Geoff Sokoll
 
 [NRL HWM14 Horizontal Wind Model](https://github.com/gemini3d/hwm14): code from the Naval Research Lab described in the paper Drob, D. P., et al. (2015), "An Update to the Horizontal Wind Model (HWM): The Quiet Time Thermosphere", Earth and Space Science
 
+[nshmp-haz-fortran](https://github.com/usgs/nshmp-haz-fortran): code for the National Seismic Hazard Mapping Project, by Peter Powers et al.
+
 [okada_wrapper](https://github.com/tbenthompson/okada_wrapper): MATLAB and Python wrappers by Ben Thompson for the Okada DC3D0 point source and the DC3D rectangular dislocation surface Fortran subroutines
 
 [omuse](https://github.com/omuse-geoscience/omuse): Oceanographic MUltipurpose Software Environment is a package to conduct numerical experiments in oceanography and other Earth sciences.
