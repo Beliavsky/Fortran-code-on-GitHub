@@ -3551,6 +3551,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Higher Order Perturbative Parton Evolution Toolkit (HOPPET)](https://github.com/gavinsalam/hoppet): carries out DGLAP evolution and other common manipulations of parton distribution functions (PDFs), by gavinsalam. Within HOPPET, PDFs are represented on a grid in x-space so as to avoid limitations on the functional form of input distributions.
 
+[IMPACT-T](https://github.com/impact-lbl/IMPACT-T): fully three-dimensional program to track relativistic charged particles taking into account space charge forces, short-range longitudinal and transverse wakefields, coherent synchrotron radiation (CSR) wakefield in accelerators, by Ji Qiang et al.
+
 [IMPACT-Z](https://github.com/impact-lbl/IMPACT-Z): parallel+serial particle-in-cell code whose primary purpose is to model the dynamics of multiple charged particle beams in linear and ring accelerators, by Ji Qiang et al.
 
 [JHUGen](https://github.com/JHUGen/JHUGen): generator giving parton-level information including full spin and polarization correlations for the processes ab → X → VV (V=Z,W,gamma), VBF, X+JJ, pp → VX, ee → VX
