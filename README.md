@@ -1505,7 +1505,7 @@ engine, by montagdude and Geoff Sokoll
 [Open-source Seismic Wave Propagation Code (OpenSWPC)](https://github.com/tktmyd/OpenSWPC): simulates seismic wave propagation by solving equations of motion with constitutive equations of elastic/viscoelastic medium by finite difference method (FDM) under message passing interface (MPI) environment in 3D and 2D (P-SV or SH) media, by Takuto Maeda.
 This package also provides a set of tools for visualizing/converting simulation output.
 
-[Operational Priority Substances model (OPS)](https://github.com/rivm-syso/OPS): program to simulate the distribution of pollutants in the air and calculates how much of these substances ends up on soil or crops per hectare (deposition), from the National Institute for Public Health and the Environment of the Netherlands
+[Operational Priority Substances model (OPS)](https://github.com/rivm-syso/OPS): program to simulate the distribution of pollutants in the air and calculate how much of these substances ends up on soil or crops per hectare (deposition), from the National Institute for Public Health and the Environment of the Netherlands
 
 [Optimal Retrieval of Aerosol and Cloud (orac)](https://github.com/ORAC-CC/orac): optimal estimation retrieval scheme for the estimation of aerosol and cloud properties from a wide range of visible-infrared imaging satellites, such as MODIS, AATSR, AVHRR and SEVIRI. It has been used to produce analysis-ready datasets of cloud and aerosol properties as part of the ESA CCI project and is currently supported by NCEO.
 
