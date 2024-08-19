@@ -1494,6 +1494,8 @@ engine, by montagdude and Geoff Sokoll
 
 [nshmp-haz-fortran](https://github.com/usgs/nshmp-haz-fortran): code for the National Seismic Hazard Mapping Project, by Peter Powers et al.
 
+[Ocean Assimilation Kit (OAK)](https://github.com/gher-ulg/OAK): module for high level input/output, matrix operations, n-dimensional interpolation of arbitrary curvilinear grid, reduced-rank analysis updates, and assimilation, by Alexander Barth et al.
+
 [okada_wrapper](https://github.com/tbenthompson/okada_wrapper): MATLAB and Python wrappers by Ben Thompson for the Okada DC3D0 point source and the DC3D rectangular dislocation surface Fortran subroutines
 
 [omuse](https://github.com/omuse-geoscience/omuse): Oceanographic MUltipurpose Software Environment is a package to conduct numerical experiments in oceanography and other Earth sciences.
@@ -1503,7 +1505,7 @@ engine, by montagdude and Geoff Sokoll
 [Open-source Seismic Wave Propagation Code (OpenSWPC)](https://github.com/tktmyd/OpenSWPC): simulates seismic wave propagation by solving equations of motion with constitutive equations of elastic/viscoelastic medium by finite difference method (FDM) under message passing interface (MPI) environment in 3D and 2D (P-SV or SH) media, by Takuto Maeda.
 This package also provides a set of tools for visualizing/converting simulation output.
 
-[Ocean Assimilation Kit (OAK)](https://github.com/gher-ulg/OAK): module for high level input/output, matrix operations, n-dimensional interpolation of arbitrary curvilinear grid, reduced-rank analysis updates, and assimilation, by Alexander Barth et al.
+[Operational Priority Substances model (OPS)](https://github.com/rivm-syso/OPS): program to simulate the distribution of pollutants in the air and calculates how much of these substances ends up on soil or crops per hectare (deposition), from the National Institute for Public Health and the Environment of the Netherlands
 
 [Optimal Retrieval of Aerosol and Cloud (orac)](https://github.com/ORAC-CC/orac): optimal estimation retrieval scheme for the estimation of aerosol and cloud properties from a wide range of visible-infrared imaging satellites, such as MODIS, AATSR, AVHRR and SEVIRI. It has been used to produce analysis-ready datasets of cloud and aerosol properties as part of the ESA CCI project and is currently supported by NCEO.
 
