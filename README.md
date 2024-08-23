@@ -1938,6 +1938,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [serialbox](https://github.com/GridTools/serialbox): data serialization library and tools for C/C++ and Fortran, from GridTools
 
+[smartpars](https://github.com/grofz/smartpars): class to read / load from file / dump to file a bunch of parameters, by Zdenek Grof
+
 [stl-fortran](https://github.com/jacobwilliams/stl-fortran): Fortran STL (stereolithography) File I/O, by Jacob Williams
 
 [SUIO](https://github.com/pkgpl/SUIO): library for input/output of SU files, by Wansoo Ha, independent from the [Seismic Unix](https://wiki.seismic-unix.org/start) package
