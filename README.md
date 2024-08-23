@@ -300,6 +300,8 @@ by ShinobuAmasaki.
 
 [universe-age](https://github.com/shu-yusa/universe-age): calculate the age of the universe for various parameters by integrating Friedmann Equation, by shu-yusa
 
+[vkompth](https://github.com/candebellavita/vkompth): code associated with paper [vKompth: a variable Comptonization model for low-frequency quasi-periodic oscillations in black hole X-ray binaries](https://academic.oup.com/mnras/article/515/2/2099/6649330), by Candela Bellavita et al., Monthly Notices of the Royal Astronomical Society (2022)
+
 [weaklib](https://github.com/starkiller-astro/weaklib): code library for astrophysical applications, from starkiller-astro. It provides preprocessed equation of state (EoS) and neutrino opacity tables for use in neutrino transport calculations.
 
 [White Dwarf Evolution Code (WDEC)](https://github.com/kim554/wdec): code associated with paper [WDEC: A Code for Modeling White Dwarf Structure and Pulsations](https://iopscience.iop.org/article/10.3847/1538-3881/aab70e) (2018), by Agnès Bischoff-Kim and Michael H. Montgomery
