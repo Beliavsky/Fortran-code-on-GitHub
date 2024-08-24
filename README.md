@@ -200,6 +200,8 @@ by ShinobuAmasaki.
 
 [mercury](https://github.com/smirik/mercury): N-Body integrator based on Bulirsh-Stoer, Everhart and other methods, originally by John E. Chambers, that can integrate any star system, such as the Solar System
 
+[MESSY](https://github.com/pau-amaro-seoane/MESSY): Hénon-style Monte-Carlo code to simulate spherical stellar clusters and galactic nuclei; i.e. Monte Carlo simulations for stellar dynamics, associated with the paper [Stellar Remnants in Galactic Nuclei: Mass Segregation](https://iopscience.iop.org/article/10.1086/506193), by Marc Freitag et al., Astrophysical Journal (2006)
+
 [MHD](https://github.com/JaimanP1/MHD): outputs both binary and vdc data to generate Magnetic Flux ropes in quadrupolar photosphere topologies for Coronal Mass Ejections, by Jaiman Parekh and Satoshi Inoue
 
 [Microphysics](https://github.com/starkiller-astro/Microphysics): collection of astrophysical microphysics routines for stellar explosions, by Michael Zingale et al.
