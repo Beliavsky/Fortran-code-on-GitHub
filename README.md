@@ -773,6 +773,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [pmflib](https://github.com/kulhanek/pmflib): toolkit for Free Energy Calculations, by kulhanek
 
+[postg](https://github.com/aoterodelaroza/postg): calculates the dispersion energy and related quantities in gas-phase systems using the exchange-hole dipole moment (XDM) model. An associated paper is [Non-covalent interactions and thermochemistry using XDM-corrected hybrid and range-separated hybrid density functionals](https://pubs.aip.org/aip/jcp/article-abstract/138/20/204109/566187/Non-covalent-interactions-and-thermochemistry), by A. Otero-de-la-Roza and Erin R. Johnson, Journal of Chemical Physics (2013).
+
 [pydock3](https://github.com/docking-org/pydock3): Python package wrapping the [DOCK](https://dock.compbio.ucsf.edu/Overview_of_DOCK/index.htm) Fortran program that provides tools to help standardize and automate the computational methods employed in molecular docking. Docking is the identification of the low-energy binding modes of a small molecule, or ligand, within the active site of a macromolecule, or receptor, whose structure is known.
 
 [Python-Fortran-Fluids (PyForFluids)](https://github.com/fedebenelli/PyForFluids): Python package focused in the calculation of Fluid properties based on Equations of State (EoS), by Federico E. Benelli et al. It provides a simple interface to work from Python but also exploits the high performance Fortran code for the more heavy calculations.
