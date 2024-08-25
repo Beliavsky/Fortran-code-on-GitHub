@@ -769,6 +769,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [numsa](https://github.com/grimme-lab/numsa): solvent accessible surface area calculation, from grimme-lab
 
+[pbepack](https://github.com/HugoMVale/pbepack): package to solve population balance equations for particulate processes, associated with the paper [Solution of the Population Balance Equation for Two-Component Aggregation by an Extended Fixed Pivot Technique](https://pubs.acs.org/doi/10.1021/ie050179s), by Hugo M. Vale and Timothy F. McKenna, Industrial & Engineering Chemistry Research (2005)
+
 [PICLas](https://github.com/piclas-framework/piclas): parallel, three-dimensional PIC-DSMC solver developed cooperatively by the Institute of Space Systems, Institute of Aerodynamics and Gas Dynamics at the University of Stuttgart and the spin-off boltzplatz. PICLas is a flexible particle-based plasma simulation suite.
 
 [PGLWrapper](https://github.com/PGLadmin/PGLWrapper): code for Chapters 6-9 of [The Properties of Gases and Liquids, 6th ed.](https://www.mhprofessional.com/the-properties-of-gases-and-liquids-sixth-edition-9781260116342-usa), by J. Richard Elliott et al., focusing on equations of state (EOSs) to correlate and predict thermodynamic properties of pure compounds and mixtures
