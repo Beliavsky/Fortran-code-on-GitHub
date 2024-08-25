@@ -3647,6 +3647,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Accurate Biot-Savart routines with Correct Asymptotic Behaviour (abscab-fortran)](https://github.com/jonathanschilling/abscab-fortran): computes the magnetic field and the magnetic vector potential of filamentary current carriers in the form of a circular loop and straight segments, by Jonathan Schilling. Arbitrary geometries of conductors can be approximated by a polygon along its contour and the connecting segments between the polygon vertices are modeled by straight segments.
 
+[Anharmonic-lattice-dynamics (ALADYN)](https://github.com/KeivanS/Anharmonic-lattice-dynamics): lattice dynamics code that calculates thermodynamic and thermal transport properties of solid crystalline materials from data on their force and potential energy as a function of positions, using density functional theory or classical molecular dynamics as input data, by KeivanS et al.
+
 [BDpack](https://github.com/amir-saadat/BDpack): GPU-enabled Brownian dynamics package for simulation of polymeric solutions, by Amir Saadat. An associated paper is [Computationally efficient algorithms for incorporation of hydrodynamic and excluded volume interactions in Brownian dynamics simulations: A comparative study of the Krylov subspace and Chebyshev based techniques](https://pubmed.ncbi.nlm.nih.gov/24832302/), A. Saadat and B. Khomami, J. Chem. Phys., 140, 184903 (2014).
 
 [Biased-versus-unbiased-codes](https://github.com/jvrglr/Biased-versus-unbiased-codes): Python and Fortran codes used to generate plots in J. Aguilar, J.J. Ramasco, and R. Toral [Biased versus unbiased numerical methods for stochastic simulations: application to contagion processes](https://arxiv.org/abs/2305.02902)
