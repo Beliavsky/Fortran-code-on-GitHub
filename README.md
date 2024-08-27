@@ -3970,6 +3970,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [General Quantum Chemistry Properties Grabber (gpg)](https://github.com/lukaswittmann/gpg): obtains a wide range of properties, including molecular geometries, electronic energies, dipole moments, vibrational frequencies, from the output files of popular quantum chemistry software packages, including ORCA, Qchem and Turbomole, by Lukas Wittmann
 
+[Geometrical Counter-Poise Correction (gcp)](https://github.com/grimme-lab/gcp): an associated paper is [A geometrical correction for the inter- and intra-molecular basis set superposition error in Hartree-Fock and density functional theory calculations for large systems](https://pubs.aip.org/aip/jcp/article-abstract/136/15/154101/941628/A-geometrical-correction-for-the-inter-and-intra), by Holger Kruse and Stefan Grimme, Journal of Chemical Physics (2012)
+
 [gfn0](https://github.com/pprcht/gfn0): stand-alone implementation of the GFN0-xTB method, described in preprint [A Robust Non-Self-Consistent Tight-Binding Quantum Chemistry Method for large Molecules](https://chemrxiv.org/engage/chemrxiv/article-details/60c742abbdbb890c7ba3851a) (2019), by Philipp Pracht, Eike Caldeweyher, Sebastian Ehlert, and Stefan Grimme 
 
 [H2-PolarizabilityMatrixElements](https://github.com/ankit7540/H2-PolarizabilityMatrixElements): Fortran and Python code associated with paper "Polarizability tensor invariants of H2, HD, and D2", by Raj, A., Hamaguchi, H., and Witek, H. A., Journal of Chemical Physics 148, 104308 (2018)
