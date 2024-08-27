@@ -3916,6 +3916,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [cct3](https://github.com/piecuch-group/cct3): plugin to [PSI4](https://psicode.org/) capable of executing a number of closed- and open-shell coupled-cluster (CC) calculations with up to triply excited (T3) clusters, by J. Emiliano Deustua et al.
 
+[CDMFT-MOTT-ZEROS](https://github.com/lcrippa/CDMFT-MOTT-ZEROS): Lanczos based solver for the Cluster Dynamical Mean-Field Theory, as used for the numerical calculations in the paper [Mott insulators with boundary zeros](https://www.nature.com/articles/s41467-023-42773-7), by Niklas Wagner et al., Nature Communications (2023)
+
 [cis_nto](https://github.com/marin-sapunar/cis_nto): calculates overlap matrices between sets of wave functions calculated at different geometries, using different atomic basis sets or different electronic structure methods. An associated paper is [Efficient update of determinants for many-electron wave function overlaps](https://www.sciencedirect.com/science/article/abs/pii/S0010465520302459), by P. Alonso-Jordá et al., Comput. Phys. Commun. (2021).
 
 [CONQUEST](https://github.com/OrderN/CONQUEST-release): density functional theory (DFT) code designed for large-scale calculations, with excellent parallelisation, by David Bowler et al. It gives a consistent, exact diagonalisation approach for systems from 1 to 10,000+ atoms, and brings the possibility of linear scaling calculations on over 1,000,000 atoms.
