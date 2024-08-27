@@ -3331,6 +3331,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [PYthon OPTimization Framework (pyOpt)](https://github.com/madebr/pyOpt): object-oriented framework for formulating and solving nonlinear constrained optimization problems, calling Fortran codes
 
+[QAP](https://github.com/mhahsler/qap): R package with Fortran code implementing heuristics for the Quadratic Assignment Problem, by Michael Hahsler
+
 [qnstop](https://github.com/vtopt/qnstop): suite of serial and parallel Fortran 95/2003 codes for deterministic global optimization and stochastic optimization by Layne Watson. 
 
 [quadprog](https://github.com/pedro-ricardo/quadprog): quadratic programming routine based on R Package sources, by Pedro Ricardo C. Souza. Changed to have a Matlab like interface and usage examples in C and Fortran.
