@@ -1624,6 +1624,8 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [smash](https://github.com/DassHydro-dev/smash): Python library that provides a variety of user-friendly routines for hydrological modeling, including data preprocessing, high-dimensional optimization tools, sensitivity and signatures analysis, all interfaced with an efficient Fortran solver
 
+[sprayHFs](https://github.com/bwbarr/sprayHFs): subroutines to add seastate-dependent sea spray heat flux physics to an existing bulk surface layer scheme in a coupled regional or global Earth system model. An associated paper is [Sea-State-Dependent Sea Spray and Air–Sea Heat Fluxes in Tropical Cyclones: A New Parameterization for Fully Coupled Atmosphere–Wave–Ocean Models](https://journals.ametsoc.org/view/journals/atsc/80/4/JAS-D-22-0126.1.xml), by Benjamin W. Barr et al., Journal of the Atmospheric Sciences (2023).
+
 [Structure for Unifying Multiple Modeling Alternatives (SUMMA)](https://github.com/CH-Earth/summa): hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques, by Martyn P. Clark et al.
 
 [Super-Fast INundation of CoastS (SFINCS)](https://github.com/Deltares/SFINCS): reduced-complexity model designed for super-fast modelling of compound flooding events in a dynamic way, from Deltares
