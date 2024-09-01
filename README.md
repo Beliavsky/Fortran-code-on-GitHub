@@ -4028,6 +4028,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [OpenMolcas](https://github.com/Molcas/OpenMolcas): quantum chemistry software package developed by scientists and intended to be used by scientists. It includes programs to apply many different electronic structure methods to chemical systems, but its key feature is the multiconfigurational approach, with methods like CASSCF and CASPT2.
 
+[Open Quantum Platform (OpenQP)](https://github.com/Open-Quantum-Platform/openqp): quantum chemical platform featuring cutting-edge capabilities like [Mixed-Reference Spin-Flip (MRSF)-TDDFT](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c02296), by Cheol Ho Choi et al.
+
 [Optados](https://github.com/optados-developers/optados): calculates core-electron and low-loss electron energy loss spectra (EELS) and optical spectra along with total-, projected- and joint-density of electronic states (DOS) from single-particle eigenenergies and dipole transition coefficients.
 
 [Orthogonalized Linear Combination of Atomic Orbitals (olcao)](https://github.com/UMKC-CPG/olcao): all-electron density functional theory (DFT) based method that uses local atomic orbitals in the basis expansion, associated with book [Electronic Structure Methods for Complex Materials: The orthogonalized linear combination of atomic orbitals](https://academic.oup.com/book/34699), by Wai-Yim Ching, Paul Rulis, Oxford University Press (2012)
