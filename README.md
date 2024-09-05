@@ -1846,6 +1846,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 ## File I/O
 [cfgio](https://github.com/pkgpl/cfgio): Fortran config file parser, by pkgpl
 
+[ciftbx](https://github.com/yayahjb/ciftbx): tool box of routines for manipulating Crystallographic Information File ([CIF](https://www.iucr.org/resources/cif)) data, by Sydney R. Hall and Herbert J. Bernstein
+
 [Convert Precision](https://github.com/p-costa/convert-precision): converts large binary files in parallel from/to single to/from double precision, using MPI-I/O, Pedro Costa. The code assumes that the each file contains only single- or double-precision floating-point.
 
 [cprnc](https://github.com/ESMCI/cprnc): tool for analyzing a netCDF file or comparing two netCDF files, from Earth System Model Computational Infrastructure
