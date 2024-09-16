@@ -1510,6 +1510,8 @@ engine, by montagdude and Geoff Sokoll
 
 [Ocean Assimilation Kit (OAK)](https://github.com/gher-ulg/OAK): module for high level input/output, matrix operations, n-dimensional interpolation of arbitrary curvilinear grid, reduced-rank analysis updates, and assimilation, by Alexander Barth et al.
 
+[OceanWave3D-Fortran90](https://github.com/apengsigkarup/OceanWave3D-Fortran90): efficient coastal engineering research tool used worldwide for simulation of nonlinear and dispersive free surface waves in varying bathymetries from very deep to shallow water. An associated paper is [Analysis of Efficient Preconditioned Defect Correction Methods for Nonlinear Water Waves](https://onlinelibrary.wiley.com/doi/abs/10.1002/fld.3873), by Allan Peter Engsig-Karup, International Journal of Numerical Methods in Fluids (2013).
+
 [okada_wrapper](https://github.com/tbenthompson/okada_wrapper): MATLAB and Python wrappers by Ben Thompson for the Okada DC3D0 point source and the DC3D rectangular dislocation surface Fortran subroutines
 
 [omuse](https://github.com/omuse-geoscience/omuse): Oceanographic MUltipurpose Software Environment is a package to conduct numerical experiments in oceanography and other Earth sciences.
