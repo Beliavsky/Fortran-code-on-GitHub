@@ -1,7 +1,7 @@
 ## Fortran code on GitHub -- also see [fortran-lang package index](https://fortran-lang.org/packages/)
 * [Art and Music](#art-and-music)
 * [Astronomy and Astrophysics](#astronomy-and-astrophysics)
-* [Benchmarks](#benchmarks)
+* [Benchmarks and Benchmarking](#benchmarks-and-benchmarking)
 * [Biology and Medicine](#biology-and-medicine)
 * [Climate and Weather](#climate-and-weather)
 * [Code Tools](#code-tools)
@@ -312,7 +312,7 @@ by ShinobuAmasaki.
 
 [XNet](https://github.com/starkiller-astro/XNet): thermonuclear reaction network for astrophysical applications, using a variety of temporal integration techniques, from starkiller-astro. It is written in portable modern Fortran and makes use of a variety of matrix solving packages to obtain excellent speed (as much as 50% of peak) on as many platforms as possible.
 
-## Benchmarks
+## Benchmarks and Benchmarking
 [Assessment of Programming Languages for Computational Numerical Dynamics](https://github.com/arturofburgos/Assessment-of-Programming-Languages-for-Computational-Numerical-Dynamics): compares different programming languages performance in order to solve CFD and Heat Transfer problems, by arturofburgos
 
 [Bandwidth Benchmark (Fortran version)](https://github.com/RRZE-HPC/TheBandwidthBenchmark-F90): collection of simple streaming kernels for teaching purposes, from RRZE-HPC. It is heavily inspired by John McCalpin's [STREAM](https://www.cs.virginia.edu/stream/).
