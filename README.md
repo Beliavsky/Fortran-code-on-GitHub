@@ -313,8 +313,6 @@ by ShinobuAmasaki.
 [XNet](https://github.com/starkiller-astro/XNet): thermonuclear reaction network for astrophysical applications, using a variety of temporal integration techniques, from starkiller-astro. It is written in portable modern Fortran and makes use of a variety of matrix solving packages to obtain excellent speed (as much as 50% of peak) on as many platforms as possible.
 
 ## Benchmarks
-[ForBenchmark](https://github.com/gha3mi/forbenchmark): a Fortran library for benchmarking (with support for coarrays). There are [dot_product](https://github.com/gha3mi/forbenchmark/tree/main/benchmarks/dot) benchmark results, by Seyed Ali Ghasemi
-
 [Assessment of Programming Languages for Computational Numerical Dynamics](https://github.com/arturofburgos/Assessment-of-Programming-Languages-for-Computational-Numerical-Dynamics): compares different programming languages performance in order to solve CFD and Heat Transfer problems, by arturofburgos
 
 [Bandwidth Benchmark (Fortran version)](https://github.com/RRZE-HPC/TheBandwidthBenchmark-F90): collection of simple streaming kernels for teaching purposes, from RRZE-HPC. It is heavily inspired by John McCalpin's [STREAM](https://www.cs.virginia.edu/stream/).
@@ -325,6 +323,8 @@ by ShinobuAmasaki.
 
 [benchio](https://github.com/davidhenty/benchio): simple Fortran parallel IO benchmark for teaching and benchmarking purposes, by David Henty
 
+[Benchmark.f](https://github.com/davidpfister/benchmark.f): KISS library for benchmarking functions and subroutines with precision, by David Pfister
+
 [benchmarks](https://github.com/HPCL/benchmarks): high performance computing benchmarks and associated performance analysis workflows, from HPCL
 
 [Comparison of Programming Languages in Economics](https://github.com/jesusfv/Comparison-Programming-Languages-Economics): code referenced in the paper "A Comparison of Programming Languages in Economics" by S. Borağan Aruoba and Jesús Fernández-Villaverde
@@ -332,6 +332,8 @@ by ShinobuAmasaki.
 [Compiler-benchmark-suites](https://github.com/quepas/Compiler-benchmark-suites): list of benchmark suites (and some loose kernels) in C and Fortran used in the research related to compilers, program performance, scientific computations etc.
 
 [cumsum_benchmark](https://github.com/ivan-pi/cumsum_benchmark): benchmarks for the cumulative sum of an array, in Fortran, C++, Matlab, and Python, using various methods
+
+[ForBenchmark](https://github.com/gha3mi/forbenchmark): a Fortran library for benchmarking (with support for coarrays). There are [dot_product](https://github.com/gha3mi/forbenchmark/tree/main/benchmarks/dot) benchmark results, by Seyed Ali Ghasemi
 
 [fortran-math-tests](https://github.com/lyuwen/fortran-math-tests): test programs for Fortran math libraries, by L. Fu
 
