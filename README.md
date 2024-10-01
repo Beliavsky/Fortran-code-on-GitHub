@@ -1191,6 +1191,8 @@ engine, by montagdude and Geoff Sokoll
 
 [A-New-BellHope](https://github.com/A-New-BellHope/bellhop): mirror of the original Fortran BELLHOP/BELLHOP3D underwater acoustics simulators, with numerical properties and robustness improved and bugs fixed. These changes were made in support of the multithreaded C++/CUDA version of BELLHOP/BELLHOP3D: bellhopcxx/bellhopcuda
 
+[AquaCrop](https://github.com/KUL-RSDA/AquaCrop): crop growth model developed by FAO’s Land and Water Division to address food security and assess the effect of the environment and management on crop production. AquaCrop simulates the yield response of herbaceous crops to water and is particularly well suited to conditions in which water is a key limiting factor in crop production.
+
 [Automatic Numerical Tsunami Initial conditions: on-the-Fly rupture Areas and earthquake Scenarios (ANTI-FASc)](https://github.com/antonioscalaunina/ANTI-FASc): software enabling the fast computation of large ensembles of slip distributions on complex non-planar fault interfaces such as the subducting plates. An associated paper is [Probabilistic tsunami forecasting for early warning](https://www.nature.com/articles/s41467-021-25815-w), by J. Selva et al., Nature Communications (2021).
 
 [Anura3D_OpenSource](https://github.com/Anura3D/Anura3D_OpenSource): numerical modelling of large deformations and soil–water–structure interaction using the material point method (MPM)
