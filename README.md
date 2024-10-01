@@ -3198,6 +3198,8 @@ ACM Trans. Math. Softw. (2023).
 ## Ordinary Differential Equations
 [AUTO](https://github.com/auto-07p/auto-07p): software for continuation and bifurcation problems in ordinary differential equations originally written in 1980 and widely used in the dynamical systems community
 
+[daskr](https://github.com/davidpfister/daskr): differential-algebraic system solver with rootfinding, by P. N. Brown et al. It includes options for both direct and iterative (Krylov) methods for the solution of the linear systems arising at each (implicit) time step.
+
 [ddeabm](https://github.com/jacobwilliams/ddeabm): modern object-oriented Fortran implementation of the DDEABM Adams-Bashforth-Moulton ODE solver, by Jacob Williams and web-flow
 
 [dde_solver](https://github.com/WarrenWeckesser/dde_solver): update by Warren Weckesser of Shampine and Thompson's DDE_SOLVER, a Fortran library for delay differential equations
