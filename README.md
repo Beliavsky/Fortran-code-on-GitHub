@@ -4217,7 +4217,7 @@ universe-based geometry building, steady-state MC, OTF Doppler broadening, MC-ba
 
 [fsort](https://github.com/snljty/fsort): uses three different sorting methods to maximize speed within memory constraints, based on the size of the array, by Mingda Zhang
 
-[heapsort](https://github.com/sag2021/heapsort): heap sort, by S.A. Gilchrist. The subroutine returns a sorted vector and a vector that maps positions in the sorted vector back to the original.
+[heapsort](https://github.com/sag2021/heapsort): heap sort, by Stuart A. Gilchrist. The subroutine returns a sorted vector and a vector that maps positions in the sorted vector back to the original.
 
 [M_sort](https://github.com/urbanjost/M_sort): collection of Fortran procedures that do simple sorts, by urbanjost
 
