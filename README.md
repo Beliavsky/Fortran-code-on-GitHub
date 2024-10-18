@@ -3542,6 +3542,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [MORFEUS](https://github.com/sourceryinstitute/MORFEUS-Source): framework for the solution of partial differential equations (PDEs) written in modern Fortran, from sourceryinstitute. It is object oriented and attempts to provide useful abstractions for the solution of PDEs that are easy to use and performant.
 
+[N-Dimensional Solver Multrigrid (NDSM)](https://github.com/sag2021/ndsm): computes the potential (current-free) magnetic field on a rectilinear mesh in a Cartesian box, given the normal component of the magnetic field on each boundary face. An assoociated paper is [Relative Magnetic Helicity Based on a Periodic Potential Field](https://iopscience.iop.org/article/10.3847/1538-4357/ab8810), by Kai E. Yang et al., Astophysical Journal (2020).
+
 [Numerical Analysis Problems and Solutions](https://github.com/Papelbon/numerical-anal): codes to solve boundary value problems and the time-dependent (time-independent) heat equation over a one dimensional region, by Pavel Kureichyk
 
 [Octree-mg](https://github.com/jannisteunissen/octree-mg): implements parallel geometric multigrid methods on quadtree/octree grids, which can be used to solve elliptic PDEs such as Poissons's equation. Associated paper: [A geometric multigrid library for quadtree/octree AMR grids coupled to MPI-AMRVAC](https://www.sciencedirect.com/science/article/abs/pii/S001046551930253X), by J. Teunissen and R. Keppens, Computer Physics Communications (2019).
