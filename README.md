@@ -2381,6 +2381,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [KVS.fortran](https://github.com/vizlab-kobe/KVS.fortran): interface by Naohisa Sakamoto and Go Tamura to the [Kyoto Visualization System](https://github.com/naohisas/KVS) (KVS) for scientific simulation data sets
 
+[libgnuplot-fortran](https://github.com/JoseAntonioLattice/libgnuplot-fortran): routines for plotting inside Fortran using Gnuplot, by JoseAntonioLattice
+
 [M_attr](https://github.com/urbanjost/M_attr): set terminal text attributes using ANSI escape sequences
 
 [M_calcomp](https://github.com/urbanjost/M_calcomp): old graphics library used in conjunction with M_draw for work with old codes, by urbanjost. The CALCOMP library is a simple set of FORTRAN callable graphic routines that allows users to quickly construct plots.
