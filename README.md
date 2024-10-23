@@ -3992,6 +3992,10 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [FLOSIC2020](https://github.com/FLOSIC/PublicRelease_2020): performs self-interaction corrected (SIC) density functional approximation calculations, by Duyen Nguyen et al. Fermi Löwdin orbital implementation of Perdew-Zunger SIC scheme is used in the software.
 
+[GAMMCOR](https://github.com/pernalk/GAMMCOR): electron correlation and molecular interaction calculations](https://trex-coe.eu/sites/default/files/Webinar_Feb2023/TREX%20Code%20-%20GAMMCOR_Kasia%20Pernal.pdf), by K. Pernal et al.
+
+[gammcor-integrals](https://github.com/modrzejewski/gammcor-integrals): molecular integrals library by Marcin Modrzejewski and Michał Hapka for the Gammcor code
+
 [General Quantum Chemistry Properties Grabber (gpg)](https://github.com/lukaswittmann/gpg): obtains a wide range of properties, including molecular geometries, electronic energies, dipole moments, vibrational frequencies, from the output files of popular quantum chemistry software packages, including ORCA, Qchem and Turbomole, by Lukas Wittmann
 
 [Geometrical Counter-Poise Correction (gcp)](https://github.com/grimme-lab/gcp): an associated paper is [A geometrical correction for the inter- and intra-molecular basis set superposition error in Hartree-Fock and density functional theory calculations for large systems](https://pubs.aip.org/aip/jcp/article-abstract/136/15/154101/941628/A-geometrical-correction-for-the-inter-and-intra), by Holger Kruse and Stefan Grimme, Journal of Chemical Physics (2012)
