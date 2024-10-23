@@ -3451,6 +3451,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [GPU programming with OpenMP offloading](https://github.com/csc-training/openmp-offload): exercises and other material for [course](https://events.prace-ri.eu/event/1273/), by Jussi Enkovaara et al.
 
+[gpu-programming](https://github.com/ENCCS/gpu-programming): meta-GPU lesson covering general aspects of GPU programming as well as specific frameworks, from ENCCS. Some languages used are Fortran, C++, C, Python, and Julia.
+
 [gpu-tips](https://github.com/dappelha/gpu-tips): Fortran examples of CUDA and directives tips and tricks for IBM Power + Nvidia Systems, by dappelha
 
 [havaita](https://github.com/jeffhammond/havaita): MPI Fortran type inference -- shows how to write a modern Fortran interface to MPI which infers arguments that are already contained in the Fortran type itself, such as element type and count, and renders optional arguments when context is sufficient, by Jeff Hammond
