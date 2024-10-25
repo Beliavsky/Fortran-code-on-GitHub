@@ -2547,6 +2547,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fortran-rbf](https://github.com/dongli/fortran-rbf): implementation of radial basis functions (RBF), by dongli
 
+[grid_interpolation](https://github.com/ChristianSteger/grid_interpolation): interpolates between regular and unstructured grid (e.g. triangle mesh), by Christian Steger. The former interpolation is performed with bilinear interpolation, the latter with inverse distance weighting (IDW) and the application of a k-d tree to efficiently find the nearest neighobours.
+
 [HiPPIS](https://github.com/ouermijudicael/HiPPIS): polynomial-based data-bounded and positivity-preserving interpolation software for function approximation and mapping data values between structure (uniform and nonuniform) meshes. Associated preprint: [Algorithm xxxx: HiPPIS A High-Order Positivity-Preserving Mapping Software for Structured Meshes](https://arxiv.org/abs/2310.08818), by Timbwaoga A. J. Ouermi, Robert M Kirby, Martin Berzins (2023)
 
 [interpolation2d3d](https://github.com/arjenmarkus/interpolation2d3d): interpolation in two and three dimensions, by Arjen Markus. The packages srfpak, sphpak, qshep2d and qpshep3d implement an object-oriented interface to the interpolation packages by Robert Renka.
