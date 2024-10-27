@@ -3013,6 +3013,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [compare](https://github.com/tcanich/compare): module to aid in comparison of real or complex numbers, by Tom Canich and Magnus Hagdorn. The module specifies a tolerance when making the comparisons to determine equality or inequality.
 
+[Computer Methods for Mathematical Computations](https://github.com/Beliavsky/Computer-Methods-for-Mathematical-Computations): code from the [book](https://www.pdas.com/fmm.html) by Forsythe, Malcolm, and Moler, translated to Fortran 90 by Ralph Carmichael
+
 [DATAPLOT](https://github.com/usnistgov/dataplot): powerful and flexible program for performing scientific, engineering, statistical, mathematical, and graphical analysis, from usnistgov
 
 [dfsaneacc](https://github.com/cran/dfsaneacc): R package with underlying Fortran code implementing the algorithm in [Secant Acceleration of Sequential Residual Methods for Solving Large-Scale Nonlinear Systems of Equations](https://epubs.siam.org/doi/10.1137/20M1388024), by Ernesto G. Birgin and J. M. MartÍnez, SIAM Journal on Numerical Analysis, Vol. 60, Iss. 6 (2022)
