@@ -2730,6 +2730,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 
 [pfapack-sys-rs](https://github.com/Duumbo/pfapack-sys-rs): Rust bindings by Dimitri Bonanni-Surprenant to the Fortran library [pfapack](https://michaelwimmer.org/downloads.html), a library by Michael Wimmer for numerically computing the Pfaffian of a real or complex skew-symmetric matrix
 
+[PFLARE](https://github.com/stevendargaville/PFLARE): library to solve linear systems in parallel with PETSc, with interfaces in C, Fortran, and Python. An associated paper is [AIR multigrid with GMRES polynomials (AIRG) and additive preconditioners for Boltzmann transport](https://www.sciencedirect.com/science/article/pii/S0021999124005904), by Steven Dargaville et al., Journal of Computational Physics (2024).
+
 [PROPACK](https://github.com/poulson/PROPACK): set of functions for computing the singular value decomposition of large and sparse or structured matrices  
 
 [PSBLAS3](https://github.com/sfilippone/psblas3): Parallel Sparse Basic Linear Algebra Subroutines, from sfilippone
