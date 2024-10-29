@@ -2864,6 +2864,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [LaGriT](https://github.com/lanl/LaGriT): Los Alamos Grid Toolbox (LaGriT) is a library of user callable tools that provide mesh generation, mesh optimization and dynamic mesh maintenance in two and three dimensions.
 
+[libsupermesh](https://github.com/firedrakeproject/libsupermesh): library for serial and parallel mesh intersection, or supermeshing. An associated paper is [Conservative interpolation between volume meshes by local Galerkin projection](Conservative interpolation between volume meshes by local Galerkin projection), by James R. Maddison and Patrick E. Farrell, Computer Methods in Applied Mechanics and Engineering (2011).
+
 [local_mesh_refinement](https://github.com/PhiPsi-Software/local_mesh_refinement): performs local refinement of XFEM-enriched 3D hexahedral elements, from PhiPsi-Software. Given the original mesh (*.elem and *.node files) and a file (*.ennd) that describes enriched nodes, this program generates the refined mesh (output.elem and output.ndoe).
 
 [meshf](https://github.com/ofgn/meshf): 2D Delaunay triangulation, by ofgn. Future plans include implementing Delaunay refinement, constrained Delaunay, 3D Delaunay, and structured mesh capabilities.
