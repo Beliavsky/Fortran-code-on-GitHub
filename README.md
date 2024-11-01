@@ -870,6 +870,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [Fortran Template Library (FTL)](https://github.com/ffadrique/FTL): object-oriented implementation of generic containers similar to the C++ STL (Standard Template Library), by Fran Martinez Fadrique. Not all elements present in STL are implemented in FTL, yet the documentation in http://www.cplusplus.com/reference/stl/ can be used as generic conceptual reference.
 
+[fortran_vector](https://github.com/jordan4ibanez/fortran_vector): bindings to c-vector by jordan4ibanez. [C-vector](https://github.com/eteran/c-vector) is a dynamic array implementation in C similar to the one found in standard C++.
+
 [fortran_vector](https://github.com/Euler-37/fortran_vector): derived type for vector of integers, with procedures `init`, `append`, `size`, `pop`, `remove`, `delete`, `unique`, `sort`, `cut`, and `clear`, by Euler-37
 
 [fstack](https://github.com/jake-87/fstack): custom stack type for Fortran 2003 that implements a C-style stack, by jake-87. The advantage of this model is that one can have multiple stacks at any one time, so there is no need to juggle them -- just allocate another one.
