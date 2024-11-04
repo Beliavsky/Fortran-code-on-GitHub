@@ -2796,6 +2796,8 @@ a PDF presentation of the subroutine, the input file structure and the results.
 
 [cdpm2](https://github.com/githubgrasp/cdpm2): related [paper](https://www.sciencedirect.com/science/article/pii/S0020768313002886): Grassl, Peter, Dimitrios Xenos, Ulrika Nyström, Rasmus Rempling, and Kent Gylltoft. "CDPM2: A damage-plasticity approach to modelling the failure of concrete." International Journal of Solids and Structures 50, no. 24 (2013): 3805-3816
 
+[DAMASK](https://github.com/damask-multiphysics/DAMASK): related [paper](https://doi.org/10.1016/j.commatsci.2018.04.030): Roters, Franz et al. "DAMASK -- The Düsseldorf Advanced Material Simulation Kit for Modelling Multi-Physics Crystal Plasticity, Damage, and Thermal Phenomena from the Single Crystal up to the Component Scale." Computational Materials Science 158 (2019) 420-478
+
 [DiffuseCode](https://github.com/tproffen/DiffuseCode): suite of programs to simulate disordered and nanomaterials, by tproffen et al.
 
 [disorder](https://github.com/jichunlian/disorder): code corresponding to paper "Algorithm for generating irreducible site-occupancy configurations" (2020), by Ji-Chun Lian et al.
