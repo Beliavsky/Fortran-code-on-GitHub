@@ -966,6 +966,9 @@ The code uses a combination of analytical solutions, the method of  characterist
 
 [cruna-toolkit](https://github.com/cruna-toolkit/public): (aero)acoustic solver that can find, reconstruct, or optimize sound sources with impedance boundary conditions, by Lewis Stein and Mathias Lemke. The solver utilizes adjoint-based optimization techniques and includes the full non-linear Euler and Navier-Stokes equations in a finite-difference time-domain approach.
 
+[CUBic Equation of state Navier-Stokes (CUBENS)](https://github.com/pcboldini/CUBENS): massively-parallel GPU-accelerated high-order solver for direct numerical simulations of non-ideal wall-bounded flows, by 
+Pietro Carlo Boldini
+
 [DesignTurb](https://github.com/YYgroup/DesignTurb): offers a versatile method for constructing the vorticity of vortex tubes with customizable centerline topology, differential twist, and variable thickness. An associated paper is [Role of internal structures within a vortex in helicity dynamics](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/role-of-internal-structures-within-a-vortex-in-helicity-dynamics/5D9EA732FBF63696BA498525BA35D113), by Weiyu Shen et al., Journal of Fluid Mechanics (2023).
 
 [EOF](https://github.com/parkeryang69/EOF): simulation of electro-osmotic flow by Lattice Boltzmann method, by parkeryang69
