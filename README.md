@@ -2805,7 +2805,7 @@ a PDF presentation of the subroutine, the input file structure and the results.
 
 [DMFTwDFT](https://github.com/DMFTwDFT-project/DMFTwDFT): calculates electronic, vibrational and elastic properties in strongly correlated materials (SCM) using beyond-DFT methods such as DFT+U, DFT+Hybrids and DFT+DMFT (Dynamical Mean Field Theory) with a variety of different DFT codes
 
-[Düsseldorf Advanced Material Simulation Kit (DAMASK)](https://github.com/eisenforschung/DAMASK): flexible and hierarchically structured model of material point behavior for the solution of elastoplastic boundary value problems along with damage and thermal physics, from eisenforschung. Its main purpose is the simulation of crystal plasticity within a finite-strain continuum mechanical framework.
+[Düsseldorf Advanced Material Simulation Kit (DAMASK)](https://github.com/eisenforschung/DAMASK): flexible and hierarchically structured model of material point behavior for the solution of elastoplastic boundary value problems along with damage and thermal physics, from eisenforschung. An associated paper is [DAMASK – The Düsseldorf Advanced Material Simulation Kit for modeling multi-physics crystal plasticity, thermal, and damage phenomena from the single crystal up to the component scale](https://www.sciencedirect.com/science/article/pii/S0927025618302714), by F. Roters et al., Computational Materials Science (2019).
 
 [EXCEED-DM](https://github.com/tanner-trickle/EXCEED-DM): EXtended Calculation of Electronic Excitations for Direct detection of Dark Matter, by tanner-trickle
 
