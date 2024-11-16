@@ -2180,6 +2180,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [FACE](https://github.com/szaghi/FACE): Ansi Colors and Styles Environment, by szaghi et al.
 
+[files_f90](https://github.com/jordan4ibanez/files_f90): directory reader by jordan4ibanez
+
 [FLAP](https://github.com/szaghi/FLAP): command Line Arguments Parser for poor people, by szaghi et al. A KISS pure Fortran Library for building powerful, easy-to-use, elegant command line interfaces
 
 [flib](https://github.com/crshapiro/flib): standard library, function library, a tridiagonal matrix solver, and code for a doubly linked list, optimization, and interpolation
