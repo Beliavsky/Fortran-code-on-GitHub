@@ -882,6 +882,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [hashtable](https://github.com/jvdp1/hashtable): hash tables by Jeremie Vandenplas based on the function hashword in [lookup3.c](http://burtleburtle.net/bob/c/lookup3.c) by Bob Jenkins. Five derived types are available, for character, integer, and real scalars, and for integer and real arrays
 
+[integer_set](https://github.com/jordan4ibanez/integer_set): simple unoptimized 32-bit and 64-bit integer sets, by jordan4ibanez
+
 [LinkedList](https://github.com/pedro-ricardo/LinkedList): simple implementation of heterogeneous linked list in a single module, by Pedro Ricardo C. Souza
 
 [LinkedList](https://github.com/degawa/LinkedList): doubly linked list for Fortran 2003, by Tomohiro Degawa. The list is based on object-oriented programming, so the list can treat all types Fortran supports, including integer, real, character and derived types by using the unlimited polymorphism feature.
