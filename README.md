@@ -882,6 +882,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [gFTL](https://github.com/Goddard-Fortran-Ecosystem/gFTL): provides a mechanism to easily create robust containers and associated iterators which can be used within Fortran applications, from Goddard-Fortran-Ecosystem. The primary methods are intended to be as close to their C++ STL analogs as possible. Also see [gFTL-shared](https://github.com/Goddard-Fortran-Ecosystem/gFTL-shared)
 
+[hashmap_f90](https://github.com/jordan4ibanez/hashmap_f90): bindings to [hashmap.c](https://github.com/tidwall/hashmap.c), by jordan4ibanez
+
 [hashtable](https://github.com/jvdp1/hashtable): hash tables by Jeremie Vandenplas based on the function hashword in [lookup3.c](http://burtleburtle.net/bob/c/lookup3.c) by Bob Jenkins. Five derived types are available, for character, integer, and real scalars, and for integer and real arrays
 
 [integer_set](https://github.com/jordan4ibanez/integer_set): simple unoptimized 32-bit and 64-bit integer sets, by jordan4ibanez
