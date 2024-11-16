@@ -828,6 +828,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [enhanced-allocatables](https://github.com/PierUgit/enhanced-allocatables): proposal to extend allocatable arrays to be dynamically reallocatable/resizable, with an implementation that calls C++, by PierUgit
 
+[for_fifo_queue](https://github.com/jordan4ibanez/for_fifo_queue): dense linked fifo queue, by ordan4ibanez. It is dense because it allows unlimited polymorphism in the queue without using additional indirection.
+
 [Fortran_competitive_library](https://github.com/osada-yum/Fortran_competitive_library): library for solving [AtCoder](https://atcoder.jp/) problems, implementing a binary indexed tree, hash table, linked list, tuples, and merge and selection sort
 
 [Fortran Library based on Interfaces and Templates (FLIT)](https://github.com/lanl/flit): generic library providing a number of useful functionalities for computational geophysics and beyond, by Kai Gao. These functionalities include several single/multi-dimensional array manipulation functions/subroutines, flexible parameter reading from textual file or command line arguments, signal and image filtering and processing, integral transforms, interpolation, statistical functions, and so on. 
