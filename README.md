@@ -3066,6 +3066,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [fortran-bessels](https://github.com/perazz/fortran-bessels): Fortran port (stub) of the Bessels.jl repository, by Federico Perini et al.
 
+[Fortran Multiple Precision Library (FMPL)](https://github.com/supercomputerprimesearch/fmpl): by Zander Lewis
+
 [fortran-numerical-methods](https://github.com/c4rlosr4ul/fortran-numerical-methods): implements methods for solving ordinary differential equations, numerical interpolation, finding roots of equations, and other topics, by Carlos Raúl
 
 [fortran-primes](https://github.com/perazz/fortran-primes): library to return the nth prime number, the prime numbers in a range, test if a number is prime, return the nth prime number greater than a specified number, and factor a number into primes, by Federico Perini, based in part on codes by Michal Forisek, David Deley and Primes.jl
