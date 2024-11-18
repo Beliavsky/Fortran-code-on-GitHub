@@ -4370,6 +4370,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [pygslib](https://github.com/opengeostat/pygslib): GSLIB (Geostatistical Software LIBrary) Fortran code wrapped into python
 
+[pymc2](https://github.com/pymc-devs/pymc2): Python module with Fortran code that implements Bayesian statistical models and fitting algorithms, including Markov chain Monte Carlo, by Chris Fonnesbeck et al. Its flexibility and extensibility make it applicable to a large suite of problems. 
+
 [quantregpy](https://github.com/quantregpy/quantregpy): code for quantile regression by Roger Koenker with a Python interface. The R package is [here](https://github.com/cran/quantreg)
 
 [RefbasedMI](https://github.com/UCL/RefbasedMI): R package with Fortran code for Reference-based multiple imputation for sensitivity analysis of longitudinal trials with protocol deviation, by KMcgrathUCL et al.
