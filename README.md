@@ -918,6 +918,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [VectorClass](https://github.com/thchang/VectorClass): Fortran 2003 dynamic memory array that functions similarly (but not identically) to the C++ Vector class, by Tyler Chang
 
+[Yet Another Fortran Tree (yaftree)](https://github.com/gronki/yaftree): single-module lightweight implementation of a dictionary (key--value pairs) and set (only keys), by Dominik Gronkiewicz. Some features, such as interface for popular data types (INTEGER, CHARACTER etc) are intentionally omitted to keep the size down to the minimum.
+
 ## Computational Fluid Dynamics
 [2DEulerSolver](https://github.com/FrostyNip/2DEulerSolver): numerically solve the Euler equations over a channel with a bump using Jameson scheme finite volume analysis, by FrostyNip
 
