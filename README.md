@@ -3244,6 +3244,8 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [dvode](https://github.com/jacobwilliams/dvode): Modern Fortran Edition of the [DVODE](https://computing.llnl.gov/projects/odepack) ODE Solver, by Jacob Williams
 
+[easydop853](https://github.com/GasinAn/easydop853): modern implementation of Hairer's DOP853 ODE solver by Jiachen An, simplifying that of Jacob Williams. A much-easier-to-use subroutine interface has been created by using the original easy-to-use class interface, however, for simplicity, users can only set the ODE and the initial condition, and cannot set other parameters, such as error tolerance parameters, which can be set by using the original implementation.
+
 [FATODE](https://github.com/ComputationalScienceLaboratory/FATODE): set of integrators to solve ordinary differential system y'=f(t,y) with capabilities of direct and adjoint sensitivity analysis, from ComputationalScienceLaboratory
 
 [Fortran Library for numerical INTegration of differential equations (FLINT)](https://github.com/princemahajan/FLINT): modern object-oriented fortran library that provides four adaptive step-size explicit Runge-Kutta (ERK) methods of order 5, 6, 8, and 9 along with dense-output and multiple event-detection support for each of the methods, by Bharat Mahajan. The code is written such that any other ERK method can be implemented by including its coefficients with minimum changes required in the code. 
