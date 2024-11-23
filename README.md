@@ -2491,8 +2491,6 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fortran-modbus](https://github.com/interkosmos/fortran-modbus): interface bindings to [libmodbus](https://libmodbus.org/), for Modbus RTU/TCP access, by interkosmos
 
-[fortran-xmpp](https://github.com/interkosmos/fortran-xmpp): interface bindings to the XMPP client library [libstrophe](http://strophe.im/libstrophe/), by interkosmos
-
 [forpy](https://github.com/ylikx/forpy): use Python in Fortran and vice versa
 
 [FortCL](https://github.com/stfc/FortCL): Fortran wrapper library providing OpenCL functionality, from stfc
@@ -2512,6 +2510,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 [fortran-unix](https://github.com/interkosmos/fortran-unix): Fortran 2008 ISO C binding interfaces to selected POSIX and SysV types, functions, and routines on 64-bit Unix-like operating systems, by interkosmos
 
 [Fortran Unsigned Wrapper (funsignedwrapper)](https://github.com/johandweber/funsignedwrapper): module with functions for accessing unsigned variables in standard Fortran 2008, by Johann Andreas Weber
+
+[fortran-xmpp](https://github.com/interkosmos/fortran-xmpp): interface bindings to the XMPP client library [libstrophe](http://strophe.im/libstrophe/), by interkosmos
 
 [fpydemo](https://github.com/banskt/fpydemo): demonstration of packaging a command line tool written in Python and Fortran, by Saikat Banerjee. The minimum working example has native Fortran codes compile to a shared library with F2PY, Lapack routines, and uses mpi4py for MPI parallelization.
 
