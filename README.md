@@ -2511,7 +2511,7 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [Fortran Unsigned Wrapper (funsignedwrapper)](https://github.com/johandweber/funsignedwrapper): module with functions for accessing unsigned variables in standard Fortran 2008, by Johann Andreas Weber
 
-[fortran-xmpp](https://github.com/interkosmos/fortran-xmpp): interface bindings to the [XMPP](https://xmpp.org/about/technology-overview/) client library [libstrophe](http://strophe.im/libstrophe/), by interkosmos. 
+[fortran-xmpp](https://github.com/interkosmos/fortran-xmpp): interface bindings to the [XMPP](https://xmpp.org/about/technology-overview/) (Extensible Messaging and Presence Protocol) client library [libstrophe](http://strophe.im/libstrophe/), by interkosmos.
 
 [fpydemo](https://github.com/banskt/fpydemo): demonstration of packaging a command line tool written in Python and Fortran, by Saikat Banerjee. The minimum working example has native Fortran codes compile to a shared library with F2PY, Lapack routines, and uses mpi4py for MPI parallelization.
 
