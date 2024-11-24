@@ -4386,6 +4386,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [Regression via Nonsmooth Optimization](https://github.com/SnTa2019/Regression-via-Nonsmooth-Optimization): optimization based regression algorithms introduced by Sona Taheri and co-authors
 
+[robust](https://github.com/valentint/robust): R package with Fortran code for robust covariance estimation (scatter and location), linear regression, generalized linear models, and Gamma, Weibull, and lognormal parameter estimation, by Jeff Wang et al.
+
 [sampleSTAT](https://github.com/haniibrahim/sampleSTAT): command-line application to determine sampling distributions, by Hani Andreas Ibrahim. It goes a lot further than arithmetic mean and standard deviation.
 
 [SLICE](https://github.com/ericlindsey/slice): efficient N-Dimensional Monte Carlo inversion algorithm, by ericlindsey
