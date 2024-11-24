@@ -4388,6 +4388,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [robust](https://github.com/valentint/robust): R package with Fortran code for robust covariance estimation (scatter and location), linear regression, generalized linear models, and Gamma, Weibull, and lognormal parameter estimation, by Jeff Wang et al.
 
+[rrcov](https://github.com/valentint/rrcov): R package with Fortran and C code providing scalable robust estimators with high breakdown point and covering a large number of robustified multivariate analysis methods, starting with robust estimators for the multivariate location and covariance matrix (MCD, MVE, S, MM, SD), the deterministic versions of MCD, S and MM estimates and regularized versions (MRCD) for high dimensions, by Valentin Todorov 
+
 [sampleSTAT](https://github.com/haniibrahim/sampleSTAT): command-line application to determine sampling distributions, by Hani Andreas Ibrahim. It goes a lot further than arithmetic mean and standard deviation.
 
 [SLICE](https://github.com/ericlindsey/slice): efficient N-Dimensional Monte Carlo inversion algorithm, by ericlindsey
