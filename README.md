@@ -2370,6 +2370,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fortran-gdlib](https://github.com/johandweber/fortran-gdlib): Fortran binding for the [GD graphics library](https://libgd.github.io/), by Johann Andreas Weber
 
+[fortran-graphics](https://github.com/jeyemhex/fortran-graphics): graphics library written in OpenGL, by Ed Higgins
+
 [Fortran Intuitive Graphics (fig)](https://github.com/AnonMiraj/fig): provide intuitive graphics capabilities, by AnonMiraj. It offers basic 2D primitives such as lines, circles, ellipsis, and rectangles for creating graphical representations.
 
 [fortran-sdl2](https://github.com/interkosmos/fortran-sdl2): collection of ISO C binding interfaces to Simple DirectMedia Layer 2.0 (SDL 2.0), for 2D and 3D game programming in Fortran, by interkosmos
