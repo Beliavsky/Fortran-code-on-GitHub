@@ -1915,6 +1915,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [fortran-zstd](https://github.com/interkosmos/fortran-zstd): Fortran 2018 interface bindings to selected [Zstandard](https://facebook.github.io/zstd/) functions, by interkosmos. Zstandard is a fast compression algorithm, providing high compression ratios.
 
+[Fyaml](https://github.com/bbakernoaa/Fyaml): simple YAML parser, by Barry Baker. It supports basic YAML features including nested structures, sequences, various data types (strings, integers, floats, booleans, nulls), comments, anchors, and aliases.
+
 [H5_Assist](https://github.com/EcohydrologyTeam/H5_Assist): HDF5 interface libraries for Fortran, Java, and C#, by EcohydrologyTeam
 
 [HDF5 Fortran Wrapper](https://github.com/richardfoltyn/hdf5-fortran-wrapper): small wrapper implementing a simple interface to store and load high-dimensional arrays in Fortran, by Richard Foltyn. It is easier to use than the low-level API provided by the official HDF5 library.
