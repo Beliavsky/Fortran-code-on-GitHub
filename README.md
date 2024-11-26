@@ -1951,6 +1951,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [h5fortran](https://github.com/geospace-code/h5fortran): Simple, robust, thin HDF5 polymorphic Fortran read/write interface, by geospace-code
 
+[Max_diff_nc](https://github.com/lguez/Max_diff_nc): compares two NetCDF files, by Lionel Guez. Only NetCDF variables with type NC_FLOAT or NC_DOUBLE are compared. 
+
 [mkcdf](https://github.com/HiroyukiTomita/mkcdf): makes netCDF file from fortran binary file, by Hiroyuki Tomita
 
 [mo_netcdf](https://github.com/schaefed/mo_netcdf): object-oriented wrapper around the NetCDF Fortran 90 interface, by David Schaefer et al.
