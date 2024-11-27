@@ -1284,6 +1284,8 @@ engine, by montagdude and Geoff Sokoll
 
 [cshore](https://github.com/erdc/cshore): predicts beach evolution over the nearshore region, from US Army Engineer Research and Development Center. The combined wave and current model operates under the assumption of longshore uniformity and includes the effects of a wave roller and quadratic bottom shear stress.
 
+[DALEC-Grass](https://github.com/GCEL/DALEC-Grass): development of the Data Assimilation Linked Ecosystem Carbon (DALEC) model that simulates carbon (C) dynamics in managed grassland ecosystems, from the Global Change Ecology Lab
+
 [Data Interpolating Empirical Orthogonal Functions (DINEOF)](https://github.com/aida-alvera/DINEOF): EOF-based method to fill in missing data from geophysical fields, such as clouds in sea surface temperature. For more information on how DINEOF works, please refer to Alvera-Azcarate et al (2005) and Beckers and Rixen (2003).
 
 [Data-Interpolating Variational Analysis (DIVA)](https://github.com/gher-ulg/DIVA): spatial interpolation of data (analysis) in an optimal way, comparable to optimal interpolation (OI), by Sylvain Watelet et al. In comparison to OI, it takes into account coastlines, sub-basins and advection.
