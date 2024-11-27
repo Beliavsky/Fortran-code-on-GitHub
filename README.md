@@ -923,6 +923,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 ## Computational Fluid Dynamics
 [2DEulerSolver](https://github.com/FrostyNip/2DEulerSolver): numerically solve the Euler equations over a channel with a bump using Jameson scheme finite volume analysis, by FrostyNip
 
+[2DHydro](https://github.com/sudarshanphy/2DHydro): solve 2D Euler equations for simple systems and create videos of the simulations with Python, by Sudarshan Neopane
+
 [adflow](https://github.com/mdolab/adflow): flow solver developed by the MDO Lab at the University of Michigan. It solves the compressible Euler, laminar Navier–Stokes and Reynolds-averaged Navier–Stokes equations using structured multi-block and overset meshes.
 
 [Advanced Finite Difference flow solver with Multiple Resolution and Phase-Field implementations (AFiD-MuRPhFi)](https://github.com/chowland/AFiD-MuRPhFi): highly parallel application for simulating canonical flows in a channel domain, by Chris Howland
