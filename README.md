@@ -3567,6 +3567,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 [ur-parallel-programming](https://github.com/sueskind/ur-parallel-programming): notes and cheatsheets on the course Parallel Programming in Fortran at the University of Regensburg, covering Fortran in general, MPI, and OpenMP, by Jonas Süskind
 
 ## Partial Differential Equations
+[boxcode2d-legacy](https://github.com/mrachh/boxcode2d-legacy): Fortran and Matlab wrapper by Manas Rachh et al. for running the 8th order box code by Greengard and Ethridge, from the paper [A new fast-multipole accelerated poisson solver in two dimensions](https://nyuscholars.nyu.edu/en/publications/a-new-fast-multipole-accelerated-poisson-solver-in-two-dimensions) SIAM Journal of Scientific Computing (2001)
+
 [cedar](https://github.com/cedar-framework/cedar): robust, variational multigrid library implementing Black Box Multigrid (BoxMG) on large scale parallel systems, by David Moulton, Luke N. Olson and Andrew Reisner
 
 [Computational Hyperbolic PDE (chpde)](https://github.com/cpraveen/chpde): codes based on [Clawpack](https://github.com/clawpack/apps) and the books [Finite volume methods for hyperbolic problems (2002)](https://www.cambridge.org/core/books/finite-volume-methods-for-hyperbolic-problems/97D5D1ACB1926DA1D4D52EAD6909E2B9), by Randall J. LeVeque and [Riemann Problems and Jupyter Solutions: Theory and Approximate Solvers for Hyperbolic PDEs (2020)](https://www.clawpack.org/riemann_book/) by David I. Ketcheson, Randall J. LeVeque, and Mauricio J. del Razo
