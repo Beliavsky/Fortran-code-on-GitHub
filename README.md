@@ -1344,6 +1344,8 @@ engine, by montagdude and Geoff Sokoll
 
 [European Regional Seas Ecosystem Model (ERSEM)](https://github.com/pmlmodelling/ersem): marine ecosystem model that describes the biogeochemical cycling of carbon, nitrogen, phosphorus, silicon, oxygen and iron through pelagic and benthic ecosystems.
 
+[FastIsostasy](https://github.com/palma-ice/FastIsostasy): model that regionally computes the glacial isostatic adjustment (GIA), as described in [Swierczek-Jereczek et al.](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2869/) (2024). It approximates the gravitational response, accounts for the resulting heterogeneity of the sea-surface height and computes the evolution of masks (continent, ocean, floating ice, grounded ice), as well as the load anomalies applied upon the solid Earth.
+
 [Fast Shallow Landslide Assessment Model (fslam)](https://github.com/EnGeoModels/fslam): applies the infinite slope theory at regional scale to identify potentially unstable areas, by Marcel Hürlimann and Vicente Medina, part of the SMuCPhy (Slope mass-wasting under climate change) project
 
 [fastscapelib-fortran](https://github.com/fastscape-lem/fastscapelib-fortran): Fortran (+ Python bindings) library of efficient algorithms for landscape evolution modeling, by Benoit Bovy et al.
