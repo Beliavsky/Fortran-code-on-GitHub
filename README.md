@@ -312,6 +312,8 @@ by ShinobuAmasaki.
 
 [XNet](https://github.com/starkiller-astro/XNet): thermonuclear reaction network for astrophysical applications, using a variety of temporal integration techniques, from starkiller-astro. It is written in portable modern Fortran and makes use of a variety of matrix solving packages to obtain excellent speed (as much as 50% of peak) on as many platforms as possible.
 
+[Yet Another Particle Simulation (YAPS)](https://github.com/Daniel-Harrington/YAPS): high-performance astrophysics simulation modeling black hole migration resulting from the merger of a large host galaxy with a smaller galaxy, by Daniel Harrington et al. The simulation uses CUDA acceleration and Fourier transforms to compute gravitational interactions between 100 million particles, including two supermassive black holes (SMBHs). 
+
 ## Benchmarks and Benchmarking
 [Assessment of Programming Languages for Computational Numerical Dynamics](https://github.com/arturofburgos/Assessment-of-Programming-Languages-for-Computational-Numerical-Dynamics): compares different programming languages performance in order to solve CFD and Heat Transfer problems, by arturofburgos
 
