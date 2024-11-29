@@ -1141,6 +1141,8 @@ nscapin
 
 [Synthetic Eddy Method (SEM)](https://github.com/blackcata/SEM): code associated with paper [Extended synthetic eddy method to generate inflow data for turbulent thermal boundary layer](https://www.sciencedirect.com/science/article/abs/pii/S0017931018332289), by Geunwoo Oh et al., International Journal of Heat and Mass Transfer, 2019. A related project is [Synthetic-Eddies](https://github.com/Niceno/Synthetic-Eddies) by Bojan Niceno.
 
+[Synthetic-Eddy-Method-KCX2013](https://github.com/AkshayPatil1994/Synthetic-Eddy-Method-KCX2013): serial implementation by Akshay Patil of the Synthetic Eddy Method described in the paper [Divergence-free turbulence inflow conditions for large-eddy simulations with incompressible flow solvers](https://www.sciencedirect.com/science/article/abs/pii/S0045793013002132), by Yusik Kim et al., Computers & Fluids (2013).
+
 [Turbulent Flows (T-Flows)](https://github.com/DelNov/T-Flows): computational fluid dynamics program originally developed at Delft University of Technology, the Netherlands. It features second order accurate, unstructured, cell-centered, finite volume discretization of incompressible Navier-Stokes equations with heat transfer and species transport. It is written in Fortran 90 and uses Message Passing Interface (MPI) for parallel execution.
 
 [tlab](https://github.com/turbulencia/tlab): Tools to simulate and analyze turbulent flows in 2D and 3D configurations, from turbulencia. The numerical schemes are based on compact finite differences with structured meshes, where grid stretching allowed. Time advancement in based on Runge-Kutta schemes.
