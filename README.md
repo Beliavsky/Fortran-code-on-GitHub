@@ -1133,6 +1133,8 @@ nscapin
 
 [Special Periodic Continuation Turbulence Solver (SPECTER)](https://github.com/mfontanaar/SPECTER): performs numerical integration in 3D space for a set of PDEs usually found in fluid dynamics, by Mauro Fontana and Pablo Mininni. A pseudo-spectral method is used to compute spatial derivatives, coupled with an adjustable order Runge-Kutta time stepping.
 
+[SPH_fractional](https://github.com/BCAM-CFD/SPH_fractional): code for simulating fluids using the SPH integral viscoelastic method, associated with the paper [Smoothed Particle Hydrodynamics simulations of integral multi-mode and fractional viscoelastic models](https://www.sciencedirect.com/science/article/abs/pii/S037702572400051X), by Luca Santelli et al., Journal of Non-Newtonian Fluid Mechanics (2024)
+
 [Supersonic TuRbulEnt Accelerated navier stokes Solver (STREAMS)](https://github.com/matteobernardini/STREAmS): performs Direct Numerical Simulations of compressible turbulent flows in Cartesian geometry solving the unsteady, fully compressible Navier-Stokes equations for a perfect gas, by matteobernardini et al. Currently, three canonical wall-bounded flows can be simulated: compressible turbulent channel flow, compressible zero-pressure-gradient turbulent boundary layer, and supersonic oblique shock-wave/turbulent boundary-layer interaction.
 
 [Synthetic Eddy Method (SEM)](https://github.com/blackcata/SEM): code associated with paper [Extended synthetic eddy method to generate inflow data for turbulent thermal boundary layer](https://www.sciencedirect.com/science/article/abs/pii/S0017931018332289), by Geunwoo Oh et al., International Journal of Heat and Mass Transfer, 2019. A related project is [Synthetic-Eddies](https://github.com/Niceno/Synthetic-Eddies) by Bojan Niceno.
