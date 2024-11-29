@@ -1523,6 +1523,8 @@ engine, by montagdude and Geoff Sokoll
 
 [MOM6](https://github.com/NOAA-GFDL/MOM6): Modular Ocean Model, from NOAA-GFDL
 
+[MTRVI](https://github.com/dadidianci/MTRVI): 3D inversion code for MT (magnetotelluric) data, which can achieve uncertainty quantification of the result using Reparameterized Variational Inference (RVI) and the conventional inversion with gradient filtering regularization. Associated paper: [Gradient filtering regularization for 3-D MT inversion based on unstructured tetrahedral discretization](https://academic.oup.com/gji/article/235/1/94/7174384), by Zhihao Rong, Geophysical Journal International (2023).
+
 [multifluids_icferst](https://github.com/ImperialCollegeLondon/multifluids_icferst): reservoir simulator based on DCVFEM, dynamic mesh optimisation and surface-based modelling. An associated paper is [Modelling saline intrusion using dynamic mesh optimization with parallel processing](https://www.sciencedirect.com/science/article/pii/S0309170822000641), by A. Hamzehloo et al., Advances in Water Resources, v164, (2022).
 
 [Multicomponent Aerosol FORmation (mafor)](https://github.com/mafor2/mafor): Lagrangian type sectional aerosol box model which includes gas phase and aqueous phase chemistry in addition to aerosol dynamics. The model simultaneously solves the time evolution of both the particle number and the mass concentrations of aerosol components in each size section.
