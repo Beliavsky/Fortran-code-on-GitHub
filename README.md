@@ -4139,6 +4139,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Pseudopotential Algorithm of Real-Space Electronic Structure Calculation (PARSEC)](https://github.com/PARSEC-real-space-code/PARSEC): solves the Kohn-Sham equations by expressing electron wave-functions directly in real space, without the use of explicit basis sets, by Anil Damle and Zhao Tang. An associated paper is [Numerical methods for electronic structure calculations of materials](https://epubs.siam.org/doi/abs/10.1137/060651653), by Y. Saad et al., SIAM Review (2010).
 
+[pynfam](https://github.com/mld1812/pynfam): Python package by mld1812 with functions, classes, and methods for running large-scale beta decay calculations with the Fortran codes [HFBTHO](https://www.fuw.edu.pl/~dobaczew/hfbtho16w/hfbtho16w.html) (Hartree-Fock-Bogoliubov using The Transformed Harmonic Oscillator Basis) and pnfam
+
 [qc2-teaching](https://github.com/grimme-lab/qc2-teaching): resources used for teaching the course quantum chemistry 2 (WP4) at the university of Bonn, including Fortran and Linux tutorials, from grimme-lab
 
 [q-e](https://github.com/QEF/q-e): Quantum ESPRESSO suite of codes (ESPRESSO: opEn-Source Package for Research in Electronic Structure, Simulation, and Optimization)
