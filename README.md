@@ -675,6 +675,8 @@ simulating and forecasting meteorological phenomena.
 
 [fortran-compiler-tests](https://github.com/nncarlson/fortran-compiler-tests): collection of Fortran compiler bug examples and tests, by nncarlson
 
+[fortran_oo](https://github.com/pletzer/fortran_oo): tests compiler support of object-oriented programming features, by Alex Pletzer and Wolfgang Hayek
+
 [Fortran Tests](https://github.com/lanl/fortran-tests): set of tests for Modern Fortran, by Galen M. Shipman
 
 [fortran-wringer-tests](https://github.com/klausler/fortran-wringer-tests): collection of non-portable Fortran usage, standard-conformant or otherwise, by Peter Klausler, accumulated during the development of the f18 Fortran compiler (also known as "LLVM Flang")
