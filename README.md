@@ -2651,6 +2651,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [blas-interface](https://github.com/awvwgk/blas-interface): interface declarations for basic linear algebra subprograms, by Sebastian Ehlert
 
+[BLZPACK](https://github.com/oamarques/BLZPACK): set of subprograms to compute the eigenvalues and eigenvectors (x) of the "standard" eigenvalue problem or the "generalized" eigenvalue problem for sparse symmetric matrices, by Osni Marques
+
 [ButterflyPACK](https://github.com/liuyangzhuan/ButterflyPACK): software for rapidly solving large-scale dense linear systems that exhibit off-diagonal rank-deficiency, by liuyangzhuan
 
 [chol-rev](https://github.com/imurray/chol-rev): reverse-mode routine written in FORTRAN 77, modeled after the fast LAPACK Cholesky routine DPOTRF, which uses blocked level-3 BLAS routines
