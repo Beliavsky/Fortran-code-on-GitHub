@@ -176,6 +176,8 @@ by ShinobuAmasaki.
 
 [International Radiation Belt Environment Modeling (IRBEM) library](https://github.com/PRBEM/IRBEM): routines to compute magnetic coordinates for any location in the Earth's magnetic field, to perform coordinate conversions, to evaluate geophysics/space-physics models, and to propagate orbits in time.
 
+[JSPAM](https://github.com/jfwallin/JSPAM): software for simulating interacting galaxies using a restricted three-body approximation, in Fortran, Java, JavaScript, and Python, by aholinch and John Wallin
+
 [Just Another Vehicle for Estimating Lags In Nuclei (JAVELIN)](https://github.com/nye17/javelin): version of the SPEAR algorithm written in Python to provide more flexibility in both functionality and visualization. One can use JAVELIN to model quasar variability using different covariance functions (Zu et al. 2013), and measure emission line lags using either spectroscopic light cruves (Zu et al. 2011) or photometric light curves (Zu et al. 2016).
 
 [K2_Fortran_Modules](https://github.com/rootware/K2_Fortran_Modules): modules for space weather modelling by Shah Saad Alam, associated with paper [Simulation of radiation belt wave-particle interactions in an MHD-particle framework](https://www.frontiersin.org/articles/10.3389/fspas.2023.1239160/full), by Anthony A. Chan et al., Front. Astron. Space Sci. (2023)
