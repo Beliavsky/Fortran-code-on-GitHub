@@ -4562,6 +4562,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [Time Series Analysis with State Space Model (TSSS)](https://github.com/cran/TSSS): R package with underlying Fortran code, used in the book [Introduction to Time Series Modeling with Applications in R, 2nd ed.](https://www.routledge.com/Introduction-to-Time-Series-Modeling-with-Applications-in-R/Kitagawa/p/book/9780367187330), by Genshiro Kitagawa
 
+[urca](https://github.com/cran/urca): R package with Fortran subroutines to estimate critical values and P values for unit root and cointegration tests, by James G. MacKinnon
+
 [vector_fit](https://github.com/chrissmartt/vector_fit): code by Chris Smartt for the [vector fitting](https://www.sintef.no/projectweb/vectorfitting/) algorithm of the paper [Rational approximation of frequency domain responses by vector fitting](https://ieeexplore.ieee.org/document/772353), by  B. Gustavsen and A. Semlyen, IEEE Trans. Power Delivery, vol. 14, no. 3, pp. 1052-1061, (1999) 
 
 [wavelets](https://github.com/chris-torrence/wavelets): Torrence & Compo Wavelet Analysis Software
