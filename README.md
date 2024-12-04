@@ -1267,6 +1267,9 @@ engine, by montagdude and Geoff Sokoll
 
 [CICE Consortium sea-ice model](https://github.com/CICE-Consortium/CICE): computationally efficient model for simulating the growth, melting, and movement of polar sea ice
 
+[climber-x](https://github.com/cxesmc/climber-x): comprehensive fast Earth System Model, designed to simulate the evolution of the Earth system on time scales ranging from decades to glacial-interglacial cycles.
+An associated paper is [Glacial inception through rapid ice area increase driven by albedo and vegetation feedbacks](https://cp.copernicus.org/articles/20/597/2024/), by Matteo Willeit et al., Climate of the Past (2024).
+
 [CLM-Microbe](https://github.com/email-clm/CLM-Microbe): modeling work within the Ecological Modeling and Integration Laboratory at SDSU. One publication is [Substrate and environmental controls on microbial assimilation of soil organic carbon: a framework for Earth system models](https://onlinelibrary.wiley.com/doi/10.1111/ele.12254).
 
 [ClusterIn](https://github.com/tolenius/ClusterIn): add-on for aerosol microphysics models for explicitly simulating the dynamics of particle formation from vapors. Associated paper: [Role of gas–molecular cluster–aerosol dynamics in atmospheric new-particle formation](https://www.nature.com/articles/s41598-022-14525-y), by Tinja Olenius & Pontus Roldin, Scientific Reports volume 12, Article number: 10135 (2022).
