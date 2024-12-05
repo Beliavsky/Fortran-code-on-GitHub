@@ -2892,7 +2892,7 @@ a PDF presentation of the subroutine, the input file structure and the results.
 [RuSseL3D](https://github.com/cjrevelas/RuSseL3D): applies the Finite Element Method to run three-dimensional calculations on heterogeneous polymer systems, based on Self-Consistent Field Theory (SCFT), by Constantinos J. Revelas et al. It can address homopolymer melts in contact with solid surfaces and provide with
 useful results regarding the thermodynamics and the structural properties of the system. 
 
-[simulated_tem](https://github.com/mason-daniel/simulated_tem): compute simulated transmission electron microscope images in dynamical two beam condition. An associated paper is [Simulated TEM imaging of a heavily irradiated metal](https://www.sciencedirect.com/science/article/pii/S1359645424005135), by Daniel R. Mason, Acta Materialia (2024)
+[simulated_tem](https://github.com/mason-daniel/simulated_tem): compute simulated transmission electron microscope images in dynamical two beam condition. An associated paper is [Simulated TEM imaging of a heavily irradiated metal](https://www.sciencedirect.com/science/article/pii/S1359645424005135), by Daniel R. Mason et al., Acta Materialia (2024)
 
 [SISSO](https://github.com/rouyang2017/SISSO): data-driven method combining symbolic regression and compressed sensing toward accurate & interpretable models, by rouyang2017
 
