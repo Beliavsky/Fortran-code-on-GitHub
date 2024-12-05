@@ -2898,6 +2898,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [sulfur-magma](https://github.com/charlesll/sulfur-magma): predicts of sulfur redox state in magmatic liquids, by Roberto Moretti and Charles Le Losq. Associated paper: Moretti, R., & Ottonello, G. (2003). A polymeric approach to the sulfide capacity of silicate slags and melts. Metallurgical and Materials Transactions B, 34(4), 399–410. doi.org/10.1007/s11663-003-0066-1
 
+[Thermal-Diffusivity](https://github.com/mason-daniel/Thermal-Diffusivity): computes the electronic thermal diffusivity of a highly defected elemental metal. An associated paper is [Estimate for thermal diffusivity in highly irradiated tungsten using molecular dynamics simulation](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.125407), by Daniel R. Mason et al., Physical Review Materials (2021)
+
 [thermo_pw](https://github.com/dalcorso/thermo_pw): ab-initio computation of material properties, by dalcorso
 
 [Truchas](https://github.com/truchas/truchas): physics-based modeling and simulation of manufacturing processes, from Los Alamos National Laboratory. Its core capabilities are primarily geared toward metal casting, with developing capabilities for metal additive manufacturing. 
