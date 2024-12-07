@@ -3294,6 +3294,8 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [Fortran Library for numerical INTegration of differential equations (FLINT)](https://github.com/princemahajan/FLINT): modern object-oriented fortran library that provides four adaptive step-size explicit Runge-Kutta (ERK) methods of order 5, 6, 8, and 9 along with dense-output and multiple event-detection support for each of the methods, by Bharat Mahajan. The code is written such that any other ERK method can be implemented by including its coefficients with minimum changes required in the code. 
 
+[fortran-xtfc](https://github.com/neuralXray/fortran-xtfc): Extreme Theory of Functional Connections (X-TFC) algorithm to solve ordinary differential equations (ODEs) as initial value problems, applied to Robertson's problem in chemical kinetics, by neuralXray
+
 [generic_rk](https://github.com/cbcoutinho/generic_rk): modularize solvers for ordinary differential equations (ODEs) in Fortran, by cbcoutinho
 
 [Hairer-Wanner solvers for stiff ODE problems (hwode)](https://github.com/cpmech/hwode): code from the books Hairer, Norsett and Wanner (1993): [Solving Ordinary Differential Equations. Nonstiff Problems. 2nd edition](https://link.springer.com/book/10.1007/978-3-540-78862-1). Springer Series in Comput. Math. and Hairer and Wanner (1996): [Solving Ordinary Differential Equations. Stiff and Differential-Algebraic Problems. 2nd edition](https://link.springer.com/book/10.1007/978-3-642-05221-7). Springer Series in Comput. Math.
