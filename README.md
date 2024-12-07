@@ -1519,6 +1519,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [MCTomo](https://github.com/xin2zhang/MCTomo): 3D Monte Carlo tomography package using reversible jump McMC method and 3D Voronoi tessellation, by Xin Zhang and Andrew Curtis
 
+[MEP-SidersPond](https://github.com/maxEntropyProd/MEP-SidersPond): maximum entropy production (MEP) model to describe microbial biogeochemistry in Siders Pond, MA, associated with paper [Using maximum entropy production to describe microbial biogeochemistry over time and space in a meromictic pond](https://www.frontiersin.org/articles/10.3389/fenvs.2018.00100/full), by Vallino, J.J., and Huber, J.A., Frontiers in Environmental Science (2018). Also [Maximum Entropy Production - Advancing Theory in Biology (MEP-ATB)](https://github.com/maxEntropyProd/MEP-ATB).
+
 [Meso-NH](https://github.com/QuentinRodier/Meso-NH): non-hydrostatic mesoscale atmospheric model of the French research community
 
 [MN Earth System Model for Ocean Biogeochemistry (MESMO)](https://github.com/gaia3intc/mesmo): Associated paper: Matsumoto, K., Tokos, K. S., Price, A. R., & Cox, S. J. (2008). [First description of the Minnesota Earth System Model for Ocean biogeochemistry (MESMO 1.0)](https://gmd.copernicus.org/articles/1/1/2008/). Geoscientific Model Development, 1(1), 1–15.
@@ -1676,8 +1678,6 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 [slstr-preprocessor](https://github.com/surftemp/slstr-preprocessor): software for aggregating the SLSTR 500 m Vis/NIR channels (S1-6) onto the 1 km IR grid ("i-stripe" as used for S7-9), by Owen Embury and Niall McCarroll. An associated paper is [Improving the combined use of reflectance and thermal channels for ocean and coastal cloud detection for the Sea and Land Surface Temperature Radiometer (SLSTR)](https://www.sciencedirect.com/science/article/pii/S0034425723000822), by Claire E. Bulgin et al., Remote Sensing of Environment (2023).
 
 [SIBERIA](https://github.com/csdms-contrib/siberia): simulates the evolution of landscapes under the action of runoff and erosion over long times scales. An associated publication is Hancock, G.R.; Gibson, Abraham; Wells, T.; 2021. [Hillslope erosion in a grassland environment: Calibration and evaluation of the SIBERIA landscape evolution model](https://onlinelibrary.wiley.com/doi/10.1002/esp.5060). Earth Surface Processes and Landforms, 46, 728–743
-
-[MEP-SidersPond](https://github.com/maxEntropyProd/MEP-SidersPond): maximum entropy production (MEP) model to describe microbial biogeochemistry in Siders Pond, MA, associated with paper [Using maximum entropy production to describe microbial biogeochemistry over time and space in a meromictic pond](https://www.frontiersin.org/articles/10.3389/fenvs.2018.00100/full), by Vallino, J.J., and Huber, J.A., Frontiers in Environmental Science (2018). Also [Maximum Entropy Production - Advancing Theory in Biology (MEP-ATB)](https://github.com/maxEntropyProd/MEP-ATB).
 
 [smash](https://github.com/DassHydro-dev/smash): Python library that provides a variety of user-friendly routines for hydrological modeling, including data preprocessing, high-dimensional optimization tools, sensitivity and signatures analysis, all interfaced with an efficient Fortran solver
 
