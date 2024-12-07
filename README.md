@@ -4101,7 +4101,7 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [HoneyTools](https://github.com/QcmPlab/HoneyTools) modules by Gabriele Bellomia to easily deal with nontrivial honeycomb structures in real-space: generate the coordinates, compute all the neighbor-shells, get direct access to logical masks for nearest and next-nearest neighbors (nth-order can be easily computed from the shell table), hence readily build tight-binding hamiltonians, or any other lattice quantity requiring real-space geometrical information.
 
-[huckster](https://github.com/clavigne/huckster): [extended Huckel theory](https://en.wikipedia.org/wiki/Extended_H%C3%BCckel_method) calculator, by Cyrille Lavigne
+[huckster](https://github.com/clavigne/huckster): extended Huckel theory calculator, by Cyrille Lavigne
 
 [Humble Interface for Vasp outputEditing (HIVE4-tools)](https://github.com/DannyVanpoucke/HIVE4-tools): Post-processing tool-set for ab-intio calculations obtained with [VASP](https://www.vasp.at/), by Danny Vanpoucke
 
