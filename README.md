@@ -3844,6 +3844,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Green-Tea-](https://github.com/marcopala/Green-Tea-): Green's functions quantum transport solver based on ab-initio physical models, associated with paper [Unit cell restricted Bloch functions basis for first-principle transport models: Theory and application](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.045410), by M. G. Pala, P. Giannozzi, and D. Esseni, Phys. Rev. B 102, 2020
 
+[GNI](https://github.com/ALRAKIK/GNI): Huckel matrix-based algorithm employed by this program computes the energy of a triangulene or a graphene nanoisland (GNI) by performing diagonalization, by Amer Alrakik
+
 [Guided_Missile_Simulation](https://github.com/bgin/Guided_Missile_Simulation): Air-to-Air Missile Simulation written in modern Fortran, by bgin
 
 [honeycombinations](https://github.com/janberges/honeycombinations): simulates adsorbate structures on graphene via tight binding and Monte Carlo, by Jan Berges
