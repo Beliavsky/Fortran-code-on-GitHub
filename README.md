@@ -2845,6 +2845,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 [ABAQUS_subroutines](https://github.com/davidmorinNTNU/ABAQUS_subroutines): codes covering some aspects of material mechanics, by David Morin. Each example has a Fortran subroutine, an ABAQUS input file for both Standard and Explicit, a Python post-processing script to extract results from ABAQUS/viewer, a Python script to plot the results, and
 a PDF presentation of the subroutine, the input file structure and the results.
 
+[Ab Initio Restructuring Tool Enabling Modelling of Interface Structures (ARTEMIS)](https://github.com/ExeQuantCode/ARTEMIS): generates and predicts interfaces between two crystals, by Ned Thaddeus Taylor and Steven Paul Hepplestone
+
 [Atom/Molecule/Material Software Kit (atomsk)](https://github.com/pierrehirel/atomsk): command-line program meant to manipulate atomic systems, and convert from and to various file formats, by pierrehirel et al.
 
 [Boundary Element Software for 3D Linear Elasticity (BESLE_v1.0)](https://github.com/Afgr1087/BESLE_v1.0): software for carrying out 3D simulations of solids under quasi-static, inertial and high-rate boundary conditions for transient analysis, associated with a [paper](https://www.sciencedirect.com/science/article/abs/pii/S0010465521001211) by Andres F. Galvis et al., Computer Physics Communications (2021)
