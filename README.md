@@ -4493,6 +4493,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [Fortran-String-to-Real](https://github.com/Carltoffel/Fortran-String-to-Real): converts strings to reals without using an internal read, by Carltoffel. [Fortran-String-to-Num](https://github.com/jalvesz/Fortran-String-to-Num) is a fork by jalvesz that aims for further improvements on the ASCII to numerical data conversion.
 
+[fortran-string-utf-8](https://github.com/guntherwillems/fortran-string-utf-8): module to convert a native character string to an array of UTF-8 characters that behaves as a UTF-8 string, by Gunther Willems
+
 [fString](https://github.com/dpettas/fString): contains methods to add strings to values or split the context of a string of more than one substrings or even extract specific values using the pattern method, by Dionisis Pettas. The main idea comes from Python and how uses its strings.
 
 [fsys](https://github.com/jchristopherson/fsys): library by Jason Christopherson containing system operations and supporting types: `string`, similar to the `iso_varying_string`, but with a few differences and a few additional operations, and `string_builder`, a type that allows concatenating strings while minimizing memory reallocation operations, that behaves similarily to the .NET `StringBuilder` class
