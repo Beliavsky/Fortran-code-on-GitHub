@@ -3974,6 +3974,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [thermopack](https://github.com/SINTEF/thermopack): thermodynamic model library for fluid properties and PVT calculations, from SINTEF
 
+[Thomson](https://github.com/ALRAKIK/Thomson): solves the Thomson problem in Clifford tori for one, two and three dimension, by Amer Alrakik. The Thomson problem is a classic problem in physics and mathematics that deals with finding the minimum energy configuration of a collection of point charges (electrons) on the surface of a sphere. 
+
 [THOx](https://github.com/MarioGomezRamos/THOx): Continuum Discretized Coupled-Channels code for two-body projectiles, with the possibility of including core and target excitations, from the Nuclear Theory Group of the University of Seville
 
 [TimeDependentSchrodingerHydrogen](https://github.com/afrapic/TimeDependentSchrodingerHydrogen): solves the Time Dependent Schrodinger equation for hydrogen encapsulated in fullerene interacting with a laser field, by Ana Laura Frapiccini
