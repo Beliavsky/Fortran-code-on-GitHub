@@ -4213,7 +4213,7 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [VALENCE](https://github.com/VALENCE-software/VALENCE): Massively Parallel Implementation of Variational Subspace Valence Bond, by Graham D. Fletcher et al.
 
-[VASP4CLINT](https://github.com/Trebonius91/VASP4CLINT): Python and Fortran utility scripts and programs for [VASP](https://www.vasp.at/) calculations of (liquid or solid) interface systems, by Julien Steffen
+[utils4VASP](https://github.com/Trebonius91/utils4VASP): scripts and programs that can be used to set up, manage and evaluate VASP calcuations, by Julien Steffen and Andreas Mölkner. It was initially designed to support calculations of liquid surface catalysts, but the scripts and programs should be general enough to use them for arbitrary VASP calculations of surface or bulk systems.
 
 [VASPsol](https://github.com/henniggroup/VASPsol): solvation model for the plane wave density functional theory (DFT) code [VASP](https://www.vasp.at/). An associated paper is [Implicit solvation model for density-functional study of nanocrystal surfaces and reaction pathways](https://pubs.aip.org/aip/jcp/article-abstract/140/8/084106/1003843/Implicit-solvation-model-for-density-functional) by K. Mathew et al., J. Chem. Phys. (2014). A currently developed version, also in Fortran, is [VASPsol++](https://github.com/VASPsol/VASPsol).
 
