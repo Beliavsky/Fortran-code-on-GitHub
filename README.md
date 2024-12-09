@@ -688,6 +688,8 @@ simulating and forecasting meteorological phenomena.
 
 [infnan](https://github.com/zaikunzhang/infnan): functions for checking Inf/NaN, Zaikun Zhang. They should work even if the compilers are invoked with aggressive optimization flags such as `gfortran -Ofast`.
 
+[lfortran](https://github.com/lfortran/lfortran): integration tests of the LFortran compiler, by Ondřej Čertík et al., are [here](https://github.com/lfortran/lfortran/tree/48c6778773c167bd5396f3508e30062c7d167074/integration_tests)
+
 [llvm-test-suite](https://github.com/llvm/llvm-test-suite/): LLVM test-suite repository
 
 [reproducers](https://github.com/HPC-Bugs/reproducers): place to submit information necessary for reproducing bugs encountered at HPC centers, by Brad Richardson and Katherine Rasmussen. The intent is that in concert with submitting a bug report to a vendor or open source project the information is also submitted here so that other HPC centers can confirm the bug, and point users to the information.
