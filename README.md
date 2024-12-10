@@ -3858,6 +3858,10 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [IrisFDTD-Academic](https://github.com/IrisFDTD/IrisFDTD-Academic): implements the Finite-Difference Time-Domain (FDTD) method. It is a "toy version" of the [IrisFDTD](https://github.com/IrisFDTD/IrisFDTD) program, a Maxwell’s equations solver in the field of computational electrodynamics for photonics and nanotechnology, by Sergio G Rodrigo.
 
+[kmos](https://github.com/mhoffman/kmos): kMC on steroids: A vigorous attempt to make lattice kinetic Monte Carlo modelling easier, by mhoffman et al.
+
+[Koko Optical Design Software (KODS)](https://github.com/dinosauria123/Koko): raytracing software for the design and analysis of optical imaging and illumination systems. Koko has evolved from the optics design program KDP-2 that was made open-source by its original developer James E. Klein.
+
 [LibForQ-v1](https://github.com/jonasmaziero/LibForQ-v1): performs several numerical tasks one frequently needs when working in quantum information science, such as trace, partial trace, and partial transpose; entanglement, discord, and coherence quantifiers; Pauli group (PG), Generalized Gell Mann Matrices (GGMM), and Bloch vector and correlation matrix with GGMM, by Jonas Maziero
 
 [libmbd](https://github.com/libmbd/libmbd): implements the many-body dispersion (MBD) method in several programming languages and frameworks. The Fortran implementation is the reference, most advanced implementation, with support for analytical gradients and distributed parallelism, and additional functionality beyond the MBD method itself. 
@@ -3869,10 +3873,6 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 [Linear Response Transport Centre (LinReTraCe)](https://github.com/LinReTraCe/LinReTraCe): package for the simulation of transport properties driven by carriers with finite lifetimes, associated with the paper [Prototypical many-body signatures in transport properties of semiconductors](https://arxiv.org/abs/2112.07604), by Matthias Pickem et al., Phys. Rev. B (2022)
 
 [Los Alamos Crystal Cut (LCC)](https://github.com/lanl/LCC): simple crystal builder, an easy-to-use and easy-to-develop code to make crystal solid/shape and slabs from a crystal lattice, by Christian Negre
-
-[kmos](https://github.com/mhoffman/kmos): kMC on steroids: A vigorous attempt to make lattice kinetic Monte Carlo modelling easier, by mhoffman et al.
-
-[Koko Optical Design Software (KODS)](https://github.com/dinosauria123/Koko): raytracing software for the design and analysis of optical imaging and illumination systems. Koko has evolved from the optics design program KDP-2 that was made open-source by its original developer James E. Klein.
 
 [libdlr](https://github.com/jasonkaye/libdlr): Fortran subroutines to build and work with the discrete Lehmann representation for single particle imaginary time Green's functions, as well as the stand-alone Python module pydlr implementing the same functionality, by Jason Kaye and Hugo U.R. Strand
 
@@ -3911,6 +3911,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 [OllinSphere-BiB](https://github.com/malcubi/OllinSphere-BiB): solves the Einstein evolution equations in spherical symmetry using a curvilinear version of the BSSN formulation for the 3+1 evolution equations, with different types of matter and different gauge conditions, by Miguel Alcubierre
 
 [OpenCalphad](https://github.com/sundmanbo/opencalphad): thermodynamic software for calculation of multicomponent equilibria, property and phase diagrams and for database development, by Bo Sundman et al. It has a simple command line interface and an Application Software Interface (OCASI) for integration in simulation software. 
+
+[Orbital-Dynamics](https://github.com/tomkimpson/Orbital-Dynamics): code for spin-orbital dynamics of spinning object on a curved spacetime, by Tom Kimpson
 
 [Parabolic two-band model Analyzer for Nonlinear electron Dynamics in Attosecond phenomena (PANDA)](https://github.com/shunsuke-sato/two_band_model): calculates electron dynamics and light-matter interactions, by Shunsuke A. Sato. It is based on a parabolic two-band model for electron structure and dynamics.
 
