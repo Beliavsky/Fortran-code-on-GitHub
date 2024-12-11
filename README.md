@@ -4436,6 +4436,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [nested_fit](https://github.com/martinit18/nested_fit): analysis based on the Bayesian statistics for the computation of, for a given set of data and chosen model, the complete probability distribution for each parameter and the Bayesian evidence. It is written in Fortran with some Python complementary routines for visualizing the output results and for doing automatic analyses of series of data. Associated paper: M. Trassinelli, [The Nested_fit Data Analysis Program](https://www.mdpi.com/2504-3900/33/1/14), Proceedings 33, 14 (2019)
 
+[non-neg_matrix_factorization](https://github.com/PetchMa/non-neg_matrix_factorization): Non-Negative Matrix Factorization Algorithm used for kmeans-clustering algorithm as a means of dimensionality reduction, by Peter Ma
+
 [npregfast](https://github.com/sestelo/npregfast): R package with Fortran code for obtaining nonparametric estimates of regression models with or without factor-by-curve interactions using local polynomial kernel smoothers or splines, by Marta Sestelo
 
 [odrpack95](https://github.com/HugoMVale/odrpack95): collection of subprograms modernized by HugoMVale for fitting a model to data with bound constraints on the model parameters, designed primarily for instances when the explanatory as well as the response variables have significant errors. An associated paper is [Algorithm 869: ODRPACK95: A weighted orthogonal distance regression code with bound constraints](https://dl.acm.org/doi/abs/10.1145/1268776.1268782), by Jason W. Zwolak et al., ACM Transactions on Mathematical Software (2007).
