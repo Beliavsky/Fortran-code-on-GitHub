@@ -4418,9 +4418,11 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [lib_statistics](https://github.com/sebastiandyrda/lib_statistics): code for logistic regression, by Alan Miller, packaged for FPM by Sebastian Dyrda
 
-[M_datapac](https://github.com/urbanjost/M_datapac): NIST [DATAPAC](https://www.nist.gov/itl/sed/datapac) package modularized and made available as an fpm(1) package, by urbanjost, original code by James Filliben. There are routines for computing various probability functions.
+[mclust](https://github.com/cran/mclust): R package with Fortran code -- Gaussian finite mixture models fitted via EM algorithm for model-based clustering, classification, and density estimation, including Bayesian regularization, dimension reduction for visualization, and resampling-based inference, by Chris Fraley et al.
 
 [MCMC f90 library](https://github.com/mjlaine/mcmcf90): do Markov chain Monte Carlo simulation from a posterior distribution of unknown model parameters defined by a likelihood function and prior, by mjlaine
+
+[M_datapac](https://github.com/urbanjost/M_datapac): NIST [DATAPAC](https://www.nist.gov/itl/sed/datapac) package modularized and made available as an fpm(1) package, by urbanjost, original code by James Filliben. There are routines for computing various probability functions.
 
 [Missing Value Imputation](https://github.com/SnTa2019/Missing-Value-Imputation): code for [Imputation via Clusterwise Linear Regression](http://napsu.karmitsa.fi/iviaclr/) by Napsu Karmitsa
 
