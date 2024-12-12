@@ -4436,6 +4436,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [Missing Value Imputation](https://github.com/SnTa2019/Missing-Value-Imputation): code for [Imputation via Clusterwise Linear Regression](http://napsu.karmitsa.fi/iviaclr/) by Napsu Karmitsa
 
+[mix](https://github.com/cran/mix): R package with Fortran code for estimation/multiple imputation for mixed categorical and continuous data, by Joseph L. Schafer and Brian Ripley
+
 [Monitor](https://github.com/Hirlam/Monitor): the verification package in HARMONIE is designed to be a self-contained stand alone package dealing with pre-extracted model and observational data. The package calculates several standard verification scores.
 
 [MultiNest](https://github.com/rjw57/MultiNest): Bayesian inference tool which calculates the evidence and explores the parameter space which may contain multiple posterior modes and pronounced (curving) degeneracies in moderately high dimensions, by Farhan Feroz and Mike Hobson 
