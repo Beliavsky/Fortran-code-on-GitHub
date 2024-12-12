@@ -1495,6 +1495,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [Line-By-Line Radiative Transfer Model(LBLRTM)](https://github.com/AER-RC/LBLRTM): accurate and efficient line-by-line radiative transfer model derived from the Fast Atmospheric Signature Code (FASCODE), from AER-RC. LBLRTM has been, and continues to be, extensively validated against atmospheric radiance spectra from the ultraviolet to the sub-millimeter.
 
+[Linking_SAR_and_ABL_structure](https://github.com/HugoJacq/Linking_SAR_and_ABL_structure): namelists and postprocessing scripts by Hugo Jacquet for the [Meso-NH model](https://gmd.copernicus.org/articles/11/1929/2018/), an atmospheric non hydrostatic research model that is applied to a broad range of resolutions, from synoptic to turbulent scales, and is designed for studies of physics and chemistry.
+
 [LinSlipInv](https://github.com/fgallovic/LinSlipInv): Linear multi time-window earthquake slip inversion with k^-2 smoothing, by Frantisek Gallovic. Suite of codes for linear slip inversions and resolution analysis.
 
 [LISF](https://github.com/NASA-LIS/LISF): The Land Information System (LIS) from NASA-LIS is a software framework for high performance terrestrial hydrology modeling and data assimilation developed with the goal of integrating satellite and ground-based observational data products and advanced modeling techniques to produce optimal fields of land surface states and fluxes.
