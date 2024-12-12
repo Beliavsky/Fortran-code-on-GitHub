@@ -3391,6 +3391,8 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [L-BFGS-B_wrapper_f90](https://github.com/snljty/L-BFGS-B_wrapper_f90): Fortran 90 wrapper of L-BFGS-B local minimization routine, by Mingda Zhang
 
+[lcmin](https://github.com/johngardenghi/lcmin): code by John L. Gardenghi associated with the paper [On the solution of linearly constrained optimization problems by means of barrier algorithms](https://link.springer.com/article/10.1007/s11750-020-00559-w), The Operations Research journal (2021).
+
 [libdlfind](https://github.com/digital-chemistry-laboratory/libdlfind): C-API and Python interface to the [DL-FIND](https://chemshell.org/dl-find/) geometry optimization library. It is mainly intended for use in high-level libraries as an optimization backend.
 
 [libdogleg-f](https://github.com/ivan-pi/libdogleg-f): Fortran bindings to libdogleg - a large-scale nonlinear least-squares optimization library, by Ivan Pribec. Currently only the dense optimizer calls are supported.
