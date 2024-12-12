@@ -653,6 +653,8 @@ simulating and forecasting meteorological phenomena.
 
 [forwarddiff](https://github.com/Nicholaswogan/forwarddiff): allows for the computation for derivatives, gradients and Jacobians of Fortran subroutines or functions using forward mode automatic differentiation (AD), by Nicholas Wogan, inspired by [DNAD](https://github.com/joddlehod/dnad) and [ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl)
 
+[fpm-search](https://github.com/urbanjost/fpm-search): finds information about registered fpm (Fortran Package Manager) packages, by urbanjost
+
 [libfde](https://github.com/Zorkator/libfde): Fortran Development Extensions (library), by Zorkator
 
 [m_ad](https://github.com/octoflar/m_ad): collection of matrix derivative tests for forward and reverse mode algorithmic differentiation, by R. Quast. Associated paper: Giles, M. (2008) [Collected matrix derivative results for forward and reverse mode algorithmic differentiation](https://link.springer.com/chapter/10.1007/978-3-540-68942-3_4), Advances in Automatic Differentiation pp 35–44
