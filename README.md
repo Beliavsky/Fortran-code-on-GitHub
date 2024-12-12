@@ -232,6 +232,8 @@ by ShinobuAmasaki.
 
 [NPI Ephemeris Propagation Tool with Uncertainty Extrapolation (NEPTUNE)](https://github.com/Space-Systems/neptune): state-of-the-art numerical orbit propagator, from Space-Systems. It allows the extrapolation of a state vector and the associated uncertainty forward and backward in time.
 
+[NuLib](https://github.com/evanoconnor/NuLib): provides a basic standard set of neutrino matter interaction routines that can be readily incorporated in radiation-hydrodynamics codes for physics benchmarking, by Evan O'Connor et al.
+
 [OrbFit](https://github.com/Fenu24/OrbFit): this version of the OrbFit package, by Marco Fenucci, contains a modified version of the orbit9 integrator. The integrator has been modified to integrate the spin axis dynamics of small asteroids, due to the Yarkovsky–O'Keefe–Radzievskii–Paddack (YORP) effect.
 
 [oorb](https://github.com/oorb/oorb): contains the statistical orbital ranging method (hereafter referred to as Ranging). Ranging is used to solve the orbital inverse problem of computing non-Gaussian orbital-element probability density functions based on input astrometry.
