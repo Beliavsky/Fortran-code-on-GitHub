@@ -1993,6 +1993,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [modernfortran-libs](https://github.com/sakamoti/modernfortran-libs): module that simulates the GNU Octave [dlmread](https://octave.sourceforge.io/octave/function/dlmread.html) and [dlmwrite](https://octave.sourceforge.io/octave/function/dlmwrite.html) functions to read and write text files, and a generic doubly linked list module, by Yuichiro Sakamoto
 
+[movingAverage](https://github.com/koseiohara/movingAverage): compute moving average field for various grid sizes for 1, 2, and 3 dimensional data read from a file, by Kosei Ohara
+
 [mpi-libfdf-parser](https://github.com/neelravi/mpi-libfdf-parser): modern Fortran-based parser for parsing input files, by neelravi. It uses the LibFDF library and works with sequential as well as multinode calculations.
 
 [h5fortran](https://github.com/geospace-code/h5fortran): Simple, robust, thin HDF5 polymorphic Fortran read/write interface, by geospace-code
