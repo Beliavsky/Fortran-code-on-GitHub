@@ -1935,6 +1935,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [fortdb](https://github.com/jpf-x/fortdb): Fortran Database (binary) file definition that allows easy reading and writing of datasets, with Fortran and Python interfaces, by jpf-x
 
+[FortranDirectAccess](https://github.com/koseiohara/FortranDirectAccess): module to read or write binary files, with NaN is detected before output and after input, by Kosei Ohara. Functions are available for scalar, 1D, 2D, and 3D variables that are single or double precision.
+
 [Fortran IO Netcdf Assembly (FIONA)](https://github.com/dongli/fiona): encapsulates netCDF library for easy use, by Li Dong et al.
 
 [flexout](https://github.com/BoldingBruggeman/flexout): Fortran-based flexible output manager with support for NetCDF and text formats, by Jorn Bruggeman et al.
