@@ -1178,6 +1178,8 @@ engine, by montagdude and Geoff Sokoll
 [WiRE-LES2](https://github.com/moulin1024/WiRE-LES2): large-eddy simulation code written in CUDA Fortran for simulating atmospheric boundary layer flows, by Mou Lin and Tristan Revaz
 
 ## Cryptography
+[fldpc](https://github.com/moriglia/fldpc): LDPC (Low-Density Parity-Check) decoder (coset decoding with syndrome), by Marco Origlia
+
 [Fortran77-Enigma](https://github.com/barrettotte/Fortran77-Enigma): Enigma machine emulator in FORTRAN 77, by Barrett Otte
 
 [Frypto](https://github.com/ffadrique/Frypto): cryptographic library by Fran Martinez Fadrique
