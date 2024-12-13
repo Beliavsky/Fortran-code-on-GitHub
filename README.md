@@ -1541,6 +1541,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [Millennial](https://github.com/email-clm/Millennial): code related to 2018 paper "The millennial model: in search of measurable pools and transformations for modeling soil carbon in the new century", by Abramoff, R. et al., Biogeochemistry, 137(1-2), 51-71. doi:https://doi.org/10.1007/s10533-017-0409-7
 
+[MIM](https://github.com/koseiohara/MIM): modernized version by Kosei Ohara of [MIM](https://wind.gp.tohoku.ac.jp/mim/), (Mass-weighted Isentropic zonal Means) that exactly expresses the finite-amplitude effects and lower boundary conditions for wave-mean flow interactions
+
 [MINEOS](https://github.com/EHopper/MINEOS): surface wave phase velocity and kernel calculations, by Colleen Dalton and Zach Eilon
 
 [mizuRoute](https://github.com/NCAR/mizuRoute): post-processor of runoff output from a hydrologic model or Land surface model to produce streamflow estimates in the river network provided by a user, from NCAR. The tool was developed for the large scale, network based river routing (e.g., river network over contiguous United States), but works for gridded river network as well.
