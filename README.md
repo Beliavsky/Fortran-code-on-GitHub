@@ -2426,6 +2426,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fortran2018-asymptote](https://github.com/kevinmatthes/fortran2018-asymptote): generate drawings using the [Asymptote Vector Graphics Language](https://asymptote.sourceforge.io/), by Kevin Matthes
 
+[fortran-CLI](https://github.com/tkdhss111/fortran-CLI): simple command line Interface for Fortran, by Hisashi Takeda
+
 [fortran-dialog](https://github.com/interkosmos/fortran-dialog): wrapper module by interkosmos around [dialog](https://invisible-island.net/dialog/) to create text user interfaces in Fortran 2008, similar to [pythondialog](https://pythondialog.sourceforge.io/) for Python
 
 [fortran-gdlib](https://github.com/johandweber/fortran-gdlib): Fortran binding for the [GD graphics library](https://libgd.github.io/), by Johann Andreas Weber
