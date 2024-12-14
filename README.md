@@ -774,6 +774,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [local_dielectric_saturation](https://github.com/janneforsman/local_dielectric_saturation): Metropolis Monte-Carlo program to study local dielectric saturation in Restricted Primitive Model electrolytes, by David Ribar and janneforsman. Also [modified_widom](https://github.com/janneforsman/modified_widom) to study the structure and thermodynamics of ionic fluids
 
+[mobbrmsd](https://github.com/yymmt742/mobbrmsd): molecular-oriented branch-and-bound for Root Mean Squared Deviation (RMSD), one of the most common metrics for comparing the similarity of three-dimensional chemical structures, by yymmt742
+
 [MobCal-MPI](https://github.com/HopkinsLaboratory/MobCal-MPI): parallelization of the commonly used MobCal suite to calculate ion mobilities and collision cross sections, by Christian Ieritano and Scott Hopkins
 
 [Modular computation tool chain library (mctc-lib)](https://github.com/grimme-lab/mctc-lib): common tool chain to use molecular structure data in various applications, from grimme-lab. This library provides a unified way to perform operations on molecular structure data, like reading and writing to common geometry file formats.
