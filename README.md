@@ -1214,6 +1214,8 @@ engine, by montagdude and Geoff Sokoll
 
 [datetime-fortran](https://github.com/milancurcic/datetime-fortran): time and date manipulation facilities, by milancurcic
 
+[fortran-datetime](https://github.com/tkdhss111/fortran-datetime): functions for dates and times focused on speed, by Hisashi Takeda
+
 [m_time](https://github.com/urbanjost/M_time): displays dates in a variety of formats and performs basic date and time computation, by urbanjost
 
 [time-f](https://github.com/0382/time-f): wraps time.h of the C standard library, by 0382
