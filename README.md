@@ -4417,6 +4417,8 @@ universe-based geometry building, steady-state MC, OTF Doppler broadening, MC-ba
 
 [FORtran library for Computational Environmental Systems (FORCES)](https://github.com/mhm-ufz/FORCES): codes for optimization, linear and nonparametric regression, random number generation, numerical integration, and other topics
 
+[fortran-metrics](https://github.com/tkdhss111/fortran-metrics): simple forecasting metrics calculator (mean error, MAE, MAPE, RMSE) that auto skips N/A data and accepts both scalar or vector data, by Hisashi Takeda. 
+
 [fsklearn](https://github.com/zhoutengye/fsklearn): simple module for machine learning in Fortran using scikit-learn, by Zhouteng Ye. The module can be used to do training and prediction in Fortran, the training part uses scikit-learn library by calling Python from Fortran, and the prediction part, as it may be called frequently by a Fortran code, is written in Fortran 2003.
 
 [fstats](https://github.com/jchristopherson/fstats): modern statistical library containing routines for computing basic statistical properties, hypothesis testing, regression, special functions, and even experimental design, by Jason Christopherson
