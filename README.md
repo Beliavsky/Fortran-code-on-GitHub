@@ -2867,6 +2867,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 
 [transpose-free Quasi Minimal Resdiual library for GPUs (tfQMRgpu)](https://github.com/real-space/tfQMRgpu): solves linear equations for several right hand sides (RHSs) at a time using *vectorization* over CUDA threads, for block sparse matrices in BSR format, by Paul Baumeister et al. Written in CUDA C and callable from Fortran.
 
+[tri_indices](https://github.com/yymmt742/tri_indices): provides a mapping/inverse mapping from an index of an upper triangular matrix to an index of a one-dimensional array, by yymmt742
+
 [tt-fort](https://github.com/oseledets/tt-fort): Fortran computing core of the TT-Toolbox. It also includes two slightly customized libraries for doing fast local solvers in eigenvalue and dynamical problems.
 
 [vanhuffel](https://github.com/ivan-pi/vanhuffel): partial total least squares routines from Sabine Van Huffel
