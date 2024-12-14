@@ -286,6 +286,8 @@ by ShinobuAmasaki.
 
 [starlink](https://github.com/Starlink/starlink): astronomical data processing
 
+[STARS](https://github.com/UoA-Stars-And-Supernovae/STARS): Aotearoa STARS code of the Jan Eldridge research group, forked from the original stellar evolution code of Peter Eggleton
+
 [starsmasher](https://github.com/jalombar/starsmasher): smoothed particle hydrodynamics code for smashing stars (and planets), by jalombar
 
 [stochastic-parker](https://github.com/xiaocanli/stochastic-parker): solves the Parker’s transport equation (and its extensions) using the stochastic method. Associated paper: [Modeling Electron Acceleration and Transport in the Early Impulsive Phase of the 2017 September 10th Solar Flare](https://iopscience.iop.org/article/10.3847/1538-4357/ac6efe), by Xiaocan Li, Fan Guo, Bin Chen, and Chengcai Shen, and Lindsay Glesener, The Astrophysical Journal Jun 2022
