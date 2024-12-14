@@ -2527,6 +2527,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [examples](https://github.com/PatNichols/examples): examples of Fortran and C++ interaction, by Pat Nichols
 
+[excelapack](https://github.com/tkdhss111/excelapack): program that retrieves values ​​entered into an Excel spreadsheet using VBA, executes a program written in BLAS or LAPACK, and reflects the results of that execution in an Excel spreadsheet, by Hisashi Takeda
+
 [F2Py Sockets](https://github.com/b-fg/f2py-sockets): example of how to use sockets to transfer data from Fortran to Python and viceversa, by Bernat Font
 
 [f2py-with-derived-types](https://github.com/Nicholaswogan/f2py-with-derived-types): demonstrates how to use f2py with Fortran derived types with type-bound procedures, by Nick Wogan
