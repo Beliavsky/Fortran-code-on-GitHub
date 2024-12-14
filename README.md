@@ -4429,6 +4429,8 @@ universe-based geometry building, steady-state MC, OTF Doppler broadening, MC-ba
 
 [fortran-metrics](https://github.com/tkdhss111/fortran-metrics): simple forecasting metrics calculator (mean error, MAE, MAPE, RMSE) that auto skips N/A data and accepts both scalar or vector data, by Hisashi Takeda. 
 
+[frailtypack](https://github.com/cran/frailtypack): R package with Fortran code for shared, joint (generalized) frailty models and for surrogate endpoints, by Virginie Rondeau et al.
+
 [fsklearn](https://github.com/zhoutengye/fsklearn): simple module for machine learning in Fortran using scikit-learn, by Zhouteng Ye. The module can be used to do training and prediction in Fortran, the training part uses scikit-learn library by calling Python from Fortran, and the prediction part, as it may be called frequently by a Fortran code, is written in Fortran 2003.
 
 [fstats](https://github.com/jchristopherson/fstats): modern statistical library containing routines for computing basic statistical properties, hypothesis testing, regression, special functions, and even experimental design, by Jason Christopherson
