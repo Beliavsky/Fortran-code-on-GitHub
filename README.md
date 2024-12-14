@@ -651,6 +651,8 @@ simulating and forecasting meteorological phenomena.
 
 [fortran-git](https://github.com/interkosmos/fortran-git): Fortran 2008 ISO C binding interfaces to [libgit2](https://github.com/libgit2/libgit2), by interkosmos
 
+[fortran-logger](https://github.com/tkdhss111/fortran-logger): simple multi-threaded logger for Fortran, with ANSI coloring on terminal {Fatal, Error, Warn, Debug, Info} and email capability with "sendmail" argument, by Hisashi Takeda
+
 [Fortran-RefCount](https://github.com/LadaF/Fortran-RefCount): simple reference counting for Fortran
 
 [forwarddiff](https://github.com/Nicholaswogan/forwarddiff): allows for the computation for derivatives, gradients and Jacobians of Fortran subroutines or functions using forward mode automatic differentiation (AD), by Nicholas Wogan, inspired by [DNAD](https://github.com/joddlehod/dnad) and [ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl)
