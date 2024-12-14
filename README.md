@@ -1197,6 +1197,8 @@ engine, by montagdude and Geoff Sokoll
 
 [fortran-mongo](https://github.com/dongli/fortran-mongo): MongoDB binding library for Fortran, by dongli
 
+[fortran-sqlcipher](https://github.com/tkdhss111/fortran-sqlcipher): interfaces by Hisashi Takeda for [SQLCipher](https://www.zetetic.net/sqlcipher/), a library that provides transparent, secure 256-bit AES encryption of SQLite database files
+
 [fortran-sqlite3](https://github.com/interkosmos/fortran-sqlite3): Fortran 2018 interface bindings to SQLite 3, by interkosmos
 
 [fortran-tcdb](https://github.com/interkosmos/fortran-tcdb): Fortran 2008 interface bindings to Tokyo Cabinet, by interkosmos
