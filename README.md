@@ -3798,6 +3798,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [STELLOPT](https://github.com/PrincetonUniversity/STELLOPT): stellarator optimization code, from PrincetonUniversity. A stellarator is a plasma device that relies primarily on external magnets to confine a plasma.
 
+[UEDGE](https://github.com/LLNL/UEDGE): 2D time-dependent fluid simulation code of plasma and neutrals in magnetic fusion devices, from Lawrence Livermore National Laboratory
+
 [Zero-Dimensional Plasma Kinetics solver (ZDPlaskin)](https://github.com/Hemadityamalla/ZDPlaskin): module designed to follow the time evolution of the species densities and gas temperature in a non-thermal plasma with an arbitrarily complex chemistry
 
 ## Physics
