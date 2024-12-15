@@ -2733,6 +2733,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [expokit](https://github.com/rasmusgo/expokit): matrix exponential package
 
+[Fortran GeneraL Math modules (fglm)](https://github.com/jordan4ibanez/fglm): defines types and operations for a 4x4 matrix and 3-element vectors, for `int32`, `real32`, and `real64` data, providing some functionality of the JOML – Java OpenGL Math Library, by jordan4ibanez
+
 [FLAPWxHZ](https://github.com/venovako/FLAPWxHZ): Hari-Zimmermann complex generalized hyperbolic SVD and EVD. Associated paper: [The LAPW Method with Eigendecomposition Based on the Hari--Zimmermann Generalized Hyperbolic SVD](https://epubs.siam.org/doi/10.1137/19M1277813), by Sanja Singer, Edoardo Di Napoli, Vedran Novaković, and Gayatri Čaklović, SIAM Journal on Scientific Computing, Vol. 42, Iss. 5 (2020)
 
 [FlexiBLAS](https://github.com/mpimd-csc/flexiblas): wrapper library that enables the exchange of the BLAS (Basic Linear Algebra System) and LAPACK (Linear Algebra PACKage) implementation used in an executable without recompiling or re-linking it, by Martin Köhler and Jens Saak
