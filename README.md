@@ -2637,6 +2637,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [bspline-fortran](https://github.com/jacobwilliams/bspline-fortran): Multidimensional B-Spline Interpolation of Data on a Regular Grid, by Jacob Williams
 
+[Delaunay Density Diagnostic (DDD)](https://github.com/LLNL/ddd): general purpose, computational approach to detecting the geometric scale of real-valued functions over a fixed domain using a deterministic interpolation technique from computational geometry. Associated paper: [Algorithm 1049: The Delaunay Density Diagnostic](https://dl.acm.org/doi/10.1145/3700134), by Andrew Gillette et al., ACM Transactions on Mathematical Software (2024).
+
 [DelaunaySparse](https://github.com/vtopt/DelaunaySparse): interpolation in medium to high dimensions via a sparse subset of the Delaunay triangulation, from vtopt
 
 [finterp](https://github.com/jacobwilliams/finterp): performs multidimensional (1D-6D) linear interpolation of data on a regular grid, by Jacob Williams. The code is written in modern Fortran (2003/2008) and is object-oriented and thread safe.
