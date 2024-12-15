@@ -1239,6 +1239,9 @@ engine, by montagdude and Geoff Sokoll
 
 [AGNI](https://github.com/nichollsh/AGNI): 1D radiative-convective model for the atmospheres of hot terrestrial planets, in Fortran and Julia, by Harrison Nicholls
 
+[AHMS-IRRIG](https://github.com/JiangCong1990/AHMS-IRRIG): Atmospheric and Hydrological Modelling System integrated IRRigation module, associated with the paper [A regional hydrological model for arid and semi-arid river basins with consideration of irrigation](https://www.sciencedirect.com/science/article/abs/pii/S1364815222002316), by Cong Jiang et al., 
+Environmental Modelling & Software (2022)
+
 [AmplitudeSourceLocation](https://github.com/mogiso/AmplitudeSourceLocation): package containing the Amplitude Source Location method using depth-dependent 1-D velocity structure and 3-D attenuation structure, relative source location method using seismic amplitudes, and relative source location method using arrival times of seismic waves. Associated paper: Ogiso, M. and K. Yomogida (2021), [Estimation of Relative source locations from seismic amplitude: application to earthquakes and tremors at Meakandake volcano, eastern Hokkaido, Japan](https://earth-planets-space.springeropen.com/articles/10.1186/s40623-021-01366-8), Earth, Planets and Space, 73:29
 
 [A-New-BellHope](https://github.com/A-New-BellHope/bellhop): mirror of the original Fortran BELLHOP/BELLHOP3D underwater acoustics simulators, with numerical properties and robustness improved and bugs fixed. These changes were made in support of the multithreaded C++/CUDA version of BELLHOP/BELLHOP3D: bellhopcxx/bellhopcuda
