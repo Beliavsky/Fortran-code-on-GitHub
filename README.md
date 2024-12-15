@@ -3692,6 +3692,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [PyClaw](https://github.com/clawpack/pyclaw): Python-based interface to the algorithms of Clawpack and SharpClaw. It also contains the PetClaw package, which adds parallelism through PETSc.
 
+[pyranda](https://github.com/LLNL/pyranda): finite difference solver with Python drivers for arbitrary hyperbolic PDE systems, by Britton Olson. The PDE solver defaults to a 10th order compact finite difference method for spatial derivatives, and a 5-stage, 4th order Runge-Kutta scheme for temporal integration.
+
 [ReCoDE-Turing-Patterns-and-Partial-Differential-Equations](https://github.com/ImperialCollegeLondon/ReCoDE-Turing-Patterns-and-Partial-Differential-Equations): non-linear partial differential equation (PDE) solver, designed to address both boundary value problems (BVP) and initial boundary value problems (IBVP) with temporal progression, by elliot-jamesb et al. It is a component of the Research Computing and Data Science Examples ([ReCoDE](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/case-studies/recode/)) project.
 
 [riemann](https://github.com/clawpack/riemann): centralized location for all Clawpack-compatible Riemann solvers
