@@ -1836,6 +1836,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [CCFatiguePlatform](https://github.com/EPFL-ENAC/CCFatiguePlatform): web application to faciltate manipulation and harmonized storage of composite materials testing datasets, from EPFL-ENAC
 
+[cryoH2vehicle](https://github.com/LLNL/cryoH2vehicle): simulates the variations of the thermodynamics state of the hydrogen inside a vessel (pressure, temperature, density, para/ortho) as a function of the vessel design (volume, rated pressure, aspect ratio, heat transfer – including the influence of outside temperature) and the duty cycle the vehicle experiences, by Salvador Aceves and Julio Moreno-Blanco
+
 [Deformation Monitoring Package (DMPACK)](https://github.com/dabamos/dmpack): package for sensor control and automated time series processing in geodesy and geotechnics, consisting of a library libdmpack and additional programs based on it which serve as a reference implementation of solutions to various problems in deformation monitoring, by Philipp Engel
 
 [DigiTWind](https://github.com/UMaine-W2/DigiTWind): advancement of digital-twin for floating offshore wind turbine applications, by Yuksel-Rudy et al. It is related to the [OpenFAST](https://github.com/OpenFAST/openfast) project
