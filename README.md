@@ -376,6 +376,8 @@ spectroscopic data obtained with near-infrared spectrograph NIRSPEC, installed i
 
 [NetworkDynamicsBenchmarks](https://github.com/PIK-ICoNe/NetworkDynamicsBenchmarks): scripts for benchmarking dynamical systems on networks, from paper "NetworkDynamics.jl -- Composing and simulating complex networks in Julia", by Michael Lindner et al.
 
+[NPB](https://github.com/LLNL/NPB): fork of the NASA Advanced Supercomputing Division's NAS Parallel Benchmarks, extended to include new benchmarks for unstructured adaptive meshes, parallel I/O, multi-zone applications, and computational grids
+
 [nwchem-tce-triples-kernels](https://github.com/jeffhammond/nwchem-tce-triples-kernels): NWChem TCE CCSD(T) loop-driven kernels for performance optimization experiments, by jeffhammond
 
 [Performance comparison R, Julia, Fortran for Bayesian binary probit](https://github.com/driesbenoit/benchmark_R_Julia_Fortran) by driesbenoit
