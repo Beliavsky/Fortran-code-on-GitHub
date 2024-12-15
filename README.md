@@ -1852,6 +1852,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [N-Area Reliability Program (NARP)](https://github.com/zylpascal/NARP): assesses bulk power system reliability. Associated preprint: [A Free Industry-grade Education Tool for Bulk Power System Reliability Assessment](https://arxiv.org/abs/2301.09579), by Yongli Zhu and Chanan Singh.
 
+[ns3-if77-module](https://github.com/LLNL/ns3-if77-module): calculates propagation loss for ground/air, air/air, ground/satellite, and air/satellite systems for frequencies in the 0.1Mhz to 20Ghz range, originally by G. D. Gierhart and M. E. Johnson
+
 [openfast](https://github.com/OpenFAST/openfast): NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes
 
 [pyAVL](https://github.com/joanibal/pyAVL): stripped down version of Mark Drela and Harold Youngren's famous [AVL](https://web.mit.edu/drela/Public/web/avl/) code for the aerodynamic and flight-dynamic analysis of rigid aircraft of arbitrary configuration, wrapped in Python with f2py by Josh Anibal. This allows one to more easily conduct large parameter sweeps in AVL or to include AVL into a larger model.
