@@ -2897,8 +2897,7 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 ## Materials Science
 [Abaqus-Fortran-Subroutine](https://github.com/SpringNuance/Abaqus-Fortran-Subroutine): documentation and examples of Fortran subroutines calling Abaqus, by Nguyen Xuan Binh
 
-[ABAQUS_subroutines](https://github.com/davidmorinNTNU/ABAQUS_subroutines): codes covering some aspects of material mechanics, by David Morin. Each example has a Fortran subroutine, an ABAQUS input file for both Standard and Explicit, a Python post-processing script to extract results from ABAQUS/viewer, a Python script to plot the results, and
-a PDF presentation of the subroutine, the input file structure and the results.
+[ABAQUS_subroutines](https://github.com/davidmorinNTNU/ABAQUS_subroutines): codes covering some aspects of material mechanics, by David Morin. Each example has a Fortran subroutine, an ABAQUS input file for both Standard and Explicit, a Python post-processing script to extract results from ABAQUS/viewer, a Python script to plot the results, and a PDF presentation of the subroutine, the input file structure and the results.
 
 [Ab Initio Restructuring Tool Enabling Modelling of Interface Structures (ARTEMIS)](https://github.com/ExeQuantCode/ARTEMIS): generates and predicts interfaces between two crystals, by Ned Thaddeus Taylor and Steven Paul Hepplestone
 
@@ -2947,6 +2946,8 @@ a PDF presentation of the subroutine, the input file structure and the results.
 [Nonlinear MetaMaterial MPI Solver (NM^3)](https://github.com/wonnie87/NMCube): codes and example files used in paper, "High-Performance Large-Scale Simulation of Multi-stable Metastructures", by M. Hwang, C. Scalo, and A. F. Arrieta, to be published.
 
 [Polymer Self-Consistent Field Theory (PSCF)](https://github.com/dmorse/pscf): numerically solves the polymer self-consistent field theory (SCFT) for spatially periodic structures formed by block copolymer melts and mixtures of block copolymers with linear homopolymers and/or small molecule solvents, by David Morse et al.
+
+[pseudoRandom Approach For Finding Local Energetic minima (RAFFLE)](https://github.com/ExeQuantCode/RAFFLE): package for structural prediction applied to material interfaces, associated with the paper [Predicting Phase Stability at Interfaces](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.066201), by J. Pitfield et al., Physical Review Letters (2024)
 
 [RuSseL3D](https://github.com/cjrevelas/RuSseL3D): applies the Finite Element Method to run three-dimensional calculations on heterogeneous polymer systems, based on Self-Consistent Field Theory (SCFT), by Constantinos J. Revelas et al. It can address homopolymer melts in contact with solid surfaces and provide with
 useful results regarding the thermodynamics and the structural properties of the system. 
