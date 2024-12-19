@@ -3072,7 +3072,7 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [fortran_calls_tensorflow](https://github.com/putschblos/fortran_calls_tensorflow): how to calls a TensorFlow from Fortran 2003, by putschblos
 
-[fortran_dnn_from_tf](https://github.com/ajfurlong/fortran_dnn_from_tf): provides a straightforward yet very accurate framework for using deep neural networks (DNNs) previously trained with TensorFlow to make predictions in a Fortran project, by ajfurlong. This approach allows Fortran programs to leverage the predictive power of TensorFlow-trained models without requiring complex integration or dependencies beyond HDF5 for data handling.
+[fortran_dnn_from_tf](https://github.com/ajfurlong/fortran_dnn_from_tf): provides a straightforward yet very accurate framework for using deep neural networks (DNNs) previously trained with TensorFlow to make predictions in a Fortran project, by ajfurlong. This approach allows Fortran programs to leverage the predictive power of TensorFlow-trained models without requiring complex integration or dependencies beyond HDF5 for data handling. Also [fortran_bayesian_nn_from_tf](https://github.com/ajfurlong/fortran_bayesian_nn_from_tf) for Bayesian neural networks.
 
 [Fortran FLANN binding](https://github.com/ivan-pi/fortran-flann): Fortran bindings to the FLANN library for performing fast approximate nearest neighbor searches in high dimensional spaces, by ivan-pi
 
