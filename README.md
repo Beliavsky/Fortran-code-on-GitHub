@@ -204,6 +204,8 @@ by ShinobuAmasaki.
 
 [MESSY](https://github.com/pau-amaro-seoane/MESSY): Hénon-style Monte-Carlo code to simulate spherical stellar clusters and galactic nuclei; i.e. Monte Carlo simulations for stellar dynamics, associated with the paper [Stellar Remnants in Galactic Nuclei: Mass Segregation](https://iopscience.iop.org/article/10.1086/506193), by Marc Freitag et al., Astrophysical Journal (2006)
 
+[MGITM](https://github.com/dpawlows/MGITM): 3-D GCM of Mars atmosphere from the surface to 300 km aimed at solving for the dynamics of the upper atmosphere, by dpawlows
+
 [MHD](https://github.com/JaimanP1/MHD): outputs both binary and vdc data to generate Magnetic Flux ropes in quadrupolar photosphere topologies for Coronal Mass Ejections, by Jaiman Parekh and Satoshi Inoue
 
 [Microphysics](https://github.com/starkiller-astro/Microphysics): collection of astrophysical microphysics routines for stellar explosions, by Michael Zingale et al.
@@ -212,11 +214,11 @@ by ShinobuAmasaki.
 
 [Modules for Experiments in Stellar Astrophysics (MESA)](https://github.com/MESAHub/mesa): allow users to run experiments in stellar evolution. Stellar evolution calculations (i.e., stellar evolution tracks and detailed information about the evolution of internal and global properties) are a basic tool that enable a broad range of research in astrophysics. 
 
-[MGITM](https://github.com/dpawlows/MGITM): 3-D GCM of Mars atmosphere from the surface to 300 km aimed at solving for the dynamics of the upper atmosphere, by dpawlows
-
-[Multi-channel Image Reconstruction, Image Analysis, and Display (MIRIAD)](https://github.com/astroumd/miriad): radio interferometry data-reduction package, designed for taking raw data through to the image analysis stage, by Bob Sault et al.
+[Molecular atmospheric Absorption with Rapid and Flexible Analysis (MARFA)](https://github.com/Razumovskyy/MARFA): tool designed to calculate volume absorption coefficients or monochromatic absorption cross-sections using initial spectroscopic data from spectral databases and atmospheric data from an external file, by Mikhail Razumovskiy
 
 [msg](https://github.com/rhdtownsend/msg): Multidimensional Spectral Grids -- project for evaluating radiant properties of stellar atmospheres by rhdtownsend
+
+[Multi-channel Image Reconstruction, Image Analysis, and Display (MIRIAD)](https://github.com/astroumd/miriad): radio interferometry data-reduction package, designed for taking raw data through to the image analysis stage, by Bob Sault et al.
 
 [NASA Ames Mars Global Climate Model (AmesGCM)](https://github.com/nasa/AmesGCM): simulates the atmosphere and climate of the planet Mars using an external finite volume dynamical core to predict the global atmospheric state given various planetary parameters and physical parameters.
 
