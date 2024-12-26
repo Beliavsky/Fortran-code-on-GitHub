@@ -2917,6 +2917,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 
 [Ab Initio Restructuring Tool Enabling Modelling of Interface Structures (ARTEMIS)](https://github.com/ExeQuantCode/ARTEMIS): generates and predicts interfaces between two crystals, by Ned Thaddeus Taylor and Steven Paul Hepplestone
 
+[ANSYS-USERELEMENT-PHFLD](https://github.com/Andrey-Fog/ANSYS-USERELEMENT-PHFLD): Phase field fracture realized by ANSYS custom USERELEMENT subroutine, by Andrey Tumanov. Also [ANSYS_USERMAT_LEMAITRE](https://github.com/Andrey-Fog/ANSYS_USERMAT_LEMAITRE), a Lemaitre damage accumulation model with combined isotropic (Voce) and kinematic (Chaboche) hardening, [ANSYS-USERMAT-Ramberg-Osgood](https://github.com/Andrey-Fog/ANSYS-USERMAT-Ramberg-Osgood), a plasticity model of 3D solid elements or plane elements in plane strain or axisymmetric stress state, and [ANSYS-USERMAT-CMSG](https://github.com/Andrey-Fog/ANSYS-USERMAT-CMSG), for mechanism-based strain gradient plasticity.
+
 [Atom/Molecule/Material Software Kit (atomsk)](https://github.com/pierrehirel/atomsk): command-line program meant to manipulate atomic systems, and convert from and to various file formats, by pierrehirel et al.
 
 [Boundary Element Software for 3D Linear Elasticity (BESLE_v1.0)](https://github.com/Afgr1087/BESLE_v1.0): software for carrying out 3D simulations of solids under quasi-static, inertial and high-rate boundary conditions for transient analysis, associated with a [paper](https://www.sciencedirect.com/science/article/abs/pii/S0010465521001211) by Andres F. Galvis et al., Computer Physics Communications (2021)
