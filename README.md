@@ -4012,6 +4012,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [raytracer_3D](https://github.com/ceden/raytracer_3D): simulates the radiative energy transfer equation for internal gravity waves in 6 dimensions, by ceden
 
+[RESONANCETABLES](https://github.com/arjankoning1/resonancetables): software package to unify databases for thermal cross sections, resonance integrals, MACS and other average resonance parameters, associated with the paper [A statistical analysis of evaluated neutron resonances with TARES for JEFF-3.3, JENDL-4.0, ENDF/B-VIII.0 and TENDL-2019](https://www.sciencedirect.com/science/article/abs/pii/S0090375219300705), by D. Rochman, A.J. Koning, and J.-Ch. Sublet, Nuclear Data Sheets (2020).
+
 [scadyn](https://github.com/jherrane/scadyn): code for scattering dynamics calculations, which utilizes a volume integral equation solution for the T-matrices of non-spherical scatterers, by Joonas Herranen. The main motivations for the development of this code are the study of grain alignment dynamics in interstellar environments and optical tweezers and traps.
 
 [Scalable Ab-initio Light–Matter simulator for Optics and Nanoscience (SALMON)](https://github.com/SALMON-TDDFT/SALMON2): software based on first-principles time-dependent density functional theory to describe optical responses and electron dynamics in matters induced by light electromagnetic fields, by Shunsuke Yamada et al.
