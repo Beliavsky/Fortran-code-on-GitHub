@@ -4281,6 +4281,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Thomas Relativistic Electronic Structure Calculation (TRESC)](https://github.com/Dirac4pi/TRESC): computes the electronic structure of non-periodic system in adiabatic approximation, solving static 2-component DKH2 electronic Hamiltonian of a given molecular, by Liu Kunyu
 
+[thunder-master](https://github.com/thunder-dft/thunder-master): code for the packages used in the FIREBALL suite of programs. An associated paper is [A web-deployed interface for performing ab initio molecular dynamics, optimization, and electronic structure in Fireball](https://www.sciencedirect.com/science/article/abs/pii/S0010465508003354), by J. Brandon Keith et al., Computer Physics Communications (2009).
+
 [Tight-binding parameter FITting package (TBFIT) for Slater-Koster method](https://github.com/Infant83/TBFIT): program for numerical tight-binding parameter fitting mainly based on Slater-Koster scheme and tight-binding calculations for the electronic band structures of given atomic and electronic configurations with a simple input interfaces, by Hyun-Jung Kim. Basically TBFIT fits Slater-Koster parameters including scaling factors to your target first-principles band structure.
 
 [turborvb](https://github.com/sissaschool/turborvb): package for ab initio Quantum Monte Carlo (QMC) simulations of both molecular and bulk electronic systems, originally developed by Sandro Sorella and Michele Casula
