@@ -198,6 +198,8 @@ by ShinobuAmasaki.
 
 [magnetizer](https://github.com/luizfelippesr/magnetizer): post-processes the output of a semi-analytic model of galaxy formation and produces a catalogue of galaxies with detailed radial dependent ISM properties, including magnetic fields, by luizfelippesr
 
+[Mars Subsurface Ice Model (MSIM)](https://github.com/nschorgh/MSIM): thermal and ice evolution models for Mars, by Norbert Schörghofer
+
 [MCMax3D](https://github.com/michielmin/MCMax3D): Monte Carlo radiative transfer and disk modelling tool, described [here](https://www.exoclouds.com/Software/). It sets up a disk structure using physical processes or a parameterised structure.
 
 [mercury](https://github.com/smirik/mercury): N-Body integrator based on Bulirsh-Stoer, Everhart and other methods, originally by John E. Chambers, that can integrate any star system, such as the Solar System
