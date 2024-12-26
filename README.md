@@ -4632,6 +4632,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 ## Time Series
 [ACFbyFFT](https://github.com/lingtikong/ACFbyFFT): evaluates the auto(cross)-correlation of data in one or more columns of a file, by using the fftw 3.1.2 libraries, by lingtikong
 
+[Butterworth-Filter](https://github.com/YoushanLiu/Butterworth-Filter): arbitrary-order Butterworth IIR Filter Zero-phase forward and reverse digital IIR filtering, by Youshan Liu
+
 [BVARmml](https://github.com/dingshutong/BVARmml): variable selection in Bayesian VAR models via marginalization of marginal likelihood, by dingshutong
 
 [EnKF_analysis](https://github.com/geirev/EnKF_analysis): EnKF (Ensemble Kalman Filter) analysis routines in Fortran 90, by Geir Evensen. Stochastic and SQRT formulations with subspace inversion. There is a related [book](https://enkf.nersc.no/).
