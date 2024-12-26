@@ -3932,6 +3932,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [IrisFDTD-Academic](https://github.com/IrisFDTD/IrisFDTD-Academic): implements the Finite-Difference Time-Domain (FDTD) method. It is a "toy version" of the [IrisFDTD](https://github.com/IrisFDTD/IrisFDTD) program, a Maxwell’s equations solver in the field of computational electrodynamics for photonics and nanotechnology, by Sergio G Rodrigo.
 
+[ISOTOPIA](https://github.com/arjankoning1/isotopia): software package for the prediction of radio-isotope production that uses cross sections from the IAEA medical isotope data library and the TENDL nuclear data library and calculates the radioactive yield as a function of irradiation time and other irradiation characteristics. An associated paper is [TENDL: Complete Nuclear Data Library for innovative Nuclear Science and Technology, Nuclear Data Sheets](https://www.sciencedirect.com/science/article/abs/pii/S009037521930002X), by Arjan Koning et al., Nuclear Data Sheets (2019).
+
 [kmos](https://github.com/mhoffman/kmos): kMC on steroids: A vigorous attempt to make lattice kinetic Monte Carlo modelling easier, by mhoffman et al.
 
 [Koko Optical Design Software (KODS)](https://github.com/dinosauria123/Koko): raytracing software for the design and analysis of optical imaging and illumination systems. Koko has evolved from the optics design program KDP-2 that was made open-source by its original developer James E. Klein.
