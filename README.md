@@ -3040,6 +3040,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [Packmol](https://github.com/m3g/packmol): creates an initial point for molecular dynamics simulations by packing molecules in defined regions of space, from Martinez Molecular Modeling Group. The packing guarantees that short range repulsive interactions do not disrupt the simulations.
 
+[PIMDkk](https://github.com/kuwahatakazuaki/PIMDkk): Path Integral Molecular Dynamics program by kuwahatakazuaki. Also [PIMDanalysis2](https://github.com/kuwahatakazuaki/PIMDanalysis2) to analyze the results of PIMD simulations.
+
 [Playmol](https://github.com/atoms-ufrj/playmol): software for building molecular models, by ‪Charlles Abreu‬ et al. Molecules are created with simple scripts consisting of a small set of commands, molecular topology arises naturally when atoms are connected (automatic detection of angles and dihedrals), integration with Packmol provides a way of creating complex molecular systems, and generation of LAMMPS and OpenMM files provides a way of performing efficient MD simulations.
 
 [QUIP](https://github.com/libAtoms/QUIP): collection of software tools to carry out molecular dynamics simulations, from libAtoms. It implements a variety of interatomic potentials and tight binding quantum mechanics, and is also able to call external packages, and serve as plugins to other software such as LAMMPS, CP2K and also the python framework ASE.
