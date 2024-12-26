@@ -1151,6 +1151,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [shyfem](https://github.com/SHYFEM-model/shyfem): System of HydrodYnamic Finite Element Modules
 
+[simple-2d-ns](https://github.com/kevzhong/simple-2d-ns): A "Hello World" for incompressible Navier-Stokes, featuring two-dimensional flow, second-order finite difference, staggered grid, fully-Explicit Euler time integration, fractional-step, pressure-Poisson equation solved via FFTs, uniform grid spacing, and OpenMP acceleration, by kevzhong
+
 [Simple-Fortran-DG](https://github.com/L1ssandra/Simple-Fortran-DG): uses the Discontinuous Galerkin method to solve the 2D Euler Equation with the Isentropic Vortex initial value, by L1ssandra. The author has [Freljord-CFD-arsenal](https://github.com/L1ssandra/Freljord-CFD-arsenal) and other CFD projects with Fortran code.
 
 [SIMS_MHT](https://github.com/rafaelgabler/SIMS_MHT): numerical simulation of multibody suspensions of magnetic particles using Langevin and Stokesian Dynamics,  optimized for magnetic hyperthermia simulations. Associated paper: [The influence of hydrodynamic effects on the complex susceptibility response of magnetic fluids undergoing oscillatory fields: New insights for magnetic hyperthermia], by Guimaraes, A. B. ; Cunha, F. R., and Gontijo, R. G., Physics of Fluids, v. 32, p. 012008-012008-17, 2020.
