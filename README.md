@@ -780,7 +780,7 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [linemake](https://github.com/vmplacco/linemake): atomic and molecular line list generator, by Chris Sneden et al. Rather than a replacement for a number of well-established atomic and molecular spectral databases, linemake aims to be a lightweight, easy-to-use tool to generate formatted and curated lists suitable for spectral synthesis work.
 
-[local_dielectric_saturation](https://github.com/janneforsman/local_dielectric_saturation): Metropolis Monte-Carlo program to study local dielectric saturation in Restricted Primitive Model electrolytes, by David Ribar and janneforsman. Also [modified_widom](https://github.com/janneforsman/modified_widom) to study the structure and thermodynamics of ionic fluids
+[local_dielectric_saturation](https://github.com/janneforsman/local_dielectric_saturation): Metropolis Monte-Carlo program to study local dielectric saturation in Restricted Primitive Model electrolytes, by David Ribar and janneforsman. Also [modified_widom](https://github.com/janneforsman/modified_widom) to study the structure and thermodynamics of ionic fluids        
 
 [mobbrmsd](https://github.com/yymmt742/mobbrmsd): molecular-oriented branch-and-bound for Root Mean Squared Deviation (RMSD), one of the most common metrics for comparing the similarity of three-dimensional chemical structures, by yymmt742
 
@@ -791,6 +791,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 [MolAlignLib](https://github.com/qcuaeh/molalignlib): Fortran and Python library based on random rotations and quasi-local RMSD minimizations to align rigid molecules and clusters. Associated paper: M. Vasquez-Perez, L. A. Zarate-Hernandez, C. Z. Gomez-Castro, U. A. Nolasco-Hernandez. [A Practical Algorithm to Solve the Near-Congruence Problem for Rigid Molecules and Clusters](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01187), Journal of Chemical Information and Modeling (2023)
 
 [molecular-tools](https://github.com/jcerezochem/molecular-tools): modules that undertake a number of basic molecular modelling / computational chemistry analysis and manipulations, such as structure file reading and writing (including pdb, gro, g96, xyz), and parsing output files from programs as Gaussian (fchk and log) and Molpro retrieving informations such as geometry, frequencies, normal modes, Hessian, Gradient, molecular orbital coefficients, etc., by Javier Cerezo
+
+[multiple-layered dynamics perturbation analysis (mdpa)](https://github.com/mingdengming/mdpa): calculates the regions where ligands tend to bind to a given protein structure, by Dengming Ming.
 
 [mstore](https://github.com/grimme-lab/mstore): molecular structure store for testing, from grimme-lab
 
