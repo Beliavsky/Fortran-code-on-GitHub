@@ -1704,6 +1704,8 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [SealEveL EquatioN solver (SELEN)](https://github.com/geodynamics/selen): numerical solution of the Sea Level Equation (SLE) for a spherical, layered, rotating Earth with viscoelastic rheology, by Eric Heien et al.
 
+[seismicgradiometry](https://github.com/mogiso/seismicgradiometry): code for seismic gradiometry (wave gradiometry), by Masashi Ogiso
+
 [SEM2DPACK](https://github.com/jpampuero/sem2dpack): spectral element method for 2D wave propagation and fracture dynamics, with emphasis on computational seismology and earthquake source dynamics, from jpampuero et al.
 
 [Semi-implicit Cross-scale Hydroscience Integrated System Model (SCHISM)](https://github.com/schism-dev/schism): community-supported modeling system based on unstructured grids and designed for the seamless simulation of 3D baroclinic circulation across creek-lake-river-estuary-shelf-ocean scales.
