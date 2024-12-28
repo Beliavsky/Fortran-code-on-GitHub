@@ -2430,6 +2430,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [TimerClass](https://github.com/DannyVanpoucke/TimerClass): object-oriented Fortran 2003 timer class, by Danny Vanpoucke
 
+[TOOLIB](https://github.com/TRIBO-Pprime/TOOLIB): modules for multidimensional B-Spline interpolation of data on a regular grid, Cholesky decomposition and resolution, calling FFTW3, file operations, calling gnuplot, interpolation and weighting functions, minimization, the Mersenne Twister RNG, PIKAIA a general purpose unconstrained optimization method based on a genetic algorithm, sorting, calling different sparse matrix solvers, handling the Digital Surf binary format (.sur), and fitting a least square polynomial to a surface, by Arthur Francisco
+
 [UniShellect](https://github.com/Lateralus138/UniShellect): parses a JSON config file and loads a highly customizable menu of shells, interpreters, files, commands and possible arguments into any command line interface, by Lateralus138. This is inspired by the "hyper-shellect" plug-in for the "Hyper" terminal.
 
 [xslib - Extra-Small Library](https://github.com/JureCerar/xslib):  library consisting of useful utilities and functions as stand-in for Fortran "standard" library, by JureCerar. Has modules for string handling, error handling, memory allocation, regression, timing, sorting, statistics, and other topics
