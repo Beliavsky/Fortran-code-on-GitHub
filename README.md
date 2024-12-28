@@ -4040,6 +4040,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [ShengBTE](https://github.com/wxmwy/ShengBTE): solver for the Boltzmann transport equation for phonons, by Wu Li et al.
 
+[SHG__Second_Harmonic_Generation](https://github.com/Mostafa-M-Rezaee/SHG__Second_Harmonic_Generation): addressing thermal effects in Second Harmonic Generation (SHG), by Mostafa Rezaee and Max Ghadri. Also contains a Fortran tutorial.
+
 [signedMCRT](https://github.com/lewisfish/signedMCRT): use of signed distance fields in Monte Carlo Radiative Transfer, by Lewis McMillan. This allows modelling of smooth surfaces without the need to use triangle or similar meshes.
 
 [SNAP](https://github.com/lanl/SNAP): proxy application to model the performance of a modern discrete ordinates neutral particle transport application, from LANL
