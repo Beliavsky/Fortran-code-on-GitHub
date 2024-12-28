@@ -2852,6 +2852,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 
 [MPI_GEVP](https://github.com/sims-code/MPI_GEVP): Fortran 90+ program for solving the generalized eigenvalue problem on distributed computers, by sims-code
 
+[MSOLV](https://github.com/TRIBO-Pprime/MSOLV): API for the direct sparse solvers {MUMPS](https://mumps-solver.org/index.php), [UMFPACK](https://en.wikipedia.org/wiki/UMFPACK), [SuperLU](https://github.com/xiaoyeli/superlu), and [MA48](http://www.hsl.rl.ac.uk/catalogue/ma48.html), by Arthur Francisco
+
 [nnls](https://github.com/cuamll/nnls): non-negative least squares (NNLS) solver calling BLAS and LAPACK, by cuamll
 
 [NTPoly](https://github.com/william-dawson/ntpoly): massively parallel library for computing the functions of sparse matrices, by william-dawson
