@@ -1472,6 +1472,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [Halfspace deformation (hdef)](https://github.com/mherman09/Hdef): forward calculation of displacements, strains, and stresses in an elastic half-space. The sources are fault slip models, using the solutions derived in Okada (1992) and in Meade (2007).
 
+[HarmonicanalysisTideLoad](https://github.com/zcyphygeodesy/HarmonicanalysisTideLoad): codes for spherical harmonic analysis on tidal constants and modelling, by Chuanyin Zhang. The author has many other codes for geodesy.
+
 [Harmonized Emissions Component (HEMCO)](https://github.com/geoschem/HEMCO): computing (atmospheric) emissions from different sources, regions, and species on a user-defined grid, from geoschem. It can combine, overlay, and update a set of data inventories ('base emissions') and scale factors, as specified by the user through the HEMCO configuration file.
 
 [hashwrap](https://github.com/mikehagerty/hashwrap): Python wrapper by Mike Hagerty of [HASHv1.2 Fortran library](https://www.usgs.gov/node/279393). An associated paper is Hardebeck, Jeanne L. and Peter M. Shearer, [Using S/P Amplitude Ratios to Constrain the Focal Mechanisms of Small Earthquakes](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/93/6/2434/120968/Using-S-P-Amplitude-Ratios-to-Constrain-the-Focal), Bulletin of the Seismological Society of America, 93, 2434-2444, (2003).
@@ -1614,8 +1616,6 @@ This package also provides a set of tools for visualizing/converting simulation 
 [Operational Priority Substances model (OPS)](https://github.com/rivm-syso/OPS): program to simulate the distribution of pollutants in the air and calculate how much of these substances ends up on soil or crops per hectare (deposition), from the National Institute for Public Health and the Environment of the Netherlands
 
 [Optimal Retrieval of Aerosol and Cloud (orac)](https://github.com/ORAC-CC/orac): optimal estimation retrieval scheme for the estimation of aerosol and cloud properties from a wide range of visible-infrared imaging satellites, such as MODIS, AATSR, AVHRR and SEVIRI. It has been used to produce analysis-ready datasets of cloud and aerosol properties as part of the ESA CCI project and is currently supported by NCEO.
-
-[Otidaloalharmsynth](https://github.com/Chuanyin-Zhang/Otidaloalharmsynth): codes for spherical harmonic synthesis of ocean tidal load effects on all-element geodetic variations, by Chuanyin Zhang.
 
 [PaleoCalAdjust](https://github.com/pjbartlein/PaleoCalAdjust): accompanies this paper: Bartlein, P. J. and Shafer, S. L.: Paleo calendar-effect adjustments in time-slice and transient climate-model simulations (PaleoCalAdjust v1.0): impact and strategies for data analysis, Geosci. Model Dev., https://doi.org/10.5194/gmd-12-3889-2019, 2019.
 
