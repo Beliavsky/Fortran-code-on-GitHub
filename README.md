@@ -3854,6 +3854,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 [Zero-Dimensional Plasma Kinetics solver (ZDPlaskin)](https://github.com/Hemadityamalla/ZDPlaskin): module designed to follow the time evolution of the species densities and gas temperature in a non-thermal plasma with an arbitrarily complex chemistry
 
 ## Physics
+[8bandkp-fdm](https://github.com/tiagocampo/8bandkp-fdm): implements 8band zinc-blende k·p-method using finite difference method, working for bulk and quantum-wells, by Tiago de Campos
+
 [Acceleration by Laser and Dynamics of charged particles (ALaDyn)](https://github.com/ALaDyn/ALaDyn): particle-in-cell code firstly described in ALaDyn: A High-Accuracy PIC code for the Maxwell-Vlasov Equations by C. Benedetti et al., published on IEEE Transactions on Plasma Science, 36 4, 1790-1798 (2008) and then again in the update Charge preserving high order PIC schemes by P. Londrillo et al., published on Nucl. Instrum. Meth. A, 620 1, 28-35 (2010).
 
 [Accurate Biot-Savart routines with Correct Asymptotic Behaviour (abscab-fortran)](https://github.com/jonathanschilling/abscab-fortran): computes the magnetic field and the magnetic vector potential of filamentary current carriers in the form of a circular loop and straight segments, by Jonathan Schilling. Arbitrary geometries of conductors can be approximated by a polygon along its contour and the connecting segments between the polygon vertices are modeled by straight segments.
