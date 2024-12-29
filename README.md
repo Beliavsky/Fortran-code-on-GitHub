@@ -4497,7 +4497,9 @@ universe-based geometry building, steady-state MC, OTF Doppler broadening, MC-ba
 
 [FORtran library for Computational Environmental Systems (FORCES)](https://github.com/mhm-ufz/FORCES): codes for optimization, linear and nonparametric regression, random number generation, numerical integration, and other topics
 
-[fortran-metrics](https://github.com/tkdhss111/fortran-metrics): simple forecasting metrics calculator (mean error, MAE, MAPE, RMSE) that auto skips N/A data and accepts both scalar or vector data, by Hisashi Takeda. 
+[fortran-metrics](https://github.com/tkdhss111/fortran-metrics): simple forecasting metrics calculator (mean error, MAE, MAPE, RMSE) that auto skips N/A data and accepts both scalar or vector data, by Hisashi Takeda.
+
+[fortran-variable-transformation](https://github.com/tkdhss111/fortran-variable-transformation): functions to perform the Yeo-Johnson and Box-Cox variable transformations, with Golden Section Search used for maximum likelihood estimation of the paramters, by Hisashi Takeda
 
 [frailtypack](https://github.com/cran/frailtypack): R package with Fortran code for shared, joint (generalized) frailty models and for surrogate endpoints, by Virginie Rondeau et al.
 
