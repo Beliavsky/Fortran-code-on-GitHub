@@ -1937,6 +1937,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [ffte](https://github.com/certik/ffte): computes Discrete Fourier Transforms of 1-, 2- and 3- dimensional sequences of length (2^p)*(3^q)*(5^r).
 
+[fftlog](https://github.com/emsig/fftlog): Python wrapper (using f2py) by Dieter Werthmüller and Jørgen Kvalsvik for the logarithmic FFT Fortran code FFTLog by Andrew Hamilton
+
 [fftlog-f90](https://github.com/coccoinomane/fftlog-f90): extended Fortran 90 version of the FFTLog code by Andrew Hamilton to convolve a tabulated function with a Bessel functions, by coccoinomane
 
 [fft-overlap](https://github.com/dappelha/fft-overlap): efficient implementations of ffts on multiple GPUs and across multiple nodes, by dappelha. Overlapping data transfer on multiple levels.
