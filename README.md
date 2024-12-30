@@ -2555,6 +2555,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [vtkmofo](https://github.com/porteri/vtkmofo): VTK format using modern Fortran, by porteri
 
+[xframes-fortran](https://github.com/xframes-project/xframes-fortran): interface to XFrames, a library for building GPU-accelerated, native-like desktop applications using a variety of programming languages
+
 ## Interoperability
 [Advanced Options and Tables in Universal Scripting (AOTUS)](https://github.com/haraldkl/aotus): wrapper around the C-API of the Lua scripting language, allowing a convenient usage of Lua scripts as configuration files in Fortran applications.
 
