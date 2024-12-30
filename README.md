@@ -2062,6 +2062,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [oo_hdf](https://github.com/rjgtorres/oo_hdf): object-oriented Fortran HDF5 module, by Ricardo Torres. This library aims to create a group of classes in Fortran to interact with HDF5.
 
+[plot3dtool](https://github.com/Adermr/plot3dtool): library providing uniform interfaces helping process files in PLOT3D format, by Zhenling Jia. PLOT3D is a standard file format in computational fluid dynamics used for storing grid and results data.
+
 [qfyaml](https://github.com/yantosca/qfyaml): quick Fortran YAML parser, by Bob Yantosca
 
 [Return of JSON for Fortran (rojff)](https://github.com/everythingfunctional/rojff): with an interface inspired by [jsonff](https://gitlab.com/everythingfunctional/jsonff), the data semantics and parser are redesigned to allow for high performance, by Brad Richardson and kmorris
