@@ -751,13 +751,14 @@ simulating and forecasting meteorological phenomena.
 
 [ewald-summation](https://github.com/Jonas-Finkler/ewald-summation): efficient and easy-to-use implementation of the Ewald summation method, by Jonas-Finkler
 
+[fcc_tools](https://github.com/jcerezochem/fcc_tools): tools by Javier Cerezo to facilitate input generation and analysis of [FCclasses](http://www.iccom.cnr.it/en/fcclasses/), a code that computes vibronic spectra and nonradiative rates based on the harmonic approximation
+
 [Flexible Atomic Code (fac)](https://github.com/flexible-atomic-code/fac): software packge for the calculation of various atomic processes, by Ming Feng Gu
 
 [fenvelopes](https://github.com/ipqa-research/fenvelopes): calculate phases boundaries of multicomponent systems using Equations of State, currently supporting PT envelopes and PX envelopes with partial three-phase-behaviour, by Federico E. Benelli
 
 [Fermi-orbital descriptor Monte-Carlo (fodMC)](https://github.com/pyflosic/fodMC): generator for Fermi-orbital descriptor (FOD) positions
 to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) method, described in paper [Interpretation and automatic generation of Fermi-orbital descriptors](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.26062), S. Schwalbe, K. Trepte, et al., Journal of Computational Chemistry, vol. 40, pp. 2843-2857, 2019    
-
 [FREZCHEM](https://github.com/MarcNeveu/frezchem): includes chloride, bromide, perchlorate, nitrate, sulfate, and bicarbonate-carbonate salts, strong acid chemistry, ferrous and ferric iron chemistry, aluminum and silicon chemistries, ammonia and ammonium chemistries, methane, ethane, and propane chemistries, and gas hydrate chemistry, by Giles Marion. This version includes both temperature and pressure dependencies.
 
 [forsus](https://github.com/ipqa-research/forsus): provides a simple API to read json files containing pure component information, which can be used in other projects, by José Antonio Scilipoti
