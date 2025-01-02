@@ -2173,6 +2173,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [fortran-examples](https://github.com/maruthinh/fortran-examples): examples of cross-platform (Windows and Linux) compilation of Fortran codes using CMake, using LAPACK and compiling using Intel MKL via CMake, Fortran-C interoperability, and Fortran-CUDA interoperability, by maruthinh
 
+[fortran_experiments](https://github.com/JorgeG94/fortran_experiments): simple progressive lessons on using CMake to build Fortran projects, by Jorge Luis Gálvez Vallejo
+
 [FORTRAN_INTRO](https://github.com/morten-engsvang/FORTRAN_INTRO): intro exercises for the [multi-scale modelling summerschool](https://www.helsinki.fi/en/researchgroups/multi-scale-modelling/summer-school) 2023 in Lahti, by Morten Engsvang
 
 [Fortran-MOOC](https://github.com/gjbex/Fortran-MOOC): reading material, source code, and software stack for the PRACE MOOC on [Fortran for scientific programming](https://www.futurelearn.com/courses/fortran-for-scientific-computing), by Geert Jan Bex et al.
