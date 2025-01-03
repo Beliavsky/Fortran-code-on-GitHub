@@ -3779,6 +3779,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 ## Particle Physics
 [APFEL: A Parton Distribution Function Evolution Library](https://github.com/scarrazza/apfel): performs DGLAP evolution up to NNLO in QCD and to NLO in QED, both with pole and MSbar masses. The coupled DGLAP QCD+QED evolution equations are solved in x-space by means of higher order interpolations and Runge-Kutta techniques.
 
+[artemide-development](https://github.com/VladimirovAlexey/artemide-development): package for TMD-physics (transverse momentum dependent), by Alexey Vladimirov. Also [Snowflake](https://github.com/VladimirovAlexey/Snowflake) for the evolution of twist-three parton distribution functions.
+
 [bmad-ecosystem](https://github.com/bmad-sim/bmad-ecosystem): library for the simulation of charged particles and X-rays in accelerators and storage rings, by David Sagan et al.
 
 [Cosmic ray and HadROnic interactiOn MOnte-carlo frontend (chromo)](https://github.com/impy-project/chromo): generic user interface to popular event generators used in cosmic ray and high-energy particle physics, from impy-project
