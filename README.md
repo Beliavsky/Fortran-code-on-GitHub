@@ -725,6 +725,8 @@ simulating and forecasting meteorological phenomena.
 
 [Chemistry discovery engine (CDE)](https://github.com/ScottHabershon/cde): implements several different calculation types associated with chemical reaction-path analysis, by Joe Gilkes and Scott Habershon
 
+[chempotpy](https://github.com/shuyinan/chempotpy): Python library for analytic representation of single-state and multi-state potential energy surfaces and couplings that generates Fortran subroutines. An associated paper is [ChemPotPy: A Python Library for Analytic Representations of Potential Energy Surfaces and Diabatic Potential Energy Matrices](https://pubs.acs.org/doi/10.1021/acs.jpca.3c05899), by Yinan Shu et al., Journal of Physical Chemistry A (2023).
+
 [ciaaw](https://github.com/MilanSkocic/ciaaw): library providing the standard and abridged atomic weights, the isotopic abundance and the isotopes' standard atomic weights, by Milan Skocic. It also provides a API for the C language.
 
 [ClassyMC](https://github.com/mrnucleation/ClassyMC): General Purpose Object Oriented Molecular Monte Carlo code. Classy is designed to be used for Metropolis Monte Carlo and other similar sampling methods in molecular simulations.
