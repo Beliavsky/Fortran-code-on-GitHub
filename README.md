@@ -1861,6 +1861,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [CCFatiguePlatform](https://github.com/EPFL-ENAC/CCFatiguePlatform): web application to faciltate manipulation and harmonized storage of composite materials testing datasets, from EPFL-ENAC
 
+[CONTACT](https://github.com/eve70a/CONTACT): advanced simulation program for the study of three-dimensional frictional contact problems, such as occur between wheel and rail, in roller bearings and in offset printing devices, by Edwin Vollebregt
+
 [cryoH2vehicle](https://github.com/LLNL/cryoH2vehicle): simulates the variations of the thermodynamics state of the hydrogen inside a vessel (pressure, temperature, density, para/ortho) as a function of the vessel design (volume, rated pressure, aspect ratio, heat transfer – including the influence of outside temperature) and the duty cycle the vehicle experiences, by Salvador Aceves and Julio Moreno-Blanco
 
 [Deformation Monitoring Package (DMPACK)](https://github.com/dabamos/dmpack): package for sensor control and automated time series processing in geodesy and geotechnics, consisting of a library libdmpack and additional programs based on it which serve as a reference implementation of solutions to various problems in deformation monitoring, by Philipp Engel
