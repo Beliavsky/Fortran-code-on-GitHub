@@ -1841,7 +1841,7 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [firingcosts_petit2021](https://github.com/borjapetit/firingcosts_petit2021): replication package for the working paper [Aggregate effects of firing costs with endogenous firm productivity growth (2021)](https://borjapetit.github.io/files/papers/petit_firing.pdf) by Borja Petit. The codes use OpenMP for parallelization and GNUplot to generate the graphs.
 
-[FortranFinance](https://github.com/richmit/FortranFinance): theoretical finance computation, including resampling Monte Carlo for inflation and stock market returns, by Mitch Richling
+[FortranFinance](https://github.com/richmit/FortranFinance): theoretical finance computations, including a retirement simulator, resampling Monte Carlo for inflation and stock market returns, and time-value-of-money loan problems, by Mitch Richling
 
 [FortranRiskEngine](https://github.com/tembolo1284/FortranRiskEngine): Monte Carlo simulation tool designed for quantitative finance applications, by Paul Nikholas Lopez
 
