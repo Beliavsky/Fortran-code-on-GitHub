@@ -2597,6 +2597,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [f2py-with-derived-types](https://github.com/Nicholaswogan/f2py-with-derived-types): demonstrates how to use f2py with Fortran derived types with type-bound procedures, by Nick Wogan
 
+[FarrayInterop](https://github.com/AshLink95/FarrayInterop): header-only library that allows the use of Fortran arrays in C++, by AshLink
+
 [fckit](https://github.com/ecmwf/fckit): Fortran toolkit for interoperating Fortran with C/C++, from ecmwf
 
 [Fcpp](https://github.com/ivan-pi/Fcpp): seamless interoperability between C++ containers and Fortran arrays, by Ivan Pribec. Two classes are provided, cdesc and cdesc_ptr, that act as adaptors between C++ and Fortran, helping to re-establish type and attribute safety when moving between languages.
