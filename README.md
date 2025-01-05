@@ -1426,6 +1426,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [FMTT_Parallel](https://github.com/nqdu/FMTT_Parallel): parallel version of [FMTT](http://www.iearth.org.au/codes/FMTT): Fast Marching Teleseismic Tomography, from nqdu
 
+[Foam-emissivity-model](https://github.com/1998XIEY/Foam-emissivity-model): estimates the emissivity of sea foam at the microwave frequencies using a two-stream approximation radiative transfer model, associated with the paper [Physically Based Simulations of Foam-Covered Ocean Emission at Microwave Frequencies](https://ieeexplore.ieee.org/abstract/document/10770237), by Yuchen Xie et al., IEEE Transactions on Geoscience and Remote Sensing (2024)
+
 [ForRF](https://github.com/xumi1993/ForRF): time iterative deconvolution of receiver functions, by Mijian Xu, obtaining results close to [Seispy](https://github.com/xumi1993/seispy)
 
 [fortrangis](https://github.com/ARPA-SIMC/fortrangis): collection of Fortran interfaces to some common Open Source GIS (Geographic Information System) software libraries, plus some more Fortran-specific tools, from ARPA-SIMC. The libraries interfaced at the moment are Shapelib, GDAL, Proj and ReadOSM.
