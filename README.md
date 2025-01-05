@@ -1523,8 +1523,6 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [ioapi-3.2](https://github.com/cjcoats/ioapi-3.2): provides Fortran and C APIs for environmental model data access together with related utility routines and tools for analysis and manipulation of data stored by way of that API, by cjcoats
 
-[iRainSnowHydrov1.0](https://github.com/YuningLynn/iRainSnowHydrov1.0): distributed integrated rainfall-runoff and snowmelt-runoff simulation model for alpine watersheds, by Yuning Luo et al.
-
 [iron-magma](https://github.com/charlesll/iron-magma): calculates the redox state of iron in magmas, by Roberto Moretti and Charles Le Losq. Also [sulfur-magma](https://github.com/charlesll/sulfur-magma), associated with the paper Moretti, R., & Ottonello, G. (2005). [Solubility and speciation of sulfur in silicate melts: The Conjugated Toop-Samis-Flood-Grjotheim (CTSFG) model](https://www.sciencedirect.com/science/article/abs/pii/S0016703704006933). Geochimica et Cosmochimica Acta and [water-speciation-magma](https://github.com/charlesll/water-speciation-magma) associated with paper Moretti, R., Le Losq, C., and Neuville, D.R. (2014) [The amphoteric behavior of water in silicate melts from the point of view of their ionic-polymeric constitution](https://www.sciencedirect.com/science/article/abs/pii/S0009254113005895). Chemical Geology
 
 [Isca](https://github.com/ExeClim/Isca): framework for the idealized modelling of the global circulation of planetary atmospheres at varying levels of complexity and realism, from the University of Exeter. The framework is an outgrowth of models from GFDL designed for Earth's atmosphere, but it may readily be extended into other planetary regimes.
