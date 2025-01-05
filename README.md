@@ -586,6 +586,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [NCEPLIBS G2](https://github.com/NOAA-EMC/NCEPLIBS-g2): Utilities for coding/decoding GRIB2 messages, by Hang Lei et al. This library contains Fortran 90 decoder/encoder routines for GRIB edition 2, as well as indexing/searching utility routines.
 
+[PrecisionSpec-Analyzer](https://github.com/Razumovskyy/PrecisionSpec-Analyzer), a high-precision tool for atmospheric absorption calculations over narrow spectral ranges, focusing on detailed spectroscopic analysis using HITRAN and HITEMP data with standard and custom line shapes for terrestrial atmospheric studies, by Mikhail Razumovskiy
+
 [prepbufr_decoder](https://github.com/ShawnMurdzek-NOAA/prepbufr_decoder): decode prepBUFR files to CSVs and encode CSVs to prepBUFR files, by Shawn Murdzek. BUFR (Binary Universal Form for the Representation of meteorological data) is Table Driven Data Representation Forms approved by the World Meteorological Organization (WMO) for operational use since 1988. 
 
 [prodsim](https://github.com/ARPA-SIMC/prodsim): collection of shell scripts and Fortran programs based on libsim, by Davide Cesari and ddales3. It is designed for processing raw numerical weather prediction (NWP) model output data and perform physically-based operations in order to obtain postprocessed data
@@ -623,8 +625,6 @@ simulating and forecasting meteorological phenomena.
 [urban Dutch Atmospheric Large Eddy Simulation (u-dales)](https://github.com/uDALES/u-dales): large-eddy simulation (LES) model for urban environments. LES is an approach to turbulence modelling used in computational fluid dynamics to simulate turbulent flows over a wide range of spatial and temporal scales.
 
 [Unified Forecast System (UFS) weather model](https://github.com/ufs-community/ufs-weather-model): weather model is used in several of the UFS applications, including the medium-range weather application and the short-range weather application.
-
-[VenusPT-tables](https://github.com/Razumovskyy/VenusPT-tables): atmospheric absorption coefficient calculator: Utilizing [HITRAN](https://hitran.org/) and custom spectroscopy for Venus and Mars radiative transfer studies, by Mikhail Razumovskiy. Also [PrecisionSpec-Analyzer](https://github.com/Razumovskyy/PrecisionSpec-Analyzer), a high-precision tool for atmospheric absorption calculations over narrow spectral ranges, focusing on detailed spectroscopic analysis using HITRAN and HITEMP data with standard and custom line shapes for terrestrial atmospheric studies.
 
 [weather-buoys](https://github.com/modern-fortran/weather-buoys): Processing weather buoy data in parallel, from modern-fortran
 
