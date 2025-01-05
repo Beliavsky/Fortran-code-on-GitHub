@@ -2222,6 +2222,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [modern_fortran_book](https://github.com/jonaslindemann/modern_fortran_book): files to build the site [Modern Fortran in Science and Technology](https://modern-fortran-in-science-and-technology.readthedocs.io), by jonaslindemann
 
+[Modern-Fortran-By-Example](https://github.com/roh6608/Modern-Fortran-By-Example): code from the YouTube [videos](https://www.youtube.com/user/hexafoil) by hexafoil 
+
 [object_fortran](https://github.com/reinh-bader/object_fortran): examples of object-based and object-oriented techniques, by Reinhold Bader
 
 [old-programming-idioms](https://github.com/arjenmarkus/old-programming-idioms): explains old-style programming idioms used in FORTRAN 77 programs, such as `array(*)` versus `array(:)`, array(10) as a starting point, COMMON blocks and BLOCK DATA, named and blank COMMON, the history of computers, equivalence, constants as actual arguments, intent, temporary arrays - non-contiguous arrays, implicit types, double precision versus kind, and other topics, by Arjen Markus
