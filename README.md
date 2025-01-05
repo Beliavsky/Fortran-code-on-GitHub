@@ -3352,8 +3352,6 @@ ACM Trans. Math. Softw. (2023).
 
 [special_functions](https://github.com/ameli/special_functions): Cython and Python API for some Fortran and C libraries of special functions, by Siavash Ameli
 
-[STEM-Fortran](https://github.com/roh6608/STEM-Fortran): modules and routines for math, science and engineering calculations, by roh6608
-
 [Tensor Toolbox for Modern Fortran (ttb)](https://github.com/adtzlr/ttb)
 
 [ToolboxFortran](https://github.com/aledinola/ToolboxFortran): code to replicate basic Matlab functions, sort, interpolate, optimize, find roots, and perform other numerical tasks, by Alessandro Di Nola. Also code to read and write multidimensional arrays.
