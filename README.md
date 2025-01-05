@@ -302,7 +302,7 @@ by ShinobuAmasaki.
 
 [swiftest](https://github.com/MintonGroup/swiftest): models the long-term dynamical dynamics of n-body systems with a dominant central body, like the solar system, by David Minton et al. It is a re-write of the [Swifter](https://www.boulder.swri.edu/swifter/) software package that incorporates modern programming techniques and performance improvements.
 
-[SWMF](https://github.com/MSTEM-QUDA/SWMF): Space Weather Modeling Framework is a software framework that provides a common operating environment for the various modeling components included. Each of the components models particular aspects of space weather (sun, heliosphere, magnetosphere, etc) and the various commands allow you to control how those models run and interact with each other.
+[SWMF](https://github.com/SWMFsoftware/SWMF): Space Weather Modeling Framework is a software framework that provides a common operating environment for the various modeling components included. Each of the components models particular aspects of space weather (sun, heliosphere, magnetosphere, etc) and the various commands allow you to control how those models run and interact with each other.
 
 [Toolkit for High-ORder Neutrino Radiation Hydrodynamics (thornado)](https://github.com/endeve/thornado): neutrino radiation-hydrodynamics code aiming to simulate core-collapse supernovae using discontinuous Galerkin methods, by Eirik Endeve et al.
 
