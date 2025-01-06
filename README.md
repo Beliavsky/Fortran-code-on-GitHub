@@ -324,7 +324,7 @@ by ShinobuAmasaki.
 
 [XNet](https://github.com/starkiller-astro/XNet): thermonuclear reaction network for astrophysical applications, using a variety of temporal integration techniques, from starkiller-astro. It is written in portable modern Fortran and makes use of a variety of matrix solving packages to obtain excellent speed (as much as 50% of peak) on as many platforms as possible.
 
-[xnirspec](https://github.com/nicocardiel/xnirspec): program to visualise and manipulate FITS images, by by Nicolás Cardiel, originally written to reduce
+[xnirspec](https://github.com/nicocardiel/xnirspec): program to visualise and manipulate FITS images, by Nicolás Cardiel, originally written to reduce
 spectroscopic data obtained with near-infrared spectrograph NIRSPEC, installed in one of the Keck Telescopes (Hawaii)
 
 [Yet Another Particle Simulation (YAPS)](https://github.com/Daniel-Harrington/YAPS): high-performance astrophysics simulation modeling black hole migration resulting from the merger of a large host galaxy with a smaller galaxy, by Daniel Harrington et al. The simulation uses CUDA acceleration and Fourier transforms to compute gravitational interactions between 100 million particles, including two supermassive black holes (SMBHs). 
@@ -3647,7 +3647,7 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [INshm](https://github.com/nompelis/INshm): library for accessing chunks of shared memory across process running on a Unix host in Fortran, by Ioannis Nompelis
 
-[IntroMPI](https://github.com/WarwickRSE/IntroMPI): codes from the [Introduction to MPI](https://warwick.ac.uk/research/rtp/sc/rse/training/intrompi/) course, by by Heather Ratcliffe and Chris Brady. A follow-up is [IntermediateMPI-new](https://github.com/WarwickRSE/IntermediateMPI-new), which has the C and Fortran codes discussed in the talks, suggestions for exploring MPI types and Domain Decomposition problems, and scripts for using MPI on cluster systems.
+[IntroMPI](https://github.com/WarwickRSE/IntroMPI): codes from the [Introduction to MPI](https://warwick.ac.uk/research/rtp/sc/rse/training/intrompi/) course, by Heather Ratcliffe and Chris Brady. A follow-up is [IntermediateMPI-new](https://github.com/WarwickRSE/IntermediateMPI-new), which has the C and Fortran codes discussed in the talks, suggestions for exploring MPI types and Domain Decomposition problems, and scripts for using MPI on cluster systems.
 
 [matmul_fortran_tensor_core](https://github.com/samhatfield/matmul_fortran_tensor_core): Example code for calling Tensor Core GEMM from Fortran, by Sam Hatfield
 
