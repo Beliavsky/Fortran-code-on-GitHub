@@ -1871,6 +1871,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [friction](https://github.com/jchristopherson/friction): routines for calculating the frictional response of contacting bodies, using the Coulomb, Lu-Gre, Maxwell, Generalized Maxwell Slip, Stribeck, and Modified Stribeck models, by Jason Christopherson
 
+[leparagliding](https://github.com/looooo/leparagliding): paragliding design software, by lorenz
+
 [Generator's high-current bus ducts](https://github.com/sarajcev/generator-bus-duct): computation of current distributions, power losses, and magnetic fields of the high-current, shielded generator bus ducts, by Petar Sarajcev
 
 [minimal-dx](https://github.com/dmey/minimal-dx): library for simulating the performance of single air-cooled cooling and heating direct expansion (DX) coils -- i.e. a model for a very simple air-to-air air conditioner (AC) and heat pump (HP). MinimalDX is based on [EnergyPlus](https://energyplus.net/)'s Single-Speed Electric DX Air Cooling Coil and Single-Speed DX Heating Coil Standard Ratings models.
