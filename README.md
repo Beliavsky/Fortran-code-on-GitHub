@@ -4156,6 +4156,9 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [bandup](https://github.com/band-unfolding/bandup): Band Unfolding code for Plane-wave based calculations
 
+[BDD](https://github.com/schuurman-group/BDD): tools for the construction of vibronic coupling Hamiltonians using block diagonalisation diabatisation, by
+schuurman-group. Also [General Reference Configuration Interaction package (GRACI)](https://github.com/schuurman-group/graci), [chebytools](https://github.com/schuurman-group/chebytools) for spectrum simulation using Chebyshev order-domain autocorrelation functions, and [csf2det](https://github.com/schuurman-group/csf2det), a program to convert configuration interaction (CI) wavefunctions in configuration state function (CSF) to determinant basis.
+
 [beyond-rpa](https://github.com/modrzejewski/beyond-rpa): correlated, nonperturbative electronic structure calculations based on diagrammatic techniques: the random-phase approximation and related higher-level theories. An associated paper is [Random Phase Approximation Applied to Many-Body Noncovalent Systems](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00979), by Marcin Modrzejewski et al., Journal of Chemical Theory and Computation (2019).
 
 [cct3](https://github.com/piecuch-group/cct3): plugin to [PSI4](https://psicode.org/) capable of executing a number of closed- and open-shell coupled-cluster (CC) calculations with up to triply excited (T3) clusters, by J. Emiliano Deustua et al.
