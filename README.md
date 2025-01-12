@@ -1985,6 +1985,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [fmmap](https://github.com/PierUgit/fmmap): provides some of the features of the C posix or Windows memory mapped files under a simple and unique Fortran interface, by PierUgit. Two uses are allocating arrays that are potentially bigger the RAM+swap size, and which are backed in a temporary file (anonymous mapping), and opening existing files or creating new files, and mapping them to an array.
 
+[FORtran-based Binary-io Interface Toolkit (forbit)](https://github.com/koseiohara/forbit): Python class calling Fortran to read no-header binary files, by Kosei Ohara
+
 [fortdb](https://github.com/jpf-x/fortdb): Fortran Database (binary) file definition that allows easy reading and writing of datasets, with Fortran and Python interfaces, by jpf-x
 
 [FortranDirectAccess](https://github.com/koseiohara/FortranDirectAccess): module to read or write binary files, with NaN is detected before output and after input, by Kosei Ohara. Functions are available for scalar, 1D, 2D, and 3D variables that are single or double precision.
