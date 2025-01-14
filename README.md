@@ -1877,7 +1877,7 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [friction](https://github.com/jchristopherson/friction): routines for calculating the frictional response of contacting bodies, using the Coulomb, Lu-Gre, Maxwell, Generalized Maxwell Slip, Stribeck, and Modified Stribeck models, by Jason Christopherson
 
-[GGI_TLM](https://github.com/ggiemr/GGI_TLM): time-domain electromagnetic field simulation using the Transmission Line Modelling (TLM) method, by ggiemr, featuring frequency dependent material models, frequency dependent thin layer models, and multi-conductor cable model including shielded cable model with frequency dependent parameters plus frequency dependent lumped impedance models.
+[GGI_TLM](https://github.com/ggiemr/GGI_TLM): time-domain electromagnetic field simulation using the Transmission Line Modelling (TLM) method, by Chris Smartt and ggiemr, featuring frequency dependent material models, frequency dependent thin layer models, and multi-conductor cable model including shielded cable model with frequency dependent parameters plus frequency dependent lumped impedance models.
 
 [Generator's high-current bus ducts](https://github.com/sarajcev/generator-bus-duct): computation of current distributions, power losses, and magnetic fields of the high-current, shielded generator bus ducts, by Petar Sarajcev
 
