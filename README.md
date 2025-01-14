@@ -1,5 +1,6 @@
 ## Fortran code on GitHub -- also see [fortran-lang package index](https://fortran-lang.org/packages/)
 * [Art and Music](#art-and-music)
+* [Automatic Differentiation](#automatic-differentiation)
 * [Astronomy and Astrophysics](#astronomy-and-astrophysics)
 * [Benchmarks and Benchmarking](#benchmarks-and-benchmarking)
 * [Biology and Medicine](#biology-and-medicine)
@@ -329,6 +330,25 @@ spectroscopic data obtained with near-infrared spectrograph NIRSPEC, installed i
 
 [Yet Another Particle Simulation (YAPS)](https://github.com/Daniel-Harrington/YAPS): high-performance astrophysics simulation modeling black hole migration resulting from the merger of a large host galaxy with a smaller galaxy, by Daniel Harrington et al. The simulation uses CUDA acceleration and Fourier transforms to compute gravitational interactions between 100 million particles, including two supermassive black holes (SMBHs). 
 
+## Automatic Differentiation
+[AD_dnSVM](https://github.com/lauvergn/AD_dnSVM): Fortran Automatic Differentiation tool using forward mode for scalars (S), Vectors (V) and Matrices (M), by David Lauvergnat. It has no limit in terms of the number of independent variables (this number is defined at runtime) and can compute up to third derivatives.
+
+[adjac](https://github.com/pv/adjac): automatic differentiation for generating sparse Jacobians, using Fortran 95 and operator overloading, by Pauli Virtanen
+
+[Audito](https://github.com/Michel-Heinz/Audito): automatic differentiation tool for Fortran, by Michel V. Heinz. The mathematical operators have been overloaded to work with the newly defined types, which include not only the function value, but also the gradient, Hessian and Laplacian.
+
+[autodiff](https://github.com/sgeard/autodiff): automatic differentiation for up to 4th derivatives, by Simon Geard
+
+[Auto-Diff](https://github.com/zoziha/Auto-Diff): implementation in Modern Fortran of backward mode automatic differentiation, by zoziha
+
+[Dual Number Automatic Differentiation (DNAD)](https://github.com/joddlehod/dnad): update of code from Yu, W. and Blair, M.: "DNAD, a Simple Tool for Automatic Differentiation of Fortran Codes Using Dual Numbers," Computer Physics Communications, vol. 184, 2013, pp. 1446-1452, by oddlehod. Related project: [Fortran_DNAD](https://github.com/nickbrady/Fortran_DNAD)
+
+[fazang](https://github.com/yizhang-yiz/fazang): library for reverse-mode automatic differentiation, inspired by Stan/Math library, by Yi Zhang
+
+[forwarddiff](https://github.com/Nicholaswogan/forwarddiff): allows for the computation for derivatives, gradients and Jacobians of Fortran subroutines or functions using forward mode automatic differentiation (AD), by Nicholas Wogan, inspired by [DNAD](https://github.com/joddlehod/dnad) and [ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl)
+
+[m_ad](https://github.com/octoflar/m_ad): collection of matrix derivative tests for forward and reverse mode algorithmic differentiation, by R. Quast. Associated paper: Giles, M. (2008) [Collected matrix derivative results for forward and reverse mode algorithmic differentiation](https://link.springer.com/chapter/10.1007/978-3-540-68942-3_4), Advances in Automatic Differentiation pp 35–44
+
 ## Benchmarks and Benchmarking
 [Assessment of Programming Languages for Computational Numerical Dynamics](https://github.com/arturofburgos/Assessment-of-Programming-Languages-for-Computational-Numerical-Dynamics): compares different programming languages performance in order to solve CFD and Heat Transfer problems, by arturofburgos
 
@@ -629,27 +649,13 @@ simulating and forecasting meteorological phenomena.
 [WRF](https://github.com/wrf-model/WRF): Weather Research and Forecasting (WRF) model
 
 ## Code Tools
-[AD_dnSVM](https://github.com/lauvergn/AD_dnSVM): Fortran Automatic Differentiation tool using forward mode for scalars (S), Vectors (V) and Matrices (M), by David Lauvergnat. It has no limit in terms of the number of independent variables (this number is defined at runtime) and can compute up to third derivatives.
-
-[adjac](https://github.com/pv/adjac): automatic differentiation for generating sparse Jacobians, using Fortran 95 and operator overloading, by Pauli Virtanen
-
-[Audito](https://github.com/Michel-Heinz/Audito): automatic differentiation tool for Fortran, by Michel V. Heinz. The mathematical operators have been overloaded to work with the newly defined types, which include not only the function value, but also the gradient, Hessian and Laplacian.
-
-[autodiff](https://github.com/sgeard/autodiff): automatic differentiation for up to 4th derivatives, by Simon Geard
-
-[Auto-Diff](https://github.com/zoziha/Auto-Diff): implementation in Modern Fortran of backward mode automatic differentiation, by zoziha
-
 [bench-cli](https://github.com/Lateralus138/bench-cli): cross-platform command line tool to benchmark commands and other executables/scripts in command lines written in Fortran, by Lateralus138. Very precise and fast.
-
-[Dual Number Automatic Differentiation (DNAD)](https://github.com/joddlehod/dnad): update of code from Yu, W. and Blair, M.: "DNAD, a Simple Tool for Automatic Differentiation of Fortran Codes Using Dual Numbers," Computer Physics Communications, vol. 184, 2013, pp. 1446-1452, by oddlehod. Related project: [Fortran_DNAD](https://github.com/nickbrady/Fortran_DNAD)
 
 [exception_handling](https://github.com/tillackseb/exception_handling): tools for exception handling and tracing, by Sebastian Tillack
 
 [exceptions](https://github.com/arjenmarkus/exceptions): experiment with exceptions in Fortran via a simple preprocessing step, by Arjen Markus
 
 [f2f90](https://github.com/btrettel/f2f90): utility to convert FORTRAN 77 fixed source form to Fortran 90 free source form, by Michael Metcalf, Peter A. Rochford, and Ben Trettel
-
-[fazang](https://github.com/yizhang-yiz/fazang): library for reverse-mode automatic differentiation, inspired by Stan/Math library, by Yi Zhang
 
 [ffixed2free](https://github.com/MeteoSwiss/ffixed2free): converts FORTRAN fixed-format source code (FORTRAN 77 style) to free-format source code (Fortran 90 style), by Pirmin Kaufmann and Martin Schraner. Ffixed2free does not require the fixed-format code to be restricted to the FORTRAN 77 standard.
 
@@ -663,13 +669,9 @@ simulating and forecasting meteorological phenomena.
 
 [Fortran-RefCount](https://github.com/LadaF/Fortran-RefCount): simple reference counting for Fortran
 
-[forwarddiff](https://github.com/Nicholaswogan/forwarddiff): allows for the computation for derivatives, gradients and Jacobians of Fortran subroutines or functions using forward mode automatic differentiation (AD), by Nicholas Wogan, inspired by [DNAD](https://github.com/joddlehod/dnad) and [ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl)
-
 [fpm-search](https://github.com/urbanjost/fpm-search): finds information about registered fpm (Fortran Package Manager) packages, by urbanjost
 
 [libfde](https://github.com/Zorkator/libfde): Fortran Development Extensions (library), by Zorkator
-
-[m_ad](https://github.com/octoflar/m_ad): collection of matrix derivative tests for forward and reverse mode algorithmic differentiation, by R. Quast. Associated paper: Giles, M. (2008) [Collected matrix derivative results for forward and reverse mode algorithmic differentiation](https://link.springer.com/chapter/10.1007/978-3-540-68942-3_4), Advances in Automatic Differentiation pp 35–44
 
 [prep](https://github.com/urbanjost/prep): streamlined pre-processor primarily designed for use with Fortran, by urbanjost. It does not support procedural macros but does support variable substitution and reusable free-format text blocks which allows for basic templating as well as easy construction of multi-line CHARACTER variables; and is quite capable of supporting traditional conditional compilation.
 
