@@ -343,6 +343,8 @@ spectroscopic data obtained with near-infrared spectrograph NIRSPEC, installed i
 
 [Dual Number Automatic Differentiation (DNAD)](https://github.com/joddlehod/dnad): update of code from Yu, W. and Blair, M.: "DNAD, a Simple Tool for Automatic Differentiation of Fortran Codes Using Dual Numbers," Computer Physics Communications, vol. 184, 2013, pp. 1446-1452, by oddlehod. Related project: [Fortran_DNAD](https://github.com/nickbrady/Fortran_DNAD)
 
+[Dual Numbers for Arbitrary Order Automatic Differentiation (DNAOAD)](https://github.com/fpenunuri/DNAOAD): implementation of automatic differentiation capable of handling derivatives of arbitrary order using dual numbers, by F. Peñuñuri et al. This implementation employs a direct approach to represent dual numbers without relying on recursive or nested structures, with associated preprint [here](https://arxiv.org/abs/2501.04159).
+
 [fazang](https://github.com/yizhang-yiz/fazang): library for reverse-mode automatic differentiation, inspired by Stan/Math library, by Yi Zhang
 
 [forwarddiff](https://github.com/Nicholaswogan/forwarddiff): allows for the computation for derivatives, gradients and Jacobians of Fortran subroutines or functions using forward mode automatic differentiation (AD), by Nicholas Wogan, inspired by [DNAD](https://github.com/joddlehod/dnad) and [ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl)
