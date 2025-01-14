@@ -170,10 +170,11 @@
 
 [HMcode](https://github.com/alexander-mead/HMcode): augmented halo model for accurate non-linear matter power spectrum calculations, by Alexander Mead and Tilman Troester.
 
+[HORMONE](https://github.com/ryosuke-hirai/HORMONE): 3D grid-based Godunov-type magnetohydrodynamics code that uses the HLLD approximate Riemann solver, by Ryosuke Hirai et al. The main feature is the "hyperbolic self-gravity" solver, which enhances the computational cost for Newtonian self-gravity simulations by a significant margin.
+
 [IMage COMbination (IMCOM)](https://github.com/barnabytprowe/imcom): software associated with [Optimal Linear Image Combination](https://iopscience.iop.org/article/10.1088/0004-637X/741/1/46), by Barnaby Rowe, Barnaby, Christopher and Jason Rhodes, The Astrophysical Journal, Volume 741, Issue 1, (2011).
 
-[img2nc](https://github.com/ShinobuAmasaki/img2nc): converts planetary Digital Elevation Model (DEM) data into NetCDF, allowing one to draw a topographic map of the Moon,
-by ShinobuAmasaki. 
+[img2nc](https://github.com/ShinobuAmasaki/img2nc): converts planetary Digital Elevation Model (DEM) data into NetCDF, allowing one to draw a topographic map of the Moon, by ShinobuAmasaki. 
 
 [International Radiation Belt Environment Modeling (IRBEM) library](https://github.com/PRBEM/IRBEM): routines to compute magnetic coordinates for any location in the Earth's magnetic field, to perform coordinate conversions, to evaluate geophysics/space-physics models, and to propagate orbits in time.
 
