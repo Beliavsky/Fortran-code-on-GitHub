@@ -3710,7 +3710,7 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Particle-In-Cell Scalable Application Resource (PICSAR)](https://github.com/ECP-WarpX/picsar): high performance repository intended to help scientists porting their Particle-In-Cell (PIC) codes to the next generation of exascale computers. PICSAR exploits the three levels of parallelism that will be required to achieve good performances on future architectures: distributed memory parallelization (internode), shared memory parallelization (intranode) and vectorization.
 
-[ParallelProgrammingWithOpenACC](https://github.com/rmfarber/ParallelProgrammingWithOpenACC): example codes in C, C++, and Fortran from the book [Parallel Programming With OpenACC](https://shop.elsevier.com/books/parallel-programming-with-openacc/farber/978-0-12-410397-9), (2016), by Rob Farber
+[ParallelProgrammingWithOpenACC](https://github.com/rmfarber/ParallelProgrammingWithOpenACC): example codes in C, C++, and Fortran from the book [Parallel Programming With OpenACC](https://shop.elsevier.com/books/parallel-programming-with-openacc/farber/978-0-12-410397-9) (2016), by Rob Farber
 
 [PM-Programming-Language](https://github.com/TimBellerby/PM-Programming-Language): The PM Programming Language, implemented in Fortran 95 by Tim Bellerby, is designed to facilitate the creation of numerical models on parallel systems. It combines concepts of parallelisation and vectorisation into a unified model.
 
