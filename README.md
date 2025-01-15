@@ -3525,6 +3525,8 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [nonlin](https://github.com/jchristopherson/nonlin): solves systems of nonlinear equations, by jchristopherson
 
+[nonlinear-optimization-algorithms-multilang](https://github.com/rgolubtsov/nonlinear-optimization-algorithms-multilang): unconstrained minimization algorithms (Hooke-Jeeves and Nelder Mead) in Fortran and other languages, by Radislav Golubtsov
+
 [Open source Fortran Simulated Annealing Module (OpenFSAM)](https://github.com/nfherrin/OpenFSAM): module that can be generally assigned to solve a simulated annealing optimization problem, by Nicholas Herring. A user can easily add this module to any existing modern Fortran program since the module is self contained and sufficiently abstracted.
 
 [OptimusPrime](https://github.com/RWatson54/OptimusPrime): population-based optimisation schema, with modules for Evolutionary Strategy optimisation, genetic algorithm optimisation, and simulated annealing, by Rob Watson
