@@ -448,6 +448,8 @@ Luis Harvey Triana Vega
 [CAMI-Gz-Effects-Model-CGEM-](https://github.com/AAM-631/CAMI-Gz-Effects-Model-CGEM-): resource flow-based model of symptom induction and recovery from Gz accelerations in aeronauts. Associated report: [Cerebral Blood Flow Based Computer
 Modeling of Gz-Induced Effects](https://pubmed.ncbi.nlm.nih.gov/37069756/), by Kyle Copeland and James E. Whinnery, Civil Aerospace Medical Institute (CAMI) (2023)
 
+[Charge_inversion_and_nanoscales_of_human_cells](https://github.com/Mtanaka77/Charge_inversion_and_nanoscales_of_human_cells): studies giant charge inversion and/or nanoscale phenomena for living cells and does molecular dynamics simulations. An associated paper is [DNA in Nanopores: Counterion Condensation and Coion Depletion](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.94.148103), by Yitzhak Rabin and Motohiko Tanaka, Physical Review Letters (2005).
+
 [Chromatin_Code](https://github.com/achalmahajan1/Chromatin_Code): simulates the genome organization at a resolution of ~100 kbp, along with phase separation of active and silent regions of the genome using first principles. Associated paper: [Euchromatin Activity Enhances Segregation and Compaction of Heterochromatin in the Cell Nucleus](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.041033), by Achal Mahajan et al., Phys. Rev. X (2022)
 
 [COVID-testbias](https://github.com/dkhaz/COVID-testbias): Understanding the Bias between the Number of Confirmed Cases and Actual Number of Infections in the COVID-19 Pandemic, by dkhaz and xingangchen
