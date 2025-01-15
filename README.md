@@ -178,6 +178,8 @@
 
 [International Radiation Belt Environment Modeling (IRBEM) library](https://github.com/PRBEM/IRBEM): routines to compute magnetic coordinates for any location in the Earth's magnetic field, to perform coordinate conversions, to evaluate geophysics/space-physics models, and to propagate orbits in time.
 
+[iso](https://github.com/aarondotter/iso): transforms MESA history files into a uniform basis for interpolation and then constructs new stellar evolution tracks and isochrones from that basis. An associated paper is [MESA Isochrones and Stellar Tracks (MIST) 0: Methods for the Construction of Stellar Isochrones](https://iopscience.iop.org/article/10.3847/0067-0049/222/1/8), by Aaron Dotter, The Astrophysical Journal Supplement Series (2016).
+
 [JSPAM](https://github.com/jfwallin/JSPAM): software for simulating interacting galaxies using a restricted three-body approximation, in Fortran, Java, JavaScript, and Python, by aholinch and John Wallin
 
 [Just Another Vehicle for Estimating Lags In Nuclei (JAVELIN)](https://github.com/nye17/javelin): version of the SPEAR algorithm written in Python to provide more flexibility in both functionality and visualization. One can use JAVELIN to model quasar variability using different covariance functions (Zu et al. 2013), and measure emission line lags using either spectroscopic light cruves (Zu et al. 2011) or photometric light curves (Zu et al. 2016).
