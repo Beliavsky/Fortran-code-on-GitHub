@@ -2172,6 +2172,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [Computational_Techniques](https://github.com/jaqg/Computational_Techniques): Computational Techniques and Numerical Calculations course of the Erasmus Mundus [Theoretical Chemistry and Computational Modelling Master's program](https://www.emtccm.org/). Part 1 introduces Fortran, and later parts discuss numerical methods.
 
+[Computing-science-with-Fortran](https://github.com/RUMONMD89/Computing-science-with-Fortran): set of Jupyter notebooks that teach Fortran through a 3D simulation of heat conduction in a box, using [ParaView](https://www.paraview.org/download/) for visualization, by RUMONMD89
+
 [compute-course-public](https://github.com/jonaslindemann/compute-course-public): course material for the [COMPUTE course - Scientific Program in Python and Fortran](https://www.compute.lu.se/courses/upcoming-courses/course/article/scientific-computing-with-python-and-fortran/) by Jonas Lindemann
 
 [ex-f90ish](https://github.com/richmit/ex-f90ish): small programs illustrating some of features of modern Fortran from the perspective of a FORTRAN 77 programmer, by Mitch Richling. His [tutorial](https://www.mitchr.me/SS/exampleCode/Fortran.html) has links to these codes.
