@@ -2668,6 +2668,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fsys](https://github.com/yymmt742/fsys): wrapper module for system control, with procedures `isatty`, `sleep`, and `winsize`, by yymmt742
 
+[Fortran_Julia_HPC](https://github.com/mbzadegan/Fortran_Julia_HPC): demo of high performance computing by linking Fortran and Julia with multithreading, by Mohamad Badiezadegan
+
 [hwinfo-fortran](https://github.com/ShinobuAmasaki/hwinfo-fortran): provides access to hardware information using OS APIs for Unix-like operating systems, by Shinobu Amasaki
 
 [interfacing_fortran_from_python](https://github.com/ofmla/interfacing_fortran_from_python): training course -- interfacing Fortran and Python: using cffi, ctypes and Cython, by Oscar Mojica. It focuses on the explicit C interface route, that is, coding explicit C interface in Fortran and calling that with Python libraries.
