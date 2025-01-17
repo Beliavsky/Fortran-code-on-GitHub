@@ -106,6 +106,8 @@
 
 [Complete History of Interaction-Powered Supernovae (CHIPS)](https://github.com/DTsuna/CHIPS): simulates the circumstellar matter and light curves of interaction-powered transients, by DTsuna et al. Coupling the MESA stellar evolution code and codes implemented by the authors, the user can obtain the circumstellar matter profile and light curves of the interaction-powered supernovae.
 
+[ConFlow: Convective Flow Generator](https://github.com/predsci/ConFlow): computes a sequence of velocity maps for supergranule flows on the surface of the Sun, by R. M. Caplan and Raphael Attie. Such photospheric velocity fields are essential for developing and testing realistic flux transport models and the analysis techniques for observational data.
+
 [Cosmology Object Oriented Package (COOP)](https://github.com/zqhuang/COOP): Reference: [Observational effects of a running Planck mass](https://arxiv.org/abs/1511.02808), by Zhiqi Huang 
 
 [CosmoSIS](https://cosmosis.readthedocs.io/en/latest/): cosmological parameter estimation code, by joezuntz et al. It is a framework for structuring cosmological parameter estimation with a focus on flexibility, re-usability, debugging, verifiability, and code sharing in the form of calculation modules.
