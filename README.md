@@ -4044,6 +4044,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [molpop-cep](https://github.com/aasensio/molpop-cep): code for the exact solution of radiative transfer problems in multi-level atomic systems, by Andrés Asensio Ramos. The novel contribution of the code is that the radiative transfer equations is analytically integrated so that the final problem is reduced to the solution of a non- linear algebraic system of equations in the level populations.
 
+[Monte-Carlo-Mixtures-of-Ellipsoids-Spherocylinders-Cylinders](https://github.com/LESC-Unicamp/Monte-Carlo-Mixtures-of-Ellipsoids-Spherocylinders-Cylinders): NVT/NPT-Monte Carlo algorithm designed to evaluate the thermodynamic behavior of mixtures of some hard convex bodies: ellipsoids of revolution, spherocylinders, and cylinders, by Nathan Barros de Souza and Luís Fernando Mercier Franco
+
 [MP_tools](https://github.com/jkulda/MP_tools): fast generation of elastic and inelastic neutron and X-ray diffuse scattering intensity maps by non-uniform FFT, by Jiri Kulda
 
 [NDO](https://github.com/Shaojun-Dong/NDO): code by Shaojun Dong to make computing Neural Density Operators (NDO) for quantum tomography straightforward, simple and fast
