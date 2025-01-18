@@ -3865,6 +3865,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Flexible Optimized Coils Using Space curves (FOCUS)](https://github.com/PrincetonUniversity/FOCUS): nonlinear optimization code for designing 3D coils. Its sibling, FAMUS, can be use to design permanent magnets.
 
+[gacode](https://github.com/gafusion/gacode): collection of serial and HPC turbulence and transport codes, developed by the Theory Group at [General Atomics](https://www.ga.com/magnetic-fusion/) which researches magnetic fusion. An associated paper is [A high-accuracy Eulerian gyrokinetic solver for collisional plasmas](https://www.sciencedirect.com/science/article/abs/pii/S0021999116303400), by Jeff Candy et al., Journal of Computational Physics (2016).
+
 [gkvp](https://github.com/GKV-developers/gkvp): Vlasov simulation code based on delta-f gyrokinetic equations in a local flux-tube geometry. The code has been developed for analyzing plasma turbulence in magnetized plasmas, such as magnetic fusion and magnetosphere.
 
 [Guiding-center ORbit Integration with Local Linearization Approach (GORILLA)](https://github.com/itpplasma/GORILLA): computes guiding-center orbits for charged particles of given mass, charge and energy in toroidal fusion devices with three-dimensional field geometry. This guiding-center orbit code is designed to be used in scientific plasma physics simulations in the field of magnetic confinement fusion.
