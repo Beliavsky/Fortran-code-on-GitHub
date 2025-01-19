@@ -3025,6 +3025,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 
 [Nonlinear MetaMaterial MPI Solver (NM^3)](https://github.com/wonnie87/NMCube): codes and example files used in paper, "High-Performance Large-Scale Simulation of Multi-stable Metastructures", by M. Hwang, C. Scalo, and A. F. Arrieta, to be published.
 
+[OrganicSolarCellModel](https://github.com/zhouych87/OrganicSolarCellModel): code associated with the paper [Towards predicting the power conversion efficiencies of organic solar cells from donor and acceptor molecule structures](https://pubs.rsc.org/en/content/articlelanding/2014/TC/C7TC05290A), by Yecheng Zhou et al., Journal of Materials Chemistry C (2018)
+
 [Polymer Self-Consistent Field Theory (PSCF)](https://github.com/dmorse/pscf): numerically solves the polymer self-consistent field theory (SCFT) for spatially periodic structures formed by block copolymer melts and mixtures of block copolymers with linear homopolymers and/or small molecule solvents, by David Morse et al.
 
 [pseudoRandom Approach For Finding Local Energetic minima (RAFFLE)](https://github.com/ExeQuantCode/RAFFLE): package for structural prediction applied to material interfaces, associated with the paper [Predicting Phase Stability at Interfaces](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.066201), by J. Pitfield et al., Physical Review Letters (2024)
