@@ -1437,6 +1437,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [Foam-emissivity-model](https://github.com/1998XIEY/Foam-emissivity-model): estimates the emissivity of sea foam at the microwave frequencies using a two-stream approximation radiative transfer model, associated with the paper [Physically Based Simulations of Foam-Covered Ocean Emission at Microwave Frequencies](https://ieeexplore.ieee.org/abstract/document/10770237), by Yuchen Xie et al., IEEE Transactions on Geoscience and Remote Sensing (2024)
 
+[ForestVegetationSimulator (FVS)](https://github.com/USDAForestService/ForestVegetationSimulator): family of individual-tree, distance-independent, forest growth simulation models, from the [USDA Forest Service](https://www.fs.usda.gov/). It can simulate a wide range of silvicultural treatments for most major forest tree species, forest types, and stand conditions.
+
 [ForRF](https://github.com/xumi1993/ForRF): time iterative deconvolution of receiver functions, by Mijian Xu, obtaining results close to [Seispy](https://github.com/xumi1993/seispy)
 
 [fortrangis](https://github.com/ARPA-SIMC/fortrangis): collection of Fortran interfaces to some common Open Source GIS (Geographic Information System) software libraries, plus some more Fortran-specific tools, from ARPA-SIMC. The libraries interfaced at the moment are Shapelib, GDAL, Proj and ReadOSM.
