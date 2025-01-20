@@ -4415,6 +4415,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 [Yet Another Many-Body cOde (YAMBO)](https://github.com/yambo-code/yambo): implements Many-Body Perturbation Theory (MBPT) methods (such as GW and BSE) and Time-Dependent Density Functional Theory (TDDFT), which allows for accurate prediction of fundamental properties as band gaps of semiconductors, band alignments, defect quasi-particle energies, optics and out-of-equilibrium properties of materials, by Davide Sangalli et al.
 
 ## Random Number Generation
+[dSFMT_F03_interface](https://github.com/jsspencer/dSFMT_F03_interface): interface by James Spencer to [dSFMT](https://github.com/MersenneTwister-Lab/dSFMT) (double precision SIMD-oriented Fast Mersenne Twister) pseudo-random number generator by Mutsuo Saito and Makoto Matsumoto
+
 [Knuth-FLRNG](https://github.com/marcoxa/Knuth-FLRNG): Fibonacci Lagged integer and double precision RNGs from Section 3.6 of Volume 2 of TAOCP (Semi-numerical Algorithms); slightly reformatted and changed by Marco Antoniotti from the versions downloadable from the [code section of TAOCP site](https://www-cs-faculty.stanford.edu/~knuth/programs.html#rng)
 
 [FortRAND](https://github.com/llamm-de/fortrand): lightweight random sampling library written in modern Fortran, by Lukas Lamm. It provides a simple interface to the build in Fortran pseudo-random number generator for the generation of uniformly distributed random numbers. In addition, it also provides algorithms for sampling numbers from various other distributions.
