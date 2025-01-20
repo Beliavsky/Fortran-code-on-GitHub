@@ -2233,6 +2233,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [Introduction to Modern Fortran](https://github.com/ARCHER2-HPC/archer2-fortran-intro): aimed at users and developers who know how to program, but have little or no experience in Fortran, and those who may wish to have a refresher in Fortran, by Kevin Stratford
 
+[j3-papers](https://github.com/j3-fortran/j3-papers): grep-friendly mirror of official INCITS/Fortran (J3) standards committee document repository. It has submitted papers and meeting notes. Also [Fortran Proposals](https://github.com/j3-fortran/fortran_proposals), proposals for the standards committee, [generics](https://github.com/j3-fortran/generics), a project to refine concepts for potential features in Fortran 202Y that supports generic programming, and [fpp-202y](https://github.com/j3-fortran/fpp-202y), work files for proposed Fortran 202y preprocessor standardization.
+
 [listings](https://github.com/modern-fortran/listings): code listings for [Modern Fortran: Building Efficient Parallel Applications](https://www.manning.com/books/modern-fortran), by Milan Curcic
 
 [man-pages-fortran](https://github.com/AstroFloyd/man-pages-fortran): Man pages for the Fortran language. The description of the Fortran language in these man pages has been taken from the GNU Fortran Compiler documentation, version 5.3.0. They contain elements that follow the Fortran standard, and elements that are GNU extentions.
