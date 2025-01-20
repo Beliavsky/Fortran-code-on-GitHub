@@ -3487,7 +3487,7 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [ForTimize](https://github.com/fedebenelli/ForTimize): aims to standarize the way to call optimization functions to ease the process of selecting algorithms to optimize problems, by Federico E. Benelli. The gradient descent and Nelder-Mead algorithms are implemented.
 
-[Fortran Differential Evolution (FDE)](https://github.com/jklebes/fDE): differential evolution and other parallel samplers, using the algorithm from the paper [Differential Evolution Markov Chain with snooker updater and fewer chains](https://link.springer.com/article/10.1007/s11222-008-9104-9), by Cajo J. F. ter Braak and Jasper A. Vrugt, Statistics and Computing (2008)
+[Fortran Differential Evolution (FDE)](https://github.com/jklebes/fDE): differential evolution and other parallel samplers, by Jason Klebes, using the algorithm from the paper [Differential Evolution Markov Chain with snooker updater and fewer chains](https://link.springer.com/article/10.1007/s11222-008-9104-9), by Cajo J. F. ter Braak and Jasper A. Vrugt, Statistics and Computing (2008)
 
 [Fortran-Grid-Search](https://github.com/JonBMay/Fortran-Grid-Search): simple serial grid search algorithm, by simple serial grid search algorithm
 
