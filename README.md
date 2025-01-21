@@ -1560,6 +1560,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [loam-chart](https://github.com/ysogg/loam-chart): takes in clay and sand percentage and determines soil type based on the soil texture triangle, by ysogg and abusch26. It is an application of the crossing number raycast algorithm.
 
+[LOFAR Lightning Imaging (LOFLI)](https://github.com/OlafScholten/LOFLI): LOw Frequency ARray (LOFAR) lightning imaging, by Olaf Scholten
+
 [Los Alamos TravelTime package based on Eikonal equation (LATTE)](https://github.com/lanl/latte_traveltime): package for traveltime computation, tomography and source location in 2D/3D isotropic acoustic/elastic media, by Kai Gao and Ting Chen
 
 [LTRANS_microplastics](https://github.com/lsuocean/LTRANS_microplastics): code associated with paper J.-H. Liang et al., [Including the Effects of Subsurface Currents on Buoyant Particles in Lagrangian Particle Tracking Models: Model Development and its Application to the Study of Riverborne Plastics over the Louisiana/Texas Shelf](https://www.sciencedirect.com/science/article/abs/pii/S1463500321001323). Ocean Modelling (2021).
