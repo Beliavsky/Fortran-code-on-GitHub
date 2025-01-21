@@ -3631,6 +3631,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [cafut](https://github.com/renatomatz/cafut): provides a simple, object-oriented unit testing framework meant for applications using Coarray Fortran, by Renato Zimmermann
 
+[cfdparschool](https://github.com/aroccon/cfdparschool): codes for the School on Computational Fluid Dynamics & SuperComputing, covering OpenACC, OpenMP, Coarrays & CUDA Fortran, by A. Roccon and G. Soligo. Also [cuExamples](https://github.com/aroccon/cuExamples), snippets of code that use CUDA Libraries in Fortran using openACC, with a 3D FFT of an 3D array in one shot, using cuSolverDN to solve a dense linear system, and use of cuSolverSP to solve a sparse linear system.
+
 [clfortran](https://github.com/cass-support/clfortran): Fortran interface to Khronos OpenCL API, from cass-support
 
 [Coarray Collectives](https://github.com/nncarlson/coarray-collectives): module aims to provide various collective parallel procedures for Fortran coarray programs, by Neil Carlson. These are in addition to the several intrinsic collectives introduced in Fortran 2018. Currently the module provides a single procedure, co_sum_scan which computes a prefix sum across all images, similar to MPI_Scan.
