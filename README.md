@@ -810,6 +810,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [molecular-tools](https://github.com/jcerezochem/molecular-tools): modules that undertake a number of basic molecular modelling / computational chemistry analysis and manipulations, such as structure file reading and writing (including pdb, gro, g96, xyz), and parsing output files from programs as Gaussian (fchk and log) and Molpro retrieving informations such as geometry, frequencies, normal modes, Hessian, Gradient, molecular orbital coefficients, etc., by Javier Cerezo
 
+[multimash](https://github.com/jruneson/multimash): Multi-state Mapping Approach to Surface Hopping, by jruneson
+
 [multiple-layered dynamics perturbation analysis (mdpa)](https://github.com/mingdengming/mdpa): calculates the regions where ligands tend to bind to a given protein structure, by Dengming Ming.
 
 [mstore](https://github.com/grimme-lab/mstore): molecular structure store for testing, from grimme-lab
