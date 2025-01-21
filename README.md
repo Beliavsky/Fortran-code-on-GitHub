@@ -1083,6 +1083,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [HIT36](https://github.com/aroccon/HIT36): pseudo-spectral code for Direct Numerical Simulation (DNS) of homogenous isotropic turbulence, by Alessio Roccon
 
+[Homogeneous Isotropic Turbulence in 3D (hit3d)](https://github.com/schumakov/hit3d): pseudo-spectral DNS code for simulation of homogeneous isotropic incompressible turbulence in three dimensional space, associated with the paper [Scaling properties of subgrid-scale energy dissipation](https://pubs.aip.org/aip/pof/article-abstract/19/5/058104/256754/Scaling-properties-of-subgrid-scale-energy), by Sergei G. Chumakov, <i>Physics of Fluids</i> (2007)
+
 [HORSES3D High-Order (DG) Spectral Element Solver](https://github.com/loganoz/horses3d): multiphysics environment where the compressible Navier-Stokes equations, the incompressible Navier–Stokes equations, the Cahn–Hilliard equation and entropy–stable variants are solved. Arbitrary high–order, p–anisotropic discretisations are used, including static and dynamic p–adaptation methods (feature-based and truncation error-based).
 
 [IMEXLB-1.0](https://github.com/lucaso19891019/IMEXLB-1.0): Lattice Boltzmann Method (LBM) proxy application code-suite for heterogeneous platforms (such as ThetaGPU). A ProxyApp, by definition, is a proxy for a full-fledged application code that simulates a wider array of problems.
