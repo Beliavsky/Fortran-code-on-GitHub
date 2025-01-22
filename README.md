@@ -4540,6 +4540,8 @@ universe-based geometry building, steady-state MC, OTF Doppler broadening, MC-ba
 ## Statistics
 [200+ R packages with Fortran code](https://github.com/cran?q=&type=&language=fortran&sort=): R is a free software environment for statistical computing and graphics
 
+[acepack](https://github.com/vubiostat/acepack): R package with Fortran code modified by Thomas Lumley and Shawn Garbett for two nonparametric methods for multiple regression transform selection -- Alternative Conditional Expectations (ACE), from the paper [Estimating Optimal Transformations for Multiple Regression and Correlation](https://www.tandfonline.com/doi/abs/10.1080/01621459.1985.10478157), by Leo Breiman & Jerome H. Friedman, and Additivity Variance Stabilization (AVAS), from the paper [Estimating Transformations for Regression via Additivity and Variance Stabilization](https://www.jstor.org/stable/2288855), by Robert Tibshirani
+
 [Adaptive Mixture ICA (AMICA) with shared components](https://github.com/japalmer29/amica): code associated with [paper](https://sccn.ucsd.edu/~jason/amica_a.pdf) "AMICA: An Adaptive Mixture of Independent Component Analyzers with Shared Components" Jason A. Palmer, Ken Kreutz-Delgado, and Scott Makeig
 
 [amber](https://github.com/octoflar/amber): evaluate multivariate Bernstein polynomials for multivariate polynomial regression using de Casteljau's algorithm, by R. Quast
