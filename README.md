@@ -4815,6 +4815,9 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [wavepack](https://github.com/zoziha/wavepack): computes the wavelet transform of a time series, and significance levels, by zoziha
 
+[x13binary](https://github.com/x13org/x13binary): R package with Fortran code for the X-13ARIMA-SEATS Seasonal Adjustment Program of the U.S. Census Bureau. Fits models in which the mean function of the time
+series (or its logs) is described by a linear combination of regressors, and the covariance structure of the series is that of an ARIMA process, with built-in regressors for directly estimating various flow and stock trading day effects and holiday effects.
+
 ## Unclassified
 [betti-decomposition](https://github.com/antonio-leitao/betti-decomposition): Betti Decomposition of simplicial complexes, by António Leitão
 
