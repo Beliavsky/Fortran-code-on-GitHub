@@ -3023,6 +3023,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 
 [General Tool for Electron Emission Calculations (GETELEC)](https://github.com/AndKyr/GETELEC): computational tool for calculating electron emission current and Nottingham effect heat for metallic emitters, associated with the paper [A general computational method for electron emission and thermal effects in field emitting nanotips](https://www.sciencedirect.com/science/article/abs/pii/S0927025616305523), by A. Kyritsakis and F. Djurabekova, Computational Materials Science (2017)
 
+[GLaMM_model](https://github.com/RichGraham/GLaMM_model): code associated with paper [Microscopic theory of linear, entangled polymer chains under rapid deformation including chain stretch and convective constraint release](https://pubs.aip.org/sor/jor/article-abstract/47/5/1171/239803/Microscopic-theory-of-linear-entangled-polymer), by Richard S. Graham et al., <i>Journal of Rheology</i> (2003)
+
 [GPMaterials](https://github.com/felipefr/gpmaterials): implements a rich set of finite element formulations for finite strain hyperelasticity, damage, multi-scale solid mechanics in both continuum and discrete level (truss-like network of fibres), by Felipe Figueredo Rocha
 
 [GraSPH](https://github.com/edoyango/GraSPH): Smoothed-particle Hydrodynamics (SPH) program originally intended for simulations of bulk granular material as well as fluids, by Edward Yang. Src_CAF contains code intended to run multi-core configuration enabled with the Coarray Fortran 2008 features, and src_GPU contains code intended to run on a CUDA-enabled GPU.
