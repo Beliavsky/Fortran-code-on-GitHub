@@ -591,6 +591,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [GVTD-X](https://github.com/tomonori-93/GVTD-X): implements numerical method to retrieve tangential and radial wind components in atmospheric vortices from single-Doppler radar observations, which is named from pronounciation of a abbreviation "GVTD-HeCs" (Generalized Velocity Track Display with the Helmholtz-decomposition-based Closure assumption). By Satoki Tsujino.
 
+[gwgen_f90](https://github.com/ARVE-Research/gwgen_f90): globally applicable weather generator, associated with the paper [A globally calibrated scheme for generating daily meteorology from monthly statistics: Global-WGEN (GWGEN) v1.0](https://gmd.copernicus.org/articles/10/3771/2017/), by Philipp S. Sommer and Jed O. Kaplan, <i>Geoscientific Model Development</i> (2017)
+
 [Hail Trajectory Clustering](https://github.com/adams-selin/trajectory_clustering): groups three-dimensional hail trajectories into similar clusters. Associated with paper Adams-Selin, R., 2023: A three-dimensional trajectory clustering technique. Monthly Weather Review
 
 [High-resolution Intermediate Complexity Atmospheric Research model (HICAR)](https://github.com/HICAR-Model/HICAR): variant of the Intermediate Complexity Atmospheric Research (ICAR) model developed for sub-kilometer resolutions. Associated preprint: Reynolds, D. S., et al., [The High-resolution Intermediate Complexity Atmospheric Research (HICAR v1.0) Model Enables Fast Dynamic Downscaling to the Hectometer Scale](https://gmd.copernicus.org/preprints/gmd-2023-16/gmd-2023-16.pdf), Geosci. Model Dev. (2023) in review
