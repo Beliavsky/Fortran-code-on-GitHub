@@ -312,6 +312,8 @@
 
 [SWMF](https://github.com/SWMFsoftware/SWMF): Space Weather Modeling Framework is a software framework that provides a common operating environment for the various modeling components included. Each of the components models particular aspects of space weather (sun, heliosphere, magnetosphere, etc) and the various commands allow you to control how those models run and interact with each other.
 
+[synow](https://github.com/eabaron/synow): embodiment of the [Elementary Supernova Framework](https://www.physics.unlv.edu/~jeffery/astro/radtran/jerus.pdf) as developed by David Branch and David Jeffery, by Adam Fisher et al.
+
 [Toolkit for High-ORder Neutrino Radiation Hydrodynamics (thornado)](https://github.com/endeve/thornado): neutrino radiation-hydrodynamics code aiming to simulate core-collapse supernovae using discontinuous Galerkin methods, by Eirik Endeve et al.
 
 [Triple stellar evolution (TSE)](https://github.com/stegmaja/TSE): single stellar evolution and binary interactions are modelled in Python using the binary population synthesis Fortran code [MOBSE](https://mobse-webpage.netlify.app/). An associated paper is [Evolution of massive stellar triples and implications for compact object binary formation](https://academic.oup.com/mnras/article/516/1/1406/6680250), by Jakob Stegmann et al., Monthly Notices of the Royal Astronomical Society (2022).
