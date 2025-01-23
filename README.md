@@ -1632,6 +1632,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [nshmp-haz-fortran](https://github.com/usgs/nshmp-haz-fortran): code for the National Seismic Hazard Mapping Project, by Peter Powers et al.
 
+[polarstereo-latlon-convert-fortran](https://github.com/nsidc/polarstereo-latlon-convert-fortran): program that transforms I,J coordinates of an SSM/I grid cell to latitude and longitude coordinates and also provides the inverse functions, from the National Snow and Ice Data Center (NSIDC)
+
 [Ocean Assimilation Kit (OAK)](https://github.com/gher-ulg/OAK): module for high level input/output, matrix operations, n-dimensional interpolation of arbitrary curvilinear grid, reduced-rank analysis updates, and assimilation, by Alexander Barth et al.
 
 [OceanWave3D-Fortran90](https://github.com/apengsigkarup/OceanWave3D-Fortran90): efficient coastal engineering research tool used worldwide for simulation of nonlinear and dispersive free surface waves in varying bathymetries from very deep to shallow water. An associated paper is [Analysis of Efficient Preconditioned Defect Correction Methods for Nonlinear Water Waves](https://onlinelibrary.wiley.com/doi/abs/10.1002/fld.3873), by Allan Peter Engsig-Karup, International Journal of Numerical Methods in Fluids (2013).
