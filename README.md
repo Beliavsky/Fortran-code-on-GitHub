@@ -1638,6 +1638,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [OceanWave3D-Fortran90](https://github.com/apengsigkarup/OceanWave3D-Fortran90): efficient coastal engineering research tool used worldwide for simulation of nonlinear and dispersive free surface waves in varying bathymetries from very deep to shallow water. An associated paper is [Analysis of Efficient Preconditioned Defect Correction Methods for Nonlinear Water Waves](https://onlinelibrary.wiley.com/doi/abs/10.1002/fld.3873), by Allan Peter Engsig-Karup, International Journal of Numerical Methods in Fluids (2013).
 
+[ocotillo](https://github.com/cookhe/ocotillo): spectrally resolved post-processing radiative transfer code, by Wladimir Lyra and Harrison E. Cook
+
 [okada_wrapper](https://github.com/tbenthompson/okada_wrapper): MATLAB and Python wrappers by Ben Thompson for the Okada DC3D0 point source and the DC3D rectangular dislocation surface Fortran subroutines
 
 [omuse](https://github.com/omuse-geoscience/omuse): Oceanographic MUltipurpose Software Environment is a package to conduct numerical experiments in oceanography and other Earth sciences.
