@@ -4494,6 +4494,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 [xoshiro-fortran](https://github.com/DSCF-1224/xoshiro-fortran): implementation of xoshiro/xoroshiro in Fortran 2008, by DSCF-1224
 
 ## Reactor Physics
+[Fast reactor fuel behaviour code (FRED)](https://github.com/advanced-nuclear-systems/fred): uses the SUNDIALS library for numerical modelling of base irradiation of a fast reactor fuel pin, accounting for fuel and clad heat transfer, fuel and clad stress-strain conditions, fuel and clad thermal expansion and creep, fuel swelling and fission gas release, evolution of inner gas pressure and composition as well as evolution of fuel-clad gap conductance, by kmikityuk
+
 [Ground Source Cooled Reactor (GSCR)](https://github.com/lancekim/GSCR): code from Kim, Lance K., Rainer Jungwirth, Guido Renda, Erik Wolfart, and Giacomo G. M. Cojazzi. “Potential Signatures and the Means of Detecting a Hypothetical Ground Source Cooled Nuclear Reactor.” Science & Global Security 24, no. 2 (2016): 92–113.
 
 [iMC](https://github.com/KAIST-RPTL/IMC): Monte Carlo neutron transport code, currently under development in RP&T lab in KAIST. Some features are continuous and multigroup transport,
