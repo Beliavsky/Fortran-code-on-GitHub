@@ -1574,6 +1574,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [Los Alamos TravelTime package based on Eikonal equation (LATTE)](https://github.com/lanl/latte_traveltime): package for traveltime computation, tomography and source location in 2D/3D isotropic acoustic/elastic media, by Kai Gao and Ting Chen
 
+[LPJ-LMfire Dynamic Global Vegetation Model](https://github.com/ARVE-Research/LPJ-LMfire): code associated with paper [Increased fire activity under high atmospheric oxygen concentrations is compatible with the presence of forests](https://www.nature.com/articles/s41467-022-35081-z), by Rayanne Vitali et al., <i>Nature Communications</i> (2022).
+
 [LTRANS_microplastics](https://github.com/lsuocean/LTRANS_microplastics): code associated with paper J.-H. Liang et al., [Including the Effects of Subsurface Currents on Buoyant Particles in Lagrangian Particle Tracking Models: Model Development and its Application to the Study of Riverborne Plastics over the Louisiana/Texas Shelf](https://www.sciencedirect.com/science/article/abs/pii/S1463500321001323). Ocean Modelling (2021).
 
 [Luco-Apsel-Chen Generalized Reflection/Transmission coefficients Method (LAC-GRTM)](https://github.com/GKIAN/LAC-GRTM): synthetic seismogram calculation for a multi-layered half-space, by Tche Liu. An associated paper is [Implementation of efficient low-storage techniques for 3-D seismic simulation using the curved grid finite-difference method](https://academic.oup.com/gji/article/234/3/2214/7163215), by Wenqiang Wang et al., Geophysical Journal International (2023).
