@@ -1823,6 +1823,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [Topo](https://github.com/NCAR/Topo): NCAR global model topography generation software for unstructured grids
 
+[topotools](https://github.com/ARVE-Research/topotools): tools for calculating slope and other statistics and decimating very large global DEMs (Digital Elevation Models), by Leo Lai and Jed O. Kaplan
+
 [Town Energy Balance (TEB) model](https://github.com/TEB-model/teb): calculates the urban surface energy balance at neighborhood scale assuming a simplified canyon geometry. [Paper](https://joss.theoj.org/papers/10.21105/joss.02008): Meyer, D., Schoetter, R., Masson, V., Grimmond, S., 2020: Enhanced software and platform for the Town Energy Balance (TEB) model. Journal of Open Source Software, 5(50), 2008.
 
 [Tracmass](https://github.com/TRACMASS/Tracmass): Lagrangian trajectory code for ocean and atmospheric general circulation models, by Aitor Aldama and Kristofer Döös. The code makes it possible to estimate water paths, Lagrangian stream functions (barotropic, overturning, etc.), exchange times, etc.
