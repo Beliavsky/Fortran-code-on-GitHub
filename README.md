@@ -2778,6 +2778,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [NdSpline](https://github.com/Takayuki-Miyagi/NdSpline): multidimensional spline interpolation based on the B-spline method, by Takayuki Miyagi. For details, see G. D. Knott, [Interpolating cubic splines](https://www.springer.com/us/book/9781461270928), Springer 2000.
 
+[newspline](https://github.com/ARVE-Research/newspline): mean-preserving spline interpolation scheme for interpolating one-dimensional data series into smaller time step, with additional options to impose lower, upper and/or percentage limit to interpolated values, by Jed O. Kaplan and Leo Lai
+
 [PCHIP](https://github.com/jacobwilliams/PCHIP): piecewise cubic Hermite interpolation of data, by Jacob Williams. It features software to produce a monotone and "visually pleasing" interpolant to monotone data.
 
 [Piecewise Polynomial Reconstruction (PPR)](https://github.com/dengwirda/PPR): high-order accurate piecewise polynomial reconstruction library, by Darren Engwirda
