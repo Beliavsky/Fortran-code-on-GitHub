@@ -1580,7 +1580,9 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [LongWave Propagation Code (LWPC)](https://github.com/space-physics/LWPC): code to generate geographical maps of signal availability for coverage analysis, from the Space and Naval Warfare Systems Command. [SuperLWPC](https://github.com/lwpc-gui/SuperLWPC) is a graphical user interface of the code for investigating ionospheric D-region parameters, by Ahmed Ammar.
 
-[MAIZSIM](https://github.com/USDA-ARS-ACSL/MAIZSIM): mechanistic model of maize growth, development and yield, written in C++ (crop) and Fortran (soil). The model is interfaced with [2DSOIL](https://data.nal.usda.gov/dataset/2dsoil-version-03), a two dimensional simulator of soil water and heat movement, and solute transport. 
+[MAIZSIM](https://github.com/USDA-ARS-ACSL/MAIZSIM): mechanistic model of maize growth, development and yield, written in C++ (crop) and Fortran (soil). The model is interfaced with [2DSOIL](https://data.nal.usda.gov/dataset/2dsoil-version-03), a two dimensional simulator of soil water and heat movement, and solute transport.
+
+[makesoil](https://github.com/ARVE-Research/makesoil): usse [SoilGrids](https://soilgrids.org/) data and pedotransfer functions to create soil properties maps, from ARVE Research. An associated paper is [Modeling soil hydraulic properties for a wide range of soil conditions](https://www.sciencedirect.com/science/article/abs/pii/S0304380008003505), by Vincent Balland et al., <i>Ecological Modelling</i> (2008).
 
 [MANDIFORE_modeling](https://github.com/MortonArb-ForestEcology/MANDIFORE_modeling): Forestry x climate scenarios for NSF-funded MANDIFORE project, by Christy Rollinson and Lucien Fitzpatrick
 
