@@ -4122,6 +4122,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Physical optics propagation through synchrotron radiation beamlines (PHASE)](https://github.com/flechsig/phase): tool for the optical design of synchrotron radiation beamlines, by Uwe Flechsig. It is based on analytic expressions for nonlinear transformation of beam coordinates across optical elements. Documented [here](https://www.helmholtz-berlin.de/forschung/oe/wi/undulators/arbeitsgebiete/phase_en.html)
 
+[py_FS](https://github.com/TheoWeinberger/py_FS): Python script for plotting Fermi surfaces in .bxsf format, calling the Fortran code Supercell K-space Extremal Area Finder (SKEAF), by Patrick Rourke
+
 [PyHub](https://github.com/Quentin-Marecat/PyHub): easy-to-use, hybrid Python/Fortran package to solve efficiently the Fermi-Hubbard Model, by Quentin Marecat
 
 [qdyn](https://github.com/PHOTOX/qdyn): program for N-dimensional numerical quantum propagation on a grid, by Jiri Janos, Jiri Suchan, and Petr Slavicek
