@@ -565,6 +565,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [ExoRT](https://github.com/storyofthewolf/ExoRT): reasonably flexible two-stream radiative transfer code designed for use with 3D climate models, by Eric T. Wolf. In this software, contained are builds for a 1-D offline version, and for directly interfacing with CESM/CAM4.
 
+[firedanger](https://github.com/ARVE-Research/firedanger): convert monthly meteorology into daily estimates of weather and fire danger, by Leo Lai
+
 [FMS](https://github.com/NOAA-GFDL/FMS): Flexible Modeling System (FMS), from NOAA-GFDL, is a software environment that supports the efficient development, construction, execution, and scientific interpretation of atmospheric, oceanic, and climate system models
 
 [fst-tools](https://github.com/ECCC-ASTD-MRD/fst-tools): tools to manipulate [RPN standard files](https://web.unbc.ca/~funnel0/fst2grib/resources/fstd.pdf), from Meteorological Research Informatics Services of Canada
