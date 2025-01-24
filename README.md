@@ -1314,7 +1314,7 @@ Environmental Modelling & Software (2022)
 
 [Bergen Layered Ocean Model (BLOM)](https://github.com/NorESMhub/BLOM): ocean component of the Norwegian Earth System Model. Includes the ocean biogeochemistry model iHAMOCC.
 
-[BIOME4](https://github.com/jedokaplan/BIOME4): equilibrium global vegetation model associated with paper [Climate change and Arctic ecosystems: 2. Modeling, paleodata-model comparisons, and future projections](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2002JD002559), by Jed O. Kaplan et al., <i>Journal of Geophysical Research-Atmospheres</i>(2003)
+[BIOME4](https://github.com/jedokaplan/BIOME4): equilibrium global vegetation model associated with paper [Climate change and Arctic ecosystems: 2. Modeling, paleodata-model comparisons, and future projections](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2002JD002559), by Jed O. Kaplan et al., <i>Journal of Geophysical Research-Atmospheres</i> (2003)
 
 [Biome Ecological strategy simulator (BiomeESS)](https://github.com/wengensheng/BiomeESS): model in which vegetation is represented as plant functional types sampled from high dimensional spaces of combined plant traits that can consistently coexist in plant individuals. Reference: Weng, E., Dybzinski, R., Farrior, C. E., and Pacala, S. W.: "Competition alters predicted forest carbon cycle responses to nitrogen availability and elevated CO2: simulations using an explicitly competitive, game-theoretic vegetation demographic model", Biogeosciences, 16, 4577–4599, https://doi.org/10.5194/bg-16-4577-2019, 2019.
 
