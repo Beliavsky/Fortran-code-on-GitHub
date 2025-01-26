@@ -3712,6 +3712,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [forthread](https://github.com/jordan4ibanez/forthread): threading library with a simple binding to POSIX pthread, by jordan4ibanez. It comes with a thread pool/dispatcher, a concurrent FILO linked queue, and a concurrent FILO array queue.
 
+[fortran-cuda-interfaces](https://github.com/SourceryTools/fortran-cuda-interfaces): interfaces to CUDA libraries for GCC/OpenACC, from Mentor/Siemens. Modules include cublas, cublas_v2, cublasxt, openacc_cublas, cufft.
+
 [FortranOpenACC](https://github.com/Niceno/FortranOpenACC): combine Fortran with [OpenACC](https://www.openacc.org/), by Bojan Niceno, implementing a sparse-matrix vector product, vector-vector dot product, and diagonally preconditioned conjugate gradient
 
 [Fortran Coarray and MPI Examples](https://github.com/scivision/fortran-coarray-mpi-examples) from scivision
