@@ -854,6 +854,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [rate](https://github.com/acooksy/rate): code for fitting and predicting chemical kinetic data, by Andrew L. Cooksy
 
+[Reference Interaction-Site Model integrated Calculator (RISMiCal)](https://github.com/rismical-dev/rismical): code associated with paper [The Reference Interaction Site Model Integrated Calculator (RISMiCal) program package for nano- and biomaterials design](https://iopscience.iop.org/article/10.1088/1757-899X/773/1/012062), by N. Yoshida, <i>IOP Conf. Series: Materials Science and Engineerging</i> (2020)
+
 [SPECIAL_BLEND](https://github.com/akira-harada/SPECIAL_BLEND): Supernova Parameter Estimation Code based on Insight on Analytic Late-time Burst Light-curve at Earth Neutrino Detector, by Akira Harada
 
 [string-amber](https://github.com/kzinovjev/string-amber): adaptive string method implementation in [sander](https://ambermd.org/AmberTools.php) (AmberTools 22.3). Associated paper: [Adaptive Finite Temperature String Method in Collective Variables](https://pubs.acs.org/doi/10.1021/acs.jpca.7b10842), by Kirill Zinovjev and Iñaki Tuñón, J. Phys. Chem. A 2017, 121, 51, 9764–9772 (2017).
