@@ -2314,6 +2314,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [fortran-fun](https://github.com/interkosmos/fortran-fun): collection of text-based computer games and other small programs, by interkosmos
 
+[Fortran_Meets_SDL](https://github.com/FrederikTobner/Fortran_Meets_SDL): Space Invaders using [SDL3](https://wiki.libsdl.org/SDL3/FrontPage), by Frederik Tobner
+
 [fortran-raylib](https://github.com/interkosmos/fortran-raylib): interface bindings to raylib 4.5, for 2-D and 3-D game programming, by interkosmos
 
 [fortran-snake](https://github.com/grofz/fortran-snake): classic "snake" game with several computer-controlled snakes, using [raylib](https://github.com/raysan5/raylib) for graphics, by grofz
