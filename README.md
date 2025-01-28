@@ -3730,7 +3730,7 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [GPU programming with OpenMP offloading](https://github.com/csc-training/openmp-offload): exercises and other material for [course](https://events.prace-ri.eu/event/1273/), by Jussi Enkovaara et al.
 
-[gpu-programming](https://github.com/ENCCS/gpu-programming): meta-GPU lesson covering general aspects of GPU programming as well as specific frameworks, from ENCCS. Some languages used are Fortran, C++, C, Python, and Julia.
+[gpu-programming](https://github.com/ENCCS/gpu-programming): meta-GPU lesson covering general aspects of GPU programming as well as specific frameworks, from ENCCS. Some languages used are Fortran, C++, C, Python, and Julia. Also [OpenMP for GPU offloading](https://github.com/ENCCS/openmp-gpu), materials for a [workshop](https://enccs.github.io/openmp-gpu/).
 
 [gpu-tips](https://github.com/dappelha/gpu-tips): Fortran examples of CUDA and directives tips and tricks for IBM Power + Nvidia Systems, by dappelha
 
