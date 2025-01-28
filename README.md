@@ -3712,6 +3712,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [focal](https://github.com/LKedward/focal): modern Fortran abstraction layer for OpenCL, by Laurence Kedward
 
+[fomp](https://github.com/floresab/fomp): Introduction to OMP target offload in Fortran, by Abraham R. Flores. 
+
 [forthread](https://github.com/jordan4ibanez/forthread): threading library with a simple binding to POSIX pthread, by jordan4ibanez. It comes with a thread pool/dispatcher, a concurrent FILO linked queue, and a concurrent FILO array queue.
 
 [fortran-cuda-interfaces](https://github.com/SourceryTools/fortran-cuda-interfaces): interfaces to CUDA libraries for GCC/OpenACC, from Mentor/Siemens. Modules include cublas, cublas_v2, cublasxt, openacc_cublas, cufft.
