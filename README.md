@@ -1911,6 +1911,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 ## Engineering
 [2D-Fortran-code-of-dam-break-using-SPH](https://github.com/jahid-buet/2D-Fortran-code-of-dam-break-using-SPH): by jahid-buet
 
+[Baseline-Lidar-assisted-Controller](https://github.com/MSCA-LIKE/Baseline-Lidar-assisted-Controller): codes of baseline lidar-assisted controllers (LAC) for bottom fixed and floating turbines, with Matlab sample codes to perform OpenFAST simulation with LAC, associated with paper [Evaluation of lidar-assisted wind turbine control under various turbulence characteristics](https://wes.copernicus.org/articles/8/149/2023/), by Feng Guo et al., <i>Wind Energy Science</i> (2023)
+
 [Bonneville Power Administration Interactive Power Flow and Transient Stability Program (bpa-ipf-tsp)](https://github.com/mbheinen/bpa-ipf-tsp): family of programs for doing power flow studies. IPF models the balanced steady-state operation of an electric power network.
 
 [BsaLib](https://github.com/miEsMar/BsaLib): library for the Bispectral Stochastic Analysis of structures under non-Gaussian stationary random actions. An associated paper is [Non-Gaussian buffeting analysis of large structures by means of a Proper Orthogonal Decomposition](https://www.sciencedirect.com/science/article/abs/pii/S0167610523002799), by M. Esposito Marzino and V. Denoël, Journal of Wind Engineering and Industrial Aerodynamics (2023).
