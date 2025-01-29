@@ -320,6 +320,8 @@
 
 [TRIPTYCH](https://github.com/pau-amaro-seoane/triptych): simulates the collision of two stars, including the orbital trajectories, merger, and evolution of the merger product, by Pau Amaro Seoane and James C. Lombardi Jr. The code therefore joins three branches of stellar astrophysics: dynamics, hydrodynamics and evolution.
 
+[Turbospectrum_NLTE](https://github.com/bertrandplez/Turbospectrum_NLTE): synthetic stellar spectra calculator in local/non-local thermodynamic equilibirum (LTE/NLTE), by Bertrand Plez et al.
+
 [tycho](https://github.com/aerhianna/tycho): hydrodynamics/evolution code and suite of analysis programs. An associated paper is [TYCHO: Stellar evolution code](2013), by D. Arnett
 
 [UCLCHEM](https://github.com/uclchem/UCLCHEM): gas-grain chemical code for Astrochemistry
