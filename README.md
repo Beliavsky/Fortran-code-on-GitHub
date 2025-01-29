@@ -1654,6 +1654,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [ocotillo](https://github.com/cookhe/ocotillo): spectrally resolved post-processing radiative transfer code, by Wladimir Lyra and Harrison E. Cook
 
+[Oil Spill Evaluation and Response Integrated Tool (OSERIT-drift)](https://github.com/naturalsciences/OSERIT-drift): Lagrangian tracking model to simulate drift at sea, from the Royal Belgian Institute of Natural Sciences. This version is able to simulate it with current, wind and waves.
+
 [okada_wrapper](https://github.com/tbenthompson/okada_wrapper): MATLAB and Python wrappers by Ben Thompson for the Okada DC3D0 point source and the DC3D rectangular dislocation surface Fortran subroutines
 
 [omuse](https://github.com/omuse-geoscience/omuse): Oceanographic MUltipurpose Software Environment is a package to conduct numerical experiments in oceanography and other Earth sciences.
