@@ -2640,6 +2640,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 ## Interoperability
 [Advanced Options and Tables in Universal Scripting (AOTUS)](https://github.com/haraldkl/aotus): wrapper around the C-API of the Lua scripting language, allowing a convenient usage of Lua scripts as configuration files in Fortran applications.
 
+[api_wrapper.c](https://github.com/ricardojacomini/api_wrapper.c): shows how to use a Fortran client with a C wrapper to interact with the Python Flask API, by Ricardo S. Jacomini
+
 [arrayfire-fortran](https://github.com/arrayfire/arrayfire-fortran): Fortran wrapper for ArrayFire, a general purpose GPU library.
 
 [arrow-fortran](https://github.com/ludnic/arrow-fortran): automatic bindings by Ludovico Nicotina and Vincent Magnin to the C API for the arrow project. [Arrow](https://arrow.apache.org/) is a language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware like CPUs and GPUs. 
