@@ -1232,6 +1232,8 @@ engine to allow installation on MacOS 11 with gfortran
 [Xoptfoil](https://github.com/montagdude/Xoptfoil): airfoil optimization code using the [Xfoil](https://web.mit.edu/drela/Public/web/xfoil/) aerodynamics
 engine, by montagdude and Geoff Sokoll
 
+[Xoptfoil2](https://github.com/jxjo/Xoptfoil2): optimizes an airfoil based on its aerodynamic characteristics, by Jochen Guenzel. It follows an approach to airfoil design that could be called 'design by polars' - in contrast to the classic design methods such as 'inverse design' or 'direct design'.
+
 [WABBIT](https://github.com/adaptive-cfd/WABBIT): Wavelet Adaptive Block-Based solver for Interactions with Turbulence, from adaptive-cfd
 
 ## Cryptography
