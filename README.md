@@ -3244,6 +3244,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [nerofort](https://github.com/rae-ra/nerofort): implements a convolutional neural network (CNN), by Rares Polenciuc, inspired by the instructions provided in [Python and Machine Learning](https://pythonandml.github.io/dlbook/content/intro.html)
 
+[NetsPredict](https://github.com/vidaurre/NetsPredict): Matlab code by Diego Vidaurre and Steve Smith calling Fortran code for elastic net with squared-error loss. It makes cross-validation predictions with elastic net, taking into account the structure of the data to organise the cross-validation folds (necessary e.g. when the data points are subjects and the subjects are family-related).
+
 [neural-fortran](https://github.com/modern-fortran/neural-fortran): parallel neural net microframework, from modern-fortran
 
 [Neural Network](https://github.com/anjohan/neuralnetwork): simple, fully connected, dense, deep neural network, implemented in modern Fortran and parallelised using coarrays, by anjohan
