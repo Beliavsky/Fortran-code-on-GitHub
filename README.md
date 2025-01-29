@@ -1226,6 +1226,9 @@ nscapin
 
 [uranos-gpu](https://github.com/uranos-gpu/uranos-gpu): code associated with paper [URANOS: A GPU accelerated Navier-Stokes solver for compressible wall-bounded flows](https://www.sciencedirect.com/science/article/pii/S0010465523000620?via%3Dihub), by Francesco De Vanna et al., Computer Physics Communications (2023)
 
+[Xfoil-for-Mac](https://github.com/nolankucd/Xfoil-for-Mac): tweaks by nolankucd of the [Xfoil](https://web.mit.edu/drela/Public/web/xfoil/) aerodynamics
+engine to allow installation on MacOS 11 with gfortran
+
 [Xoptfoil](https://github.com/montagdude/Xoptfoil): airfoil optimization code using the [Xfoil](https://web.mit.edu/drela/Public/web/xfoil/) aerodynamics
 engine, by montagdude and Geoff Sokoll
 
