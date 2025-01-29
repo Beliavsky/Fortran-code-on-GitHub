@@ -3134,6 +3134,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [meshf](https://github.com/ofgn/meshf): 2D Delaunay triangulation, by ofgn. Future plans include implementing Delaunay refinement, constrained Delaunay, 3D Delaunay, and structured mesh capabilities.
 
+[Model for Ocean-laNd-Atmosphere predictioN (MONAN-Model)](https://github.com/monanadmin/MONAN-Model): community model of the Unified Earth System that aims to be a numerical model that covers all scales, geographical and temporal, of the entire Earth system and its implications, by Denis Eiras et al.
+
 [MPI-AMRVAC](https://github.com/amrvac/amrvac): parallel adaptive mesh refinement framework aimed at solving (primarily hyperbolic) partial differential equations by a number of different numerical schemes. The emphasis is on (near) conservation laws and on shock-dominated problems in particular.
 
 [OpenMeshConverter](https://github.com/nfherrin/OpenMeshConverter): open source utility to convert various publicly available mesh formats, by Nicholas Herring. It takes a version 4 Gmsh file (tested with version 4.1) and converts it to the THOR mesh format, and there are plans to extend this converter to intake other versions of Gmsh and exodus.
