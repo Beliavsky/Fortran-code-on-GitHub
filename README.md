@@ -3409,7 +3409,9 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [Numerical methods in Fortran](https://github.com/planelles20/numerical-methods-fortran): solving linear, nonlinear equations, integral, ordinary differential equations, ... using numerical methods in Fortran, by Carlos Planelles Alemany 
 
-[Numerical methods in Fortran](https://github.com/mrtkp9993/Numerical-Methods-in-Fortran): numerical analysis and statistics algorithms, by Murat Koptur 
+[Numerical methods in Fortran](https://github.com/mrtkp9993/Numerical-Methods-in-Fortran): numerical analysis and statistics algorithms, by Murat Koptur
+
+[NVIDIA Performance Libraries Samples (NVPLSamples)](https://github.com/NVIDIA/NVPLSamples): collection of high performance mathematical libraries optimized for the NVIDIA Grace Armv9.0-A Neoverse-V2 architecture. These CPU-only libraries have no dependencies on CUDA or CTK, and are drop in replacements for standard C and Fortran mathematical APIs allowing HPC applications to achieve maximum performance on the Grace platform.
 
 [OEIS-Search-GCD-reduced](https://github.com/HugoPfoertner/OEIS-Search-GCD-reduced): extended search in the On-Line Encyclopedia of Integer Sequences (OEIS) with GCD reduction and data variants, by Hugo Pfoertner
 
