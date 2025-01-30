@@ -746,6 +746,8 @@ simulating and forecasting meteorological phenomena.
 
 [chemfiles.f03](https://github.com/chemfiles/chemfiles.f03): Fortran 2003 binding to the [chemfiles](https://github.com/chemfiles/chemfiles) library, by Guillaume Fraux et al.
 
+[Chemical Mechanism Integrator (Cminor)](https://github.com/rug-l/Cminor): package for the computational simulation of skeletal and detailed chemical kinetic systems derived from atmospheric and combustion chemistry, by Levin Rug and Willi Schimmel
+
 [Chemistry discovery engine (CDE)](https://github.com/ScottHabershon/cde): implements several different calculation types associated with chemical reaction-path analysis, by Joe Gilkes and Scott Habershon
 
 [chempotpy](https://github.com/shuyinan/chempotpy): Python library for analytic representation of single-state and multi-state potential energy surfaces and couplings that generates Fortran subroutines. An associated paper is [ChemPotPy: A Python Library for Analytic Representations of Potential Energy Surfaces and Diabatic Potential Energy Matrices](https://pubs.acs.org/doi/10.1021/acs.jpca.3c05899), by Yinan Shu et al., Journal of Physical Chemistry A (2023).
