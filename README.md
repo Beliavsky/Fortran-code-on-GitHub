@@ -2697,6 +2697,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fortran-cython-examples](https://github.com/Nicholaswogan/fortran-cython-examples): examples for how to wrap Fortran with Cython, by Nick Wogan
 
+[FortranDriver](https://github.com/ja72/FortranDriver): skeleton code for calling a Fortran DLL compiled with ifx from a C# driver program, by John Alexiou. There are procedures for linear algebra, random number generation, spline interpolation, and quaternions.
+
 [fortran-in-go](https://github.com/ryanrocket/fortran-in-go): shows how to compile Fortran code into a shared object with relative memory positioning (-fPIC) and allow Go to dynamically link it at compilation time, by Ryan Wans
 
 [fortran-in-python](https://github.com/HugoMVale/fortran-in-python): examples of how to build and call Fortran modules in Python using ctypes and f2py, by HugoMVale
