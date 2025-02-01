@@ -796,6 +796,9 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [GWMlib](https://github.com/dmr-dj/GWMlib): Generic Water isotope Modelling Library, by Didier M. Roche
 
+[Hess](https://github.com/Entroforce/Hess): platform for computational chemistry, providing functionality for empirical molecular docking, by Rafael Temirgaliev
+and Dmitry Pavlov. It uses BFGS for local optimization and two different forms of Monte Carlo method for global optimization. 
+
 [HFB](https://github.com/knappf/HFB): Hartree-Fock-Bogolyubov code for (hyper)nuclear structure calculations (version by P. Vesely)
 
 [hibridon](https://github.com/hibridon/hibridon): solves the close-coupled equations which occur in the quantum treatment of inelastic atomic and molecular collisions. Gas-phase scattering, photodissociation, collisions of atoms and/or molecules with flat surfaces, and bound states of weakly-bound complexes can be treated.
