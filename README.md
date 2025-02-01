@@ -997,6 +997,8 @@ and Dmitry Pavlov. It uses BFGS for local optimization and two different forms o
 
 [2DHydro](https://github.com/sudarshanphy/2DHydro): solve 2D Euler equations for simple systems and create videos of the simulations with Python, by Sudarshan Neopane. [Wave_2D_MPI_HDF5](https://github.com/sudarshanphy/Wave_2D_MPI_HDF5) solves the wave equation with a source term in 2D, using the finite difference method in parallel, with output written in hdf5 format.
 
+[4A2_CFD](https://github.com/fancliff/4A2_CFD): codes for a course in computational fluid dynamics, by Freddie Ancliff
+
 [adflow](https://github.com/mdolab/adflow): flow solver developed by the MDO Lab at the University of Michigan. It solves the compressible Euler, laminar Navier–Stokes and Reynolds-averaged Navier–Stokes equations using structured multi-block and overset meshes.
 
 [Advanced Finite Difference flow solver with Multiple Resolution and Phase-Field implementations (AFiD-MuRPhFi)](https://github.com/chowland/AFiD-MuRPhFi): highly parallel application for simulating canonical flows in a channel domain, by Chris Howland
