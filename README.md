@@ -284,6 +284,8 @@
 
 [Saturn-Mag-Model](https://github.com/NASA-Planetary-Science/Saturn-Mag-Model): Saturnian magnetospheric empirical magnetic field model derived from [Cassini magnetometer](https://science.nasa.gov/mission/cassini/spacecraft/cassini-orbiter/magnetometer/) data
 
+[semianalyticResonance](https://github.com/NicolasPan/semianalyticResonance): Python class by Nicolas Pan providing resonance information using semianalytic methods coded in Fortran and developed in the paper [Semianalytical model for planetary resonances. Application to planets around single and binary stars](https://www.aanda.org/articles/aa/pdf/2021/02/aa39764-20.pdf) by Tabaré Gallardo et al., <i>Astronomy & Astrophysics</i> (2021)
+
 [shark](https://github.com/ulebreui/shark): code associated with [Protostellar collapse simulations in spherical geometry with dust coagulation and fragmentation](https://academic.oup.com/mnras/article-abstract/518/3/3326/6815728) (2023), by Ugo Lebreuilly, Valentin Vallucci-Goy, Vincent Guillet, Maxime Lombart, and Pierre Marchand, Monthly Notices of the Royal Astronomical Society, Volume 518, Issue 3, Pages 3326–3343
 
 [SMERCURY-T](https://github.com/SMKreyche/SMERCURY-T): upgrade of the SMERCURY orbital integrator that includes modules to enable the solar tidal spin torque as well as the general relativistic force, by Steven M. Kreyche
