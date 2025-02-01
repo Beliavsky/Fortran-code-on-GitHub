@@ -2152,6 +2152,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [oo_hdf](https://github.com/rjgtorres/oo_hdf): object-oriented Fortran HDF5 module, by Ricardo Torres. This library aims to create a group of classes in Fortran to interact with HDF5.
 
+[parallelIO](https://github.com/larsbuntemeyer/parallelIO): environment to write NetCDF files in parallel and serial mode using NetCDF4 and MPI, by Lars Buntemeyer. The code is used testing different MPI strategies and parallel IP for the regional climate model [REMO](https://www.remo-rcm.de/).
+
 [plot3dtool](https://github.com/Adermr/plot3dtool): library providing uniform interfaces helping process files in PLOT3D format, by Zhenling Jia. PLOT3D is a standard file format in computational fluid dynamics used for storing grid and results data.
 
 [qfyaml](https://github.com/yantosca/qfyaml): quick Fortran YAML parser, by Bob Yantosca
