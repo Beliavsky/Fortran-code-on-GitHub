@@ -1290,6 +1290,8 @@ engine, by montagdude and Geoff Sokoll
 
 [fortran-datetime](https://github.com/tkdhss111/fortran-datetime): functions for dates and times focused on speed, by Hisashi Takeda
 
+[inctime](https://github.com/GAD-DIMNT-CPTEC/inctime): routines to calculate dates in the past or future relative to a date, calculate the Julian day, and calculate the number of years, months, days and hours between any two dates, by João Gerd Zell de Mattos
+
 [m_time](https://github.com/urbanjost/M_time): displays dates in a variety of formats and performs basic date and time computation, by urbanjost
 
 [time-f](https://github.com/0382/time-f): wraps time.h of the C standard library, by 0382
