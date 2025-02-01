@@ -3656,6 +3656,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [PyDQED](https://github.com/ReactionMechanismGenerator/PyDQED): Python wrapper for the DQED Fortran code that solves bounded and constrained least squares and nonlinear equations, by Richard Hanson and Fred Krogh, updated to Fortran 90 by John Burkardt
 
+[pyoptgra](https://github.com/esa/pyoptgra): Python package wrapping OPTGRA, an optimization algorithm in Fortran by Johannes Schoenmaekers designed for near-linear constrained problems, which commonly occur in trajectory optimization
+
 [PYthon OPTimization Framework (pyOpt)](https://github.com/madebr/pyOpt): object-oriented framework for formulating and solving nonlinear constrained optimization problems, calling Fortran codes
 
 [QAP](https://github.com/mhahsler/qap): R package with Fortran code implementing heuristics for the Quadratic Assignment Problem, by Michael Hahsler
