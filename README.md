@@ -298,6 +298,8 @@
 
 [splash](https://github.com/danieljprice/splash): visualisation tool for Smoothed Particle Hydrodynamics (SPH) simulations in one, two and three dimensions, developed mainly for astrophysics, by Daniel Price
 
+[squishyplanet](https://github.com/ben-cassese/squishyplanet): package for modeling non-spherical exoplanets, by Ben Cassese et al, [published](https://joss.theoj.org/papers/10.21105/joss.06972) in the <i>Journal of Open Source Software</i> (2024)
+
 [Starlib: Thermonuclear Rate Library](https://github.com/Starlib/Rate-Library): library of thermonuclear reaction and laboratory weak interaction rates. It can be used for studies of stellar models and nucleosynthesis.
 
 [starlink](https://github.com/Starlink/starlink): astronomical data processing
