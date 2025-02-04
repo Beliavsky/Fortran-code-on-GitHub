@@ -3855,6 +3855,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 [ur-parallel-programming](https://github.com/sueskind/ur-parallel-programming): notes and cheatsheets on the course Parallel Programming in Fortran at the University of Regensburg, covering Fortran in general, MPI, and OpenMP, by Jonas Süskind
 
 ## Partial Differential Equations
+[Andromeda](https://github.com/WildSmilodon/Andromeda): Boundary Element Method based code, which solves the Laplace and Stokes partial differential equations in 3D. An associated paper is [Analytical expressions for singular integrals arising from the 3D Laplace and Stokes kernels when using constant or linear triangular and quadrilateral boundary elements](https://www.sciencedirect.com/science/article/pii/S0955799723001133), by Jure Ravnik, <i>Engineering Analysis with Boundary Elements</i> (2023).
+
 [boxcode2d-legacy](https://github.com/mrachh/boxcode2d-legacy): Fortran and Matlab wrapper by Manas Rachh et al. for running the 8th order box code by Greengard and Ethridge, from the paper [A new fast-multipole accelerated poisson solver in two dimensions](https://nyuscholars.nyu.edu/en/publications/a-new-fast-multipole-accelerated-poisson-solver-in-two-dimensions) SIAM Journal of Scientific Computing (2001)
 
 [cedar](https://github.com/cedar-framework/cedar): robust, variational multigrid library implementing Black Box Multigrid (BoxMG) on large scale parallel systems, by David Moulton, Luke N. Olson and Andrew Reisner
