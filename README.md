@@ -4108,6 +4108,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Generalized Spallation Model and Event Generator](https://github.com/lanl/generalized-spallation-model): composed of several sub-models, consisting primarily of the Standard and Modified Dubna Cascade Models (DCM), a Coalescence model, Preequilibrium model, and the GEM2 (Generalized Evaporation Model), being used for simulating compound Evaporation and fission, from Los Alamos National Laboratory.
 
+[GENEUS: General Non-Equilibrium Usadel Solver](https://github.com/jabirali/geneus): simulate general non-equilibrium superconductor/ferromagnet systems via the Usadel diffusion equation, by Jabir Ali Ouassou
+
 [Green-Tea-](https://github.com/marcopala/Green-Tea-): Green's functions quantum transport solver based on ab-initio physical models, associated with paper [Unit cell restricted Bloch functions basis for first-principle transport models: Theory and application](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.045410), by M. G. Pala, P. Giannozzi, and D. Esseni, Phys. Rev. B 102, 2020
 
 [GNI](https://github.com/ALRAKIK/GNI): Huckel matrix-based algorithm employed by this program computes the energy of a triangulene or a graphene nanoisland (GNI) by performing diagonalization, by Amer Alrakik
