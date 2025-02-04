@@ -3279,6 +3279,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [neural-fortran](https://github.com/modern-fortran/neural-fortran): parallel neural net microframework, from modern-fortran
 
+[Neural-nets-in-FORTRAN](https://github.com/WildSmilodon/Neural-nets-in-FORTRAN): neural network implementation by Jure Ravnik. The size, number of hidden layers and activation function type can be selected, and training is done via gradient descent or via genetic optimization.
+
 [Neural Network](https://github.com/anjohan/neuralnetwork): simple, fully connected, dense, deep neural network, implemented in modern Fortran and parallelised using coarrays, by anjohan
 
 [NN_MOD](https://github.com/thchang/NN_MOD): Fortran 2008 Module/Class for training neural network regressors, by thchang
