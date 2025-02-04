@@ -577,6 +577,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [firedanger](https://github.com/ARVE-Research/firedanger): convert monthly meteorology into daily estimates of weather and fire danger, by Leo Lai
 
+[flash-drought](https://github.com/jb6465/flash-drought): code for [flash drought](https://www.drought.gov/what-is-drought/flash-drought) decomposition, by Jessica Bhardwaj and Mike Hobbins
+
 [FMS](https://github.com/NOAA-GFDL/FMS): Flexible Modeling System (FMS), from NOAA-GFDL, is a software environment that supports the efficient development, construction, execution, and scientific interpretation of atmospheric, oceanic, and climate system models
 
 [fst-tools](https://github.com/ECCC-ASTD-MRD/fst-tools): tools to manipulate [RPN standard files](https://web.unbc.ca/~funnel0/fst2grib/resources/fstd.pdf), from Meteorological Research Informatics Services of Canada
