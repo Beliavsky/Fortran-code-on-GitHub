@@ -3136,6 +3136,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [Truchas](https://github.com/truchas/truchas): physics-based modeling and simulation of manufacturing processes, from Los Alamos National Laboratory. Its core capabilities are primarily geared toward metal casting, with developing capabilities for metal additive manufacturing. 
 
+[umat_finite_viscoelasticity](https://github.com/thealanjason/umat_finite_viscoelasticity): User Material Model Implementation (UMAT) based on Finite Viscoelasticity Theory for Hydrogels in Abaqus, by Alan Correa
+
 [usrmat_LS-Dyna_Fortran](https://github.com/jfriedlein/usrmat_LS-Dyna_Fortran): basics to implement user-defined materials (usrmat, umat, utan) in [LS-Dyna](https://www.lstc.com/products/ls-dyna) with Fortran, by jfriedlein
 
 ## Mesh Generation
