@@ -3379,8 +3379,6 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [GaussJacobiQuad](https://github.com/HaoZeke/GaussJacobiQuad): routines for the Gauss-Jacobi Quadrature, by Rohit Goswami and Ondřej Čertík
 
-[GetRootsF](https://github.com/physicsfan/GetRootsF): routines for finding the roots of linear/non-linear equations, with or without derivative information, by Andrew Senchuk
-
 [gf_solver](https://github.com/gfell/gf_solver): finds the zeros of a function using the basic Newton method and switches to hybrid Newton-bisection if the max number of iterations is exceeded, by gfell
 
 [HDMod](https://github.com/atmmod/HDMod): hyperdual number based calculations, from atmmod
@@ -3453,8 +3451,6 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [polylogarithm](https://github.com/Expander/polylogarithm): C, C++ and Fortran implementations of various polylogarithms, including the real and complex dilogarithm, trilogarithm, and standard Clausen functions, by Alexander Voigt. The implementations have been fully tested against the literature and many other implementations and are highly optimized for fast numerical evaluation.
 
-[polyroots-fortran](https://github.com/jacobwilliams/polyroots-fortran): modern Fortran library for finding the roots of polynomials, by Jacob Williams
-
 [Precision, Compression, and Stochasticity (PCS)](https://github.com/MartinKarp/pcs): library to enable experimentation with different floating point formats, compression, and introducing randomness/stochasticity in codes based on C++ and Fortran, by Martin Karp and Timofey Mukha. An associated paper is [CPFloat: A C Library for Simulating Low-precision Arithmetic](https://dl.acm.org/doi/10.1145/3585515), by Massimiliano Fasi and Mantas Mikaitis,  
 ACM Trans. Math. Softw. (2023).
 
@@ -3463,8 +3459,6 @@ ACM Trans. Math. Softw. (2023).
 [QD](https://github.com/highprecision/QD): double-double and quad-double package for Fortran and C++, by Michael Orlitzky and X. Sherry Li
 
 [rational_number](https://github.com/art-rasa/rational_number): procedures for rational numbers, such as arithmetic operations, conversion to and from real variables, and conversion to a string, by art-rasa
-
-[roots-fortran](https://github.com/jacobwilliams/roots-fortran): library for finding the roots of continuous scalar functions of a single real variable, by Jacob Wiliams
 
 [rpn-calc-fortran](https://github.com/scivision/rpn-calc-fortran): Fortran 2018 Reverse Polish Notation (RPN) calculator from scivision. Over 100 functions not in standard Fortran
 
