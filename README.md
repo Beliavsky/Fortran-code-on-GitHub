@@ -44,6 +44,7 @@
 * [Random Number Generation](#random-number-generation)
 * [Reactor Physics](#reactor-physics)
 * [Regular Expressions](#regular-expressions)
+* [Root Finding](#root-finding)
 * [Quantum Chemistry and Electronic Structure](#Quantum-Chemistry-and-Electronic-Structure)
 * [Sorting](#sorting)
 * [Statistics](#Statistics)
@@ -4619,6 +4620,13 @@ universe-based geometry building, steady-state MC, OTF Doppler broadening, MC-ba
 [M_regex](https://github.com/urbanjost/M_regex): Fortran interface by urbanjost to the POSIX 1003.2 regular expression library using ISO_C_BINDING
 
 [mod_pcreposix](https://github.com/tranqv/mod_pcreposix): module for working (in Unix) with the Perl compatible regular expressions, by tranqv
+
+## Root Finding
+[GetRootsF](https://github.com/physicsfan/GetRootsF): routines for finding the roots of linear/non-linear equations, with or without derivative information, by Andrew Senchuk
+
+[polyroots-fortran](https://github.com/jacobwilliams/polyroots-fortran): modern Fortran library for finding the roots of polynomials, by Jacob Williams
+
+[roots-fortran](https://github.com/jacobwilliams/roots-fortran): library for finding the roots of continuous scalar functions of a single real variable, by Jacob Wiliams
 
 ## Sorting
 [Fortran-Code-Snippits](https://github.com/Aussie-Pete/Fortran-Code-Snippits): codes for sorting and searching, including the Boyer–Moore string-search algorithm, by Peter Kelly
