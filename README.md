@@ -4795,6 +4795,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [Spatial Locally Weighted Regression](https://github.com/XiaosuTong/Spaloess): enhancements to the loess implementation that comes with base R, by XiaosuTong. Most of computation in FORTRAN are kept as same in loess function except the distance calculation.
 
+[splpak](https://github.com/jacobwilliams/splpak): routines for fitting (least squares) a multidimensional cubic spline to arbitrarily located data. It also contains routines for evaluating this spline (or its partial derivatives) at any point. This is a modernization by Jacob Williams of the double precision SPLPAK files from NCL.
+
 [statislib](https://github.com/Jim-215-Fisher/statislib): library for statistical distributions, by Jim-215-Fisher. The library includes various distributions' random number generators, probability density function or probability mass function, and cumulative distribution function.
 
 [StatLib](https://github.com/jacobwilliams/StatLib): codes from the journal Applied Statistics, mostly in Fortran 77 or earlier standards. Alan Miller's translations of some of them to Fortran 90 are [here](https://jblevins.org/mirror/amiller/#apstat).
