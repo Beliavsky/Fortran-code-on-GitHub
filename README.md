@@ -1809,9 +1809,11 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [sfd_excmg](https://github.com/eqfwrg424535/sfd_excmg): code for large-scale MT (magnetotelluric) forward modeling using extrapolation multigrid method, associated with the paper [An efficient cascadic multigrid method combined with regularization technique for 3-D electromagnetic finite-element anisotropic modeling.](https://library.seg.org/doi/abs/10.1190/geo2023-0702.1), by Kejia Pan et al., Geophysics (2024)
 
-[slstr-preprocessor](https://github.com/surftemp/slstr-preprocessor): software for aggregating the SLSTR 500 m Vis/NIR channels (S1-6) onto the 1 km IR grid ("i-stripe" as used for S7-9), by Owen Embury and Niall McCarroll. An associated paper is [Improving the combined use of reflectance and thermal channels for ocean and coastal cloud detection for the Sea and Land Surface Temperature Radiometer (SLSTR)](https://www.sciencedirect.com/science/article/pii/S0034425723000822), by Claire E. Bulgin et al., Remote Sensing of Environment (2023).
-
 [SIBERIA](https://github.com/csdms-contrib/siberia): simulates the evolution of landscapes under the action of runoff and erosion over long times scales. An associated publication is Hancock, G.R.; Gibson, Abraham; Wells, T.; 2021. [Hillslope erosion in a grassland environment: Calibration and evaluation of the SIBERIA landscape evolution model](https://onlinelibrary.wiley.com/doi/10.1002/esp.5060). Earth Surface Processes and Landforms, 46, 728–743
+
+[Simsphere](https://github.com/tjc181/simsphere): Soil-Vegetation-Atmosphere Transfer (SVAT) model, by Toby Carlson et al. It is a one-dimensional model that allows one to simulate the transfer of heat and moisture between plants, soil and atmosphere over a 24 hour day.
+
+[slstr-preprocessor](https://github.com/surftemp/slstr-preprocessor): software for aggregating the SLSTR 500 m Vis/NIR channels (S1-6) onto the 1 km IR grid ("i-stripe" as used for S7-9), by Owen Embury and Niall McCarroll. An associated paper is [Improving the combined use of reflectance and thermal channels for ocean and coastal cloud detection for the Sea and Land Surface Temperature Radiometer (SLSTR)](https://www.sciencedirect.com/science/article/pii/S0034425723000822), by Claire E. Bulgin et al., Remote Sensing of Environment (2023).
 
 [smash](https://github.com/DassHydro-dev/smash): Python library that provides a variety of user-friendly routines for hydrological modeling, including data preprocessing, high-dimensional optimization tools, sensitivity and signatures analysis, all interfaced with an efficient Fortran solver
 
