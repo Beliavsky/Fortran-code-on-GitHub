@@ -2040,6 +2040,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [2DECOMP&FFT](https://github.com/2decomp-fft/2decomp-fft): software framework to build large-scale parallel applications, designed for applications using three-dimensional structured mesh and spatially implicit numerical algorithms. It features highly scalable and efficient distributed Fast Fourier Transform module, supporting three dimensional FFTs (both complex-to-complex and real-to-complex/complex-to-real), halo-cell support allowing explicit message passing between neighbouring blocks, a parallel I/O module to support the handling of large data sets, and an interface with most popular external FFT libraries.
 
+[DataTyped Fast Fourier Transform (dtFFT)](https://github.com/ShatrovOA/dtFFT): performs FFT on a distributed memory cluster, using MPI to handle communications between processes, by Oleg Shatrov. The main idea of this library is to implement zero-copy algorithms in 2d and 3d cases.
+
 [ffte](https://github.com/certik/ffte): computes Discrete Fourier Transforms of 1-, 2- and 3- dimensional sequences of length (2^p)*(3^q)*(5^r).
 
 [fftlog](https://github.com/emsig/fftlog): Python wrapper (using f2py) by Dieter Werthmüller and Jørgen Kvalsvik for the logarithmic FFT Fortran code FFTLog by Andrew Hamilton
