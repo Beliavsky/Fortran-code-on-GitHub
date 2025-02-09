@@ -2563,6 +2563,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [UniShellect](https://github.com/Lateralus138/UniShellect): parses a JSON config file and loads a highly customizable menu of shells, interpreters, files, commands and possible arguments into any command line interface, by Lateralus138. This is inspired by the "hyper-shellect" plug-in for the "Hyper" terminal.
 
+[Watch](https://github.com/Beliavsky/Watch): compute and display the CPU and wall time elapsed at break points in a program, by Beliavsky
+
 [xslib - Extra-Small Library](https://github.com/JureCerar/xslib):  library consisting of useful utilities and functions as stand-in for Fortran "standard" library, by JureCerar. Has modules for string handling, error handling, memory allocation, regression, timing, sorting, statistics, and other topics
 
 [ZstdFortranLib](https://github.com/zbeekman/ZstdFortranLib): implements missing functionality such as error handling, strings manipulation, system/environment interface & testing utilities, by zbeekman
