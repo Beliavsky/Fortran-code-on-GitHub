@@ -1675,6 +1675,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [NM-CT](https://github.com/tuhouwang/NM-CT): Fortran and Matlab codes for the paper "A Chebyshev-Tau spectral method for normal modes of underwater sound propagation with a layered marine environment", by H. Tu, Y. Wang, Q. Lan et al.
 
+[NMSplit90](https://github.com/williameaton/NMSplit90): programs to compute splitting functions of normal modes due to Inner Core anisotropy, by Will Eaton, in some cases translating code by Jeroen Tromp
+
 [NRL HWM14 Horizontal Wind Model](https://github.com/gemini3d/hwm14): code from the Naval Research Lab described in the paper Drob, D. P., et al. (2015), "An Update to the Horizontal Wind Model (HWM): The Quiet Time Thermosphere", Earth and Space Science
 
 [nshmp-haz-fortran](https://github.com/usgs/nshmp-haz-fortran): code for the National Seismic Hazard Mapping Project, by Peter Powers et al.
