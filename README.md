@@ -1353,6 +1353,8 @@ Environmental Modelling & Software (2022)
 
 [Biome Ecological strategy simulator (BiomeESS)](https://github.com/wengensheng/BiomeESS): model in which vegetation is represented as plant functional types sampled from high dimensional spaces of combined plant traits that can consistently coexist in plant individuals. Reference: Weng, E., Dybzinski, R., Farrior, C. E., and Pacala, S. W.: "Competition alters predicted forest carbon cycle responses to nitrogen availability and elevated CO2: simulations using an explicitly competitive, game-theoretic vegetation demographic model", Biogeosciences, 16, 4577–4599, https://doi.org/10.5194/bg-16-4577-2019, 2019.
 
+[buoyant-tracers](https://github.com/jmeach97/buoyant-tracers): code for buoyant tracer simulations, by jmeach97
+
 [Calypso](https://github.com/geodynamics/calypso): performs magnetohydrodynamics (MHD) simulation in a rotating spherical shell, modeled as Boussinesq fluid driven by thermal or compositional buoyancy, by Hiro Matsui
 
 [caneill-et-al-JPO-nemo-transition-zone](https://github.com/rcaneill/caneill-et-al-JPO-nemo-transition-zone): code associated with paper Caneill, R., Roquet, F., Madec, G., and Nycander, J. (2022). [The polar transition from alpha to beta regions set by a surface buoyancy flux inversion.](https://journals.ametsoc.org/configurable/content/journals$002fphoc$002f52$002f8$002fJPO-D-21-0295.1.xml?t:ac=journals%24002fphoc%24002f52%24002f8%24002fJPO-D-21-0295.1.xml), Journal of Physical Oceanography.
