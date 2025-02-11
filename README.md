@@ -1107,6 +1107,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [freeCappuccino](https://github.com/nikola-m/freeCappuccino): three-dimensional fully unstructured finite volume code for Computational Fluid Dynamics which comes in serial and parallel version, by nikola-m. FreeCappuccino is also a Fortran library for manipulation of discrete tensor fields, defined over polyhedral meshes.
 
+[fvm-source-wb](https://github.com/hanveiga/fvm-source-wb): finite volume method code for Euler equations with source and well balancedness, by Maria Veiga. Also [1d-dg-nn](https://github.com/hanveiga/1d-dg-nn), a 1D discontinuous Galerkin code integrated with a neural net.
+
 [fvortex](https://github.com/slitvinov/fvortex): implements vortex method, with applications to Elliptic Lamb–Oseen vortex and Melander, McWilliams, and Zabusky vortex, by Sergey Litvinov
 
 [GATT_DNS](https://github.com/marlonsmathias/GATT_DNS): Direct Numerical Simulation code for the compressible Navier-Stokes equations, associated with the thesis of Marlon Sproesser Mathias, [Computational study of the hydrodynamic stability of gaps and cavities in a subsonic compressible boundary layer](https://www.teses.usp.br/teses/disponiveis/18/18161/tde-29032022-085318/en.php) (2021)
