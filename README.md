@@ -3347,6 +3347,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [NITSOL](https://github.com/cmacmackin/nitsol): Newton-iterative solution of large-scale nonlinear systems, by Homer F. Walker
 
+[NITSOL2](https://github.com/vadim-z/NITSOL2): version of NITSOL, the inexact Newton-Krylov solver, without common blocks and some extra parameters, such as to set the finite-difference precision, by Vadim Zborovskii
+
 [Nonlinear Equation Solver with Modern Fortran (nlesolver-fortran)](https://github.com/jacobwilliams/nlesolver-fortran): basic Newton-Raphson type nonlinear equation solver for dense systems with m functions of n input variables, by Jacob Williams. Uses LAPACK routines (dgesv or dgels) to solve the linear system.
 
 [pypolsys](https://github.com/nennigb/pypolsys): Python wrapper to [POLSYS_PLP](https://dl.acm.org/doi/abs/10.1145/347837.347885) Fortran 90 package from Layne T. Watson, Steven M. Wise, Andrew J. Sommese, August, 1998. POLSYS_PLP is a solver for N complex coefficients polynomial systems of equations in N unknowns by a probability-one, globally convergent homotopy method.
