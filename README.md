@@ -2835,6 +2835,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fortran-rbf](https://github.com/dongli/fortran-rbf): implementation of radial basis functions (RBF), by dongli
 
+[gf_int_node](https://github.com/gfell/gf_int_node): subroutines to find the index of the right interpolating node for each data point in an ordered array, by Giulio Fella. It speeds up computation by exploiting the ordering of both the array of interpolating nodes and of the array of data points.
+
 [grid_interpolation](https://github.com/ChristianSteger/grid_interpolation): interpolates between regular and unstructured grid (e.g. triangle mesh), by Christian Steger. The former interpolation is performed with bilinear interpolation, the latter with inverse distance weighting (IDW) and the application of a k-d tree to efficiently find the nearest neighobours.
 
 [HiPPIS](https://github.com/ouermijudicael/HiPPIS): polynomial-based data-bounded and positivity-preserving interpolation software for function approximation and mapping data values between structure (uniform and nonuniform) meshes. Associated preprint: [Algorithm xxxx: HiPPIS A High-Order Positivity-Preserving Mapping Software for Structured Meshes](https://arxiv.org/abs/2310.08818), by Timbwaoga A. J. Ouermi, Robert M Kirby, Martin Berzins (2023)
