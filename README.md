@@ -4629,7 +4629,7 @@ universe-based geometry building, steady-state MC, OTF Doppler broadening, MC-ba
 [mod_pcreposix](https://github.com/tranqv/mod_pcreposix): module for working (in Unix) with the Perl compatible regular expressions, by tranqv
 
 ## Root Finding
-[FORTRAN-Roots](https://github.com/bryand4140/FORTRAN-Roots): subroutines to find the roots of a single-valued function within a bounded interval, using a combination of Brent's method, the secand method, and interpolation, and to find the real and complex roots of an nth-degree polynomial, by Bryan Durham
+[FORTRAN-Roots](https://github.com/bryand4140/FORTRAN-Roots): subroutines to find the roots of a single-valued function within a bounded interval, using a combination of Brent's method, the secant method, and interpolation, and to find the real and complex roots of an nth-degree polynomial, by Bryan Durham
 
 [GetRootsF](https://github.com/physicsfan/GetRootsF): routines for finding the roots of linear/non-linear equations, with or without derivative information, by Andrew Senchuk
 
