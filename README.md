@@ -4663,6 +4663,8 @@ universe-based geometry building, steady-state MC, OTF Doppler broadening, MC-ba
 
 [special_functions](https://github.com/ameli/special_functions): Cython and Python API for some Fortran and C libraries of special functions, by Siavash Ameli
 
+[spherical_bessel_fortran](https://github.com/jlm785/spherical_bessel_fortran): calculates the spherical Bessel function of first kind j_n(x) Formulas 10.1.2, 10.1.19 and 10.1.59 of Abramowitz and Stegun, SphericalBesselJ[n,x] of Mathematica, by José Luís Martins
+
 ## Statistics
 [200+ R packages with Fortran code](https://github.com/cran?q=&type=&language=fortran&sort=): R is a free software environment for statistical computing and graphics
 
