@@ -3394,8 +3394,6 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [GaussJacobiQuad](https://github.com/HaoZeke/GaussJacobiQuad): routines for the Gauss-Jacobi Quadrature, by Rohit Goswami and Ondřej Čertík
 
-[gf_solver](https://github.com/gfell/gf_solver): finds the zeros of a function using the basic Newton method and switches to hybrid Newton-bisection if the max number of iterations is exceeded, by gfell
-
 [HDMod](https://github.com/atmmod/HDMod): hyperdual number based calculations, from atmmod
 
 [HOMPACK90](https://github.com/vtopt/hompack90): solves nonlinear systems of equations by homotopy methods. There are subroutines for fixed point, zero finding, and general homotopy curve tracking problems, utilizing both dense and sparse Jacobian matrices, and implementing three different algorithms: ODE-based, normal flow, and augmented Jacobian. Associated paper: [Algorithm 777: HOMPACK90: a suite of Fortran 90 codes for globally convergent homotopy algorithms](https://dl.acm.org/doi/10.1145/279232.279235), by Layne T. Watson et al.
@@ -4632,6 +4630,8 @@ universe-based geometry building, steady-state MC, OTF Doppler broadening, MC-ba
 [FORTRAN-Roots](https://github.com/bryand4140/FORTRAN-Roots): subroutines to find the roots of a single-valued function within a bounded interval, using a combination of Brent's method, the secant method, and interpolation, and to find the real and complex roots of an nth-degree polynomial, by Bryan Durham
 
 [GetRootsF](https://github.com/physicsfan/GetRootsF): routines for finding the roots of linear/non-linear equations, with or without derivative information, by Andrew Senchuk
+
+[gf_solver](https://github.com/gfell/gf_solver): finds the zeros of a function using the basic Newton method and switches to hybrid Newton-bisection if the max number of iterations is exceeded, by gfell
 
 [polyroots-fortran](https://github.com/jacobwilliams/polyroots-fortran): modern Fortran library for finding the roots of polynomials, by Jacob Williams
 
