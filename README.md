@@ -272,6 +272,8 @@
 
 [pycalc11](https://github.com/aelanman/pycalc11): Python interface by Adam Lanman for running the CALC delay modeling tool, written in Fortran, by providing parameters as astropy objects. CALC aims to compute VLBI baseline delays to picosecond precision by incorporating general relativistic deflection from the Sun, Earth, and other planets, solid Earth and ocean tide loading, and atmospheric contributions
 
+[PyJKTEBOP](https://github.com/nmiller95/pyjktebop): Python interface by Nikki Miller for the Fortran code [JKTEBOP](https://www.astro.keele.ac.uk/jkt/codes/jktebop.html) for analyzing light and velocity curves of detached eclipsing binaries and transiting planets, by John Southworth
+
 [pymoog](https://github.com/MingjieJian/pymoog): Python 3 wrapper for running the LTE spectrum synthesis part of the Fortran code [MOOG](https://www.as.utexas.edu/~chris/moog.html) by Chris Sneden
 
 [python-fsps](https://github.com/dfm/python-fsps): Python bindings to Charlie Conroy's Flexible Stellar Population Synthesis (FSPS) Fortran code
