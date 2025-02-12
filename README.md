@@ -4456,7 +4456,7 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [PROGRESS](https://github.com/lanl/qmd-progress): Parallel, Rapid O(N) and Graph-based Recursive Electronic Structure Solver, from lanl
 
-[pseudopotential](https://github.com/jlm785/pseudopotential): modernized atomic configuration and pseudopotential generation code, associated with the paper [Efficient pseudopotentials for plane-wave calculations](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.43.1993), by Norm Troullier and José Luís Martins, <i>Physical Review B</i> (1991)
+[pseudopotential](https://github.com/jlm785/pseudopotential): modernized atomic configuration and pseudopotential generation code, associated with the paper [Efficient pseudopotentials for plane-wave calculations](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.43.1993), by Norm Troullier and José Luís Martins, <i>Physical Review B</i> (1991). Also [cpw2000](https://github.com/jlm785/cpw2000), a density functional theory pseudopotential plane-wave code.
 
 [Pseudopotential Algorithm of Real-Space Electronic Structure Calculation (PARSEC)](https://github.com/PARSEC-real-space-code/PARSEC): solves the Kohn-Sham equations by expressing electron wave-functions directly in real space, without the use of explicit basis sets, by Anil Damle and Zhao Tang. An associated paper is [Numerical methods for electronic structure calculations of materials](https://epubs.siam.org/doi/abs/10.1137/060651653), by Y. Saad et al., SIAM Review (2010).
 
