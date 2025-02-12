@@ -2866,6 +2866,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [spharm-interp](https://github.com/ahbarnett/spharm-interp): MATLAB and Fortran routines for interpolation from scattered points on the sphere via spherical harmonics, by Alex Barnett et al.
 
+[spline_interpolation_fortran](https://github.com/jlm785/spline_interpolation_fortran): spline subroutines written by Rondall E. Jones, modernized by José Luís Martins
+
 [sprint](https://github.com/dongli/sprint): Spherical Remapping and Interpolation library, from dongli
 
 [stripy](https://github.com/underworldcode/stripy): Python interface from underworldcode to TRIPACK and STRIPACK Fortran code for (constrained) triangulation in Cartesian coordinates and on a sphere. Stripy is an object-oriented package and includes routines from SRFPACK and SSRFPACK for interpolation (nearest neighbor, linear and hermite cubic) and to evaluate derivatives.
