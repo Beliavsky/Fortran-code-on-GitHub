@@ -47,6 +47,7 @@
 * [Root Finding](#root-finding)
 * [Quantum Chemistry and Electronic Structure](#Quantum-Chemistry-and-Electronic-Structure)
 * [Sorting](#sorting)
+* [Special Functions](#special-functions)
 * [Statistics](#Statistics)
 * [Strings](#strings)
 * [Time Series](#time-series)
@@ -3327,15 +3328,7 @@ useful results regarding the thermodynamics and the structural properties of the
 ## Numerical
 [afnl](https://github.com/ramos/afnl): Fortran 90 numerical library with modules for numerical types, constants, error handling, integration, optimization, linear algebra, sorting and search, special functions, statistics, polynomials, root-finding, Fourier transforms, and dates and times, by Alberto Ramos
 
-[amosf90](https://github.com/Euler-37/amosf90): module for [AMOS](https://www.netlib.org/amos/), a package for Bessel functions of a complex argument and nonnegative order, by Euler-37
-
 [antia_numerical_methods](https://github.com/Beliavsky/antia_numerical_methods): codes from "Numerical methods for scientists and engineers, 3rd ed." (2012), by H. M. Antia
-
-[appell](https://github.com/cran/appell): R package with Fortran code to compute [Appell's F1 hypergeometric function](https://reference.wolfram.com/language/ref/AppellF1.html)
-
-[BesselEval](https://github.com/JamesCBremerJr/BesselEval): rapidly evaluates of Bessel functions J_nu and Y_nu of the first and seconds kinds of nonnegative real orders and positive real arguments, based on precomputed expansions, with the algorithm described in a preprint, [An algorithm for the numerical evaluation of Bessel function real orders and arguments](https://arxiv.org/abs/1705.07820), by James Bremer
-
-[Bessel-Hankel](https://github.com/TcheL/Bessel-Hankel): examples of the Hankel transformation and calculations of Bessel functions of the 1st kind and 2nd kind, their derivatives of the 1st order and 2nd order, and their zeros, by Tche Liu
 
 [chebpak](https://github.com/saridut/chebpak): routines for Chebyshev polynomials, derivatve matrices, and interpolation, by Sarit Dutta
 
@@ -3346,8 +3339,6 @@ useful results regarding the thermodynamics and the structural properties of the
 [DATAPLOT](https://github.com/usnistgov/dataplot): powerful and flexible program for performing scientific, engineering, statistical, mathematical, and graphical analysis, from usnistgov
 
 [dfsaneacc](https://github.com/cran/dfsaneacc): R package with underlying Fortran code implementing the algorithm in [Secant Acceleration of Sequential Residual Methods for Solving Large-Scale Nonlinear Systems of Equations](https://epubs.siam.org/doi/10.1137/20M1388024), by Ernesto G. Birgin and J. M. MartÍnez, SIAM Journal on Numerical Analysis, Vol. 60, Iss. 6 (2022). An implementation by John L. Gardenghi is [here](https://github.com/johngardenghi/dfsaneacc/tree/main/dfsaneacc-in-Fortran).
-
-[ellipFor](https://github.com/seantrim/ellipFor): evaluates Legendre elliptic integrals and Jacobi elliptic functions for generalized input parameters, by Sean Trim
 
 [faiNumber-Fortran](https://github.com/kevinhng86/faiNumber-Fortran): fast, flexible, and secure numerical library for Fortran with fast number parsing as one of its features
 
@@ -3379,8 +3370,6 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [ForSolver](https://github.com/gha3mi/forsolver): solves linear and nonlinear equations, by Seyed Ali Ghasemi. For nonlinear equations the available methods are newton, newton-modified, newton-quasi-fd, newton-quasi-fd-modified, newton-quasi-cs, and newton-quasi-cs-modified, where "fd" and "cs" stand for the finite difference and complex step methods.
 
-[fortran-bessels](https://github.com/perazz/fortran-bessels): Fortran port (stub) of the Bessels.jl repository, by Federico Perini et al.
-
 [Fortran Multiple Precision Library (FMPL)](https://github.com/supercomputerprimesearch/fmpl): by Zander Lewis
 
 [fortran-numerical-methods](https://github.com/c4rlosr4ul/fortran-numerical-methods): implements methods for solving ordinary differential equations, numerical interpolation, finding roots of equations, and other topics, by Carlos Raúl
@@ -3393,8 +3382,6 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [FURY](https://github.com/szaghi/FURY): Fortran Units (environment) for Reliable phYsical math, by Stefano Zaghi
 
-[gamma_f77](https://github.com/ckormanyos/gamma_f77): implements the real-valued Gamma function in quadruple-precision, by Christopher Kormanyos
-
 [GaussJacobiQuad](https://github.com/HaoZeke/GaussJacobiQuad): routines for the Gauss-Jacobi Quadrature, by Rohit Goswami and Ondřej Čertík
 
 [gf_solver](https://github.com/gfell/gf_solver): finds the zeros of a function using the basic Newton method and switches to hybrid Newton-bisection if the max number of iterations is exceeded, by gfell
@@ -3403,8 +3390,6 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [HOMPACK90](https://github.com/vtopt/hompack90): solves nonlinear systems of equations by homotopy methods. There are subroutines for fixed point, zero finding, and general homotopy curve tracking problems, utilizing both dense and sparse Jacobian matrices, and implementing three different algorithms: ODE-based, normal flow, and augmented Jacobian. Associated paper: [Algorithm 777: HOMPACK90: a suite of Fortran 90 codes for globally convergent homotopy algorithms](https://dl.acm.org/doi/10.1145/279232.279235), by Layne T. Watson et al.
 
-[Jacobi Theta functions for Fortran](https://github.com/fremling/jacobi-theta-function-fortran): by Mikael Fremling
-
 [JFNK-Hookstep](https://github.com/apwillis1/JFNK-Hookstep): Jacobian-Free Newton-Krylov solver with Hookstep-trust-region approach, by Ashley P. Willis. It solves F(x) = 0, where F and x are n-vectors.
 
 [library](https://github.com/alexander-mead/library): code for array operations, numerical differentiation and integration, mathematical and physical constants, FFTs, interpolation, optimization, ODEs, finding roots, random number generation, sorting, statistics, strings, and other topics, by Alexander Mead
@@ -3412,8 +3397,6 @@ useful results regarding the thermodynamics and the structural properties of the
 [Library of Numerical Analysis - Moscow State University](https://github.com/VadimAnIsaev/Library-of-Numerical-Analysis-MSU): Translation of subroutines into modern Fortran (Fortran90 or higher) from Fortran 66. Original website: http://num-anal.srcc.msu.ru/lib_na/cat/cat0.htm
 
 [lookup_table_fortran](https://github.com/jannisteunissen/lookup_table_fortran): module for linear lookup tables, by jannisteunissen. Supports multiple columns and various ways to read values from the table 
-
-[Mittag Leffler function and its derivative](https://github.com/tranqv/Mittag-Leffler-function-and-its-derivative): translated from the Matlab code of Robert Garrappa
 
 [monolis_utils](https://github.com/nqomorita/monolis_utils): utilities for monolithic library of numerical simulation, by Naoki Morita. There are modules for I/O, data processing, algebraic computations, memory allocation and release, MPI, tabular data, bounding boxes, Kd-trees, and hashing.
 
@@ -3480,17 +3463,9 @@ ACM Trans. Math. Softw. (2023).
 
 [rpn-calc-fortran](https://github.com/scivision/rpn-calc-fortran): Fortran 2018 Reverse Polish Notation (RPN) calculator from scivision. Over 100 functions not in standard Fortran
 
-[s2hat](https://github.com/B3Dcmb/s2hat): C and Fortran for spherical harmonics operations, by B3Dcmb
-
 [SciFortran](https://github.com/QcmPlab/SciFortran): A library of fortran modules and routines for scientific calculations (*in a way* just like scipy for python), from QcmPlab
 
 [SLATEC](https://github.com/MehdiChinoune/SLATEC): comprehensive software library containing over 1400 general purpose mathematical and statistical routines, translated to modern Fortran by Mehdi Chinoune
-
-[specfun](https://github.com/jacobwilliams/specfun): modernization by Jacob Williams of [specfun.f](https://github.com/scipy/scipy/blob/main/scipy/special/specfun/specfun.f) from SciPy from the book [Computation of Special Functions](https://www.amazon.com/Computation-Special-Functions-Shanjie-Zhang/dp/0471119636), by Shanjie Zhang and Jianming Jin, Wiley (1996).
-
-[specfunc-fullerton](https://github.com/arjenmarkus/specfunc-fullerton): library for evaluating special mathematical function, based on the [fn](http://www.netlib.org/fn/index.html) library of Wayne Fullerton, modernised by Arjen Markus. It has Airy functions, modified Bessel functions, beta functions, exponential and logarithmic integrals, gamma functions, inverse cosine and cosine hyperbolic integrals, miscellaneous functions, and Pochhammer symbols
-
-[special_functions](https://github.com/ameli/special_functions): Cython and Python API for some Fortran and C libraries of special functions, by Siavash Ameli
 
 [Tensor Toolbox for Modern Fortran (ttb)](https://github.com/adtzlr/ttb)
 
@@ -4660,6 +4635,33 @@ universe-based geometry building, steady-state MC, OTF Doppler broadening, MC-ba
 [orderpack](https://github.com/urbanjost/orderpack): clone by urbanjost of [Orderpack 2.0](http://www.fortran-2000.com/rank/) from Michel Olagnon that has been restructured so as to be useable as an fpm package. It provides order and unconditional, unique, and partial ranking, sorting, and permutation.
 
 [stringsort](https://github.com/jacobwilliams/stringsort): sorting routines for strings, by Jacob Williams
+
+## Special Functions
+[amosf90](https://github.com/Euler-37/amosf90): module for [AMOS](https://www.netlib.org/amos/), a package for Bessel functions of a complex argument and nonnegative order, by Euler-37
+
+[appell](https://github.com/cran/appell): R package with Fortran code to compute [Appell's F1 hypergeometric function](https://reference.wolfram.com/language/ref/AppellF1.html)
+
+[BesselEval](https://github.com/JamesCBremerJr/BesselEval): rapidly evaluates of Bessel functions J_nu and Y_nu of the first and seconds kinds of nonnegative real orders and positive real arguments, based on precomputed expansions, with the algorithm described in a preprint, [An algorithm for the numerical evaluation of Bessel function real orders and arguments](https://arxiv.org/abs/1705.07820), by James Bremer
+
+[Bessel-Hankel](https://github.com/TcheL/Bessel-Hankel): examples of the Hankel transformation and calculations of Bessel functions of the 1st kind and 2nd kind, their derivatives of the 1st order and 2nd order, and their zeros, by Tche Liu
+
+[ellipFor](https://github.com/seantrim/ellipFor): evaluates Legendre elliptic integrals and Jacobi elliptic functions for generalized input parameters, by Sean Trim
+
+[fortran-bessels](https://github.com/perazz/fortran-bessels): Fortran port (stub) of the Bessels.jl repository, by Federico Perini et al.
+
+[gamma_f77](https://github.com/ckormanyos/gamma_f77): implements the real-valued Gamma function in quadruple-precision, by Christopher Kormanyos
+
+[Jacobi Theta functions for Fortran](https://github.com/fremling/jacobi-theta-function-fortran): by Mikael Fremling
+
+[Mittag Leffler function and its derivative](https://github.com/tranqv/Mittag-Leffler-function-and-its-derivative): translated from the Matlab code of Robert Garrappa
+
+[s2hat](https://github.com/B3Dcmb/s2hat): C and Fortran for spherical harmonics operations, by B3Dcmb
+
+[specfun](https://github.com/jacobwilliams/specfun): modernization by Jacob Williams of [specfun.f](https://github.com/scipy/scipy/blob/main/scipy/special/specfun/specfun.f) from SciPy from the book [Computation of Special Functions](https://www.amazon.com/Computation-Special-Functions-Shanjie-Zhang/dp/0471119636), by Shanjie Zhang and Jianming Jin, Wiley (1996).
+
+[specfunc-fullerton](https://github.com/arjenmarkus/specfunc-fullerton): library for evaluating special mathematical function, based on the [fn](http://www.netlib.org/fn/index.html) library of Wayne Fullerton, modernised by Arjen Markus. It has Airy functions, modified Bessel functions, beta functions, exponential and logarithmic integrals, gamma functions, inverse cosine and cosine hyperbolic integrals, miscellaneous functions, and Pochhammer symbols
+
+[special_functions](https://github.com/ameli/special_functions): Cython and Python API for some Fortran and C libraries of special functions, by Siavash Ameli
 
 ## Statistics
 [200+ R packages with Fortran code](https://github.com/cran?q=&type=&language=fortran&sort=): R is a free software environment for statistical computing and graphics
