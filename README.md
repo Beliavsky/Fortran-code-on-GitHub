@@ -4933,6 +4933,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [KFAS: R Package for Exponential Family State Space Models](https://github.com/helske/KFAS): provides tools for modelling exponential family state space models such as structural time series, ARIMA models, generalized linear models and generalized linear mixed models, by Jouni Helske et al., with underlying Fortran 95 code
 
+[nsmarkov-fortran](https://github.com/gfell/nsmarkov-fortran): subroutines to construct Markov chain approximations of (non-stationary) AR(1) processes as described in the paper [Markov-Chain Approximations for Life-Cycle Models"](https://www.sciencedirect.com/science/article/abs/pii/S1094202519301565) by Giulio Fella, Giovanni Gallipoli and Jutong Pan, <i>Review of Economic Dynamics</i> (2019)
+
 [python-bls](https://github.com/dfm/python-bls): Python bindings for the original Fortran implementation of the Box Least Squares (BLS) algorithm from the paper [A box-fitting algorithm in the search for periodic transits](https://www.aanda.org/articles/aa/full/2002/31/aa2422/aa2422.right.html), by G. Kovacs et al., Astronomy & Astrophysics (2002)
 
 [REDFIT-X](https://github.com/kristinbjorg/REDFIT-X-Cross-spectral-analysis-of-unevenly-spaced-paleoclimate-time-series): cross-spectral analysis of unevenly spaced paleoclimate time series, by kristinbjorg et al.
