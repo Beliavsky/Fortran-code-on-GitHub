@@ -31,6 +31,7 @@
 * [Materials Science](#materials-science)
 * [Molecular Dynamics](#molecular-dynamics)
 * [Mesh Generation](#mesh-generation)
+* [Multiple Precision](#multiple-precision)
 * [Neural Networks and Machine Learning](#neural-networks-and-machine-learning)
 * [Nonlinear Equations](#nonlinear-equations)
 * [Numerical](#numerical)
@@ -3259,6 +3260,17 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [Structure_factor_FFT](https://github.com/jmcdaniel43/Structure_factor_FFT): computes structure factors using the particle mesh Ewald approach, by Jesse Gatten McDaniel. Either the electron density structure factor can be computed for X-ray scattering (uses form factors), or the total charge density can be computed (uses input force field charges) to evaluate sum rules
 
+## Multiple Precision
+[FMPFR](https://github.com/tkoenig1/FMPFR): Fortran binding to the [GNU MPFR Library multi-precision library](https://www.mpfr.org/), by Thomas Koenig
+
+[Fortran Multiple Precision Library (FMPL)](https://github.com/supercomputerprimesearch/fmpl): by Zander Lewis
+
+[mpfun90](https://github.com/APN-Pucky/mpfun90): software by David H. Bailey that permits a new or existing Fortran 90 program to utilize multiple-precision arithmetic, or in other words a level of numeric precision that ranges from 50 digits to hundreds or thousands of digits if required. A more recent version is MPFUN2020.
+
+[MPFUN2020](https://github.com/jacobwilliams/MPFUN2020): thread-safe arbitrary precision package that enables one to perform floating-point computations (real and complex) to arbitrarily high numeric precision, by making only relatively minor changes to existing Fortran-90 programs (mostly changes to type statements), by David H. Bailey. All basic arithmetic operations and transcendental functions are supported, together with several special functions. FPM package by Jacob Williams [here](https://github.com/jacobwilliams/mpfun2020-var1)
+
+[QD](https://github.com/highprecision/QD): double-double and quad-double package for Fortran and C++, by Michael Orlitzky and X. Sherry Li
+
 ## Neural Networks and Machine Learning
 [Adaptive Training for High Efficiency Neural Network Applications (ATHENA)](https://github.com/nedtaylor/athena): library for developing and handling neural networks (with a focus on convolutional neural networks), by Ned Taylor
 
@@ -3386,15 +3398,11 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [finite_difference](https://github.com/jlr581/finite_difference): package to calculate the finite difference weighting coefficients for arbitrary sets of points, by Jason Roberts. The method uses a self-contained arbitrary precision library and Taylor series acceleration via hyper-dual numbers.
 
-[FMPFR](https://github.com/tkoenig1/FMPFR): Fortran binding to the [GNU MPFR Library multi-precision library](https://www.mpfr.org/), by Thomas Koenig
-
 [ForDiff](https://github.com/gha3mi/fordiff): numerical differentiation using the complex step method or finite differences, by Seyed Ali Ghasemi
 
 [forlab](https://github.com/zoziha/forlab): module that provides a lot of functions for scientific computing mostly inspired by Matlab and Python's module NumPy, by zoziha
 
 [forSISL](https://github.com/rweed/forSISL): Modern Fortran interfaces to the [SINTEF Spline Library (SISL)](https://github.com/SINTEF-Geometry/SISL), by Richard Weed
-
-[Fortran Multiple Precision Library (FMPL)](https://github.com/supercomputerprimesearch/fmpl): by Zander Lewis
 
 [fortran-numerical-methods](https://github.com/c4rlosr4ul/fortran-numerical-methods): implements methods for solving ordinary differential equations, numerical interpolation, finding roots of equations, and other topics, by Carlos Raúl
 
@@ -3415,10 +3423,6 @@ useful results regarding the thermodynamics and the structural properties of the
 [lookup_table_fortran](https://github.com/jannisteunissen/lookup_table_fortran): module for linear lookup tables, by jannisteunissen. Supports multiple columns and various ways to read values from the table 
 
 [monolis_utils](https://github.com/nqomorita/monolis_utils): utilities for monolithic library of numerical simulation, by Naoki Morita. There are modules for I/O, data processing, algebraic computations, memory allocation and release, MPI, tabular data, bounding boxes, Kd-trees, and hashing.
-
-[mpfun90](https://github.com/APN-Pucky/mpfun90): software by David H. Bailey that permits a new or existing Fortran 90 program to utilize multiple-precision arithmetic, or in other words a level of numeric precision that ranges from 50 digits to hundreds or thousands of digits if required. A more recent version is MPFUN2020.
-
-[MPFUN2020](https://github.com/jacobwilliams/MPFUN2020): thread-safe arbitrary precision package that enables one to perform floating-point computations (real and complex) to arbitrarily high numeric precision, by making only relatively minor changes to existing Fortran-90 programs (mostly changes to type statements), by David H. Bailey. All basic arithmetic operations and transcendental functions are supported, together with several special functions. FPM package by Jacob Williams [here](https://github.com/jacobwilliams/mpfun2020-var1)
 
 [Modern Fortran Utilities (ModForUtils)](https://github.com/rweed/ModForUtils): variety of tasks including computing binomial coefficients, factorials, routines for checking for NaN and Infinity floating point exceptions, root finders, random number utils and array sorters, and findloc, by Richard Weed. Future releases will expand on these utilities and add interpolation routines and other utilities.
 
@@ -3466,8 +3470,6 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [Precision, Compression, and Stochasticity (PCS)](https://github.com/MartinKarp/pcs): library to enable experimentation with different floating point formats, compression, and introducing randomness/stochasticity in codes based on C++ and Fortran, by Martin Karp and Timofey Mukha. An associated paper is [CPFloat: A C Library for Simulating Low-precision Arithmetic](https://dl.acm.org/doi/10.1145/3585515), by Massimiliano Fasi and Mantas Mikaitis,  
 ACM Trans. Math. Softw. (2023).
-
-[QD](https://github.com/highprecision/QD): double-double and quad-double package for Fortran and C++, by Michael Orlitzky and X. Sherry Li
 
 [rational_number](https://github.com/art-rasa/rational_number): procedures for rational numbers, such as arithmetic operations, conversion to and from real variables, and conversion to a string, by art-rasa
 
