@@ -3392,8 +3392,6 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [FURY](https://github.com/szaghi/FURY): Fortran Units (environment) for Reliable phYsical math, by Stefano Zaghi
 
-[GaussJacobiQuad](https://github.com/HaoZeke/GaussJacobiQuad): routines for the Gauss-Jacobi Quadrature, by Rohit Goswami and Ondřej Čertík
-
 [HDMod](https://github.com/atmmod/HDMod): hyperdual number based calculations, from atmmod
 
 [HOMPACK90](https://github.com/vtopt/hompack90): solves nonlinear systems of equations by homotopy methods. There are subroutines for fixed point, zero finding, and general homotopy curve tracking problems, utilizing both dense and sparse Jacobian matrices, and implementing three different algorithms: ODE-based, normal flow, and augmented Jacobian. Associated paper: [Algorithm 777: HOMPACK90: a suite of Fortran 90 codes for globally convergent homotopy algorithms](https://dl.acm.org/doi/10.1145/279232.279235), by Layne T. Watson et al.
@@ -3487,6 +3485,8 @@ ACM Trans. Math. Softw. (2023).
 [F90-Extrapolation-Integration](https://github.com/irukoa/F90-Extrapolation-Integration): implements the Richardson extrapolation method on 1-, 2- and 3-dimensional scalar or vector integrals, by Álvaro R. Puente-Uriona. It specializes in providing an adaptive method, based on extrapolation over the trapezium method, to obtain increasingly accurate values for, depending only on the number of sample points in which the integrand is evaluated. A related project is [Extrapolation_Integration](https://github.com/irukoa/Extrapolation_Integration).
 
 [FORbID](https://github.com/giacrossi/FORbID): object-oriented Fortran 2008 library for numerical integration of definite integrals, by Giacomo Rossi and Stefano Zaghi
+
+[GaussJacobiQuad](https://github.com/HaoZeke/GaussJacobiQuad): routines for the Gauss-Jacobi Quadrature, by Rohit Goswami and Ondřej Čertík
 
 [GGQ](https://github.com/JamesCBremerJr/GGQ): package for constructing generalized Chebyshev and generalized Gaussian quadrature rules for collections of univariate and bivariate functions, by James Bremer
 
