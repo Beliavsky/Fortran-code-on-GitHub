@@ -2366,6 +2366,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [fortranchessprogram](https://github.com/arbolis/fortranchessprogram): chess program where the user enters moves in notation such as e2-e4 and the board is displayed as text
 
+[Fortran-Engine](https://github.com/hyper2snyper/Fortran-Engine): game engine in Fortran, only using C as a way to call NCurses functions for ease of display, by hyper2snyper. The games created are Snake, Tanks and Dungeon. 
+
 [fortran-fun](https://github.com/interkosmos/fortran-fun): collection of text-based computer games and other small programs, by interkosmos
 
 [Fortran_Meets_SDL](https://github.com/FrederikTobner/Fortran_Meets_SDL): Space Invaders using [SDL3](https://wiki.libsdl.org/SDL3/FrontPage), by Frederik Tobner
