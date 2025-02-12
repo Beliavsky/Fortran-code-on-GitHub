@@ -32,6 +32,7 @@
 * [Molecular Dynamics](#molecular-dynamics)
 * [Mesh Generation](#mesh-generation)
 * [Neural Networks and Machine Learning](#neural-networks-and-machine-learning)
+* [Nonlinear Equations](#nonlinear-equations)
 * [Numerical](#numerical)
 * [Numerical Integration (Quadrature)](#numerical-integration-quadrature)
 * [Ordinary Differential Equations](#ordinary-differential-equations)
@@ -3335,6 +3336,21 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [util](https://github.com/tchlux/util): machine learning, optimization, and data science utilities package, by tchlux. [tlux](https://github.com/tchlux/tlux) has code for nonlinear regression and the ball tree algorithm for nearest neighbors
 
+## Nonlinear Equations
+[dfsaneacc](https://github.com/cran/dfsaneacc): R package with underlying Fortran code implementing the algorithm in [Secant Acceleration of Sequential Residual Methods for Solving Large-Scale Nonlinear Systems of Equations](https://epubs.siam.org/doi/10.1137/20M1388024), by Ernesto G. Birgin and J. M. MartÍnez, SIAM Journal on Numerical Analysis, Vol. 60, Iss. 6 (2022). An implementation by John L. Gardenghi is [here](https://github.com/johngardenghi/dfsaneacc/tree/main/dfsaneacc-in-Fortran).
+
+[ForSolver](https://github.com/gha3mi/forsolver): solves linear and nonlinear equations, by Seyed Ali Ghasemi. For nonlinear equations the available methods are newton, newton-modified, newton-quasi-fd, newton-quasi-fd-modified, newton-quasi-cs, and newton-quasi-cs-modified, where "fd" and "cs" stand for the finite difference and complex step methods.
+
+[HOMPACK90](https://github.com/vtopt/hompack90): solves nonlinear systems of equations by homotopy methods. There are subroutines for fixed point, zero finding, and general homotopy curve tracking problems, utilizing both dense and sparse Jacobian matrices, and implementing three different algorithms: ODE-based, normal flow, and augmented Jacobian. Associated paper: [Algorithm 777: HOMPACK90: a suite of Fortran 90 codes for globally convergent homotopy algorithms](https://dl.acm.org/doi/10.1145/279232.279235), by Layne T. Watson et al.
+
+[JFNK-Hookstep](https://github.com/apwillis1/JFNK-Hookstep): Jacobian-Free Newton-Krylov solver with Hookstep-trust-region approach, by Ashley P. Willis. It solves F(x) = 0, where F and x are n-vectors.
+
+[NITSOL](https://github.com/cmacmackin/nitsol): Newton-iterative solution of large-scale nonlinear systems, by Homer F. Walker
+
+[Nonlinear Equation Solver with Modern Fortran (nlesolver-fortran)](https://github.com/jacobwilliams/nlesolver-fortran): basic Newton-Raphson type nonlinear equation solver for dense systems with m functions of n input variables, by Jacob Williams. Uses LAPACK routines (dgesv or dgels) to solve the linear system.
+
+[pypolsys](https://github.com/nennigb/pypolsys): Python wrapper to [POLSYS_PLP](https://dl.acm.org/doi/abs/10.1145/347837.347885) Fortran 90 package from Layne T. Watson, Steven M. Wise, Andrew J. Sommese, August, 1998. POLSYS_PLP is a solver for N complex coefficients polynomial systems of equations in N unknowns by a probability-one, globally convergent homotopy method.
+
 ## Numerical
 [afnl](https://github.com/ramos/afnl): Fortran 90 numerical library with modules for numerical types, constants, error handling, integration, optimization, linear algebra, sorting and search, special functions, statistics, polynomials, root-finding, Fourier transforms, and dates and times, by Alberto Ramos
 
@@ -3347,8 +3363,6 @@ useful results regarding the thermodynamics and the structural properties of the
 [Computer Methods for Mathematical Computations](https://github.com/Beliavsky/Computer-Methods-for-Mathematical-Computations): code from the [book](https://www.pdas.com/fmm.html) by Forsythe, Malcolm, and Moler, translated to Fortran 90 by Ralph Carmichael
 
 [DATAPLOT](https://github.com/usnistgov/dataplot): powerful and flexible program for performing scientific, engineering, statistical, mathematical, and graphical analysis, from usnistgov
-
-[dfsaneacc](https://github.com/cran/dfsaneacc): R package with underlying Fortran code implementing the algorithm in [Secant Acceleration of Sequential Residual Methods for Solving Large-Scale Nonlinear Systems of Equations](https://epubs.siam.org/doi/10.1137/20M1388024), by Ernesto G. Birgin and J. M. MartÍnez, SIAM Journal on Numerical Analysis, Vol. 60, Iss. 6 (2022). An implementation by John L. Gardenghi is [here](https://github.com/johngardenghi/dfsaneacc/tree/main/dfsaneacc-in-Fortran).
 
 [faiNumber-Fortran](https://github.com/kevinhng86/faiNumber-Fortran): fast, flexible, and secure numerical library for Fortran with fast number parsing as one of its features
 
@@ -3378,8 +3392,6 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [forSISL](https://github.com/rweed/forSISL): Modern Fortran interfaces to the [SINTEF Spline Library (SISL)](https://github.com/SINTEF-Geometry/SISL), by Richard Weed
 
-[ForSolver](https://github.com/gha3mi/forsolver): solves linear and nonlinear equations, by Seyed Ali Ghasemi. For nonlinear equations the available methods are newton, newton-modified, newton-quasi-fd, newton-quasi-fd-modified, newton-quasi-cs, and newton-quasi-cs-modified, where "fd" and "cs" stand for the finite difference and complex step methods.
-
 [Fortran Multiple Precision Library (FMPL)](https://github.com/supercomputerprimesearch/fmpl): by Zander Lewis
 
 [fortran-numerical-methods](https://github.com/c4rlosr4ul/fortran-numerical-methods): implements methods for solving ordinary differential equations, numerical interpolation, finding roots of equations, and other topics, by Carlos Raúl
@@ -3393,10 +3405,6 @@ useful results regarding the thermodynamics and the structural properties of the
 [FURY](https://github.com/szaghi/FURY): Fortran Units (environment) for Reliable phYsical math, by Stefano Zaghi
 
 [HDMod](https://github.com/atmmod/HDMod): hyperdual number based calculations, from atmmod
-
-[HOMPACK90](https://github.com/vtopt/hompack90): solves nonlinear systems of equations by homotopy methods. There are subroutines for fixed point, zero finding, and general homotopy curve tracking problems, utilizing both dense and sparse Jacobian matrices, and implementing three different algorithms: ODE-based, normal flow, and augmented Jacobian. Associated paper: [Algorithm 777: HOMPACK90: a suite of Fortran 90 codes for globally convergent homotopy algorithms](https://dl.acm.org/doi/10.1145/279232.279235), by Layne T. Watson et al.
-
-[JFNK-Hookstep](https://github.com/apwillis1/JFNK-Hookstep): Jacobian-Free Newton-Krylov solver with Hookstep-trust-region approach, by Ashley P. Willis. It solves F(x) = 0, where F and x are n-vectors.
 
 [library](https://github.com/alexander-mead/library): code for array operations, numerical differentiation and integration, mathematical and physical constants, FFTs, interpolation, optimization, ODEs, finding roots, random number generation, sorting, statistics, strings, and other topics, by Alexander Mead
 
@@ -3419,10 +3427,6 @@ useful results regarding the thermodynamics and the structural properties of the
 [NCAR-Classic-Libraries-for-Geophysics](https://github.com/NCAR/NCAR-Classic-Libraries-for-Geophysics): **FFTPACK**: A library of fast Fourier transforms; **FISHPACK**: subprograms for solving separable elliptic partial differential equations (PDEs); **FISHPACK 90**: FISHPACK subprograms with a Fortran 90 interface; **MUDPACK**: Multigrid subprograms for solving separable and non-separable elliptic PDEs; and **SPHEREPACK**: A library for modeling geophysical processes
 
 [Numerical_differentiation](https://github.com/theysy/Numerical_differentiation): numerical differentiation performed using the finite difference method, complex step method, or hyper-Dual numbers, by Seongyong Yoon
-
-[NITSOL](https://github.com/cmacmackin/nitsol): Newton-iterative solution of large-scale nonlinear systems, by Homer F. Walker
-
-[Nonlinear Equation Solver with Modern Fortran (nlesolver-fortran)](https://github.com/jacobwilliams/nlesolver-fortran): basic Newton-Raphson type nonlinear equation solver for dense systems with m functions of n input variables, by Jacob Williams. Uses LAPACK routines (dgesv or dgels) to solve the linear system.
 
 [NumDiff](https://github.com/jacobwilliams/NumDiff): modern Fortran numerical differentiation library, by Jacob Williams
 
@@ -3460,8 +3464,6 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [Precision, Compression, and Stochasticity (PCS)](https://github.com/MartinKarp/pcs): library to enable experimentation with different floating point formats, compression, and introducing randomness/stochasticity in codes based on C++ and Fortran, by Martin Karp and Timofey Mukha. An associated paper is [CPFloat: A C Library for Simulating Low-precision Arithmetic](https://dl.acm.org/doi/10.1145/3585515), by Massimiliano Fasi and Mantas Mikaitis,  
 ACM Trans. Math. Softw. (2023).
-
-[pypolsys](https://github.com/nennigb/pypolsys): Python wrapper to [POLSYS_PLP](https://dl.acm.org/doi/abs/10.1145/347837.347885) Fortran 90 package from Layne T. Watson, Steven M. Wise, Andrew J. Sommese, August, 1998. POLSYS_PLP is a solver for N complex coefficients polynomial systems of equations in N unknowns by a probability-one, globally convergent homotopy method.
 
 [QD](https://github.com/highprecision/QD): double-double and quad-double package for Fortran and C++, by Michael Orlitzky and X. Sherry Li
 
