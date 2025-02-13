@@ -4232,6 +4232,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [py_FS](https://github.com/TheoWeinberger/py_FS): Python script for plotting Fermi surfaces in .bxsf format, calling the Fortran code Supercell K-space Extremal Area Finder (SKEAF), by Patrick Rourke
 
+[PyGeTe](https://github.com/dquigley533/PyGeTe): implementation Fortran of the [Zipoli & Curioni many-body GeTe potential](https://iopscience.iop.org/article/10.1088/1367-2630/15/12/123006) optimised for Monte Carlo simulations in Python, by David Quigley
+
 [PyHub](https://github.com/Quentin-Marecat/PyHub): easy-to-use, hybrid Python/Fortran package to solve efficiently the Fermi-Hubbard Model, by Quentin Marecat
 
 [qdyn](https://github.com/PHOTOX/qdyn): program for N-dimensional numerical quantum propagation on a grid, by Jiri Janos, Jiri Suchan, and Petr Slavicek
