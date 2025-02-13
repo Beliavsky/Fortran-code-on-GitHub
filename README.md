@@ -4876,6 +4876,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 [XA_GRM](https://github.com/mommy003/XA_GRM): estimates the genomic relationship matrix (GRM) in combined population using ancestry-specific allele frequency and ancestry-specific genetic architecture. Associated paper: Momin, M. M., Shin, J., Lee, S., Truong, B., Benyamin, B., & Lee, S. H. (2021). [A novel method for an unbiased estimate of cross-ancestry genetic correlation using individual-level data](https://www.nature.com/articles/s41467-023-36281-x). Nature communications, 2023. 14(722).
 
 ## Strings
+[bstrith](https://github.com/degawa/bstrith): provides procedures for arithmetic operations on binary numbers in strings, by Tomohiro Degawa
+
 [CaseConverter](https://github.com/koseiohara/CaseConverter): module to convert strings between lowercase and uppercase, by Kosei Ohara
 
 [enclose](https://github.com/degawa/enclose): procedures for enclosing a string in brackets, by Tomohiro Degawa
