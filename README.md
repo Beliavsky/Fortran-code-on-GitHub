@@ -700,6 +700,8 @@ simulating and forecasting meteorological phenomena.
 
 [ffixed2free](https://github.com/MeteoSwiss/ffixed2free): converts FORTRAN fixed-format source code (FORTRAN 77 style) to free-format source code (Fortran 90 style), by Pirmin Kaufmann and Martin Schraner. Ffixed2free does not require the fixed-format code to be restricted to the FORTRAN 77 standard.
 
+[flavanaly](https://github.com/degawa/flavanaly): wrapper for [Fortran-stdlib logger](https://stdlib.fortran-lang.org/page/specs/stdlib_logger.html) that enhances log messages with purpose classification and message categorization, by Tomohiro Degawa
+
 [fortran2018-conditional-memory](https://github.com/kevinmatthes/fortran2018-conditional-memory): library for the conditional allocation and deallocation of allocatable objects of Fortran intrinsic types, by Kevin Matthes 
 
 [Fortran Debug Utilities](https://github.com/plevold/fortran-debug-utils): collection of some utilities useful for debugging code, by Pål Levold
