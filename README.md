@@ -5052,6 +5052,8 @@ series (or its logs) is described by a linear combination of regressors, and the
 
 [test-drive](https://github.com/fortran-lang/test-drive): lightweight, procedural unit testing framework based on nothing but standard Fortran, by Sebastian Ehlert and Jeremie Vandenplas. Integration with meson, cmake and Fortran package manager (fpm) is available.
 
+[testdrive_util](https://github.com/degawa/testdrive_util): provides procedures to improve the convenience of [test-drive](https://github.com/fortran-lang/test-drive), by Tomohiro Degawa
+
 [Testing Or ASsertion Toolkit (TOAST)](https://github.com/thomasms/toast): unit testing library by thomasms and Bob Apthorpe
 
 [Veggies](https://github.com/everythingfunctional/veggies): unit testing framework written using functional programming principles, with the ability to test parallel code, by Brad Richardson et al. As many of its procedures as possible are marked with the pure keyword, while still allowing the framework to test impure code. 
