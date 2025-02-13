@@ -3314,6 +3314,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [Fortran FLANN binding](https://github.com/ivan-pi/fortran-flann): Fortran bindings to the FLANN library for performing fast approximate nearest neighbor searches in high dimensional spaces, by ivan-pi
 
+[Fortran-ML-Interface](https://github.com/RWTH-HPC/Fortran-ML-Interface): interface to the [AIxeleratorService](https://github.com/RWTH-HPC/AIxeleratorService), a library to couple HPC applications with machine/deep learning inference accelerated on GPUs or other devices, from RWTH-HPC
+
 [fortran-NeuralNetwork](https://github.com/Jonas-Finkler/fortran-NeuralNetwork): Simple implementation of a neural network, implemented in Fortran, by Jonas-Finkler
 
 [FTorch](https://github.com/Cambridge-ICCS/FTorch): code and examples on directly calling Pytorch ML models from Fortran, from Cambridge-ICCS
