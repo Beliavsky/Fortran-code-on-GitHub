@@ -1091,6 +1091,8 @@ Pietro Carlo Boldini
 
 [Flexible Aerodynamic Solver Technology (FAST)](https://github.com/onera/Fast): set of Python modules implementing HPC solvers for computational fluid dynamics, calling Fortran code, from ONERA, the French Aerospace Lab
 
+[flop](https://github.com/degawa/flop): operator-oriented library for two-dimensional incompressible fluid flow simulation, by Tomohiro Degawa
+
 [Flow81](https://github.com/corygoates/Flow81): basic CFD solvers by corygoates
 
 [flowmol](https://github.com/edwardsmith999/flowmol): molecular dynamics solver for molecular fluid dynamics simulation, by David Trevelyan and Ed Smith
