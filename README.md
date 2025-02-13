@@ -2471,6 +2471,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [fortran-sleep](https://github.com/scivision/fortran-sleep): OS/compiler-independent "sleep" Fortran subroutine that calls c_sleep, from scivision
 
+[fortran-time-measurement](https://github.com/degawa/fortran-time-measurement): provides timing routines using `system_clock`, `cpu_time`, `date_and_time`, and `omp_get_wtime` for the Intel, PGI, GNU Fortran compilers, and `QueryPerformanceCounter` on Windows, by Tomohiro Degawa
+
 [Fortran User Defined Exceptions Handler (ForEx)](https://github.com/victorsndvg/ForEx): Fortran 2003 project taking advantage of the C preprocessor capabilities in order to emulate exception handling, by victorsndvg
 
 [FortranUtilities](https://github.com/ecasglez/FortranUtilities): functions for strings, numbers, precision, statistics and files, by Emilio Castro
