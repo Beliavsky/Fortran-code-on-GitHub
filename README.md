@@ -186,6 +186,8 @@
 
 [International Radiation Belt Environment Modeling (IRBEM) library](https://github.com/PRBEM/IRBEM): routines to compute magnetic coordinates for any location in the Earth's magnetic field, to perform coordinate conversions, to evaluate geophysics/space-physics models, and to propagate orbits in time.
 
+[initial-orbit-determination](https://github.com/LoayGouda/initial-orbit-determination): Double-R method for orbit determination using three sets of right-ascension and declination angles, by Loay Gouda. Also [Astrodynamics-Toolkit](https://github.com/LoayGouda/Astrodynamics-Toolkit) for solving prominent orbital dynamics problems.
+
 [IONeq](https://github.com/efraingatuzz/IONeq): X-ray high-resolution photoabsorption model which compute the absorption coefficient assuming ionization equilibrium, associated with the paper [Probing the structure of the gas in the Milky Way through X-ray high-resolution spectroscopy](https://academic.oup.com/mnras/article/474/1/696/4569206), by Efraín Gatuzz and Eugene Churazov, Monthly Notices of the Royal Astronomical Society (2018)
 
 [iso](https://github.com/aarondotter/iso): transforms MESA history files into a uniform basis for interpolation and then constructs new stellar evolution tracks and isochrones from that basis. An associated paper is [MESA Isochrones and Stellar Tracks (MIST) 0: Methods for the Construction of Stellar Isochrones](https://iopscience.iop.org/article/10.3847/0067-0049/222/1/8), by Aaron Dotter, The Astrophysical Journal Supplement Series (2016).
