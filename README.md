@@ -3442,6 +3442,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [NumDiff](https://github.com/jacobwilliams/NumDiff): modern Fortran numerical differentiation library, by Jacob Williams
 
+[Numeric Library for Modern Fortran (fortran-numeric)](https://github.com/degawa/fortran-numeric): deals with integers (handling integer constants, digits, convert to string with format), reals (handling real constants, convert to string with format), and NaN (handling quiet NaN and positive/negative inf as constants, check whether an array of floating-point numbers has at least one quiet nan, positive/negative inf value), by Tomohiro Degawa
+
 [Numerical-Methods](https://github.com/Manan-Rawat/Numerical-Methods): codes for course in numerical methods, including linear equations, finding roots, eigenvalue problems, interpolation and approximation, numerical integration and differentiation, random numbers, and Monte Carlo, by Manan Rawat and H. M. Antia. Codes from Antia's book are [here](https://www.tifr.res.in/~antia/nmse3.html) and archived [here](https://github.com/Beliavsky/antia_numerical_methods).
 
 [Numerical_utilities](https://github.com/osada-yum/Numerical_utilities): Kahan algorithms for the sum, variance, and covariance, using MPI, by osada-yum
