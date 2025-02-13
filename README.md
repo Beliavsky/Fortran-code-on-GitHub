@@ -2548,6 +2548,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [oolong](https://github.com/EdHone/oolong): object-oriented logging system by Ed Hone that aims to provide a simple, flexible logging interface that will enable a wide range of logging functionality for a wide range of model paradigms
 
+[orbs](https://github.com/degawa/orbs): wrapper that allows arithmetic operations for [stdlib_bitsets](https://stdlib.fortran-lang.org/page/specs/stdlib_bitsets.html), by Tomohiro Degawa. It expands the range of information conveyed by bitsets by providing several operators, including logical, shift, and arithmetic operators on the bitset.
+
 [paramcard](https://github.com/tueda/paramcard): command-line parameter input made simple, by Takahiro Ueda
 
 [PENF](https://github.com/szaghi/PENF): Fortran (standard 2003) module useful to achieve portable codes. The module makes available portable kind-parameters and some useful procedures to deal with them
