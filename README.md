@@ -2814,6 +2814,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [M_system](https://github.com/urbanjost/M_system): module that allows Fortran to call commonly available C routines that perform basic system operations like creating and deleting files and directories, changing and querying file permits, getting basic ID and process information, ... and other POSIX system requests, by urbanjost
 
+[node-fortran](https://github.com/IonicaBizau/node-fortran): bridge allowing Fortran code to be run from Node.js, by Ionică Bizău
+
 [NPY for Fortran](https://github.com/MRedies/NPY-for-Fortran): allows saving numerical Fortran arrays in Numpy's .npy or .npz format, by MRedies
 
 [pmem_fortran_interface](https://github.com/adrianjhpc/pmem_fortran_interface): interface by Adrian Jackson to the [libpmem](https://github.com/pmem/pmdk) library from the PMDK set of libraries. The aim is to allow persistent memory to be programmed directly from Fortran, rather than requiring every Fortran code developer to create their own interface or C/C++ code to exploit this functionality.
