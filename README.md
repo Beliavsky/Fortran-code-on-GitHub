@@ -3157,6 +3157,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 
 [Los Alamos Polycrystal code (LApx)](https://github.com/lanl/LApx): predicts the mechanical response of crystalline materials subjected to arbitrary quasi-static (i.e., low strain rates) scenarios. LApx uses fast Fourier transform based methods to solve for the stress and strain states at each point within a complex microstructure.
 
+[LUSE_ENGR851_ICME](https://github.com/jmanthony3/LUSE_ENGR851_ICME): scripts necessary to bridge certain length scales of Integrated Computational Materials Engineering design process, by Joby M. Anthony III
+
 [mef90](https://github.com/bourdin/mef90): reference implementation of the variational approach to fracture, as described in several papers, by Blaise Bourdin
 
 [MulSKIPS](https://github.com/MulSKIPS/MulSKIPS): Kinetic Monte Carlo super-Lattice code designed to simulate with atomic resolution the kinetics of processes (e.g., PVD, CVD, laser annealing) involving elements, alloys and compounds characterized by the sp3 bond symmetry. An associated paper is G. Calogero et al., [Multiscale modeling of ultrafast melting phenomena](https://www.nature.com/articles/s41524-022-00720-y), npj Computational Materials 8, 36 (2022)
