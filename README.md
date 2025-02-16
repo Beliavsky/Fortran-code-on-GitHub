@@ -67,6 +67,8 @@
 
 [MUSICV](https://github.com/vlazzarini/MUSICV): Max Mathew's MUSIC V synthesis program, prepared by Bill Schottstaed for gfortran, with additions and fixes by Victor Lazzarini.
 
+[MZ2SYNTH](https://github.com/frankenbeans/MZ2SYNTH): wavetable synthesizer by E. Lamprecht inspired by the ANS synthesizer built by Yevgeny Murzin
+
 [TapTempo Fortran](https://github.com/vmagnin/TapTempo-Fortran): command line taptempo written in modern Fortran, by Vincent Magnin. Listen to a song and hit enter key with style and you'll get the corresponding number of beats per minute (BPM). 
 
 [Tonbandfetzen](https://github.com/janberges/Tonbandfetzen): collection of command-line tools to compose music based on audio fragments generated from plain text input, by Jan Berges
