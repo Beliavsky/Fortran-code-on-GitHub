@@ -3056,6 +3056,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 
 [PFLARE](https://github.com/stevendargaville/PFLARE): library to solve linear systems in parallel with PETSc, with interfaces in C, Fortran, and Python. An associated paper is [AIR multigrid with GMRES polynomials (AIRG) and additive preconditioners for Boltzmann transport](https://www.sciencedirect.com/science/article/pii/S0021999124005904), by Steven Dargaville et al., Journal of Computational Physics (2024).
 
+[polynomial_arnoldi](https://github.com/loiseaujc/polynomial_arnoldi): polynomial Arnoldi preconditioner for GMRES, applied to the 2D Poisson equation, by Jean-Christophe Loiseau
+
 [PROPACK](https://github.com/poulson/PROPACK): set of functions for computing the singular value decomposition of large and sparse or structured matrices  
 
 [PSBLAS3](https://github.com/sfilippone/psblas3): Parallel Sparse Basic Linear Algebra Subroutines, from sfilippone
