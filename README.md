@@ -4363,7 +4363,7 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [APOST3D](https://github.com/mgimferrer/APOST3D): chemical concepts from wave function analysis. An associated paper is [Overlap populations, bond orders and valences for 'fuzzy' atoms](https://www.sciencedirect.com/science/article/abs/pii/S0009261403020220), by I. Mayer and P. Salvador, Chemical Physics Letters (2004).
 
-[Atomic Energy NETwork (aenet)](https://github.com/atomisticnet/aenet): collection of tools for the construction and application of atomic interaction potentials based on artificial neural networks (ANN), by Nongnuch Artrith and Alexander Urban. The ænet code allows the accurate interpolation of structural energies, e.g., from electronic structure calculations, using ANNs. 
+[Atomic Energy NETwork (aenet)](https://github.com/atomisticnet/aenet): collection of tools for the construction and application of atomic interaction potentials based on artificial neural networks (ANN), by Nongnuch Artrith and Alexander Urban. The ænet code allows the accurate interpolation of structural energies, e.g., from electronic structure calculations, using ANNs. [ænet-PyTorch](https://github.com/atomisticnet/aenet-PyTorch) is an extension of that code to allow GPU-support for the training process of ænet, substituting the train.x training step.
 
 [Atoms and Molecules with Quantum Monte Carlo (Amolqc)](https://github.com/luechow-group/Amolqc): electronic structure calculations with quantum Monte Carlo (QMC), from Lüchow Group. The code features strong multideterminant and optimization capabilities.
 
