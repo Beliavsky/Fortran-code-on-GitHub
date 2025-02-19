@@ -218,6 +218,8 @@
 
 [Mars Subsurface Ice Model (MSIM)](https://github.com/nschorgh/MSIM): thermal and ice evolution models for Mars, by Norbert Schörghofer
 
+[MCGSuite](https://github.com/CIRADA-Tools/MCGSuite): set of codes designed to generate mock observations of tilted ring models, by Nate Deg and K. Spekkens. These mock observations mimic observations of axisymmetric HI gas disks. 
+
 [MCMax3D](https://github.com/michielmin/MCMax3D): Monte Carlo radiative transfer and disk modelling tool, described [here](https://www.exoclouds.com/Software/). It sets up a disk structure using physical processes or a parameterised structure.
 
 [mercury](https://github.com/smirik/mercury): N-Body integrator based on Bulirsh-Stoer, Everhart and other methods, originally by John E. Chambers, that can integrate any star system, such as the Solar System
