@@ -4376,6 +4376,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [beyond-rpa](https://github.com/modrzejewski/beyond-rpa): correlated, nonperturbative electronic structure calculations based on diagrammatic techniques: the random-phase approximation and related higher-level theories. An associated paper is [Random Phase Approximation Applied to Many-Body Noncovalent Systems](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00979), by Marcin Modrzejewski et al., Journal of Chemical Theory and Computation (2019).
 
+[Behler-Parrinello neural NETwork potential (BPNET)](https://github.com/cometscome/BPNET): implementation of machine learning potential construction, using modern Fortran for high-performance computation and Julia (under development) for flexible model training, by Yuki Nagai
+
 [b-spline-two-e](https://github.com/edvinolo/b-spline-two-e): computes matrix elements for non-relativistic, two-electron atoms using B-spline orbitals, by Edvin Olofsson
 
 [cct3](https://github.com/piecuch-group/cct3): plugin to [PSI4](https://psicode.org/) capable of executing a number of closed- and open-shell coupled-cluster (CC) calculations with up to triply excited (T3) clusters, by J. Emiliano Deustua et al.
