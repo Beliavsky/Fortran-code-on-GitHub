@@ -4088,6 +4088,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [codata](https://github.com/MilanSkocic/codata): provides the codata constants 2010, 2014 and 2018, by Milan Skocic. The raw codata from http://physics.nist.gov/constants are parsed line by line where the columns name, value, uncertainty and unit are formatted to be conform to Fortran double precision. [pycodata](https://github.com/MilanSkocic/pycodata) is a Python wrapper.
 
+[CODE-GPSD-3D](https://github.com/mkmat/CODE-GPSD-3D): code associated with paper [Generalized geometric pore size distribution code GPSD-3D for periodic systems composed of monodisperse spheres](https://www.sciencedirect.com/science/article/pii/S0010465524001358), by Martin Kröger et al., <i>Computer Physics Communications</i> (2024)
+
 [COLOSS](https://github.com/jinleiphys/COLOSS): program designed to address the scattering problem using a bound-state technique known as complex scaling, by Jin Lei. In this method, the oscillatory boundary conditions of the wave function are transformed into exponentially decaying ones, accommodating the long-range Coulomb interaction. Also [scatt2b](https://github.com/jinleiphys/scatt2b) to compute two body scattering problem in r-space, [fold](https://github.com/jinleiphys/fold), a single folding potential for A-9Be, and [inhomoR](https://github.com/jinleiphys/inhomoR), a code with Pierre Descouvemont to solve the inhomogeneous equations.
 
 [Computational Environment for Nuclear Structure (CENS)](https://github.com/ManyBodyPhysics/CENS): many-body codes developed by Morten Hjorth-Jensen and collaborators
