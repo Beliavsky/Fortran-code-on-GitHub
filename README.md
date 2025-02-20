@@ -3403,7 +3403,7 @@ useful results regarding the thermodynamics and the structural properties of the
 [antia_numerical_methods](https://github.com/Beliavsky/antia_numerical_methods): codes from "Numerical methods for scientists and engineers, 3rd ed." (2012), by H. M. Antia
 
 [Burkardt-Fortran-90-codes](https://github.com/Beliavsky/Burkardt-Fortran-90-codes): codes for cluster analysis, combinatorics, computational geometry, eigenvalues, FFTs,
-graph algorithms, interpolation and approximation, dense and sparse linear algebra, nonlinear equations and nonlinear least squares non-uniform random number generation, optimization, probability distributions, numerical integration, quasirandom number generation, root-finding, sorting, special functions, wavelet transforms, and other topics, by John Burkardt
+graph algorithms, interpolation and approximation, dense and sparse linear algebra, nonlinear equations and nonlinear least squares, uniform and non-uniform random number generation, quasirandom number generation, optimization, probability distributions, numerical integration, root-finding, sorting, special functions, wavelet transforms, and other topics, by John Burkardt. Codes from his older site are [here](https://github.com/Beliavsky/Burkardt-Fortran-90-codes-SC).
 
 [chebpak](https://github.com/saridut/chebpak): routines for Chebyshev polynomials, derivatve matrices, and interpolation, by Sarit Dutta
 
