@@ -1676,6 +1676,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [MODFLOW 6: USGS Modular Hydrologic Model](https://github.com/MODFLOW-USGS/modflow6): accurately, reliably, and efficiently simulates groundwater flow. With time, growing interest in surface and groundwater interactions, local refinement with nested and unstructured grids, karst groundwater flow, solute transport, and saltwater intrusion, has led to the development of numerous MODFLOW versions.
 
+[Modified_Cam_Clay_Potts](https://github.com/CriticalSoilModels/Modified_Cam_Clay_Potts): [Modified cam clay](https://doc.comsol.com/5.5/doc/com.comsol.help.sme/sme_ug_theory.06.31.html#3443214) with Mohr-Coulomb surface in the deviatoric plane, from CriticalSoilModels. Also [Strain_Rate_Mohr_Coulomb](https://github.com/CriticalSoilModels/Strain_Rate_Mohr_Coulomb), associated with the paper [Constitutive modelling of non-cohesive soils under high-strain rates: a consistency approach](https://www.icevirtuallibrary.com/doi/10.1680/jgeot.21.00192) by Luis E. Zambrano-Cruzatty et al., <i>Géotechnique</i> (2024).
+
 [modpath-rw](https://github.com/upc-ghs/modpath-rw): Random Walk Particle Tracking code for solute transport in heterogeneous aquifers, extending [MODPATH-v7](https://github.com/MODFLOW-USGS/modpath-v7), by rodrperezi and dfg1973
 
 [MOHID - Water Modelling System](https://github.com/Mohid-Water-Modelling-System/Mohid): modular finite volumes water-modelling system written in Fortran 95 using an Object-oriented programming philosophy, integrating diverse mathematical models and supporting graphical user interfaces that manage all the pre- and post-processing
