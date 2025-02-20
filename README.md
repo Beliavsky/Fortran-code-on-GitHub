@@ -3402,6 +3402,9 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [antia_numerical_methods](https://github.com/Beliavsky/antia_numerical_methods): codes from "Numerical methods for scientists and engineers, 3rd ed." (2012), by H. M. Antia
 
+[Burkardt-Fortran-90-codes](https://github.com/Beliavsky/Burkardt-Fortran-90-codes): codes for cluster analysis, combinatorics, computational geometry, eigenvalues, FFTs,
+graph algorithms, interpolation and approximation, dense and sparse linear algebra, nonlinear equations and nonlinear least squares non-uniform random number generation, optimization, probability distributions, numerical integration, quasirandom number generation, root-finding, sorting, special functions, wavelet transforms, and other topics, by John Burkardt
+
 [chebpak](https://github.com/saridut/chebpak): routines for Chebyshev polynomials, derivatve matrices, and interpolation, by Sarit Dutta
 
 [compare](https://github.com/tcanich/compare): module to aid in comparison of real or complex numbers, by Tom Canich and Magnus Hagdorn. The module specifies a tolerance when making the comparisons to determine equality or inequality.
