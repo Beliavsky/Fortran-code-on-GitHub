@@ -2102,6 +2102,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [EasyNC](https://github.com/Roadelse/EasyNC): encapsulation for Fortran netcdf I/O with different data type, dimension, struct data, etc., by Roadelse
 
+[fcat](https://github.com/soonsimple/fcat): port of `cat` command used to concatenate file(s) to standard output, by soonsimple
+
 [fcore](https://github.com/jchristopherson/fcore): string handling and i/o routines, by jchristopherson
 
 [fed](https://github.com/degawa/fed): functions to make it easier to create Fortran edit descriptors, by Tomohiro Degawa
