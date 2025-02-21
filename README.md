@@ -4569,6 +4569,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [spinProjection](https://github.com/hphratchian/spinProjection): carries out spin-projection for unrestricted Hartree-Fock theory, by Hrant P. Hratchian. Other codes are [spinContaminationChecker](https://github.com/hphratchian/spinContaminationChecker) to carry out spin contamination checks, analysis, and related models and [nio](https://github.com/hphratchian/nio) for Natural Ionization Orbital analysis
 
+[standalone_noft](https://github.com/marm314/standalone_noft): stand-alone version of the [DoNOF](https://github.com/marm314/standalone_noft) code for running Reduced Density Matrix Functional Theory (RDMFT) and Natural Orbital Functional Theory (NOFT) calculations, by M. Rodriguez-Mayorga
+
 [STB](https://github.com/MRedies/STB): Simple Tight-binding, by MRedies
 
 [superdyson](https://github.com/MBI-Theory/superdyson): property evaluation for general configuration interaction (CI) expansions, from MBI-Theory. All the quantum chemistry data are taken from GAMESS-US.
