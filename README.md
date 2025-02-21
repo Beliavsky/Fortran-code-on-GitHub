@@ -1612,6 +1612,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [Isca](https://github.com/ExeClim/Isca): framework for the idealized modelling of the global circulation of planetary atmospheres at varying levels of complexity and realism, from the University of Exeter. The framework is an outgrowth of models from GFDL designed for Earth's atmosphere, but it may readily be extended into other planetary regimes.
 
+[isola](https://github.com/esokos/isola): moment tensor retrieval software, a combination of Matlab graphic user interface (by E. Sokos) and Fortran codes (by J. Zahradník), intended for a transparent and detailed manual processing of selected events (earthquakes)
+
 [isostasy](https://github.com/palma-ice/isostasy): stand-alone model of regional glacial isostatic adjustment, by Alex Robinson and Jan Swierczek-Jereczek
 
 [Ice Shelf/Ocean Fluid and Thermodynamics (ISOFT)](https://github.com/cmacmackin/isoft): object-oriented, extensible framework with which to model glacial flow using modern Fortran, by Chris MacMackin. Though developed for ice shelves, it could in principle be modified to simulated grounded ice dynamics as well.
