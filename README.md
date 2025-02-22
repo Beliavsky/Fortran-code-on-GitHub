@@ -228,6 +228,8 @@
 
 [MESSY](https://github.com/pau-amaro-seoane/MESSY): Hénon-style Monte-Carlo code to simulate spherical stellar clusters and galactic nuclei; i.e. Monte Carlo simulations for stellar dynamics, associated with the paper [Stellar Remnants in Galactic Nuclei: Mass Segregation](https://iopscience.iop.org/article/10.1086/506193), by Marc Freitag et al., Astrophysical Journal (2006)
 
+[METhod of Interpolation for Single Star Evolution (METISSE)](https://github.com/TeamMETISSE/METISSE): code package designed for rapidly computing the evolution of a large number of stars by interpolating within a set of pre-computed evolutionary tracks. An associated paper is [Modelling stellar evolution in mass-transferring binaries and gravitational-wave progenitors with metisse](https://academic.oup.com/mnras/article/525/1/933/7235087), by Poojan Agrawal et al., <i>Monthly Notices of the Royal Astronomical Society</i> (2023).
+
 [MGITM](https://github.com/dpawlows/MGITM): 3-D GCM of Mars atmosphere from the surface to 300 km aimed at solving for the dynamics of the upper atmosphere, by dpawlows
 
 [MHD](https://github.com/JaimanP1/MHD): outputs both binary and vdc data to generate Magnetic Flux ropes in quadrupolar photosphere topologies for Coronal Mass Ejections, by Jaiman Parekh and Satoshi Inoue
