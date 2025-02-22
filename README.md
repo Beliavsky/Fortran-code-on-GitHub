@@ -1271,6 +1271,8 @@ nscapin
 
 [uranos-gpu](https://github.com/uranos-gpu/uranos-gpu): code associated with paper [URANOS: A GPU accelerated Navier-Stokes solver for compressible wall-bounded flows](https://www.sciencedirect.com/science/article/pii/S0010465523000620?via%3Dihub), by Francesco De Vanna et al., Computer Physics Communications (2023)
 
+[VortoNeX](https://github.com/CPimentelMx/VortoNeX): code associated with paper [The Full Non-linear Vortex Tube-Vorton Method: the pre-stall condition](https://github.com/CPimentelMx/VortoNeX), by Jesus Carlos Pimentel-Garcia, <i>Advances in Aerodynamics</i>, (2024) 
+
 [Xfoil-for-Mac](https://github.com/nolankucd/Xfoil-for-Mac): tweaks by nolankucd of the [Xfoil](https://web.mit.edu/drela/Public/web/xfoil/) aerodynamics
 engine to allow installation on MacOS 11 with gfortran
 
