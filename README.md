@@ -1004,6 +1004,8 @@ and Dmitry Pavlov. It uses BFGS for local optimization and two different forms o
 
 [multidim_loop_iterator](https://github.com/grofz/multidim_loop_iterator): versatile iterator for multi-dimensional loops with customizable lower bounds, upper bounds, and strides for each dimension, by Zdenek Grof. It simplifies the process of iterating over multi-dimensional arrays by abstracting the complexities of nested loops.
 
+[murmur3f](https://github.com/marshallward/murmur3f): implementation of Murmur3, a non-cryptographic hash function, by Marshall Ward
+
 [PolyCon](https://github.com/cmacmackin/PolyCon): abstract container derived type which can be used as a sort of unlimited polymorphic entity whose contents are retrievable with type-guards, by Chris MacMackin. Different subclasses are created in order to hold different data-types.
 
 [repot](https://github.com/degawa/repot): abstract data types designed for the repository pattern for reading configuration files in Fortran, by Tomohiro Degawa. The repository pattern is a design pattern that makes an object persistent in a repository and reconstructs it from the repository. [Repot_examples](https://github.com/degawa/repot_examples) has practical usage examples.
