@@ -4791,6 +4791,8 @@ universe-based geometry building, steady-state MC, OTF Doppler broadening, MC-ba
 
 [ecgmm_fortran](https://github.com/minzastro/ecgmm_fortran): Error-Corrected Gaussian Mixture Model algorithm, by Alexey Mints. Based on the paper Hao, J., Koester, B. P., Mckay, T. a., Rykoff, E. S., Rozo, E., Evrard, A., Annis, J., et al. (2009). [Precision Measurements of the Cluster Red Sequence Using an Error-Corrected Gaussian Mixture Model](https://iopscience.iop.org/article/10.1088/0004-637X/702/1/745). The Astrophysical Journal, 702(1), 745–758.
 
+[Elementary Data Analysis Toolkit (EDAT)](https://github.com/koseiohara/EDAT): functions for strings and to compute the correlation, covariance, variance, mean, sum (using accurate pairwise summation), subroutines for I/O, and a module of math constants from math.h, by Kosei Ohara
+
 [em-fortranbox](https://github.com/elmarmertens/em-fortranbox): econometrics modules by Elmar Mertens
 
 [Ensemble Data Assimilation Modules (EnsDAM)](https://github.com/brankart/ensdam): modules that can be useful to ensemble data assimilation systems, by Jean-Michel Brankart. Includes code to compute and update statisics, locate and interpolate points, and sample from uniform and nonuniform distirubtions.
