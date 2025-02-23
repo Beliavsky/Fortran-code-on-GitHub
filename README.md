@@ -4998,6 +4998,8 @@ parameter estimation of mechanistic mathematical models as well as for experimen
 
 [BVARmml](https://github.com/dingshutong/BVARmml): variable selection in Bayesian VAR models via marginalization of marginal likelihood, by dingshutong
 
+[CWT](https://github.com/khaors/CWT): calculates the Continuous Wavelet Transform of a signal using the Morlet and Mexican Hat mother wavelets, by Oscar Garcia-Cabrejo
+
 [EnKF_analysis](https://github.com/geirev/EnKF_analysis): EnKF (Ensemble Kalman Filter) analysis routines in Fortran 90, by Geir Evensen. Stochastic and SQRT formulations with subspace inversion. There is a related [book](https://enkf.nersc.no/).
 
 [Exponentes-de-Lyapunov](https://github.com/Cygnus000/Exponentes-de-Lyapunov): code by Cygnus000 for the algorithm of the paper [Lyapunov Characteristic Exponents for smooth dynamical systems and for hamiltonian systems; a method for computing all of them.](https://link.springer.com/article/10.1007/BF02128236), by Giancarlo Benettin et al., Meccanica (1980)
