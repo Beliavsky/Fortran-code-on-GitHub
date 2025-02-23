@@ -551,6 +551,8 @@ on multiscale QM/MM simulations of biological systems, but open enough to addres
 
 [siQ-ChIP: sans spike-in Quantitative ChIP-seq](https://github.com/BradleyDickson/siQ-ChIP): small package of bash and Fortran codes used to quantify ChIP-seq data without requiring "spike-ins" to be added to the ChIP-seq protocol. Associated with [paper](https://www.jbc.org/article/S0021-9258(17)50412-3/fulltext) J Biol Chem. 2020 Nov 20;295(47):15826-15837. "A physical basis for quantitative ChIP-sequencing" by Bradley M Dickson, Rochelle L Tiedemann, Alison A Chomiak, Evan M Cornett, Robert M Vaughan, and Scott B Rothbart
 
+[Texture-Toolbox](https://github.com/cgreen259/Texture-Toolbox): allows the user to input a 2D or 3D image, in the form of a NumPy array and calculate 43 commonly used, texture features of the image, by cgreen259. Quantisation methods are also avaiable to improve feature stability in the form of Fixed Bin Width (FBW) and Fixed Bin Number (FBN).
+
 [TRIDENT](https://github.com/TRIBO-Pprime/TRIDENT): program for [dental microwear analysis](https://en.wikipedia.org/wiki/Dental_microwear), by Arthur Francisco
 
 [umat_cartilage](https://github.com/shayansss/umat_cartilage): subroutines for a multiphasic and fibril-reinforced model of articular cartilage, by shayansss
