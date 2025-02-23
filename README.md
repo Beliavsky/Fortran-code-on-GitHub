@@ -3734,6 +3734,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [PowellOpt](https://github.com/jacobwilliams/PowellOpt): collection of derivative-free optimization algorithms by M.J.D. Powell. 
 
+[psqp](https://github.com/jacobwilliams/psqp): sequential quadratic programming algorithm, with simple bounds on variables and general nonlinear constraints, by Ladislav Luksan, modernized by Jacob Williams. Other optimization codes are at Luksan's [site](https://www.cs.cas.cz/~luksan/subroutines.html).
+
 [pso](https://github.com/Konrad1991/pso): particle swarm optimization in Fortran, by Konrad1991
 
 [PyDQED](https://github.com/ReactionMechanismGenerator/PyDQED): Python wrapper for the DQED Fortran code that solves bounded and constrained least squares and nonlinear equations, by Richard Hanson and Fred Krogh, updated to Fortran 90 by John Burkardt
