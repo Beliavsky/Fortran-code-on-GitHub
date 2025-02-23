@@ -4322,6 +4322,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [SIMulated PHONon topologY (simphony)](https://github.com/fballestermacia/simphony): adapts the Wannier orbital formalism to the calculation of topological propperties of phonon systems, with emphasis on polar materials, i.e., in the case of Longitudinal Optical-Transverse Optical (LO-TO) splitting, by Francesc Ballester
 
+[Single-particle IMage Processing Linux Engine (SIMPLE)](https://github.com/hael/SIMPLE): package for analysis of cryogenic transmission electron microscopy (cryo-EM) movies of single-particles (Single-Particle Analysis, SPA), by Hans Elmlund et al.
+
 [SNAP](https://github.com/lanl/SNAP): proxy application to model the performance of a modern discrete ordinates neutral particle transport application, from LANL
 
 [Solid state Task Constructor (SsTC)](https://github.com/irukoa/SsTC): high-perfomance computing oriented library to create integration and sampling tasks in the BZ of a crystal for k-dependent functions, by Álvaro R. Puente-Uriona. [SsTC_driver](https://github.com/irukoa/SsTC_driver) is a backend for SsTC.
