@@ -1194,6 +1194,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [NekIBM](https://github.com/YunchaoYang/NekIBM): implementation of Immersed Boundary Method for for exascale simulation of multiphase flow based on the Spectral Element Method Nek5000/CMTnek code, by Yunchao Yang
 
+[Neko](https://github.com/ExtremeFLOW/neko): portable framework for high-order spectral element flow simulations, by Niclas Jansson et al. It adopts an object-oriented approach, allowing multi-tier abstractions of the solver stack and facilitating various hardware backends ranging from general-purpose processors, CUDA and HIP enabled accelerators to SX-Aurora vector processors.
+
 [nekStab](https://github.com/nekStab/nekStab): toolbox based on Krylov methods for highly parallel global linear stability analysis of incompressible flow problems for Nek5000, with theoretical framework described in [Krylov Methods for Large-Scale Dynamical Systems: Application in Fluid Dynamics](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/75/3/030802/1156502/Krylov-Methods-for-Large-Scale-Dynamical-Systems), by R. A. S. Frantz, J.-Ch. Loiseau, J.-Ch. Robinet, Appl. Mech. Rev. May 2023, 75(3).
 
 [Nemoh](https://github.com/LHEEA/Nemoh): Boundary Element Methods (BEM) code dedicated to the computation of first order wave loads on offshore structures (added mass, radiation damping, diffraction forces). Typical use is estimation of dynamic response of floating structures or performance assessment of wave energy converters.
