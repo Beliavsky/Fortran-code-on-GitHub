@@ -2040,7 +2040,7 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 [Wind Energy with Integrated Servo-control (WEIS)](https://github.com/WISDEM/WEIS): performs multifidelity co-design of wind turbines, from WISDEM. WEIS is a framework that combines multiple NREL-developed tools to enable design optimization of floating offshore wind turbines.
 
 ## Error Handling
-[assert](https://github.com/sourceryinstitute/assert): simple assertion utility taking advantage of the Fortran 2018 standard's introduction of variable stop codes and error termination inside pure procedures, by Damian Rouson
+[assert](https://github.com/BerkeleyLab/assert): simple assertion utility taking advantage of the Fortran 2018 standard's introduction of variable stop codes and error termination inside pure procedures, by Damian Rouson
 
 [assert-fortran](https://github.com/alecksandr26/assert-fortran): simple module which adds an assertion function, by alecksandr26. It works by enabling -cpp the c preprocesor directives in the Fortran compiler.
 
