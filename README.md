@@ -603,6 +603,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [GEOCLIM-dynsoil-steady-state](https://github.com/piermafrost/GEOCLIM-dynsoil-steady-state): computes geographically-distributed chemical weathering rates (along with associated parameters) at steady-state, according to the given climatology (temperature and runoff) for several CO2 levels (2 at least), the topographic slope and the lithology fraction in each grid cell, by Nick Swanson-Hysell and Yuem Park
 
+[Global-Regional Integrated Forecast System (GRIST)](https://github.com/GRIST-Dev/GRIST): atmospheric model framework system that aims at the development of global-regional and weather-climate integration. An associated paper is [Intercomparison of two model climates simulated by a unified weather-climate model system (GRIST), part II: Madden–Julian oscillation](https://link.springer.com/article/10.1007/s00382-024-07527-1), by Zhen Fu et al., <i>Climate Dynamics</i> (2025).
+
 [Finite Element Sea Ice-Ocean Model (FESOM2)](https://github.com/FESOM/fesom2): Multi-resolution ocean general circulation model that solves the equations of motion describing the ocean and sea ice using finite-element and finite-volume methods on unstructured computational grids. The model is developed and supported by researchers at the Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI), in Bremerhaven, Germany.
 
 [fv3gfs](https://github.com/NOAA-EMC/fv3gfs): Finite­ Volume Cubed-Sphere dynamical core (FV3) Global Forecasting System (GFS), from NOAA-EMC
