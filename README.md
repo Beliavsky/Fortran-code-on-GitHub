@@ -92,7 +92,7 @@
 
 [astro-fortran](https://github.com/jacobwilliams/astro-fortran): modern Fortran implementations of standard models used in fundamental astronomy, by Jacob Williams. It is a refactoring of [IAU SOFA](https://github.com/jacobwilliams/IAU_SOFA).
 
-[Astrodynamics-Toolkit](https://github.com/LoayGouda/Astrodynamics-Toolkit): includes useful tools, functions, and methods to solve prominent orbital dynamics problems, by Loay Gouda
+[Astrodynamics-Toolkit](https://github.com/LoayGouda/Astrodynamics-Toolkit): includes useful tools, functions, and methods to solve prominent orbital dynamics problems, by Loay Gouda. Also [initial-orbit-determination](https://github.com/LoayGouda/initial-orbit-determination) implementing the Double-R method for preliminary (initial) orbit determination using three sets of right-ascension and declination angles.
 
 [astroTools](https://github.com/AstroFloyd/astroTools): command-line tools for astronomy and astrophysics, by AstroFloyd
 
