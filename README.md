@@ -4382,6 +4382,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Uppsala Atomistic Spin Dynamics software (UppASD)](https://github.com/UppASD/UppASD): simulation suite to study magnetization dynamics by means of the atomistic version of the Landau-Lifshitz-Gilbert (LLG) equation, by Anders Bergman et al. Related book: [Atomistic Spin Dynamics: Foundations and Applications](https://global.oup.com/academic/product/atomistic-spin-dynamics-9780198788669?cc=us&lang=en&)
 
+[v2qgt](https://github.com/yutqian/v2qgt): provides an efficient tool for calculating the quantum geometric tensor (QGT) directly from DFT calculations, by yutqian. The code is based on VASPBERRY but includes important fixes and enhancements and extends functionality to support both 2D and 3D materials.
+
 [VASPBERRY](https://github.com/Infant83/VASPBERRY): Berry curvature and Chern number calculations with the output (WAVECAR) of VASP code, by Hyun-Jung Kim. VASPBERRY is written for the post-processing purpose of the VASP outputs, i.e., WAVECAR the Bloch wavefunction information.
 
 [vdist-solver-fortran](https://github.com/Nkzono99/vdist-solver-fortran): velocity distribution function solver for Python, calling Fortran, using Liouville's theorem, by Nkzono99
