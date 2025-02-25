@@ -907,6 +907,8 @@ and Dmitry Pavlov. It uses BFGS for local optimization and two different forms o
 
 [Surface Assessment via Grid Evaluation (SuAVE)](https://github.com/SuAVE-Software/source_v2.0): accounts for the effect of curvature in the calculations of structural properties of chemical interfaces regardless of the chemical composition, asymmetry, and level of atom coarseness, by Denys E. S. Santos et al. It employs differential geometry techniques, enabling the representation of chemical surfaces as fully differentiable.  
 
+[symm](https://github.com/watfros/symm): integration and modification of [VMD](https://www.ks.uiuc.edu/Research/vmd/) and [SYVA](https://www.sciencedirect.com/science/article/abs/pii/S0010465517300310) software to analyze the symmetrical elements and point groups of molecules, as well as to visualize them, associated with the paper [Visualizing Symmetry: A Resource for Chemical Education with VMD and SYVA Programs](https://pubs.acs.org/doi/10.1021/acs.jchemed.4c00530), by Qingyan Zeng and Jinglin Mu, <i>Journal of Chemical Education</i> (2024)
+
 [taurus_vap](https://github.com/project-taurus/taurus_vap): solves the variation after particle-number projection equations for real general Bogoliubov quasi-particle states represented in a spherical harmonic oscillator basis, from project-taurus
 
 [THERMOCHIMICA](https://github.com/ORNL-CEES/thermochimica): computational library for chemical thermodynamics. It determines a unique combination of phases and their compositions for a prescribed chemical composition, temperature and pressure, from ORNL-CEES.
