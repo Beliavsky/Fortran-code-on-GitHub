@@ -1598,6 +1598,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [Heavy-review](https://github.com/jkennedy-usgs/heavy-review): calculates the change in gravity caused by the change in groundwater storage as predicted by a [MODFLOW](https://github.com/MODFLOW-USGS/modflow6) groundwater-flow model, by Jeff Kennedy. Gravity change is calculated relative to the initial time step at user-specified locations (e.g., measurement locations).
 
+[H08](https://github.com/h08model/H08): global hydrological model that can be applied to elucidate various global water and environmental issues and be used for regional simulations at high spatial resolution, by Chihiro298 et al.
+
 [HOS-ocean](https://github.com/LHEEA/HOS-ocean): High-Order Spectral method for oceanic simulations, by gducrozet and Gjacquenot. Also [HOS-NWT](https://github.com/LHEEA/HOS-NWT), a Numerical Wave Tank based on the High-Order Spectral (HOS) method, dedicated to the generation and propagation of highly non-linear wave fields in wave basins with arbitrary constant depth.
 
 [HYbrid Coordinate Ocean Model (HYCOM)](https://github.com/HYCOM/HYCOM-src): data-assimilative hybrid isopycnal-sigma-pressure (generalized) coordinate ocean model, with objectives of three-dimensional depiction of the ocean state at fine resolution in real time, provision of boundary conditions for coastal and regional models, and provision of oceanic boundary conditions for a global coupled ocean-atmosphere prediction model
