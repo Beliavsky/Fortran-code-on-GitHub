@@ -3010,6 +3010,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [insitu_array](https://github.com/PaulStryck/insitu_array): in-place array transpose for Fortran, by Paul Stryck. Module uses a 1D array for storage and mimics differently shaped views to the same underlying data via pointer reassignment. 
 
+[Interpolative Decomposition Library (libid)](https://github.com/fastalgorithms/libid): a related preprint is [ID: a software package for low-rank approximation of matrices via interpolative decompositions](https://tygert.com/id_doc.4.pdf), by P. Martinsson et al. (2014)
+
 [JACSD](https://github.com/venovako/JACSD): utilities for the Jacobi-type (G/H)SVD algorithms and beyond, plus a Cosine-Sine Decomposition tester, by Vedran Novaković. Associated projects [here](https://github.com/venovako)
 
 [JKogb](https://github.com/venovako/JKogb): software supplement for the paper [Kogbetliantz-type algorithm for the hyperbolic SVD](https://link.springer.com/article/10.1007/s11075-021-01197-4), by Vedran Novakovi & Sanja Singer, Numerical Algorithms (2022). Also [KogAcc](https://github.com/venovako/KogAcc), a portable Kogbetliantz-type SVD for general matrices
