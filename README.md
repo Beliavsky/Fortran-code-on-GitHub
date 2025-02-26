@@ -4078,6 +4078,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [subnucleondiffraction](https://github.com/hejajama/subnucleondiffraction): calculates diffractive vector meson production at high energy. An associated paper is [Revealing proton shape fluctuations with incoherent diffraction at high energy](https://link.aps.org/accepted/10.1103/PhysRevD.94.034042), by Heikki M antysaari and Bjorn Schenke, <i>Physical Review D</i> (2016)
 
+[SuperChic](https://github.com/LucianHL/SuperChic): Monte Carlo event generator for central exclusive production, by LucianHL
+
 [USP-JEWEL](https://github.com/leo-barreto/USP-JEWEL): Jet propagation (currently done using an unofficial modification of [JEWEL](https://github.com/leo-barreto/jewel)) in realistic viscous hydrodynamics modeled using vUSPhydro, by Leonardo Barreto de Oliveira Campos
 
 [vbfnlo](https://github.com/vbfnlo/vbfnlo): fully flexible parton level Monte Carlo program for the simulation of vector boson fusion, double and triple vector boson production in hadronic collisions at next-to-leading order in the strong coupling constant
