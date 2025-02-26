@@ -3405,6 +3405,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [KohonenF03](https://github.com/khaors/KohonenF03): library for Self-Organizing Maps, by Oscar Garcia-Cabrejo. Self-Organizing Maps or Kohonen Maps are powerful computational tools to cluster multivariate data using a topology preservation approach
 
+[KohonenF08](https://github.com/khaors/KohonenF08): library for Self-Organizing Maps using object-oriented programming and modern Fortran features, by Oscar Garcia-Cabrejo
+
 [llama2.f90](https://github.com/rbitr/llama2.f90): Toy LLaMA2 model inference, by rbitr, based on [llama2.c](https://github.com/karpathy/llama2.c) by Andrej Karpathy
 
 [MlFortran](https://github.com/Etdescamps/MlFortran): library designed for the writing and the development of Complex System models, by Etienne Descamps. It is written in a modern object-oriented Fortran 2008 and has a C and C++ interface. Its aim is to ease the development of complex models in lower level language such as C/C++ and Fortran by providing structures and algorithms that can be found in higher level programming language such as Matlab or Python/SciPy.
