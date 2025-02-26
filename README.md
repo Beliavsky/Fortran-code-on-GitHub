@@ -308,6 +308,8 @@
 
 [SMERCURY-T](https://github.com/SMKreyche/SMERCURY-T): upgrade of the SMERCURY orbital integrator that includes modules to enable the solar tidal spin torque as well as the general relativistic force, by Steven M. Kreyche
 
+[Space geodesy data analysis software suite (SGDASS)](https://github.com/nasa/sgdass): collection of software programs with the primary goal of support of analysis of very long baseline interferometry (VLBI) observations, by Leonid Petrov et al.
+
 [spacepy](https://github.com/spacepy/spacepy): Space Science library for Python, calling Fortran code - contains superposed epoch classes, drift shell tracing, access to magnetic field models, streamline tracing, bootstrap confidence limits, time and coordinate conversions, etc.
 
 [SpectralBreaks](https://github.com/GammaRayBurstAfterglow/SpectralBreaks): models the shape of spectral breaks in gamma ray burst afterglows, by Damien Koon et al.
