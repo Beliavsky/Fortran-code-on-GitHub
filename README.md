@@ -3176,6 +3176,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 
 [cdpm2](https://github.com/githubgrasp/cdpm2): related [paper](https://www.sciencedirect.com/science/article/pii/S0020768313002886): Grassl, Peter, Dimitrios Xenos, Ulrika Nyström, Rasmus Rempling, and Kent Gylltoft. "CDPM2: A damage-plasticity approach to modelling the failure of concrete." International Journal of Solids and Structures 50, no. 24 (2013): 3805-3816
 
+[CompDam - Deformation Gradient Decomposition (DGD)](https://github.com/nasa/CompDam_DGD): continuum damage mechanics (CDM) material model intended for use with the Abaqus finite element code, by Frank A. Leone et al. It aims to provide an accurate representation of mesoscale damage modes in fiber-reinforced polymer composite materials in finite element models in which each ply is discretely represented.
+
 [Computational Resource for Eroded Surface Topology (CREST)](https://github.com/TRIBO-Pprime/CREST): generate numerical rough surfaces that respect size, statistical moments (skewness and kurtosis), principal correlation lengths, asperity orientation, and periodicity, by Arthur Francisco. Also [TPGLIB](https://tribo-pprime.github.io/TPGLIB/), routines related to surface topographic analyses.
 
 [DiffuseCode](https://github.com/tproffen/DiffuseCode): suite of programs to simulate disordered and nanomaterials, by tproffen et al.
