@@ -413,6 +413,8 @@ spectroscopic data obtained with near-infrared spectrograph NIRSPEC, installed i
 
 [ForBenchmark](https://github.com/gha3mi/forbenchmark): a Fortran library for benchmarking (with support for coarrays). There are [dot_product](https://github.com/gha3mi/forbenchmark/tree/main/benchmarks/dot) benchmark results, by Seyed Ali Ghasemi
 
+[Fortran Coarray Micro-Benchmark Suite (cafbench)](https://github.com/davidhenty/cafbench): set of benchmarks to measure the performance of various parallel operations involving Fortran coarrays, by David Henty. These include point-to-point ("ping-pong") data transfer patterns, synchronisation patterns and halo-swapping for 3D arrays.
+
 [fortran-math-tests](https://github.com/lyuwen/fortran-math-tests): test programs for Fortran math libraries, by L. Fu
 
 [fortran-speed](https://github.com/alex-robinson/fortran-speed): compares speed of looping over individual arrays of variables with multiple dimensions to looping over arrays of derived types, where e.g., the last dimension is contained within the derived type, by Alex Robinson
