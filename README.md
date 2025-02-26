@@ -2954,6 +2954,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [blis-fortran](https://github.com/ivan-pi/blis-fortran): prototype bindings by Ivan Pribec for the [BLIS](https://github.com/flame/blis) (BLAS-like Library Instantiation Software) framework, that can be used to perform high-performance dense linear algebra operations via a BLAS-like API
 
+[Bolander-Linear-Algebra-Library](https://github.com/bolanderc/Bolander-Linear-Algebra-Library): implements several numerical linear algebra techniques for solving systems of equations, finding eigenvalues and decomposition techniques, by Christian Bolander
+
 [BLZPACK](https://github.com/oamarques/BLZPACK): set of subprograms to compute the eigenvalues and eigenvectors (x) of the "standard" eigenvalue problem or the "generalized" eigenvalue problem for sparse symmetric matrices, by Osni Marques
 
 [ButterflyPACK](https://github.com/liuyangzhuan/ButterflyPACK): software for rapidly solving large-scale dense linear systems that exhibit off-diagonal rank-deficiency, by liuyangzhuan
