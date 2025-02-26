@@ -3303,6 +3303,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [kg4vasp](https://github.com/conodipaola/kg4vasp): Kubo-Greenwood for transport properties from First Principle Molecular Dynamics with VASP, by conodipaola
 
+[laser_diatom_md](https://github.com/Shikshokio/laser_diatom_md): time dependent molecular dynamics simulation of a gas of diatomic molecules (several molecular parameters, such as mass, bond length and force parameters may be chosen), by Shikshokio. A related paper is [Dynamics and Hydrodynamics of Molecular Superrotors](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.201600508), by Uri Steinitz et al., <i>ChemPhysChem</i> (2016).
+
 [Hefei-NAMD](https://github.com/QijingZheng/Hefei-NAMD): ab-initio nonadiabatic molecular dynamics program, by QijingZheng and WeibinChu
 
 [Packmol](https://github.com/m3g/packmol): creates an initial point for molecular dynamics simulations by packing molecules in defined regions of space, from Martinez Molecular Modeling Group. The packing guarantees that short range repulsive interactions do not disrupt the simulations.
