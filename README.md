@@ -1621,6 +1621,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 [hydroanalyzer_fortran](https://github.com/khaors/hydroanalyzer_fortran): program to analyze hydrological information, focused on frequency analysis of discharge data, 
 calculating the potential evapotranspiration on a monthly scale using different methods, and performing a simple soil water balance using the [Thornwaite method](https://wwwbrr.cr.usgs.gov/projects/SW_MoWS/Thornthwaite.html), by Oscar Garcia-Cabrejo
 
+[HYPO3D](https://github.com/firbas/hypo3d): program to determine the hypocenter and magnitude of local earthquakes, by Milan Werl and Petr Firbas. It solves earthquake location within a 3-dimensional velocity model.
+
 [HypoDD](https://github.com/fwaldhauser/HypoDD): program package associated with paper [A Double-Difference Earthquake Location Algorithm: Method and Application to the Northern Hayward Fault, California](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/90/6/1353/120565/A-Double-Difference-Earthquake-Location-Algorithm), by Felix Waldhauser and William L. Ellsworth, Bulletin of the Seismological Society of America (2000)
 
 [hypoellipse](https://github.com/INGV/hypoellipse): determines hypocenters and magnitudes of near regional earthquakes and the ellipsoids that enclose the 68-percent confidence volumes of the computed hypocenters. HYPOELLIPSE was developed to meet the needs of U.S. Geological Survey (USGS) scientists studying crustal and sub-crustal earthquakes recorded by a sparse regional seismograph network. 
