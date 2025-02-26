@@ -2310,6 +2310,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [PhiPsi_XFEM_Fortran_Codes_Early_Version](https://github.com/PhiPsi-Software/PhiPsi_XFEM_Fortran_Codes_Early_Version): computational solid mechanics program, which involves the extended finite element method (XFEM), as well as the finite element method (FEM), by Shi Fang. Supported analysis types are 2D and 3D static analysis, 2D and 3D hydraulic fracturing analysis, 2D and 3D dynamic analysis, and 2D field problems analysis.
 
+[rbf](https://github.com/nasa/rbf): mode shape interpolation via radial basis functions, by Steven J. Massey
+
 [sam-lib](https://github.com/SAP/sam-lib): collection of FORTRAN 77 subroutines, originally by Kolbein Bell, for handling different tasks in finite element method solvers, such as the assembly of element matrices into their global counterparts, solving global linear systems of equations, solving eigenvalue problems, and some other lower-level matrix utilities
 
 [simple Discrete Element Method (sDEM)](https://github.com/GongZheng-Justin/sDEM): simple parallel DEM code by Zheng Gong, with the following features: MPI parallelization by means of 2D Domain Decomposition, the ability to handle particles with different diameters, both linear and non-linear contact force models, and NBS-Munjiza (Non Binary Search - Munjiza) contact search algorithm
