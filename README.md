@@ -1627,6 +1627,8 @@ calculating the potential evapotranspiration on a monthly scale using different 
 
 [hypoellipse](https://github.com/INGV/hypoellipse): determines hypocenters and magnitudes of near regional earthquakes and the ellipsoids that enclose the 68-percent confidence volumes of the computed hypocenters. HYPOELLIPSE was developed to meet the needs of U.S. Geological Survey (USGS) scientists studying crustal and sub-crustal earthquakes recorded by a sparse regional seismograph network. 
 
+[HypoInverse](https://github.com/BORONG-SEIS/HypoInverse): program that processes files of seismic station data for an earthquake (like p wave arrival times and seismogram amplitudes and durations) into earthquake locations and magnitudes, by Fred W. Klein, updated for use in [QuakeFlow](https://github.com/AI4EPS/QuakeFlow)
+
 [HypoTremorMCMC](https://github.com/akuhara/HypoTremorMCMC): associated preprint: [Locating tectonic tremors with uncertainty estimates: Time- and amplitude-difference optimization, wave propagation-based quality control, and Bayesian inversion](https://eartharxiv.org/repository/view/5256/)(2023) by Takeshi Akuhara et al.
 
 [IBMlib](https://github.com/IBMlib/IBMlib): individual-based modelling framework able to assess marine habitat connectivity. Eggs/larvae/juvenile/adults may be modelled in order to analyze recruitment impact of marine protected areas.
