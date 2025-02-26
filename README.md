@@ -1475,6 +1475,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [Decision Support System for Agrotechnology Transfer Cropping System Model (dssat-csm-os)](https://github.com/DSSAT/dssat-csm-os): crop simulation models for over 42 crops. The crop simulation models simulate growth, development and yield as a function of the soil-plant-atmosphere dynamics.
 
+[dgswem](https://github.com/foci/dgswem): Discontinuous Galerkin Shallow Water Equation Model, by Dylan Wood et al.
+
 [Diagenetic_model_LHeureux_2018](https://github.com/astro-turing/Diagenetic_model_LHeureux_2018): code by Johannes Hidding et al. for the model of the paper [Diagenetic Self-Organization and Stochastic Resonance in a Model of Limestone-Marl Sequences](https://onlinelibrary.wiley.com/doi/10.1155/2018/4968315), by Ivan L'Heureux, Geofluids (2018)
 
 [DiallelX](https://github.com/ShiroHirano/DiallelX): approximates Network Cross-Correlation coefficients (NCCs) among multiple continuous records and template waveforms observed at multiple seismic stations, by Shiro Hirano. The results, relatively less accurate but sufficient to find new seismic events, are obtained several-fold faster than a conventional scheme.
