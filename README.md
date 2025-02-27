@@ -4597,6 +4597,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [peacemaker](https://github.com/awvwgk/peacemaker): quantum cluster equilibrium theory for applying statistical mechanics to quantum-chemically optimized clusters, forked by Sebastian Ehlert
 
+[periodic-io](https://github.com/moritzgubler/periodic-io): library to read and write most of the atomic file formats and convert between formats, by Moritz Gubler. Supported file formats are .ascii, .in (FHI-AIMS), .xyz, .cif, .gen (DFTB), .qe (QUANTUM-ESPRESSO), and .vasp POSCAR (vasp).
+
 [periodic-NBO](https://github.com/jrschmidt2/periodic-NBO): This projection code is capable of representing any plane-wave bands output by VASP into any user specified Gaussian type orbital basis set. Such an AO representation is required for the subsequent NBO analysis. The code is set up to then output all information necessary for periodic NBO analysis using the code of JRS and BDD.
 
 [Phonnier](https://github.com/fballestermacia/phonnier): adapts the Wannier Orbital formalism to the calculation of topological propperties of Phonon systems, with emphasis on polar materials, i.e., in the case of LO-TO splitting, by Francesc Ballester
