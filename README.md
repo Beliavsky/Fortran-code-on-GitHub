@@ -1663,6 +1663,8 @@ calculating the potential evapotranspiration on a monthly scale using different 
 
 [JDSurfg](https://github.com/nqdu/JDSurfG): Joint Inversion of Direct Surface Wave Tomography and Bouguer Gravity, by nqdu
 
+[k223d](https://github.com/s-murfy/k223d): produces fractal stochastic slip distributions on non-planar faults that are described by triangular mesh, by Shane Murphy. The program will also provide the rupture time for each location on the fault plane for a given nucleation location and rupture velocity. Also [StrikeSlipDef](https://github.com/s-murfy/StrikeSlipDef) to calculate surface displacement due to a slowly propagating earthquake source.
+
 [Line-By-Line Radiative Transfer Model(LBLRTM)](https://github.com/AER-RC/LBLRTM): accurate and efficient line-by-line radiative transfer model derived from the Fast Atmospheric Signature Code (FASCODE), from AER-RC. LBLRTM has been, and continues to be, extensively validated against atmospheric radiance spectra from the ultraviolet to the sub-millimeter.
 
 [Linking_SAR_and_ABL_structure](https://github.com/HugoJacq/Linking_SAR_and_ABL_structure): namelists and postprocessing scripts by Hugo Jacquet for the [Meso-NH model](https://gmd.copernicus.org/articles/11/1929/2018/), an atmospheric non hydrostatic research model that is applied to a broad range of resolutions, from synoptic to turbulent scales, and is designed for studies of physics and chemistry.
