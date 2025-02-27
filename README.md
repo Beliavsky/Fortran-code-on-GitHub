@@ -1926,6 +1926,9 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [Telewavesim](https://github.com/paudetseis/Telewavesim): teleseismic body wave modeling through stacks of (submarine/anisotropic) layers, by Pascal Audet
 
+[(T)emperature, Heat Flow (Q), (Tec)tonics (tqtec)](https://github.com/mherman09/tqtec): calculates the one-dimensional transient thermal field for an area that
+experiences processes occurring at tectonic plate boundaries, by Matthew Herman et al. The package includes tools for estimating thermochronologic observables corresponding to the temperature history.
+
 [Tenstream](https://github.com/tenstream/tenstream): approximately solves the radiative transfer equation in 3D and computes irradiance and heating rates from optical properties
 
 [Theriak-Domino](https://github.com/Theriak-Domino/theriak-domino): calculate and plot thermodynamic functions, equilibrium assemblages and rock-specific equilibrium assemblage diagrams, by Christian de Capitani
