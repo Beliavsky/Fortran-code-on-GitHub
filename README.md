@@ -641,6 +641,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [icar](https://github.com/NCAR/icar): Intermediate Complexity Atmospheric Research Model (ICAR), from NCAR, a simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses
 
+[KW_TC_boundary_layer](https://github.com/thomas-fred/KW_TC_boundary_layer): implementation of the [Kepert and Wang (2001)](https://journals.ametsoc.org/view/journals/atsc/58/17/1520-0469_2001_058_2485_tdoblj_2.0.co_2.xml) boundary layer model for coupling gradient-level tropical cyclone winds to the earth's surface, by Yuqing Wang et al.
+
 [libsim](https://github.com/ARPA-SIMC/libsim): libraries from ARPA-SIMC include a general purpose ''base'' library with modules for handling character variables, csv files, command-line arguments, physical constants, date and time computations, georeferenced coordinates, growable arrays and list structures of any type and other. Another set of libraries is specific to Meteorology and Earth Science and allows to work with gridded and sparse georeferenced data, perform interpolations, statistical processing in time, data quality control, thermodynamic computations.
 
 [LMDZE](https://github.com/lguez/LMDZE): simplified version of the [LMDZ](http://lmdz.lmd.jussieu.fr/) atmospheric general circulation model, by Lionel Guez. It has evolved aiming at clarity and robustness of the source code, taking advantage of modern features of the Fortran language.
