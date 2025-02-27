@@ -1784,6 +1784,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [phenograss-example](https://github.com/bluegreen-labs/phenograss-example): working example of the PhenoGrass model as described in the paper [Productivity of North American grasslands is increased under future climate scenarios despite rising aridity](https://www.nature.com/articles/nclimate2942), by Koen Hufkens et al., Nature Climate Change (2016)
 
+[Piecewise Potential Vorticity Inversion (PPVI)](https://github.com/1JunGu/PPVI): ingests model forecast and analysis from the GFS, IFS and GFDL SHiELD models, so that the total potential vorticity (PV) field can be calculated from total ϕ, T, and u-,v-wind fields, by Jun Gu
+
 [PICO_Fortran](https://github.com/dmr-dj/PICO_Fortran): implementation by Didier M. Roche of the Potsdam Ice-shelf Cavity mOdel from the paper [Antarctic sub-shelf melt rates via PICO](https://tc.copernicus.org/articles/12/1969/2018/), by Ronja Reese et al., (2018).
 
 [Orchestrator-TSDHN (picv-2025)](https://github.com/totallynotdavid/picv-2025): tool for estimating distant source tsunami parameters using numerical simulations, by David. It combines the TSDHN model in Fortran with an API in Python that processes initial seismic data, such as earthquake location and magnitude, to calculate variables such as: seismic rupture dimensions, seismic moment and crustal displacement.
