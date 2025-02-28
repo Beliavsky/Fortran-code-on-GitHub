@@ -204,6 +204,8 @@
 
 [kcarta_gen](https://github.com/sergio66/kcarta_gen): fast, accurate, easy-to-use pseudo-monochromatic radiative transfer code, by sergio66
 
+[kemimo](https://github.com/ssjensen92/kemimo): three-phase gas-grain astrochemical model, associated with the paper [Modeling chemistry during star formation: water deuteration in dynamic star-forming regions](https://www.aanda.org/articles/aa/full_html/2021/05/aa40196-20/aa40196-20.html), by S. S. Jensen et al., <i>Astronomy & Astrophysics</i> (2021)
+
 [KiloNova Explosion Code (kNEC)](https://github.com/StevenWu1999/KNEC): simulates hydrodynamical evolution of BNS merger ejecta and the corresponding kilonova emission, by Zhenyu Wu. It is based on the SNEC code by Morozova et al., which is a Lagrangian radiation-hydrodynamics code for core-collapse supernova explosion.
 
 [LAPS](https://github.com/chenshihelio/LAPS): UCLA-Pseudo-Spectral is a 3D MPI-parallelized Fourier-transform-based pseudo-spectral Hall-MHD code, with corotating-expanding-box-model implemented, by Chen Shi
