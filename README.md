@@ -832,6 +832,8 @@ to be used in the Fermi-Löwdin orbital self-interaction correction (FLO-SIC) me
 
 [forsus](https://github.com/ipqa-research/forsus): provides a simple API to read json files containing pure component information, which can be used in other projects, by José Antonio Scilipoti
 
+[freemol](https://github.com/mariotti/freemol): framework for computational chemistry, containing the programs <b>adfrom</b>, a code to work with ADF (Amsterdam Density Functional), <b>ch4sym2cart</b> to convert coordinates from symmetric to Cartesian for CH4 (Methane)-like molecules, <b>CSMG</b> to compute the CSM "Continuous Symmetry Measure" of weighted point objects using Gaussian functions, <b>fit1Dpol</b> to fit 1-D functions, and <b>XY4Coord</b> and <b>XY4PolySphere</b> for coordinate transformations, by Fabio Mariotti
+
 [gibbs2](https://github.com/aoterodelaroza/gibbs2): calculates pressure and temperature dependent thermodynamic properties of solids from ab initio results, by aoterodelaroza
 
 [GWMlib](https://github.com/dmr-dj/GWMlib): Generic Water isotope Modelling Library, by Didier M. Roche
