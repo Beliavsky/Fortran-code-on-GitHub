@@ -4581,6 +4581,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [NECI](https://github.com/ghb24/NECI_STABLE): implements the Full Configuration Interaction Quantum Monte Carlo (FCIQMC) algorithm, a method based on a stochastic application of the Hamiltonian matrix on a sparse sampling of the wave function. The program utilizes a very powerful parallelization and scales efficiently to more than 24 000 central processing unit cores.
 
+[nio](https://github.com/HratchianGroup/nio): program for carrying out natural ionization orbital analysis, by Hrant P. Hratchian and Andrew Bovill
+
 [nonadiabatic statistical theory (NAST) package](https://github.com/svarganov/NAST): predicts kinetics of spin-dependent processes, including intersystem crossings, spin-forbidden reactions, and spin crossovers, by Sergey Varganov. The NAST package can calculate the probabilities and rates of transitions between the electronic states of different spin multiplicities. 
 
 [NWChem](https://github.com/nwchemgit/nwchem): Open Source High-Performance Computational Chemistry
