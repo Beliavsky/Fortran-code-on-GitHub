@@ -344,6 +344,8 @@
 
 [Toolkit for High-ORder Neutrino Radiation Hydrodynamics (thornado)](https://github.com/endeve/thornado): neutrino radiation-hydrodynamics code aiming to simulate core-collapse supernovae using discontinuous Galerkin methods, by Eirik Endeve et al.
 
+[TRECS](https://github.com/abonaldi/TRECS): code to produce radio sources catalogs with user-defined frequencies, area and depth, associated with the paper [The Tiered Radio Extragalactic Continuum Simulation (T-RECS)](https://academic.oup.com/mnras/article/482/1/2/5108200), by Anna Bonaldi et al., <i>Monthly Notices of the Royal Astronomical Society</i> (2019)
+
 [Triple stellar evolution (TSE)](https://github.com/stegmaja/TSE): single stellar evolution and binary interactions are modelled in Python using the binary population synthesis Fortran code [MOBSE](https://mobse-webpage.netlify.app/). An associated paper is [Evolution of massive stellar triples and implications for compact object binary formation](https://academic.oup.com/mnras/article/516/1/1406/6680250), by Jakob Stegmann et al., Monthly Notices of the Royal Astronomical Society (2022).
 
 [TRIPTYCH](https://github.com/pau-amaro-seoane/triptych): simulates the collision of two stars, including the orbital trajectories, merger, and evolution of the merger product, by Pau Amaro Seoane and James C. Lombardi Jr. The code therefore joins three branches of stellar astrophysics: dynamics, hydrodynamics and evolution.
