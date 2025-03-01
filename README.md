@@ -1449,6 +1449,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [CoastalApp](https://github.com/noaa-ocs-modeling/CoastalApp): modeling framework for coastal applications and regional forecasts, from NOAA's Office of Coast Survey. It consists of coupled modeling components that link the atmospheric, ocean and terrestrial realms under one common framework.
 
+[Coastal Generalized Ecosystem Model (CGEM)](https://github.com/USEPA/CGEM): biogeochemical model designed to address eutrophication, dissolved oxygen, and acidification dynamics in coastal and freshwater ecosystems, by Cody Simmons and Wilson Melendez. It simulates biogeochemical processes regulating carbon, oxygen, nutrients, phytoplankton, and zooplankton, and includes numerous model formulations and variable phytoplankton functional types that can be modified based on site specific model requirements.
+
 [Community Atmosphere Biosphere Land Exchange model (CABLE)](https://github.com/CABLE-LSM/CABLE): land surface model, used to calculate the fluxes of momentum, energy, water and carbon between the land surface and the atmosphere and to model the major biogeochemical cycles of the land ecosystem, by Claire Carouge et al.
 
 [Community Data Models for Earth Prediction Systems (CDEPS)](https://github.com/ESCOMP/CDEPS): NUOPC-compliant data components along with ESMF-based share code that enables new capabilities in selectively removing feedbacks in coupled model systems
