@@ -1559,6 +1559,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [Framework for Aquatic Biogeochemical Models (FABM)](https://github.com/fabm-model/fabm): Fortran 2003 programming framework for biogeochemical models of marine and freshwater systems
 
+[Flexible Snow Model (FSM2)](https://github.com/RichardEssery/FSM2): multi-physics energy balance model of snow accumulation and melt, extending the Factorial Snow Model with additional physics, driving and output options. An associated preprint is [A Flexible Snow Model (FSM 2.1.0) including a forest canopy](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2546/), by Richard Essery et al., <i>EGUsphere</i> (2024).
+
 [Functionally Assembled Terrestrial Ecosystem Simulator (FATES)](https://github.com/NGEET/fates): numerical terrestrial ecosystem model from NGEET
 
 [FUNWAVE-TVD](https://github.com/fengyanshi/FUNWAVE-TVD): Total Variation Diminishing (TVD) version of the fully nonlinear Boussinesq wave model (FUNWAVE) developed by Shi et al. (2012), by fengyanshi
