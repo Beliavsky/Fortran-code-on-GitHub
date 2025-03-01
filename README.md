@@ -3377,7 +3377,7 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [MPFUN2020](https://github.com/jacobwilliams/MPFUN2020): thread-safe arbitrary precision package that enables one to perform floating-point computations (real and complex) to arbitrarily high numeric precision, by making only relatively minor changes to existing Fortran-90 programs (mostly changes to type statements), by David H. Bailey. All basic arithmetic operations and transcendental functions are supported, together with several special functions. FPM package by Jacob Williams [here](https://github.com/jacobwilliams/mpfun2020-var1). Bailey's [High-Precision Software Directory](https://www.davidhbailey.com/dhbsoftware/) also has <b>DQFUN</b>: A double-quad precision package with special functions (approx. 66 digits), <b>QXFUN</b>: A quad precision package with special functions (approx. 33 digits), and <b>DDFUN</b>: A double-double precision package with special functions (approx. 30 digits).
 
-[QD](https://github.com/highprecision/QD): double-double and quad-double package for Fortran and C++, by Michael Orlitzky and X. Sherry Li
+[QD](https://github.com/BL-highprecision/QD): double-double and quad-double package for Fortran and C++, by Michael Orlitzky and X. Sherry Li
 
 ## Neural Networks and Machine Learning
 [Adaptive Training for High Efficiency Neural Network Applications (ATHENA)](https://github.com/nedtaylor/athena): library for developing and handling neural networks (with a focus on convolutional neural networks), by Ned Taylor
