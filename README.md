@@ -1214,7 +1214,9 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [Multi-order Approach to Calculating High-speed Linear aerodynamics (MachLine)](https://github.com/usuaero/MachLine): modern, unstructured, subsonic/supersonic flow solver currently being developed by the AeroLab. It is a linear panel method based on the Prandtl-Glauert equation. Also [MachUp](https://github.com/usuaero/MachUp), a Numerical Lifting-Line Algorithm
 
-[MUltiScale Simulation Tribology (MUSST)](https://github.com/TRIBO-Pprime/MUSST): implements the finite element method on Reynolds' equation, by Noël Brunetière and Arthur Francisco. It can solve a large variety of problems with standard geometries like sliders, bearings and pockets. 
+[MUltiScale Simulation Tribology (MUSST)](https://github.com/TRIBO-Pprime/MUSST): implements the finite element method on Reynolds' equation, by Noël Brunetière and Arthur Francisco. It can solve a large variety of problems with standard geometries like sliders, bearings and pockets.
+
+[NavierStokes-2D-ChannelFlow](https://github.com/MRLintern/NavierStokes-2D-ChannelFlow): 2D Navier-Stokes equation solver, discretized using Finite Differences and solved via the successive over-Relaxation (SOR) method, by Matthew Lintern-Monro
 
 [Navier_Stokes_Spectral_Method](https://github.com/Minard-Jules/Navier_Stokes_Spectral_Method): Navier Stokes simulation using the spectral method, visualized with [gtk-fortran](https://github.com/vmagnin/gtk-fortran), by Jules Minard
 
