@@ -246,7 +246,7 @@
 
 [Molecular atmospheric Absorption with Rapid and Flexible Analysis (MARFA)](https://github.com/Razumovskyy/MARFA): tool designed to calculate volume absorption coefficients or monochromatic absorption cross-sections using initial spectroscopic data from spectral databases and atmospheric data from an external file, by Mikhail Razumovskiy
 
-[MoonSun](https://github.com/AminKH/MoonSun): routines for computing Sun and Moon position in observer's sky, by Amin KHiabani. Also [Legendre-Polynomials](https://github.com/AminKH/Legendre-Polynomials) for Legendre fuctions and polynomials in physical geodesy and [SunDials](https://github.com/AminKH/SunDials) a program to create a table of coordinates (x,y) of shadow tip of gnomon, on sundial surface.
+[MoonSun](https://github.com/AminKH/MoonSun): routines for computing Sun and Moon position in observer's sky, by Amin KHiabani. Also [Legendre-Polynomials](https://github.com/AminKH/Legendre-Polynomials) for Legendre fuctions and polynomials in physical geodesy and [SunDials](https://github.com/AminKH/SunDials), a program to create a table of coordinates (x,y) of shadow tip of gnomon, on sundial surface.
 
 [msg](https://github.com/rhdtownsend/msg): Multidimensional Spectral Grids -- project for evaluating radiant properties of stellar atmospheres by rhdtownsend
 
