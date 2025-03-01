@@ -1583,6 +1583,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [geoflac](https://github.com/tan2/geoflac): code for lithospheric scale geodynamics, by Eh Tan et al.
 
+[gflow1](https://github.com/USEPA/gflow1): analytic element groundwater solver by Henk M. Haitjema. It solves steady state groundwater flow in a single aquifer, with support for conjunctive groundwater/surface water solutions, and interface seawater intrusion solutions. 
+
 [GIMPM-SSA-Damage](https://github.com/alex-huth/GIMPM_SSA_Damage): Generalized Interpolation Material Point Method for the Shallow Shelf Approximation of ice flow with Damage, by Alex Huth.
 
 [ginette](https://github.com/agnes-riviere/ginette): model for saturated-unsaturated, variable-density ground-water flow with solute or energy transport, by agnes-riviere et al. It is a 2-D variably saturated groundwater flow model with integrated 1-D surface flow for the stream.
