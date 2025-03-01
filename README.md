@@ -220,6 +220,8 @@
 
 [magnetizer](https://github.com/luizfelippesr/magnetizer): post-processes the output of a semi-analytic model of galaxy formation and produces a catalogue of galaxies with detailed radial dependent ISM properties, including magnetic fields, by luizfelippesr
 
+[magmaps](https://github.com/glendama/magmaps): Generates magnification maps for extragalactic microlensing studies using the [Poisson and Inverse Polygon method](https://www.aanda.org/articles/aa/full_html/2021/09/aa40527-21/aa40527-21.html), by glendama. The code incorporates the presence of smoothly distributed matter, as well as two types of randomly distributed microlenses (stars and primordial black holes).
+
 [Mars Subsurface Ice Model (MSIM)](https://github.com/nschorgh/MSIM): thermal and ice evolution models for Mars, by Norbert Schörghofer
 
 [MCGSuite](https://github.com/CIRADA-Tools/MCGSuite): set of codes designed to generate mock observations of tilted ring models, by Nate Deg and K. Spekkens. These mock observations mimic observations of axisymmetric HI gas disks. 
