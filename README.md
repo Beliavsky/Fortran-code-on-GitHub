@@ -655,6 +655,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [libsim](https://github.com/ARPA-SIMC/libsim): libraries from ARPA-SIMC include a general purpose ''base'' library with modules for handling character variables, csv files, command-line arguments, physical constants, date and time computations, georeferenced coordinates, growable arrays and list structures of any type and other. Another set of libraries is specific to Meteorology and Earth Science and allows to work with gridded and sparse georeferenced data, perform interpolations, statistical processing in time, data quality control, thermodynamic computations.
 
+[libtdlpack](https://github.com/NOAA-MDL/libtdlpack): subset of subroutines from the MOS-2000 Software System for the TDLPACK data format, from NOAA-MDL
+
 [LMDZE](https://github.com/lguez/LMDZE): simplified version of the [LMDZ](http://lmdz.lmd.jussieu.fr/) atmospheric general circulation model, by Lionel Guez. It has evolved aiming at clarity and robustness of the source code, taking advantage of modern features of the Fortran language.
 
 [MITgcm](https://github.com/MITgcm/MITgcm): A numerical model designed for study of the atmosphere, ocean, and climate, MITgcm’s (General Circulation Model) flexible non-hydrostatic formulation enables it to efficiently simulate fluid phenomena over a wide range of scales; its adjoint capabilities enable it to be applied to sensitivity questions and to parameter and state estimation problems.
