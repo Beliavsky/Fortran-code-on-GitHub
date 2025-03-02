@@ -2745,6 +2745,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [ftk](https://github.com/arjenmarkus/ftk): provides a straightforward means to build graphical user-interfaces in Fortran based on Tcl/Tk, by Arjen Markus. In its current state it is proof of concept, not a full-fledged library.
 
+[FVisualizer](https://github.com/Lor1290/FVisualizer): tool made with GTK to visualize math equations, by PoliCoding
+
 [gedatsu](https://github.com/nqomorita/gedatsu): graphs with embedded data subdivision utilities, by takumi308 and Naoki Morita
 
 [graffer](https://github.com/jtappin/graffer): interactive tool for generating plots of data and/or functions, by James Tappin. The original graffer was an IDL program. This version provides most of the same functionality in a Fortran program using gtk-fortran and plplot for the GUI and plotting respectively. To display functions gdl (gnudatalanguage) or IDL is required.
