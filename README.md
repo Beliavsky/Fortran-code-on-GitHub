@@ -3077,6 +3077,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [keksipurkki-demos-qr](https://github.com/keksipurkki/keksipurkki-demos-qr): implicit QR method, by Elias Toivanen
 
+[kiss](https://github.com/ivan-pi/kiss): Krylov-based iterative sparse solvers, by Ivan Pribec
+
 [Lanczos_Iterator](https://github.com/lanczos-iterator/Lanczos_Iterator): Lanczos program for large sparse Hermitian matrices, by F. D. M. Haldane -- Fortran with a C99 interface. It obtains maximally-accurate low-lying eigenvalues and the corresponding orthonormal eigenvectors.
 
 [lapack](https://github.com/Reference-LAPACK/lapack): subroutines for solving the most commonly occurring problems in numerical linear algebra
