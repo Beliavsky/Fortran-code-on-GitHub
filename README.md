@@ -3843,6 +3843,8 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [rrelaxiv](https://github.com/josherrickson/rrelaxiv): R interface for [RELAX-IV](https://www.mit.edu/~dimitrib/RELAX4_doc.pdf) minimum cost flow solver in FORTRAN by Dimitri P. Bertsekas and Paul Tseng
 
+[schittkowski-test-problems](https://github.com/jacobwilliams/schittkowski-test-problems): an associated book is [More Test Examples for Nonlinear Programming](https://link.springer.com/book/10.1007/978-3-642-61582-5), by Klaus Schittkowski, Springer (1987)          
+
 [scipydirect](https://github.com/andim/scipydirect): Python wrapper to the DIRECT global optimization algorithm with scipy.optimize compatible call syntax, by andim et al.
 
 [SEISCOPE optimization toolbox wrapper](https://github.com/ofmla/seiscope_opt_toolbox_w_ctypes): demonstrates how to use the [SEISCOPE optimization toolbox](https://seiscope2.osug.fr/SEISCOPE-OPTIMIZATION-TOOLBOX?lang=en) from Python. The original code is public domain and was written by Ludovic Métivier and Romain Brossier.
