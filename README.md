@@ -4255,6 +4255,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Fingerprint](https://github.com/KrumaKruma/Fingerprint): computation of overlap matrix based fingerprints. The fingerprint vector contains the eigenvalues of the overlap matrix which is itself constructed from gaussian type orbitals.
 
+[Flash-X-snia-stage](https://github.com/deanmtownsley/Flash-X-snia-stage): highly composable multiphysics software system that can be used to simulate physical phenomena in several scientific domains, by Dean Townsley et al. The Flash-X architecture has been redesigned to be compatible with increasingly heterogeneous hardware platforms.
+
 [flex-general](https://github.com/johndeisz/flex-general): applies the Fluctuation Exchange Approximation (FLEX) to study superconductivity and magnetism in multiband tight-binding models, by John Deisz. [flex-stripes](https://github.com/johndeisz/flex-stripes) analyzes charge and magnetic stripe formation in one-band tight-binding models.
 
 [FMM3D](https://github.com/flatironinstitute/FMM3D): compute N-body interactions governed by the Laplace and Helmholtz equations, to a specified precision, in three dimensions, on a multi-core shared-memory machine, from the Flatiron Institute
