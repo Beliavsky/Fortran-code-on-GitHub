@@ -599,6 +599,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [dinsol-v1.0-linux](https://github.com/Emerson-D-Oliveira/dinsol-v1.0-linux): simulates the incoming solar radiation at the top of the atmosphere following the Milankovitch cycles theory, by Emerson Damasceno Oliveira. The tool is ideal for preparing the boundary conditions of climate models, beyond being a helpful tool for educational purposes.
 
+[Dutch Atmospheric Large Eddy Simulation (DALES)](https://github.com/dalesteam/dales): An associated paper is [Large-Eddy Simulation Comparison of Neutral Flow Over a Canopy: Sensitivities to Physical and Numerical Conditions, and Similarity to Other Representations](https://link.springer.com/article/10.1007/s10546-016-0182-5), by H.G. Ouwersloot et al., <i>Boundary-Layer Meteorology</i> (2017)
+
 [dwarf-p-cloudsc](https://github.com/ecmwf-ifs/dwarf-p-cloudsc): standalone mini-app of the ECMWF cloud microphysics parameterization, by Michael Lange, Willem Deconinck, and Balthasar Reuter
 
 [E3SM](https://github.com/E3SM-Project/E3SM): Energy Exascale Earth System Model source code, by E3SM-Project 
