@@ -1747,6 +1747,8 @@ calculating the potential evapotranspiration on a monthly scale using different 
 
 [mizuRoute](https://github.com/NCAR/mizuRoute): post-processor of runoff output from a hydrologic model or Land surface model to produce streamflow estimates in the river network provided by a user, from NCAR. The tool was developed for the large scale, network based river routing (e.g., river network over contiguous United States), but works for gridded river network as well.
 
+[modaem](https://github.com/kelsonengineering/modaem): single-layer, steady-state analytic element groundwater flow model that has been enhanced for use with [GMS](https://aquaveo.com/software/gms/introduction), by Vic Kelson
+
 [MODFLOW 6: USGS Modular Hydrologic Model](https://github.com/MODFLOW-USGS/modflow6): accurately, reliably, and efficiently simulates groundwater flow. With time, growing interest in surface and groundwater interactions, local refinement with nested and unstructured grids, karst groundwater flow, solute transport, and saltwater intrusion, has led to the development of numerous MODFLOW versions.
 
 [Modified_Cam_Clay_Potts](https://github.com/CriticalSoilModels/Modified_Cam_Clay_Potts): [Modified cam clay](https://doc.comsol.com/5.5/doc/com.comsol.help.sme/sme_ug_theory.06.31.html#3443214) with Mohr-Coulomb surface in the deviatoric plane, from CriticalSoilModels. Also [Strain_Rate_Mohr_Coulomb](https://github.com/CriticalSoilModels/Strain_Rate_Mohr_Coulomb), associated with the paper [Constitutive modelling of non-cohesive soils under high-strain rates: a consistency approach](https://www.icevirtuallibrary.com/doi/10.1680/jgeot.21.00192) by Luis E. Zambrano-Cruzatty et al., <i>Géotechnique</i> (2024).
