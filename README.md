@@ -4038,6 +4038,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [forestclaw](https://github.com/ForestClaw/forestclaw): parallel, multi-block adaptive finite volume code for solving PDEs on a hierarchy of logically Cartesian meshes
 
+[Fortran-Heat-Equation-Solver](https://github.com/KyFaxTeam/Fortran-Heat-Equation-Solver): solves the heat equation in one spatial dimension with the implicit Euler method, spatial discretization by centered finite differences of order 2 and a conjugate gradient solver parallelized with MPI, by Yanel Aina and Elonm
+
 [fortran-weno](https://github.com/dongli/fortran-weno): implements (WENO) weighted essentially non-oscillatory algorithms, by Li Dong and Zhou Lilong
 
 [heatcompact3d](https://github.com/tlestang/heatcompact3d): 3D heat equation solver based on 6th order compact finite differences schemes, by Thibault Lestang
