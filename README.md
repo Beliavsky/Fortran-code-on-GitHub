@@ -1646,8 +1646,7 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [HYbrid Coordinate Ocean Model (HYCOM)](https://github.com/HYCOM/HYCOM-src): data-assimilative hybrid isopycnal-sigma-pressure (generalized) coordinate ocean model, with objectives of three-dimensional depiction of the ocean state at fine resolution in real time, provision of boundary conditions for coastal and regional models, and provision of oceanic boundary conditions for a global coupled ocean-atmosphere prediction model
 
-[hydroanalyzer_fortran](https://github.com/khaors/hydroanalyzer_fortran): program to analyze hydrological information, focused on frequency analysis of discharge data, 
-calculating the potential evapotranspiration on a monthly scale using different methods, and performing a simple soil water balance using the [Thornwaite method](https://wwwbrr.cr.usgs.gov/projects/SW_MoWS/Thornthwaite.html), by Oscar Garcia-Cabrejo
+[hydroanalyzer_fortran](https://github.com/khaors/hydroanalyzer_fortran): program to analyze hydrological information, focused on frequency analysis of discharge data, calculating the potential evapotranspiration on a monthly scale using different methods, and performing a simple soil water balance using the [Thornwaite method](https://wwwbrr.cr.usgs.gov/projects/SW_MoWS/Thornthwaite.html), by Oscar Garcia-Cabrejo
 
 [HYPO3D](https://github.com/firbas/hypo3d): program to determine the hypocenter and magnitude of local earthquakes, by Milan Werl and Petr Firbas. It solves earthquake location within a 3-dimensional velocity model.
 
