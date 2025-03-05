@@ -4963,8 +4963,7 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [mclust](https://github.com/cran/mclust): R package with Fortran code -- Gaussian finite mixture models fitted via EM algorithm for model-based clustering, classification, and density estimation, including Bayesian regularization, dimension reduction for visualization, and resampling-based inference, by Chris Fraley et al.
 
-[MCMC f90 library](https://github.com/mjlaine/mcmcf90): do Markov chain Monte Carlo simulation from a posterior distribution of unknown model parameters defined by a likelihood function and prior, by mjlaine. Also [MOdel ESTimation (Modest)](https://github.com/mjlaine/modest), a program package for
-parameter estimation of mechanistic mathematical models as well as for experimental design.
+[MCMC f90 library](https://github.com/mjlaine/mcmcf90): do Markov chain Monte Carlo simulation from a posterior distribution of unknown model parameters defined by a likelihood function and prior, by mjlaine. Also [MOdel ESTimation (Modest)](https://github.com/mjlaine/modest), a program package for parameter estimation of mechanistic mathematical models as well as for experimental design.
 
 [M_datapac](https://github.com/urbanjost/M_datapac): NIST [DATAPAC](https://www.nist.gov/itl/sed/datapac) package modularized and made available as an fpm(1) package, by urbanjost, original code by James Filliben. There are routines for computing various probability functions.
 
