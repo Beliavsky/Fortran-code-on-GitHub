@@ -1,4 +1,4 @@
-## Fortran code on GitHub -- also see [fortran-lang package index](https://fortran-lang.org/packages/)
+## Also see [fortran-lang package index](https://fortran-lang.org/packages/)
 * [Art and Music](#art-and-music)
 * [Automatic Differentiation](#automatic-differentiation)
 * [Astronomy and Astrophysics](#astronomy-and-astrophysics)
