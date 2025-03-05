@@ -3713,7 +3713,7 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [conmax](https://github.com/jacobwilliams/conmax): general nonlinearly constrained function minimization
 
-[conmin](https://github.com/jacobwilliams/conmin): subroutine for the solution of linear or nonlinear constrained optimization problems, by The basic optimization algorithm is the method of feasible directions, by G. N. Vanderplaats, updated by Jacob Williams
+[conmin](https://github.com/jacobwilliams/conmin): subroutine for the solution of linear or nonlinear constrained optimization problems, by G. N. Vanderplaats, updated by Jacob Williams
 
 [CUTEst](https://github.com/ralna/CUTEst): Constrained and Unconstrained Testing Environment with safe threads for optimization software
 
