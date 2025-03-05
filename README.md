@@ -3188,7 +3188,7 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 
 [Sparse Parallel Robust Algorithm Library (SPRAL)](https://github.com/ralna/spral): library for sparse linear algebra and associated algorithms. It is primarily developed by the Numerical Analysis group at STFC Rutherford Appleton Laboratory.
 
-[SpecialMatrices](https://github.com/loiseaujc/SpecialMatrices): simple package providing specialized routines operations such as computing the determinant, inverse, singular value decomposition, and eigenvalues, for common structured matrix types, such as diagonal, bidiagonal, tridiagonal, symmetric tridiagonal, Poisson2D, by Jean-Christophe Loiseau
+[SpecialMatrices](https://github.com/loiseaujc/SpecialMatrices): simple package providing specialized routines for operations such as computing the determinant, inverse, singular value decomposition, and eigenvalues, for common structured matrix types, such as diagonal, bidiagonal, tridiagonal, symmetric tridiagonal, Poisson2D, by Jean-Christophe Loiseau
 
 [Spectrum-Revealing CUR (SR-CUR)](https://github.com/Rioghasarig/sr-cur): tool for the low rank CUR decomposition of sparse matrices, by Onyebuchi Ekenta. SR-CUR implements a novel CUR decomposition method that allows it to scale to larger matrices and produce more accurate factorizations than previous methods.
 
