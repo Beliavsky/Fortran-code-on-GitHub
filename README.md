@@ -1160,6 +1160,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [freeCappuccino](https://github.com/nikola-m/freeCappuccino): three-dimensional fully unstructured finite volume code for Computational Fluid Dynamics which comes in serial and parallel version, by nikola-m. FreeCappuccino is also a Fortran library for manipulation of discrete tensor fields, defined over polyhedral meshes.
 
+[FSILBM3D](https://github.com/gaoak/FSILBM3D): fluid-structure interaction solver based on Lattice Boltzmann method, by Ankang Gao
+
 [fvm-source-wb](https://github.com/hanveiga/fvm-source-wb): finite volume method code for Euler equations with source and well balancedness, by Maria Veiga. Also [1d-dg-nn](https://github.com/hanveiga/1d-dg-nn), a 1D discontinuous Galerkin code integrated with a neural net.
 
 [fvortex](https://github.com/slitvinov/fvortex): implements vortex method, with applications to Elliptic Lamb–Oseen vortex and Melander, McWilliams, and Zabusky vortex, by Sergey Litvinov
