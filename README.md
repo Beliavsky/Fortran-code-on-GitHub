@@ -4228,6 +4228,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [dftatom: Routines for Radial Integration of Dirac, Schrödinger, and Poisson Equations](https://github.com/certik/dftatom): implements accurate and efficient radial Schrödinger and Dirac shooting-method solvers. Detailed description of methods, convergence and implementation is in the following article: Ondřej Čertík, John E. Pask, Jiří Vackář, dftatom: A robust and general Schrödinger and Dirac solver for atomic structure calculations, Computer Physics Communications, Volume 184, Issue 7, July 2013, Pages 1777-1791, ISSN 0010-4655, 10.1016/j.cpc.2013.02.014. Preprint: arXiv:1209.1752.
 
+[DICEBOX](https://www-nds.iaea.org/dicebox/): OpenMP parallel version of [DICEBOX](https://www-nds.iaea.org/dicebox/) for capture on isolated resonances (energy-, spin- and parity-well defined initial state), by Stanislav Valenta and Jiri Kroll
+
 [DielectricKit](https://github.com/wu2meng3/DielectricKit): high-performance computing toolkit to calculate and visualize polarizability and dielectric response function within the random-phase approximation, by Meng Wu.
 
 [Driver-Database](https://github.com/QcmPlab/Driver-Database): collection of programs that solve problems using libraries from QcmPlab, including Dmft_ED for Exact Diagonalization based DMFT method, SlaveSpins for the Slave Spins method, and Lattice_ED for programs implementing lattice Exact Diagonalization
