@@ -4454,6 +4454,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [turbogap](https://github.com/mcaroba/turbogap): efficiently and accurately builds many-body atomic descriptors and carry out other related computations employed in machine-learning approaches to atomistic modeling, such as to run molecular dynamics simulations, by mcaroba
 
+[Universal Fieldline Tracer (UFiT)](https://github.com/Valentin-Aslanyan/UFiT): traces magnetic field lines in a range of magnetic geometries, by Val Aslanyan
+
 [unrestricted_hartree_fock](https://github.com/xiaobo-23/unrestricted_hartree_fock): unrestricted Hartree-Fock solutions to the Hubbard model at finite-temperature in a grand canonical ensemble, by xiaobo-23
 
 [Unstructured Mesh Transport (UMT)](https://github.com/LLNL/UMT): LLNL ASC proxy application (mini-app) that solves a thermal radiative transport equation using discrete ordinates (Sn). It utilizes an upstream corner balance method to compute the solution to the Boltzmann transport equation on unstructured spatial grids.
