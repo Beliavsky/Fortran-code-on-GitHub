@@ -643,6 +643,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [Hail Trajectory Clustering](https://github.com/adams-selin/trajectory_clustering): groups three-dimensional hail trajectories into similar clusters. Associated with paper Adams-Selin, R., 2023: A three-dimensional trajectory clustering technique. Monthly Weather Review
 
+[HexKloud](https://github.com/louiswicker/HexKloud): Joe Klemp's toy cloud model modified by NSSL scientists
+
 [High-resolution Intermediate Complexity Atmospheric Research model (HICAR)](https://github.com/HICAR-Model/HICAR): variant of the Intermediate Complexity Atmospheric Research (ICAR) model developed for sub-kilometer resolutions. Associated preprint: Reynolds, D. S., et al., [The High-resolution Intermediate Complexity Atmospheric Research (HICAR v1.0) Model Enables Fast Dynamic Downscaling to the Hectometer Scale](https://gmd.copernicus.org/preprints/gmd-2023-16/gmd-2023-16.pdf), Geosci. Model Dev. (2023) in review
 
 [Himawari_HSD_Reader](https://github.com/simonrp84/Himawari_HSD_Reader): reader for data from Japan's [Himawari satellite](https://en.wikipedia.org/wiki/Himawari_8), by Simon Proud. This utility reads 'raw' HSD format data and can convert it into more friendly formats such as NetCDF4.
