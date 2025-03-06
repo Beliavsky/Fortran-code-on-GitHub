@@ -3811,10 +3811,10 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [pikaia](https://github.com/jacobwilliams/pikaia): Modern Fortran Edition of the Pikaia Genetic Algorithm by Jacob Williams
 
-[pdfo](https://github.com/pdfo/pdfo): Powell's Derivative-Free Optimization solvers is a cross-platform package
+[PDFO](https://github.com/pdfo/pdfo): Powell's Derivative-Free Optimization solvers is a cross-platform package by Zhang Zaikun and Tom M. Ragonneau,
 providing interfaces for using the late M. J. D. Powell's derivative-free optimization solvers, including UOBYQA, NEWUOA, BOBYQA, LINCOA, and COBYLA.
 
-[prima](https://github.com/libprima/prima): Reference Implementation for Powell's methods with Modernization and Amelioration, by Zhang Zaikun and Tom M. Ragonneau. PRIMA implements of Powell's derivative-free optimization methods, namely COBYLA, UOBYQA, NEWUOA, BOBYQA, and LINCOA.
+[PRIMA](https://github.com/libprima/prima): Reference Implementation for Powell's methods with Modernization and Amelioration, by Zhang Zaikun. PRIMA provides a modern-Fortran implementation of Powell's derivative-free optimization methods, namely COBYLA, UOBYQA, NEWUOA, BOBYQA, and LINCOA.
 
 [PowellOpt](https://github.com/jacobwilliams/PowellOpt): collection of derivative-free optimization algorithms by M.J.D. Powell. 
 
