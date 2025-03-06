@@ -4696,6 +4696,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [superdyson](https://github.com/MBI-Theory/superdyson): property evaluation for general configuration interaction (CI) expansions, from MBI-Theory. All the quantum chemistry data are taken from GAMESS-US.
 
+[TBKOSTER](https://github.com/spindynamics/TBKOSTER): simulation package for the simulation of magnetic materials developed at the French Alternative Energies and Atomic Energy Commission, designed to provide a community standard tool for ab initio simulations of magnetic materials with high performance and an easy-to-use interface
+
 [TBmodels](https://github.com/aamaricci/TBmodels): collection of non-interacting Tight Binding models, often used as a basis for interacting problem calculations, by Adriano Amaricci
 
 [Thomas Relativistic Electronic Structure Calculation (TRESC)](https://github.com/Dirac4pi/TRESC): computes the electronic structure of non-periodic system in adiabatic approximation, solving static 2-component DKH2 electronic Hamiltonian of a given molecular, by Liu Kunyu
