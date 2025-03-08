@@ -3715,7 +3715,7 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 ## Optimization
 [Clustering via Nonsmooth Optimization](https://github.com/SnTa2019/Clustering-via-Nonsmooth-Optimization):  codes of optimization based clustering algorithms described in the book [Partitional Clustering via Nonsmooth Optimization](http://napsu.karmitsa.fi/) by Adil M. Bagirov, Napsu Karmitsa and Sona Taheri, Springer, 2020.
 
-[conmax](https://github.com/jacobwilliams/conmax): general nonlinearly constrained function minimization
+[conmax](https://github.com/jacobwilliams/conmax): general nonlinearly constrained function minimization, by Edwin H. Kaufman, Jr. et al., updated by Jacob Williams
 
 [conmin](https://github.com/jacobwilliams/conmin): subroutine for the solution of linear or nonlinear constrained optimization problems, by G. N. Vanderplaats, updated by Jacob Williams
 
