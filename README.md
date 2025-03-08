@@ -4304,6 +4304,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [gz_heterostructure](https://github.com/GiacMazza/gz_heterostructure): dynamics in strongly correlated heterostructure, used for generating data published in the paper [Thermal dynamics and electronic temperature waves in layered correlated materials](https://www.nature.com/articles/s41467-021-27081-2), by Giacomo Mazza et al., Nature Communications (2021)
 
+[he3lib](https://github.com/slazav/he3lib): provides constants and functions for various He3 properties, by Vladislav Zavjalov
+
 [honeycombinations](https://github.com/janberges/honeycombinations): simulates adsorbate structures on graphene via tight binding and Monte Carlo, by Jan Berges
 
 [inverse-obstacle-scattering2d](https://github.com/flatironinstitute/inverse-obstacle-scattering2d): solves inverse obstacle scattering problems to recover the shape of the obstacle for sound soft, sound hard, and penetrable objects, by Manas Rachh and Travis Askham
