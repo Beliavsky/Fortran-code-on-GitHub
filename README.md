@@ -4122,6 +4122,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [MCFM-RE](https://github.com/lcarpino/MCFM-RE): NNLL resummation for jet-veto cross sections in colour singlet processes, by lcarpino
 
+[nnlocal](https://github.com/nnlocal/nnlocal): program associated with the paper [NNLOCAL: completely local subtractions for color-singlet production in hadron collisions](https://arxiv.org/abs/2412.21028), by Vittorio Del Duca et al., (2024)
+
 [proVBFH](https://github.com/alexanderkarlberg/proVBFH): QCD corrections to Vector Boson Fusion (VBF) single and double Higgs production, by Alexander Karlberg and Frédéric Dreyer
 
 [remoll](https://github.com/JeffersonLab/remoll): simulations for the MOLLER Experiment at Jefferson Lab, which proposes to measure the parity-violating asymmetry in electron-electron (Møller) scattering
