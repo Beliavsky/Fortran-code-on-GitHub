@@ -2523,6 +2523,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [cpu_timer](https://github.com/jlokimlin/cpu_timer): Fortran 2008 object-oriented library for computing elapsed CPU time, by Jon Lo Kim Lin
 
+[evaluate.f](https://github.com/davidpfister/evaluate.f): routines for evaluating mathematical expressions contained in strings, a modernization by David Pfister of code by [George Benthien](https://gbenthien.net/strings/index.html)
+
 [f90getopt](https://github.com/haniibrahim/f90getopt): getopt()- and getopt_long()-like functionality (similar to the C-functions) for Fortran 90, by Hani Andreas Ibrahim
 
 [fArgParse](https://github.com/Goddard-Fortran-Ecosystem/fArgParse): command line argument parsing for Fortran, from Goddard-Fortran-Ecosystem
