@@ -3568,6 +3568,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [Library of Numerical Analysis - Moscow State University](https://github.com/VadimAnIsaev/Library-of-Numerical-Analysis-MSU): Translation of subroutines into modern Fortran (Fortran90 or higher) from Fortran 66. Original website: http://num-anal.srcc.msu.ru/lib_na/cat/cat0.htm
 
+[libslam](https://github.com/Space-Systems/libslam): algorithms used for space applications, such as [NEPTUNE](https://github.com/Space-Systems/neptune), by Christopher Kebschull et al. `src/math` has code for interpolation, linear algebra, mathematics, random number generation, sorting, and statistics.
+
 [lookup_table_fortran](https://github.com/jannisteunissen/lookup_table_fortran): module for linear lookup tables, by jannisteunissen. Supports multiple columns and various ways to read values from the table 
 
 [monolis_utils](https://github.com/nqomorita/monolis_utils): utilities for monolithic library of numerical simulation, by Naoki Morita. There are modules for I/O, data processing, algebraic computations, memory allocation and release, MPI, tabular data, bounding boxes, Kd-trees, and hashing.
