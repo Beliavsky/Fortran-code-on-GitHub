@@ -34,7 +34,7 @@
 * [Multiple Precision](#multiple-precision)
 * [Neural Networks and Machine Learning](#neural-networks-and-machine-learning)
 * [Nonlinear Equations](#nonlinear-equations)
-* [Numerical](#numerical)
+* [Numerical Methods](#numerical-methods)
 * [Numerical Integration (Quadrature)](#numerical-integration-quadrature)
 * [Ordinary Differential Equations](#ordinary-differential-equations)
 * [Optimization](#optimization)
@@ -3511,7 +3511,7 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [pypolsys](https://github.com/nennigb/pypolsys): Python wrapper to [POLSYS_PLP](https://dl.acm.org/doi/abs/10.1145/347837.347885) Fortran 90 package from Layne T. Watson, Steven M. Wise, Andrew J. Sommese, August, 1998. POLSYS_PLP is a solver for N complex coefficients polynomial systems of equations in N unknowns by a probability-one, globally convergent homotopy method.
 
-## Numerical
+## Numerical Methods
 [afnl](https://github.com/ramos/afnl): Fortran 90 numerical library with modules for numerical types, constants, error handling, integration, optimization, linear algebra, sorting and search, special functions, statistics, polynomials, root-finding, Fourier transforms, and dates and times, by Alberto Ramos
 
 [antia_numerical_methods](https://github.com/Beliavsky/antia_numerical_methods): codes from "Numerical methods for scientists and engineers, 3rd ed." (2012), by H. M. Antia
