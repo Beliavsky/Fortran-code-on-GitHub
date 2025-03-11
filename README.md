@@ -1083,6 +1083,8 @@ and Dmitry Pavlov. It uses BFGS for local optimization and two different forms o
 
 [C81-Interface](https://github.com/cibinjoseph/C81-Interface): parses and creates C81 formatted airfoil tables, by Cibin Joseph
 
+[Canonical Large-Eddy Simulation (CaLES)](https://github.com/soaringxmc/CaLES): GPU-accelerated finite-difference solver designed for large-eddy simulations (LES) of incompressible wall-bounded flows in massively parallel environments, built upon the existing direct numerical simulation (DNS) solver CaNS, by Pedro Costa et al.
+
 [CaNS](https://github.com/p-costa/CaNS): fast, massively-parallel direct numerical simulations (DNS) of canonical flows, by p-costa and nscapin
 
 [cemfDEM](https://github.com/hamidrezanorouzi/cemfDEM): code corresponding to the book [Coupled CFD-DEM Modeling: Formulation, Implementation and Application to Multiphase Flows](https://www.wiley.com/en-us/Coupled+CFD+DEM+Modeling%3A+Formulation%2C+Implementation+and+Application+to+Multiphase+Flows-p-9781119005292) by Hamid Reza Norouzi et al.
