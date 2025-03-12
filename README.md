@@ -4400,6 +4400,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Physical optics propagation through synchrotron radiation beamlines (PHASE)](https://github.com/flechsig/phase): tool for the optical design of synchrotron radiation beamlines, by Uwe Flechsig. It is based on analytic expressions for nonlinear transformation of beam coordinates across optical elements. Documented [here](https://www.helmholtz-berlin.de/forschung/oe/wi/undulators/arbeitsgebiete/phase_en.html)
 
+[phtools](https://github.com/acammarat/phtools): pre- and post-processing tools for phonon-based calculations, by Antonio Cammarata. <b>Phonchar</b> Calculates the atomic character of phonon eigenvectors, <b>eigmap</b> calculates the map between different eigenvectors via scalar products, and <b>qpoints</b> extracts phonon eigenvectors and eigenvalues.
+
 [py_FS](https://github.com/TheoWeinberger/py_FS): Python script for plotting Fermi surfaces in .bxsf format, calling the Fortran code Supercell K-space Extremal Area Finder (SKEAF), by Patrick Rourke
 
 [PyGeTe](https://github.com/dquigley533/PyGeTe): implementation Fortran of the [Zipoli & Curioni many-body GeTe potential](https://iopscience.iop.org/article/10.1088/1367-2630/15/12/123006) optimised for Monte Carlo simulations in Python, by David Quigley
