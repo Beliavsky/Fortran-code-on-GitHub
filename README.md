@@ -4318,6 +4318,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [he3lib](https://github.com/slazav/he3lib): provides constants and functions for various He3 properties, by Vladislav Zavjalov
 
+[Heisenberg_code_sparse_csr_fortran](https://github.com/jjastrz14/Heisenberg_code_sparse_csr_fortran): Heisenberg spin models and entangleement entropy measurements, by Jakub Andrzej Jastrzebski and Maciej Bieniek
+
 [honeycombinations](https://github.com/janberges/honeycombinations): simulates adsorbate structures on graphene via tight binding and Monte Carlo, by Jan Berges
 
 [inverse-obstacle-scattering2d](https://github.com/flatironinstitute/inverse-obstacle-scattering2d): solves inverse obstacle scattering problems to recover the shape of the obstacle for sound soft, sound hard, and penetrable objects, by Manas Rachh and Travis Askham
