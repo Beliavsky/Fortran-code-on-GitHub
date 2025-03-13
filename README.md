@@ -1342,6 +1342,8 @@ engine, by montagdude and Geoff Sokoll
 
 [Lucifer](https://github.com/interkosmos/lucifer): Arthur Sorkin's variant of the Lucifer block cipher, a direct predecessor of DES, ported from FORTRAN IV to FORTRAN 77
 
+[MessageDigest-Fortran](https://github.com/LaplaceSoda/MessageDigest-Fortran): module for computing message digests like MD5, SHA256 and so on using the [OpenSSL](https://github.com/openssl/openssl) library, by LaplaceSoda
+
 [sodium](https://github.com/freevryheid/sodium): Fortran bindings by Andre Smit for [libsodium](https://github.com/jedisct1/libsodium), a C library for encryption, decryption, signatures, password hashing, etc.
 
 ## Databases
