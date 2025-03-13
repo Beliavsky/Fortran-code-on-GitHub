@@ -4849,6 +4849,8 @@ universe-based geometry building, steady-state MC, OTF Doppler broadening, MC-ba
 
 [gf_solver](https://github.com/gfell/gf_solver): finds the zeros of a function using the basic Newton method and switches to hybrid Newton-bisection if the max number of iterations is exceeded, by gfell
 
+[gssFortran](https://github.com/huijunchen9260/gssFortran): tests using class(*) to bring an arbitrary objective function into the algorithm and compare its efficiency with directly coding golden section search for a specific optimization, by Hui-Jun Chen
+
 [polyroots-fortran](https://github.com/jacobwilliams/polyroots-fortran): modern Fortran library for finding the roots of polynomials, by Jacob Williams
 
 [roots-fortran](https://github.com/jacobwilliams/roots-fortran): library for finding the roots of continuous scalar functions of a single real variable, by Jacob Wiliams
