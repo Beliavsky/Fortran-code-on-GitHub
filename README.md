@@ -589,6 +589,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [Cloud Layers Unified By Binormals (clubb_release)](https://github.com/larson-group/clubb_release): single-column atmospheric model, with associated preprint [CLUBB-SILHS: A parameterization of subgrid variability in the atmosphere](https://arxiv.org/pdf/1711.03675.pdf), by Vincent E. Larson
 
+[Cloud Model 1 (CM1)](https://github.com/NCAR/CM1): three-dimensional, non-hydrostatic, non-linear, time-dependent numerical model designed for idealized studies of atmospheric phenomena, by David Ahijevych and George H. Bryan
+
 [convert_mpas](https://github.com/mgduda/convert_mpas): general conversion utility for MPAS-Atmosphere output files, by Michael Duda and David Ahijevych
 
 [CRUST](https://github.com/ClimaticResearchUnit/CRUST): Climatic Research Unit Standardisation of Tree-ring data
