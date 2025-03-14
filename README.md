@@ -222,6 +222,8 @@
 
 [Mars Subsurface Ice Model (MSIM)](https://github.com/nschorgh/MSIM): thermal and ice evolution models for Mars, by Norbert Schörghofer
 
+[Mock AMR Sunyaev-Zeldovich Calculator (MASC)](https://github.com/oscarmonllor99/MASC): package associated with the paper [Imprints of the internal dynamics of galaxy clusters on the Sunyaev–Zeldovich effect](https://www.aanda.org/articles/aa/full_html/2024/06/aa48967-23/aa48967-23.html), by Óscar Monllor-Berbegal1 et al., <i>Astronomy & Astrophysics</i> (2024)
+
 [MCGSuite](https://github.com/CIRADA-Tools/MCGSuite): set of codes designed to generate mock observations of tilted ring models, by Nate Deg and K. Spekkens. These mock observations mimic observations of axisymmetric HI gas disks. 
 
 [MCMax3D](https://github.com/michielmin/MCMax3D): Monte Carlo radiative transfer and disk modelling tool, described [here](https://www.exoclouds.com/Software/). It sets up a disk structure using physical processes or a parameterised structure.
