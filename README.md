@@ -3854,7 +3854,9 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [QAP](https://github.com/mhahsler/qap): R package with Fortran code implementing heuristics for the Quadratic Assignment Problem, by Michael Hahsler
 
-[qnstop](https://github.com/vtopt/qnstop): suite of serial and parallel Fortran 95/2003 codes for deterministic global optimization and stochastic optimization by Layne Watson. 
+[qnstop](https://github.com/vtopt/qnstop): suite of serial and parallel Fortran 95/2003 codes for deterministic global optimization and stochastic optimization by Layne Watson.
+
+[Quadprog](https://github.com/loiseaujc/Quadprog): code for convex quadratic programs by Jean-Christophe Loiseau, updating code by Berwin Turlach
 
 [quadprog](https://github.com/pedro-ricardo/quadprog): quadratic programming routine based on R Package sources, by Pedro Ricardo C. Souza. Changed to have a Matlab like interface and usage examples in C and Fortran.
 
