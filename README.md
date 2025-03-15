@@ -152,6 +152,8 @@
 
 [FEMlimb-Astrophysics](https://github.com/laya2020/FEMlimb-Astrophysics): algorithm described in the paper [Measuring limb darkening of stars in high-magnification microlensing events by the Finite Element Method](https://academic.oup.com/mnras/article-abstract/494/1/584/5809367), by L. Golchin and S. Rahvar, Monthly Notices of the Royal Astronomical Society (2020)
 
+[FLRWSolver_public](https://github.com/hayleyjm/FLRWSolver_public): provides cosmological initial conditions for the Einstein Telescope. A related preprint is [Inhomogeneous Cosmology with Numerical Relativity](https://arxiv.org/abs/1611.05447) by Hayley J. Macpherson et al., (2017).
+
 [FluxConserving](https://github.com/neutrinomuon/FluxConserving): Fortran code to compute the flux-density conservation, with a Python interface, by Jean Gomes
 
 [Fortran-Astro](https://github.com/cengizyildirim-aerospace/Fortran-Astro): module for calculating [orbital elements](https://en.wikipedia.org/wiki/Orbital_elements), by Cengiz Yıldırım
