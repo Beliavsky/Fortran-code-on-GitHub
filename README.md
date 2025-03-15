@@ -4750,9 +4750,11 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [turborvb](https://github.com/sissaschool/turborvb): package for ab initio Quantum Monte Carlo (QMC) simulations of both molecular and bulk electronic systems, originally developed by Sandro Sorella and Michele Casula
 
-[VALENCE](https://github.com/VALENCE-software/VALENCE): Massively Parallel Implementation of Variational Subspace Valence Bond, by Graham D. Fletcher et al.
+[uptight](https://github.com/tiberlab/uptight): versatile empirical tight-binding library. An associated paper is [Transferable tight-binding model for strained group IV and III-V materials and heterostructures](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.045311), by Y. Tan et al., <i>Physical Review B</i> (2016)
 
 [utils4VASP](https://github.com/Trebonius91/utils4VASP): scripts and programs that can be used to set up, manage and evaluate VASP calcuations, by Julien Steffen and Andreas Mölkner. It was initially designed to support calculations of liquid surface catalysts, but the scripts and programs should be general enough to use them for arbitrary VASP calculations of surface or bulk systems.
+
+[VALENCE](https://github.com/VALENCE-software/VALENCE): Massively Parallel Implementation of Variational Subspace Valence Bond, by Graham D. Fletcher et al.
 
 [VASPsol](https://github.com/henniggroup/VASPsol): solvation model for the plane wave density functional theory (DFT) code [VASP](https://www.vasp.at/). An associated paper is [Implicit solvation model for density-functional study of nanocrystal surfaces and reaction pathways](https://pubs.aip.org/aip/jcp/article-abstract/140/8/084106/1003843/Implicit-solvation-model-for-density-functional) by K. Mathew et al., J. Chem. Phys. (2014). A currently developed version, also in Fortran, is [VASPsol++](https://github.com/VASPsol/VASPsol).
 
