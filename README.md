@@ -605,6 +605,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [dwarf-p-cloudsc](https://github.com/ecmwf-ifs/dwarf-p-cloudsc): standalone mini-app of the ECMWF cloud microphysics parameterization, by Michael Lange, Willem Deconinck, and Balthasar Reuter
 
+[easyclimate-backend](https://github.com/shenyulu/easyclimate-backend): back end for the [Easy Climate](https://easyclimate.readthedocs.io/en/latest/overview.html) project for climate data analysis, by Yi Zhang
+
 [E3SM](https://github.com/E3SM-Project/E3SM): Energy Exascale Earth System Model source code, by E3SM-Project 
 
 [ecrad](https://github.com/ecmwf/ecrad): offline version of a radiation scheme suitable for use in atmospheric weather and climate models, from ecmwf
