@@ -3394,6 +3394,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [Hefei-NAMD](https://github.com/QijingZheng/Hefei-NAMD): ab-initio nonadiabatic molecular dynamics program, by QijingZheng and WeibinChu
 
+[Molecular-Dynamics-Simulation](https://github.com/itsfuad/Molecular-Dynamics-Simulation): molecular dynamics simulation program for simulating Lennard-Jones particles, with Python-based analysis tools, by Fuad Hasan
+
 [Packmol](https://github.com/m3g/packmol): creates an initial point for molecular dynamics simulations by packing molecules in defined regions of space, from Martinez Molecular Modeling Group. The packing guarantees that short range repulsive interactions do not disrupt the simulations.
 
 [PIMDkk](https://github.com/kuwahatakazuaki/PIMDkk): Path Integral Molecular Dynamics program by kuwahatakazuaki. Also [PIMDanalysis2](https://github.com/kuwahatakazuaki/PIMDanalysis2) to analyze the results of PIMD simulations.
