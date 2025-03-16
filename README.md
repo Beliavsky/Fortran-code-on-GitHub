@@ -4878,6 +4878,8 @@ universe-based geometry building, steady-state MC, OTF Doppler broadening, MC-ba
 
 [Fortran-parallel-sort](https://github.com/cphyc/Fortran-parallel-sort): Fortran library to perform parallel sorts, by cphyc and OCsteve
 
+[Fortran-QuickSort](https://github.com/Beliavsky/Fortran-QuickSort): quicksort via pure procedures, by Beliavsky, adapting code of Alan Miller
+
 [fortran-search-and-sort](https://github.com/jacobwilliams/fortran-search-and-sort): Searching and sorting with modern Fortran, by Jacob Williams
 
 [fsort](https://github.com/snljty/fsort): uses three different sorting methods to maximize speed within memory constraints, based on the size of the array, by Mingda Zhang
