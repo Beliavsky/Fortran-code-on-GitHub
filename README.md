@@ -2398,6 +2398,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [compute-course-public](https://github.com/jonaslindemann/compute-course-public): course material for the [COMPUTE course - Scientific Program in Python and Fortran](https://www.compute.lu.se/courses/upcoming-courses/course/article/scientific-computing-with-python-and-fortran/) by Jonas Lindemann
 
+[easy](https://github.com/urbanjost/easy): steps to setup a GitHub repository with the Fortran Package Manager, and GitHub actions including [FORD](https://github.com/Fortran-FOSS-Programmers/ford) documentation and unit tests, by urbanjost
+
 [ex-f90ish](https://github.com/richmit/ex-f90ish): small programs illustrating some of features of modern Fortran from the perspective of a FORTRAN 77 programmer, by Mitch Richling. His [tutorial](https://www.mitchr.me/SS/exampleCode/Fortran.html) has links to these codes.
 
 [fidbits](https://github.com/sourceryinstitute/fidbits): Fortran tidbits: random code snippets produced in conversations that seem worth preserving for future reference, by Damian Rouson et al. They illustrate features of modern Fortran.
