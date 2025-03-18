@@ -3148,6 +3148,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 
 [LSQR](https://github.com/jacobwilliams/LSQR): Fortran 2008 edition of [LSQR](https://web.stanford.edu/group/SOL/software/lsqr/), a conjugate-gradient type method for solving sparse linear equations and sparse least-squares problems, by Jacob Williams.
 
+[lusol](https://github.com/jacobwilliams/lusol): sparse LU factorization for square and rectangular matrices A, with Bartels-Golub-Reid updates for column replacement and other rank-1 modifications, by Michael Saunders, updated by Jacob Williams
+
 [madrigal](https://github.com/octoflar/madrigal): matrix derivative tests for forward and reverse mode automatic differentiation, by R. Quast
 
 [MARIA-Fortran](https://github.com/sbudzinskiy/MARIA-Fortran): library for working with low-rank matrices and tensors: truncated SVD, truncated SVD with sketching, adaptive cross approximation with rook pivoting, cross approximation based on the maximum-volume principle, cross approximation based on the maximum-projective-volume principle, elements of Riemannian geometry of fixed-rank matrices, and tensor-train SVD, by Stanislav Budzinskiy
