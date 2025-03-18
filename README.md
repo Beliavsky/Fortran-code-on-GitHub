@@ -729,6 +729,8 @@ simulating and forecasting meteorological phenomena.
 
 [Unified Forecast System (UFS) weather model](https://github.com/ufs-community/ufs-weather-model): weather model is used in several of the UFS applications, including the medium-range weather application and the short-range weather application.
 
+[WAve Model (WAM)](https://github.com/myWAveModel/WAM): spectral wave model, by r-hartmann et al. A related paper is [The WAM Model -- A Third Generation Ocean Wave Prediction Model](https://journals.ametsoc.org/view/journals/phoc/18/12/1520-0485_1988_018_1775_twmtgo_2_0_co_2.xml), <i>Journal of Physical Oceanography</i> (1988).
+
 [weather-buoys](https://github.com/modern-fortran/weather-buoys): Processing weather buoy data in parallel, from modern-fortran
 
 [WRF](https://github.com/wrf-model/WRF): Weather Research and Forecasting (WRF) model
@@ -1359,6 +1361,8 @@ engine, by montagdude and Geoff Sokoll
 [MessageDigest-Fortran](https://github.com/LaplaceSoda/MessageDigest-Fortran): module for computing message digests like MD5, SHA256 and so on using the [OpenSSL](https://github.com/openssl/openssl) library, by LaplaceSoda
 
 [sodium](https://github.com/freevryheid/sodium): Fortran bindings by Andre Smit for [libsodium](https://github.com/jedisct1/libsodium), a C library for encryption, decryption, signatures, password hashing, etc.
+
+https://github.com/myWAveModel/WAM
 
 ## Databases
 [fodbc](https://github.com/rbarrel/fodbc): interface to Open Database Connectivity ([ODBC](https://en.wikipedia.org/wiki/Open_Database_Connectivity)), by RainBarrel
