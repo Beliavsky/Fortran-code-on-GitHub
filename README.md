@@ -82,6 +82,8 @@
 
 [Adaptive Spherical Overdensity Halo Finder (ASOHF)](https://github.com/dvallesp/ASOHF): primarily designed to identify bound dark matter structures (dark matter haloes), as well as their stellar counterparts (galaxies) in the outputs of cosmological simulations. Associated paper: [The halo-finding problem revisited: a deep revision of the ASOHF code](https://www.aanda.org/articles/aa/full_html/2022/08/aa43712-22/aa43712-22.html), by David Vallés-Pérez, Susana Planelles, and Vicent Quilis, Astronomy&Astrophysics, 664 (2022).
 
+[AI-based Reconstruction of the Geospace Unified System (ARGUS)](https://github.com/grantkstephens/ARGUS): an associated paper is [Global Empirical Picture of Magnetospheric Substorms Inferred From Multimission Magnetometer Data](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018JA025843), by G. K. Stephens et al., <i>JGR Space Physics</i> (2019)
+
 [ALBUS_ionosphere](https://github.com/twillis449/ALBUS_ionosphere): determines the ionosphere total electron content (TEC) over any location on the Earth as a function of location and time, by Tony Willis. It then uses the TEC and a model of the Earth's magnetic field to compute the ionosphere's effect on the Faraday Rotion Measure (RM) observed for an astronomical radio source. The ionosphere's contribution to the RM can then be removed. 
 
 [aquila astrophotography package](https://github.com/gronki/aquila): small LRGB astrophotography reduction and processing package, by Dominik Gronkiewicz. The package consists of the programs aqstack for stacking and reduction of monochromatic CCD images and aqlrgb for compositing images from many filters into one color picture.
