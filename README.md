@@ -758,6 +758,8 @@ simulating and forecasting meteorological phenomena.
 
 [Fortran-RefCount](https://github.com/LadaF/Fortran-RefCount): simple reference counting for Fortran
 
+[fpm-deps](https://github.com/ivan-pi/fpm-deps): generates dependency graphs of Fortran packages, by Ivan Pribec
+
 [fpm-search](https://github.com/urbanjost/fpm-search): finds information about registered fpm (Fortran Package Manager) packages, by urbanjost
 
 [libfde](https://github.com/Zorkator/libfde): Fortran Development Extensions (library), by Zorkator
