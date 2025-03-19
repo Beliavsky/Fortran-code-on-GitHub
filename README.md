@@ -1121,6 +1121,8 @@ and Dmitry Pavlov. It uses BFGS for local optimization and two different forms o
 
 [CloverLeaf_ref](https://github.com/UK-MAC/CloverLeaf_ref): solves the compressible Euler equations on a Cartesian grid, using an explicit, second-order accurate method, from UK-MAC. Each cell stores three values: energy, density, and pressure. 
 
+[CO2GraVISim](https://github.com/ajobutler/CO2GraVISim): reduced physics model of the flow of CO2 injected into a porous reservoir, by ajobutler
+
 [code_saturne](https://github.com/code-saturne/code_saturne): CFD software handling either incompressible or expandable flows with or without heat transfer and turbulence
 
 [Compressible-Flow](https://github.com/obdwinston/Compressible-Flow): Riemann solver for the Euler equations on an unstructured triangular mesh using the finite volume method, by Winston Ong. The HLLC fluxes are computed by solving the x-split Riemann problem at each face, taking advantage of the rotational invariance of the flux vectors. Also [Incompressible-Flow](https://github.com/obdwinston/Incompressible-Flow) which implements Chorin's projection method to solve the incompressible Navier-Stokes equations on an unstructured triangular mesh using the finite volume method.
