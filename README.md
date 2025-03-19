@@ -5069,6 +5069,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [PolyChordLite](https://github.com/PolyChord/PolyChordLite): public version of PolyChord, next generation data technology which has the ability to more fully explore a complex, challenging data landscape
 
+[polyfit](https://github.com/plopezrios/polyfit): toolbox for performing and manipulating polynomial fits to data with statistical uncertainties, by Pablo López Ríos. It uses Monte Carlo resampling to obtain uncertainties on quantities of interest, such as values and derivatives of the fit function, intersections between fits to different datasets, etc. 
+
 [pygslib](https://github.com/opengeostat/pygslib): GSLIB (Geostatistical Software LIBrary) Fortran code wrapped into python
 
 [pymc2](https://github.com/pymc-devs/pymc2): Python module with Fortran code that implements Bayesian statistical models and fitting algorithms, including Markov chain Monte Carlo, by Chris Fonnesbeck et al. Its flexibility and extensibility make it applicable to a large suite of problems. 
