@@ -1958,10 +1958,6 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [Structure for Unifying Multiple Modeling Alternatives (SUMMA)](https://github.com/CH-Earth/summa): hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques, by Martyn P. Clark et al.
 
-[Super-Fast INundation of CoastS (SFINCS)](https://github.com/Deltares/SFINCS): reduced-complexity model designed for super-fast modelling of compound flooding events in a dynamic way, from Deltares
-
-[Surface wave Adjoint Travel-time Tomography (SurfATT-iso)](https://github.com/xumi1993/SurfATT-iso): package for surface wave travel-time tomography, which is designed to invert surface wave travel-time data for 2D/3D isotropic or azimuthal anisotropic velocity structures. An associated paper is [Topography-Incorporated Adjoint-State Surface Wave Traveltime Tomography: Method and a Case Study in Hawaii](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JB027454), by Shijie Hao et al., Journal of Geophysical Research: Solid Earth (2024).
-
 [Shear-wave birefringence analysis (SHEBA)](https://github.com/jwookey/sheba): code associated with Wüstefeld, A.; Al-Harrasi, O.; Verdon, J.; Wookey, J. and Kendall, J-M. (2010) "A strategy for automated analysis of passive microseismic data to image seismic anisotropy and fracture characteristics", Geophysical Prospecting, vol 58, 755–773, DOI:10.1111/j.1365-2478.2010.00891.x
 
 [ShellSet](https://github.com/JonBMay/ShellSet): parallel dynamic neotectonic modelling, by Jon B. May, Peter Bird, and Michele M. C. Carafa
@@ -1981,6 +1977,10 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 [SPHERA](https://github.com/AndreaAmicarelliRSE/SPHERA): Lagrangian Computational Fluid Dynamics (LCFD) - Smoothed Particle Hydrodynamics (SPH) research code by 
 Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landslides for the safety of hydroelectric plants, electrical substations and electricity pylons.
 
+[Super-Fast INundation of CoastS (SFINCS)](https://github.com/Deltares/SFINCS): reduced-complexity model designed for super-fast modelling of compound flooding events in a dynamic way, from Deltares
+
+[Surface wave Adjoint Travel-time Tomography (SurfATT-iso)](https://github.com/xumi1993/SurfATT-iso): package for surface wave travel-time tomography, which is designed to invert surface wave travel-time data for 2D/3D isotropic or azimuthal anisotropic velocity structures. An associated paper is [Topography-Incorporated Adjoint-State Surface Wave Traveltime Tomography: Method and a Case Study in Hawaii](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JB027454), by Shijie Hao et al., Journal of Geophysical Research: Solid Earth (2024).
+
 [Surface Wave Multipathing (swmp)](https://github.com/JuergHauser/swmp): surface wave multipathing ray tracing code, associated with paper Hauser, J., Sambridge, M. and Rawlinson, N. (2008). [Multiarrival wavefront tracking and its applications](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008GC002069). Geochem. Geophys. Geosyst., 9(11), Q11001
 
 [SurfTomo](https://github.com/caiweicaiwei/SurfTomo): direct inversion of surface wave dispersion data, by caiweicaiwei
@@ -1992,6 +1992,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 [SWMM5 +](https://github.com/CIMM-ORG/SWMM5plus): prototype Fortran 2008 engine for the EPA Storm Water Management Model (SWMM), by Gerardo Andrés Riaño Briceño et al.
 
 [SW_VAR_DENS_MODEL](https://github.com/demichie/SW_VAR_DENS_MODEL): model shallow gas-particles flows over digital elevation models (DEMs) of natural terrain, by demichie. The model solves for the conservation equations (mass,momentum,energy) of the mixture, and accounts for sedimentation, erosion, friction and entrainment. 
+
+[System for Integrated modeLling of Atmospheric coMposition (silam-model)](https://github.com/fmidev/silam-model): forecasts air quality, wild-land fire smoke, and allergenic pollen, by Mikhail Sofiev and Rostislav Kouznetsov
 
 [Telewavesim](https://github.com/paudetseis/Telewavesim): teleseismic body wave modeling through stacks of (submarine/anisotropic) layers, by Pascal Audet
 
