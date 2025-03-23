@@ -1635,6 +1635,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [ginette](https://github.com/agnes-riviere/ginette): model for saturated-unsaturated, variable-density ground-water flow with solute or energy transport, by agnes-riviere et al. It is a 2-D variably saturated groundwater flow model with integrated 1-D surface flow for the stream.
 
+[Global Carbon Assimilation System (GCASv2)](https://github.com/GuoyuanLv/GCASv2): atmospheric inversion system described in the paper [Regional CO₂ fluxes from 2010 to 2015 inferred from GOSAT XCO₂ retrievals using a new version of the Global Carbon Assimilation System](https://acp.copernicus.org/articles/21/1963/2021/), by Fei Jiang et al., <i>Atmospheric Chemistry and Physics</i> (2021)
+
 [Global Ionosphere Thermosphere Model (GITM)](https://github.com/aaronjridley/GITM): 3D model of the upper atmosphere, by Aaron Ridley et al. GITM solves for the coupled continuity, momentum and energy equations of the neutrals and ions.
 
 [GOCART](https://github.com/GEOS-ESM/GOCART): aerosol model including process library and framework interfaces (MAPL, NUOPC, and CCPP), from Goddard Earth Observing System - Earth System Modeling
