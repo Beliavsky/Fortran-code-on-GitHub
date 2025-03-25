@@ -4085,6 +4085,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [cedar](https://github.com/cedar-framework/cedar): robust, variational multigrid library implementing Black Box Multigrid (BoxMG) on large scale parallel systems, by David Moulton, Luke N. Olson and Andrew Reisner
 
+[ChiDG](https://github.com/nwukie/ChiDG): framework for solving sets of partial differential equations using the discontinuous Galerkin method on Chimera-overset grid, by Nathan A. Wukie et al.
+
 [Computational Hyperbolic PDE (chpde)](https://github.com/cpraveen/chpde): codes based on [Clawpack](https://github.com/clawpack/apps) and the books [Finite volume methods for hyperbolic problems (2002)](https://www.cambridge.org/core/books/finite-volume-methods-for-hyperbolic-problems/97D5D1ACB1926DA1D4D52EAD6909E2B9), by Randall J. LeVeque and [Riemann Problems and Jupyter Solutions: Theory and Approximate Solvers for Hyperbolic PDEs (2020)](https://www.clawpack.org/riemann_book/) by David I. Ketcheson, Randall J. LeVeque, and Mauricio J. del Razo
 
 [coral](https://github.com/BenMql/coral): spectral PDEs solver for the plane-layer geometry, written in modern Fortran and highly scalable, by BenMql. The name comes from the initial motivation, which was Convection in Rapidly rotating Layers (even though the code has now a much more general scope).
