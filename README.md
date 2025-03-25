@@ -1816,7 +1816,7 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [nshmp-haz-fortran](https://github.com/usgs/nshmp-haz-fortran): code for the National Seismic Hazard Mapping Project, by Peter Powers et al.
 
-[polarstereo-latlon-convert-fortran](https://github.com/nsidc/polarstereo-latlon-convert-fortran): program that transforms I,J coordinates of an SSM/I grid cell to latitude and longitude coordinates and also provides the inverse functions, from the National Snow and Ice Data Center (NSIDC)
+[OBS_Trans_Inv](https://github.com/jhzhang711/OBS_Trans_Inv): seismological transdimensional Bayesian inversion tools for ocean bottom seismometers (OBS) in marine environments, by jhzhang711
 
 [Ocean Assimilation Kit (OAK)](https://github.com/gher-ulg/OAK): module for high level input/output, matrix operations, n-dimensional interpolation of arbitrary curvilinear grid, reduced-rank analysis updates, and assimilation, by Alexander Barth et al.
 
@@ -1870,6 +1870,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 [PLUME-MoM-TSM](https://github.com/demichie/PLUME-MoM-TSM): solves the equations for a steady-state integral volcanic plume model, describing the rise in the atmosphere of a mixture of gas and volcanic ash during an eruption, by Mattia de' Michieli Vitturi. The model describes the steady-state dynamics of a plume in a 3-D coordinate system, and the two-size moment (TSM) method is adopted to describe changes in grain-size distribution along the plume associated with particle loss from plume margins and with particle aggregation. 
 
 [POLAN](https://github.com/space-physics/POLAN): calculate real-height profiles from chirp ionosonde data from the ionosphere, by J. E. Titheridge, updated by Michael Hirsch
+
+[polarstereo-latlon-convert-fortran](https://github.com/nsidc/polarstereo-latlon-convert-fortran): program that transforms I,J coordinates of an SSM/I grid cell to latitude and longitude coordinates and also provides the inverse functions, from the National Snow and Ice Data Center (NSIDC)
 
 [PRIDE-PPPAR](https://github.com/PrideLab/PRIDE-PPPAR): GPS PPP ambiguity resolution from PrideLab. Reference: Geng, J., Chen, X., Pan, Y., Mao, S., Li, C., Zhou, J., Zhang, K. (2019b) PRIDE PPP‑AR: an open‑source software for GPS PPP ambiguity resolution. GPS Solutions 23:91 doi:10.1007/s10291-019-0888-1.
 
