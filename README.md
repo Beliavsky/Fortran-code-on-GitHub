@@ -4158,6 +4158,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [EventShapes_HiggsTOgg_QCD_NLO](https://github.com/GuglielmoColoretti/EventShapes_HiggsTOgg_QCD_NLO): code for EERAD3 to compute three-jets event shapes QCD corrections up to NLO to Higgs decays into a pair of gluons and up to NLO into a bottom-antibottom pair.
 
+[figures_2025_two_photon_resonance_fluorescence](https://github.com/jnga773/figures_2025_two_photon_resonance_fluorescence): Python and Fortran scripts for generating the data and plots for the preprint [Two-Photon Resonance Fluorescence of a Three-Level Ladder-Type Atom](https://inspirehep.net/literature/2902826) by Jacob Ngaha et al.
+
 [GEometry ANd Tracking (geant3)](https://github.com/vmc-project/geant3): simulation software using Monte Carlo methods to describe how particles pass through matter, by Ivana Hrivnacova et al.
 
 [halld_sim](https://github.com/JeffersonLab/halld_sim): simulation for the GlueX Experiment in Hall D, from JeffersonLab. Contains programs used to do detector simulation and event generation.
