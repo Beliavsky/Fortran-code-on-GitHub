@@ -4221,7 +4221,7 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [EDIPIC-2D](https://github.com/PrincetonUniversity/EDIPIC-2D): 2D version of [EDIPIC](https://github.com/PrincetonUniversity/EDIPIC), a particle-in-cell code developed for low temperature plasma applications, by Dmytro Sydorenko et al..
 
-[EPOCH](https://github.com/Warwick-Plasma/epoch): particle-in-cell code for plasma physics simulations. An associated paper is [Contemporary particle-in-cell approach to laser-plasma modelling](https://iopscience.iop.org/article/10.1088/0741-3335/57/11/113001), by T. D. Arber et al., <i>Plasma Physics and Controlled Fusion</i> (2015).
+[EPOCH](https://github.com/Warwick-Plasma/epoch): particle-in-cell code for plasma physics simulations. An associated paper is [Contemporary particle-in-cell approach to laser-plasma modelling](https://iopscience.iop.org/article/10.1088/0741-3335/57/11/113001), by T. D. Arber et al., <i>Plasma Physics and Controlled Fusion</i> (2015). Also [Cylindrical EPOCH](https://github.com/Warwick-Plasma/cylindrical_epoch), a version of EPOCH re-written using cylindrical co-ordinates, for quasi-3D laser-plasma simulations.
 
 [Flexible Optimized Coils Using Space curves (FOCUS)](https://github.com/PrincetonUniversity/FOCUS): nonlinear optimization code for designing 3D coils. Its sibling, FAMUS, can be use to design permanent magnets.
 
