@@ -4490,6 +4490,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [signedMCRT](https://github.com/lewisfish/signedMCRT): use of signed distance fields in Monte Carlo Radiative Transfer, by Lewis McMillan. This allows modelling of smooth surfaces without the need to use triangle or similar meshes.
 
+[simmsus](https://github.com/lcec-unb/simmsus): code that simulates the motion of a system of interacting particles, initially developed for studying the physics of magnetic spherical particles in suspensions in order to better understand the properties of magnetic fluids (ferrofluids), by Rafael Gabler Gontijo and Ciro Alegretti
+
 [SIMulated PHONon topologY (simphony)](https://github.com/fballestermacia/simphony): adapts the Wannier orbital formalism to the calculation of topological propperties of phonon systems, with emphasis on polar materials, i.e., in the case of Longitudinal Optical-Transverse Optical (LO-TO) splitting, by Francesc Ballester
 
 [Single-particle IMage Processing Linux Engine (SIMPLE)](https://github.com/hael/SIMPLE): package for analysis of cryogenic transmission electron microscopy (cryo-EM) movies of single-particles (Single-Particle Analysis, SPA), by Hans Elmlund et al.
