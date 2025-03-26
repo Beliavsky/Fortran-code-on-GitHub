@@ -5241,6 +5241,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [spectrum](https://github.com/jchristopherson/spectrum): library containing signal analysis routines with a focus towards spectral routines, by Jason Christopherson
 
+[system_dynamics](https://github.com/quimbp/system_dynamics): code for simulation of dynamical systems and data assimilation, by Joaquim Ballabrera
+
 [tidybench](https://github.com/sweichwald/tidybench): TIme series DiscoverY has four algorithms for causal structure learning for time series: SLARAC (Subsampled Linear Auto-Regression Absolute Coefficients), QRBS (Quantiles of Ridge regressed Bootstrap Samples), LASAR (LASso Auto-Regression), and SELVAR (Selective auto-regressive model), by sweichwald
 
 [timeseries](https://github.com/rhandberg/timeseries): fast, optimized tools for working with times series data, using OpenMP for parallelisation, by Rasmus Handberg. Calculates weighted frequency power spectra of un-evenly sampled data, filter and extracts frequencies.
