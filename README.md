@@ -3510,6 +3510,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [llama2.f90](https://github.com/rbitr/llama2.f90): Toy LLaMA2 model inference, by rbitr, based on [llama2.c](https://github.com/karpathy/llama2.c) by Andrej Karpathy
 
+[ML4ESM](https://github.com/tzhang-ccs/ML4ESM): code associated with paper [A Fortran–Python interface for integrating machine learning parameterization into earth system models](https://gmd.copernicus.org/articles/18/1917/2025/), by Tao Zhang et al., <i>Geoscientific Model Development</i> (2025)
+
 [MlFortran](https://github.com/Etdescamps/MlFortran): library designed for the writing and the development of Complex System models, by Etienne Descamps. It is written in a modern object-oriented Fortran 2008 and has a C and C++ interface. Its aim is to ease the development of complex models in lower level language such as C/C++ and Fortran by providing structures and algorithms that can be found in higher level programming language such as Matlab or Python/SciPy.
 
 [mlxanes](https://github.com/tneth/mlxanes): machine learning x-ray absorption near edge structure: An OpenMP parallelised multivariate linear regression Fortran program for predicting XANES spectra from an xyz file, by tneth
