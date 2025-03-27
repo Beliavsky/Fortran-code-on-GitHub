@@ -5111,6 +5111,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [robust](https://github.com/valentint/robust): R package with Fortran code for robust covariance estimation (scatter and location), linear regression, generalized linear models, and Gamma, Weibull, and lognormal parameter estimation, by Jeff Wang et al.
 
+[rpact.as251](https://github.com/rpact-com/rpact.as251): R package that integrates Charles Dunnett's AS 251 FORTRAN 77 algorithm from the paper [Multivariate Normal Probability Integrals with Product Correlation Structure](https://academic.oup.com/jrsssc/article/38/3/564/6985491), <i>Journal of the Royal Statistical Society Series C: Applied Statistics</i> (1989) 
+
 [rrcov](https://github.com/valentint/rrcov): R package with Fortran and C code providing scalable robust estimators with high breakdown point and covering a large number of robustified multivariate analysis methods, starting with robust estimators for the multivariate location and covariance matrix (MCD, MVE, S, MM, SD), the deterministic versions of MCD, S and MM estimates and regularized versions (MRCD) for high dimensions, by Valentin Todorov 
 
 [sampleSTAT](https://github.com/haniibrahim/sampleSTAT): command-line application to determine sampling distributions, by Hani Andreas Ibrahim. It goes a lot further than arithmetic mean and standard deviation.
