@@ -1290,6 +1290,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [PixelFlow](https://github.com/nobu-n2002/PixelFlow): deals with incompressible fluids and implements the collocated grid Marker-and-Cell (MAC) method using a regular orthogonal grid. Associated paper: [A novel approach for wall-boundary immersed flow simulation (proposal of modified Navier-Stokes equation)](https://www.jstage.jst.go.jp/article/jfst/18/4/18_2023jfst0034/_article), by Nobuyuki Oshima, Journal of Fluid Science and Technology (2023).
 
+[ppiclF](https://github.com/dpzwick/ppiclF): applications include element-based particle-in-cell simulations, such as Euler-Lagrange mutliphase flow simulation, immersed boundary methods, and even atomistic-scale modeling. An associated paper [ppiclF: A Parallel Particle-In-Cell Library in Fortran](https://joss.theoj.org/papers/10.21105/joss.01400), by David Zwick, <i>Journal of Open Source Software</i> (2019).
+
 [preCICE fortran-module](https://github.com/precice/fortran-module): interface to [preCICE](https://precice.org/), an open-source coupling library for partitioned multi-physics simulations, including, but not restricted to fluid-structure interaction and conjugate heat transfer simulations
 
 [PROFOIL](https://github.com/m-selig/PROFOIL): program for the inverse design of isolated airfoils, by Michael S. Selig
