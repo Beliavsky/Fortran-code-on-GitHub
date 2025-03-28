@@ -4640,13 +4640,13 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [ELectronic Structure Infrastructure (elsi)](https://github.com/ElectronicStructureLibrary/elsi-interface): provides and enhances scalable, open-source software library solutions for electronic structure calculations in materials science, condensed matter physics, chemistry, and many other fields. ELSI focuses on methods that solve or circumvent eigenvalue problems in electronic structure theory. The ELSI infrastructure should also be useful for other challenging eigenvalue problems.
 
+[Electronic Structure to k(T,P) (EStokTP)](https://github.com/EStokTP): generates rate constants relying on calls to external codes to perform electronic structure calculations and master equation simulations, by Carlo Cavallotti et al.
+
 [EMPM_MPI](https://github.com/knappf/EMPM_MPI): codes for TDA, 2 and 3 -phonon diagonalization of nuclear Hamiltonian within Equation-of-motion Phonon Method, by knappf
 
 [EMPM_MPI_NO](https://github.com/knappf/EMPM_MPI_NO): codes for TDA, 2 and 3 -phonon diagonalization of nuclear Hamiltonian within Equation-of-motion Phonon Method, by knappf. Natural orbital basis version.
 
 [Environ](https://github.com/environ-developers/Environ): computational library aimed at introducing environment effects into atomistic first-principles simulations, in particular for applications in surface science and materials design
-
-[Electronic Structure to k(T,P) (EStokTP)](https://github.com/EStokTP): generates rate constants relying on calls to external codes to perform electronic structure calculations and master equation simulations, by Carlo Cavallotti et al.
 
 [exciting](https://github.com/exciting/exciting): all-electron full-potential computer package for first-principles calculations, based on (linearized) augmented planewave + local orbital [(L)APW+lo] methods, by Stephan Sagmeister. This family of basis sets is known as the most precise numerical scheme to solve the Kohn-Sham equations of density-functional theory (DFT), reaching up to micro-Hartree precision.
 
