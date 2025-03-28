@@ -4046,6 +4046,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [OpenACC_Training](https://github.com/C2SM-RCM/OpenACC_Training): slides and code examples for OpenACC training, by Xavier Lapillonne et al. The codes were adapted from the book [Parallel Programming With OpenACC](https://shop.elsevier.com/books/parallel-programming-with-openacc/farber/978-0-12-410397-9) by Rob Farber, with code [here](https://github.com/rmfarber/ParallelProgrammingWithOpenACC).
 
+[OpenACC Validation and Verification (OpenACCV-V)](https://github.com/OpenACCUserGroup/OpenACCV-V): OpenACC test codes validating and verifying implementations of features and its conformance to the OpenACC specification, from the OpenACC User Group
+
 [OpenCoarrays](https://github.com/sourceryinstitute/OpenCoarrays): parallel application binary interface for Fortran 2018 compilers, from sourceryinstitute
 
 [OpenMPExamples](https://github.com/WarwickRSE/OpenMPExamples): list of programming assignments from a course [Parallelism with Open MP](https://warwick.ac.uk/research/rtp/sc/rse/training/openmp) and their solutions in C and Fortran, by Heather Ratcliffe and Chris Brady
