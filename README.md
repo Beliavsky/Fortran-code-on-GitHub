@@ -4646,6 +4646,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [Environ](https://github.com/environ-developers/Environ): computational library aimed at introducing environment effects into atomistic first-principles simulations, in particular for applications in surface science and materials design
 
+[Electronic Structure to k(T,P) (EStokTP)](https://github.com/EStokTP): generates rate constants relying on calls to external codes to perform electronic structure calculations and master equation simulations, by Carlo Cavallotti et al.
+
 [exciting](https://github.com/exciting/exciting): all-electron full-potential computer package for first-principles calculations, based on (linearized) augmented planewave + local orbital [(L)APW+lo] methods, by Stephan Sagmeister. This family of basis sets is known as the most precise numerical scheme to solve the Kohn-Sham equations of density-functional theory (DFT), reaching up to micro-Hartree precision.
 
 [eXternal OPTimizer for quantum chemistry (XOPT)](https://github.com/hokru/xopt): robust optimizer for quantum chemical and semi-empirical method that is suitable for large and complex molecules, by Holger Kruse
