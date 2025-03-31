@@ -2815,6 +2815,9 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [gtk-fortran](https://github.com/vmagnin/gtk-fortran): cross-platform library to build Graphical User Interfaces (GUI), by Vincent Magnin et al. Gtk-fortran is a partial GTK / Fortran binding 100% written in Fortran, thanks to the ISO_C_BINDING module for interoperability between C and Fortran. [gtk-fortran-extra](https://github.com/vmagnin/gtk-fortran-extra) has extra examples under an MIT license
 
+[Iterated Function Systems in Fortran (ifsif)](https://github.com/RvanB/ifsif): create and design iterated function systems, featuring additive or subtractive color mixing,
+multithreaded rendering, post-processing with OpenCV, several built-in useful functions for generating fractals, and image stacking for noise reduction, by Raiden van Bronkhorst
+
 [KVS.fortran](https://github.com/vizlab-kobe/KVS.fortran): interface by Naohisa Sakamoto and Go Tamura to the [Kyoto Visualization System](https://github.com/naohisas/KVS) (KVS) for scientific simulation data sets
 
 [libgnuplot-fortran](https://github.com/JoseAntonioLattice/libgnuplot-fortran): routines for plotting inside Fortran using Gnuplot, by JoseAntonioLattice
