@@ -582,6 +582,8 @@ on multiscale QM/MM simulations of biological systems, but open enough to addres
 [umat_cartilage](https://github.com/shayansss/umat_cartilage): subroutines for a multiphasic and fibril-reinforced model of articular cartilage, by shayansss
 
 ## Climate and Weather
+[2L-DRM](https://github.com/erickjomp/2L-DRM): code associated with paper [Two-Layer Dynamic Recycling Model (2L-DRM): Learning from Moisture Tracking Models of Different Complexity](https://journals.ametsoc.org/view/journals/hydr/21/1/jhm-d-19-0101.1.xml), by F. Dominguez et al., <i>Journal of Hydrometeorology</i> (2020)
+
 [asgs](https://github.com/StormSurgeLive/asgs): the ADCIRC Surge Guidance System (ASGS), from 
 StormSurgeLive, provides software infrastructure for automating ADCIRC for real time or operational deployments, as well as a variety of tools for pre- and post-processing ADCIRC data.
 
