@@ -5110,6 +5110,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [peaks](https://github.com/jchristopherson/peaks): peak detection library meant to locate peaks and valleys in a signal, by Jason Christopherson. This library works on both smooth data and on noisy data where other routines, especially those that rely upon derivatives, have difficulties.
 
+[pod_using_fortran](https://github.com/miu-meson/pod_using_fortran): extracts Proper Orthogonal Decomposition (POD) modes, by Andrés Castillo-Castellanos, based on a code [Empirical Orthogonal Function (EOF) software/Principal Component Analysis (PCA) software](https://cirrus.ucsd.edu/~pierce/eof/eofs.html) by David W. Pierce
+
 [PolyChordLite](https://github.com/PolyChord/PolyChordLite): public version of PolyChord, next generation data technology which has the ability to more fully explore a complex, challenging data landscape
 
 [polyfit](https://github.com/plopezrios/polyfit): toolbox for performing and manipulating polynomial fits to data with statistical uncertainties, by Pablo López Ríos. It uses Monte Carlo resampling to obtain uncertainties on quantities of interest, such as values and derivatives of the fit function, intersections between fits to different datasets, etc. 
