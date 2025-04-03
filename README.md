@@ -1517,6 +1517,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [Community Data Models for Earth Prediction Systems (CDEPS)](https://github.com/ESCOMP/CDEPS): NUOPC-compliant data components along with ESMF-based share code that enables new capabilities in selectively removing feedbacks in coupled model systems
 
+[Community Fire Behavior Model (fire_behavior)](https://github.com/NCAR/fire_behavior): simulates the evolution of wildland fires, by Pedro Jimenez Munoz et al.
+
 [Community Ice Sheet Model (CISM)](https://github.com/ESCOMP/CISM): land ice model designed to be used as part of an Earth-system model or as a stand-alone model
 
 [Community Multiscale Air Quality Model (CMAQ) of US EPA](https://github.com/USEPA/CMAQ): combines current knowledge in atmospheric science and air quality modeling with multi-processor computing techniques in an open-source framework to deliver fast, technically sound estimates of ozone, particulates, toxics, and acid deposition.
