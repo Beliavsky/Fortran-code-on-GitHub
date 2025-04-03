@@ -701,6 +701,8 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [NCEPLIBS G2](https://github.com/NOAA-EMC/NCEPLIBS-g2): Utilities for coding/decoding GRIB2 messages, by Hang Lei et al. This library contains Fortran 90 decoder/encoder routines for GRIB edition 2, as well as indexing/searching utility routines.
 
+[OGSTM](https://github.com/inogs/ogstm): offline transport reaction model used to solve temporal evolution of 3D Eulerian advection and diffusion processes, by Giorgio Bolzon and Paolo Lazzari. The tool is employed in the context of operational oceanography and to perform climate scenario simulations.
+
 [PrecisionSpec-Analyzer](https://github.com/Razumovskyy/PrecisionSpec-Analyzer), a high-precision tool for atmospheric absorption calculations over narrow spectral ranges, focusing on detailed spectroscopic analysis using HITRAN and HITEMP data with standard and custom line shapes for terrestrial atmospheric studies, by Mikhail Razumovskiy
 
 [prepbufr_decoder](https://github.com/ShawnMurdzek-NOAA/prepbufr_decoder): decode prepBUFR files to CSVs and encode CSVs to prepBUFR files, by Shawn Murdzek. BUFR (Binary Universal Form for the Representation of meteorological data) is Table Driven Data Representation Forms approved by the World Meteorological Organization (WMO) for operational use since 1988. 
