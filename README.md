@@ -1645,6 +1645,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [geoflac](https://github.com/tan2/geoflac): code for lithospheric scale geodynamics, by Eh Tan et al.
 
+[geotiff-fortran](https://github.com/ramespada/geotiff-fortran): GeoTIFF reader module by Ramiro A. Espada. GeoTIFF is based on the TIFF format and is used as an interchange format for georeferenced raster imagery.
+
 [gflow1](https://github.com/USEPA/gflow1): analytic element groundwater solver by Henk M. Haitjema. It solves steady state groundwater flow in a single aquifer, with support for conjunctive groundwater/surface water solutions, and interface seawater intrusion solutions. 
 
 [GIMPM-SSA-Damage](https://github.com/alex-huth/GIMPM_SSA_Damage): Generalized Interpolation Material Point Method for the Shallow Shelf Approximation of ice flow with Damage, by Alex Huth.
