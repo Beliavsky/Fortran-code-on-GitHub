@@ -532,6 +532,8 @@ Modeling of Gz-Induced Effects](https://pubmed.ncbi.nlm.nih.gov/37069756/), by K
 
 [GR-Eye](https://github.com/fbraeu90/GR-Eye): 3D Homogenized Constrained Mixture Model for Eye Growth and Remodeling - A Model of Staphyloma Formation, implemented as an Abaqus UMAT, by Fabian A. Braeu
 
+[Haemflow-cl0](https://github.com/abdrysdale/Haemflow-cl0): cardiovascular model by Alex Drysdale for the venous and arterial systems based on the paper [A concentrated parameter model for the human cardiovascular system including heart valve dynamics and atrioventricular interaction](https://www.sciencedirect.com/science/article/abs/pii/S1350453305002195), by Theodosios Korakianitis and Yubing Shi, <i>Medical Engineering & Physics</i> (2006)
+
 [hole2](https://github.com/osmart/hole2): analysis and visualisation of the pore dimensions of the holes through molecular structures of ion channels, by Oliver Smart et al.
 
 [Illustrate](https://github.com/ccsb-scripps/Illustrate): biomolecular illustration tool. Associated paper: Goodsell, D.S., Autin, L, Olson, A.J.,Goodsell, D. S., Autin, L., & Olson, A. J. (2019). [*Illustrate*: Software for biomolecular illustration](https://www.cell.com/structure/fulltext/S0969-2126(19)30282-5). *Structure*, 27(11), 1716-1720.e1.
