@@ -1256,6 +1256,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [Multi Grid Large Eddy Turbulence (mglet-base)](https://github.com/kmturbulenz/mglet-base): incompressible Navier-Stokes flow solver, a subset of the commercial product MGLET from [KM Turbulenz GmbH](https://km-turbulenz.de/)
 
+[multimat_1drdg](https://github.com/lanl/multimat_1drdg): 1D discontinuous Galerkin solver for multi-material flows, associated with the paper [Multi-material hydrodynamics with algebraic sharp interface capturing](https://www.sciencedirect.com/science/article/abs/pii/S0045793020303741), by Aditya K. Pandare et al., <i>Computers & Fluids</i> (2021)
+
 [Multi-order Approach to Calculating High-speed Linear aerodynamics (MachLine)](https://github.com/usuaero/MachLine): modern, unstructured, subsonic/supersonic flow solver currently being developed by the AeroLab. It is a linear panel method based on the Prandtl-Glauert equation. Also [MachUp](https://github.com/usuaero/MachUp), a Numerical Lifting-Line Algorithm
 
 [MUltiScale Simulation Tribology (MUSST)](https://github.com/TRIBO-Pprime/MUSST): implements the finite element method on Reynolds' equation, by Noël Brunetière and Arthur Francisco. It can solve a large variety of problems with standard geometries like sliders, bearings and pockets.
