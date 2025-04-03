@@ -2440,6 +2440,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [fidbits](https://github.com/sourceryinstitute/fidbits): Fortran tidbits: random code snippets produced in conversations that seem worth preserving for future reference, by Damian Rouson et al. They illustrate features of modern Fortran.
 
+[finding-uninitialised-vars-fortran-skillshare](https://github.com/SeanBryan51/finding-uninitialised-vars-fortran-skillshare): describes how to find uninitalized variables using ifx, ifort, and gfortran compiler options and mentions the DDT debugger, by Sean Bryan
+
 [fortran](https://github.com/alexpacheco/fortran): files (TeX, PDF, Exercise and Example codes) for HPC Training on Fortran, by alexpacheco
 
 [Fortran90_Basics](https://github.com/brito-leonardo/Fortran90_Basics): codes to learn the structure and first useful commands in Fortran 90 language, by brito-leonardo
