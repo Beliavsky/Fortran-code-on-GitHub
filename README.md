@@ -2419,6 +2419,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [OpenRadioss](https://github.com/OpenRadioss/OpenRadioss): industry-proven analysis solution that helps users evaluate and optimize product performance for highly nonlinear problems under dynamic loadings. For more than 30 years, organizations have used Altair Radioss to streamline and optimize the digital design process, replace costly physical tests with quick and efficient simulation, and speed up design optimization iterations.
 
+[OpenSTAP](https://github.com/HaoguangYang/OpenSTAP): FEM solver by Haoguang Yang based on [STAP90](https://github.com/xzhang66/STAP90) by Xiong Zhang. Basic elements and some advanced elements and methods are added, as well as an Abaqus interface.
+
 [ParaFEM](https://github.com/ParaFEM/ParaFEM): open source parallel finite element analysis library that is documented by the text book "Programming the Finite Element Method"
 
 [ParallelFEM-Fortran](https://github.com/chennachaos/PFEMFort): Parallel programming for Finite Element Analysis using Fortran and PETSc, by chennachaos. This code includes several parallel implementations for the Lapalace equation and linear elasticity in 2D and 3D.
