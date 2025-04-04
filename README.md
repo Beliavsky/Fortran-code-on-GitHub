@@ -4998,6 +4998,8 @@ universe-based geometry building, steady-state MC, OTF Doppler broadening, MC-ba
 
 [s2hat](https://github.com/B3Dcmb/s2hat): C and Fortran for spherical harmonics operations, by B3Dcmb
 
+[sht_py](https://github.com/hottahd/sht_py): spherical harmonic expansion routine in Python+Fortran, by Hideyuki Hotta
+
 [specfun](https://github.com/jacobwilliams/specfun): modernization by Jacob Williams of [specfun.f](https://github.com/scipy/scipy/blob/main/scipy/special/specfun/specfun.f) from SciPy from the book [Computation of Special Functions](https://www.amazon.com/Computation-Special-Functions-Shanjie-Zhang/dp/0471119636), by Shanjie Zhang and Jianming Jin, Wiley (1996).
 
 [specfunc-fullerton](https://github.com/arjenmarkus/specfunc-fullerton): library for evaluating special mathematical function, based on the [fn](http://www.netlib.org/fn/index.html) library of Wayne Fullerton, modernised by Arjen Markus. It has Airy functions, modified Bessel functions, beta functions, exponential and logarithmic integrals, gamma functions, inverse cosine and cosine hyperbolic integrals, miscellaneous functions, and Pochhammer symbols
