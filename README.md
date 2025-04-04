@@ -3760,6 +3760,8 @@ ACM Trans. Math. Softw. (2023).
 
 [daskr](https://github.com/davidpfister/daskr): differential-algebraic system solver with rootfinding, by P. N. Brown et al. It includes options for both direct and iterative (Krylov) methods for the solution of the linear systems arising at each (implicit) time step.
 
+[daskr](https://github.com/HugoMVale/daskr): modernized version of DASKR, a differential-algebraic system solver with root-finding, by HugoMVale
+
 [ddeabm](https://github.com/jacobwilliams/ddeabm): modern object-oriented Fortran implementation of the DDEABM Adams-Bashforth-Moulton ODE solver, by Jacob Williams and web-flow
 
 [dde_solver](https://github.com/WarrenWeckesser/dde_solver): update by Warren Weckesser of Shampine and Thompson's DDE_SOLVER, a Fortran library for delay differential equations
