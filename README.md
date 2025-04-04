@@ -2919,6 +2919,8 @@ multithreaded rendering, post-processing with OpenCV, several built-in useful fu
 
 [f2py-with-derived-types](https://github.com/Nicholaswogan/f2py-with-derived-types): demonstrates how to use f2py with Fortran derived types with type-bound procedures, by Nick Wogan
 
+[farray](https://github.com/ivan-pi/farray): experimental Python array class implemented on top of Fortran arrays, by Ivan Pribec. The goal is to cover a decent subset of the [Python array API standard](https://data-apis.org/array-api/latest/index.html).
+
 [FarrayInterop](https://github.com/AshLink95/FarrayInterop): header-only library that allows the use of Fortran arrays in C++, by AshLink
 
 [fckit](https://github.com/ecmwf/fckit): Fortran toolkit for interoperating Fortran with C/C++, from ecmwf
