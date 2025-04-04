@@ -406,6 +406,8 @@ spectroscopic data obtained with near-infrared spectrograph NIRSPEC, installed i
 
 [fazang](https://github.com/yizhang-yiz/fazang): library for reverse-mode automatic differentiation, inspired by Stan/Math library, by Yi Zhang
 
+[hyperdualize-fortran](https://github.com/atmmod/hyperdualize-fortran): Python script that converts Fortran source code by replacing standard numeric type declarations (e.g., `real`, `double precision`, `int`, `integer`) with a custom Fortran type `type(hyperdual)`, from atmmod. It also converts variable initializations—including scalars and arrays—to calls to the hyperdual constructor and automatically inserts a `use HDMod` statement into modules, programs, subroutines, or functions that need it.
+
 [m_ad](https://github.com/octoflar/m_ad): collection of matrix derivative tests for forward and reverse mode algorithmic differentiation, by R. Quast. Associated paper: Giles, M. (2008) [Collected matrix derivative results for forward and reverse mode algorithmic differentiation](https://link.springer.com/chapter/10.1007/978-3-540-68942-3_4), Advances in Automatic Differentiation pp 35–44
 
 ## Benchmarks and Benchmarking
