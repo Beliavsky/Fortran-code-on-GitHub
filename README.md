@@ -1722,6 +1722,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [HypoTremorMCMC](https://github.com/akuhara/HypoTremorMCMC): associated preprint: [Locating tectonic tremors with uncertainty estimates: Time- and amplitude-difference optimization, wave propagation-based quality control, and Bayesian inversion](https://eartharxiv.org/repository/view/5256/)(2023) by Takeshi Akuhara et al.
 
+[iasp](https://github.com/ghfbsd/iasp): Buland and Kennett Tau-P routines are a suite of programs that calculate seismic wave travel times through a radial earth model specified as velocity as a function of depth. An associated paper is [The computation of seismic travel times](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/73/5/1271/118430/The-computation-of-seismic-travel-times), by Ray Buland and C. H. Chapman, <i>Bulletin of the Seismological Society of America</i> (1983).
+
 [IBMlib](https://github.com/IBMlib/IBMlib): individual-based modelling framework able to assess marine habitat connectivity. Eggs/larvae/juvenile/adults may be modelled in order to analyze recruitment impact of marine protected areas.
 
 [ICM_Hydro](https://github.com/CPRA-MP/ICM_Hydro): code corresponding to paper "Ecohydrology component of Louisiana’s 2012 Coastal Master Plan: mass-balance compartment model"
