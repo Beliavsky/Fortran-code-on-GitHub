@@ -4737,6 +4737,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [Interacting Quantum Impurity Solver Toolkit (iQIST)](https://github.com/huangli712/iQIST): package for studying strongly correlated electron systems, by huangli712 et al. It contains several hybridization expansion continuous-time quantum Monte Carlo impurity solvers and some auxiliary scripts.
 
+[JuKKR](https://github.com/JuDFTteam/JuKKR): full-potential Korringa-Kohn-Rostoker Green function code, by Philipp Rüßmann et al. The most important features of the Jülich KKR codes include the possibility to perform relativistic calculations, predict scattering effects, and treat finite-sized clusters or very large systems.
+
 [LBNL-AMO-MCTDHF](https://github.com/LBNL-AMO-MCTDHF/V1): suite of codes for Multiconfiguration Time-Dependent Hartree-Fock applied to ultrafast laser dynamics of atoms and molecules. It calculates nonadiabatic electronic and nuclear wave functions for the nonrelativistic Schrödinger equation.
 
 [libconeangle](https://github.com/kjelljorner/libconeangle): library for calculating exact ligand cone angles according to the paper Bilbrey, J. A.; Kazez, A. H.; Locklin, J.; Allen, W. D. [Exact Ligand Cone Angles.](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.23217) Journal of Computational Chemistry 2013, 34 (14), 1189–1197.
