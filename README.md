@@ -1294,7 +1294,7 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [ParaTC](https://github.com/GongZheng-Justin/ParaTC): high order finite difference solver for simulations of turbidity currents with high parallel efficiency, by Zheng Gong
 
-[ParTraS - Particle Trajectory Simulator](https://github.com/hirotori/ParTraS): Lagrangian particle simulation framework for tracking particles and droplets floating in unstructured flow fields, by hirotori. It provides high accuracy and flexible extensibility, and is intended for use in research and engineering. Also [incomp3D](https://github.com/hirotori/incomp3D), Incompressible Fluid FLow Solver For Equal-Spaced Rectilinear Mesh.
+[incomp3D](https://github.com/hirotori/incomp3D): Incompressible Fluid FLow Solver For Equal-Spaced Rectilinear Mesh, by hirotori
 
 [pencil-code](https://github.com/pencil-code/pencil-code): high-order finite-difference code for compressible hydrodynamic flows with magnetic fields and particles
 
