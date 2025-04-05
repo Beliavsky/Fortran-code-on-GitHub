@@ -1222,6 +1222,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [Improved_Phase-Field_LBM_2D](https://github.com/AbbasHub/Improved_Phase-Field_LBM_2D): Improved conservative phase-field LBM code for multiphase flows in a 2D periodic domain, by Abbas Fakhari. It is a sample Lattice-Boltzmann solver for two-phase flows.
 
+[incomp3D](https://github.com/hirotori/incomp3D): Incompressible Fluid FLow Solver For Equal-Spaced Rectilinear Mesh, by hirotori
+
 [Incompact3d](https://github.com/xcompact3d/Incompact3d): Fortran-MPI based, finite difference high-performance code for solving the incompressible Navier-Stokes equation and as many as needed scalar transport equations
 
 [interpolate-fields](https://github.com/p-costa/interpolate-fields): interpolates DNS data to a new grid using linear interpolation, by Pedro Costa. It can run and store the interpolated data in a massively-parallel setting using MPI I/O. For now, it assumes two regular Cartesian grids with the file format of CaNS.
@@ -1293,8 +1295,6 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 [O2-Project](https://github.com/kgpolitis/O2-Project): framework for CFD oriented scientific code development in Modern Fortran, by kgpolitis
 
 [ParaTC](https://github.com/GongZheng-Justin/ParaTC): high order finite difference solver for simulations of turbidity currents with high parallel efficiency, by Zheng Gong
-
-[incomp3D](https://github.com/hirotori/incomp3D): Incompressible Fluid FLow Solver For Equal-Spaced Rectilinear Mesh, by hirotori
 
 [pencil-code](https://github.com/pencil-code/pencil-code): high-order finite-difference code for compressible hydrodynamic flows with magnetic fields and particles
 
