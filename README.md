@@ -1982,29 +1982,27 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [sfd_excmg](https://github.com/eqfwrg424535/sfd_excmg): code for large-scale MT (magnetotelluric) forward modeling using extrapolation multigrid method, associated with the paper [An efficient cascadic multigrid method combined with regularization technique for 3-D electromagnetic finite-element anisotropic modeling.](https://library.seg.org/doi/abs/10.1190/geo2023-0702.1), by Kejia Pan et al., Geophysics (2024)
 
-[SIBERIA](https://github.com/csdms-contrib/siberia): simulates the evolution of landscapes under the action of runoff and erosion over long times scales. An associated publication is Hancock, G.R.; Gibson, Abraham; Wells, T.; 2021. [Hillslope erosion in a grassland environment: Calibration and evaluation of the SIBERIA landscape evolution model](https://onlinelibrary.wiley.com/doi/10.1002/esp.5060). Earth Surface Processes and Landforms, 46, 728–743
-
-[Simsphere](https://github.com/tjc181/simsphere): Soil-Vegetation-Atmosphere Transfer (SVAT) model, by Toby Carlson et al. It is a one-dimensional model that allows one to simulate the transfer of heat and moisture between plants, soil and atmosphere over a 24 hour day.
-
-[slstr-preprocessor](https://github.com/surftemp/slstr-preprocessor): software for aggregating the SLSTR 500 m Vis/NIR channels (S1-6) onto the 1 km IR grid ("i-stripe" as used for S7-9), by Owen Embury and Niall McCarroll. An associated paper is [Improving the combined use of reflectance and thermal channels for ocean and coastal cloud detection for the Sea and Land Surface Temperature Radiometer (SLSTR)](https://www.sciencedirect.com/science/article/pii/S0034425723000822), by Claire E. Bulgin et al., Remote Sensing of Environment (2023).
-
-[smash](https://github.com/DassHydro-dev/smash): Python library that provides a variety of user-friendly routines for hydrological modeling, including data preprocessing, high-dimensional optimization tools, sensitivity and signatures analysis, all interfaced with an efficient Fortran solver
-
-[sprayHFs](https://github.com/bwbarr/sprayHFs): subroutines to add seastate-dependent sea spray heat flux physics to an existing bulk surface layer scheme in a coupled regional or global Earth system model. An associated paper is [Sea-State-Dependent Sea Spray and Air–Sea Heat Fluxes in Tropical Cyclones: A New Parameterization for Fully Coupled Atmosphere–Wave–Ocean Models](https://journals.ametsoc.org/view/journals/atsc/80/4/JAS-D-22-0126.1.xml), by Benjamin W. Barr et al., Journal of the Atmospheric Sciences (2023).
-
-[Structure for Unifying Multiple Modeling Alternatives (SUMMA)](https://github.com/CH-Earth/summa): hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques, by Martyn P. Clark et al.
-
 [Shear-wave birefringence analysis (SHEBA)](https://github.com/jwookey/sheba): code associated with Wüstefeld, A.; Al-Harrasi, O.; Verdon, J.; Wookey, J. and Kendall, J-M. (2010) "A strategy for automated analysis of passive microseismic data to image seismic anisotropy and fracture characteristics", Geophysical Prospecting, vol 58, 755–773, DOI:10.1111/j.1365-2478.2010.00891.x
 
 [ShellSet](https://github.com/JonBMay/ShellSet): parallel dynamic neotectonic modelling, by Jon B. May, Peter Bird, and Michele M. C. Carafa
 
-[SLIM: The Simple Land Interface Model](https://github.com/marysa/SimpleLand): reference: Laguë, M. M., Bonan, G. B., & Swann, A. L. S. (2019). Separating the Impact of Individual Land Surface Properties on the Terrestrial Surface Energy Budget in both the Coupled and Uncoupled Land–Atmosphere System. Journal of Climate, 32(18), 5725–5744. https://doi.org/10.1175/jcli-d-18-0812.1
+[SIBERIA](https://github.com/csdms-contrib/siberia): simulates the evolution of landscapes under the action of runoff and erosion over long times scales. An associated publication is Hancock, G.R.; Gibson, Abraham; Wells, T.; 2021. [Hillslope erosion in a grassland environment: Calibration and evaluation of the SIBERIA landscape evolution model](https://onlinelibrary.wiley.com/doi/10.1002/esp.5060). Earth Surface Processes and Landforms, 46, 728–743
+
+[Simsphere](https://github.com/tjc181/simsphere): Soil-Vegetation-Atmosphere Transfer (SVAT) model, by Toby Carlson et al. It is a one-dimensional model that allows one to simulate the transfer of heat and moisture between plants, soil and atmosphere over a 24 hour day.
 
 [Simstrat](https://github.com/Eawag-AppliedSystemAnalysis/Simstrat): one-dimensional physical lake model for the simulation of stratification and mixing in deep stratified lakes, from Eawag-AppliedSystemAnalysis. The model was originally developed by Goudsmit et al. (2002) and has been successfully applied to lakes with different physical properties.
 
-[Sparse Matrix Operator Kernel Emissions (SMOKE) Modeling System](https://github.com/CEMPD/SMOKE): emissions processing system designed to create gridded, speciated, hourly emissions for input into a variety of air quality models such as CMAQ, REMSAD, CAMX and UAM. SMOKE supports area, biogenic, mobile (both onroad and nonroad), and point source emissions processing for criteria, particulate, and toxic pollutants.
+[slstr-preprocessor](https://github.com/surftemp/slstr-preprocessor): software for aggregating the SLSTR 500 m Vis/NIR channels (S1-6) onto the 1 km IR grid ("i-stripe" as used for S7-9), by Owen Embury and Niall McCarroll. An associated paper is [Improving the combined use of reflectance and thermal channels for ocean and coastal cloud detection for the Sea and Land Surface Temperature Radiometer (SLSTR)](https://www.sciencedirect.com/science/article/pii/S0034425723000822), by Claire E. Bulgin et al., Remote Sensing of Environment (2023).
+
+[SLIM: The Simple Land Interface Model](https://github.com/marysa/SimpleLand): reference: Laguë, M. M., Bonan, G. B., & Swann, A. L. S. (2019). Separating the Impact of Individual Land Surface Properties on the Terrestrial Surface Energy Budget in both the Coupled and Uncoupled Land–Atmosphere System. Journal of Climate, 32(18), 5725–5744. https://doi.org/10.1175/jcli-d-18-0812.1
+
+[smash](https://github.com/DassHydro-dev/smash): Python library that provides a variety of user-friendly routines for hydrological modeling, including data preprocessing, high-dimensional optimization tools, sensitivity and signatures analysis, all interfaced with an efficient Fortran solver
 
 [Soil and Water Assessment Tool Plus (SWAT+)](https://github.com/joelz575/swatplus): small watershed to river basin-scale model to simulate the quality and quantity of surface and ground water and predict the environmental impact of land use, land management practices, and climate change. SWAT is widely used in assessing soil erosion prevention and control, non-point source pollution control and regional management in watersheds.
+
+[Sparse Matrix Operator Kernel Emissions (SMOKE) Modeling System](https://github.com/CEMPD/SMOKE): emissions processing system designed to create gridded, speciated, hourly emissions for input into a variety of air quality models such as CMAQ, REMSAD, CAMX and UAM. SMOKE supports area, biogenic, mobile (both onroad and nonroad), and point source emissions processing for criteria, particulate, and toxic pollutants.
+
+[sprayHFs](https://github.com/bwbarr/sprayHFs): subroutines to add seastate-dependent sea spray heat flux physics to an existing bulk surface layer scheme in a coupled regional or global Earth system model. An associated paper is [Sea-State-Dependent Sea Spray and Air–Sea Heat Fluxes in Tropical Cyclones: A New Parameterization for Fully Coupled Atmosphere–Wave–Ocean Models](https://journals.ametsoc.org/view/journals/atsc/80/4/JAS-D-22-0126.1.xml), by Benjamin W. Barr et al., Journal of the Atmospheric Sciences (2023).
 
 [Spectral orientation fabric (specfab)](https://github.com/nicholasmr/specfab): spectral fabric model of kinematic lattice (c-axis) rotation (Svendsen and Hutter, 1996), discontinuous dynamic recrystallization (Placidi and others, 2010), and rotation recrystallization (Gödert, 2003)
 
@@ -2012,6 +2010,8 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [SPHERA](https://github.com/AndreaAmicarelliRSE/SPHERA): Lagrangian Computational Fluid Dynamics (LCFD) - Smoothed Particle Hydrodynamics (SPH) research code by 
 Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landslides for the safety of hydroelectric plants, electrical substations and electricity pylons.
+
+[Structure for Unifying Multiple Modeling Alternatives (SUMMA)](https://github.com/CH-Earth/summa): hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques, by Martyn P. Clark et al.
 
 [Super-Fast INundation of CoastS (SFINCS)](https://github.com/Deltares/SFINCS): reduced-complexity model designed for super-fast modelling of compound flooding events in a dynamic way, from Deltares
 
@@ -2024,6 +2024,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 [SUTRASET](https://github.com/SUTRASET/SUTRASET): extended USGS SUTRA 2.2 considering seepage(S), evaporation(E) and tide(T)
 
 [SWAP-SAMUCA](https://github.com/Murilodsv/SWAP-SAMUCA): process-based crop model for simulations of sugarcane growth and water dynamics. Associated paper: [Modelling the trash blanket effect on sugarcane growth and water use](https://www.sciencedirect.com/science/article/abs/pii/S0168169919316217), by Murilo dos Santos Vianna et al., Computers and Electronics in Agriculture (2020).
+
+[swb2](https://github.com/smwesten-usgs/swb2): modified Thornthwaite-Mather soil-water-balance Code for estimating groundwater recharge, using commonly available geographic information system (GIS) data layers in combination with tabular climatological data, by Steve Westenbroek. 
 
 [SWMM5 +](https://github.com/CIMM-ORG/SWMM5plus): prototype Fortran 2008 engine for the EPA Storm Water Management Model (SWMM), by Gerardo Andrés Riaño Briceño et al.
 
