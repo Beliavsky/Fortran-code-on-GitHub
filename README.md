@@ -4932,6 +4932,8 @@ universe-based geometry building, steady-state MC, OTF Doppler broadening, MC-ba
 
 [ReactorHeatTransfer](https://github.com/rwalden1993/ReactorHeatTransfer): time-dependent heat transfer Fortran code used to model a 4 loop Westinghouse PWR primary coolant loop, by rwalden1993
 
+[Simple Neutron-Transport Equation Solver (SNES)](https://github.com/msleigh/snes): 1D discrete-ordinates neutron transport code, with diamond-difference and linear-discontinuous variants, by Michael Sleigh
+
 [Stochastic Calculator Of Neutron transport Equation (SCONE)](https://github.com/CambridgeNuclear/SCONE): object-oriented Monte Carlo particle transport code for reactor physics, from CambridgeNuclear. It is intended as an accessible environment for graduate students to test and develop their ideas before contributing them to more established codes suitable for design calculations.
 
 [trimon](https://github.com/rabieomar92/trimon): 3D Monte Carlo Code for TRIGA Mk-II Reactor Core Calculation, by rabieomar92
