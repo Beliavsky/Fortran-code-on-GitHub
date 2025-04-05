@@ -328,8 +328,6 @@
 
 [spacepy](https://github.com/spacepy/spacepy): Space Science library for Python, calling Fortran code - contains superposed epoch classes, drift shell tracing, access to magnetic field models, streamline tracing, bootstrap confidence limits, time and coordinate conversions, etc.
 
-[SpectralBreaks](https://github.com/GammaRayBurstAfterglow/SpectralBreaks): models the shape of spectral breaks in gamma ray burst afterglows, by Damien Koon et al.
-
 [SpectralRadex](https://github.com/uclchem/SpectralRadex): Python library for spectral modelling and RADEX, by Jon Holdship et al. SpectralRadex uses F2PY to compile a version of RADEX written in modern Fortran, most importantly dropping the use of common blocks. As a result, running a RADEX model creates no subprocesses and can be parallelized.
 
 [spiralssched](https://github.com/lucasjord/spiralssched): schedules for the Southern Hemisphere Parallax Interferometric Radio Astrometry Legacy Project (SPiRALS) experiment series, including trigonometric parallax observations, test observations, compactness observations and 3D distance observations, by Lucas Hyland and Gabor Orosz
