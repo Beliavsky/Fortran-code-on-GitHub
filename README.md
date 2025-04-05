@@ -980,6 +980,8 @@ and Dmitry Pavlov. It uses BFGS for local optimization and two different forms o
 
 [array_range](https://github.com/degawa/array_range): provides user-defined types array_range{1|2|3}d_type to improve the manipulation of bounds of Fortran arrays, by Tomohiro Degawa
 
+[bitfield](https://github.com/PierUgit/bitfield): implementation of 1D bit array, by PierUgit
+
 [ClassicalDataStructuresF95](https://github.com/truongd8593/ClassicalDataStructuresF95): classical data structures such as the singly linked list and stack, by truongd and Sesshōmaru
 
 [collections](https://github.com/jchristopherson/collections): set of types supporting collections in Fortran, by Jason Christopherson. Currently, the library contains a generic, dynamically sizable list and a generic linked-list type.
