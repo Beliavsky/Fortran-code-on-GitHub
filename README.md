@@ -2623,6 +2623,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [Fortran-corelib](https://github.com/richardfoltyn/fortran-corelib): string type, argument parser, logging, linked list, timedelta type, filesystem handling, and other basic functionality, by Richard Foltyn
 
+[fortran-file](https://github.com/tkdhss111/fortran-file): functions for file manipulation, wrapping operating system commands, by Hisashi Takeda. The functions are `touch`, `cp`, `mv`, `rm`, `mkdir`, `rmdir`, `cldir`, `print` and `find`.
+
 [Fortran General Library (FGL)](https://github.com/mobius-eng/FGL): code for bitstrings, exception handling, hash tables, lists, logging, queues, strings, sorting, JSON parsing, and other topics, from mobius-eng
 
 [Fortran interfaces, classes and header extensions (fortiche)](https://github.com/davidpfister/fortiche): collection of various preprocessor macros designed to extend the current features of the Fortran standard, by davidpfister. 
