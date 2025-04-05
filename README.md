@@ -3643,6 +3643,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [forSISL](https://github.com/rweed/forSISL): Modern Fortran interfaces to the [SINTEF Spline Library (SISL)](https://github.com/SINTEF-Geometry/SISL), by Richard Weed
 
+[fortran-approx](https://github.com/suzuyuyuyu/fortran-approx): enables approximate comparisons, defining custom operators such as .aeq., .ane., .alt., .ale., .agt., and .age. that perform comparisons that take the specified tolerance into account, by Yuta Suzuki
+
 [ForTran LIBrary for numerical analysis (FTLIB)](https://github.com/fradevita/FTLIB): some topics covered are numerical integration, root-finding, and fitting polynomials to surfaces, by fradevita
 
 [fortran-numerical-methods](https://github.com/c4rlosr4ul/fortran-numerical-methods): implements methods for solving ordinary differential equations, numerical interpolation, finding roots of equations, and other topics, by Carlos Raúl
