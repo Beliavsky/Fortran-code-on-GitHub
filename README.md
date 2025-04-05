@@ -3364,6 +3364,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 
 [mef90](https://github.com/bourdin/mef90): reference implementation of the variational approach to fracture, as described in several papers, by Blaise Bourdin
 
+[merchant_modeling](https://github.com/lfmalves/merchant_modeling): performs machining analysis based on Merchant’s theory of orthogonal cutting, which is a predictive model of chip formation that assumes a perfectly plastic workpiece and a sharp cutting edge, by Luis F. M. Alves
+
 [MulSKIPS](https://github.com/MulSKIPS/MulSKIPS): Kinetic Monte Carlo super-Lattice code designed to simulate with atomic resolution the kinetics of processes (e.g., PVD, CVD, laser annealing) involving elements, alloys and compounds characterized by the sp3 bond symmetry. An associated paper is G. Calogero et al., [Multiscale modeling of ultrafast melting phenomena](https://www.nature.com/articles/s41524-022-00720-y), npj Computational Materials 8, 36 (2022)
 
 [NH-TOPOPT-FORTRAN](https://github.com/jeffreyguevaracorzo/NH-TOPOPT-FORTRAN): generates mechanical metamaterials based on a process of topological optimisation and numerical homogenisation, by Jeffrey Guevara-Corzo. An associated paper is [How to determine composite material properties using numerical homogenization](https://www.sciencedirect.com/science/article/abs/pii/S0927025613005302), by Erik Andreassen and Casper Schousboe Andreasen, Computational Materials Science (2014).
