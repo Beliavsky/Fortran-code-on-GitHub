@@ -4329,8 +4329,6 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [CDMFT-LANC-ED](https://github.com/QcmPlab/CDMFT-LANC-ED): Lanczos based solver for the Cluster Dynamical Mean-Field Theory using the N_up:N_dw implementation, from QcmPlab
 
-[chiralpl](https://github.com/louisminion/chiralpl): simulates vibronic spectra of aggregates of organic chromophores using the Holstein Hamiltonian in the multiparticle basis spectra, by Louis Alvar Minion
-
 [chunkmatc](https://github.com/zgimbutas/chunkmatc): high order layer potential evaluation library in R^2, solving the Laplace and Helmholtz equations, by Zydrunas Gimbutas 
 
 [Clebsch-Gordan](https://github.com/JorgeG94/Clebsch-Gordan): simple program to calculate the Clebsch-Gordan coefficients, by Jorge Luis Gálvez Vallejo
