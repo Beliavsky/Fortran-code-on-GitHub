@@ -4847,8 +4847,6 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [TBKOSTER](https://github.com/spindynamics/TBKOSTER): simulation package for the simulation of magnetic materials developed at the French Alternative Energies and Atomic Energy Commission, designed to provide a community standard tool for ab initio simulations of magnetic materials with high performance and an easy-to-use interface. An associated paper is [Spin dynamics from a constrained magnetic tight-binding model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.235436), by Ramon Cardias et al., <i>Physical Review B</i> (2021).
 
-[TBmodels](https://github.com/aamaricci/TBmodels): collection of non-interacting Tight Binding models, often used as a basis for interacting problem calculations, by Adriano Amaricci
-
 [Thomas Relativistic Electronic Structure Calculation (TRESC)](https://github.com/Dirac4pi/TRESC): computes the electronic structure of non-periodic system in adiabatic approximation, solving static 2-component DKH2 electronic Hamiltonian of a given molecular, by Liu Kunyu
 
 [thunder-master](https://github.com/thunder-dft/thunder-master): code for the packages used in the FIREBALL suite of programs. An associated paper is [A web-deployed interface for performing ab initio molecular dynamics, optimization, and electronic structure in Fireball](https://www.sciencedirect.com/science/article/abs/pii/S0010465508003354), by J. Brandon Keith et al., Computer Physics Communications (2009).
