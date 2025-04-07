@@ -3455,8 +3455,6 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [dl-poly](https://github.com/ccp5UK/dl-poly): general-purpose classical molecular dynamics (MD) simulation software developed at Daresbury Laboratory since 1992. Over the years has been transformed from a replicated memory code to a distributed memory one. 
 
-[dynamon](https://github.com/boneta/dynamon): general-purpose script for common calculations with fDynamo, associated with the book [A Practical Introduction to the Simulation of Molecular Systems](https://www.amazon.com/Practical-Introduction-Simulation-Molecular-Systems/dp/052158129X), by Martin J. Field, Cambridge University Press (1999)
-
 [EmDee](https://github.com/atoms-ufrj/EmDee): platform to test simulation methods that involve the mechanics of many atoms, such as different thermostats and barostats, hybrid Monte Carlo algorithms, etc, from atoms-ufrj
 
 [Empirical Valence Bond - Quantum mechanical derived force field (EVB-QMDFF)](https://github.com/Trebonius91/EVB-QMDFF): Ring Polymer Molecular Dynamics (RPMD) and rate constant calculations on black-box potential energy surfaces, by Julien Steffen
