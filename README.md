@@ -1998,6 +1998,8 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [smash](https://github.com/DassHydro-dev/smash): Python library that provides a variety of user-friendly routines for hydrological modeling, including data preprocessing, high-dimensional optimization tools, sensitivity and signatures analysis, all interfaced with an efficient Fortran solver
 
+[snesim-standalone](https://github.com/SCRFpublic/snesim-standalone): an associated report is [Sequential simulation drawing structures from training images](https://github.com/SCRFpublic/snesim-standalone/blob/master/snesimtheory.ppt), by Sebastien Strebelle
+
 [Soil and Water Assessment Tool Plus (SWAT+)](https://github.com/joelz575/swatplus): small watershed to river basin-scale model to simulate the quality and quantity of surface and ground water and predict the environmental impact of land use, land management practices, and climate change. SWAT is widely used in assessing soil erosion prevention and control, non-point source pollution control and regional management in watersheds.
 
 [Sparse Matrix Operator Kernel Emissions (SMOKE) Modeling System](https://github.com/CEMPD/SMOKE): emissions processing system designed to create gridded, speciated, hourly emissions for input into a variety of air quality models such as CMAQ, REMSAD, CAMX and UAM. SMOKE supports area, biogenic, mobile (both onroad and nonroad), and point source emissions processing for criteria, particulate, and toxic pollutants.
