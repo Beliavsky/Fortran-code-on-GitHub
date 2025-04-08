@@ -4243,6 +4243,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [proVBFH](https://github.com/alexanderkarlberg/proVBFH): QCD corrections to Vector Boson Fusion (VBF) single and double Higgs production, by Alexander Karlberg and Frédéric Dreyer
 
+[Q-ball](https://github.com/mkinach/Q-ball): adaptive solver of the gauged Q-ball equations of motion. An associated paper is [Dynamics of 𝑈⁡(1) gauged 𝑄-balls in three spatial dimensions](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.075033), by Michael P. Kinach and Matthew W. Choptuik, <i>Physical Review D</i> (2024).
+
 [remoll](https://github.com/JeffersonLab/remoll): simulations for the MOLLER Experiment at Jefferson Lab, which proposes to measure the parity-violating asymmetry in electron-electron (Møller) scattering
 
 [simc_gfortran](https://github.com/JeffersonLab/simc_gfortran): standard Hall C Monte Carlo for coincidence reactions, from JeffersonLab
