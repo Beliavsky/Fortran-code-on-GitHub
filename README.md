@@ -1915,6 +1915,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [pyOM2](https://github.com/ceden/pyOM2): ocean circulation model with Fortran and Python front end, by ceden
 
+[PyPestUtils](https://github.com/pypest/pypestutils): suite of Python tools based on [PEST](https://github.com/pypest/pypestutils/blob/develop/docs/pestutilslib/fortran_library_documentation.md) utilities in Fortran to support parameterization with pilot points, drawing stochastic realizations, and MODFLOW post-processing for structured and unstructured grids, by Mike Taves et al.
+
 [PyProSAIL](https://github.com/robintw/PyProSAIL): Python interface by Robin Wilson to the ProSAIL combined leaf optical properties (PROSPECT) and canopy bi-directional reflectance (SAIL) model, in Fortran
 
 [PyRaysum](https://github.com/paudetseis/PyRaysum):g enerates sets of ray-theoretical seismograms for an incident plane wave (teleseismic approximation) for models consisting of a stack of layers with planar but nonparallel (dipping) interfaces, allowing the possibility of anisotropy in the layers. Incident P and S waves are supported.
