@@ -1752,6 +1752,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [JDSurfg](https://github.com/nqdu/JDSurfG): Joint Inversion of Direct Surface Wave Tomography and Bouguer Gravity, by nqdu
 
+[jimf-cligen532](https://github.com/rogerlew/jimf-cligen532): stochastic weather generator which produces daily estimates of precipitation, temperature, dewpoint, wind, and solar radiation for a single geographic point, using monthly parameters (means, SD's, skewness, etc.) derived from the historic measurements, by Jim Frankenberger and Roger Lew
+
 [k223d](https://github.com/s-murfy/k223d): produces fractal stochastic slip distributions on non-planar faults that are described by triangular mesh, by Shane Murphy. The program will also provide the rupture time for each location on the fault plane for a given nucleation location and rupture velocity. Also [StrikeSlipDef](https://github.com/s-murfy/StrikeSlipDef) to calculate surface displacement due to a slowly propagating earthquake source.
 
 [LakeModelDriver](https://github.com/wubulks/LakeModelDriver): lightweight, modular framework for integrating multiple lake models (e.g., FLake, Simstrat) with a unified interface, enabling seamless coupling with the Common Land Model (CoLM) or standalone execution, by Omarjan
