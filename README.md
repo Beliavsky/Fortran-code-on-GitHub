@@ -5094,6 +5094,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [fsklearn](https://github.com/zhoutengye/fsklearn): simple module for machine learning in Fortran using scikit-learn, by Zhouteng Ye. The module can be used to do training and prediction in Fortran, the training part uses scikit-learn library by calling Python from Fortran, and the prediction part, as it may be called frequently by a Fortran code, is written in Fortran 2003.
 
+[Fortran Statistics and Machine Learning Library (fsml)](https://github.com/sebastian-mutz/fsml): scientific toolkit consisting of common statistical and machine learning procedures, including basic statistics (e.g., mean, variance, correlation), common statistical tests (e.g., t-test, Kolmogorov-Smirnov), linear parametric methods and models (e.g., principal component analysis, discriminant analysis, Bayesian classifier), and non-linear statistical and machine learning procedures (e.g., k-means clustering), by Sebastian G. Mutz
+
 [fstats](https://github.com/jchristopherson/fstats): modern statistical library containing routines for computing basic statistical properties, hypothesis testing, regression, special functions, and even experimental design, by Jason Christopherson
 
 [Functional Single Index Model (FSIM)](https://github.com/sbaek306/FSIM): codes for simulations and real data analysis, which appears in the manuscript entitled, "Functional Single Index Model" by Jiang, F., Baek, S., Cao, J., and Ma, Y.
