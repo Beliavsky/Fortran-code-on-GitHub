@@ -1928,6 +1928,8 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [PySolid](https://github.com/insarlab/PySolid): Python wrapper for the Fortran program solid to compute solid Earth tides. Solid Earth tides introduces very long spatial wavelength range components in SAR/InSAR observations, as shown in the Sentinel-1 data with regular acquisitions and large swaths (Fattahi et al., 2020).
 
+[QSSPPEGS_2020](https://github.com/RongjiangWang/QSSPPEGS_2020): variant of the code [QSSP](https://github.com/nicklinyi/qssp) for calculating prompt elasto-gravity signals (PEGS) of an earthquake in a spherically symmetric and elastic earth. An associated paper is [Complete synthetic seismograms based on a spherical self-gravitating Earth model with an atmosphere–ocean–mantle–core structure](https://academic.oup.com/gji/article/210/3/1739/3868201), by Rongjiang Wang et al., <i>Geophysical Journal International</i> (2017).
+
 [Quasi-DYNamic earthquake simulator: qdyn](https://github.com/ydluo/qdyn): boundary element software to simulate earthquake cycles (seismic and aseismic slip on tectonic faults) under the quasi-dynamic approximation (quasi-static elasticity combined with radiation damping) on faults governed by rate-and-state friction and embedded in elastic media, by Yingdi Luo et al.
 
 [Radar Altimeter Database System (RADS)](https://github.com/remkos/rads): apart from actual altimeter data, provides a suite of applications and subroutines that simplify the reading, editing and handling of data from various radar altimeters. RADS was developed by the Delft Institute for Earth-Oriented Space Research, the NOAA Laboratory for Satellite Altimetry, and EUMETSAT.
