@@ -1324,6 +1324,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [rdshellmodel](https://github.com/nicholasmr/rdshellmodel): Rathmann and Ditlevsen (2016) helical shell model of turbulence (http://arxiv.org/abs/1602.02553)
 
+[SFEMaNS](https://github.com/jean-luc-guermond/SFEMaNS): code to solve the MHD equations in axi-symmetric domains, by Jean-Luc Guermond et al.
+
 [shyfem](https://github.com/SHYFEM-model/shyfem): System of HydrodYnamic Finite Element Modules
 
 [simple-2d-ns](https://github.com/kevzhong/simple-2d-ns): A "Hello World" for incompressible Navier-Stokes, featuring two-dimensional flow, second-order finite difference, staggered grid, fully-Explicit Euler time integration, fractional-step, pressure-Poisson equation solved via FFTs, uniform grid spacing, and OpenMP acceleration, by kevzhong
