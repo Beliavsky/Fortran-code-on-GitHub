@@ -65,6 +65,8 @@
 
 [forsynth](https://github.com/vmagnin/forsynth): small Fortran synthesizer to explore sound synthesis, sound effects, electronic music, algorithmic music, etc, by Vincent Magnin
 
+[fynth](https://github.com/JeffIrwin/fynth): synthesizer and audio processor, by Jeff Irwin
+
 [MUSICV](https://github.com/vlazzarini/MUSICV): Max Mathew's MUSIC V synthesis program, prepared by Bill Schottstaed for gfortran, with additions and fixes by Victor Lazzarini.
 
 [MZ2SYNTH](https://github.com/frankenbeans/MZ2SYNTH): wavetable synthesizer by E. Lamprecht inspired by the ANS synthesizer built by Yevgeny Murzin
