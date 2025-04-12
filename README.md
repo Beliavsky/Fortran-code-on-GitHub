@@ -488,6 +488,8 @@ spectroscopic data obtained with near-infrared spectrograph NIRSPEC, installed i
 [Traveling Salesman Problem Exact algorithm](https://github.com/harveytriana/TspApproach): fastest to slowest are C++, Rust, Go, C#, Fortran, Dart, and Python, by 
 Luis Harvey Triana Vega
 
+[Whetstone](https://github.com/akrivitsky7/Whetstone): Whetstone performance testing in Java, C, Fortran and Free Pascal, by Anatoly S. Krivitsky
+
 ## Biology and Medicine
 [AHA-R1](https://github.com/sbudaev/AHA-R1): large scale simulation model that implements a general decision-making architecture in evolutionary agents, by Sergey Budaev. Each agent is programmed as a whole virtual organism including the genome, rudimentary physiology, the hormonal system, a cognitive architecture and behavioural repertoire.
 
