@@ -4916,6 +4916,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [LEcuyer-RNG-Fortran90](https://github.com/p-serna/LEcuyer-RNG-Fortran90): pseudo-random number generator, more precisely, a combined multiple recursive generator (CMRG), MRG32k3a, proposed by L'Ecuyer "Good parameters and implementations for combined multiple recursive random number generators". Operations Research. 1999 Feb;47(1):159-64, by p-serna. This algorithm is well suited for parallel computing as it can initialize many long streams and substreams, with a total period length of 2191 and it passes diehard tests.
 
+[melg-64-fortran](https://github.com/DSCF-1224/melg-64-fortran): code by DSCF_1224 implementing the algorithm of the paper [Implementing 64-bit maximally equidistributed F2-linear generators with Mersenne prime period](https://dl.acm.org/doi/10.1145/3159444), by Shin Harase and Takamitsu Kimoto, <i>ACM Transactions on Mathematical Software</i> (2018)
+
 [mersenne-twister-fortran](https://github.com/jacobwilliams/mersenne-twister-fortran): Mersenne Twister pseudorandom number generator, by Jacob Williams
 
 [M_random](https://github.com/urbanjost/M_random): module of pseudo random procedures, by urbanjost
