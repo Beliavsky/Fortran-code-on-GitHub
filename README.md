@@ -969,7 +969,7 @@ and Dmitry Pavlov. It uses BFGS for local optimization and two different forms o
 
 [THERMOCHIMICA](https://github.com/ORNL-CEES/thermochimica): computational library for chemical thermodynamics. It determines a unique combination of phases and their compositions for a prescribed chemical composition, temperature and pressure, from ORNL-CEES.
 
-[Thermopack](https://github.com/jabirali/thermopack): thermodynamic model library for fluid properties and PVT (pressure-volume-temperature) calculations, from [SINTEF Energy Resarch](https://www.sintef.no/en/sintef-energy/)
+[Thermopack](https://github.com/jabirali/thermopack): thermodynamic model library for fluid properties and PVT (pressure-volume-temperature) calculations, from [SINTEF Energy Research](https://www.sintef.no/en/sintef-energy/)
 
 [tinker](https://github.com/TinkerTools/tinker): Tinker molecular modeling software is a complete and general package for molecular mechanics and dynamics, with some special features for biopolymers.
 
