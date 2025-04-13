@@ -146,6 +146,8 @@
 
 [ECLIPSE](https://github.com/CosmoTool/ECLIPSE): code for [paper](https://iopscience.iop.org/article/10.1088/1475-7516/2021/07/034) "ECLIPSE: a fast Quadratic Maximum Likelihood estimator for CMB intensity and polarization power spectra" (2021), by J.D. Bilbao-Ahedo et al.
 
+[ellc](https://github.com/pmaxted/ellc): code associated with paper [ellc: A fast, flexible light curve model for detached eclipsing binary stars and transiting exoplanets](https://www.aanda.org/articles/aa/abs/2016/07/aa28579-16/aa28579-16.html), by Pierre Maxted, <i>Astronomy & Astrophysics</i> (2016)
+
 [EQUIB](https://github.com/equib/EQUIB): solves the statistical equilibrium equation for each ion and yields atomic level populations and line emissivities for given physical conditions, namely electron temperature and electron density, appropriate to the zones in an ionized nebula where the ions are expected to exist, by I. D. Howarth et al.
 
 [etfFinal](https://github.com/mgeshelley/etfFinal): Neutron star inner crust code, by mgeshelley
