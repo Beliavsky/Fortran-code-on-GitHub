@@ -977,6 +977,9 @@ and Dmitry Pavlov. It uses BFGS for local optimization and two different forms o
 
 [UniMoVib](https://github.com/zorkzou/UniMoVib): unified interface for molecular harmonic vibrational frequency calculations, by zorkzou and smutao
 
+[XIAM-2NQ](https://github.com/SvenHerbers/XIAM-2NQ): spectral fitting code that handles up to two quadrupolar nuclei and 4 internal rotors. An associated paper is [XIAM-NQ: Implementation of exact quadrupole coupling](https://www.sciencedirect.com/science/article/abs/pii/S0022285224000778), by Sven Herbers, 
+<i>Journal of Molecular Spectroscopy</i> (2024).
+
 [YA_EoS](https://github.com/fedebenelli/yaeos): thermodynamic equations of state library with both automatic and analytical derivation capabilities, by Federico E. Benelli
 
 ## Containers and Generic Programming
