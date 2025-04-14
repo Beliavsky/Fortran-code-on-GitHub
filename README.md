@@ -1168,6 +1168,8 @@ Pietro Carlo Boldini
 
 [DesignTurb](https://github.com/YYgroup/DesignTurb): offers a versatile method for constructing the vorticity of vortex tubes with customizable centerline topology, differential twist, and variable thickness. An associated paper is [Role of internal structures within a vortex in helicity dynamics](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/role-of-internal-structures-within-a-vortex-in-helicity-dynamics/5D9EA732FBF63696BA498525BA35D113), by Weiyu Shen et al., Journal of Fluid Mechanics (2023).
 
+[Drops](https://github.com/nikoscham/Drops): simulation code for predicting the equilibrium shape of a droplet on a structured substrate by solving the Young-Laplace equation of capillary hydrostatics. An associated paper is [Enabling efficient energy barrier computations of wetting transitions on geometrically patterned surfaces](https://pubs.rsc.org/en/content/articlelanding/2013/sm/c3sm51377g), by Nikolaos T. Chamakos et al., <i>Soft Matter</i> (2013).
+
 [EOF](https://github.com/parkeryang69/EOF): simulation of electro-osmotic flow by Lattice Boltzmann method, by parkeryang69
 
 [EPIC](https://github.com/matt-frey/epic): Elliptical Parcel-in-Cell model for fluid dynamics, by Matt Frey
