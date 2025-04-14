@@ -2201,6 +2201,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [Rooster-mf](https://github.com/advanced-nuclear-systems/rooster-mf): framework for simulation of Gen-IV Liquid Metal Fast Breeding Reactor system behavior, from the [Advanced Nuclear Systems Group](https://www.psi.ch/en/lsm/ans-group) of Paul Scherrer Institute. Also [FRED](https://github.com/advanced-nuclear-systems/fred), a Fast reactor fuel behaviour code that uses the SUNDIALS library for numerical modelling of base irradiation of a fast reactor fuel pin.
 
+[spice2](https://github.com/yeti01/spice2): general-purpose circuit simulation program for nonlinear dc, nonlinear transient, and linear ac analyses, originally by A. Vladimirescu et al., updated by Ulrich Steinmann
+
 [THOR](https://github.com/NCSU-NCSG/THOR): discrete ordinates radiation transport code using the AHOT-C method on unstructured meshes (can be generated using Gmsh and converted using OpenMeshConverter) and multigroup XS (can be generated using OpenMC and converted using OpenXSConverter), by Nicholas Herring et al.
 
 [Wind Energy with Integrated Servo-control (WEIS)](https://github.com/WISDEM/WEIS): performs multifidelity co-design of wind turbines, from WISDEM. WEIS is a framework that combines multiple NREL-developed tools to enable design optimization of floating offshore wind turbines.
