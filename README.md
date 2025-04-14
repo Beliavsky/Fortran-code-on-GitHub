@@ -4335,6 +4335,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Onion-Skin Modeling + EIRENE + DIVIMP for edge analysis (OEDGE)](https://github.com/ORNL-Fusion/OEDGE): OEDGE/DIVIMP/LIM plasma edge simulation codes for fusion reactor applications, from ORNL-Fusion
 
+[Plasma in a Linear Uniform Magnetized Environment (PLUME)](https://github.com/kgklein/PLUME): numerical code that solves the Vlasov-Maxwell dispersion relation in a hot magnetised plasma, by Kristopher Gregory Klein
+
 [Quasilinear Electromagnetic Oscillations (QLEO)](https://github.com/pastfalk/QLEO): code based on the quasilinear kinetic equation which self-consistently describes how a given velocity distribution function of a homogeneous gyrotropic plasma evolves in time in the presence of an unstable spectrum of parallel propagating, electromagnetic linear eigenmodes, by Patrick Astfalk. The implemented formalism is based on the quasilinear kinetic equations given in, e.g., 'Methods in Nonlinear Plasma Theory' by R. C. Davidson (1972).
 
 [RAYS](https://github.com/ORNL-Fusion/RAYS): plasma ray tracing code from ORNL-Fusion. The primary objective is to provide a starting point for discussion of what a modern ray tracing code, built on a green-field site might look like.
