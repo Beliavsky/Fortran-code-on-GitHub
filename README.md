@@ -2007,6 +2007,8 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [ShellSet](https://github.com/JonBMay/ShellSet): parallel dynamic neotectonic modelling, by Jon B. May, Peter Bird, and Michele M. C. Carafa
 
+[ShoreTrans-fortran](https://github.com/user689/ShoreTrans-fortran): simulates long-term (10-100 years) coastal change in response to sea level rise and sediment supply, accounting for sediment budgeting, shoreface translation, and multiple real-world coastal constraints, by Mohammad Traboulsi. An associated paper is [A rules-based shoreface translation and sediment budgeting tool for estimating coastal change: ShoreTrans](https://www.sciencedirect.com/science/article/pii/S0025322721000487), by R. Jak McCarroll et al., <i>Marine Geology</i> (2021).
+
 [SIBERIA](https://github.com/csdms-contrib/siberia): simulates the evolution of landscapes under the action of runoff and erosion over long times scales. An associated publication is Hancock, G.R.; Gibson, Abraham; Wells, T.; 2021. [Hillslope erosion in a grassland environment: Calibration and evaluation of the SIBERIA landscape evolution model](https://onlinelibrary.wiley.com/doi/10.1002/esp.5060). Earth Surface Processes and Landforms, 46, 728–743
 
 [Simsphere](https://github.com/tjc181/simsphere): Soil-Vegetation-Atmosphere Transfer (SVAT) model, by Toby Carlson et al. It is a one-dimensional model that allows one to simulate the transfer of heat and moisture between plants, soil and atmosphere over a 24 hour day.
