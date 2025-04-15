@@ -4548,6 +4548,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Parabolic two-band model Analyzer for Nonlinear electron Dynamics in Attosecond phenomena (PANDA)](https://github.com/shunsuke-sato/two_band_model): calculates electron dynamics and light-matter interactions, by Shunsuke A. Sato. It is based on a parabolic two-band model for electron structure and dynamics.
 
+[particle_core](https://github.com/jannisteunissen/particle_core): collection of modules that make up the basic parts for a particle simulation, by Jannis Teunissen et al.
+
 [PArticles and RAdiation MOnitor (Paramo)](https://github.com/altjerue/paramo): solves the Fokker-Planck equation and calculates synchrotron and inverse Compton emission, by Jesus M Rueda-Becerril
 
 [paspro](https://github.com/paspro/Steam): library implementing the polynomials which compute the thermodynamic properties of steam on various boundary lines between regions according to the revised release on the IAPWS Industrial Formulation 1997 for the Thermodynamic Properties of Water and Steam ([IAPWS-IF97](http://iapws.org/relguide/IF97-Rev.html)), by Panos Asproulis
