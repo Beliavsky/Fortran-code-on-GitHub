@@ -389,6 +389,8 @@
 [xnirspec](https://github.com/nicocardiel/xnirspec): program to visualise and manipulate FITS images, by Nicolás Cardiel, originally written to reduce
 spectroscopic data obtained with near-infrared spectrograph NIRSPEC, installed in one of the Keck Telescopes (Hawaii)
 
+[Yale Rotating Evolution Code (YREC)](https://github.com/yreclab/yrec): pseudo-2D stellar evolution code with rotation, modern microphysics, and starspots, by Lyra Cao and Kaili Cao
+
 [Yet Another Particle Simulation (YAPS)](https://github.com/Daniel-Harrington/YAPS): high-performance astrophysics simulation modeling black hole migration resulting from the merger of a large host galaxy with a smaller galaxy, by Daniel Harrington et al. The simulation uses CUDA acceleration and Fourier transforms to compute gravitational interactions between 100 million particles, including two supermassive black holes (SMBHs). 
 
 ## Automatic Differentiation
