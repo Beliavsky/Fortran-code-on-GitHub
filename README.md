@@ -1872,7 +1872,7 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [Ocean Assimilation Kit (OAK)](https://github.com/gher-ulg/OAK): module for high level input/output, matrix operations, n-dimensional interpolation of arbitrary curvilinear grid, reduced-rank analysis updates, and assimilation, by Alexander Barth et al.
 
-[Oceanic Regional Circulation and Tide Model (ORCTM)}(https://github.com/HuangOCEAN02/ORCTM): code that by including nonhydrostatic dynamics can numerically reproduce Internal Solitary Waves (ISWs) dynamics, by HaoHuang
+[Oceanic Regional Circulation and Tide Model (ORCTM)](https://github.com/HuangOCEAN02/ORCTM): code that by including nonhydrostatic dynamics can numerically reproduce Internal Solitary Waves (ISWs) dynamics, by HaoHuang
 
 [Ocean Successive Orders with Atmosphere - Advanced (RadiativeTransferCode-OSOAA)](https://github.com/CNES/RadiativeTransferCode-OSOAA): accurate computation of the radiative tranfer into the Ocean-Atmosphere system including polarisation, coupling terms, and the agitated surface, from CNES. Also [Successive Orders of Scattering method coupled with the gaseous ABSorptions (SOS-ABS)](https://github.com/CNES/RadiativeTransferCode-SOS).
 
