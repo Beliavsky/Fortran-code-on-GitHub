@@ -1862,6 +1862,9 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [NanoFASE](https://github.com/NERC-CEH/nanofase): multimedia spatiotemporal model of nanomaterial fate, speciation and bio-uptake, by Sam Harrison and slofts
 
+[National Weather Service River Forecasting System Hydrology Models (nwsrfs-hydro-models)](https://github.com/NOAA-NWRFC/nwsrfs-hydro-models): provides timely information related to flooding, water supply, drought, recreation, navigation, and environmental flows, for the U.S. Northwest, by Geoffrey Walters
+and Cameron Bracken
+
 [NEMO-examples](https://github.com/NEMO-ocean/NEMO-examples): simple configurations to study specific oceanic physical processes and be used as a tool for training
 
 [NM-CT](https://github.com/tuhouwang/NM-CT): Fortran and Matlab codes for the paper "A Chebyshev-Tau spectral method for normal modes of underwater sound propagation with a layered marine environment", by H. Tu, Y. Wang, Q. Lan et al.
