@@ -4269,6 +4269,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [DPMJET](https://github.com/DPMJET/DPMJET): Monte Carlo event generator for hadron, photon and nuclear collisions with a several decade-long history. DPMJET is an integral part of FLUKA, a fully integrated particle physics MonteCarlo simulation package, acting as event generator for nucleus-nucleus collisions above 5 GeV/nucleon and for hadronic collisions at high energies. 
 
+[EventProducer](https://github.com/HEP-FCC/EventProducer): produce events for FCC-hh at a center of mass of 100 TeV and for FCC-ee, from HEP-FCC. Any other future collider can also be supported by this framework.
+
 [EventShapes_HiggsTOgg_QCD_NLO](https://github.com/GuglielmoColoretti/EventShapes_HiggsTOgg_QCD_NLO): code for EERAD3 to compute three-jets event shapes QCD corrections up to NLO to Higgs decays into a pair of gluons and up to NLO into a bottom-antibottom pair.
 
 [figures_2025_two_photon_resonance_fluorescence](https://github.com/jnga773/figures_2025_two_photon_resonance_fluorescence): Python and Fortran scripts for generating the data and plots for the preprint [Two-Photon Resonance Fluorescence of a Three-Level Ladder-Type Atom](https://inspirehep.net/literature/2902826) by Jacob Ngaha et al.
