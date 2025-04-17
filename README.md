@@ -1557,6 +1557,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [ConMan](https://github.com/geodynamics/conman): finite element program for the solution of the equations of incompressible, infinite-Prandtl number convection in two dimensions, by Scott King et al.
 
+[Continuous Runoff and Erosion Hillslope model with DYnamic Surface properties (CREHDYS)](https://github.com/timoclement/CREHDYS): an associated thesis is [Effectiveness of conservation cropping practices in mitigating runoff, soil erosion, and pesticide surface losses in Northwestern Europe](https://dial.uclouvain.be/pr/boreal/object/boreal:299341), by Timothée Clement
+
 [coordinates](https://github.com/alex-robinson/coordinates): manage grids and arbitrary sets of points, including interpolation and mapping between different coordinate systems, by alex-robinson. It also contains several helper modules that are useful generally for the manipulation of sets of points and grids.
 
 [CoulombAnalysis](https://github.com/jjwangw/CoulombAnalysis): computes Coulomb stress changes induced by earthquakes, by jjwangw
