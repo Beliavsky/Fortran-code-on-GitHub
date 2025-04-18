@@ -4294,6 +4294,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [IMPACT-Z](https://github.com/impact-lbl/IMPACT-Z): parallel+serial particle-in-cell code whose primary purpose is to model the dynamics of multiple charged particle beams in linear and ring accelerators, by Ji Qiang et al.
 
+[Jet_parton_cascade](https://github.com/wenbin1501110084/Jet_parton_cascade): framework to couple the jet parton shower and parton cascade, by Wenbin Zhao. Also [Coalescence_Fragmentation_code](https://github.com/wenbin1501110084/Coalescence_Fragmentation_code) and [nucleon-coalescence-code](https://github.com/wenbin1501110084/nucleon-coalescence-code), to generate the light nuclei, deuteron and triton, by the coalaescence process.
+
 [JHUGen](https://github.com/JHUGen/JHUGen): generator giving parton-level information including full spin and polarization correlations for the processes ab → X → VV (V=Z,W,gamma), VBF, X+JJ, pp → VX, ee → VX
 
 [LRSM](https://github.com/oozdal/LRSM): Generic Left-Right Symmetric Model, by oozdal
