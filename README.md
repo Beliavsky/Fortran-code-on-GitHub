@@ -3957,7 +3957,7 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [minimize](https://github.com/ryokbys/minimize): minimization routines such as steepest descent, conjugate gradient, and quasi-Newton methods with line search method such as quadratic interpolation and golden section, by ryokbys
 
-[Minpack](https://github.com/certik/minpack): library for solving nonlinear equations and nonlinear least squares problems, with with CMake makefiles and examples by certik et al.
+[Minpack](https://github.com/certik/minpack): library for solving nonlinear equations and nonlinear least squares problems, with CMake makefiles and examples by certik et al.
 
 [Minpack](https://github.com/jacobwilliams/minpack): modernization of the original Fortran 77 code, by Jacob Williams
 
