@@ -4025,7 +4025,7 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 [simulated-annealing](https://github.com/jacobwilliams/simulated-annealing): Simulated Annealing with Modern Fortran by Jacob Williams
 
 [StochOptim](https://github.com/keurfonluu/StochOptim): object-oriented routines to sample a parameter model space and optimize objective functions:
-Metropolis-Hastings algorithm, Differential Evolution, Particle Swarm Optimization, Competitive Particle Swarm Optimization, and Covariance Matrix Adaptation - Evolution Strategy, by Keurfon Luu
+Metropolis-Hastings algorithm, Differential Evolution, Particle Swarm Optimization, Competitive Particle Swarm Optimization, and Covariance Matrix Adaptation - Evolution Strategy, by Keurfon Luu. Also [EvoSeis](https://github.com/keurfonluu/EvoSeis), a software package for earthquake seismology using evolutionary algorithms as optimization methods.
 
 [subplex](https://github.com/kingaa/subplex): solves unconstrained optimization problems using a simplex method on subspaces. The method is well suited for optimizing objective functions that are noisy or are discontinuous at the solution.
 
