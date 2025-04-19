@@ -4022,7 +4022,10 @@ providing interfaces for using the late M. J. D. Powell's derivative-free optimi
 
 [slsqp](https://github.com/jacobwilliams/slsqp): Modern Fortran edition of the [SLSQP](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.512.2567&rep=rep1&type=pdf) optimizer, by Jacob Williams
 
-[simulated-annealing](https://github.com/jacobwilliams/simulated-annealing): Simulated Annealing with Modern Fortran by Jacob Williams 
+[simulated-annealing](https://github.com/jacobwilliams/simulated-annealing): Simulated Annealing with Modern Fortran by Jacob Williams
+
+[StochOptim](https://github.com/keurfonluu/StochOptim): object-oriented routines to sample a parameter model space and optimize objective functions:
+Metropolis-Hastings algorithm, Differential Evolution, Particle Swarm Optimization, Competitive Particle Swarm Optimization, and Covariance Matrix Adaptation - Evolution Strategy, by Keurfon Luu
 
 [subplex](https://github.com/kingaa/subplex): solves unconstrained optimization problems using a simplex method on subspaces. The method is well suited for optimizing objective functions that are noisy or are discontinuous at the solution.
 
