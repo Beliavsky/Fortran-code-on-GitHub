@@ -548,6 +548,8 @@ Modeling of Gz-Induced Effects](https://pubmed.ncbi.nlm.nih.gov/37069756/), by K
 
 [hole2](https://github.com/osmart/hole2): analysis and visualisation of the pore dimensions of the holes through molecular structures of ion channels, by Oliver Smart et al.
 
+[ichthyotox](https://github.com/oceanicsdotio/ichthyotox): simulates drunk fish in dynamic environments, by Keeney
+
 [Illustrate](https://github.com/ccsb-scripps/Illustrate): biomolecular illustration tool. Associated paper: Goodsell, D.S., Autin, L, Olson, A.J.,Goodsell, D. S., Autin, L., & Olson, A. J. (2019). [*Illustrate*: Software for biomolecular illustration](https://www.cell.com/structure/fulltext/S0969-2126(19)30282-5). *Structure*, 27(11), 1716-1720.e1.
 
 [ktz-phasediag](https://github.com/mgirardis/ktz-phasediag): generates phase diagram for the KTz Neuron. Code written for the paper Girardi-Schappo M, Bortolotto GS, Stenzinger RV, Gonsalves JJ, Tragtenberg MHR (2017) [Phase diagrams and dynamics of a computationally efficient map-based neuron model](https://github.com/mgirardis/ktz-phasediag). PLoS ONE 12(3): e0174621.
