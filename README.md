@@ -3642,6 +3642,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [TensorFlow Fortran Binding library (TFFB)](https://github.com/flexi-framework/tffb): loads and evaluates Keras models directly from Fortran in a straightforward manner. Associated preprint: [Towards Exascale CFD Simulations Using the Discontinuous Galerkin Solver FLEXI](https://arxiv.org/abs/2306.12891), by Marcel Blind, Min Gao, Daniel Kempf, Patrick Kopper, Marius Kurz, Anna Schwarz, and Andrea Beck, 2023.
 
+[TensorFlow to Fortran (tf2)](https://github.com/ivanZanardi/tf2): enables the integration of TensorFlow models into C++/Fortran projects seamlessly, without the need for TensorFlow installation or compilation, by Ivan Zanardi
+
 [TorchFort](https://github.com/NVIDIA/TorchFort): deep learning training and inference interface from NVIDIA for HPC programs implemented using LibTorch, the C++ backend used by the PyTorch framework. This library can be invoked directly from Fortran or C/C++ programs.
 
 [util](https://github.com/tchlux/util): machine learning, optimization, and data science utilities package, by tchlux. [tlux](https://github.com/tchlux/tlux) has code for nonlinear regression and the ball tree algorithm for nearest neighbors
