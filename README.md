@@ -2110,6 +2110,8 @@ Andrea Amicarelli et al. Applications: subcatchment flash floods and fast landsl
 
 [tsunami](https://github.com/modern-fortran/tsunami): parallel tsunami simulator. Companion running example from book [Modern Fortran: Building Efficient Parallel Applications](https://www.manning.com/books/modern-fortran)
 
+[Unified Gravity Wave Physics (UGWP)](https://github.com/NOAA-GSL/UGWP): gravity wave physics parameterizations developed at NOAA/GSL
+
 [Universal Boltzmann Equation Solver (UBER)](https://github.com/zheng-lh/UBER): solves the general form of Fokker-Planck equation and Boltzmann equation, 
 diffusive or non-diffusive, that appear in modeling planetary radiation belts, by Liheng Zheng
 
