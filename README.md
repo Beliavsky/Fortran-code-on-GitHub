@@ -244,6 +244,9 @@
 
 [mercury](https://github.com/smirik/mercury): N-Body integrator based on Bulirsh-Stoer, Everhart and other methods, originally by John E. Chambers, that can integrate any star system, such as the Solar System
 
+[mercury](https://github.com/Fenu24/mercury): modified version of the N-body code mercury, by John E. Chambers, associated with the paper [Mercury and OrbFit packages for numerical integration of planetary systems: implementation of the Yarkovsky and YORP effects](https://doiserbia.nb.rs/Article.aspx?id=1450-698X2204051F), by 
+M. Fenucci and B. Novaković, <i>Serbian Astronomical Journal</i> (2022)  204, pp. 51-63
+
 [MESA_custom_colours](https://github.com/nialljmiller/MESA_custom_colours): extension for the Modules for Experiments in Stellar Astrophysics (MESA) toolkit, designed to enable synthetic photometry calculations and provide additional stellar evolution diagnostics, by Niall J. Miller and M. Joyce
 
 [MESSY](https://github.com/pau-amaro-seoane/MESSY): Hénon-style Monte-Carlo code to simulate spherical stellar clusters and galactic nuclei; i.e. Monte Carlo simulations for stellar dynamics, associated with the paper [Stellar Remnants in Galactic Nuclei: Mass Segregation](https://iopscience.iop.org/article/10.1086/506193), by Marc Freitag et al., Astrophysical Journal (2006)
