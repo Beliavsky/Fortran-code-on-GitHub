@@ -747,6 +747,8 @@ simulating and forecasting meteorological phenomena.
 
 [SPEEDY-ML](https://github.com/Arcomano1234/SPEEDY-ML): combines the atmospheric general circulation model (AGCM) SPEEDY with a reservoir computing-based machine learning algorithm for weather prediction and climate simulations, by Troy Arcomano.
 
+[System for Atmospheric Modeling (SAM_SRCv6.11)](https://github.com/KuangLab-Harvard/SAM_SRCv6.11): evolved from the Large-Eddy Simulation (LES) model, from KuangLab-Harvard. Documented [here](https://harvardwiki.atlassian.net/wiki/spaces/climatemodeling/pages/54006192/SAM).
+
 [tcane_fortran](https://github.com/eabarnes1010/tcane_fortran): evaluate pre-trained artificial neural networks to estimate consensus hurricane intensity and track errors, as well as the associated uncertainties of the network predictions. Associated paper: Barnes, Elizabeth A., Randal J. Barnes and Nicolas Gordillo, 2021: [Adding Uncertainty to Neural Network Regression Tasks in the Geosciences](https://arxiv.org/abs/2109.07250)
 
 [TorchClim](https://github.com/dudek313/torchclim): framework that allows the introduction of ML/AI models that were trained using PyTorch into a climate model (aka GCM), by dudek313 and ktrapeznikov. It facilitates a fast turnover of the train-test-run workflow allowing for quick development of ML/AI-based parametrizations into parallel and distributed environments.
