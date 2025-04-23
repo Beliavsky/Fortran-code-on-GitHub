@@ -3842,6 +3842,8 @@ ACM Trans. Math. Softw. (2023).
 ## Ordinary Differential Equations
 [AUTO](https://github.com/auto-07p/auto-07p): software for continuation and bifurcation problems in ordinary differential equations originally written in 1980 and widely used in the dynamical systems community
 
+[dae4py](https://github.com/JonasBreuling/dae4py): Python wrappers by Jonas Breuling for the daskr, daspk, dassl, pside, and radau Fortran codes
+
 [daskr](https://github.com/davidpfister/daskr): differential-algebraic system solver with rootfinding, by P. N. Brown et al. It includes options for both direct and iterative (Krylov) methods for the solution of the linear systems arising at each (implicit) time step.
 
 [daskr](https://github.com/HugoMVale/daskr): modernized version of DASKR, a differential-algebraic system solver with root-finding, by HugoMVale
