@@ -4748,6 +4748,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [b-spline-two-e](https://github.com/edvinolo/b-spline-two-e): computes matrix elements for non-relativistic, two-electron atoms using B-spline orbitals, by Edvin Olofsson
 
+[bsprvse](https://github.com/banana-bred/bsprvse): solves the (ro)vibrational Schödinger Equation with a basis of B-splines, optionally with a complex absorbing potential, by banana-bred
+
 [bzint](https://github.com/tiberlab/bzint): simple library for the analytic evaluation of integrals of the delta and Heavyside functions in a simplicial tesselation of the Brillouin zone, by Matthias Auf der Maur. An associated paper is "Analytic quadratic integration over the two dimensional Brillouin zone", by G. Wiesenekker et al., <i>J. Phys. C: Solid State Phys.</i> (1988).
 
 [cct3](https://github.com/piecuch-group/cct3): plugin to [PSI4](https://psicode.org/) capable of executing a number of closed- and open-shell coupled-cluster (CC) calculations with up to triply excited (T3) clusters, by J. Emiliano Deustua et al.
