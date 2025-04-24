@@ -4772,6 +4772,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [dirac_caspt2](https://github.com/RQC-HU/dirac_caspt2): performs the second order multi-configuration perturbation calculation using the IVO/CASCI/CASPT2 or IVO/RASCI/RASPT2 method with 1- and 2-electron integrals obtained from the [DIRAC](http://diracprogram.org/doku.php) calculation, by Kohei Noda et al.
 
+[Dissociative Recombination and Photo-Ionization (DRIP)](https://github.com/banana-bred/DRIP): code used to study dissociative recombination, but the framework upon which it is based allows for the calculation of RVE/PI cross sections and reaction rate coefficients, by banana-bred
+
 [DyNaMol](https://github.com/spindynamics/DyNaMol): simulation package for the simulation of magnetic materials developed at the French Alternative Energies and Atomic Energy Commission. DyNaMol is designed to provide a community standard tool for ab initio simulations of magnetic materials with high performance and an easy-to-use interface.
 
 [ecalj — a package for the first-principles electronic structure calculations](https://github.com/tkotani/ecalj): quasiparticle self-consistent GW method in the PMT method (LAPW+LMTO+Lo), by tkotani and nim-hrkn
