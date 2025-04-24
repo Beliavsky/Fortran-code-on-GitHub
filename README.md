@@ -847,6 +847,8 @@ simulating and forecasting meteorological phenomena.
 
 [Cassandra](https://github.com/MaginnGroup/Cassandra): Monte Carlo package developed in the Maginn group at the University of Notre Dame to perform atomistic simulations of molecules composed of rings, chains, or both. Cassandra is suited to compute the thermodynamic properties of fluids and phase equilibria.
 
+[CDMSreader](https://github.com/banana-bred/CDMSreader): reads molecular transition data from the Cologne Database for Molecular Spectroscopy (CDMS) catalogue to determine the radiative lifetimes of the various states involved in the transitions, by banana-bred
+
 [chemfiles.f03](https://github.com/chemfiles/chemfiles.f03): Fortran 2003 binding to the [chemfiles](https://github.com/chemfiles/chemfiles) library, by Guillaume Fraux et al.
 
 [Chemical Mechanism Integrator (Cminor)](https://github.com/rug-l/Cminor): package for the computational simulation of skeletal and detailed chemical kinetic systems derived from atmospheric and combustion chemistry, by Levin Rug and Willi Schimmel
