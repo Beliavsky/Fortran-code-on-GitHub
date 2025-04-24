@@ -5114,6 +5114,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [Jacobi Theta functions for Fortran](https://github.com/fremling/jacobi-theta-function-fortran): by Mikael Fremling
 
+[libcoul90](https://github.com/banana-bred/libcoul90): calculates real-valued Coulomb and Bessel functions for real-valued arguments, with code by A. R. Barnett updated by banana-bred
+
 [Mittag Leffler function and its derivative](https://github.com/tranqv/Mittag-Leffler-function-and-its-derivative): translated from the Matlab code of Robert Garrappa
 
 [s2hat](https://github.com/B3Dcmb/s2hat): C and Fortran for spherical harmonics operations, by B3Dcmb
