@@ -5116,6 +5116,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [libcoul90](https://github.com/banana-bred/libcoul90): calculates real-valued Coulomb and Bessel functions for real-valued arguments, with code by A. R. Barnett updated by banana-bred
 
+[libcoulcc](https://github.com/banana-bred/libcoulcc): calculates complex-valued Coulomb and Bessel functions for real-valued arguments, by banana-bred. An associated paper is [COULCC: A continued-fraction algorithm for Coulomb functions of complex order with complex arguments](https://github.com/banana-bred/libcoulcc), by I.J. Thompson and A.R. Barnett, <i>Computer Physics Communications</i> (1985).
+
 [Mittag Leffler function and its derivative](https://github.com/tranqv/Mittag-Leffler-function-and-its-derivative): translated from the Matlab code of Robert Garrappa
 
 [s2hat](https://github.com/B3Dcmb/s2hat): C and Fortran for spherical harmonics operations, by B3Dcmb
