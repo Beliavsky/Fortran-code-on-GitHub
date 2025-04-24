@@ -4964,6 +4964,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [WFNSYM](https://github.com/abelcarreras/WFNSYM): calculates continuous symmetry measures (CSM) of the electronic wave function of molecules, by Abel Carreras and ‪Efrem Bernuz
 
+[WignerD](https://github.com/banana-bred/WignerD): routines to calculate the Wigner D-matrix and d-matrix. An associated paper is [High-precision evaluation of Wigner's (d) matrix by exact diagonalization](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.043307), by X. M. Feng et al., <i>Physical Review E</i> (2015).
+
 [Without Empty STates (WEST)](https://github.com/west-code-development/West): massively parallel software for large scale electronic structure calculations within many-body perturbation theory, by Marco Govoni et al.
 
 [x2dhf](https://github.com/susilehtola/x2dhf): finds virtually exact solutions of the Hartree-Fock and density functional theory equations for diatomic molecules and atoms, by Susi Lehtola and Jacek Kobus The lowest energy eigenstates of a given irreducible representation and spin can be obtained.
