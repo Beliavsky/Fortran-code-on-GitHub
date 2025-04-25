@@ -1888,6 +1888,8 @@ and Cameron Bracken
 
 [nshmp-haz-fortran](https://github.com/usgs/nshmp-haz-fortran): code for the National Seismic Hazard Mapping Project, by Peter Powers et al.
 
+[OAK](https://github.com/gher-uliege/oak): Ocean Assimilation Kit, by Alexander Barth and Luc Vandenblucke
+
 [OBS_Trans_Inv](https://github.com/jhzhang711/OBS_Trans_Inv): seismological transdimensional Bayesian inversion tools for ocean bottom seismometers (OBS) in marine environments, by jhzhang711
 
 [Ocean Assimilation Kit (OAK)](https://github.com/gher-ulg/OAK): module for high level input/output, matrix operations, n-dimensional interpolation of arbitrary curvilinear grid, reduced-rank analysis updates, and assimilation, by Alexander Barth et al.
