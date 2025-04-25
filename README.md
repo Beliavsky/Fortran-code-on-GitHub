@@ -4880,6 +4880,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [omm-bundle](https://github.com/ElectronicStructureLibrary/omm-bundle): library implementing the orbital minimization method for solving the Kohn-Sham equation as a generalized eigenvalue problem, by Fabiano Corsetti et al.
 
+[OneDMin](https://github.com/Auto-Mech/OneDMin): calculates Lennard-Jones interaction parameters from intermolecular potentials via 1D minimizations. An associated paper is [Lennard–Jones parameters for combustion and chemical kinetics modeling from full-dimensional intermolecular potentials](https://www.sciencedirect.com/science/article/abs/pii/S0010218013002988), by Ahren W. Jasper and James A. Miller, <i>Combustion and Flame</i> (2014)
+
 [openLOWDIN](https://github.com/efposadac/openLOWDIN): quantum chemistry code designed to perform calculations on multi-species systems using the MultiComponent Molecular Orbital method. Associated paper: R. Flores-Moreno et al., [LOWDIN: The any particle molecular orbital code](https://onlinelibrary.wiley.com/doi/10.1002/qua.24500). Int. J. Quantum Chem. (2014).
 
 [OpenMMPol](https://github.com/Molecolab-Pisa/OpenMMPol): library to interface quantum chemical software with atomistic polarizable embedding, by Mattia Bondanza et al. With OpenMMPol any quantum mechanical method that is able to provide the electrostatic potential, field, and field gradient for a given electronic density could be coupled to polarizable embedding with [AMOEBA](https://pubs.acs.org/doi/10.1021/jp910674d) (and other force fields).
