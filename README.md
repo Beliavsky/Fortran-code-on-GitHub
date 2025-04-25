@@ -571,7 +571,7 @@ Modeling of Gz-Induced Effects](https://pubmed.ncbi.nlm.nih.gov/37069756/), by K
 
 [Parse](https://github.com/stevewhitten/Parse): predicts protein regions that are disordered, and which subset of those can undergo phase separation. Associated paper: Paiz, E.A., Allen, J.H., Correia, J.J., Fitzkee, N.C., Hough, L.E., Whitten, S.T. [Beta turn propensity and a model polymer scaling exponent identify intrinsically disordered phase-separating proteins](https://www.jbc.org/article/S0021-9258(21)01149-2/fulltext) J. Biol. Chem. 297, 101343 (2021).
 
-[Phytoplankton Individual-Based Model (PIBM)](https://github.com/BingzhangChen/PIBM): an associated paper is [PIBM 1.0: An individual-based model for simulating phytoplankton acclimation, diversity, and evolution in the ocean](https://gmd.copernicus.org/preprints/gmd-2024-130/), by Iria Sala and Bingzhang Chen <i>Geoscientific Model Development</i> (2024)
+[Phytoplankton Individual-Based Model (PIBM)](https://github.com/BingzhangChen/PIBM): an associated paper is [PIBM 1.0: An individual-based model for simulating phytoplankton acclimation, diversity, and evolution in the ocean](https://gmd.copernicus.org/preprints/gmd-2024-130/), by Iria Sala and Bingzhang Chen, <i>Geoscientific Model Development</i> (2024)
 
 [PLOSCB2022](https://github.com/mholla/PLOSCB2022): code associated with [Orchestrated neuronal migration and cortical folding: A computational and experimental study](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010190), by Shuolun Wang et al., PLOS Computational Biology (2022)
 
