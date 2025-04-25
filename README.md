@@ -1588,7 +1588,7 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [Data Interpolating Empirical Orthogonal Functions (DINEOF)](https://github.com/aida-alvera/DINEOF): EOF-based method to fill in missing data from geophysical fields, such as clouds in sea surface temperature. For more information on how DINEOF works, please refer to Alvera-Azcarate et al (2005) and Beckers and Rixen (2003).
 
-[Data-Interpolating Variational Analysis (DIVA)](https://github.com/gher-ulg/DIVA): spatial interpolation of data (analysis) in an optimal way, comparable to optimal interpolation (OI), by Sylvain Watelet et al. In comparison to OI, it takes into account coastlines, sub-basins and advection.
+[Data-Interpolating Variational Analysis (DIVA)](https://github.com/gher-uliege/DIVA): spatial interpolation of data (analysis) in an optimal way, comparable to optimal interpolation (OI), by Sylvain Watelet et al. In comparison to OI, it takes into account coastlines, sub-basins and advection.
 
 [DC](https://github.com/ejimeneztejero/DC): code associated with paper [Downward continuation of marine seismic reflection data: an undervalued tool to improve velocity models](https://academic.oup.com/gji/article/230/2/831/6539333), by Clara Estela Jimenez-Tejero et al., Geophysical Journal International (2022)
 
