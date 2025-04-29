@@ -106,6 +106,8 @@
 
 [Automatic Line Fitting Algorithm (ALFA)](https://github.com/rwesson/ALFA): identifies and fits hundreds of lines in emission line spectra in just a few seconds. It does this using a genetic algorithm to optimise the line parameters, by Roger Wesson
 
+[BEAM_beta](https://github.com/NASA-Planetary-Science/BEAM_beta): Monte Carlo radiative transfer Code for studies of Saturn's rings, by Daniel Olson
+
 [BI-spectra and Non-Gaussianity Operator (BINGO)](https://github.com/dkhaz/bingo): numerically evaluates the scalar bi-spectrum and the non-Gaussianity parameter fNL in single field inflationary models involving the canonical scalar field, by dkhaz. The code is based on the Maldacena formalism to evaluate the bi-spectrum. 
 
 [CAMB](https://github.com/cmbant/CAMB): code for Anisotropies in the Microwave Background, by cmbant
