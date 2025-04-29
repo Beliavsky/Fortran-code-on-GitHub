@@ -295,6 +295,8 @@ M. Fenucci and B. Novaković, <i>Serbian Astronomical Journal</i> (2022)
 
 [optool](https://github.com/cdominik/optool): computes complex dust particle opacities from the command line, by Carsten Dominik and Ryo Tazaki. It is derived from Michiel Min’s DHS [OpacityTool](https://dianaproject.wp.st-andrews.ac.uk/data-results-downloads/fortran-package/) and also implements Ryo Tazaki’s MMF theory for highly porous aggregates.
 
+[Pade-disk-code](https://github.com/NASA-Planetary-Science/Pade-disk-code): simulates hydrodynamic turbulence in protoplanetary disks using a Pade/compact scheme, by Karim Shariff
+
 [phantom](https://github.com/danieljprice/phantom): 3D Smoothed Particle Hydrodynamics and Magnetohydrodynamics code for astrophysics, by Daniel Price and others
 
 [PhotochemPy](https://github.com/Nicholaswogan/PhotochemPy): photochemical model of rocky planet's atmospheres, by Nicholaswogan. Given inputs, like the stellar UV flux, the atmospheric temperature structure, etc., this code will find the steady-state chemical composition of an atmosphere, or evolve atmospheres through time. [Photochem](https://github.com/Nicholaswogan/photochem) is a rewrite in modern Fortran.
