@@ -4934,6 +4934,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [QuAcK](https://github.com/pfloos/QuAcK): performs i) various types of GW calculations (G0W0, evGW, qsGW, etc). ii) ensemble DFT calculations (under progress). QuAcK also include a very slow integral package called IntPak which does compute many types of different integrals. By pfloos.
 
+[rslmtoasa](https://github.com/rslmtoasa/rslmtoasa): ab initio code based on Linear Muffin-tin Orbitals within the Atomic Sphere Approximation. Instead of solving the eigenvalue problem by diagonalization, RS-LMTO-ASA uses the recursion method (Chebyshev or Haydock) to calculate the local density of states in real-space.
+
 [RUQT](https://github.com/HoyLab-Rowan/RUQT): performs Landauer NEGF calculations using advanced electronic structure methods particularly parametric 2-RDM (NEGF-RDM) and multi-configuration pair density functional theory (NEGF-PDFT), from HoyLab-Rowan
 
 [ShirleyForQE](https://github.com/subhayanrc/ShirleyForQE): distribution of the Quantum ESPRESSO suite of codes (ESPRESSO: opEn-Source Package for Research in Electronic Structure, Simulation, and Optimization).
