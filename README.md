@@ -5476,7 +5476,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 
 [RADCAL](https://github.com/firemodels/radcal): library of subroutines for calculating radiative properties of gaseous species and soot, from firemodels. It computes the spectral properties of the radiation participating species at discrete values of the spectrum (expressed either in wavenumber or in wavelength) and temperature, and returns two alternative mean absorption coefficients for each spectral band.
 
-[retrocomputing](https://github.com/hughcoleman/retrocomputing): exploring IBM 704 FORTRAN, by Hugh Coleman
+[retrocomputing](https://github.com/hughcoleman/retrocomputing): exploring IBM 704 FORTRAN, by Hugh Coleman. [PyFortran](https://github.com/mdoege/PyFortran) is a Python interpreter for early FORTRAN, i.e. to run programs written for FORTRAN on the IBM 704 and FORTRAN / GOTRAN for the IBM 1620 or FORTRANSIT on the IBM 650, by mdoege
 
 [strengthcalc](https://github.com/piotrbajdek/strengthcalc): strengthcalc employs mathematical formulae from Mayhew et al. (1992) and Wathen (1994) to estimate the maximum weight one can lift in a single repetition of a physical exercise (known as 1RM: one repetition maximum), by Piotr Bajdek
 
