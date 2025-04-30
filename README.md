@@ -4454,9 +4454,9 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [COLOSS](https://github.com/jinleiphys/COLOSS): program designed to address the scattering problem using a bound-state technique known as complex scaling, by Jin Lei. In this method, the oscillatory boundary conditions of the wave function are transformed into exponentially decaying ones, accommodating the long-range Coulomb interaction. Also [scatt2b](https://github.com/jinleiphys/scatt2b) to compute two body scattering problem in r-space, [fold](https://github.com/jinleiphys/fold), a single folding potential for A-9Be, and [inhomoR](https://github.com/jinleiphys/inhomoR), a code with Pierre Descouvemont to solve the inhomogeneous equations.
 
-[Computational Environment for Nuclear Structure (CENS)](https://github.com/ManyBodyPhysics/CENS): many-body codes developed by Morten Hjorth-Jensen and collaborators
-
 [Combined Optical and Maxwell-Bloch Equations (CoOMBE)](https://github.com/durham-qlm/CoOMBE): code associated with paper [CoOMBE: A suite of open-source programs for the integration of the optical Bloch equations and Maxwell-Bloch equations](https://www.sciencedirect.com/science/article/pii/S0010465524002972), by R. M. Potvliege and S. A. Wrathmall, <i>Computer Physics Communications</i> (2025)
+
+[Computational Environment for Nuclear Structure (CENS)](https://github.com/ManyBodyPhysics/CENS): many-body codes developed by Morten Hjorth-Jensen and collaborators
 
 [CRYSTAL](https://github.com/srio/CRYSTAL): code for crystal diffraction in X-ray Oriented Programs (XOP) (perfect, bent, mosaic crystals in Bragg and Laue geometries), associated with paper [Simulation of X-ray diffraction profiles for bent anisotropic crystals](https://scripts.iucr.org/cgi-bin/paper?S1600576715002782), by M. Sanchez del Rio, N. Perez-Bocanegra, X. Shi, V. Honkimäki and L. Zhang, Journal of Applied Crystallography (2015). 48, 477-491
 
