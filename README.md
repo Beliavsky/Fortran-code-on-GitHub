@@ -1923,6 +1923,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [Optimal Retrieval of Aerosol and Cloud (orac)](https://github.com/ORAC-CC/orac): optimal estimation retrieval scheme for the estimation of aerosol and cloud properties from a wide range of visible-infrared imaging satellites, such as MODIS, AATSR, AVHRR and SEVIRI. It has been used to produce analysis-ready datasets of cloud and aerosol properties as part of the ESA CCI project and is currently supported by NCEO.
 
+[Orchestrator-TSDHN (picv-2025)](https://github.com/totallynotdavid/picv-2025): tool for estimating distant source tsunami parameters using numerical simulations, by David. It combines the TSDHN model in Fortran with an API in Python that processes initial seismic data, such as earthquake location and magnitude, to calculate variables such as: seismic rupture dimensions, seismic moment and crustal displacement.
+
 [P223_Public](https://github.com/dwannetts/P223_Public): extensive body of EM (electromagnetic) modelling and inversion programs used by the minerals, environmental and defence industries for planning and interpreting EM surveys, and for the development of new EM exploration instruments. An associated paper is [Practical 3D EM inversion – the P223F software suite](https://www.tandfonline.com/doi/abs/10.1071/ASEG2007ab114), by Art Raiche et al., <i>Exploration Geophysics</i> (2007).
 
 [PaleoCalAdjust](https://github.com/pjbartlein/PaleoCalAdjust): accompanies this paper: Bartlein, P. J. and Shafer, S. L.: Paleo calendar-effect adjustments in time-slice and transient climate-model simulations (PaleoCalAdjust v1.0): impact and strategies for data analysis, Geosci. Model Dev., https://doi.org/10.5194/gmd-12-3889-2019, 2019.
@@ -1943,10 +1945,6 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [PICO_Fortran](https://github.com/dmr-dj/PICO_Fortran): implementation by Didier M. Roche of the Potsdam Ice-shelf Cavity mOdel from the paper [Antarctic sub-shelf melt rates via PICO](https://tc.copernicus.org/articles/12/1969/2018/), by Ronja Reese et al., (2018).
 
-[Precipitation Runoff Modeling System (prms)](https://github.com/nhm-usgs/prms): deterministic, distributed-parameter, physical process based modeling system developed to evaluate the response of various combinations of climate and land use on streamflow and general watershed hydrology, by Steve Markstrom et al.
-
-[Orchestrator-TSDHN (picv-2025)](https://github.com/totallynotdavid/picv-2025): tool for estimating distant source tsunami parameters using numerical simulations, by David. It combines the TSDHN model in Fortran with an API in Python that processes initial seismic data, such as earthquake location and magnitude, to calculate variables such as: seismic rupture dimensions, seismic moment and crustal displacement.
-
 [pizza](https://github.com/magic-sph/pizza): high-performance numerical code for quasi-geostrophic and non-rotating convection in a 2-D annulus geometry, by Thomas Gastine et al. pizza solves for the Navier-Stokes equation including Coriolis force coupled with a temperature equation and/or an equation for the chemical composition under the Boussinesq approximation.
 
 [plantFEM](https://github.com/kazulagi/plantFEM): plant/farming simulator based on Finite Element Method, which targets crops in fields, from kazulagi. This software provides multi-physical simulations of agriculture for canopies, plants, and organs for farmers, breeders, and agronomists.
@@ -1958,6 +1956,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 [POLAN](https://github.com/space-physics/POLAN): calculate real-height profiles from chirp ionosonde data from the ionosphere, by J. E. Titheridge, updated by Michael Hirsch
 
 [polarstereo-latlon-convert-fortran](https://github.com/nsidc/polarstereo-latlon-convert-fortran): program that transforms I,J coordinates of an SSM/I grid cell to latitude and longitude coordinates and also provides the inverse functions, from the National Snow and Ice Data Center (NSIDC)
+
+[Precipitation Runoff Modeling System (prms)](https://github.com/nhm-usgs/prms): deterministic, distributed-parameter, physical process based modeling system developed to evaluate the response of various combinations of climate and land use on streamflow and general watershed hydrology, by Steve Markstrom et al.
 
 [PRIDE-PPPAR](https://github.com/PrideLab/PRIDE-PPPAR): GPS PPP ambiguity resolution from PrideLab. Reference: Geng, J., Chen, X., Pan, Y., Mao, S., Li, C., Zhou, J., Zhang, K. (2019b) PRIDE PPP‑AR: an open‑source software for GPS PPP ambiguity resolution. GPS Solutions 23:91 doi:10.1007/s10291-019-0888-1.
 
