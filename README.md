@@ -2601,6 +2601,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [OOP-Fortran-Examples](https://github.com/cmacmackin/OOP-Fortran-Examples): examples of using the object-oriented features in Fortran, taken from a presentation by Chris MacMackin at [RSECon 2019](https://rseconuk2019.sched.com/)
 
+[open-catalog](https://github.com/codee-com/open-catalog): collaborative effort to consolidate expert knowledge on code guidelines for the correctness, modernization, security, portability, and optimization of code written in Fortran, C, and C++ programming languages, from Codee. Also [Top 10 Recommendations for Fortran Modernization](https://github.com/codee-com/fortran-modernization).
+
 [RCDS-introduction-to-fortran](https://github.com/ImperialCollegeLondon/RCDS-introduction-to-fortran): introductory course delivered by Chris Cooling at the Imperial College London Graduate School.
 
 [rocket-science](https://github.com/everythingfunctional/rocket-science): case study in modernizing legacy Fortran software, by Damian Rouson et al. This repository contains a modern mini-application for simulating solid rocket motors using an object-oriented, functional programming style in Fortran 2018, a legacy motor simulator demonstrating the solution of the same governing equations using a procedural programming style in Fortran 77/90, and a refurbished motor simulator demonstrating one modernization path for making the legacy solver object-oriented but without the radical redesign that affords the above purely functional programming style.
