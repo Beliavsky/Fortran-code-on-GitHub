@@ -531,6 +531,8 @@ Modeling of Gz-Induced Effects](https://pubmed.ncbi.nlm.nih.gov/37069756/), by K
 
 [covid19-vac-st](https://github.com/wcota/covid19-vac-st): code and data for the paper [Effects of infection fatality ratio and social contact matrices on vaccine prioritization strategies](https://pubs.aip.org/aip/cha/article-abstract/32/9/093102/2835812/Effects-of-infection-fatality-ratio-and-social), by A. Schulenburg, W. Cota, G. S. Costa, and S. C. Ferreira, Chaos. 2022 Sep;32(9):093102
 
+[DISCOVER](https://github.com/NKI-CCB/DISCOVER): co-occurrence and mutual exclusivity analysis for cancer genomics data. An associated paper is [A novel independence test for somatic alterations in cancer shows that biology drives mutual exclusivity but chance explains most co-occurrence](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1114-x), by Sander Canisius et al., <i>Genome Biology</i> (2016)
+
 [droplets_simulation](https://github.com/Enehentaro/droplets_simulation): simulation of virus-laden droplets behavior from AFDET (Advanced Fluid Dynamics and Energy Transfer Lab)
 
 [dynSIS](https://github.com/wcota/dynSIS): code for paper [Optimized Gillespie algorithms for the simulation of Markovian epidemic processes on large and heterogeneous networks](https://www.sciencedirect.com/science/article/abs/pii/S0010465517301893), by Wesley Cota and Silvio C. Ferreira, Computer Physics Communications v. 219 (2017) pp 303-312
