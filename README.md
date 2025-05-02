@@ -801,6 +801,8 @@ simulating and forecasting meteorological phenomena.
 
 [fpm-deps](https://github.com/ivan-pi/fpm-deps): generates dependency graphs of Fortran packages, by Ivan Pribec
 
+[fpm-gdb](https://github.com/urbanjost/fpm-gdb): plugin for FPM that runs gdb in vim on Linux, by urbanjost
+
 [fpm-search](https://github.com/urbanjost/fpm-search): finds information about registered fpm (Fortran Package Manager) packages, by urbanjost
 
 [libfde](https://github.com/Zorkator/libfde): Fortran Development Extensions (library), by Zorkator
