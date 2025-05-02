@@ -2636,6 +2636,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [fortlife](https://github.com/owainkenwayucl/fortlife): Conway's Game of Life, written in Fortran 77 for the Open Watcom compiler on FreeDOS, but which also compiles on gfortran on Linux, by Owain Kenway
 
+[FortranChess](https://github.com/menezesd/FortranChess): chess program by Dean Menezes
+
 [fortranchessprogram](https://github.com/arbolis/fortranchessprogram): chess program where the user enters moves in notation such as e2-e4 and the board is displayed as text
 
 [Fortran-Engine](https://github.com/hyper2snyper/Fortran-Engine): game engine in Fortran, only using C as a way to call NCurses functions for ease of display, by hyper2snyper. The games created are Snake, Tanks and Dungeon. 
