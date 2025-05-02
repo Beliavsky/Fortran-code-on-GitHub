@@ -357,6 +357,8 @@ M. Fenucci and B. Novaković, <i>Serbian Astronomical Journal</i> (2022)
 
 [starsmasher](https://github.com/jalombar/starsmasher): smoothed particle hydrodynamics code for smashing stars (and planets), by jalombar
 
+[stingray](https://github.com/obreschkow/stingray): mock cone facility for astrophysical applications, by Danail Obreschkow. Also [nbodyx](https://github.com/obreschkow/nbodyx) to run direct gravitational N-body simulations, [procorr](https://github.com/obreschkow/procorr) to compute several correlation functions of periodic 3D density fields in a cubic box, and [surfsuite](https://github.com/obreschkow/surfsuite), a suite of routines to handle the particle data (positions and velocities) in large cosmological simulations, especially the [SURFS simulations](https://research-repository.uwa.edu.au/en/publications/surfs-riding-the-waves-with-synthetic-universes-for-surveys) produced at ICRAR.
+
 [stochastic-parker](https://github.com/xiaocanli/stochastic-parker): solves the Parker’s transport equation (and its extensions) using the stochastic method. Associated paper: [Modeling Electron Acceleration and Transport in the Early Impulsive Phase of the 2017 September 10th Solar Flare](https://iopscience.iop.org/article/10.3847/1538-4357/ac6efe), by Xiaocan Li, Fan Guo, Bin Chen, and Chengcai Shen, and Lindsay Glesener, The Astrophysical Journal Jun 2022
 
 [swiftest](https://github.com/carlislewishard/swiftest): n-body Integrator for gravitational systems, by Carlisle Wishard et al. It contains the Wisdom-Holman Mapping (WHM), Regularized Mixed Variable Symplectic (RMVS), Democratic Heliocentric (HELIO), and Symplectic Massive Body Algorithm (SyMBA) numerical integrators.
