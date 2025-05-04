@@ -1114,6 +1114,8 @@ and Dmitry Pavlov. It uses BFGS for local optimization and two different forms o
 
 [qContainers](https://github.com/darmar-lt/qcontainers): container library for Fortran language. It enables one to store any internal Fortran data type and any derived data type to the container. It implements containers for key/value pairs: tree table and hash table, and containers for objects: list and vector.
 
+[quadtree-fortran](https://github.com/gidonbauer/quadtree-fortran): quadtree implementation by Gidon Bauer
+
 [rearrayfx](https://github.com/aradi/rearrayfx): demonstrates a reallocatable array structure with overprovision at re-allocation in order to decrease the number of reallocations, by Bálint Aradi
 
 [slinked-list](https://github.com/zoziha/slinked-list): simple generic singly linked list module for in-memory storage of small amounts of data, by zoziha
