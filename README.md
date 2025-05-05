@@ -4850,6 +4850,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [gammcor-integrals](https://github.com/modrzejewski/gammcor-integrals): molecular integrals library by Marcin Modrzejewski and Michał Hapka for the Gammcor code
 
+[General Contraction Code (GeCCo-public)](https://github.com/ak-ustutt/GeCCo-public): implements the internally contracted multireference theory, by Andreas Koehn et al. In addition, it also provides arbitrary order coupled-cluster calculations (for closed-shell cases) and explicitly correlated methods.
+
 [General Quantum Chemistry Properties Grabber (gpg)](https://github.com/lukaswittmann/gpg): obtains a wide range of properties, including molecular geometries, electronic energies, dipole moments, vibrational frequencies, from the output files of popular quantum chemistry software packages, including ORCA, Qchem and Turbomole, by Lukas Wittmann
 
 [Geometrical Counter-Poise Correction (gcp)](https://github.com/grimme-lab/gcp): an associated paper is [A geometrical correction for the inter- and intra-molecular basis set superposition error in Hartree-Fock and density functional theory calculations for large systems](https://pubs.aip.org/aip/jcp/article-abstract/136/15/154101/941628/A-geometrical-correction-for-the-inter-and-intra), by Holger Kruse and Stefan Grimme, Journal of Chemical Physics (2012)
