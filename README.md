@@ -4158,6 +4158,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [fortran-cuda-interfaces](https://github.com/SourceryTools/fortran-cuda-interfaces): interfaces to CUDA libraries for GCC/OpenACC, from Mentor/Siemens. Modules include cublas, cublas_v2, cublasxt, openacc_cublas, cufft.
 
+[fortran_mpi](https://github.com/lfortran/fortran_mpi): MPI wrappers that bind directly to native MPI library routines using ISO_C_BINDING, by Gaurav Dhingra and Aditya Trivedi. The goal is to eliminate intermediate C wrappers and call MPI functions directly from Fortran.
+
 [FortranOpenACC](https://github.com/Niceno/FortranOpenACC): combine Fortran with [OpenACC](https://www.openacc.org/), by Bojan Niceno, implementing a sparse-matrix vector product, vector-vector dot product, and diagonally preconditioned conjugate gradient
 
 [Fortran Coarray and MPI Examples](https://github.com/scivision/fortran-coarray-mpi-examples) from scivision
