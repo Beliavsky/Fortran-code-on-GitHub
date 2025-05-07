@@ -1785,6 +1785,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [IF-77 Air-to-Ground Propagation Model (Gierhart-Johnson)](https://github.com/NTIA/if77-gierhart-johnson): propagation model from the Federal Aviation Administration applicable to air/ground, air/air, ground/satellite, and air/satellite paths. It can also be used for ground/ground paths that are line-of-sight or smooth earth.
 
+[iHydroSlide3D](https://github.com/GuodingChen/iHydroSlide3D): parallelized and modular modeling software for regional hydrologic processes and landslides simulation and prediction. An associated paper is [iHydroSlide3D v1. 0: an advanced hydrological–geotechnical model for hydrological simulation and three-dimensional landslide prediction](https://gmd.copernicus.org/articles/16/2915/2023/), by Guoding Chen et al., <i>Geoscientific Model Development</i> (2023).
+
 [illumina](https://github.com/aubema/illumina): Monte Carlo based radiative transfer model aimed to simulate the artificial light at night propagation into the environment, by Alexandre Simoneau et al. The model typically uses satellite data and locally acquired data as inputs.
 
 [IMEX_SfloW2D](https://github.com/demichie/IMEX_SfloW2D): models shallow water granular flows over digital elevation models (DEMs) of natural terrain, with the friction forces described by the Voellmy-Salm rheology, by Mattia de' Michieli Vitturi. The system is described by an hyperbolic system of partial differential equations with relaxation and source terms.
