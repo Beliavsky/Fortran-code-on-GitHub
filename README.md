@@ -1262,6 +1262,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [HORSES3D High-Order (DG) Spectral Element Solver](https://github.com/loganoz/horses3d): multiphysics environment where the compressible Navier-Stokes equations, the incompressible Navier–Stokes equations, the Cahn–Hilliard equation and entropy–stable variants are solved. Arbitrary high–order, p–anisotropic discretisations are used, including static and dynamic p–adaptation methods (feature-based and truncation error-based).
 
+[IBM_TENO](https://github.com/FallenCastle/IBM_TENO): GPU-accelerated solver for simulating supersonic flows using a combination of the Immersed Boundary Method (IBM) and Targeted Essentially Non-Oscillatory (TENO) schemes, by FallenCastle. It is designed to handle complex geometries efficiently on CUDA-enabled GPUs.
+
 [IMEXLB-1.0](https://github.com/lucaso19891019/IMEXLB-1.0): Lattice Boltzmann Method (LBM) proxy application code-suite for heterogeneous platforms (such as ThetaGPU). A ProxyApp, by definition, is a proxy for a full-fledged application code that simulates a wider array of problems.
 
 [Improved_Phase-Field_LBM_2D](https://github.com/AbbasHub/Improved_Phase-Field_LBM_2D): Improved conservative phase-field LBM code for multiphase flows in a 2D periodic domain, by Abbas Fakhari. It is a sample Lattice-Boltzmann solver for two-phase flows.
