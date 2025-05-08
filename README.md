@@ -4900,6 +4900,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [molgw](https://github.com/bruneval/molgw): accurate many-body perturbation theory calculations of the electronic structure of molecules, by bruneval
 
+[Multiwfn_compile](https://github.com/liuyujie714/Multiwfn_compile): code associated with paper [A comprehensive electron wavefunction analysis toolbox for chemists, Multiwfn](https://pubs.aip.org/aip/jcp/article-abstract/161/8/082503/3309709/A-comprehensive-electron-wavefunction-analysis), by Tian Lu, <i>Journal of Chemical Physics</i> (2024)
+
 [MuST](https://github.com/mstsuite/MuST): Multiple Scattering Theory code for first principles calculations, from mstsuite. Ab initio electronic structure calculation software package, with petascale and beyond computing capability, for the first principles study of quantum phenomena in disordered materials.
 
 [NanoGW](https://github.com/PARSEC-real-space-code/NanoGW): implements a Lanczos-based method to accelerate full-frequency GW calculations. Associated paper: [Optical excitations in organic molecules, clusters, and defects studied by first-principles Green's function methods](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.73.205334), by Murilo L. Tiago and James R. Chelikowsky, Phys. Rev. B (2006).
