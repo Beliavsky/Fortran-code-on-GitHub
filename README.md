@@ -5203,6 +5203,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [BMSL](https://github.com/benRenard/BMSL): mathematical and statistical libraries, geared toward environmental / hydrological applications, by Ben Renard. 
 
+[bsamGP](https://github.com/cran/bsamGP): R package with Fortran code for Bayesian Spectral Analysis Models using Gaussian Process Priors, by Seongil Jo et al.
+
 [Bunch-Gay-Welsch Statistical Estimation (BGW)](https://github.com/cran/bgw): R package with Fortran code that exploits the special structure of statistical estimation problems within a trust-region-based optimization approach to produce an estimation algorithm that is much more effective than the usual practice of using optimization methods and codes originally developed for general optimization. It implements a function that performs maximum likelihood estimation (MLE) for a user-provided model object that computes probabilities (a.k.a. probability densities).
 
 [cdaSQR](https://github.com/KarimOualkacha/cdaSQR): generalized coordinate descent (GCD) algorithm for computing the solution path of the penalized quantile regression, by KarimOualkacha
