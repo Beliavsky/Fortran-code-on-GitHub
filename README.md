@@ -2588,6 +2588,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [Intermediate Modern Fortran](https://github.com/ARCHER2-HPC/archer2-fortran-inter): intermediate course focusing on some of the more recent features which are central to Modern Fortran, by Kevin Stratford. Two main topics are the facilities in Fortran for abstraction and polymorphism provided by classes and interfaces, and the facilities for formal interoperability with ANSI C.
 
+[Introduction to Fortran](https://github.com/EPCCed/2025-05-19-MO-Fortran-intro): course from the UK Met Office aimed at users and developers who know how to program, but have little or no experience in Fortran, and those who may wish to have a refresher in Fortran, by Julien Sindt and William Lucas.
+
 [Introduction to Fortran Debugging](https://github.com/aperezhortal/fortran_debugging_introduction): reviews the most common types of errors and
 present simple ways to locate and correct those errors without the use of any debugging applications, by Andres Perez Hortal. The common errors are illustrated using simple Fortran applications where the simple debugging techniques are applied.
 
