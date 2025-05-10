@@ -2586,7 +2586,7 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [githubactions_intro](https://github.com/ofmla/githubactions_intro): introduces Github Actions as a tool for lightweight automation of scientific data workflows, with examples in Python and Fortran using gnuplot, by Oscar Mojica
 
-[Intermediate Modern Fortran](https://github.com/ARCHER2-HPC/archer2-fortran-inter): intermediate course focusing on some of the more recent features which are central to Modern Fortran, by Kevin Stratford. Two main topics are the facilities in Fortran for abstraction and polymorphism provided by classes and interfaces, and the facilities for formal interoperability with ANSI C.
+[Intermediate Modern Fortran](https://github.com/ARCHER2-HPC/archer2-fortran-inter): intermediate course focusing on some of the more recent features which are central to Modern Fortran, by Kevin Stratford. Two main topics are the facilities in Fortran for abstraction and polymorphism provided by classes and interfaces, and the facilities for formal interoperability with ANSI C. Slides with exercises are [here](https://epcced.github.io/2025-05-22-MO-Fortran-inter/).
 
 [Introduction to Fortran](https://github.com/EPCCed/2025-05-19-MO-Fortran-intro): course from the UK Met Office aimed at users and developers who know how to program, but have little or no experience in Fortran, and those who may wish to have a refresher in Fortran, by Julien Sindt and William Lucas.
 
