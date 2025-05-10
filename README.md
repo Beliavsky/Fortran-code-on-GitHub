@@ -226,6 +226,8 @@
 
 [legolas](https://github.com/n-claes/legolas): modern tool for MHD spectroscopy, by n-claes
 
+[Quadratic Interpolated State Transition (libqist)](https://github.com/DavidACunningham/libqist): library for fast propagation of second-order relative motion around arbitrary SPICE kernels, by David Cunningham and Ryan P. Russell. Since current and future space mission planning can require relative motion in regimes that are highly non-Keplerian and potentially non-linear, QIST is an attempt to build a generalized relative motion framework for a broad class of gravitational dynamics.
+
 [libTheSky](https://github.com/MarcvdSluys/libTheSky): computes the positions and other properties of celestial bodies (Moon, planets, comets, asteroids, stars), events (e.g. lunar phases) and coordinate transformations, by Marc van der Sluys and AstroFloyd. It forms the core of the software that is used to create the Dutch popular-astronomy website http://hemel.waarnemen.com.
 
 [madwave3](https://github.com/octavioroncero/madwave3): wave packet propagation program for reactive collisions and photodissociation of triatomic systems, by Octavio Roncero
