@@ -1219,6 +1219,8 @@ Pietro Carlo Boldini
 
 [flop](https://github.com/degawa/flop): operator-oriented library for two-dimensional incompressible fluid flow simulation, by Tomohiro Degawa
 
+[FLOW36](https://github.com/MultiphaseFlowLab/FLOW36): pseudo-spectral code for direct numerical simulation of multiphase turbulence based on a phase-field model approach. An associated paper is [FLOW36: A Spectral solver for phase-field based multiphase turbulence simulations on heterogeneous computing architectures](https://www.sciencedirect.com/science/article/pii/S0010465525001420), by Alessio Roccon et al., <i>Computer Physics Communications</i> (2025).
+
 [Flow81](https://github.com/corygoates/Flow81): basic CFD solvers by corygoates
 
 [flowmol](https://github.com/edwardsmith999/flowmol): molecular dynamics solver for molecular fluid dynamics simulation, by David Trevelyan and Ed Smith
