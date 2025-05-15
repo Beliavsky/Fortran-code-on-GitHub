@@ -351,6 +351,8 @@ M. Fenucci and B. Novaković, <i>Serbian Astronomical Journal</i> (2022)
 
 [squishyplanet](https://github.com/ben-cassese/squishyplanet): package for modeling non-spherical exoplanets, by Ben Cassese et al, [published](https://joss.theoj.org/papers/10.21105/joss.06972) in the <i>Journal of Open Source Software</i> (2024)
 
+[Starburst99](https://github.com/1digitaldesign/starburst99-v7.0.2): stellar population synthesis code for modeling the spectrophotometric and related properties of star-forming galaxies, by Claus Leitherer, updated by 1digitaldesign
+
 [Starlib: Thermonuclear Rate Library](https://github.com/Starlib/Rate-Library): library of thermonuclear reaction and laboratory weak interaction rates. It can be used for studies of stellar models and nucleosynthesis.
 
 [starlink](https://github.com/Starlink/starlink): astronomical data processing
