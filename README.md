@@ -563,6 +563,8 @@ Modeling of Gz-Induced Effects](https://pubmed.ncbi.nlm.nih.gov/37069756/), by K
 
 [Haemflow-cl0](https://github.com/abdrysdale/Haemflow-cl0): cardiovascular model by Alex Drysdale for the venous and arterial systems based on the paper [A concentrated parameter model for the human cardiovascular system including heart valve dynamics and atrioventricular interaction](https://www.sciencedirect.com/science/article/abs/pii/S1350453305002195), by Theodosios Korakianitis and Yubing Shi, <i>Medical Engineering & Physics</i> (2006)
 
+[Hierarchical Clustering of Correlation Patterns (HCCP)](https://github.com/yesint/hccp): algorithm and software for dynamic domain identification in proteins. An associated paper is [Hierarchical clustering of the correlation patterns: New method of domain identification in proteins](https://www.sciencedirect.com/science/article/abs/pii/S0301462205001523), by S. O. Yesylevskyy et al., <i>Biophysical Chemistry</i> (2006)
+
 [hole2](https://github.com/osmart/hole2): analysis and visualisation of the pore dimensions of the holes through molecular structures of ion channels, by Oliver Smart et al.
 
 [ichthyotox](https://github.com/oceanicsdotio/ichthyotox): simulates drunk fish in dynamic environments, by Keeney
