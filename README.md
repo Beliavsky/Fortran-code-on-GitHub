@@ -4018,6 +4018,8 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [libga](https://github.com/ramos/libga): genetic algorithm optimisation library by Alberto Ramos 
 
+[limSolve](https://cran.r-project.org/web/packages/limSolve/index.html): R package with Fortran code for finding the minima of linear or quadratic functions subject to linear equality and inequality constraints, by Karline Soetaert et al.
+
 [LMBM](https://github.com/wilmerhenao/LMBM): Limited Memory Bundle Method for general, possible nonconvex, nonsmooth (nondifferentiable) large-scale minimization, by Napsu Karmitsa. Her [site](http://napsu.karmitsa.fi/) has other codes for nonsmooth optimization, clustering, regression, and imputation
 
 [Method of Moving Asymptotes (MMA-in-Fortran)](https://github.com/jeffreyguevaracorzo/MMA-in-Fortran): subroutines by Jeffrey Guevara-Corzo that are adaptations/translations of Matlab code associated with the paper [A class of globally convergent optimization methods based on conservative convex separable approximations](https://epubs.siam.org/doi/abs/10.1137/S1052623499362822?download=true&journalCode=sjope8), by Krister Svanberg, SIAM Journal of Optimization (2002)
