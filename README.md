@@ -1594,6 +1594,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [ComPASS](https://github.com/BRGM/ComPASS): open, evolutive platform for hydrothermal modeling, by Simon-Lopez et al. It implements state of the art numerical scheme to discretize multiphase Darcean flows on generic unstructured meshes.
 
+[compute_fsle_ftlv](https://github.com/dcortales/compute_fsle_ftlv): module for computation of Lagrangian trajectories, Finite-Time Lagrangian Vorticity (FTLV) and Finite-Size Lyapunov Exponents (FSLE), by Diego Cortes Morales and Ismael Hernandez Carrasco
+
 [ConductivitySolver](https://github.com/Mirko-okriM/ConductivitySolver): code associated with paper [Validation suite for numerical solvers calculating effective thermal conductivity in porous media](https://www.sciencedirect.com/science/article/abs/pii/S0926985121000707), by Mirko Siegert et al., Journal of Applied Geophysics (2021)
 
 [ConMan](https://github.com/geodynamics/conman): finite element program for the solution of the equations of incompressible, infinite-Prandtl number convection in two dimensions, by Scott King et al.
