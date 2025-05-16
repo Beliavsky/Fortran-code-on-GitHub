@@ -5000,6 +5000,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [ShirleyForQE](https://github.com/subhayanrc/ShirleyForQE): distribution of the Quantum ESPRESSO suite of codes (ESPRESSO: opEn-Source Package for Research in Electronic Structure, Simulation, and Optimization).
 
+[SHRED](https://github.com/lanl/SHRED): density functional theory for extreme conditions, by Alexander J. White and Ondrej Certik. It is designed to tackle numerically difficult problems for large-scale disordered systems and/or high-temperature (dense plasmas) calculations. 
+
 [SkProgs](https://github.com/dftbplus/skprogs): generates Slater-Koster files for the Density Functional Based Tight Binding method (DFTB-method), by Bálint Aradi et al.
 
 [smash](https://github.com/cmsi/smash): Massively parallel software for quantum chemistry calculations, from cmsi
