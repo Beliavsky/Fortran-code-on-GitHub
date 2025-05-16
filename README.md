@@ -1985,6 +1985,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [polarstereo-latlon-convert-fortran](https://github.com/nsidc/polarstereo-latlon-convert-fortran): program that transforms I,J coordinates of an SSM/I grid cell to latitude and longitude coordinates and also provides the inverse functions, from the National Snow and Ice Data Center (NSIDC)
 
+[Potency Density Tensor Inversion (PDTI)](https://github.com/yujiyagi/pdti_public_version): an associated paper is [Potency density tensor inversion of complex body waveforms with time-adaptive smoothing constraint](https://academic.oup.com/gji/article/231/1/91/6584392), by Shinji Yamashita et al., <i>Geophysical Journal International</i> (2022)
+
 [Precipitation Runoff Modeling System (prms)](https://github.com/nhm-usgs/prms): deterministic, distributed-parameter, physical process based modeling system developed to evaluate the response of various combinations of climate and land use on streamflow and general watershed hydrology, by Steve Markstrom et al.
 
 [PRIDE-PPPAR](https://github.com/PrideLab/PRIDE-PPPAR): GPS PPP ambiguity resolution from PrideLab. Reference: Geng, J., Chen, X., Pan, Y., Mao, S., Li, C., Zhou, J., Zhang, K. (2019b) PRIDE PPP‑AR: an open‑source software for GPS PPP ambiguity resolution. GPS Solutions 23:91 doi:10.1007/s10291-019-0888-1.
