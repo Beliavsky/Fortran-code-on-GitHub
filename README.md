@@ -367,6 +367,8 @@ M. Fenucci and B. Novaković, <i>Serbian Astronomical Journal</i> (2022)
 
 [stochastic-parker](https://github.com/xiaocanli/stochastic-parker): solves the Parker’s transport equation (and its extensions) using the stochastic method. Associated paper: [Modeling Electron Acceleration and Transport in the Early Impulsive Phase of the 2017 September 10th Solar Flare](https://iopscience.iop.org/article/10.3847/1538-4357/ac6efe), by Xiaocan Li, Fan Guo, Bin Chen, and Chengcai Shen, and Lindsay Glesener, The Astrophysical Journal Jun 2022
 
+[SuperNu](https://github.com/lanl/SuperNu): Monte Carlo radiative transfer for supernova and kilonova spectra. An associated paper is [Radiation Transport for Explosive Outflows: Opacity Regrouping](https://iopscience.iop.org/article/10.1088/0067-0049/214/2/28), by Ryan T. Wollaeger and Daniel R. van Rossum, <i>Astrophysical Journal</i> (2024).
+
 [swiftest](https://github.com/carlislewishard/swiftest): n-body Integrator for gravitational systems, by Carlisle Wishard et al. It contains the Wisdom-Holman Mapping (WHM), Regularized Mixed Variable Symplectic (RMVS), Democratic Heliocentric (HELIO), and Symplectic Massive Body Algorithm (SyMBA) numerical integrators.
 
 [swiftest](https://github.com/MintonGroup/swiftest): models the long-term dynamical dynamics of n-body systems with a dominant central body, like the solar system, by David Minton et al. It is a re-write of the [Swifter](https://www.boulder.swri.edu/swifter/) software package that incorporates modern programming techniques and performance improvements.
