@@ -3599,6 +3599,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [Molecular-Dynamics-Simulation](https://github.com/itsfuad/Molecular-Dynamics-Simulation): molecular dynamics simulation program for simulating Lennard-Jones particles, with Python-based analysis tools, by Fuad Hasan
 
+[Non-adiabatic EXcited-state Molecular Dynamics (NEXMD)](https://github.com/lanl/NEXMD): command-line program to understand the non-radiative relaxation of a main-block molecule with 100s of atoms and 10s of relevant excited states on the picosecond time scale after a vertical photoexcitation, by Walter Malone et al.
+
 [Packmol](https://github.com/m3g/packmol): creates an initial point for molecular dynamics simulations by packing molecules in defined regions of space, from Martinez Molecular Modeling Group. The packing guarantees that short range repulsive interactions do not disrupt the simulations.
 
 [PIMDkk](https://github.com/kuwahatakazuaki/PIMDkk): Path Integral Molecular Dynamics program by kuwahatakazuaki. Also [PIMDanalysis2](https://github.com/kuwahatakazuaki/PIMDanalysis2) to analyze the results of PIMD simulations.
