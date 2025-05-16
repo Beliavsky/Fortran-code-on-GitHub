@@ -2028,6 +2028,8 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [Radar Altimeter Database System (RADS)](https://github.com/remkos/rads): apart from actual altimeter data, provides a suite of applications and subroutines that simplify the reading, editing and handling of data from various radar altimeters. RADS was developed by the Delft Institute for Earth-Oriented Space Research, the NOAA Laboratory for Satellite Altimetry, and EUMETSAT.
 
+[Random Geological Model Generation package (RGM)](https://github.com/lanl/rgm): generates realistic random geological models, including seismic images, faults, relative geological time (seismic horizons), and salt bodies, via a multi-randomization method, by Kai Gao and Ting Chen. The generated models can be used to train machine learning models, e.g., [MTI-MTR](https://github.com/lanl/mtl).
+
 [REAL](https://github.com/Dal-mzhang/REAL): Rapid Earthquake Association and Location, by Dal-mzhang
 
 [Regulated Ecosystem Model (REcoM)](https://github.com/RECOM-Regulated-Ecosystem-Model/REcoM): water column biogeochemistry and ecosystem model which incorporates cycles of carbon and nutrients (nitrogen, iron, and silicon) with varying intracellular stoichiometry in phytoplankton, zooplankton and detritus, from the Alfred Wegener Institute
