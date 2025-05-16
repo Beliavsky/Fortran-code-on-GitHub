@@ -4726,6 +4726,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Solid state Task Constructor (SsTC)](https://github.com/irukoa/SsTC): high-perfomance computing oriented library to create integration and sampling tasks in the BZ of a crystal for k-dependent functions, by Álvaro R. Puente-Uriona. [SsTC_driver](https://github.com/irukoa/SsTC_driver) is a backend for SsTC.
 
+[SOURCES4D](https://github.com/lanl/SOURCES4D): code for computing neutron source rates and spectra from spontaneous fission (including delayed neutrons) and (alpha,n) reactions in homogeneous materials and (alpha,n) reactions in single-interface and two-interface geometries, by W. B. Wilson et al.
+
 [SPECTRA-PKA](https://github.com/fispact/SPECTRA-PKA): calculates the expected primary knock-on atom (PKA) spectra for a given target nuclide under neutron or charged particle irradiation, by Mark Gilbert and Michael Fleming. NJOY-processed recoil matrices must be provided as the input nuclear data for each nuclide and reaction channel of interest. 
 
 [Spherical-Coordinate Implicit Derivatives time-dependent Schroedinger equation (SCID-TDSE)](https://github.com/MBI-Theory/scid-tdse): numerical solution of TDSE for a one-electron atom subject to a laser field, by Serguei Patchkovskii. TDSE is solved in spherical coordinates, with the laser field treated in the velocity-gauge dipole approximation.
