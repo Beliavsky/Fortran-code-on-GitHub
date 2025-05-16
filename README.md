@@ -1692,6 +1692,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [FDFK2D](https://github.com/YoushanLiu/FDFK2D): efficient two-dimensional teleseismic wavefield hybrid simulation method for receiver function analysis, by Youshan Liu. An associated paper is [Underthrusting of Tarim Lower Crust Beneath the Tibetan Plateau Revealed by Receiver Function Imaging](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL108220), by Chenglong Wu et al., Geophysical Research Letters (2024).
 
+[FEOTS](https://github.com/lanl/FEOTS): Fast Equilibration of Ocean Tracers, by Joe Schoonover et al.
+
 [FE-Project](https://github.com/ywkawai/FE-Project): library for dynamical cores of atmosphere and ocean models with discontinuous Galerkin finite element method, by ywkawai
 
 [Finite Element Heat and Mass Transfer Code: FEHM](https://github.com/lanl/FEHM): simulates groundwater and contaminant flow and transport in deep and shallow, fractured and un-fractured porous media throughout the US DOE complex. FEHM has been used in projects of national interest including Environmental Remediation of the Nevada Test Site, the LANL Groundwater Protection Program, geologic CO2 sequestration, Enhanced Geothermal Energy (EGS) programs, Oil and Gas production, Nuclear Waste Isolation, and Arctic Permafrost.
