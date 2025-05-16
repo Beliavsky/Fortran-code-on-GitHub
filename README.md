@@ -942,7 +942,9 @@ and Dmitry Pavlov. It uses BFGS for local optimization and two different forms o
 
 [linemake](https://github.com/vmplacco/linemake): atomic and molecular line list generator, by Chris Sneden et al. Rather than a replacement for a number of well-established atomic and molecular spectral databases, linemake aims to be a lightweight, easy-to-use tool to generate formatted and curated lists suitable for spectral synthesis work.
 
-[local_dielectric_saturation](https://github.com/janneforsman/local_dielectric_saturation): Metropolis Monte-Carlo program to study local dielectric saturation in Restricted Primitive Model electrolytes, by David Ribar and janneforsman. Also [modified_widom](https://github.com/janneforsman/modified_widom) to study the structure and thermodynamics of ionic fluids        
+[local_dielectric_saturation](https://github.com/janneforsman/local_dielectric_saturation): Metropolis Monte-Carlo program to study local dielectric saturation in Restricted Primitive Model electrolytes, by David Ribar and janneforsman. Also [modified_widom](https://github.com/janneforsman/modified_widom) to study the structure and thermodynamics of ionic fluids
+
+[M-ANEOS](https://github.com/isale-code/M-ANEOS): program for the construction of thermodynamic equations of state, which extends the ANEOS computer code developed at Sandia National Laboratories, by S. L. Thompson et al.
 
 [mobbrmsd](https://github.com/yymmt742/mobbrmsd): molecular-oriented branch-and-bound for Root Mean Squared Deviation (RMSD), one of the most common metrics for comparing the similarity of three-dimensional chemical structures, by yymmt742
 
