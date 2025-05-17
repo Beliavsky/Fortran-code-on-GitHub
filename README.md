@@ -2747,6 +2747,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [flib](https://github.com/crshapiro/flib): standard library, function library, a tridiagonal matrix solver, and code for a doubly linked list, optimization, and interpolation
 
+[flibs](https://github.com/philip-peterson/flibs): collection of modules that perform particular tasks, such as, providing interfaces to open=source C libraries, manipulating or examining strings in not too trivial ways, and implementing well-known abstract data types or data structures, by Arjen Markus
+
 [flink](https://github.com/huangli712/flink): Flexible Fortran Modules and Subroutines for Scientific Computing
 
 [Fommons](https://github.com/ffadrique/Fommons): collection of common low level components to support XFunit, FTL and Frypto, by Fran Martinez Fadrique
