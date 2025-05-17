@@ -791,6 +791,8 @@ simulating and forecasting meteorological phenomena.
 ## Code Tools
 [bench-cli](https://github.com/Lateralus138/bench-cli): cross-platform command line tool to benchmark commands and other executables/scripts in command lines written in Fortran, by Lateralus138. Very precise and fast.
 
+[dbrew-for](https://github.com/ivan-pi/dbrew-for): interfaces to the DBrew library for Dynamic Binary Rewritingm by Ivan Pribec
+
 [exception_handling](https://github.com/tillackseb/exception_handling): tools for exception handling and tracing, by Sebastian Tillack
 
 [exceptions](https://github.com/arjenmarkus/exceptions): experiment with exceptions in Fortran via a simple preprocessing step, by Arjen Markus
