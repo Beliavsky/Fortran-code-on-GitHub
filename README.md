@@ -4238,6 +4238,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [IntroMPI](https://github.com/WarwickRSE/IntroMPI): codes from the [Introduction to MPI](https://warwick.ac.uk/research/rtp/sc/rse/training/intrompi/) course, by Heather Ratcliffe and Chris Brady. A follow-up is [IntermediateMPI-new](https://github.com/WarwickRSE/IntermediateMPI-new), which has the C and Fortran codes discussed in the talks, suggestions for exploring MPI types and Domain Decomposition problems, and scripts for using MPI on cluster systems.
 
+[lecture_fortran2gpu](https://github.com/kazuya-yamazaki/lecture_fortran2gpu): codes from a seminar "Migrating Fortran Programs Parallelized with MPI+OpenMP to GPUs" in Japanese, by Kazuya Yamazaki
+
 [matmul_fortran_tensor_core](https://github.com/samhatfield/matmul_fortran_tensor_core): Example code for calling Tensor Core GEMM from Fortran, by Sam Hatfield
 
 [miniWeather](https://github.com/mrnorman/miniWeather): mini app simulating weather-like flows for training in parallelizing accelerated HPC architectures, by mrnorman. Currently includes MPI (C, Fortran, and C++), OpenACC Offload (C and Fortran), OpenMP Threading (C and Fortran), OpenMP Offload (C and Fortran), and C++ Portability.
