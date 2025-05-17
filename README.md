@@ -2805,6 +2805,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [fparser](https://github.com/TREX-CoE/fparser): modern Fortran-based input file parser, from TREX-CoE. It uses a modified libfdf library.
 
+[frsh](https://github.com/polybones/frsh): shell in Fortran by polybones, with the [GNU Readline Library](https://tiswww.cwru.edu/php/chet/readline/rltop.html) library as a dependency
+
 [fson](https://github.com/josephalevin/fson): Fortran 95 JSON Parser, by josephalevin
 
 [ftime](https://github.com/wcdawn/ftime): basic timing routines in Fortran 2003, by William C. Dawn
