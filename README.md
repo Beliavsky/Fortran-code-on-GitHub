@@ -850,6 +850,8 @@ simulating and forecasting meteorological phenomena.
 
 [Fortran Tests](https://github.com/lanl/fortran-tests): set of tests for Modern Fortran, by Galen M. Shipman
 
+[fortran_unitialised_vars](https://github.com/MartinDix/fortran_unitialised_vars): simple subroutines that check the ability of gfortran, ifort, and ifx to to detect uninitialized variables, by Martin Dix
+
 [fortran-wringer-tests](https://github.com/klausler/fortran-wringer-tests): collection of non-portable Fortran usage, standard-conformant or otherwise, by Peter Klausler, accumulated during the development of the f18 Fortran compiler (also known as "LLVM Flang")
 
 [infnan](https://github.com/zaikunzhang/infnan): functions for checking Inf/NaN, Zaikun Zhang. They should work even if the compilers are invoked with aggressive optimization flags such as `gfortran -Ofast`.
