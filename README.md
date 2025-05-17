@@ -3815,6 +3815,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [HDMod](https://github.com/atmmod/HDMod): hyperdual number based calculations, from atmmod
 
+[ieee_class_fortran](https://github.com/DSCF-1224/ieee_class_fortran): additional functions for [ieee_class_type](https://www.ibm.com/docs/en/xl-fortran-linux/16.1.1?topic=constants-ieee-class-type), by DSCF-1224
+
 [library](https://github.com/alexander-mead/library): code for array operations, numerical differentiation and integration, mathematical and physical constants, FFTs, interpolation, optimization, ODEs, finding roots, random number generation, sorting, statistics, strings, and other topics, by Alexander Mead
 
 [Library of Numerical Analysis - Moscow State University](https://github.com/VadimAnIsaev/Library-of-Numerical-Analysis-MSU): Translation of subroutines into modern Fortran (Fortran90 or higher) from Fortran 66. Original website: http://num-anal.srcc.msu.ru/lib_na/cat/cat0.htm
