@@ -3723,6 +3723,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [ParallelForest](https://github.com/bert9bert/ParallelForest): R package implementing random forest classification using parallel computing, built with Fortran and OpenMP in the backend, by bert9bert
 
+[pytorch_from_fortran](https://github.com/ChrisDeGrendele/pytorch_from_fortran): PyTorch neural network called from Fortran, by Chris DeGrendele. A C helper library (built with Python/NumPy C APIs), allows the Fortran code (via iso_c_binding) to directly execute the PyTorch model and exchange numerical data.
+
 [pytorch-fortran](https://github.com/alexeedm/pytorch-fortran): provides Fortran HPC codes with a simple way to use Pytorch deep learning framework, so that Fortran developers can take advantage of rich and optimized Torch ecosystem from within their existing codes.
 
 [rwkv.f90](https://github.com/FortAI-Hub/rwkv.f90): port by Matteo Grella and Marco Nicola of RWKV-LM, an open-source large language model initially developed in Python. RWKV is an RNN with Transformer-level LLM performance, which can also be directly trained like a GPT transformer
