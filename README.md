@@ -2815,6 +2815,9 @@ present simple ways to locate and correct those errors without the use of any de
 
 [fson](https://github.com/josephalevin/fson): Fortran 95 JSON Parser, by josephalevin
 
+[fstdlib](https://github.com/vterzi/fstdlib): a standard library, with array utilities, command line processing, a list type, string operations, and 
+unit testing, by Vladimir Terzi
+
 [ftime](https://github.com/wcdawn/ftime): basic timing routines in Fortran 2003, by William C. Dawn
 
 [functional-fortran](https://github.com/wavebitscientific/functional-fortran): library for functional programming in modern Fortran
