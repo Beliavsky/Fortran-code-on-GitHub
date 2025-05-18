@@ -5579,6 +5579,8 @@ series (or its logs) is described by a linear combination of regressors, and the
 
 [finbound](https://github.com/Nkzono99/finbound): internal boundary processing library, by Nkzono99
 
+[FortranBot](https://github.com/foxtran/FortranBot): simple Telegram bot for generating LaTeX pictures in private messages and inline mode, by foxtran
+
 [Fortran---CGAL-polyhedra](https://github.com/LadaF/Fortran---CGAL-polyhedra): bindings to the CGAL library to query to find whether a point is inside of a polyhedron and their distance, by Vladimír Fuka
 
 [graphstruc](https://github.com/nedtaylor/graphstruc): library that provides an implementation of graph structures in the form of a derived type, by Ned Thaddeus Taylor
