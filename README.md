@@ -4305,6 +4305,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Simple OpenACC Fortran Examples](https://github.com/jeng1220/openacc_fortran_examples): hosts fundamental, but useful examples, by jeng1220. Each example is just a few dozen lines of code.
 
+[SLB4MPI](https://github.com/foxtran/SLB4MPI): OpenMP-like simple load balancers for MPI in C++ and Fortran, by Igor S. Gerasimov and foxtran
+
 [SPEL_OpenACC](https://github.com/peterdschwartz/SPEL_OpenACC): code associated with the paper [SPEL: Software tool for Porting E3SM Land Model with OpenACC in a Function Unit Test Framework](https://ieeexplore.ieee.org/document/10029551), by Peter Schwartz et al., 2022 Workshop on Accelerator Programming Using Directives (WACCPD). It provides a robust method to port the [E3SM Land Model (ELM)](https://e3sm.org/model/e3sm-model-description/v1-description/v1-land/) onto GPUs.
 
 [standalone_mpi_f08_module](https://github.com/jeffhammond/standalone_mpi_f08_module): attempt to implement MPI Fortran 2018 support, by Jeff Hammond
