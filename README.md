@@ -1486,6 +1486,8 @@ https://github.com/myWAveModel/WAM
 
 [Mariadb_connector_fortran](https://github.com/v-h-giang/Mariadb_connector_fortran): wrapper library for MariaDB-connector/C, by Vu Hoang Giang. It can be used to connect to MariaDB, MySQL, and Oracle databases.
 
+[Open Database Connectivity (odbc.f)](https://github.com/davidpfister/odbc.f): interface designed to enable seamless interaction between Fortran applications and relational databases through the Open Database Connectivity (ODBC) standard, by by David Pfister. It provides modules and procedures that allow developers to connect to ODBC-compliant databases, execute SQL queries, and manage data.
+
 [SQLite for Fortran (sqliteff)](https://github.com/everythingfunctional/sqliteff): thin wrapper around the SQLite library, by Brad Richardson. The sqliteff_* functions are effectively identical to the sqlite3_* functions that would be called from C, but with Fortran intrinsics and types.
 
 ## Dates and Times
