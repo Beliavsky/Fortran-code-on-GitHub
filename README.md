@@ -1495,6 +1495,9 @@ https://github.com/myWAveModel/WAM
 
 [datetime-fortran](https://github.com/milancurcic/datetime-fortran): time and date manipulation facilities, by milancurcic
 
+[fdate](https://github.com/zcobell/fdate): datetime library providing comprehensive date and time manipulation capabilities through an interfaceby Zach Cobell with Howard Hinnant's [date library](https://github.com/HowardHinnant/date). It has millisecond precision datetime objects, TimeDelta objects for duration calculations, comprehensive formatting and parsing with customizable format strings, full operator overloading for natural datetime arithmetic, 
+memory-safe design using value types instead of pointers.
+
 [fortran-datetime](https://github.com/tkdhss111/fortran-datetime): functions for dates and times focused on speed, by Hisashi Takeda
 
 [Fortran Date/Time Utilities](https://github.com/artkula/fortran-datetime-utils): comprehensive module for handling date and time operations with robust error handling and formatting capabilities, by artkula. It can display current date, time, and day of week, show timezone information, calculate days left in the current year, detect leap years, and calculate time differences.
