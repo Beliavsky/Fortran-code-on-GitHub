@@ -3641,7 +3641,7 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [Relativistic and Electromagnetic Molecular Dynamics Simulation for Nanoscale Phenomena](https://github.com/Mtanaka77/Relativistic_Molecular_Dynamics_Simulation): associated paper: M. Tanaka and M. Murakami, [Relativistic and electromagnetic molecular dynamics simulations for a carbon-gold nanotube accelerator](https://www.sciencedirect.com/science/article/abs/pii/S0010465519300906), Computer Physics Communications, 241, 56-63 (2019)
 
-[Reykjavík University Molecular Dynamics code for Electron Emission and Dynamics (RUMDEED)](https://github.com/NanoPhysicsCenter/RUMDEED): molecular dynamics program for simulations of vaccum diode, by Kristinn Torfason et al.
+[Reykjavík University Molecular Dynamics code for Electron Emission and Dynamics (RUMDEED)](https://github.com/NanoPhysicsCenter/RUMDEED): molecular dynamics program for simulations of vaccum diodes, by Kristinn Torfason et al.
 
 [RXMD](https://github.com/USCCACS/RXMD): simulates large-scale Reactive Force Field molecular dynamics (MD) simulations on from commodity laptops to high-end supercomputing platforms, from USCCACS. rxmd has been used in a various class of material studies, such as shock-induced chemical reactions, stress corrosion cracking, underwater bubble collapse, fracture of self-healing ceramics and oxidation of nanoparticles.
 
