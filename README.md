@@ -5508,6 +5508,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [CWT](https://github.com/khaors/CWT): calculates the Continuous Wavelet Transform of a signal using the Morlet and Mexican Hat mother wavelets, by Oscar Garcia-Cabrejo
 
+[dynamics](https://github.com/jchristopherson/dynamics): library of routines for the analysis of dynamic systems, by Jason Christopherson. It can compute linear frequency response functions for LTI systems, perform modal analysis of an LTI system, compute the frequency response of nonlinear systems in such a manner as to expose nonlinear behaviors such as jump phenomenon, and fit transfer functions to experimental data.
+
 [EnKF_analysis](https://github.com/geirev/EnKF_analysis): EnKF (Ensemble Kalman Filter) analysis routines in Fortran 90, by Geir Evensen. Stochastic and SQRT formulations with subspace inversion. There is a related [book](https://enkf.nersc.no/).
 
 [Exponentes-de-Lyapunov](https://github.com/Cygnus000/Exponentes-de-Lyapunov): code by Cygnus000 for the algorithm of the paper [Lyapunov Characteristic Exponents for smooth dynamical systems and for hamiltonian systems; a method for computing all of them.](https://link.springer.com/article/10.1007/BF02128236), by Giancarlo Benettin et al., Meccanica (1980)
