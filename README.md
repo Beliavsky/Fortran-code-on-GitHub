@@ -4824,6 +4824,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [WannierTools](https://github.com/quanshengwu/wannier_tools): package for novel topological materials, by QuanSheng Wu et al.
 
+[WFTEM3D](https://github.com/Dr-Li-Fei/WFTEM3D): 3D finite-difference transient electromagnetic modeling software. An associated paper is [3D finite-difference transient electromagnetic modeling with a whole-space initial field](https://pubs.geoscienceworld.org/seg/geophysics/article-abstract/88/3/F15/622160/3D-finite-difference-transient-electromagnetic), by Fei Li and Jiulong Cheng, <i>Geophysics</i> (2023).
+
 [wignerSymbols](https://github.com/joeydumont/wignerSymbols): C++ library to compute the Wigner 3j- and 6j- symbols with Fortran backend, by Joey Dumont et al. A related paper is [Recursive evaluation of 3j and 6j coefficients](https://www.sciencedirect.com/science/article/abs/pii/0010465576900588), by K. Schulten and R.G. Gordon, Computer Physics Communications (1976).
 
 [w2dynamics](https://github.com/w2dynamics/w2dynamics): continuous-time hybridization-expansion Monte Carlo code for calculating n-particle Green's functions of the Anderson impurity model and within dynamical mean-field theory, by Markus Wallerberger et al.
