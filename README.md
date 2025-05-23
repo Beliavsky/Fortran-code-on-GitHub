@@ -1880,6 +1880,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [Maptran 3D](https://github.com/geospace-code/maptran3d): Modern Fortran 3D coordinate conversions for geospace ecef enu eci, from geospace-code.  Similar to Python PyMap3D and Matlab Matmap3d.
 
+[Map Overlay and Statistical System (MOSS)](https://github.com/OSGeo/MOSS): earliest known open-source Geographic Information System, first developed by Carl Reed in the late 1970's as part of a U.S. Fish and Wildlife Service habitat mitigation project
+
 [Marine Biogeochemistry Library (MARBL)](https://github.com/marbl-ecosys/MARBL): software package to be used by ocean general circulation models
 
 [MCDisp](https://github.com/xin2zhang/MCDisp): surface wave dispersion curve inversion using Monte Carlo sampling. The 1d modal approximation code used to compute dispersion curves is from [Computer Programs in Seismology](http://www.eas.slu.edu/eqc/eqccps.html). This package by xin2zhang provides a Python interface for the original Fortran code. 
