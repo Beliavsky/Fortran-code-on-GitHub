@@ -3196,6 +3196,8 @@ multithreaded rendering, post-processing with OpenCV, several built-in useful fu
 
 [FOLLIA](https://github.com/giacrossi/FOLLIA): evaluation of Lagrange coefficients and interpolation on uniform and non-uniform one-dimensional grids, by giacrossi
 
+[FortranConsoleSpline](https://github.com/ja72/FortranConsoleSpline): module for cubic spline interpolation, by John Alexiou
+
 [fortran-rbf](https://github.com/dongli/fortran-rbf): implementation of radial basis functions (RBF), by dongli
 
 [gf_int_node](https://github.com/gfell/gf_int_node): subroutines to find the index of the right interpolating node for each data point in an ordered array, by Giulio Fella. It speeds up computation by exploiting the ordering of both the array of interpolating nodes and of the array of data points.
