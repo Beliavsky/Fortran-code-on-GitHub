@@ -4724,6 +4724,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [paspro](https://github.com/paspro/Steam): library implementing the polynomials which compute the thermodynamic properties of steam on various boundary lines between regions according to the revised release on the IAPWS Industrial Formulation 1997 for the Thermodynamic Properties of Water and Steam ([IAPWS-IF97](http://iapws.org/relguide/IF97-Rev.html)), by Panos Asproulis
 
+[PhaseChange](https://github.com/haghanire/PhaseChange): code associated with the paper [Phase-change modeling based on a novel conservative phase-field method](https://www.sciencedirect.com/science/article/abs/pii/S0021999121000036), by Reza Haghani-Hassan-Abadi et al., <i>Journal of Computational Physics</i> (2021)
+
 [Phase Monte Carlo radiation transport (pMC)](https://github.com/lewisfish/pMC/): code by Lewis McMillan for paper [Imaging in thick samples, a phased Monte Carlo radiation transfer algorithm](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-26/issue-09/096004/Imaging-in-thick-samples-a-phased-Monte-Carlo-radiation-transfer/10.1117/1.JBO.26.9.096004.full)
 
 [Physical optics propagation through synchrotron radiation beamlines (PHASE)](https://github.com/flechsig/phase): tool for the optical design of synchrotron radiation beamlines, by Uwe Flechsig. It is based on analytic expressions for nonlinear transformation of beam coordinates across optical elements. Documented [here](https://www.helmholtz-berlin.de/forschung/oe/wi/undulators/arbeitsgebiete/phase_en.html)
