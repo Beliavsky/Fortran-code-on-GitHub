@@ -458,6 +458,8 @@ spectroscopic data obtained with near-infrared spectrograph NIRSPEC, installed i
 
 [cumsum_benchmark](https://github.com/ivan-pi/cumsum_benchmark): benchmarks for the cumulative sum of an array, in Fortran, C++, Matlab, and Python, using various methods
 
+[do-conc-order](https://github.com/marshallward/do-conc-order): comparison of non-parallel do concurrent(i,j) vs. do concurrent(j,i), using gfortran, ifort, ifx, and nvfortran, by Marshall Ward
+
 [ForBenchmark](https://github.com/gha3mi/forbenchmark): a Fortran library for benchmarking (with support for coarrays). There are [dot_product](https://github.com/gha3mi/forbenchmark/tree/main/benchmarks/dot) benchmark results, by Seyed Ali Ghasemi
 
 [fortran_benchmarks](https://github.com/jannisteunissen/fortran_benchmarks): small benchmarks for allocation, intrinsic functions, function pointers vs. if statements, and `select case`, by Jannis Teunissen
