@@ -1854,6 +1854,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [k223d](https://github.com/s-murfy/k223d): produces fractal stochastic slip distributions on non-planar faults that are described by triangular mesh, by Shane Murphy. The program will also provide the rupture time for each location on the fault plane for a given nucleation location and rupture velocity. Also [StrikeSlipDef](https://github.com/s-murfy/StrikeSlipDef) to calculate surface displacement due to a slowly propagating earthquake source.
 
+[Kestrel](https://github.com/jakelangham/kestrel): simulates sediment-laden Earth surface flows, such as debris flows, landslides and flash flooding. An associated preprint is [Simulating shallow morphodynamic flows on evolving topographies](https://arxiv.org/abs/2306.16185), by Jake Langham et al., (2023).
+
 [LakeModelDriver](https://github.com/wubulks/LakeModelDriver): lightweight, modular framework for integrating multiple lake models (e.g., FLake, Simstrat) with a unified interface, enabling seamless coupling with the Common Land Model (CoLM) or standalone execution, by Omarjan
 
 [Line-By-Line Radiative Transfer Model(LBLRTM)](https://github.com/AER-RC/LBLRTM): accurate and efficient line-by-line radiative transfer model derived from the Fast Atmospheric Signature Code (FASCODE), from AER-RC. LBLRTM has been, and continues to be, extensively validated against atmospheric radiance spectra from the ultraviolet to the sub-millimeter.
