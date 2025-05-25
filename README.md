@@ -5088,6 +5088,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [STB](https://github.com/MRedies/STB): Simple Tight-binding, by MRedies
 
+[Superconducting-Toolkit (sctk)](https://github.com/mitsuaki1987/sctk): first-principles program package based on density functional theory for superconductors (SCDFT), associated with the paper [Benchmark of density functional theory for superconductors in elemental materials](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.134511), by Mitsuaki Kawamura et al., <i>Physical Review B</i> (2020).
+
 [superdyson](https://github.com/MBI-Theory/superdyson): property evaluation for general configuration interaction (CI) expansions, from MBI-Theory. All the quantum chemistry data are taken from GAMESS-US.
 
 [TBKOSTER](https://github.com/spindynamics/TBKOSTER): simulation package for the simulation of magnetic materials developed at the French Alternative Energies and Atomic Energy Commission, designed to provide a community standard tool for ab initio simulations of magnetic materials with high performance and an easy-to-use interface. An associated paper is [Spin dynamics from a constrained magnetic tight-binding model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.235436), by Ramon Cardias et al., <i>Physical Review B</i> (2021).
