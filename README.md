@@ -2685,6 +2685,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [Castlequest](https://github.com/Quuxplusone/Castlequest): parser adventure
 
+[decwar](https://github.com/drforbin/decwar): historic [DECWAR](https://en.wikipedia.org/wiki/Decwar) FORTRAN IV code which has been modified to run on simh (standard TOPS-10 system), by Merlyn Cousins
+
 [Empire for the PDP-10](https://github.com/DigitalMars/Empire-for-PDP-10): Empire Written In FORTRAN-10 for the PDP-10 Circa 1978, from DigitalMars
 
 [fbingo](https://github.com/JMeyer1991/fbingo): fast and simple statistical simulations of bingo games, by JMeyer1991
