@@ -2203,6 +2203,8 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 
 [Utrecht FinitE voluMe Ice-Sheet Model (UFEMISM 2.0)](https://github.com/IMAU-paleo/UFEMISM2.0): ice-sheet-shelf model that solves the hybrid SIA/SSA ice-dynamical equations on a dynamic adaptive grid. Reference: The Utrecht Finite Volume Ice-Sheet Model: UFEMISM (version 1.0), by Constantijn J. Berends, Heiko Goelzer, and Roderik S. W. van de Wal1, Geosci. Model Dev., 14, 2443–2470, 2021 https://doi.org/10.5194/gmd-14-2443-2021
 
+[VAMPER](https://github.com/dmr-dj/VAMPER-v2): numerical ground temperature model by Didier M. Roche et al.
+
 [VolcGases](https://github.com/Nicholaswogan/VolcGases): Python wrapper to a Fortran program that calculates the gases produced by a volcano, by Nick Wogan. [Reference](https://iopscience.iop.org/article/10.3847/PSJ/abb99e/meta): "Abundant Atmospheric Methane from Volcanism on Terrestrial Planets Is Unlikely and Strengthens the Case for Methane as a Biosignature", by Nicholas Wogan, Joshua Krissansen-Totton, and David C. Catling, Published 2020 October 29, The Planetary Science Journal, Volume 1, Number 3
 
 [VolumeLibrary](https://github.com/FMSC-Measurements/VolumeLibrary): National Volume Estimator Library ([NVEL](https://www.fs.usda.gov/forestmanagement/products/measurement/volume/nvel/index.php)) is a collection of the standing tree volume estimators used by the U.S. Forest Service
