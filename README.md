@@ -3668,6 +3668,8 @@ useful results regarding the thermodynamics and the structural properties of the
 [Structure_factor_FFT](https://github.com/jmcdaniel43/Structure_factor_FFT): computes structure factors using the particle mesh Ewald approach, by Jesse Gatten McDaniel. Either the electron density structure factor can be computed for X-ray scattering (uses form factors), or the total charge density can be computed (uses input force field charges) to evaluate sum rules
 
 ## Multiple Precision
+[ARbitrary PRECision Computation Package (ARPREC)](https://github.com/BL-highprecision/ARPREC): software package for performing arbitrary precision arithmetic. It consists of a revision and extension of David H. Bailey's earlier [MPFUN](https://www.davidhbailey.com/dhbsoftware/) package, enhanced with special IEEE numerical techniques.
+
 [814-fm-2001](https://github.com/ToMs-Algo/814-fm-2001): [Algorithm 814: Fortran 90 software for floating-point multiple precision arithmetic, gamma and related functions](https://dl.acm.org/doi/10.1145/504210.504211), by David M. Smith, whose [site](https://dmsmith.lmu.build/) has the latest version. Also [911-fm-2010](https://github.com/ToMs-Algo/911-fm-2010), Algorithm 911: Multiple-Precision Exponential Integral and Related Functions, and [786-fm-1997](https://github.com/ToMs-Algo/786-fm-1997), Algorithm 786: multiple-precision complex arithmetic and functions.
 
 [FMPFR](https://github.com/tkoenig1/FMPFR): Fortran binding to the [GNU MPFR Library multi-precision library](https://www.mpfr.org/), by Thomas Koenig
