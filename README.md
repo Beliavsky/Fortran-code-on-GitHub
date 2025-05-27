@@ -279,6 +279,8 @@ M. Fenucci and B. Novaković, <i>Serbian Astronomical Journal</i> (2022)
 
 [Multi-channel Image Reconstruction, Image Analysis, and Display (MIRIAD)](https://github.com/astroumd/miriad): radio interferometry data-reduction package, designed for taking raw data through to the image analysis stage, by Bob Sault et al.
 
+[myRadex](https://github.com/fjdu/myRadex): similar to [radex](https://github.com/uclchem/SpectralRadex), with a different way to solve the statistical equilibrium problem, by Fujun Du
+
 [NASA Ames Mars Global Climate Model (AmesGCM)](https://github.com/nasa/AmesGCM): simulates the atmosphere and climate of the planet Mars using an external finite volume dynamical core to predict the global atmospheric state given various planetary parameters and physical parameters.
 
 [NASA Ames Legacy Mars Global Climate Model](https://github.com/nasa/legacy-mars-global-climate-model): uses a modified version of the ARIES/GEOS dynamical core coupled with a set of Mars physics packages to simulate the martian climate. 
