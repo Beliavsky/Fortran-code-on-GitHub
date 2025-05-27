@@ -4517,6 +4517,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Onion-Skin Modeling + EIRENE + DIVIMP for edge analysis (OEDGE)](https://github.com/ORNL-Fusion/OEDGE): OEDGE/DIVIMP/LIM plasma edge simulation codes for fusion reactor applications, from ORNL-Fusion
 
+[PArticle Numerical Tool for non-Equilibrium Reacting Aerodynamics (PANTERA)](https://github.com/vonkarmaninstitute/pantera-pic-dsmc): software for the simulation of nonequilibrium gas and plasma flows based on the Direct Simulation Monte Carlo and Particle-in-Cell methods, parallelized for distributed memory machines, by Pietro Parodi et al.
+
 [Plasma in a Linear Uniform Magnetized Environment (PLUME)](https://github.com/kgklein/PLUME): numerical code that solves the Vlasov-Maxwell dispersion relation in a hot magnetised plasma, by Kristopher Gregory Klein
 
 [Quasilinear Electromagnetic Oscillations (QLEO)](https://github.com/pastfalk/QLEO): code based on the quasilinear kinetic equation which self-consistently describes how a given velocity distribution function of a homogeneous gyrotropic plasma evolves in time in the presence of an unstable spectrum of parallel propagating, electromagnetic linear eigenmodes, by Patrick Astfalk. The implemented formalism is based on the quasilinear kinetic equations given in, e.g., 'Methods in Nonlinear Plasma Theory' by R. C. Davidson (1972).
