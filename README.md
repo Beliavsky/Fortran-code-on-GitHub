@@ -5048,6 +5048,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [periodic-NBO](https://github.com/jrschmidt2/periodic-NBO): This projection code is capable of representing any plane-wave bands output by VASP into any user specified Gaussian type orbital basis set. Such an AO representation is required for the subsequent NBO analysis. The code is set up to then output all information necessary for periodic NBO analysis using the code of JRS and BDD.
 
+[peslib](https://github.com/SingletC/peslib): Python interface for some of the potential energy surfaces from [POTLIB](https://www.sciencedirect.com/science/article/abs/pii/S0010465523002825)
+
 [Phonnier](https://github.com/fballestermacia/phonnier): adapts the Wannier Orbital formalism to the calculation of topological propperties of Phonon systems, with emphasis on polar materials, i.e., in the case of LO-TO splitting, by Francesc Ballester
 
 [Plane Wave Density Functional Theory (PWDFT)](https://github.com/ebylaska/PWDFT): PW-DFT development for [NWChemEx](https://www.exascaleproject.org/research-project/nwchemex/), by Eric Bylaska et al.
