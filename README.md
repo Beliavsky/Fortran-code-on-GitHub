@@ -1396,6 +1396,8 @@ direct forcing immersed boundary method for simulation of flow around solid obje
 
 [pyAVL](https://github.com/joanibal/pyAVL): stripped-down version by Josh Anibal of Mark Drela and Harold Youngren's famous Athena Vortex Lattice (AVL) code wrapped in python with f2py. This allows one to more easily conduct large parameter sweeps in AVL or to include AVL into a larger model.
 
+[pyTSFoil](https://github.com/swayli94/pyTSFoil): Python interface of TSFOIL2, an inviscid transonic small-disturbance (TSD) solver for ﬂow past lifting airfoils, by Runze Li. It solves the transonically-scaled perturbation potential, and similarity variables that lead to the computation of the pressure coeﬃcient distribution, Cp, along the airfoil surface, that can then be integrated to yield lift and drag coeﬃcients.
+
 [ransfoil](https://github.com/sdhzhs/ransfoil): console to simulate airflow around an airfoil based on RANS approach
 
 [Rayleigh - dynamo in spherical geometry](https://github.com/geodynamics/Rayleigh): 3-D convection code designed for the study of dynamo behavior in spherical geometry. It evolves the incompressible and anelastic MHD equations in spherical geometry using a pseudo-spectral approach. 
