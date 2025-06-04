@@ -5088,6 +5088,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [QuAcK](https://github.com/pfloos/QuAcK): performs i) various types of GW calculations (G0W0, evGW, qsGW, etc). ii) ensemble DFT calculations (under progress). QuAcK also include a very slow integral package called IntPak which does compute many types of different integrals. By pfloos.
 
+[qvSZP](https://github.com/grimme-lab/qvSZP): tool for setting up an [ORCA](https://www.faccts.de/orca/) calculation using the atom-in-molecule adaptive q-vSZP basis set. An associated paper is [An atom-in-molecule adaptive polarized valence single-ζ atomic orbital basis for electronic structure calculations Available to Purchase](https://pubs.aip.org/aip/jcp/article-abstract/159/16/164108/2918302/An-atom-in-molecule-adaptive-polarized-valence), by Marcel Müller et al., <i>Journal of Chemical Physics</i> (2023).
+
 [rslmtoasa](https://github.com/rslmtoasa/rslmtoasa): ab initio code based on Linear Muffin-tin Orbitals within the Atomic Sphere Approximation. Instead of solving the eigenvalue problem by diagonalization, RS-LMTO-ASA uses the recursion method (Chebyshev or Haydock) to calculate the local density of states in real-space.
 
 [RUQT](https://github.com/HoyLab-Rowan/RUQT): performs Landauer NEGF calculations using advanced electronic structure methods particularly parametric 2-RDM (NEGF-RDM) and multi-configuration pair density functional theory (NEGF-PDFT), from HoyLab-Rowan
