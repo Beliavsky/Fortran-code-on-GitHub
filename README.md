@@ -740,13 +740,15 @@ StormSurgeLive, provides software infrastructure for automating ADCIRC for real 
 
 [multio](https://github.com/ecmwf/multio): package developed by ECMWF that provides an application programming interface (API) for I/O-server functionality for distributed earth-system models and post-processing pipelines of a user-programmable list of actions
 
+[National Ocean Service Operational Forecast System from NCEP Central Operations (nosofs-NCO)](https://github.com/ioos/nosofs-NCO): copy from NOAA's PMB website. This repository contains updates needed to run using GCC/GFortran compilers.
+
+[NCAR Command Language (NCL)](https://github.com/NCAR/ncl): scripting language for the analysis and visualization of climate and weather data, from NCAR
+
+[NCEPLIBS G2](https://github.com/NOAA-EMC/NCEPLIBS-g2): Utilities for coding/decoding GRIB2 messages, by Hang Lei et al. This library contains Fortran 90 decoder/encoder routines for GRIB edition 2, as well as indexing/searching utility routines.
+
 [NoahMP](https://github.com/ESMWG/NoahMP): Noah with multiparameterization options (NoahMP) land surface model, from ESMWG
 
 [Noah-OWP-Modular](https://github.com/NOAA-OWP/noah-owp-modular): extended, refactored version of the [Noah-MP](https://github.com/NCAR/noahmp/) land surface model, by K. Jennings et al. In order to ease readability, adaptability, and interoperability, the model has been broken out into a series of modules and data types that represent various components of model information and parameters as well as the energy and water balances.
-
-[National Ocean Service Operational Forecast System from NCEP Central Operations (nosofs-NCO)](https://github.com/ioos/nosofs-NCO): copy from NOAA's PMB website. This repository contains updates needed to run using GCC/GFortran compilers.
-
-[NCEPLIBS G2](https://github.com/NOAA-EMC/NCEPLIBS-g2): Utilities for coding/decoding GRIB2 messages, by Hang Lei et al. This library contains Fortran 90 decoder/encoder routines for GRIB edition 2, as well as indexing/searching utility routines.
 
 [OGSTM](https://github.com/inogs/ogstm): offline transport reaction model used to solve temporal evolution of 3D Eulerian advection and diffusion processes, by Giorgio Bolzon and Paolo Lazzari. The tool is employed in the context of operational oceanography and to perform climate scenario simulations.
 
@@ -3038,7 +3040,7 @@ multithreaded rendering, post-processing with OpenCV, several built-in useful fu
 
 [M_pixel](https://github.com/urbanjost/M_pixel): creates pixel images with a vector-oriented graphics library that emulates a subset of the [M_draw](https://github.com/urbanjost/M_draw) vector graphics library, by urbanjost. It is supplemented with additional modules that read and write GIF files, including animated GIFs.
 
-[M_slices](https://github.com/urbanjost/M_slices): basic slice plot module based on M_draw(3f), by urbanjost. A 3-d surface is plotted by plotting slices through the volume which are parallel to the x-y plane. 
+[M_slices](https://github.com/urbanjost/M_slices): basic slice plot module based on M_draw(3f), by urbanjost. A 3-d surface is plotted by plotting slices through the volume which are parallel to the x-y plane.
 
 [ogpf](https://github.com/kookma/ogpf): Object-Based Interface to GnuPlot from Fortran, by kookma
 
