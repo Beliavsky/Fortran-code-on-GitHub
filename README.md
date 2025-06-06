@@ -2063,6 +2063,8 @@ PyRaysum is a Python wrapper around the Fortran software Raysum, originally deve
 
 [Random Geological Model Generation package (RGM)](https://github.com/lanl/rgm): generates realistic random geological models, including seismic images, faults, relative geological time (seismic horizons), and salt bodies, via a multi-randomization method, by Kai Gao and Ting Chen. The generated models can be used to train machine learning models, e.g., [MTI-MTR](https://github.com/lanl/mtl).
 
+[rBDAT](https://github.com/cran/rBDAT): R package with tree taper Fortran routines, which were developed for the German National Forest Inventory (NFI), to calculate diameters, volume, assortments, double bark thickness and biomass for different tree species based on tree characteristics and sorting information, by Christian Vonderach et al.
+
 [REAL](https://github.com/Dal-mzhang/REAL): Rapid Earthquake Association and Location, by Dal-mzhang
 
 [Regulated Ecosystem Model (REcoM)](https://github.com/RECOM-Regulated-Ecosystem-Model/REcoM): water column biogeochemistry and ecosystem model which incorporates cycles of carbon and nutrients (nitrogen, iron, and silicon) with varying intracellular stoichiometry in phytoplankton, zooplankton and detritus, from the Alfred Wegener Institute
