@@ -1679,6 +1679,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [Earth_ABL_model](https://github.com/RichardDavy84/Earth_ABL_model): E-epsilon-tau turbulence closure model for the atmospheric boundary layer of Earth, by Einar Orn Olason et al.
 
+[EarthMesh](https://github.com/zhongwangwei/EarthMesh): unstructured mesh generation tool for land surface, ocean, and atmospheric models, such as CoLM2024, by Zhongwang Wei
+
 [Earth System Modeling Framework (ESMF)](https://github.com/esmf-org/esmf): suite of software tools for developing high-performance, multi-component Earth science modeling applications, by Gerhard Theurich et al.
 
 [ECCOv4-Configurations](https://github.com/ECCO-GROUP/ECCO-v4-Configurations): documentation and model configuration files for official releases of the ECCO version 4 ocean and sea-ice state estimates, by Ou Wang et al. Model configuration files allow users to reproduce the state estimate or conduct new simulation experiments.
