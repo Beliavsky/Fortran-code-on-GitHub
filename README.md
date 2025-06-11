@@ -3659,6 +3659,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [Packmol](https://github.com/m3g/packmol): creates an initial point for molecular dynamics simulations by packing molecules in defined regions of space, from Martinez Molecular Modeling Group. The packing guarantees that short range repulsive interactions do not disrupt the simulations.
 
+[Phonon-Inspired Normal Dynamics of Lattices (PINDOL)](https://github.com/acammarat/pindol): package to performs atom dynamics in the NVE and NVT ensembles, exploiting the Normal Dynamics formalism, allowing to perform ab initio molecular dynamics at the cost of molecular dynamics. An associated paper is [Integrating Newton’s equations of motion in the reciprocal space](https://pubs.aip.org/aip/jcp/article-abstract/161/8/084111/3309613/Integrating-Newton-s-equations-of-motion-in-the), by Antonio Cammarata et al., <i>Journal of Chemical Physics</i> (2024).
+
 [PIMDkk](https://github.com/kuwahatakazuaki/PIMDkk): Path Integral Molecular Dynamics program by kuwahatakazuaki. Also [PIMDanalysis2](https://github.com/kuwahatakazuaki/PIMDanalysis2) to analyze the results of PIMD simulations.
 
 [Playmol](https://github.com/atoms-ufrj/playmol): software for building molecular models, by ‪Charlles Abreu‬ et al. Molecules are created with simple scripts consisting of a small set of commands, molecular topology arises naturally when atoms are connected (automatic detection of angles and dihedrals), integration with Packmol provides a way of creating complex molecular systems, and generation of LAMMPS and OpenMM files provides a way of performing efficient MD simulations.
