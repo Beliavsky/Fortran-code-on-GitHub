@@ -5667,6 +5667,8 @@ series (or its logs) is described by a linear combination of regressors, and the
 
 [fortran-testanything](https://github.com/dennisdjensen/fortran-testanything): test library supporting the Test Anything Protocol (TAP) inspired by Perl's Test::More module, by dennisdjensen
 
+[fortran_tester](https://github.com/pdebuyl/fortran_tester): provides routines to check equality or closeness between variables and count the errors, by Pierre de Buyl
+
 [fortran_test_helper](https://github.com/jchristopherson/fortran_test_helper): library to provide assistance to testing, by Jason Christopherson
 
 [ForUnitTest](https://github.com/gha3mi/forunittest): simple, object-oriented unit testing framework, by Seyed Ali Ghasemi.
