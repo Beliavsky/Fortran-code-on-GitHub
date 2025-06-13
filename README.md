@@ -3671,6 +3671,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [QXMD](https://github.com/USCCACS/QXMD): scalable, parallel program for Quantum Molecular Dynamics simulations with various eXtensions, from USCCACS. Its simulation engine is based on (time-dependent) density functional theory using pseudopotentials and plane-wave basis, while extensions include nonadiabatic electron-nuclei dynamics and multiscale shock technique.
 
+[Reactive MultiParticle Collision Dynamics - Molecular Dynamics (RMPCDMD)](https://github.com/pdebuyl-lab/RMPCDMD): code associated with paper [RMPCDMD: Simulations of colloids with coarse-grained hydrodynamics, chemical reactions and external fields](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.142), by Pierre de Buyl et al., <i>Journal of Open Research Software</i> (2017).
+
 [Reactive_PB_NN_MD](https://github.com/jmcdaniel43/Reactive_PB_NN_MD): reactive molecular dynamics code based on PB-NN potentials, in which neural networks are utilized in the off-diagonal elements of the Hamiltonian to mediate the chemical reactions, by Sam Delmerico et al. This code uses a custom update algorithm to calculate PME forces for the diabatic states in the Hamiltonian matrix.
 
 [Relativistic and Electromagnetic Molecular Dynamics Simulation for Nanoscale Phenomena](https://github.com/Mtanaka77/Relativistic_Molecular_Dynamics_Simulation): associated paper: M. Tanaka and M. Murakami, [Relativistic and electromagnetic molecular dynamics simulations for a carbon-gold nanotube accelerator](https://www.sciencedirect.com/science/article/abs/pii/S0010465519300906), Computer Physics Communications, 241, 56-63 (2019)
