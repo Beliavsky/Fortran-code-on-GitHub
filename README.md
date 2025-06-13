@@ -5187,6 +5187,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [M_random](https://github.com/urbanjost/M_random): module of pseudo random procedures, by urbanjost
 
+[mtprng](https://github.com/pdebuyl/mtprng): Mersenne Twister RNG, by Pierre de Buyl, based on code by Scott Robert Ladd
+
 [normal-deviates](https://github.com/patti-favaron/normal-deviates): generates normal univariate and multivariate deviates, by Patrizia Favaron, using an improved Ziggurat method by Jurgen A. Doornik and the Cholesky decomposition
 
 [pcg-fortran](https://github.com/DSCF-1224/pcg-fortran): [PCG](https://www.pcg-random.org/) is a family of simple fast space-efficient statistically good algorithms for random number generation. Unlike many general-purpose RNGs, they are also hard to predict. This implementation is by DSCF_1224.
