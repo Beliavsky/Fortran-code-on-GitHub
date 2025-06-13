@@ -4874,6 +4874,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [VicsekSimulation](https://github.com/santinoacco/VicsekSimulation): Fortran & Python based simulation of a self-propelled particles system
 
+[vmf90](https://github.com/pdebuyl/vmf90): software for the numerical resolution of the Vlasov equation for mean-field systems, currently the Hamiltonian Mean-Field model and the Colson-Bonifacio model for the free electron laser. An associated paper is [The vmf90 program for the numerical resolution of the Vlasov equation for mean-field systems](https://www.sciencedirect.com/science/article/abs/pii/S0010465514000848), by Pierre de Buyl, <i>Computer Physics Communications</i> (2014).
+
 [wannchi](https://github.com/ccao/wannchi): calculates susceptibility using Wannier functions, by Chao Cao et al. RPA and self-energy correction is currently under internal tests.
 
 [WannierTools](https://github.com/quanshengwu/wannier_tools): package for novel topological materials, by QuanSheng Wu et al.
