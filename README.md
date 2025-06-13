@@ -2002,6 +2002,8 @@ This package also provides a set of tools for visualizing/converting simulation 
 
 [Passive and Active Microwave TRANsfer (PAMTRA)](https://github.com/igmk/pamtra): Python/Fortran 90 package to solve the passive and active microwave radiative transfer in a plan parallel horizontally homogeneous atmosphere with hydrometeors, by Davide Ori et al.
 
+[PCOMCOT2.1](https://github.com/yifanzhu-fluid/PCOMCOT2.1): high-efficiency parallel computer program for simulating nonlinear dispersive tsunami waves that can simulate earthquake tsunamis and general free surface water waves. An associated paper is [High-resolution tsunami hazard assessment for the Guangdong-Hong Kong-Macao Greater Bay Area based on a non-hydrostatic tsunami model](https://link.springer.com/article/10.1007/s11430-023-1300-9), by Yifan Zhu et al., <i>Science China Earth Sciences</i> (2024).
+
 [Pecube_D](https://github.com/willi-kappler/Pecube_D): version of [Pecube](https://esdynamics.geo.uni-tuebingen.de/wiki/index.php/modeling/50-pecube-table-of-contents) 3D thermal model that tracks exhumed sample cooling histories and calculated predicted cooling ages, by Todd Ehlers et al. It also allows for the simulation of topographic evolution and is (optionally) coupled with the CASCADE surface process model.
 
 [Perple_X](https://github.com/jadconnolly/Perple_X): programs for calculating phase diagrams, manipulating thermodynamic data, and modeling equilibrium phase fractionation and reactive transport, by James A. D. Connolly
