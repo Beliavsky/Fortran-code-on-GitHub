@@ -5108,6 +5108,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [qvSZP](https://github.com/grimme-lab/qvSZP): tool for setting up an [ORCA](https://www.faccts.de/orca/) calculation using the atom-in-molecule adaptive q-vSZP basis set. An associated paper is [An atom-in-molecule adaptive polarized valence single-ζ atomic orbital basis for electronic structure calculations Available to Purchase](https://pubs.aip.org/aip/jcp/article-abstract/159/16/164108/2918302/An-atom-in-molecule-adaptive-polarized-valence), by Marcel Müller et al., <i>Journal of Chemical Physics</i> (2023).
 
+[RelEPro](https://github.com/zorkzou/RelEPro): utility program to calculate one-electron properties based on the eXact 2-Component (X2C) all-electron quasi-relativistic Hamiltonian and its local approximations, by Wenli Zou.
+
 [rslmtoasa](https://github.com/rslmtoasa/rslmtoasa): ab initio code based on Linear Muffin-tin Orbitals within the Atomic Sphere Approximation. Instead of solving the eigenvalue problem by diagonalization, RS-LMTO-ASA uses the recursion method (Chebyshev or Haydock) to calculate the local density of states in real-space.
 
 [RUQT](https://github.com/HoyLab-Rowan/RUQT): performs Landauer NEGF calculations using advanced electronic structure methods particularly parametric 2-RDM (NEGF-RDM) and multi-configuration pair density functional theory (NEGF-PDFT), from HoyLab-Rowan
