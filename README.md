@@ -798,6 +798,8 @@ simulating and forecasting meteorological phenomena.
 
 [WAve Model (WAM)](https://github.com/myWAveModel/WAM): spectral wave model, by r-hartmann et al. A related paper is [The WAM Model -- A Third Generation Ocean Wave Prediction Model](https://journals.ametsoc.org/view/journals/phoc/18/12/1520-0485_1988_018_1775_twmtgo_2_0_co_2.xml), <i>Journal of Physical Oceanography</i> (1988).
 
+[wavetrisk_hydrostatic](https://github.com/kevlahan/wavetrisk_hydrostatic): dynamically adaptive wavelet-based experimental climate model that provides global three-dimensional atmosphere or ocean models, by kevlahan and Thomas Dubos. It solves the multilayer shallow water equations with Lagrangian vertical coordinates in Boussinesq form using a mimetic method similar to that of [DYNAMICO](https://github.com/terrayl/Dynamico).
+
 [weather-buoys](https://github.com/modern-fortran/weather-buoys): Processing weather buoy data in parallel, from modern-fortran
 
 [WRF](https://github.com/wrf-model/WRF): Weather Research and Forecasting (WRF) model
