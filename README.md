@@ -4988,6 +4988,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [FLOSIC2020](https://github.com/FLOSIC/PublicRelease_2020): performs self-interaction corrected (SIC) density functional approximation calculations, by Duyen Nguyen et al. Fermi Löwdin orbital implementation of Perdew-Zunger SIC scheme is used in the software.
 
+[FretLab](https://github.com/pgrobasillobre/FretLab): high-performance computational tool designed to compute electronic energy transfer (EET) rates, by Pablo Grobas Illobre
+
 [GAMMCOR](https://github.com/pernalk/GAMMCOR): [electron correlation and molecular interaction calculations](https://trex-coe.eu/sites/default/files/Webinar_Feb2023/TREX%20Code%20-%20GAMMCOR_Kasia%20Pernal.pdf), by K. Pernal et al.
 
 [gammcor-integrals](https://github.com/modrzejewski/gammcor-integrals): molecular integrals library by Marcin Modrzejewski and Michał Hapka for the Gammcor code
