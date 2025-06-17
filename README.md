@@ -4654,6 +4654,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [fort-fput](https://github.com/NotQuiteAwake/fort-fput): explores the [Fermi–Pasta–Ulam–Tsingou(FPUT) problem](https://en.wikipedia.org/wiki/Fermi%E2%80%93Pasta%E2%80%93Ulam%E2%80%93Tsingou_problem) in chaos theory by simulating a 1D chain with non-linear dynamics with symplectic integrators, by Jimmy Chen
 
+[Fortran_Journey-Quantum-Mechanics](https://github.com/physarief78/FORTRAN_JOURNEY-Quantum-Mechanics): simulates quantum mechanics problems, such as the quantum harmonic oscillator (QHO), finite and infinite quantum well, and orbitals of the hydrogen atom, by Muhammad Arief Mulyana
+
 [FortranRbSysVectors](https://github.com/ja72/FortranRbSysVectors): framework for solving systems of rigid bodies using vector mechanics, by John Alexiou. Also [RB_DiscreteMoserVeselov](https://github.com/ja72/RB_DiscreteMoserVeselov), implementing the Discrete Moser-Veselov (DMV) algorithms for the numerical solution of the equations of motion of the free rigid body, described in a 2006 [paper](https://iopscience.iop.org/article/10.1088/0305-4470/39/42/003) by Ernst Hairer and Gilles Vilmart.
 
 [fortran_udunits2](https://github.com/mfvalin/fortran_udunits2): interface by mfvalin to the [libudunits2](https://www.unidata.ucar.edu/software/udunits/) C library from Unidata that provides for arithmetic manipulation of units and for conversion of numeric values between compatible units
