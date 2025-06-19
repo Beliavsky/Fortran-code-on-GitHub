@@ -858,6 +858,8 @@ simulating and forecasting meteorological phenomena.
 ## Compiler Tests
 [AdHoc](https://github.com/rouson/bug-reports): archives ad hoc tests for modern Fortran compilers used by Sourcery Institute, Sourcery, Inc., their collaborators, sponsors, and clients. These tests emphasize support for the Fortran 2003 and 2008 standards along with features proposed for Fortran 2015 in technical specification TS 29113 Further Interoperability with C and the draft technical specification TS 18508 Additional Parallel Features in Fortran.
 
+[chk-fortran-features](https://github.com/arjenmarkus/chk-fortran-features): collection of small programs to check if a compiler support particular language features and extensions and to to test run-time behavior, by Arjen Markus
+
 [compiler-bugs](https://github.com/btrettel/compiler-bugs): bug reports for Fortran compilers made by Ben Trettel
 
 [compiler-test-suite](https://github.com/fujitsu/compiler-test-suite): test suite for C/C++/Fortran compilers developed by Fujitsu
