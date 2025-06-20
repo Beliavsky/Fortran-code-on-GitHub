@@ -3220,6 +3220,8 @@ multithreaded rendering, post-processing with OpenCV, several built-in useful fu
 ## Interpolation
 [akima](https://github.com/andrewning/akima): 1-Dimensional Akima spline implementation with derivatives not only of the function, but also with respect to the original data points, by andrewnin. An Akima spline is a polynomial spline method that avoids overshooting issues common with many other splines (e.g., cubic splines), resulting in a more natural curve. 
 
+[akima86](https://github.com/NRLMMD-GEOIPS/akima86): improved Akima method (Akima 1986) for 1-D piecewise polynomial interpolation, originally by H. Akima, updated by D. Ryglicki
+
 [bspline-fortran](https://github.com/jacobwilliams/bspline-fortran): Multidimensional B-Spline Interpolation of Data on a Regular Grid, by Jacob Williams
 
 [Delaunay Density Diagnostic (DDD)](https://github.com/LLNL/ddd): general purpose, computational approach to detecting the geometric scale of real-valued functions over a fixed domain using a deterministic interpolation technique from computational geometry. Associated paper: [Algorithm 1049: The Delaunay Density Diagnostic](https://dl.acm.org/doi/10.1145/3700134), by Andrew Gillette et al., ACM Transactions on Mathematical Software (2024).
