@@ -2993,6 +2993,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [ForImage](https://github.com/gha3mi/forimage): library for working with image files ([PNM format](https://en.wikipedia.org/wiki/Netpbm)) and managing colors effectively, by Seyed Ali Ghasemi
 
+[fortplotlib](https://github.com/krystophny/fortplotlib): native plotting inspired by [matplotlib.pyplot](https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html) and [pyplot-fortran](https://github.com/jacobwilliams/pyplot-fortran), by Christopher Albert. It also has a Python interface installable via pip that can be used as a drop-in replacement for matplotlib.pyplot for a limited set of features.
+
 [fortran2018-asymptote](https://github.com/kevinmatthes/fortran2018-asymptote): generate drawings using the [Asymptote Vector Graphics Language](https://asymptote.sourceforge.io/), by Kevin Matthes
 
 [fortran-CLI](https://github.com/tkdhss111/fortran-CLI): simple command line Interface for Fortran, by Hisashi Takeda
