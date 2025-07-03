@@ -1162,6 +1162,8 @@ and Dmitry Pavlov. It uses BFGS for local optimization and two different forms o
 
 [Traits-for-Fortran](https://github.com/difference-scheme/Traits-for-Fortran): A traits system for Fortran is described, by Konstantinos Kifonidis et al. Its aim is to endow the language with state-of-the-art capabilities for both compile-time and run-time polymorphism, that are similar to those of the Swift, Rust, Go, or Carbon languages.
 
+[unlimited_polymorphic_lists_f2008](https://github.com/paulovcmedeiros/unlimited_polymorphic_lists_f2008): doubly-linked lists for unlimited polymorphic objects, by Paulo V. C. Medeiros
+
 [VectorClass](https://github.com/thchang/VectorClass): Fortran 2003 dynamic memory array that functions similarly (but not identically) to the C++ Vector class, by Tyler Chang
 
 [Yet Another Fortran Tree (yaftree)](https://github.com/gronki/yaftree): single-module lightweight implementation of a dictionary (key--value pairs) and set (only keys), by Dominik Gronkiewicz. Some features, such as interface for popular data types (INTEGER, CHARACTER etc) are intentionally omitted to keep the size down to the minimum.
