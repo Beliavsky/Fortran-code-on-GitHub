@@ -3473,6 +3473,8 @@ low-rank nonnegative matrix completion, and low-rank matrix and tensor approxima
 
 [SOLVERS_BCGSTAB_GMRES](https://github.com/JNSresearcher/SOLVERS_BCGSTAB_GMRES): BiConjugate Gradient STABilization (BiCGSTAB) and Generalized Minimum RESidual (GMRES) methods for solving sparse linear systems, with an application to calculating of three-dimensional fields, by J. Sochor
 
+[spag_lapack](https://github.com/urbanjost/spag_lapack): experimental WIP of LAPACK processed with plusFORT spag(1) and configured to build with FPM, by urbanjost
+
 [spam: SPArse Matrix](https://github.com/cran/spam): set of R functions for sparse matrix algebra with underlying Fortran code. An associated paper is [Block Sparse Cholesky Algorithms on Advanced Uniprocessor Computers](https://epubs.siam.org/doi/10.1137/0914063), by Esmond G. Ng and Barry W. Peyton, SIAM Journal on Scientific Computing (1993).
 
 [sparse-fortran](https://github.com/scivision/sparse-fortran): sparse array examples using MUMPS, Scalapack, BLACS, PARDISO with CMake and Meson, from SciVision
