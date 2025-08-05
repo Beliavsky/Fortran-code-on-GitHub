@@ -2267,6 +2267,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [defaultModel](https://github.com/gabrielgggg/defaultModel): Fortran+OpenMP implementation of the canonical sovereign default model with long-term debt, by Gabriel Mihalache. Solved with discrete choice methods. The [MaturityExtension](https://github.com/gabrielgggg/MaturityExtension) repo is associated with the paper [Sovereign default resolution through maturity extension](https://www.sciencedirect.com/science/article/abs/pii/S0022199620300453), Journal of International Economics (2020).
 
+[economic-simulation](https://github.com/ianfr/economic-simulation): agent-based economic simulation framework leveraging CUDA Fortran and multicore processing for GPU and CPU parallelism, by Ian Friedrichs. Models based on analogies with statistical physics such as kinetic exchange, spin flips, magnetization, and more.
+
 [econ-toolchain](https://github.com/renatomatz/econ-toolchain): general tools used for structural macroeconomic modeling, including codes for global optimization, I/O, Markov chains, finding roots, golden-section search, and unit testing, by Renato Zimmermann. 
 
 [firingcosts_petit2021](https://github.com/borjapetit/firingcosts_petit2021): replication package for the working paper [Aggregate effects of firing costs with endogenous firm productivity growth (2021)](https://borjapetit.github.io/files/papers/petit_firing.pdf) by Borja Petit. The codes use OpenMP for parallelization and GNUplot to generate the graphs.
@@ -5770,4 +5772,5 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
