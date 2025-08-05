@@ -1747,6 +1747,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [fortrangis](https://github.com/ARPA-SIMC/fortrangis): collection of Fortran interfaces to some common Open Source GIS (Geographic Information System) software libraries, plus some more Fortran-specific tools, from ARPA-SIMC. The libraries interfaced at the moment are Shapelib, GDAL, Proj and ReadOSM.
 
+[Fortran Tools For Soil Science Modeling](https://github.com/SIADSiM/FortranToolsForSoilScienceModeling): collection of scientific routines for soil science modeling, by Si Mokrane Siad. The modules focus on key processes such as soil moisture balance, infiltration, temperature dynamics, nutrient cycling, and soil respiration.
+
 [Framework for Aquatic Biogeochemical Models (FABM)](https://github.com/fabm-model/fabm): Fortran 2003 programming framework for biogeochemical models of marine and freshwater systems
 
 [Flexible Snow Model (FSM2)](https://github.com/RichardEssery/FSM2): multi-physics energy balance model of snow accumulation and melt, extending the Factorial Snow Model with additional physics, driving and output options. An associated preprint is [A Flexible Snow Model (FSM 2.1.0) including a forest canopy](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2546/), by Richard Essery et al., <i>EGUsphere</i> (2024).
@@ -5768,3 +5770,4 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
