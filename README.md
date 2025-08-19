@@ -1142,6 +1142,8 @@ and Dmitry Pavlov. It uses BFGS for local optimization and two different forms o
 
 [M_hashkeys](https://github.com/urbanjost/M_hashkeys): collection of hash key generator modules, by urbanjost
 
+[mheap](https://github.com/trifling/mheap): implementation of the heap data structure, by Daniel Peña
+
 [Multidimensional Array Containers (MAC)](https://github.com/irukoa/MAC): library to create and manipulate arrays of any rank, by Álvaro R. Puente-Uriona, meant to serve as a building block for codes that expand on "rank-agnostic" programming
 
 [multidim_loop_iterator](https://github.com/grofz/multidim_loop_iterator): versatile iterator for multi-dimensional loops with customizable lower bounds, upper bounds, and strides for each dimension, by Zdenek Grof. It simplifies the process of iterating over multi-dimensional arrays by abstracting the complexities of nested loops.
@@ -5774,6 +5776,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
