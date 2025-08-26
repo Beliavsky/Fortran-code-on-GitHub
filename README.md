@@ -3007,6 +3007,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [ForImage](https://github.com/gha3mi/forimage): library for working with image files ([PNM format](https://en.wikipedia.org/wiki/Netpbm)) and managing colors effectively, by Seyed Ali Ghasemi
 
+[fortplot](https://github.com/lazy-fortran/fortplot): native plotting inspired by Python's matplotlib.pyplot and [pyplot-fortran](https://github.com/jacobwilliams/pyplot-fortran), by Christopher Albert
+
 [fortplotlib](https://github.com/krystophny/fortplotlib): native plotting inspired by [matplotlib.pyplot](https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html) and [pyplot-fortran](https://github.com/jacobwilliams/pyplot-fortran), by Christopher Albert. It also has a Python interface installable via pip that can be used as a drop-in replacement for matplotlib.pyplot for a limited set of features.
 
 [fortran2018-asymptote](https://github.com/kevinmatthes/fortran2018-asymptote): generate drawings using the [Asymptote Vector Graphics Language](https://asymptote.sourceforge.io/), by Kevin Matthes
@@ -5780,6 +5782,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
