@@ -2373,6 +2373,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 [Fortran Logging Library: Flogging](https://github.com/cmacmackin/flogging): provides an easy-to-use interface for logging events and errors in Fortran applications and libraries, by Chris MacMackin. Its use and functionality is similar to that of [logging](https://docs.python.org/2/library/logging.html) library in Python.
 
 ## Expression Parsers
+[fortfront](https://github.com/lazy-fortran/fortfront): transforms lazy Fortran with optional variable declarations to standard Fortran via a command line interface, by Christopher Albert
+
 [Fortran Equation Parser (feqparse)](https://github.com/FluidNumerics/feq-parse): equation parser Fortran class that is used to interpret and evaluate functions provided as strings, by Joe Schoonover 
 
 [fortran_function_parser](https://github.com/jacobwilliams/fortran_function_parser): function parser module by Jacob Williams is intended for applications where a set of mathematical fortran-style expressions is specified at runtime and is then evaluated for a large number of variable values. This is done by compiling the set of function strings into byte code, which is interpreted efficiently for the various variable values.
@@ -5778,6 +5780,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
