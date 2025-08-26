@@ -4332,6 +4332,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [IntroMPI](https://github.com/WarwickRSE/IntroMPI): codes from the [Introduction to MPI](https://warwick.ac.uk/research/rtp/sc/rse/training/intrompi/) course, by Heather Ratcliffe and Chris Brady. A follow-up is [IntermediateMPI-new](https://github.com/WarwickRSE/IntermediateMPI-new), which has the C and Fortran codes discussed in the talks, suggestions for exploring MPI types and Domain Decomposition problems, and scripts for using MPI on cluster systems.
 
+[Laplace2D](https://github.com/dswesty/Laplace2D): parallel, 2D Laplace equation solver using MPI message passing, by F. D. Swesty
+
 [lecture_fortran2gpu](https://github.com/kazuya-yamazaki/lecture_fortran2gpu): codes from a seminar "Migrating Fortran Programs Parallelized with MPI+OpenMP to GPUs" in Japanese, by Kazuya Yamazaki
 
 [matmul_fortran_tensor_core](https://github.com/samhatfield/matmul_fortran_tensor_core): Example code for calling Tensor Core GEMM from Fortran, by Sam Hatfield
@@ -5786,6 +5788,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
