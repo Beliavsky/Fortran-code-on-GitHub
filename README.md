@@ -2796,9 +2796,9 @@ present simple ways to locate and correct those errors without the use of any de
 
 [f90getopt](https://github.com/haniibrahim/f90getopt): getopt()- and getopt_long()-like functionality (similar to the C-functions) for Fortran 90, by Hani Andreas Ibrahim
 
-[fArgParse](https://github.com/Goddard-Fortran-Ecosystem/fArgParse): command line argument parsing for Fortran, from Goddard-Fortran-Ecosystem
-
 [FACE](https://github.com/szaghi/FACE): Ansi Colors and Styles Environment, by szaghi et al.
+
+[fArgParse](https://github.com/Goddard-Fortran-Ecosystem/fArgParse): command line argument parsing for Fortran, from Goddard-Fortran-Ecosystem
 
 [files_f90](https://github.com/jordan4ibanez/files_f90): directory reader by jordan4ibanez
 
@@ -2841,6 +2841,8 @@ present simple ways to locate and correct those errors without the use of any de
 [Fortran pathlib](https://github.com/scivision/fortran-pathlib): Filesystem path manipulation utilities for standard Fortran, from scivision. Inspired by Python pathlib and C++17 filesystem.
 
 [fortran-requests](https://github.com/14NGiestas/fortran-requests): analog to the Python [requests](https://pypi.org/project/requests/) module, by Ian Giestas Pauli -- a work in progress
+
+[fortran_script](https://github.com/sdm900/fortran_script): Fortran-like scripting language, by Stuart Midgley. Also [https://github.com/sdm900/fortran_parser](fortran_parser), a math function parser.
 
 [fortran-sigwatch](https://github.com/scivision/fortran-sigwatch): library of routines to provide simple signal watching for Fortran programs, originally by Norman Gray, modified by Michael Hirsch. This allows a minimal level of control of a running program from outside it, for example to tell it to checkpoint itself on receipt of a signal.
 
@@ -5776,6 +5778,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
