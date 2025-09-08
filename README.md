@@ -4136,7 +4136,9 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [libdogleg-f](https://github.com/ivan-pi/libdogleg-f): Fortran bindings to libdogleg - a large-scale nonlinear least-squares optimization library, by Ivan Pribec. Currently only the dense optimizer calls are supported.
 
-[libga](https://github.com/ramos/libga): genetic algorithm optimisation library by Alberto Ramos 
+[libga](https://github.com/ramos/libga): genetic algorithm optimisation library by Alberto Ramos
+
+[LightConvex](https://github.com/loiseaujc/LightConvex): convex programming solvers that provide an easy-to-use API for solving both dense and sparse convex programs, by Jean-Christophe Loiseau
 
 [limSolve](https://cran.r-project.org/web/packages/limSolve/index.html): R package with Fortran code for finding the minima of linear or quadratic functions subject to linear equality and inequality constraints, by Karline Soetaert et al.
 
@@ -5788,6 +5790,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
