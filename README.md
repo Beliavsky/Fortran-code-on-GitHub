@@ -4142,6 +4142,8 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [limSolve](https://cran.r-project.org/web/packages/limSolve/index.html): R package with Fortran code for finding the minima of linear or quadratic functions subject to linear equality and inequality constraints, by Karline Soetaert et al.
 
+[linprog](https://github.com/loiseaujc/linprog): simplex solver for linear programming, by Jean-Christophe Loiseau
+
 [LMBM](https://github.com/wilmerhenao/LMBM): Limited Memory Bundle Method for general, possible nonconvex, nonsmooth (nondifferentiable) large-scale minimization, by Napsu Karmitsa. Her [site](http://napsu.karmitsa.fi/) has other codes for nonsmooth optimization, clustering, regression, and imputation
 
 [Method of Moving Asymptotes (MMA-in-Fortran)](https://github.com/jeffreyguevaracorzo/MMA-in-Fortran): subroutines by Jeffrey Guevara-Corzo that are adaptations/translations of Matlab code associated with the paper [A class of globally convergent optimization methods based on conservative convex separable approximations](https://epubs.siam.org/doi/abs/10.1137/S1052623499362822?download=true&journalCode=sjope8), by Krister Svanberg, SIAM Journal of Optimization (2002)
@@ -5790,6 +5792,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
