@@ -3899,6 +3899,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [fortran-primes](https://github.com/perazz/fortran-primes): library to return the nth prime number, the prime numbers in a range, test if a number is prime, return the nth prime number greater than a specified number, and factor a number into primes, by Federico Perini, based in part on codes by Michal Forisek, David Deley and Primes.jl
 
+[fortran_rationals](https://github.com/willklausler/fortran_rationals): implements rationals number as a numeric type, useful for lossless computations, by Will Klausler. Arithmetic procedures are all pure and elemental.
+
 [fortran_toolkit](https://github.com/borjapetit/fortran_toolkit): modules for statistics, linear algebra, optimization and other topics, by Borja Petit
 
 [ForTrilinos](https://github.com/trilinos/ForTrilinos): provides Fortran interfaces for the following capabilities of the C++ [Trilinos](https://trilinos.github.io/) library: Parameter lists and XML parsers (through Teuchos); Distributed linear algebra object including sparse graphs, sparse matrices, and dense vectors (through Tpetra); Linear solvers and preconditioners (through Stratimikos, Ifpack2, Belos, MueLu); and Eigen solvers (through Anasazi).
@@ -5796,6 +5798,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
