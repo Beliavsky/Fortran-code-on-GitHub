@@ -2596,6 +2596,10 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [Finite Element Multiphysics PARallel solvers (FEMPAR)](https://github.com/fempar/fempar): scientific software for the simulation of problems governed by partial differential equations (PDEs). It provides a set of state-of-the-art numerical discretizations, including finite element methods, discontinuous Galerkin methods, XFEM, and spline-based functional spaces.
 
+[fortran_cubatures](https://github.com/willklausler/fortran_cubatures): numerical integration - primarily Gaussian integration - derived type for finite elements in 1 to 3 dimensions, by Will Klausler. Unit tests verify sum of weights, abscissae means, and polynomial integration.
+
+[fortran_shapefuncs](https://github.com/willklausler/fortran_shapefuncs): interpolation function derived type for standard domains (Lagrange) and infinite domains for finite elements in 1 to 3 dimensions, providing the functions as well as first and second derivatives with respect to the natural coordinates, by Will Klausler.
+
 [FrontISTR](https://github.com/FrontISTR/FrontISTR): Large-Scale Parallel FEM Program for Nonlinear Structural Analysis, by Naoki Morita et al.
 
 [hp3d](https://github.com/Oden-EAG/hp3d): scalable MPI/OpenMP hp-adaptive finite element software library for complex multiphysics applications, by Stefan Henneking et al.
@@ -5792,6 +5796,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
