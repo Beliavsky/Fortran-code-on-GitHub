@@ -281,6 +281,8 @@ M. Fenucci and B. Novaković, <i>Serbian Astronomical Journal</i> (2022)
 
 [Multi-channel Image Reconstruction, Image Analysis, and Display (MIRIAD)](https://github.com/astroumd/miriad): radio interferometry data-reduction package, designed for taking raw data through to the image analysis stage, by Bob Sault et al.
 
+[miriad](https://github.com/csiro/miriad): radio astronomy data reduction package designed for calibration, imaging, and analysis of interferometric observations. from CSIRO
+
 [myRadex](https://github.com/fjdu/myRadex): similar to [radex](https://github.com/uclchem/SpectralRadex), with a different way to solve the statistical equilibrium problem, by Fujun Du
 
 [NASA Ames Mars Global Climate Model (AmesGCM)](https://github.com/nasa/AmesGCM): simulates the atmosphere and climate of the planet Mars using an external finite volume dynamical core to predict the global atmospheric state given various planetary parameters and physical parameters.
@@ -5798,6 +5800,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
