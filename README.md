@@ -1753,6 +1753,8 @@ An associated paper is [Glacial inception through rapid ice area increase driven
 
 [fortrangis](https://github.com/ARPA-SIMC/fortrangis): collection of Fortran interfaces to some common Open Source GIS (Geographic Information System) software libraries, plus some more Fortran-specific tools, from ARPA-SIMC. The libraries interfaced at the moment are Shapelib, GDAL, Proj and ReadOSM.
 
+[Fortran FROzen Ground model (FROG)](https://github.com/dmr-dj/FROG): re-implementation of the initial VAMPER Ground Temperature Model that been expanded to include cryoturbation of carbon in the soil, by Didier M. Roche et al.
+
 [Fortran Tools For Soil Science Modeling](https://github.com/SIADSiM/FortranToolsForSoilScienceModeling): collection of scientific routines for soil science modeling, by Si Mokrane Siad. The modules focus on key processes such as soil moisture balance, infiltration, temperature dynamics, nutrient cycling, and soil respiration.
 
 [Framework for Aquatic Biogeochemical Models (FABM)](https://github.com/fabm-model/fabm): Fortran 2003 programming framework for biogeochemical models of marine and freshwater systems
@@ -2236,8 +2238,6 @@ diffusive or non-diffusive, that appear in modeling planetary radiation belts, b
 [uclales](https://github.com/uclales/uclales): large eddy simulation code for atmospheric flow
 
 [Utrecht FinitE voluMe Ice-Sheet Model (UFEMISM 2.0)](https://github.com/IMAU-paleo/UFEMISM2.0): ice-sheet-shelf model that solves the hybrid SIA/SSA ice-dynamical equations on a dynamic adaptive grid. Reference: The Utrecht Finite Volume Ice-Sheet Model: UFEMISM (version 1.0), by Constantijn J. Berends, Heiko Goelzer, and Roderik S. W. van de Wal1, Geosci. Model Dev., 14, 2443–2470, 2021 https://doi.org/10.5194/gmd-14-2443-2021
-
-[VAMPER](https://github.com/dmr-dj/VAMPER-v2): numerical ground temperature model by Didier M. Roche et al.
 
 [VolcGases](https://github.com/Nicholaswogan/VolcGases): Python wrapper to a Fortran program that calculates the gases produced by a volcano, by Nick Wogan. [Reference](https://iopscience.iop.org/article/10.3847/PSJ/abb99e/meta): "Abundant Atmospheric Methane from Volcanism on Terrestrial Planets Is Unlikely and Strengthens the Case for Methane as a Biosignature", by Nicholas Wogan, Joshua Krissansen-Totton, and David C. Catling, Published 2020 October 29, The Planetary Science Journal, Volume 1, Number 3
 
@@ -5800,6 +5800,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
