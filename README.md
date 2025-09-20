@@ -311,6 +311,8 @@ M. Fenucci and B. Novaković, <i>Serbian Astronomical Journal</i> (2022)
 
 [Pade-disk-code](https://github.com/NASA-Planetary-Science/Pade-disk-code): simulates hydrodynamic turbulence in protoplanetary disks using a Pade/compact scheme, by Karim Shariff
 
+[PATMO](https://github.com/SophiaAtmo/PATMO): flexible code aimed at modelling 1D planetary atmospheres including (photo)chemistry, molecular/eddy diffusion, and multi-frequency radiative transfer, by Tommaso Grassi. It is partially based on [KROME](https://www.kromepackage.org/), as it produces optimized problem-dependent Fortran code by using a Python pre-processor.
+
 [phantom](https://github.com/danieljprice/phantom): 3D Smoothed Particle Hydrodynamics and Magnetohydrodynamics code for astrophysics, by Daniel Price and others
 
 [PhotochemPy](https://github.com/Nicholaswogan/PhotochemPy): photochemical model of rocky planet's atmospheres, by Nicholaswogan. Given inputs, like the stellar UV flux, the atmospheric temperature structure, etc., this code will find the steady-state chemical composition of an atmosphere, or evolve atmospheres through time. [Photochem](https://github.com/Nicholaswogan/photochem) is a rewrite in modern Fortran.
@@ -5800,6 +5802,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
