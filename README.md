@@ -1543,7 +1543,7 @@ memory-safe design using value types instead of pointers.
 [time-f](https://github.com/0382/time-f): wraps time.h of the C standard library, by 0382
 
 ## Earth Science
-[1976-standard-atmosphere](https://github.com/jacobwilliams/1976-standard-atmosphere): U.S. Committee on Extension to the Standard Atmosphere (COESA) atmosphere model, translated by Jacob Williams from the Julia code from [COESA.jl](https://github.com/jacobwilliams/1976-standard-atmosphere)
+[1976-standard-atmosphere](https://github.com/jacobwilliams/1976-standard-atmosphere): U.S. Committee on Extension to the Standard Atmosphere (COESA) atmosphere model, translated by Jacob Williams from the Julia code from [COESA.jl](https://github.com/danielmatz/COESA.jl)
 
 [1D3CSEM](https://github.com/elifo/1D3CSEM): one-dimensional (1D) three-component (3C) spectral element modeling (SEM) of seismic wave propagation in nonlinear media with pore-pressure effects, by Elif Oral, extending a code by Elise Delavaud
 
@@ -5806,6 +5806,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
