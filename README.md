@@ -118,6 +118,8 @@
 
 [code-ans-qnm-share](https://github.com/SYLau/code-ans-qnm-share): computes quasi-normal modes of anisotropic neutron stars, by Vincent Lau Shu Yan
 
+[Collinear-Lagrange-Points](https://github.com/tstenborg/Collinear-Lagrange-Points): command line application demonstrating Newton-Raphson convergence on collinear solutions to the circular restricted three-body problem, by Travis Stenborg. Optional displacement of the collinear Lagrange points due to radiation pressure, relevant to small bodies such as asteroidal dust particles, is incorporated.
+
 [Commander](https://github.com/Cosmoglobe/Commander): optimal Monte-carlo Markov chAiN Driven EstimatoR which implements fast and efficient end-to-end CMB posterior exploration through Gibbs sampling, from Cosmoglobe
 
 [Compact Object Synthesis and Monte Carlo Investigation Code (COSMIC)](https://github.com/COSMIC-PopSynth/COSMIC): rapid binary population synthesis suite with a special purpose of generating realistic compact binary populations. COSMIC can also be used to evolve binaries with BSE in a python environment.
@@ -5808,6 +5810,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
