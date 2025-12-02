@@ -3334,6 +3334,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [bddcml](https://github.com/sistek/bddcml): massively parallel solver of systems of linear equations using Multilevel Balancing Domain Decomposition based on Constraints (BDDC), by sistek
 
+[BLAS77Interface](https://github.com/foxtran/BLAS77Interface/): modules and wrappers for BLAS and LAPACK routines, by foxtran and acidicMercury8. The goal is to expose all BLAS/LAPACK interfaces through type-safe Fortran modules, enabling safer usage of BLAS/LAPACK and optional masking or renaming of BLAS/LAPACK symbols.
+
 [blas-interface](https://github.com/awvwgk/blas-interface): interface declarations for basic linear algebra subprograms, by Sebastian Ehlert
 
 [blis-fortran](https://github.com/ivan-pi/blis-fortran): prototype bindings by Ivan Pribec for the [BLIS](https://github.com/flame/blis) (BLAS-like Library Instantiation Software) framework, that can be used to perform high-performance dense linear algebra operations via a BLAS-like API
@@ -5814,6 +5816,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
