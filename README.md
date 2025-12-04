@@ -5096,6 +5096,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [libconeangle](https://github.com/kjelljorner/libconeangle): library for calculating exact ligand cone angles according to the paper Bilbrey, J. A.; Kazez, A. H.; Locklin, J.; Allen, W. D. [Exact Ligand Cone Angles.](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.23217) Journal of Computational Chemistry 2013, 34 (14), 1189–1197.
 
+[metalquicha](https://github.com/JorgeG94/metalquicha): quantum chemistry backend with a focus on using the [pic](https://github.com/JorgeG94/pic) library and its derivatives: [pic-mpi](https://github.com/JorgeG94/pic-mpi) and [pic-blas](https://github.com/JorgeG94/pic-blas) which are Fortran-based implementations of commonly used routines such as sorting algorithms, array handling, strings, loggers, timers, etc., by Jorge Luis Gálvez Vallejo
+
 [Merced Quantum Chemistry Package (mqcPack)](https://github.com/MQCPack/mqcPack): objects and procedures to streamline develoments of quantum chemical methodologies, by Lee M. Thompson et al. MQC is built using object-orientated Fortran
 
 [Molecular Orbital KIT (MOKIT)](https://github.com/1234zou/MOKIT): utilities and modules to transfer MOs among various quantum chemistry software packages, by jxzou. In addition, the automr program in MOKIT can set up and run common multi-reference calculations in a block-box way.
@@ -5816,6 +5818,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
