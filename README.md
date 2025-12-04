@@ -5098,6 +5098,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [Merced Quantum Chemistry Package (mqcPack)](https://github.com/MQCPack/mqcPack): objects and procedures to streamline develoments of quantum chemical methodologies, by Lee M. Thompson et al. MQC is built using object-orientated Fortran
 
+[metalquicha](https://github.com/JorgeG94/metalquicha): quantum chemistry backend with a focus on using the [pic](https://github.com/JorgeG94/pic) library and its derivatives: [pic-mpi](https://github.com/JorgeG94/pic-mpi) and [pic-blas](https://github.com/JorgeG94/pic-blas) which are Fortran-based implementations of commonly used routines such as sorting algorithms, array handling, strings, loggers, timers, etc., by Jorge Luis Gálvez Vallejo
+
 [Molecular Orbital KIT (MOKIT)](https://github.com/1234zou/MOKIT): utilities and modules to transfer MOs among various quantum chemistry software packages, by jxzou. In addition, the automr program in MOKIT can set up and run common multi-reference calculations in a block-box way.
 
 [Molecular Orbital PACkage (MOPAC)](https://github.com/openmopac/MOPAC): general-purpose semiempirical molecular orbital package for the study of solid state and molecular structures and reactions.  The semiempirical Hamiltonians MNDO, AM1, PM3, PM6, RM1, MNDO-d, and PM7 are used in the electronic part of the calculation to obtain molecular orbitals, the heat of formation and its derivative with respect to molecular geometry.
@@ -5816,6 +5818,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
