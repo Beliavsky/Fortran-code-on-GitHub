@@ -1493,6 +1493,8 @@ engine, by montagdude and Geoff Sokoll
 [WABBIT](https://github.com/adaptive-cfd/WABBIT): Wavelet Adaptive Block-Based solver for Interactions with Turbulence, from adaptive-cfd
 
 ## Cryptography
+[compliancefort](https://github.com/ArturInspector/compliancefort): production-ready Zero-Knowledge proof system built with Fortran for maximum performance, exposed via modern REST API, by ArturInspector
+
 [fldpc](https://github.com/moriglia/fldpc): LDPC (Low-Density Parity-Check) decoder (coset decoding with syndrome), by Marco Origlia
 
 [Fortran77-Enigma](https://github.com/barrettotte/Fortran77-Enigma): Enigma machine emulator in FORTRAN 77, by Barrett Otte
@@ -5820,6 +5822,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
