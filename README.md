@@ -884,6 +884,8 @@ simulating and forecasting meteorological phenomena.
 
 [fortran-wringer-tests](https://github.com/klausler/fortran-wringer-tests): collection of non-portable Fortran usage, standard-conformant or otherwise, by Peter Klausler, accumulated during the development of the f18 Fortran compiler (also known as "LLVM Flang")
 
+[gfortran-testsuite](https://github.com/lazy-fortran/gfortran-testsuite): GNU Fortran (gfortran) test suite from GCC, enabling testing of any gfortran-compatible compiler without building GCC, by Christopher Albert
+
 [infnan](https://github.com/zaikunzhang/infnan): functions for checking Inf/NaN, Zaikun Zhang. They should work even if the compilers are invoked with aggressive optimization flags such as `gfortran -Ofast`.
 
 [lfortran](https://github.com/lfortran/lfortran): integration tests of the LFortran compiler, by Ondřej Čertík et al., are [here](https://github.com/lfortran/lfortran/tree/48c6778773c167bd5396f3508e30062c7d167074/integration_tests)
@@ -5818,6 +5820,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
