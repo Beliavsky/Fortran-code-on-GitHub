@@ -5382,6 +5382,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [ellipFor](https://github.com/seantrim/ellipFor): evaluates Legendre elliptic integrals and Jacobi elliptic functions for generalized input parameters, by Sean Trim
 
+[elliptic_k_using_agm_fortran](https://github.com/DSCF-1224/elliptic_k_using_agm_fortran): library for computing the complete elliptic integral of the first kind using Arithmetic–Geometric Mean (AGM), by DSCF_1224
+
 [fortran-bessels](https://github.com/perazz/fortran-bessels): Fortran port (stub) of the Bessels.jl repository, by Federico Perini et al.
 
 [gamma_f77](https://github.com/ckormanyos/gamma_f77): implements the real-valued Gamma function in quadruple-precision, by Christopher Kormanyos
@@ -5826,6 +5828,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
