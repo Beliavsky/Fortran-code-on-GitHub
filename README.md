@@ -4338,6 +4338,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Fortran Coarray and MPI Examples](https://github.com/scivision/fortran-coarray-mpi-examples) from scivision
 
+[Fortran MPI exploration](https://github.com/MatthAlex/mpi-project-exploration): explores a simple MPI cartesian grid with halo region updates, mpi_f08, havaita, some clever encapsulation, and general project structure and architecture, by MatthAlex
+
 [Fortran UNified Device Acceleration Library (FUNDAL)](https://github.com/szaghi/FUNDAL): seamlessly unifies OpenACC and OpenMP runtime routines calling in order to minimize end-user's effort in developing device-offloaded applications, by Francesco Salvadore et al.
 
 [Framework for Extensible Asynchronous Task Scheduling (FEATS)](https://github.com/sourceryinstitute/FEATS): project to develop a parallel Fortran 2018 asynchronous, task-scheduling framework for use in a range of applications, from sourceryinstitute
@@ -4372,11 +4374,11 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [miniWeather](https://github.com/mrnorman/miniWeather): mini app simulating weather-like flows for training in parallelizing accelerated HPC architectures, by mrnorman. Currently includes MPI (C, Fortran, and C++), OpenACC Offload (C and Fortran), OpenMP Threading (C and Fortran), OpenMP Offload (C and Fortran), and C++ Portability.
 
-[Fortran MPI exploration](https://github.com/MatthAlex/mpi-project-exploration): explores a simple MPI cartesian grid with halo region updates, mpi_f08, havaita, some clever encapsulation, and general project structure and architecture, by MatthAlex
-
 [MPI-course](https://github.com/SNIC-MPI-course/MPI-course): material for the course [An introduction to parallel programming using Message Passing with MPI](https://www.pdc.kth.se/about/events/training/an-introduction-to-parallel-programming-using-message-passing-with-mpi-1.1103658)
 
 [mpi_examples](https://github.com/maruthinh/mpi_examples): MPI examples: Bcast, Point-to-point communication, Scattering and Gathering 2D and 3D arrays with variable chunk sizes, and MPI Derived data types: MPI_Type_contiguous, MPI_Type_create_subarray, MPI_Type_resized, by maruthinh
+
+[mpif](https://github.com/eschnett/mpif): provides Fortran bindings for MPI, given any C implementation of MPI, by Erik Schnetter
 
 [mpifort-io-example](https://github.com/dliptai/mpifort-io-example): example of how to parallel read/write 3D arrays (plus a header) with MPI-IO, by David Liptai
 
@@ -5824,6 +5826,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
