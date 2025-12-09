@@ -3102,6 +3102,8 @@ multithreaded rendering, post-processing with OpenCV, several built-in useful fu
 
 [ogpf](https://github.com/kookma/ogpf): Object-Based Interface to GnuPlot from Fortran, by kookma
 
+[pgex001](https://github.com/FraLaz1971/pgex001): pgplot examples, by Francesco Lazzarotto
+
 [PGPLOT](https://github.com/astroumd/pgplot): library for making simple scientific graphs. This version has patches by Peter Teuben et al.
 
 [PG2PLplot](https://github.com/AstroFloyd/PG2PLplot): facilitate the transition from Fortran code linked against [PGPlot](https://sites.astro.caltech.edu/~tjp/pgplot/) to linking it against [PLplot](http://plplot.sourceforge.net/), which is open source and maintained. Currently, many PGPlot routines are included, but the code is by no means exhaustive.
@@ -5822,6 +5824,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
