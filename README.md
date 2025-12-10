@@ -5361,6 +5361,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [fortran-search-and-sort](https://github.com/jacobwilliams/fortran-search-and-sort): Searching and sorting with modern Fortran, by Jacob Williams
 
+[fortran-timsort](https://github.com/suzuyuyuyu/fortran-timsort): hybrid sorting algorithm derived from merge sort and insertion sort, by Yuta Suzuki. Also [fortran-introsort](https://github.com/suzuyuyuyu/fortran-introsort), a hybrid of quick, heap, and insertion sort, and [fortran-mergesort](https://github.com/suzuyuyuyu/fortran-mergesort).
+
 [fsort](https://github.com/snljty/fsort): uses three different sorting methods to maximize speed within memory constraints, based on the size of the array, by Mingda Zhang
 
 [heapsort](https://github.com/sag2021/heapsort): heap sort, by Stuart A. Gilchrist. The subroutine returns a sorted vector and a vector that maps positions in the sorted vector back to the original.
@@ -5828,6 +5830,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
