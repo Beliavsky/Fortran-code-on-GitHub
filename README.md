@@ -5499,6 +5499,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [gslib2.0: Geostatistical Software Library](https://github.com/exepulveda/gslib2.0): aims to create a modern version of the original GSLIB source code, by exepulveda
 
+[HPCSeriesCore](https://github.com/hpcseries/HPCSeriesCore): CPU-optimized statistical computing library for massive datasets (10M+ records), by Samkelo Jiyane. Provides 2-100x speedup over NumPy/Pandas through SIMD vectorization (AVX2/AVX-512/NEON), OpenMP parallelization, and cache-optimized algorithms.
+
 [inference](https://github.com/tloredo/inference): Python modules for statistical inference, including the Parametric Inference Engine (PIE), with underlying Fortran code, by Tom Loredo
 
 [islasso](https://github.com/cran/islasso): R package with underlying Fortran code applying the induced smoothing (IS) idea to lasso regularization models to allow estimation and inference on the model coefficients (currently hypothesis testing only), by Gianluca Sottile. Linear, logistic, Poisson and gamma regressions with several link functions are implemented.
@@ -5832,6 +5834,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
