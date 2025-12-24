@@ -847,6 +847,8 @@ simulating and forecasting meteorological phenomena.
 
 [m_err2](https://github.com/mgoonde/m_err2): independent error-storing and reporting type, using the __FILE__ and __LINE__ macros of the C-preprocessor, by Miha Gunde
 
+[mk-fdeps](https://github.com/lsmenicucci/mk-fdeps): extracts dependencies between Fortran program units across multiple free format source files and generates corresponding Make recipes, by Lucas Menicucci. Preprocessing and submodules are supported.
+
 [prep](https://github.com/urbanjost/prep): streamlined pre-processor primarily designed for use with Fortran, by urbanjost. It does not support procedural macros but does support variable substitution and reusable free-format text blocks which allows for basic templating as well as easy construction of multi-line CHARACTER variables; and is quite capable of supporting traditional conditional compilation.
 
 [progress-bar](https://github.com/zoziha/progress-bar): simple progress bar module that is typically used to display the time integration process, by zoziha
@@ -5834,6 +5836,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
