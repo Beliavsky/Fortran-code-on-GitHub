@@ -2925,6 +2925,8 @@ unit testing, by Vladimir Terzi
 
 [JAMS](https://github.com/mcuntz/jams_fortran): collection of general Fortran modules offering miscellaneous functions in the categories Computational, Date and Time, Input / Output, Math / Numerics, Screening, Sensitivity Analysis and Optimising / Fitting, and Miscellaneous. Written by Matthias Cuntz, Juliane Mai and Stephan Thober
 
+[jflib](https://github.com/jabbalaci/jflib): utility library with assertions, constants, type conversions, string methods, a variable-length string type, and simpler command-line arguments, by Laszlo Szathmary
+
 [jlib](https://github.com/jhthorpe/jlib): modules for buffers, file I/O, and memory management, by jhthorpe
 
 [json-fortran](https://github.com/jacobwilliams/json-fortran): user-friendly, thread-safe, and object-oriented API for reading and writing JSON files, written in modern Fortran, by Jacob Williams
@@ -5836,6 +5838,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
