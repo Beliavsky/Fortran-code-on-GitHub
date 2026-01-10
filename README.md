@@ -2828,6 +2828,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [FACE](https://github.com/szaghi/FACE): Ansi Colors and Styles Environment, by szaghi et al.
 
+[facsimile](https://github.com/FortranGoingOnForty/facsimile): terminal text editor with VSCode-style key bindings, by Matthew Forrester Wolffe
+
 [fArgParse](https://github.com/Goddard-Fortran-Ecosystem/fArgParse): command line argument parsing for Fortran, from Goddard-Fortran-Ecosystem
 
 [files_f90](https://github.com/jordan4ibanez/files_f90): directory reader by jordan4ibanez
@@ -5840,6 +5842,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
