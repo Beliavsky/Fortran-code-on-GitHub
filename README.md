@@ -2913,6 +2913,8 @@ unit testing, by Vladimir Terzi
 
 [funx](https://github.com/tranqv/funx): Unix commands from Fortran via calls to C, by tranqv
 
+[fuss](https://github.com/FortranGoingOnForty/fuss): interactive tree utility for quick staging dirty git files, by Matthew Forrester Wolffe
+
 [Futilities: unsorted Fortran utility modules](https://github.com/eatdust/futilities): codes for multidimensional spline interpolation and integration, successive over-relaxation solution of partial differential equations, a First In First Out memory buffer, a basic Message Passing Interface (MPI) queue scheduler, shuffle array indices, flatten a multidimensional array into 1D and revert the operation, and other topics, by Chris Ringeval
 
 [Futility](https://github.com/CASL/Futility): utilities for definition of kinds for intrinsic numeric data types, a unit test harness, definitions for some basic extensions to the Fortran language, geometry definitions and intersection routines, file wrapper functions, parallel wrapper functions, math utilities, a lightweight profiling interface, and other miscellaneous routines, from CASL
@@ -5844,6 +5846,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
