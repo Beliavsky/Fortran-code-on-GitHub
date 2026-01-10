@@ -2393,6 +2393,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 ## Expression Parsers
 [calmat](https://github.com/hassaniriad/calmat): evaluates an expression or a set of expressions involving operations between matrices, vectors or scalars of any type (integer, real, complex, logical or character string), using a language borrowed from Matlab/Scilab (including two control structures: for loop and if-then-elseif constructs), by Riad Hassani
 
+[fortbite](https://github.com/FortranGoingOnForty/fortbite): command-line calculator that handles arbitrary precision arithmetic, complex numbers, and matrices, by Matthew Forrester Wolffe
+
 [fortfront](https://github.com/lazy-fortran/fortfront): transforms lazy Fortran with optional variable declarations to standard Fortran via a command line interface, by Christopher Albert
 
 [Fortran Equation Parser (feqparse)](https://github.com/FluidNumerics/feq-parse): equation parser Fortran class that is used to interpret and evaluate functions provided as strings, by Joe Schoonover
@@ -5848,6 +5850,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
