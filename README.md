@@ -2890,6 +2890,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [fortran-zlib](https://github.com/interkosmos/fortran-zlib): collection of Fortran 2018 ISO_C_BINDING interfaces to selected zlib functions, by interkosmos. Zlib is a lossless data-compression library.
 
+[fortress](https://github.com/FortranGoingOnForty/fortress): command-line file explorer with fzf integration and git binds for fast staging and committing, by Matthew Forrester Wolffe
+
 [ForTime](https://github.com/gha3mi/fortime): provides a timer object for measuring elapsed time, by Seyed Ali Ghasemi. It includes procedures for starting and stopping the timer, as well as calculating and printing the elapsed time in seconds.
 
 [fortsh](https://github.com/FortranGoingOnForty/fortsh): posix shell balanced for parity and friendliness, by Matthew Forrester Wolffe
@@ -5842,6 +5844,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
