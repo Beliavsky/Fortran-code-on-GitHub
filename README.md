@@ -2397,6 +2397,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [fortfront](https://github.com/lazy-fortran/fortfront): transforms lazy Fortran with optional variable declarations to standard Fortran via a command line interface, by Christopher Albert
 
+[fortran-calc](https://github.com/muhammad-fiaz/fortran-calc): command-line mathematical expression evaluator, by Muhammad Fiaz
+
 [Fortran Equation Parser (feqparse)](https://github.com/FluidNumerics/feq-parse): equation parser Fortran class that is used to interpret and evaluate functions provided as strings, by Joe Schoonover
 
 [Fortran-Expression-Evaluator](https://github.com/ivomarb/Fortran-Expression-Evaluator): expression evaluator / interpreter, by Wilton Pereira da Silva et al.
@@ -5850,6 +5852,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
