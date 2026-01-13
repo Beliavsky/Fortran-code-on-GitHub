@@ -3951,6 +3951,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [ieee_class_fortran](https://github.com/DSCF-1224/ieee_class_fortran): additional functions for [ieee_class_type](https://www.ibm.com/docs/en/xl-fortran-linux/16.1.1?topic=constants-ieee-class-type), by DSCF-1224
 
+[knuth-eve-algorithm](https://github.com/ammrat13/knuth-eve-algorithm): implements the preprocessing ("encoder") portion of the Knuth-Eve algorithm, by Ammar Ratnani. The algorithm aims to minimize the number of operations required to evaluate a some fixed polynomial at an arbitrary real number. 
+
 [library](https://github.com/alexander-mead/library): code for array operations, numerical differentiation and integration, mathematical and physical constants, FFTs, interpolation, optimization, ODEs, finding roots, random number generation, sorting, statistics, strings, and other topics, by Alexander Mead
 
 [Library of Numerical Analysis - Moscow State University](https://github.com/VadimAnIsaev/Library-of-Numerical-Analysis-MSU): Translation of subroutines into modern Fortran (Fortran90 or higher) from Fortran 66. Original website: http://num-anal.srcc.msu.ru/lib_na/cat/cat0.htm
@@ -5852,6 +5854,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
