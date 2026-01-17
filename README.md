@@ -4022,6 +4022,8 @@ ACM Trans. Math. Softw. (2023).
 
 [SLATEC](https://github.com/MehdiChinoune/SLATEC): comprehensive software library containing over 1400 general purpose mathematical and statistical routines, translated to modern Fortran by Mehdi Chinoune
 
+[SLATEC](https://github.com/Zaneham/SLATEC): modernization of the SLATEC Common Mathematical Library, by Zane Hambly
+
 [Tensor Toolbox for Modern Fortran (ttb)](https://github.com/adtzlr/ttb)
 
 [ToolboxFortran](https://github.com/aledinola/ToolboxFortran): code to replicate basic Matlab functions, sort, interpolate, optimize, find roots, and perform other numerical tasks, by Alessandro Di Nola. Also code to read and write multidimensional arrays.
@@ -5854,6 +5856,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
