@@ -843,6 +843,8 @@ simulating and forecasting meteorological phenomena.
 
 [fpm-search](https://github.com/urbanjost/fpm-search): finds information about registered fpm (Fortran Package Manager) packages, by urbanjost
 
+[fpx.f](https://github.com/davidpfister/fpx.f): simple, embeddable, open-source preprocessor written in modern Fortran, by David Pfister. It is mostly compliant to a C preprocessor, fine-tuned for the specificity of the Fortran language.
+
 [libfde](https://github.com/Zorkator/libfde): Fortran Development Extensions (library), by Zorkator
 
 [m_err2](https://github.com/mgoonde/m_err2): independent error-storing and reporting type, using the __FILE__ and __LINE__ macros of the C-preprocessor, by Miha Gunde
@@ -5856,6 +5858,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
