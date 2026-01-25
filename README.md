@@ -827,6 +827,8 @@ simulating and forecasting meteorological phenomena.
 
 [flavanaly](https://github.com/degawa/flavanaly): wrapper for [Fortran-stdlib logger](https://stdlib.fortran-lang.org/page/specs/stdlib_logger.html) that enhances log messages with purpose classification and message categorization, by Tomohiro Degawa
 
+[format-fortran](https://github.com/jmriff/format-fortran): lightweight pretty-printer (indenter) for free-form Fortran source code, by J. Riff
+
 [fortran2018-conditional-memory](https://github.com/kevinmatthes/fortran2018-conditional-memory): library for the conditional allocation and deallocation of allocatable objects of Fortran intrinsic types, by Kevin Matthes 
 
 [Fortran Debug Utilities](https://github.com/plevold/fortran-debug-utils): collection of some utilities useful for debugging code, by Pål Levold
@@ -5858,6 +5860,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
