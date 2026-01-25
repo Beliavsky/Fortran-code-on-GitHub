@@ -5383,6 +5383,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 ## Sorting
 [Fortran-Code-Snippits](https://github.com/Aussie-Pete/Fortran-Code-Snippits): codes for sorting and searching, including the Boyer–Moore string-search algorithm, by Peter Kelly
 
+[fortran-iterative-quicksort](https://github.com/mustafa-ayyub/fortran-iterative-quicksort): generic, pure, memory-safe Quicksort implementation for embedded systems, by Mustafa Ayyub. It works on `integer` and `real` arrays.
+
 [Fortran-parallel-sort](https://github.com/cphyc/Fortran-parallel-sort): Fortran library to perform parallel sorts, by cphyc and OCsteve
 
 [Fortran-QuickSort](https://github.com/Beliavsky/Fortran-QuickSort): quicksort via pure procedures, by Beliavsky, adapting code of Alan Miller
@@ -5860,6 +5862,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
