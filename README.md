@@ -2426,6 +2426,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [shunting-yard-fortran](https://github.com/14NGiestas/shunting-yard-fortran): small expression parser using shunting yard algorithm, by Ian Giestas Pauli
 
+[spreadsheet-fortran](https://github.com/lwsinclair/spreadsheet-fortran): counterfactual 1978 spreadsheet for PDP-11 minicomputers, by Lawrence Sinclair
+
 ## Fast Fourier Transform
 [2DECOMP&FFT](https://github.com/BenMql/2decomp_emptyFourierFourier): scalable library for Fourier transforms, derived from 2decomp&fft, by BenMql. Compatible with in-core Chebyshev transforms.
 
@@ -5865,6 +5867,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
