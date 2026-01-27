@@ -1090,6 +1090,9 @@ and Dmitry Pavlov. It uses BFGS for local optimization and two different forms o
 
 [Fortran Library based on Interfaces and Templates (FLIT)](https://github.com/lanl/flit): generic library providing a number of useful functionalities for computational geophysics and beyond, by Kai Gao. These functionalities include several single/multi-dimensional array manipulation functions/subroutines, flexible parameter reading from textual file or command line arguments, signal and image filtering and processing, integral transforms, interpolation, statistical functions, and so on. 
 
+[Fortran mimetic abstraction language (Formal)](https://github.com/BerkeleyLab/formal): supports research on mimetic software abstractions for tensor calculus by providing
+derived types that mimic tensor fields and differential and integral operators for writing tensor expressions, by Damian Rouson and Dan Bonachea
+
 [fortran-table](https://github.com/tkdhss111/fortran-table): pure functions for table manipulation, such as `select`, `filter`, `join`, `insert_or_replace`, `write_csv`, `read_csv`, and conversion of columns to a specified type, by Hisashi Takeda. It provides SQL-like table manipulation, with all data are stored as character variables.
 
 [enumul](https://github.com/degawa/enumul): incomplete typed enumerator emulator for Fortran, by Tomohiro Degawa
@@ -5862,6 +5865,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
