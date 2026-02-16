@@ -4328,6 +4328,8 @@ Metropolis-Hastings algorithm, Differential Evolution, Particle Swarm Optimizati
 
 [concatenate_netcdf](https://github.com/weather4evr/concatenate_netcdf): concatenate netcdf files from multiple processors into one file with MPI Fortran, by Craig Schwartz
 
+[CUDA-Fortran-2ed](https://github.com/NVIDIA/CUDA-Fortran-2ed): code from the book [CUDA Fortran for Scientists and Engineers, Best Practices for Efficient CUDA Fortran Programming, Second Edition](https://shop.elsevier.com/books/cuda-fortran-for-scientists-and-engineers/ruetsch/978-0-443-21977-1) (2024), by Gregory Ruetsch and Massimiliano Fatica, arranged by chapter
+
 [CUDA-Fortran-Book](https://github.com/bakmano737/CUDA-Fortran-Book): example codes included in this directory are a portion of the code samples
 from the companion website to the book [CUDA Fortran for Scientists and Engineers](http://store.elsevier.com/product.jsp?isbn=9780124169708)
 
@@ -5869,6 +5871,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
