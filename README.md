@@ -4463,6 +4463,8 @@ from the companion website to the book [CUDA Fortran for Scientists and Engineer
 
 [Simple OpenACC Fortran Examples](https://github.com/jeng1220/openacc_fortran_examples): hosts fundamental, but useful examples, by jeng1220. Each example is just a few dozen lines of code.
 
+[simple_gpu](https://github.com/scemama/simple_gpu): easy-to-use library for GPU computing in Fortran, providing transparent access to GPU acceleration through a clean interface, by Anthony Scemama
+
 [SLB4MPI](https://github.com/foxtran/SLB4MPI): OpenMP-like simple load balancers for MPI in C++ and Fortran, by Igor S. Gerasimov and foxtran
 
 [SPEL_OpenACC](https://github.com/peterdschwartz/SPEL_OpenACC): code associated with the paper [SPEL: Software tool for Porting E3SM Land Model with OpenACC in a Function Unit Test Framework](https://ieeexplore.ieee.org/document/10029551), by Peter Schwartz et al., 2022 Workshop on Accelerator Programming Using Directives (WACCPD). It provides a robust method to port the [E3SM Land Model (ELM)](https://e3sm.org/model/e3sm-model-description/v1-description/v1-land/) onto GPUs.
@@ -5873,6 +5875,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
