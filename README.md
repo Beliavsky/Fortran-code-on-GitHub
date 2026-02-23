@@ -5484,6 +5484,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [cdaSQR](https://github.com/KarimOualkacha/cdaSQR): generalized coordinate descent (GCD) algorithm for computing the solution path of the penalized quantile regression, by KarimOualkacha
 
+[Chains for Optimization and Probabilistic Analysis (copa)](https://github.com/thomasbiekoetter/copa): lightweight and modular library for Markov Chain Monte Carlo (MCMC) sampling and probabilistic analysis, by Thomas Biekötter. It provides parallel and serial ensemble samplers with convenient tools for storing and analyzing Markov chains. copa implements a parallel ensemble MCMC sampler based on the Affine Invariant Ensemble Sampler algorithm introduced by [Goodman & Weare (2010)](https://msp.org/camcos/2010/5-1/camcos-v5-n1-p04-p.pdf) — Communications in Applied Mathematics and Computational Science, 5(1), 65–80. [pycopa](https://github.com/thomasbiekoetter/pycopa) is a Python wrapper.
+
 [CohensdpLibrary](https://github.com/dcousin3/CohensdpLibrary): R package with Fortran code to compute the Cohen d_p and its confidence intervals in any experimental design, by Denis Cousineau
 
 [curvefit](https://github.com/jchristopherson/curvefit): library for fitting functions to sets of data, by jchristopherson
@@ -5875,6 +5877,7 @@ series (or its logs) is described by a linear combination of regressors, and the
 [xml-fortran](https://github.com/paulromano/xml-fortran): parser for XML-files by paulromano, based on Arjen Markus' project
 
 [xmlf90](https://github.com/rscircus/xmlf90): XML Fortran 90 Library by rscircus et al.
+
 
 
 
