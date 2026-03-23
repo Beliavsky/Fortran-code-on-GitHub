@@ -3888,6 +3888,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [util](https://github.com/tchlux/util): machine learning, optimization, and data science utilities package, by tchlux. [tlux](https://github.com/tchlux/tlux) has code for nonlinear regression and the ball tree algorithm for nearest neighbors
 
+[wandb-fortran](https://github.com/nedtaylor/wandb-fortran): interface for [Weights & Biases](https://wandb.ai/site/) to enable training metrics logging and sweeps directly in Fortran, by Ned Taylor
+
 ## Nonlinear Equations
 [dfsaneacc](https://github.com/cran/dfsaneacc): R package with underlying Fortran code implementing the algorithm in [Secant Acceleration of Sequential Residual Methods for Solving Large-Scale Nonlinear Systems of Equations](https://epubs.siam.org/doi/10.1137/20M1388024), by Ernesto G. Birgin and J. M. MartÍnez, SIAM Journal on Numerical Analysis, Vol. 60, Iss. 6 (2022). An implementation by John L. Gardenghi is [here](https://github.com/johngardenghi/dfsaneacc/tree/main/dfsaneacc-in-Fortran).
 
