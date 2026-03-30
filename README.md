@@ -2310,6 +2310,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [FortranRiskEngine](https://github.com/tembolo1284/FortranRiskEngine): Monte Carlo simulation tool designed for quantitative finance applications, by Paul Nikholas Lopez
 
+[Fortran-Stock-Quotes](https://github.com/Beliavsky/Fortran-Stock-Quotes): wrapper to get daily or intraday historical stock prices from Yahoo Finance using the Python yfinance package and compute return statistics, by Beliavsky
+
 [HANK](https://github.com/ikarib/HANK): replication of the computational algorithm for solving Heterogeneous Agent New Keynesian (HANK) model, by ikarib. The original code was written in Fortran utilizing SparseSuite library and parallelized using MPI on the cluster with 33 CPUs (Intel Xeon CPU E5-2695 v4 @ 2.10GHz) with total runtime of 1.5 hours.
 
 [msearch-1asset](https://github.com/cbusta/msearch-1asset): search-theoretic model of money with one asset and persistent heterogeneity, associated with paper [The long-run redistributive effects of monetary policy](https://www.sciencedirect.com/science/article/abs/pii/S0304393223000892), by Christian Bustamante, Journal of Monetary Economics
