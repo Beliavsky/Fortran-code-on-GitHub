@@ -2520,6 +2520,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [fortran-zstd](https://github.com/interkosmos/fortran-zstd): Fortran 2018 interface bindings to selected [Zstandard](https://facebook.github.io/zstd/) functions, by interkosmos. Zstandard is a fast compression algorithm, providing high compression ratios.
 
+[fvtkhdf](https://github.com/nncarlson/fvtkhdf): library providing a high-level, object-oriented interface for generating VTKHDF files, a relatively new HDF5-based VTK file format used by ParaView, by Neil Carlson. It is designed for high-performance computing (HPC) applications, offering robust MPI-parallel output via HDF5, while also supporting serial workflows.
+
 [Fyaml](https://github.com/noaa-oar-arl/Fyaml): simple YAML parser, by Barry Baker. It supports basic YAML features including nested structures, sequences, various data types (strings, integers, floats, booleans, nulls), comments, anchors, and aliases.
 
 [H5_Assist](https://github.com/EcohydrologyTeam/H5_Assist): HDF5 interface libraries for Fortran, Java, and C#, by EcohydrologyTeam
@@ -3692,8 +3694,6 @@ useful results regarding the thermodynamics and the structural properties of the
 [fishman](https://github.com/dongli/fishman): generate Spherical Centroidal Voronoi Tessellation (SCVT) mesh for using in geophysical modeling, by dongli
 
 [foap4](https://github.com/jannisteunissen/foap4): combines [p4est: Parallel Adaptive Mesh Refinement on Forests of Octrees](https://www.p4est.org/) with OpenAcc and Fortran, by Jannis Teunissen. The goal is to build a simple and compact code for numerical simulations on quadtrees/octrees, using multiple GPUs.
-
-[fvtkhdf](https://github.com/nncarlson/fvtkhdf): library providing a high-level, object-oriented interface for generating VTKHDF files, a relatively new HDF5-based VTK file format used by ParaView, by Neil Carlson. It is designed for high-performance computing (HPC) applications, offering robust MPI-parallel output via HDF5, while also supporting serial workflows.
 
 [geompack](https://github.com/jchristopherson/geompack): modernization by Jason Christopherson of the [GEOMPACK](https://www.sciencedirect.com/science/article/abs/pii/0961355291900364) Fortran 77 library by Barry Joe for computing Delaunay triangulations
 
