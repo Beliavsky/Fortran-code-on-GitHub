@@ -4191,6 +4191,8 @@ and Bogacki-Shampine Runge-Kutta 3rd/2nd Order (variable step).
 
 [GALAHAD](https://github.com/ralna/GALAHAD): library of modern Fortran modules for nonlinear optimization
 
+[Genetic Algorithm Library (ga_lib)](https://github.com/dacarnazzola/ga_lib): genetic algorithm solver, by dacarnazzola
+
 [Generalized PROgram for OPTimization (GPROPT)](https://github.com/iarlopes/GPROPT): generic tool to minimize a user-defined objective function, by Igor A. R. Lopes. Several classical methods are implemented along with a genetic algorithm.
 
 [hyperBOB](https://github.com/maxEntropyProd/hyperBOB): Optimization using MPI parallel Latin hypercube sampling and BOBYQA, by maxEntropyProd
