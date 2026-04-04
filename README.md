@@ -172,6 +172,8 @@
 
 [FluxConserving](https://github.com/neutrinomuon/FluxConserving): Fortran code to compute the flux-density conservation, with a Python interface, by Jean Gomes
 
+[forApollo](https://github.com/forKernels/forApollo): Apollo-era Guidance, Navigation, and Control (GNC) algorithms reimplemented in modern Fortran+Zig, by David Clabaugh with Claude. Orbital mechanics, Kalman filtering, trajectory optimization, powered descent guidance.
+
 [Fortran-Astro](https://github.com/cengizyildirim-aerospace/Fortran-Astro): module for calculating [orbital elements](https://en.wikipedia.org/wiki/Orbital_elements), by Cengiz Yıldırım
 
 [fortran-astrodynamics](https://github.com/Yuricst/fortran-astrodynamics): astrodynamics routines by Yuricst
