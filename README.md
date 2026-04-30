@@ -1149,6 +1149,8 @@ derived types that mimic tensor fields and differential and integral operators f
 
 [FTObjectLibrary](https://github.com/trixi-framework/FTObjectLibrary): provides a collection of reference counted Fortran 2003 classes to facilitate writing generic object oriented Fortran programs, by David A. Kopriva et al.
 
+[fxarray](https://github.com/openEarthModelling/fxarray): library for labeled multi-dimensional arrays, inspired by [xarray](https://github.com/pydata/xarray), by Fan Zhang. It provides registry-based state management for scientific simulations, with support for NetCDF/HDF5 I/O, parallel computing via MPI, and GPU/parallel kernel dispatch via Kokkos.
+
 [gFTL](https://github.com/Goddard-Fortran-Ecosystem/gFTL): provides a mechanism to easily create robust containers and associated iterators which can be used within Fortran applications, from Goddard-Fortran-Ecosystem. The primary methods are intended to be as close to their C++ STL analogs as possible. Also see [gFTL-shared](https://github.com/Goddard-Fortran-Ecosystem/gFTL-shared)
 
 [hashmap_f90](https://github.com/jordan4ibanez/hashmap_f90): bindings to [hashmap.c](https://github.com/tidwall/hashmap.c), by jordan4ibanez
