@@ -5639,6 +5639,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [sampleSTAT](https://github.com/haniibrahim/sampleSTAT): command-line application to determine sampling distributions, by Hani Andreas Ibrahim. It goes a lot further than arithmetic mean and standard deviation.
 
+[Skyborn](https://github.com/QianyeSu/Skyborn): ultra-fast spatial trend calculation and climate index regression analysis for atmospheric data, by Qianye Su
+
 [SLICE](https://github.com/ericlindsey/slice): efficient N-Dimensional Monte Carlo inversion algorithm, by ericlindsey
 
 [SmoothHazard](https://github.com/tagteam/SmoothHazard): R package with Fortran code for smooth hazard models for interval-censored data with applications to survival and illness-death models, by Thomas Alexander Gerds et al.
