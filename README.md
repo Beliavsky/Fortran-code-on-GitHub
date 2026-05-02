@@ -3934,6 +3934,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [ectrans](https://github.com/ecmwf-ifs/ectrans): global spherical harmonics transforms library, extracted from the [IFS](https://www.ecmwf.int/en/forecasts/documentation-and-support/changes-ecmwf-model), by Sam Hatfield et al. It contains both CPU and GPU (Nvidia) code-paths.
 
+[exponential_sum_approximations](https://github.com/Alexey-Kuznetsov-math/exponential_sum_approximations): code associated with paper [Approximating functions on R+ by exponential sums](https://www.sciencedirect.com/science/article/abs/pii/S0377042726003985), by Alexey Kuznetsov and Armin Mohammadioroojeh, Journal of Computational and Applied Mathematics (2026)
+
 [faiNumber-Fortran](https://github.com/kevinhng86/faiNumber-Fortran): fast, flexible, and secure numerical library for Fortran with fast number parsing as one of its features
 
 [Fast Bessel Transform](https://github.com/UCLA-TMD/Ogata): performing fast Bessel transforms of Transverse Momentum Distributions using Ogata quadrature, by John Terry et al.
