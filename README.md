@@ -5684,6 +5684,10 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [fortran-ascii](https://github.com/ivan-pi/fortran-ascii): functions which operate on ASCII characters, by Ivan Pribec, aiming to reproduce the functionality found in <ctype.h> header of the C standard library or std.ascii namespace from the D runtime library.
 
+[fortran-fast-float](https://github.com/perazz/fortran-fast-float): port by Federico Perini of the [Eisel-Lemire fast float parsing algorithm](https://github.com/fastfloat/fast_float), via the C99 single-header port [ffc.h](https://github.com/kolemannix/ffc.h). It parses ASCII decimal strings into `real32`, `real64`, `int32`, and `int64` values with exact rounding, typically 4-10x faster than `read(str, *)`.
+
+Parses ASCII decimal strings into real32, real64, int32, and int64 values with exact rounding, typically 4-10x faster than read(str, *).
+
 [fortran-shlex](https://github.com/perazz/fortran-shlex): port by Federico Perini of Python's [shlex](https://docs.python.org/3/library/shlex.html) shell-like lexer. The interface comes with two functions, `split` which parses a command-like string and returns an array of allocatable character strings; and `shlex` that performs the same, but returns a list of `type(shlex_token)` tokens.
 
 [fortran-strings](https://github.com/eengl/fortran-strings): library and module which contains functions for common string manipulations, by eengl
