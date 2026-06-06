@@ -5455,6 +5455,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [fortran-bessels](https://github.com/perazz/fortran-bessels): Fortran port (stub) of the Bessels.jl repository, by Federico Perini et al.
 
+[FORTVSH](https://github.com/justinelfritz/FORTVSH): library for Legendre polynomials and derivatives, scalar spherical harmonics (SSH) and angular derivatives, vector spherical harmonics (VSH) and angular derivatives, Clebsch-Gordan and Wigner 3j coefficients, and Gauss-Legendre quadrature support, by J.G. Elfritz
+
 [gamma_f77](https://github.com/ckormanyos/gamma_f77): implements the real-valued Gamma function in quadruple-precision, by Christopher Kormanyos
 
 [Jacobi Theta functions for Fortran](https://github.com/fremling/jacobi-theta-function-fortran): by Mikael Fremling
