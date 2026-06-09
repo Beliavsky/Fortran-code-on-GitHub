@@ -3818,6 +3818,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [autofit](https://github.com/Auto-Mech/autofit): fit permutationally invariant polynomials (PIPs), by Auto-Mech
 
+[Easy Neural Networks for Use in Fortran (ENNUF)](https://github.com/metoffice/ennuf): software for translating machine learning models defined in Python into Fortran code, from the UK Met Office.
+
 [fastGPT](https://github.com/certik/fastGPT): fast GPT-2 inference, by Ondřej Čertík, described in a post [FastGPT: Faster than PyTorch in 300 Lines of Fortran](https://ondrejcertik.com/blog/2023/03/fastgpt-faster-than-pytorch-in-300-lines-of-fortran/)
 
 [ferrite](https://github.com/rbitr/ferrite): code for simple, lightweight transformers, such as a [Sentence Transformer](https://www.sbert.net/index.html), by Andrew Marble
