@@ -3272,6 +3272,8 @@ multithreaded rendering, post-processing with OpenCV, several built-in useful fu
 
 [Linking-f90-C-C-and-CUDA](https://github.com/CarvFS/Linking-f90-C-C-and-CUDA): Initial steps for calling C, C++ and CUDA from Fortran using the iso_c_binding, by Felipe_SC
 
+[Low Precision Fortran (LPF)](https://github.com/mpimd-csc/low_precision_fortran): implements fp16 and bfloat16 on top of an int16 datatype, such that they become interoperable between C and Fortran via a reinterpretation of the pointers, by Martin Köhler. It uses Fortran 2008 features to provide an easy to use interface on the Fortran side.
+
 [MatlabAPI](https://github.com/robince/MatlabAPI): Fortran 95 Matlab API
 
 [MatlabFortran](https://github.com/aledinola/MatlabFortran): easily export data from Matlab to Fortran and back, by Alessandro Di Nola
