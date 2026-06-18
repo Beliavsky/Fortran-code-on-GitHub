@@ -1526,8 +1526,6 @@ engine, by montagdude and Geoff Sokoll
 
 [sodium](https://github.com/freevryheid/sodium): Fortran bindings by Andre Smit for [libsodium](https://github.com/jedisct1/libsodium), a C library for encryption, decryption, signatures, password hashing, etc.
 
-https://github.com/myWAveModel/WAM
-
 ## Databases
 [fodbc](https://github.com/rbarrel/fodbc): interface to Open Database Connectivity ([ODBC](https://en.wikipedia.org/wiki/Open_Database_Connectivity)), by RainBarrel
 
@@ -1550,6 +1548,8 @@ https://github.com/myWAveModel/WAM
 [Open Database Connectivity (odbc.f)](https://github.com/davidpfister/odbc.f): interface designed to enable seamless interaction between Fortran applications and relational databases through the Open Database Connectivity (ODBC) standard, by David Pfister. It provides modules and procedures that allow developers to connect to ODBC-compliant databases, execute SQL queries, and manage data.
 
 [SQLite for Fortran (sqliteff)](https://github.com/everythingfunctional/sqliteff): thin wrapper around the SQLite library, by Brad Richardson. The sqliteff_* functions are effectively identical to the sqlite3_* functions that would be called from C, but with Fortran intrinsics and types.
+
+[sqr](https://github.com/sgeard/sqr): lightweight, embeddable relational storage engine, by lightweight, embeddable relational storage engine written, by Simon Geard. It stores tables as fixed-record binary files in a directory, with on-disk B+-tree secondary indices, a physical rollback journal for crash-safe transactions, and two interactive front-ends — a state-graph shell and a small SQL-subset REPL.
 
 ## Dates and Times
 [datetime](https://github.com/patti-favaron/datetime): library for simple, time-zone-independent date and time management, by Patrizia Favaron
