@@ -3306,6 +3306,8 @@ multithreaded rendering, post-processing with OpenCV, several built-in useful fu
 
 [sysexits-f18](https://github.com/kevinmatthes/sysexits-f18): Fortran 2018 version of the [sysexits.h](https://man.freebsd.org/cgi/man.cgi?query=sysexits&manpath=FreeBSD+4.3-RELEASE) codes, by Kevin Matthes
 
+[tagarray](https://github.com/Open-Quantum-Platform/tagarray): small, dependency-light container by Cheol Ho Choi that holds named, typed, multi-dimensional arrays and lets every language bind to the same bytes — no copies, no serialization on the hot path
+
 [tcp-client-server](https://github.com/modern-fortran/tcp-client-server): minimal TCP client and server in Fortran, used to teach interoperability with C. Companion code for Chapter 11 of [Modern Fortran: Building Efficient Parallel Applications](https://www.manning.com/books/modern-fortran), by Milan Curcic.
 
 [uint-fortran](https://github.com/ShinobuAmasaki/uint-fortran): unsigned integer, 16 or 32 bit, that is interoperable with C, by Shinobu Amasaki
