@@ -3423,6 +3423,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [eigensolvers based on unitary core transformations (eiscor)](https://github.com/eiscor/eiscor): subroutines for accurately and efficiently solving matrix eigenvalue problems using essentially 2x2 unitary matrices. An associated paper is Jared L. Aurentz, Thomas Mach, Raf Vandebril, and David S. Watkins. [Fast and stable unitary QR algorithm](https://etna.math.kent.edu/volumes/2011-2020/vol44/abstract.php?vol=44&pages=327-341). Electronic Transactions on Numerical Analysis. Vol. 44, pp. 327-341. 2015.
 
+[eplinalg](https://github.com/kyungminlee/eplinalg): automated type-migration pipeline for the classical numerical-linear-algebra stack — BLAS, BLACS, LAPACK, PBLAS, ScaLAPACK, MUMPS — retargeted from the standard DOUBLE PRECISION / DOUBLE COMPLEX working type to a wider arithmetic, by Kyungmin Lee
+
 [expokit](https://github.com/rasmusgo/expokit): matrix exponential package
 
 [Fortran GeneraL Math modules (fglm)](https://github.com/jordan4ibanez/fglm): defines types and operations for a 4x4 matrix and 3-element vectors, for `int32`, `real32`, and `real64` data, providing some functionality of the JOML – Java OpenGL Math Library, by jordan4ibanez
