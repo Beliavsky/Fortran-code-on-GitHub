@@ -2528,6 +2528,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [fortran-zstd](https://github.com/interkosmos/fortran-zstd): Fortran 2018 interface bindings to selected [Zstandard](https://facebook.github.io/zstd/) functions, by interkosmos. Zstandard is a fast compression algorithm, providing high compression ratios.
 
+[fortxarray](https://github.com/egiovan/fortxarray): lightweight, modern, object-oriented wrapper for NetCDF designed for seamless interoperability with Python's Xarray, by Edmondo Giovannozzi (ENEA). It abstracts NetCDF's complex C-style API into a simple, crash-safe Fortran type.
+
 [fvtkhdf](https://github.com/nncarlson/fvtkhdf): library providing a high-level, object-oriented interface for generating VTKHDF files, a relatively new HDF5-based VTK file format used by ParaView, by Neil Carlson. It is designed for high-performance computing (HPC) applications, offering robust MPI-parallel output via HDF5, while also supporting serial workflows.
 
 [Fyaml](https://github.com/noaa-oar-arl/Fyaml): simple YAML parser, by Barry Baker. It supports basic YAML features including nested structures, sequences, various data types (strings, integers, floats, booleans, nulls), comments, anchors, and aliases.
