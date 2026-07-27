@@ -5799,6 +5799,8 @@ Parses ASCII decimal strings into real32, real64, int32, and int64 values with e
 
 [tidybench](https://github.com/sweichwald/tidybench): TIme series DiscoverY has four algorithms for causal structure learning for time series: SLARAC (Subsampled Linear Auto-Regression Absolute Coefficients), QRBS (Quantiles of Ridge regressed Bootstrap Samples), LASAR (LASso Auto-Regression), and SELVAR (Selective auto-regressive model), by sweichwald
 
+[time-series](https://github.com/Beliavsky/time-series): time series analysis algorithms translated from R packages, covering both univariate and multivariate models, linear and nonlinear models, and models of both the conditional mean and conditional variance (GARCH), by Beliavsky
+
 [timeseries](https://github.com/rhandberg/timeseries): fast, optimized tools for working with times series data, using OpenMP for parallelisation, by Rasmus Handberg. Calculates weighted frequency power spectra of un-evenly sampled data, filter and extracts frequencies.
 
 [Timeslab](https://github.com/Beliavsky/Timeslab): Fortran 77 time series package by H. Joseph Newton to accompany his book "Timeslab: A Time Series Analysis Laboratory" (1988)
