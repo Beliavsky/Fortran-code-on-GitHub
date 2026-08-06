@@ -5773,6 +5773,8 @@ Parses ASCII decimal strings into real32, real64, int32, and int64 values with e
 
 [GARCH](https://github.com/Beliavsky/GARCH): simulation and estimation of ARCH and GARCH processes, used to model the time-varying standard deviation (volatility) of asset returns, with conditional distributions such as the normal, Laplace, and Student t, by Beliavsky
 
+[markov_fortran-](https://github.com/barisbarisgithub/markov_fortran-): modern, functional-first, higher-order (N-th degree) Markov Chain library with native ISO_C_BINDING support, by Barış Barış. Designed for high performance and seamless integration with Python, C++, and Rust.
+
 [midasmlpy](https://github.com/jstriaukas/midasmlpy): Python package with Fortran code implementing estimation and prediction methods for high-dimensional mixed-frequency (MIDAS) time-series and panel data in regression models. An associated paper is [Machine learning time series regressions with an application to nowcasting](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1899933), by Babii, A., Ghysels, E., & Striaukas, J., Journal of Business & Economic Statistics (2022). There are also [R](https://github.com/jstriaukas/midasml) and [Matlab](https://github.com/jstriaukas/midasml_mat) versions.
 
 [KFAS: R Package for Exponential Family State Space Models](https://github.com/helske/KFAS): provides tools for modelling exponential family state space models such as structural time series, ARIMA models, generalized linear models and generalized linear mixed models, by Jouni Helske et al., with underlying Fortran 95 code
