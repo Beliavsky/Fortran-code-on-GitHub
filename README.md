@@ -5593,6 +5593,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [libdierckx](https://github.com/DaanVanVugt/libdierckx): collection of FORTRAN programs for curve and surface fitting with splines and tensor product splines. Features included are automatic knot selection, error smoothing and data reduction.
 
+[lib_probability_distributions](https://github.com/barisbarisgithub/lib_probability_distributions): high-performance, C-API compatible library for discrete and continuous probability distributions, by Barış Barış. Features overflow-safe logarithmic core computing and graceful runtime error handling.
+
 [lib_statistics](https://github.com/sebastiandyrda/lib_statistics): code for logistic regression, by Alan Miller, packaged for FPM by Sebastian Dyrda
 
 [mclust](https://github.com/cran/mclust): R package with Fortran code -- Gaussian finite mixture models fitted via EM algorithm for model-based clustering, classification, and density estimation, including Bayesian regularization, dimension reduction for visualization, and resampling-based inference, by Chris Fraley et al.
