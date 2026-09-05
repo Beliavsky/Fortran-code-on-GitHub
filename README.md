@@ -4065,6 +4065,8 @@ ACM Trans. Math. Softw. (2023).
 
 [SciFortran](https://github.com/QcmPlab/SciFortran): A library of fortran modules and routines for scientific calculations (*in a way* just like scipy for python), from QcmPlab
 
+[SciJit](https://github.com/Shmuel-Gilbaum/SciJit): SciPy-equivalent numerical routines callable from inside numba @njit code, backed by the same Fortran packs SciPy wraps, by Shmuel Gilbaum. It includes FITPACK splines, MINPACK/L-BFGS-B/SLSQP/PRIMA optimization, and QUADPACK/ODEPACK integration. 
+
 [SLATEC](https://github.com/MehdiChinoune/SLATEC): comprehensive software library containing over 1400 general purpose mathematical and statistical routines, translated to modern Fortran by Mehdi Chinoune
 
 [SLATEC](https://github.com/Zaneham/SLATEC): modernization of the SLATEC Common Mathematical Library, by Zane Hambly
