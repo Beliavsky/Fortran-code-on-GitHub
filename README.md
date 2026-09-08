@@ -5849,6 +5849,8 @@ series (or its logs) is described by a linear combination of regressors, and the
 
 [Fortran---CGAL-polyhedra](https://github.com/LadaF/Fortran---CGAL-polyhedra): bindings to the CGAL library to query to find whether a point is inside of a polyhedron and their distance, by Vladimír Fuka
 
+[graphlib](https://github.com/grofz/graphlib): library providing graph data structures and algorithms, by Zdenek Grof
+
 [graphstruc](https://github.com/nedtaylor/graphstruc): library that provides an implementation of graph structures in the form of a derived type, by Ned Thaddeus Taylor
 
 [RADCAL](https://github.com/firemodels/radcal): library of subroutines for calculating radiative properties of gaseous species and soot, from firemodels. It computes the spectral properties of the radiation participating species at discrete values of the spectrum (expressed either in wavenumber or in wavelength) and temperature, and returns two alternative mean absorption coefficients for each spectral band.
