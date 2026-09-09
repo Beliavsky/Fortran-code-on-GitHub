@@ -884,6 +884,8 @@ simulating and forecasting meteorological phenomena.
 
 [FCVS_95](https://github.com/gklimowicz/FCVS_95): modified version of NIST F77 validation suite, updated for Fortran 95. The original is [FCVS](https://github.com/gklimowicz/FCVS).
 
+[fortran-bugs](https://github.com/JorgeG94/fortran-bugs): minimal reproducers for compiler bugs, one directory each, with a Makefile and a README.md per case, by Jorge Luis Gálvez Vallejo
+
 [fortran-compiler-tests](https://github.com/nncarlson/fortran-compiler-tests): collection of Fortran compiler bug examples and tests, by nncarlson
 
 [fortran-compiler-tests](https://github.com/imciner2/fortran-compiler-tests): various tests files/scripts to compare how different Fortran compilers implement features or warnings, by Ian McInerney
