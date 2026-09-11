@@ -3262,6 +3262,8 @@ multithreaded rendering, post-processing with OpenCV, several built-in useful fu
 
 [fpydemo](https://github.com/banskt/fpydemo): demonstration of packaging a command line tool written in Python and Fortran, by Saikat Banerjee. The minimum working example has native Fortran codes compile to a shared library with F2PY, Lapack routines, and uses mpi4py for MPI parallelization.
 
+[Frumpy](https://github.com/LynnColeArt/Frumpy): Fortran 2018 NumPy-compatible array engine, by Lynn Cole. It aims to provide a NumPy-shaped foundation for native Fortran array programming: an ndarray substrate with familiar semantics, explicit memory behavior, and understandable source code.
+
 [fsys](https://github.com/yymmt742/fsys): wrapper module for system control, with procedures `isatty`, `sleep`, and `winsize`, by yymmt742
 
 [Fortran_Julia_HPC](https://github.com/mbzadegan/Fortran_Julia_HPC): demo of high performance computing by linking Fortran and Julia with multithreading, by Mohamad Badiezadegan
