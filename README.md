@@ -890,6 +890,8 @@ simulating and forecasting meteorological phenomena.
 
 [fortran-compiler-tests](https://github.com/imciner2/fortran-compiler-tests): various tests files/scripts to compare how different Fortran compilers implement features or warnings, by Ian McInerney
 
+[fortran_conformance_tests](https://github.com/certik/fortran_conformance_tests): conformance tests for the Fortran standard, by Ondřej Čertík
+
 [fortran_oo](https://github.com/pletzer/fortran_oo): tests compiler support of object-oriented programming features, by Alex Pletzer and Wolfgang Hayek
 
 [Fortran Tests](https://github.com/lanl/fortran-tests): set of tests for Modern Fortran, by Galen M. Shipman
