@@ -3931,6 +3931,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [Nonlinear Equation Solver with Modern Fortran (nlesolver-fortran)](https://github.com/jacobwilliams/nlesolver-fortran): basic Newton-Raphson type nonlinear equation solver for dense systems with m functions of n input variables, by Jacob Williams. Uses LAPACK routines (dgesv or dgels) to solve the linear system.
 
+[polyhomocont](https://github.com/EVADEVacStab/polyhomocont): library for computing all isolated complex solutions of square systems of polynomial equations F(x) = 0, x ∈ Cⁿ, with homotopy continuation, from EVADEVacStab
+
 [pypolsys](https://github.com/nennigb/pypolsys): Python wrapper to [POLSYS_PLP](https://dl.acm.org/doi/abs/10.1145/347837.347885) Fortran 90 package from Layne T. Watson, Steven M. Wise, Andrew J. Sommese, August, 1998. POLSYS_PLP is a solver for N complex coefficients polynomial systems of equations in N unknowns by a probability-one, globally convergent homotopy method.
 
 ## Numerical Methods
