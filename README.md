@@ -3439,6 +3439,8 @@ For many practically useful two-variable functions ("sign-regular kernels"), Ker
 
 [fortran-lapack-examples](https://github.com/perazz/fortran-lapack-examples): FortranCon 2025: Precision-Agnostic BLAS/LAPACK and Modern Linear Algebra API Presentation Materials and Examples, by Federico Perini et al.
 
+[fortsparse](https://github.com/lazy-fortran/fortsparse): backend-pluggable sparse direct solver, by Christopher Albert. It solves square real or complex double systems `A x = b` through one public API, independent of the library that does the factorization. 
+
 [FLAPWxHZ](https://github.com/venovako/FLAPWxHZ): Hari-Zimmermann complex generalized hyperbolic SVD and EVD. Associated paper: [The LAPW Method with Eigendecomposition Based on the Hari--Zimmermann Generalized Hyperbolic SVD](https://epubs.siam.org/doi/10.1137/19M1277813), by Sanja Singer, Edoardo Di Napoli, Vedran Novaković, and Gayatri Čaklović, SIAM Journal on Scientific Computing, Vol. 42, Iss. 5 (2020)
 
 [FlexiBLAS](https://github.com/mpimd-csc/flexiblas): wrapper library that enables the exchange of the BLAS (Basic Linear Algebra System) and LAPACK (Linear Algebra PACKage) implementation used in an executable without recompiling or re-linking it, by Martin Köhler and Jens Saak
