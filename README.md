@@ -5843,6 +5843,8 @@ series (or its logs) is described by a linear combination of regressors, and the
 ## Unclassified
 [betti-decomposition](https://github.com/antonio-leitao/betti-decomposition): Betti Decomposition of simplicial complexes, by António Leitão
 
+[clotran](https://github.com/jborden/clotran): Clojure, hosted on Fortran, by James Borden. It runs Rich Hickey's actual clojure/core.clj, vendored from clojure/clojure at the clojure-1.12.6 release, with every class written in clotran's name -- a mechanical rewrite, upstream/derive. 
+
 [Consolidated Fire and Smoke Transport (CFAST)](https://github.com/firemodels/cfast): two-zone fire model that predicts the thermal environment caused by a fire within a compartmented structure, from firemodels
 
 [DAGLIB](https://github.com/jacobwilliams/daglib): modern Fortran module for creating and manipulating directed acyclic graphs (DAGs), by Jacob Williams and Damian Rouson. It includes a toposort feature, and also the ability to generate files in the GraphViz "dot" notation.
