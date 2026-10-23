@@ -5708,6 +5708,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [CaseConverter](https://github.com/koseiohara/CaseConverter): module to convert strings between lowercase and uppercase, by Kosei Ohara
 
+[corvus-regex-ecma262-fortran](https://github.com/corvus-dotnet/corvus-regex-ecma262-fortran): ECMA-262 (JavaScript) regular expressions for Fortran: a binding to the corvus-regex-ecma262 C library through ISO_C_BINDING, over UTF-8 and UTF-16, for fpm and CMake, by Matthew Adams
+
 [enclose](https://github.com/degawa/enclose): procedures for enclosing a string in brackets, by Tomohiro Degawa
 
 [FortCharConv](https://github.com/Niranama/FortCharConv): converts character strings to numbers, by Niranama. The conversions between string and floating-point (real) number are based on various binary-decimal conversion algorithms including Dragonbox, Ryu, Schubfach, Clinger and Eisel-Lemire.
