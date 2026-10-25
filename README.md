@@ -3175,6 +3175,8 @@ multithreaded rendering, post-processing with OpenCV, several built-in useful fu
 
 [pyplot-fortran](https://github.com/jacobwilliams/pyplot-fortran): generate plots from Fortran using Python's [matplotlib.pyplot](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html), by jacobwilliams
 
+[qt-fortran](https://github.com/jacobwilliams/qt-fortran): interface to Qt 6 that can build desktop GUI applications (windows, widgets, menus, dialogs and custom painting), by Jacob Williams
+
 [RayTran](https://github.com/lewisfish/RayTran): ray tracer in pure Fortran, by lewisfish
 
 [tikz-fortran](https://github.com/huijunchen9260/tikz-fortran): module that generates figures using [PGF/Tikz](https://en.wikipedia.org/wiki/PGF/TikZ), a pair of languages for producing vector graphics, by Hui-Jun Chen
