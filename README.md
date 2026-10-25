@@ -829,6 +829,8 @@ simulating and forecasting meteorological phenomena.
 
 [ffixed2free](https://github.com/MeteoSwiss/ffixed2free): converts FORTRAN fixed-format source code (FORTRAN 77 style) to free-format source code (Fortran 90 style), by Pirmin Kaufmann and Martin Schraner. Ffixed2free does not require the fixed-format code to be restricted to the FORTRAN 77 standard.
 
+[fformat](https://github.com/jacobwilliams/fformat): formatter for free-form Fortran, by Jacob Williams. It re-indents code (statements by nesting depth, continuation lines by alignment with brackets, assignments, only: and ::, comment lines like the code around them), adjusts the blanks around operators, splits code lines that are too long, and can change the letter case of keywords and operators and the spelling of relational operators.
+
 [flavanaly](https://github.com/degawa/flavanaly): wrapper for [Fortran-stdlib logger](https://stdlib.fortran-lang.org/page/specs/stdlib_logger.html) that enhances log messages with purpose classification and message categorization, by Tomohiro Degawa
 
 [format-fortran](https://github.com/jmriff/format-fortran): lightweight pretty-printer (indenter) for free-form Fortran source code, by J. Riff
