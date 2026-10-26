@@ -2869,6 +2869,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [fArgParse](https://github.com/Goddard-Fortran-Ecosystem/fArgParse): command line argument parsing for Fortran, from Goddard-Fortran-Ecosystem
 
+[fclap](https://github.com/chselz/fclap): modular command-line argument parser inspired by Python's argparse usage style and partly by Rust's clap regarding features, by Christian Selzer and Lukas Wittmann. It provides typed values, generated help, structured non-terminating errors, groups, validators, parent parsers, and nested subcommands.
+
 [files_f90](https://github.com/jordan4ibanez/files_f90): directory reader by jordan4ibanez
 
 [FLAP](https://github.com/szaghi/FLAP): command Line Arguments Parser for poor people, by szaghi et al. A KISS pure Fortran Library for building powerful, easy-to-use, elegant command line interfaces
