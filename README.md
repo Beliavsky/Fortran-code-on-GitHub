@@ -2584,6 +2584,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [nc4fortran](https://github.com/geospace-code/nc4fortran): object-oriented Fortran NetCDF4 interface, by geospace-code
 
+[nc4f.pack](https://github.com/han190/nc4f.pack): interface to the NetCDF C library, by Han Tang. It provides a small in-memory model for NetCDF dimensions, attributes, variables, and groups.
+
 [ncdfutil](https://github.com/geoschem/ncdfutil): routines for netCDF I/O, by Bob Yantosca and Melissa Sulprizio
 
 [neasy-f](https://github.com/PlasmaFAIR/neasy-f): simple wrapper for netCDF-Fortran, from PlasmaFAIR. Rather than attempting to be a feature-complete replacement, neasy-f wraps some common functions together and is opinionated about usage.
