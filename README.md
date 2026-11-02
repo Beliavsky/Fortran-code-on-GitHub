@@ -827,6 +827,8 @@ simulating and forecasting meteorological phenomena.
 
 [f2f90](https://github.com/btrettel/f2f90): utility to convert FORTRAN 77 fixed source form to Fortran 90 free source form, by Michael Metcalf, Peter A. Rochford, and Ben Trettel
 
+[fdoc](https://github.com/jacobwilliams/fdoc): documentation generator for modern Fortran, by Jacob Williams. It reads the same project files and doc comments as [FORD](https://github.com/Fortran-FOSS-Programmers/ford), so it can take over from FORD on an existing project without changing the code, and it is much faster.
+
 [ffixed2free](https://github.com/MeteoSwiss/ffixed2free): converts FORTRAN fixed-format source code (FORTRAN 77 style) to free-format source code (Fortran 90 style), by Pirmin Kaufmann and Martin Schraner. Ffixed2free does not require the fixed-format code to be restricted to the FORTRAN 77 standard.
 
 [fformat](https://github.com/jacobwilliams/fformat): formatter for free-form Fortran, by Jacob Williams. It re-indents code (statements by nesting depth, continuation lines by alignment with brackets, assignments, only: and ::, comment lines like the code around them), adjusts the blanks around operators, splits code lines that are too long, and can change the letter case of keywords and operators and the spelling of relational operators.
