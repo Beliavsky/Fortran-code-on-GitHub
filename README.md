@@ -3128,6 +3128,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fplot](https://github.com/jchristopherson/fplot): provides a convenient interface for plotting with Gnuplot, by jchristopherson
 
+[fplotlib](https://github.com/fortran-lang/fplotlib): plotting library with a pylab-style API, writing SVG, PNG, PDF and EPS, by Ondřej Čertík and José Alves
+
 [fplt](https://github.com/sebastian-mutz/fplt): scientific plotting library for producing high-quality ("publication-ready") figures quickly by leveraging the GMT(Generic Mapping Tools) C-API and Fortran's derived types, by Sebastian G. Mutz. FPLT includes procedures for producing geographical maps, xy-plots, heat maps, animated figures, and more.
 
 [ftk](https://github.com/arjenmarkus/ftk): provides a straightforward means to build graphical user-interfaces in Fortran based on Tcl/Tk, by Arjen Markus. In its current state it is proof of concept, not a full-fledged library.
