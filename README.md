@@ -2438,6 +2438,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 
 [fortran_script](https://github.com/sdm900/fortran_script): Fortran-like scripting language, by Stuart Midgley. Also [fortran_parser](https://github.com/sdm900/fortran_parser), a math function parser.
 
+[fparse](https://github.com/jacobwilliams/fparse): function parser and evaluator for expressions involving multiple variables, supporting vectorized operations, user-defined functions, and first derivatives, by Jacob Williams
+
 [hp](https://github.com/sgeard/hp): rpn calclulator with a maximum stack size of 5, by sgeard It has full support for real and complex numbers and will calculate summary statistics for a set of reals of real pairs.
 
 [M_calculator](https://github.com/urbanjost/M_calculator): parse Fortran-like double precision scalar expressions, by urbanjost
