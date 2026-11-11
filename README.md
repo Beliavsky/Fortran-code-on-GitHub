@@ -2897,6 +2897,8 @@ present simple ways to locate and correct those errors without the use of any de
 
 [Fortmacs](https://github.com/vermi-culous/Fortmacs): GNU Emacs 31.1 rewritten in modern Fortran (2018+), for Linux on x86-64 and aarch64, by vermi-culous. There is no Elisp: the configuration is a Fortran module compiled into the binary, and every rebuild is a numbered generation one can roll back to, as in Guix.
 
+[fortran-constraint-checking](https://github.com/SuperInstance/fortran-constraint-checking): high-performance multi-language constraint checking — Fortran core with Python, Rust, and C bindings, optimized for AMD Zen 5 / AVX-512, by Casey Digennaro
+
 [Fortran-corelib](https://github.com/richardfoltyn/fortran-corelib): string type, argument parser, logging, linked list, timedelta type, filesystem handling, and other basic functionality, by Richard Foltyn
 
 [fortran-file](https://github.com/tkdhss111/fortran-file): functions for file manipulation, wrapping operating system commands, by Hisashi Takeda. The functions are `touch`, `cp`, `mv`, `rm`, `mkdir`, `rmdir`, `cldir`, `print` and `find`.
