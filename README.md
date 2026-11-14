@@ -317,6 +317,8 @@ M. Fenucci and B. Novaković, <i>Serbian Astronomical Journal</i> (2022)
 
 [PATMO](https://github.com/SophiaAtmo/PATMO): flexible code aimed at modelling 1D planetary atmospheres including (photo)chemistry, molecular/eddy diffusion, and multi-frequency radiative transfer, by Tommaso Grassi. It is partially based on [KROME](https://www.kromepackage.org/), as it produces optimized problem-dependent Fortran code by using a Python pre-processor.
 
+[PEPPER](https://github.com/jacobwilliams/pepper): Planetary Ephemerides, Positions, Pointing, Events & Rotations, by Jacob Williams. It can be thought of as a modern, thread-safe reimagining and replacement for [SPICELIB](https://naif.jpl.nasa.gov/naif/toolkit.html), the Fortran 77 SPICE library that has been developed by NASA's NAIF for decades.
+
 [phantom](https://github.com/danieljprice/phantom): 3D Smoothed Particle Hydrodynamics and Magnetohydrodynamics code for astrophysics, by Daniel Price and others
 
 [PhotochemPy](https://github.com/Nicholaswogan/PhotochemPy): photochemical model of rocky planet's atmospheres, by Nicholaswogan. Given inputs, like the stellar UV flux, the atmospheric temperature structure, etc., this code will find the steady-state chemical composition of an atmosphere, or evolve atmospheres through time. [Photochem](https://github.com/Nicholaswogan/photochem) is a rewrite in modern Fortran.
