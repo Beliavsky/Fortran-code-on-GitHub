@@ -3114,6 +3114,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fortran-graphics](https://github.com/jeyemhex/fortran-graphics): graphics library written in OpenGL, by Edward Higgins
 
+[Fortran Immediate-mode GUI for User interfaces, Rendering and Exploration (figure)](https://github.com/szaghi/figure): interactive windows, widgets and plots for Fortran programs: Dear ImGui and ImPlot on SDL3 and OpenGL 3, on Linux, macOS and Windows, with gfortran, nvfortran and Intel ifx, by Stefano Zaghi. Immediate mode: no widget objects, handles or callbacks; the interface is declared every frame, and its state is the program's own variables.
+
 [Fortran Intuitive Graphics (fig)](https://github.com/AnonMiraj/fig): provide intuitive graphics capabilities, by AnonMiraj. It offers basic 2D primitives such as lines, circles, ellipsis, and rectangles for creating graphical representations.
 
 [fortran-sdl2](https://github.com/interkosmos/fortran-sdl2): collection of ISO C binding interfaces to Simple DirectMedia Layer 2.0 (SDL 2.0), for 2D and 3D game programming in Fortran, by interkosmos
