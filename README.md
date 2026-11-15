@@ -3100,6 +3100,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [ForImage](https://github.com/gha3mi/forimage): library for working with image files ([PNM format](https://en.wikipedia.org/wiki/Netpbm)) and managing colors effectively, by Seyed Ali Ghasemi
 
+[FortGL](https://github.com/lewisfish/FortGL): 3D software rendering in pure Fortran, by lewisfish
+
 [fortplot](https://github.com/lazy-fortran/fortplot): native plotting inspired by Python's matplotlib.pyplot and [pyplot-fortran](https://github.com/jacobwilliams/pyplot-fortran), by Christopher Albert
 
 [fortplotlib](https://github.com/krystophny/fortplotlib): native plotting inspired by [matplotlib.pyplot](https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html) and [pyplot-fortran](https://github.com/jacobwilliams/pyplot-fortran), by Christopher Albert. It also has a Python interface installable via pip that can be used as a drop-in replacement for matplotlib.pyplot for a limited set of features.
@@ -3120,8 +3122,6 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [fortran-sdl2](https://github.com/interkosmos/fortran-sdl2): collection of ISO C binding interfaces to Simple DirectMedia Layer 2.0 (SDL 2.0), for 2D and 3D game programming in Fortran, by interkosmos
 
-[FortGL](https://github.com/lewisfish/FortGL): 3D software rendering in pure Fortran, by lewisfish
-
 [fortran-grace](https://github.com/interkosmos/fortran-grace): collection of Fortran 2018 interfaces to the scientific plotting tool [Grace](https://plasma-gate.weizmann.ac.il/Grace/)/XmGrace, by interkosmos. This library covers the FORTRAN 77 and the C API of Grace. This library covers the FORTRAN 77 and the C API of Grace.
 
 [fortran-motif](https://github.com/interkosmos/fortran-motif): collection of ISO C binding interfaces to X/Motif, to create graphical user interfaces for Unix in Fortran 2008, by interkosmos. The library includes selected bindings to Xlib, Xt, Xm, and the XmHTML widget to render HTML 3.2 inside a Motif widget (optional).
@@ -3133,6 +3133,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 [Fortran Terminal (fortty)](https://github.com/awvwgk/fortty): create colorful terminal applications in Fortran, by Sebastian Ehlert
 
 [fortran-xlib](https://github.com/interkosmos/fortran-xlib): collection of ISO C binding interfaces to Xlib for Fortran 2003, by interkosmos. Currently, only a subset of Xlib is implemented. In order to work with XPM files, interfaces to libxpm are included.
+
+[fortui](https://github.com/lazy-fortran/fortui): library for creating terminal user interfaces, by Christopher Albert. It is a semantic UI framework with declarative/immediate composition over a retained incremental runtime whose design aims to realize the same application intent through native controls, custom graphics, web DOM, terminals, and headless automation while preserving platform-specific capabilities.
 
 [fplot](https://github.com/jchristopherson/fplot): provides a convenient interface for plotting with Gnuplot, by jchristopherson
 
