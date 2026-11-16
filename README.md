@@ -5606,6 +5606,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [fortran-variable-transformation](https://github.com/tkdhss111/fortran-variable-transformation): functions to perform the Yeo-Johnson and Box-Cox variable transformations, with Golden Section Search used for maximum likelihood estimation of the paramters, by Hisashi Takeda
 
+[fortvine](https://github.com/Bluerrror/fortvine): vine copulas: 111 pair-copula families with exact parameter scores, vine selection, densities, Rosenblatt transforms and simulation, by Shahab Aldin Shojaeezadeh. There is a typed Fortran API (fortvine_api), a C ABI, and thin Python and R packages that call the same compiled Fortran library — every density, fit and simulation runs in Fortran whichever language is used.
+
 [frailtypack](https://github.com/cran/frailtypack): R package with Fortran code for shared, joint (generalized) frailty models and for surrogate endpoints, by Virginie Rondeau et al.
 
 [fsklearn](https://github.com/zhoutengye/fsklearn): simple module for machine learning in Fortran using scikit-learn, by Zhouteng Ye. The module can be used to do training and prediction in Fortran, the training part uses scikit-learn library by calling Python from Fortran, and the prediction part, as it may be called frequently by a Fortran code, is written in Fortran 2003.
