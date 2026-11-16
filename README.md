@@ -5519,6 +5519,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [Jacobi Theta functions for Fortran](https://github.com/fremling/jacobi-theta-function-fortran): by Mikael Fremling
 
+[legendre_polynomial_closed_form_fortran](https://github.com/DSCF-1224/legendre_polynomial_closed_form_fortran): evaluates the Legendre polynomials Pn(x) directly from their closed-form coefficients, by DSCF_1224. Each coefficient is an exact integer over a common denominator of 2^n, computed via Python's math.comb when the .fypp source is expanded to Fortran by Fypp. 
+
 [libcoul90](https://github.com/banana-bred/libcoul90): calculates real-valued Coulomb and Bessel functions for real-valued arguments, with code by A. R. Barnett updated by banana-bred
 
 [libcoulcc](https://github.com/banana-bred/libcoulcc): calculates complex-valued Coulomb and Bessel functions for real-valued arguments, by banana-bred. An associated paper is [COULCC: A continued-fraction algorithm for Coulomb functions of complex order with complex arguments](https://github.com/banana-bred/libcoulcc), by I.J. Thompson and A.R. Barnett, <i>Computer Physics Communications</i> (1985).
