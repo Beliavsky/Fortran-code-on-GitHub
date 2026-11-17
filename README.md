@@ -3100,6 +3100,8 @@ It allows the typical components of a pathname on a POSIX system (Such as GNU/Li
 
 [ForColormap](https://github.com/vmagnin/forcolormap): small colormap library independent of any graphical toolkit, by Vincent Magnin et al. It just converts a real value to RGB values, that can be used with any toolkit offering bitmap drawing.
 
+[FORtran Easy Svg Interactive Gnuplot-like Html Tool (foresight)](https://github.com/szaghi/foresight): interactive HTML, SVG and text plots from a Fortran library or a gnuplot-style command line, by Stefano Zaghi
+
 [forIGES](https://github.com/rweed/forIGES): utilities for reading and writing a subset of the [IGES](https://en.wikipedia.org/wiki/IGES) CAD file entities described in the IGES 5.3 specification, by rweed. The focus of forIGES is on geometric entities such as NURBS curves and surfaces.
 
 [ForImage](https://github.com/gha3mi/forimage): library for working with image files ([PNM format](https://en.wikipedia.org/wiki/Netpbm)) and managing colors effectively, by Seyed Ali Ghasemi
