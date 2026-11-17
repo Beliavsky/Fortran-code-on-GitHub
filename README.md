@@ -3934,6 +3934,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [pytorch-fortran](https://github.com/alexeedm/pytorch-fortran): provides Fortran HPC codes with a simple way to use Pytorch deep learning framework, so that Fortran developers can take advantage of rich and optimized Torch ecosystem from within their existing codes.
 
+[qwen3.8-27B](https://github.com/certik/qwen3.8-27B): Qwen3.8-27B (MLX 8-bit) inference: C reference, Fortran (LFortran GPU) and CUDA, by Ondřej Čertík
+
 [rwkv.f90](https://github.com/FortAI-Hub/rwkv.f90): port by Matteo Grella and Marco Nicola of RWKV-LM, an open-source large language model initially developed in Python. RWKV is an RNN with Transformer-level LLM performance, which can also be directly trained like a GPT transformer
 
 [roseNNa](https://github.com/comp-physics/roseNNa): fast, portable, and minimally-intrusive library for neural network inference, by Ajay Bati and Spencer Bryngelson. The library is optimized Fortran and outperforms PyTorch (by a factor between 2 and 5x) for the relatively small neural networks used in physics applications, like CFD.
