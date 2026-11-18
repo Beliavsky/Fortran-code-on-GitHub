@@ -3751,6 +3751,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [foap4](https://github.com/jannisteunissen/foap4): combines [p4est: Parallel Adaptive Mesh Refinement on Forests of Octrees](https://www.p4est.org/) with OpenAcc and Fortran, by Jannis Teunissen. The goal is to build a simple and compact code for numerical simulations on quadtrees/octrees, using multiple GPUs.
 
+[FOrtran Surfaces, Solids, Immersed boundaries and Level sets (FOSSIL)](https://github.com/szaghi/FOSSIL): geometry for simulation codes: surfaces and 2-D curves read, repaired, processed and measured; signed distances and level sets; immersed-boundary queries and AMR tagging; exact cut cells and their solver support; curvilinear blocks and overset assembly; body-fitted grids; moving bodies and collision; on the CPU or bit-exact on the GPU, by Stefano Zaghi.
+
 [geompack](https://github.com/jchristopherson/geompack): modernization by Jason Christopherson of the [GEOMPACK](https://www.sciencedirect.com/science/article/abs/pii/0961355291900364) Fortran 77 library by Barry Joe for computing Delaunay triangulations
 
 [gmsh-fpm](https://github.com/gnikit/gmsh-fpm): provides access to the Fortran F2018 API of Gmsh, examples of how to use the Fortran API, and a Fortran compiled executable for Gmsh itself, by gnikit
