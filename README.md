@@ -2488,6 +2488,8 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 [nufft](https://github.com/biotrump/nufft): code for the 1D, 2D and 3D non-uniform FFTs, from biotrump
 
 ## File I/O
+[capnp-fortran](https://github.com/HaoZeke/capnp-fortran): implementation of Cap'n Proto serialization: the wire format runtime, stream framing, the packed codec, canonicalization, and a capnpc-fortran schema compiler backend, by Rohit Goswami. No C library underneath; only iso_fortran_env kinds and, for the optional C API, iso_c_binding.
+
 [cfgio](https://github.com/pkgpl/cfgio): Fortran config file parser, by pkgpl
 
 [ciftbx](https://github.com/yayahjb/ciftbx): tool box of routines for manipulating Crystallographic Information File ([CIF](https://www.iucr.org/resources/cif)) data, by Sydney R. Hall and Herbert J. Bernstein
