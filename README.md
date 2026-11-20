@@ -849,6 +849,8 @@ simulating and forecasting meteorological phenomena.
 
 [Fortran-RefCount](https://github.com/LadaF/Fortran-RefCount): simple reference counting for Fortran
 
+[fortsym](https://github.com/lazy-fortran/fortsym): computer algebra for Fortran: derive expressions symbolically, generate Fortran and CUDA kernels from them, and check generated or hand-written code against the symbolic definition, all inside the normal build and test run, by Christopher Albert
+
 [fpm-deps](https://github.com/ivan-pi/fpm-deps): generates dependency graphs of Fortran packages, by Ivan Pribec
 
 [fpm-gdb](https://github.com/urbanjost/fpm-gdb): plugin for FPM that runs gdb in vim on Linux, by urbanjost
