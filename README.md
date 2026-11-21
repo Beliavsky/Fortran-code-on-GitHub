@@ -3900,11 +3900,13 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [fortran-NeuralNetwork](https://github.com/Jonas-Finkler/fortran-NeuralNetwork): Simple implementation of a neural network, implemented in Fortran, by Jonas-Finkler
 
-[FTorch](https://github.com/Cambridge-ICCS/FTorch): code and examples on directly calling Pytorch ML models from Fortran, from Cambridge-ICCS
+[fortgp](https://github.com/lazy-fortran/fortgp): implementation of exact, zero-mean scalar Gaussian-process regression, by Christopher Albert. The squared-exponential covariance has amplitude measured as a standard deviation and one positive length per input dimension, in that input's units. 
 
 [fortran-tf-lib](https://github.com/Cambridge-ICCS/fortran-tf-lib): code and examples on directly calling Tensorflow / Pytorch / Keras ML models from Fortran, from Cambridge-ICCS
 
 [Fortran-Torch-Adapter](https://github.com/luc99hen/FTA): integrates a deep learning model into a Fortran environment, by luc99hen
+
+[FTorch](https://github.com/Cambridge-ICCS/FTorch): code and examples on directly calling Pytorch ML models from Fortran, from Cambridge-ICCS
 
 [gpf](https://github.com/ots22/gpf): small Fortran library for Gaussian process regression. It currently implements value predictions with dense Gaussian processes, and projected-process approximate Gaussian processes
 
