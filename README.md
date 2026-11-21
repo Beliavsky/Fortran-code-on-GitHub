@@ -5543,6 +5543,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [Mittag Leffler function and its derivative](https://github.com/tranqv/Mittag-Leffler-function-and-its-derivative): translated from the Matlab code of Robert Garrappa
 
+[Riemann_zeta-and-Gamma](https://github.com/Alexey-Kuznetsov-math/Riemann_zeta-and-Gamma): code for computing Riemann zeta and log Gamma functions (and their derivatives) in the complex plane, by Alexey Kuznetsov
+
 [s2hat](https://github.com/B3Dcmb/s2hat): C and Fortran for spherical harmonics operations, by B3Dcmb
 
 [sht_py](https://github.com/hottahd/sht_py): spherical harmonic expansion routine in Python+Fortran, by Hideyuki Hotta
