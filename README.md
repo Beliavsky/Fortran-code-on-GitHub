@@ -5523,6 +5523,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [Bessel-Hankel](https://github.com/TcheL/Bessel-Hankel): examples of the Hankel transformation and calculations of Bessel functions of the 1st kind and 2nd kind, their derivatives of the 1st order and 2nd order, and their zeros, by Tche Liu
 
+[Dirichlet-L-functions](https://github.com/Alexey-Kuznetsov-math/Dirichlet-L-functions): code for computing some Dirichlet L-functions (and their derivatives) in the complex plane, as well as quadrature coefficients for computing these Dirichlet L-functions in high-precision, by Alexey Kuznetsov
+
 [ellipFor](https://github.com/seantrim/ellipFor): evaluates Legendre elliptic integrals and Jacobi elliptic functions for generalized input parameters, by Sean Trim
 
 [elliptic_k_using_agm_fortran](https://github.com/DSCF-1224/elliptic_k_using_agm_fortran): library for computing the complete elliptic integral of the first kind using Arithmetic–Geometric Mean (AGM), by DSCF_1224
