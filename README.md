@@ -4115,6 +4115,8 @@ ACM Trans. Math. Softw. (2023).
 
 [rpn-calc-fortran](https://github.com/scivision/rpn-calc-fortran): Fortran 2018 Reverse Polish Notation (RPN) calculator from scivision. Over 100 functions not in standard Fortran
 
+[SciFort](https://github.com/Beliavsky/scifort): almost all algorithms of SciPy, by Beliavsky. It provides probability distributions, special functions, statistical methods, and numerical tools for integration, interpolation, optimization, linear algebra, and signals.
+
 [SciFortran](https://github.com/QcmPlab/SciFortran): A library of fortran modules and routines for scientific calculations (*in a way* just like scipy for python), from QcmPlab
 
 [SciJit](https://github.com/Shmuel-Gilbaum/SciJit): SciPy-equivalent numerical routines callable from inside numba @njit code, backed by the same Fortran packs SciPy wraps, by Shmuel Gilbaum. It includes FITPACK splines, MINPACK/L-BFGS-B/SLSQP/PRIMA optimization, and QUADPACK/ODEPACK integration. 
