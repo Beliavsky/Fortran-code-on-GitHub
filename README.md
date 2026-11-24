@@ -5531,6 +5531,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [elliptic_k_using_agm_fortran](https://github.com/DSCF-1224/elliptic_k_using_agm_fortran): library for computing the complete elliptic integral of the first kind using Arithmetic–Geometric Mean (AGM), by DSCF_1224
 
+[Error_Fns_Dawson_Intgrl_Cmplx](https://github.com/mofrehzaghloul/Error_Fns_Dawson_Intgrl_Cmplx): efficient multi-precision and multi-accuracy calculation of the error Functions (w(z) , erfcx(z), erf⁡(z), erfc(z), erfi(z)) and Dawson Integral, Daw(z), with complex arguments, by Mofreh Zaghloul
+
 [fortran-bessels](https://github.com/perazz/fortran-bessels): Fortran port (stub) of the Bessels.jl repository, by Federico Perini et al.
 
 [FORTVSH](https://github.com/justinelfritz/FORTVSH): library for Legendre polynomials and derivatives, scalar spherical harmonics (SSH) and angular derivatives, vector spherical harmonics (VSH) and angular derivatives, Clebsch-Gordan and Wigner 3j coefficients, and Gauss-Legendre quadrature support, by J.G. Elfritz
