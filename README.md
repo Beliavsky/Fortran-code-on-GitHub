@@ -5539,6 +5539,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [FORTVSH](https://github.com/justinelfritz/FORTVSH): library for Legendre polynomials and derivatives, scalar spherical harmonics (SSH) and angular derivatives, vector spherical harmonics (VSH) and angular derivatives, Clebsch-Gordan and Wigner 3j coefficients, and Gauss-Legendre quadrature support, by J.G. Elfritz
 
+[Fresnel_Integrals](https://github.com/mofrehzaghloul/Fresnel_Integrals): multiple-precision (single, double and quad) highly accurate computations of Fresnel’s sine and cosine integrals S(z) and C(z) for real (z=x) and complex (z=x+iy) arguments, by Mofreh Zaghloul. The present algorithms can calculate S(x) and C(x) up to 28 significant digits in the range xϵ[0,〖10〗^6] and S(z) and C(z) to the same accuracy with |arg z|<π/2.
+
 [gamma_f77](https://github.com/ckormanyos/gamma_f77): implements the real-valued Gamma function in quadruple-precision, by Christopher Kormanyos
 
 [Jacobi Theta functions for Fortran](https://github.com/fremling/jacobi-theta-function-fortran): by Mikael Fremling
