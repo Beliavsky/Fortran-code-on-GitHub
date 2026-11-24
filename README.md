@@ -5521,6 +5521,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [appell](https://github.com/cran/appell): R package with Fortran code to compute [Appell's F1 hypergeometric function](https://reference.wolfram.com/language/ref/AppellF1.html)
 
+[Bessel_Cmplx](https://github.com/mofrehzaghloul/Bessel_Cmplx): routines for computing Bessel and modified Bessel functions of complex argument and real order, by Mofreh Zaghloul and Steven G. Johnson. The package evaluates I_nu(z): modified Bessel function of the first kind, J_nu(z): Bessel function of the first kind, K_nu(z): modified Bessel function of the second kind, and Y_nu(z): Bessel function of the second kind.
+
 [BesselEval](https://github.com/JamesCBremerJr/BesselEval): rapidly evaluates of Bessel functions J_nu and Y_nu of the first and seconds kinds of nonnegative real orders and positive real arguments, based on precomputed expansions, with the algorithm described in a preprint, [An algorithm for the numerical evaluation of Bessel function real orders and arguments](https://arxiv.org/abs/1705.07820), by James Bremer
 
 [Bessel-Hankel](https://github.com/TcheL/Bessel-Hankel): examples of the Hankel transformation and calculations of Bessel functions of the 1st kind and 2nd kind, their derivatives of the 1st order and 2nd order, and their zeros, by Tche Liu
