@@ -3924,6 +3924,8 @@ useful results regarding the thermodynamics and the structural properties of the
 
 [mlxanes](https://github.com/tneth/mlxanes): machine learning x-ray absorption near edge structure: An OpenMP parallelised multivariate linear regression Fortran program for predicting XANES spectra from an xyz file, by tneth
 
+[mlx-fortran](https://github.com/hael/mlx-fortran): interface to [MLX](https://github.com/ml-explore/mlx), Apple's array framework for the unified CPU/GPU memory of Apple silicon, built on MLX's C API [mlx-c](https://github.com/ml-explore/mlx-c), by Hans Elmlund
+
 [nerofort](https://github.com/rae-ra/nerofort): implements a convolutional neural network (CNN), by Rares Polenciuc, inspired by the instructions provided in [Python and Machine Learning](https://pythonandml.github.io/dlbook/content/intro.html)
 
 [NetsPredict](https://github.com/vidaurre/NetsPredict): Matlab code by Diego Vidaurre and Steve Smith calling Fortran code for elastic net with squared-error loss. It makes cross-validation predictions with elastic net, taking into account the structure of the data to organise the cross-validation folds (necessary e.g. when the data points are subjects and the subjects are family-related).
