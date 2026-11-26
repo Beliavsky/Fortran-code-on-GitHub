@@ -3747,6 +3747,8 @@ useful results regarding the thermodynamics and the structural properties of the
 [usrmat_LS-Dyna_Fortran](https://github.com/jfriedlein/usrmat_LS-Dyna_Fortran): basics to implement user-defined materials (usrmat, umat, utan) in [LS-Dyna](https://www.lstc.com/products/ls-dyna) with Fortran, by jfriedlein
 
 ## Mesh Generation
+[amiller-geometry](https://github.com/Beliavsky/amiller-geometry): Alan Miller's 2-D convex-hull routine `envelope`, packaged by Beliavsky. The original routine returns the indices of the polygon vertices in clockwise order, and this package preserves the external envelope procedure and also provides a module whose convex_hull wrapper allocates the returned index vector automatically and handles zero- and one-point inputs.
+
 [EqualSpherePartition](https://github.com/GongZheng-Justin/EqualSpherePartition): partitions the surface of a sphere into regions of equal area, by Zheng Gong. Reference: Leopardi P. [A partition of the unit sphere into regions of equal area and small diameter](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.90.2213)[J]. Electronic Transactions on Numerical Analysis Etna, 2006, 25(1):2006.
 
 [FEconv](https://github.com/victorsndvg/FEconv): utility to convert between several mesh and FE field formats, like ANSYS mesh files (.msh), MD Nastran input files (.bdf), I-Deas Universal (.unv), VTK files (.vtk), etc. 
