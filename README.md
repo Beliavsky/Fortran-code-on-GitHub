@@ -5588,6 +5588,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 
 [amber](https://github.com/octoflar/amber): evaluate multivariate Bernstein polynomials for multivariate polynomial regression using de Casteljau's algorithm, by R. Quast
 
+[amiller-statistics](https://github.com/Beliavsky/amiller-statistics): statistical routines by Alan Miller, packaged by Beliavsky. It includes updating weighted linear least squares, best-subset and sequential subset-selection helpers, grouped-binomial logistic regression, nonnegative least squares after an LSQ reduction, ridge/regularized regression, online mean and sum-of-squares update/downdate/replace, exponentially weighted mean and variance, median selection without a full sort, and a gamma shape maximum-likelihood helper.
+
 [asurv](https://github.com/rsnemmen/asurv): suite of statistical methods for the analysis of censored data; i.e. data which are known to lie above or below some limit, by rsnemmen
 
 [Bayesian Correlation Testing (BCT)](https://github.com/jomulder/BCT): code associated with the paper [Bayes factor testing of equality and order constraints on measures of association in social research](https://www.tandfonline.com/doi/full/10.1080/02664763.2021.1992360), by Joris Mulder and John P. T. M. Gelissen, Journal of Applied Statistics (2023)
