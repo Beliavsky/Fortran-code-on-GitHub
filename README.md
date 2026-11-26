@@ -4140,6 +4140,8 @@ ACM Trans. Math. Softw. (2023).
 [Warton Legacy](https://github.com/daoudclarke/wartonlegacy): RSA code scrambling and unscrambling, code generating via robust prime construction, code breaking and secret sharing, by Robert Warton. Routines in number theory and algebraic numbers exist both within programs and separately.
 
 ## Numerical Integration (Quadrature)
+[amiller-quadrature](https://github.com/Beliavsky/amiller-quadrature): Hermite and half-Hermite Gaussian quadrature routines by Alan Miller, packaged by Beliavsky
+
 [dcuhre](https://github.com/Zaneham/dcuhre): multidimensional adaptive integration, TOMS Algorithm 698 by Berntsen et al., modernized by Zane Hambly
 
 [F90-Extrapolation-Integration](https://github.com/irukoa/F90-Extrapolation-Integration): implements the Richardson extrapolation method on 1-, 2- and 3-dimensional scalar or vector integrals, by Álvaro R. Puente-Uriona. It specializes in providing an adaptive method, based on extrapolation over the trapezium method, to obtain increasingly accurate values for, depending only on the number of sample points in which the integrand is evaluated. A related project is [Extrapolation_Integration](https://github.com/irukoa/Extrapolation_Integration).
