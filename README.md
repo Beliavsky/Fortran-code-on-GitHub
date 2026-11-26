@@ -5398,6 +5398,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 [Yet Another Many-Body cOde (YAMBO)](https://github.com/yambo-code/yambo): implements Many-Body Perturbation Theory (MBPT) methods (such as GW and BSE) and Time-Dependent Density Functional Theory (TDDFT), which allows for accurate prediction of fundamental properties as band gaps of semiconductors, band alignments, defect quasi-particle energies, optics and out-of-equilibrium properties of materials, by Davide Sangalli et al.
 
 ## Random Number Generation
+[amiller-random](https://github.com/Beliavsky/amiller-random): uniform and non-uniform random number generators by Alan Miller, packaged by Beliavsky. Included are L'Ecuyer Taus88 combined Tausworthe generator, L'Ecuyer LFSR113 generator, L'Ecuyer LFSR258 64-bit generator, Marsaglia-Bray polar normal generator, Zipf/Zeta random variates, and generators of gamma, chi-square, exponential, Weibull, beta, t, multivariate normal, Poisson, binomial, negative-binomial, von Mises and Cauchy deviates, plus random permutations.
+
 [dSFMT_F03_interface](https://github.com/jsspencer/dSFMT_F03_interface): interface by James Spencer to [dSFMT](https://github.com/MersenneTwister-Lab/dSFMT) (double precision SIMD-oriented Fast Mersenne Twister) pseudo-random number generator by Mutsuo Saito and Makoto Matsumoto
 
 [Knuth-FLRNG](https://github.com/marcoxa/Knuth-FLRNG): Fibonacci Lagged integer and double precision RNGs from Section 3.6 of Volume 2 of TAOCP (Semi-numerical Algorithms); slightly reformatted and changed by Marco Antoniotti from the versions downloadable from the [code section of TAOCP site](https://www-cs-faculty.stanford.edu/~knuth/programs.html#rng)
