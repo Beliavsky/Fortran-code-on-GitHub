@@ -5487,6 +5487,8 @@ schuurman-group. Also [General Reference Configuration Interaction package (GRAC
 [mod_pcreposix](https://github.com/tranqv/mod_pcreposix): module for working (in Unix) with the Perl compatible regular expressions, by tranqv
 
 ## Root Finding
+[amiller-polynomial-zeros](https://github.com/Beliavsky/amiller-polynomial-zeros): Aberth polynomial-root algorithm of Dario A. Bini, adapted to the quadruple-precision interfaces used by Alan Miller, packaged by Beliavsky
+
 [FORTRAN-Roots](https://github.com/bryand4140/FORTRAN-Roots): subroutines to find the roots of a single-valued function within a bounded interval, using a combination of Brent's method, the secant method, and interpolation, and to find the real and complex roots of an nth-degree polynomial, by Bryan Durham
 
 [GetRootsF](https://github.com/physicsfan/GetRootsF): routines for finding the roots of linear/non-linear equations, with or without derivative information, by Andrew Senchuk
